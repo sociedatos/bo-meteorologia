@@ -40,7 +40,8 @@ DF_COLUMNS = [
     'precipitacion'
 ]
 
-def update():
+
+def download_latest():
     time_to = pd.to_datetime('now')
     time_from = time_to - pd.Timedelta(days=QUERY_TIMEDIFF)
 
@@ -61,6 +62,7 @@ def update():
         )
 
         req = requests.get(DOWNLOAD_URL, timeout=QUERY_TIMEOUT)
+        print(req.content)
 
         req_io = io.BytesIO(req.content)
         req_df = gpd.read_file(req_io)
@@ -100,6 +102,7 @@ def format_df(update_df):
 
     return update_df
 
+
 def merge_df(update_df):
     update_groups = update_df.groupby(
         pd.Grouper(key='fecha', freq='M')
@@ -134,8 +137,9 @@ def merge_df(update_df):
 
         month_update_df.to_csv(file_name)
 
+
 if __name__ == '__main__':
-    update_df = update()
+    update_df = download_latest()
     update_df = format_df(update_df)
 
     merge_df(update_df)
