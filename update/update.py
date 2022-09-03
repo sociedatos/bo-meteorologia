@@ -60,9 +60,9 @@ def download_latest():
             headers=QUERY_HEADERS,
             timeout=QUERY_TIMEOUT
         )
+        print(req.content)
 
         req = requests.get(DOWNLOAD_URL, timeout=QUERY_TIMEOUT)
-        print(req.content)
 
         req_io = io.BytesIO(req.content)
         req_df = gpd.read_file(req_io)
