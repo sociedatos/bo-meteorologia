@@ -62,6 +62,10 @@ def download_latest():
         )
         print(req.content)
 
+        req = req.json()
+        if 'success' not in req or not req['success']:
+            continue
+
         req = requests.get(DOWNLOAD_URL, timeout=QUERY_TIMEOUT)
 
         req_io = io.BytesIO(req.content)
