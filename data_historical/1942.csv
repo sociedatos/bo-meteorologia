@@ -1,0 +1,1807 @@
+fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,humedad_relativa_minima,precipitacion
+1942-01-01,San Calixto,20.0,7.6,,,
+1942-01-01,Vallegrande SENAMHI,,,91.0,91.0,3.0
+1942-01-02,San Calixto,20.4,7.0,,,
+1942-01-02,Vallegrande SENAMHI,,,91.0,91.0,5.0
+1942-01-03,Vallegrande SENAMHI,,,87.0,87.0,
+1942-01-04,Vallegrande SENAMHI,,,95.0,95.0,4.0
+1942-01-05,San Calixto,18.2,7.1,,,1.5
+1942-01-05,Vallegrande SENAMHI,,,86.0,86.0,
+1942-01-06,San Calixto,14.7,6.3,,,5.6
+1942-01-06,Vallegrande SENAMHI,,,81.0,81.0,
+1942-01-07,San Calixto,13.0,5.5,,,
+1942-01-07,Vallegrande SENAMHI,,,63.0,63.0,
+1942-01-08,San Calixto,17.0,5.1,,,
+1942-01-08,Vallegrande SENAMHI,,,96.0,96.0,
+1942-01-09,San Calixto,20.3,5.4,,,
+1942-01-09,Vallegrande SENAMHI,,,68.0,68.0,
+1942-01-10,San Calixto,17.7,6.9,,,
+1942-01-10,Vallegrande SENAMHI,,,83.0,83.0,
+1942-01-11,San Calixto,,,,,3.8
+1942-01-11,Vallegrande SENAMHI,,,83.0,83.0,3.0
+1942-01-12,San Calixto,13.0,5.4,,,
+1942-01-12,Vallegrande SENAMHI,,,81.0,81.0,1.0
+1942-01-13,San Calixto,20.4,6.8,,,
+1942-01-13,Vallegrande SENAMHI,,,87.0,87.0,
+1942-01-14,San Calixto,19.1,5.8,,,0.5
+1942-01-14,Vallegrande SENAMHI,,,91.0,91.0,
+1942-01-15,San Calixto,22.0,5.8,,,3.0
+1942-01-15,Vallegrande SENAMHI,,,78.0,78.0,26.0
+1942-01-16,San Calixto,18.3,7.1,,,1.0
+1942-01-16,Vallegrande SENAMHI,,,98.0,98.0,
+1942-01-17,San Calixto,15.4,7.0,,,
+1942-01-17,Vallegrande SENAMHI,,,89.0,89.0,
+1942-01-18,San Calixto,20.2,6.8,,,
+1942-01-18,Vallegrande SENAMHI,,,81.0,81.0,
+1942-01-19,Vallegrande SENAMHI,,,92.0,92.0,
+1942-01-20,San Calixto,19.3,6.6,,,
+1942-01-20,Vallegrande SENAMHI,,,91.0,91.0,2.0
+1942-01-21,San Calixto,20.0,7.0,,,10.6
+1942-01-21,Vallegrande SENAMHI,,,96.0,96.0,
+1942-01-22,San Calixto,18.9,8.2,,,10.0
+1942-01-22,Vallegrande SENAMHI,,,87.0,87.0,
+1942-01-23,San Calixto,19.4,8.6,,,3.5
+1942-01-23,Vallegrande SENAMHI,,,91.0,91.0,30.0
+1942-01-24,San Calixto,15.4,7.1,,,
+1942-01-24,Vallegrande SENAMHI,,,92.0,92.0,
+1942-01-25,Vallegrande SENAMHI,,,89.0,89.0,
+1942-01-26,San Calixto,18.8,7.8,,,
+1942-01-26,Vallegrande SENAMHI,,,96.0,96.0,
+1942-01-27,San Calixto,14.4,7.8,,,
+1942-01-27,Vallegrande SENAMHI,,,92.0,92.0,5.0
+1942-01-28,San Calixto,21.0,6.6,,,
+1942-01-28,Vallegrande SENAMHI,,,96.0,96.0,18.0
+1942-01-29,San Calixto,16.3,6.1,,,2.0
+1942-01-29,Vallegrande SENAMHI,,,88.0,88.0,3.0
+1942-01-30,San Calixto,16.3,7.8,,,2.5
+1942-01-30,Vallegrande SENAMHI,,,99.0,99.0,
+1942-01-31,San Calixto,12.6,7.0,,,
+1942-01-31,Vallegrande SENAMHI,,,96.0,96.0,
+1942-02-02,San Calixto,20.0,5.3,85.0,24.0,
+1942-02-03,San Calixto,21.0,7.0,96.0,30.0,3.3
+1942-02-04,San Calixto,20.2,8.0,88.0,26.0,
+1942-02-05,San Calixto,14.7,8.0,90.0,49.0,
+1942-02-06,San Calixto,16.8,5.3,90.0,36.0,
+1942-02-07,San Calixto,16.8,5.0,94.0,35.0,
+1942-02-09,San Calixto,,,,,18.5
+1942-02-10,San Calixto,14.4,7.2,83.0,43.0,14.0
+1942-02-11,San Calixto,17.8,5.3,85.0,32.0,
+1942-02-12,San Calixto,18.0,7.9,76.0,30.0,15.0
+1942-02-13,San Calixto,16.0,6.9,86.0,40.0,
+1942-02-14,San Calixto,19.4,8.4,89.0,30.0,
+1942-02-19,San Calixto,21.4,7.8,91.0,25.0,
+1942-02-20,San Calixto,21.6,8.0,94.0,24.0,
+1942-02-21,San Calixto,21.6,8.0,91.0,20.0,
+1942-02-23,San Calixto,22.0,8.8,91.0,24.0,5.0
+1942-02-24,San Calixto,18.4,7.8,83.0,29.0,
+1942-02-25,San Calixto,19.4,7.2,80.0,35.0,0.3
+1942-02-26,San Calixto,18.4,7.7,92.0,39.0,
+1942-02-27,San Calixto,16.8,7.9,90.0,44.0,
+1942-02-28,San Calixto,18.0,7.4,92.0,33.0,
+1942-03-01,San Calixto,17.4,5.9,93.0,36.0,
+1942-03-01,Vallegrande SENAMHI,,,75.0,75.0,
+1942-03-02,San Calixto,17.0,6.1,89.0,35.0,
+1942-03-02,Vallegrande SENAMHI,,,82.0,82.0,
+1942-03-03,San Calixto,21.4,5.6,66.0,16.0,
+1942-03-03,Vallegrande SENAMHI,,,92.0,92.0,
+1942-03-04,San Calixto,20.4,4.4,40.0,16.0,0.2
+1942-03-04,Vallegrande SENAMHI,,,82.0,82.0,3.5
+1942-03-05,San Calixto,17.6,7.6,90.0,25.0,
+1942-03-05,Vallegrande SENAMHI,,,49.0,49.0,2.5
+1942-03-06,San Calixto,18.3,6.8,94.0,36.0,1.0
+1942-03-06,Vallegrande SENAMHI,,,88.0,88.0,1.0
+1942-03-07,San Calixto,18.2,7.0,95.0,36.0,
+1942-03-07,Vallegrande SENAMHI,,,90.0,90.0,
+1942-03-08,Vallegrande SENAMHI,,,83.0,83.0,5.0
+1942-03-09,San Calixto,18.2,6.4,98.0,35.0,
+1942-03-09,Vallegrande SENAMHI,,,77.0,77.0,
+1942-03-10,San Calixto,16.4,7.0,93.0,40.0,0.2
+1942-03-10,Vallegrande SENAMHI,,,98.0,98.0,14.0
+1942-03-11,San Calixto,14.8,6.9,93.0,41.0,
+1942-03-11,Vallegrande SENAMHI,,,87.0,87.0,3.0
+1942-03-12,San Calixto,20.2,6.2,79.0,20.0,
+1942-03-12,Vallegrande SENAMHI,,,89.0,89.0,
+1942-03-13,San Calixto,21.3,7.0,96.0,17.0,7.0
+1942-03-13,Vallegrande SENAMHI,,,87.0,87.0,
+1942-03-14,San Calixto,17.8,5.2,95.0,36.0,
+1942-03-14,Vallegrande SENAMHI,,,84.0,84.0,
+1942-03-15,Vallegrande SENAMHI,,,91.0,91.0,
+1942-03-16,San Calixto,16.8,5.2,84.0,42.0,1.0
+1942-03-16,Vallegrande SENAMHI,,,91.0,91.0,31.0
+1942-03-17,San Calixto,18.2,5.9,,36.0,
+1942-03-17,Vallegrande SENAMHI,,,93.0,93.0,
+1942-03-18,Vallegrande SENAMHI,,,90.0,90.0,
+1942-03-19,San Calixto,20.6,7.8,93.0,25.0,0.3
+1942-03-19,Vallegrande SENAMHI,,,92.0,92.0,
+1942-03-20,San Calixto,18.4,6.9,90.0,30.0,
+1942-03-20,Vallegrande SENAMHI,,,88.0,88.0,
+1942-03-21,San Calixto,22.0,6.6,94.0,15.0,
+1942-03-21,Vallegrande SENAMHI,,,89.0,89.0,
+1942-03-22,Vallegrande SENAMHI,,,91.0,91.0,
+1942-03-23,San Calixto,18.2,5.8,80.0,32.0,0.2
+1942-03-23,Vallegrande SENAMHI,,,95.0,95.0,
+1942-03-24,San Calixto,16.6,5.8,68.0,41.0,
+1942-03-24,Vallegrande SENAMHI,,,90.0,90.0,22.0
+1942-03-25,San Calixto,18.4,4.0,93.0,28.0,
+1942-03-25,Vallegrande SENAMHI,,,96.0,96.0,8.0
+1942-03-26,San Calixto,20.0,5.6,94.0,25.0,
+1942-03-26,Vallegrande SENAMHI,,,93.0,93.0,
+1942-03-27,San Calixto,20.0,5.6,88.0,30.0,
+1942-03-27,Vallegrande SENAMHI,,,97.0,97.0,
+1942-03-28,San Calixto,17.6,6.3,90.0,35.0,1.0
+1942-03-28,Vallegrande SENAMHI,,,98.0,98.0,
+1942-03-29,San Calixto,16.0,6.4,75.0,40.0,
+1942-03-29,Vallegrande SENAMHI,,,97.0,97.0,7.0
+1942-03-30,Vallegrande SENAMHI,,,89.0,89.0,
+1942-03-31,San Calixto,15.6,5.4,94.0,38.0,
+1942-03-31,Vallegrande SENAMHI,,,88.0,88.0,
+1942-04-01,Vallegrande SENAMHI,,,68.0,68.0,
+1942-04-02,Vallegrande SENAMHI,,,50.0,50.0,
+1942-04-03,Vallegrande SENAMHI,,,77.0,77.0,
+1942-04-04,Vallegrande SENAMHI,,,71.0,71.0,
+1942-04-05,Vallegrande SENAMHI,,,25.0,25.0,
+1942-04-06,Challapata (Tacagua),,,,,1.8
+1942-04-06,Riberalta SENAMHI,,,,,50.0
+1942-04-06,Vallegrande SENAMHI,,,91.0,91.0,27.0
+1942-04-07,San Calixto,12.3,6.9,82.0,53.0,5.5
+1942-04-07,Challapata (Tacagua),,,,,13.0
+1942-04-07,Vallegrande SENAMHI,,,43.0,43.0,
+1942-04-07,Riberalta Aeropuerto,,,,,50.0
+1942-04-08,San Calixto,16.6,4.2,86.0,43.0,3.5
+1942-04-08,Challapata (Tacagua),,,,,1.0
+1942-04-08,Vallegrande SENAMHI,,,80.0,80.0,
+1942-04-09,San Calixto,12.6,5.8,86.0,53.0,30.0
+1942-04-09,Challapata (Tacagua),,,,,2.1
+1942-04-09,Vallegrande SENAMHI,,,90.0,90.0,
+1942-04-10,San Calixto,18.0,3.6,89.0,28.0,
+1942-04-11,San Calixto,16.4,5.1,85.0,43.0,
+1942-04-11,Vallegrande SENAMHI,,,87.0,87.0,
+1942-04-12,Vallegrande SENAMHI,,,90.0,90.0,
+1942-04-13,San Calixto,15.6,6.8,92.0,38.0,
+1942-04-13,Riberalta SENAMHI,,,,,50.0
+1942-04-13,Vallegrande SENAMHI,,,87.0,87.0,
+1942-04-14,San Calixto,19.3,7.0,86.0,25.0,
+1942-04-14,Vallegrande SENAMHI,,,56.0,56.0,7.0
+1942-04-14,Riberalta Aeropuerto,,,,,50.0
+1942-04-15,San Calixto,20.0,4.1,74.0,25.0,
+1942-04-15,Vallegrande SENAMHI,,,62.0,62.0,
+1942-04-16,San Calixto,17.8,6.4,93.0,17.0,
+1942-04-16,Riberalta SENAMHI,,,,,98.0
+1942-04-16,Vallegrande SENAMHI,,,69.0,69.0,
+1942-04-16,Riberalta Aeropuerto,,,,,98.0
+1942-04-17,San Calixto,18.4,4.2,80.0,25.0,
+1942-04-17,Vallegrande SENAMHI,,,90.0,90.0,
+1942-04-18,San Calixto,20.4,2.8,72.0,10.0,
+1942-04-18,Vallegrande SENAMHI,,,90.0,90.0,
+1942-04-19,Vallegrande SENAMHI,,,66.0,66.0,7.0
+1942-04-20,San Calixto,15.8,5.4,93.0,40.0,
+1942-04-20,Vallegrande SENAMHI,,,45.0,45.0,
+1942-04-21,San Calixto,18.6,6.4,93.0,28.0,
+1942-04-21,Vallegrande SENAMHI,,,83.0,83.0,
+1942-04-22,San Calixto,19.4,5.0,92.0,30.0,
+1942-04-22,Vallegrande SENAMHI,,,86.0,86.0,3.0
+1942-04-23,San Calixto,18.0,4.0,74.0,38.0,
+1942-04-23,Vallegrande SENAMHI,,,93.0,93.0,
+1942-04-24,San Calixto,19.2,4.3,81.0,30.0,
+1942-04-24,Vallegrande SENAMHI,,,87.0,87.0,
+1942-04-25,San Calixto,19.4,5.0,85.0,15.0,
+1942-04-25,Vallegrande SENAMHI,,,91.0,91.0,
+1942-04-26,Vallegrande SENAMHI,,,44.0,44.0,
+1942-04-27,San Calixto,16.0,4.9,84.0,40.0,
+1942-04-27,Vallegrande SENAMHI,,,91.0,91.0,
+1942-04-28,San Calixto,15.4,5.9,96.0,40.0,0.2
+1942-04-28,Vallegrande SENAMHI,,,74.0,74.0,
+1942-04-29,San Calixto,13.4,6.0,90.0,50.0,
+1942-04-29,Vallegrande SENAMHI,,,91.0,91.0,
+1942-04-30,San Calixto,20.8,3.8,90.0,20.0,
+1942-04-30,Vallegrande SENAMHI,,,64.0,64.0,
+1942-05-01,San Calixto,14.0,4.2,92.0,40.0,
+1942-05-01,Vallegrande SENAMHI,,,68.0,68.0,
+1942-05-01,Potosi Los Pinos,15.0,2.0,,,
+1942-05-02,San Calixto,20.3,4.4,86.0,20.0,
+1942-05-02,Potosi Los Pinos,16.0,3.0,,,
+1942-05-03,San Calixto,20.6,5.9,63.0,25.0,
+1942-05-03,Potosi Los Pinos,16.0,5.0,,,
+1942-05-04,Vallegrande SENAMHI,,,74.0,74.0,
+1942-05-04,Potosi Los Pinos,14.0,2.0,,,
+1942-05-05,San Calixto,18.4,8.0,85.0,25.0,
+1942-05-05,Vallegrande SENAMHI,,,98.0,98.0,
+1942-05-05,Potosi Los Pinos,16.0,3.0,,,
+1942-05-06,San Calixto,19.8,4.9,75.0,30.0,
+1942-05-06,Vallegrande SENAMHI,,,98.0,98.0,
+1942-05-06,Potosi Los Pinos,14.0,3.0,,,
+1942-05-07,San Calixto,15.2,6.4,86.0,40.0,
+1942-05-07,Vallegrande SENAMHI,,,94.0,94.0,
+1942-05-07,Potosi Los Pinos,15.0,2.0,,,
+1942-05-08,San Calixto,18.2,4.4,90.0,24.0,
+1942-05-08,Vallegrande SENAMHI,,,84.0,84.0,
+1942-05-08,Potosi Los Pinos,14.0,1.0,,,
+1942-05-09,Challapata (Tacagua),,,,,1.1
+1942-05-09,Vallegrande SENAMHI,,,59.0,59.0,
+1942-05-09,Potosi Los Pinos,15.0,2.0,,,
+1942-05-10,Vallegrande SENAMHI,,,76.0,76.0,
+1942-05-10,Potosi Los Pinos,15.0,3.0,,,
+1942-05-11,San Calixto,19.2,4.0,78.0,20.0,
+1942-05-11,Vallegrande SENAMHI,,,93.0,93.0,
+1942-05-11,Potosi Los Pinos,16.0,4.0,,,
+1942-05-12,San Calixto,16.0,5.4,90.0,30.0,
+1942-05-12,Vallegrande SENAMHI,,,75.0,75.0,
+1942-05-12,Potosi Los Pinos,14.0,1.0,,,
+1942-05-13,San Calixto,19.0,2.0,87.0,,
+1942-05-13,Vallegrande SENAMHI,,,97.0,97.0,
+1942-05-13,Potosi Los Pinos,14.0,2.0,,,
+1942-05-14,San Calixto,21.2,3.7,73.0,12.0,
+1942-05-14,Vallegrande SENAMHI,,,95.0,95.0,
+1942-05-14,Potosi Los Pinos,16.0,2.0,,,
+1942-05-14,Pocoata,17.0,,,,
+1942-05-15,San Calixto,20.0,3.2,60.0,15.0,
+1942-05-15,Vallegrande SENAMHI,,,50.0,50.0,
+1942-05-15,Potosi Los Pinos,15.0,2.0,,,
+1942-05-15,Pocoata,19.5,-3.0,,,
+1942-05-16,San Calixto,21.0,2.2,80.0,20.0,
+1942-05-16,Vallegrande SENAMHI,,,93.0,93.0,
+1942-05-16,Potosi Los Pinos,15.0,0.0,,,
+1942-05-16,Pocoata,18.0,-2.0,,,
+1942-05-17,Vallegrande SENAMHI,,,90.0,90.0,
+1942-05-17,Potosi Los Pinos,15.0,1.0,,,
+1942-05-17,Pocoata,20.0,-0.5,,,4.0
+1942-05-18,San Calixto,17.0,3.9,87.0,18.0,
+1942-05-18,Vallegrande SENAMHI,,,80.0,80.0,
+1942-05-18,Potosi Los Pinos,15.0,4.0,,,
+1942-05-18,Pocoata,18.0,3.0,,,
+1942-05-19,San Calixto,18.2,0.2,44.0,5.0,
+1942-05-19,Riberalta SENAMHI,,,,,51.0
+1942-05-19,Vallegrande SENAMHI,,,75.0,75.0,
+1942-05-19,Potosi Los Pinos,11.0,-2.0,,,
+1942-05-19,Pocoata,15.5,-6.0,,,
+1942-05-20,San Calixto,17.6,0.6,60.0,5.0,
+1942-05-20,Vallegrande SENAMHI,,,79.0,79.0,
+1942-05-20,Potosi Los Pinos,12.0,-1.0,,,
+1942-05-20,Riberalta Aeropuerto,,,,,51.0
+1942-05-20,Pocoata,17.0,-6.0,,,
+1942-05-21,San Calixto,17.8,1.2,65.0,10.0,
+1942-05-21,Vallegrande SENAMHI,,,88.0,88.0,
+1942-05-21,Potosi Los Pinos,12.0,0.0,,,
+1942-05-21,Pocoata,17.0,-5.5,,,
+1942-05-22,San Calixto,17.0,1.8,40.0,10.0,
+1942-05-22,Vallegrande SENAMHI,,,74.0,74.0,
+1942-05-22,Potosi Los Pinos,13.0,-1.0,,,
+1942-05-22,Pocoata,16.0,-7.0,,,
+1942-05-23,San Calixto,19.0,1.4,49.0,12.0,
+1942-05-23,Vallegrande SENAMHI,,,85.0,85.0,
+1942-05-23,Potosi Los Pinos,12.0,-1.0,,,
+1942-05-23,Pocoata,17.5,-6.5,,,
+1942-05-24,Vallegrande SENAMHI,,,77.0,77.0,
+1942-05-24,Potosi Los Pinos,13.0,-1.0,,,
+1942-05-24,Pocoata,18.0,-4.0,,,
+1942-05-25,San Calixto,19.6,2.8,50.0,15.0,
+1942-05-25,Vallegrande SENAMHI,,,71.0,71.0,
+1942-05-25,Potosi Los Pinos,15.0,1.0,,,
+1942-05-25,Pocoata,20.0,-6.0,,,
+1942-05-26,Vallegrande SENAMHI,,,72.0,72.0,
+1942-05-26,Potosi Los Pinos,15.0,0.0,,,
+1942-05-26,Pocoata,20.5,-5.0,,,
+1942-05-27,San Calixto,17.6,1.2,80.0,5.0,
+1942-05-27,Vallegrande SENAMHI,,,97.0,97.0,
+1942-05-27,Potosi Los Pinos,14.0,-2.0,,,
+1942-05-27,Pocoata,17.0,-6.0,,,
+1942-05-28,Vallegrande SENAMHI,,,92.0,92.0,
+1942-05-28,Potosi Los Pinos,14.0,-2.0,,,
+1942-05-28,Pocoata,18.0,-4.0,,,
+1942-05-29,San Calixto,18.0,2.2,80.0,15.0,
+1942-05-29,Vallegrande SENAMHI,,,93.0,93.0,
+1942-05-29,Potosi Los Pinos,13.0,0.0,,,
+1942-05-29,Pocoata,16.0,-6.0,,,
+1942-05-30,San Calixto,16.8,2.1,90.0,22.0,
+1942-05-30,Vallegrande SENAMHI,,,91.0,91.0,
+1942-05-30,Potosi Los Pinos,13.0,-1.0,,,
+1942-05-30,Pocoata,16.0,-5.0,,,
+1942-05-31,Vallegrande SENAMHI,,,83.0,83.0,
+1942-05-31,Potosi Los Pinos,13.0,0.0,,,
+1942-05-31,Pocoata,17.0,-6.5,,,
+1942-06-01,Challapata (Tacagua),,,,,0.2
+1942-06-01,Potosi Los Pinos,13.0,1.0,,,7.0
+1942-06-01,Pocoata,15.0,3.5,,,
+1942-06-02,San Calixto,17.0,1.0,85.0,18.0,
+1942-06-02,Challapata (Tacagua),,,,,2.5
+1942-06-02,Potosi Los Pinos,13.0,1.0,,,
+1942-06-02,Pocoata,15.0,1.0,,,3.5
+1942-06-03,Potosi Los Pinos,11.0,1.0,,,
+1942-06-03,Pocoata,16.0,0.0,,,
+1942-06-04,Vallegrande SENAMHI,,,,,0.2
+1942-06-04,Potosi Los Pinos,9.0,0.0,,,
+1942-06-04,Pocoata,17.0,-1.0,,,
+1942-06-05,Redencion Pampa,16.1,10.6,,,
+1942-06-05,Potosi Los Pinos,9.0,-2.0,,,
+1942-06-05,Pocoata,18.0,-5.0,,,
+1942-06-06,Redencion Pampa,18.9,6.7,,,
+1942-06-06,Potosi Los Pinos,9.0,-3.0,,,
+1942-06-06,Pocoata,17.0,-5.0,,,
+1942-06-07,Redencion Pampa,20.6,5.0,,,
+1942-06-07,Potosi Los Pinos,10.0,-3.0,,,
+1942-06-07,Pocoata,18.0,3.0,,,
+1942-06-08,Redencion Pampa,16.7,10.6,,,
+1942-06-08,San Calixto,15.8,1.0,44.0,15.0,
+1942-06-08,Riberalta SENAMHI,,,,,50.0
+1942-06-08,Potosi Los Pinos,9.0,-4.0,,,
+1942-06-08,Pocoata,16.0,-4.5,,,
+1942-06-09,Redencion Pampa,17.2,10.6,,,
+1942-06-09,San Calixto,17.2,0.4,59.0,25.0,
+1942-06-09,Riberalta SENAMHI,,,,,50.0
+1942-06-09,Potosi Los Pinos,9.0,-2.0,,,
+1942-06-09,Riberalta Aeropuerto,,,,,50.0
+1942-06-09,Pocoata,16.0,-1.5,,,3.5
+1942-06-10,Redencion Pampa,15.6,7.8,,,
+1942-06-10,San Calixto,15.3,4.0,92.0,25.0,
+1942-06-10,Potosi Los Pinos,10.0,-2.0,,,
+1942-06-10,Riberalta Aeropuerto,,,,,50.0
+1942-06-10,Pocoata,15.0,1.0,,,
+1942-06-11,Redencion Pampa,18.9,5.6,,,
+1942-06-11,San Calixto,15.0,2.9,96.0,15.0,
+1942-06-11,Potosi Los Pinos,9.0,-2.0,,,
+1942-06-11,Pocoata,16.0,-1.5,,,
+1942-06-12,Redencion Pampa,22.2,10.0,,,
+1942-06-12,Potosi Los Pinos,10.0,0.0,,,
+1942-06-12,Pocoata,11.0,0.0,,,6.0
+1942-06-13,Redencion Pampa,16.7,10.6,,,
+1942-06-13,San Calixto,15.2,2.9,83.0,30.0,
+1942-06-13,Potosi Los Pinos,6.0,-2.0,,,
+1942-06-13,Pocoata,14.0,1.0,,,8.0
+1942-06-14,Redencion Pampa,22.2,8.9,,,
+1942-06-14,Potosi Los Pinos,8.0,-1.0,,,
+1942-06-14,Pocoata,15.0,1.0,,,3.0
+1942-06-15,Redencion Pampa,22.8,7.2,,,
+1942-06-15,San Calixto,17.0,1.3,63.0,16.0,
+1942-06-15,Riberalta SENAMHI,,,,,1.3
+1942-06-15,Potosi Los Pinos,9.0,-3.0,,,
+1942-06-15,Riberalta Aeropuerto,,,,,13.0
+1942-06-15,Pocoata,14.0,-7.0,,,
+1942-06-16,Redencion Pampa,21.1,8.9,,,
+1942-06-16,San Calixto,17.0,0.9,76.0,28.0,
+1942-06-16,Riberalta SENAMHI,,,,,9.9
+1942-06-16,Potosi Los Pinos,11.0,-1.0,,,
+1942-06-16,Riberalta Aeropuerto,,,,,99.0
+1942-06-16,Pocoata,18.0,-2.0,,,
+1942-06-17,Redencion Pampa,18.9,10.0,,,
+1942-06-17,Potosi Los Pinos,12.0,1.0,,,
+1942-06-17,Pocoata,14.0,0.0,,,5.0
+1942-06-18,Redencion Pampa,18.9,3.3,,,
+1942-06-18,San Calixto,16.6,1.0,76.0,18.0,
+1942-06-18,Potosi Los Pinos,9.0,-1.0,,,
+1942-06-18,Pocoata,18.0,-2.5,,,
+1942-06-19,Redencion Pampa,10.0,1.1,,,
+1942-06-19,San Calixto,16.0,3.7,89.0,20.0,
+1942-06-19,Potosi Los Pinos,10.0,-4.0,,,
+1942-06-19,Pocoata,15.0,-1.0,,,1.5
+1942-06-20,Redencion Pampa,12.2,1.1,,,
+1942-06-20,Potosi Los Pinos,10.0,-1.0,,,
+1942-06-20,Pocoata,16.0,1.0,,,
+1942-06-21,Redencion Pampa,17.8,7.8,,,
+1942-06-21,San Calixto,,,,,6.0
+1942-06-21,Potosi Los Pinos,10.0,-1.0,,,
+1942-06-21,Pocoata,13.0,0.0,,,2.0
+1942-06-22,Redencion Pampa,20.6,13.0,,,
+1942-06-22,San Calixto,10.4,4.0,76.0,35.0,
+1942-06-22,Potosi Los Pinos,11.0,0.0,,,
+1942-06-22,Pocoata,12.0,1.0,,,12.5
+1942-06-23,Redencion Pampa,19.4,6.1,,,
+1942-06-23,Potosi Los Pinos,9.0,-1.0,,,
+1942-06-23,Pocoata,11.0,0.0,,,
+1942-06-24,Redencion Pampa,15.6,6.7,,,
+1942-06-24,San Calixto,15.4,1.9,80.0,25.0,
+1942-06-24,Potosi Los Pinos,9.0,1.0,,,
+1942-06-24,Pocoata,16.0,-2.0,,,
+1942-06-25,Redencion Pampa,22.2,4.4,,,
+1942-06-25,San Calixto,15.4,1.0,70.0,20.0,
+1942-06-25,Potosi Los Pinos,9.0,-4.0,,,
+1942-06-25,Pocoata,15.0,-3.0,,,
+1942-06-26,Redencion Pampa,15.0,3.9,,,
+1942-06-26,Potosi Los Pinos,9.0,-3.0,,,
+1942-06-26,Pocoata,15.0,-4.0,,,
+1942-06-27,Redencion Pampa,16.7,5.6,,,
+1942-06-27,Potosi Los Pinos,10.0,-2.0,,,
+1942-06-27,Pocoata,19.0,-5.0,,,
+1942-06-28,Redencion Pampa,15.6,3.9,,,
+1942-06-28,Potosi Los Pinos,12.0,-1.0,,,
+1942-06-28,Pocoata,15.0,-5.0,,,
+1942-06-29,Redencion Pampa,18.9,6.7,,,
+1942-06-29,San Calixto,15.4,1.0,85.0,30.0,
+1942-06-29,Potosi Los Pinos,13.0,-2.0,,,
+1942-06-29,Pocoata,16.0,-5.0,,,
+1942-06-30,Redencion Pampa,21.1,5.6,,,
+1942-06-30,Potosi Los Pinos,12.0,-1.0,,,
+1942-06-30,Pocoata,16.0,-7.0,,,
+1942-07-01,Redencion Pampa,23.3,6.1,,,
+1942-07-01,Apolo SENAMHI,,13.5,,,
+1942-07-01,San Calixto,16.9,2.9,74.0,25.0,
+1942-07-01,Potosi Los Pinos,13.0,1.0,,,
+1942-07-01,Pocoata,16.0,,,,
+1942-07-02,Redencion Pampa,18.9,10.0,,,
+1942-07-02,Apolo SENAMHI,,14.0,,,
+1942-07-02,San Calixto,15.4,3.8,95.0,24.0,
+1942-07-02,Potosi Los Pinos,11.0,0.0,,,
+1942-07-02,Pocoata,16.0,,,,
+1942-07-03,Redencion Pampa,19.4,9.4,,,
+1942-07-03,Apolo SENAMHI,,14.0,,,2.5
+1942-07-03,San Calixto,14.4,3.3,82.0,20.0,
+1942-07-03,Potosi Los Pinos,12.0,-1.0,,,
+1942-07-03,Pocoata,16.0,,,,
+1942-07-04,Redencion Pampa,21.7,6.7,,,
+1942-07-04,Apolo SENAMHI,,16.0,,,1.2
+1942-07-04,Potosi Los Pinos,10.0,-2.0,,,
+1942-07-04,Pocoata,16.0,,,,
+1942-07-05,Redencion Pampa,27.2,10.6,,,
+1942-07-05,Apolo SENAMHI,,11.0,,,
+1942-07-05,Potosi Los Pinos,12.0,-2.0,,,
+1942-07-05,Pocoata,18.0,,,,
+1942-07-06,Redencion Pampa,16.1,3.3,,,
+1942-07-06,Apolo SENAMHI,,13.0,,,
+1942-07-06,San Calixto,16.4,2.0,58.0,15.0,
+1942-07-06,Potosi Los Pinos,12.0,-2.0,,,
+1942-07-06,Pocoata,19.0,,,,
+1942-07-07,Redencion Pampa,21.1,3.9,,,
+1942-07-07,Apolo SENAMHI,,15.0,,,
+1942-07-07,San Calixto,16.2,2.0,68.0,24.0,
+1942-07-07,Potosi Los Pinos,11.0,-1.0,,,
+1942-07-07,Pocoata,19.0,,,,
+1942-07-08,Redencion Pampa,15.5,4.4,,,
+1942-07-08,Apolo SENAMHI,,15.0,,,5.0
+1942-07-08,Potosi Los Pinos,12.0,-1.0,,,
+1942-07-08,Pocoata,20.0,,,,
+1942-07-09,Redencion Pampa,6.1,6.1,,,
+1942-07-09,Apolo SENAMHI,,14.0,,,3.5
+1942-07-09,San Calixto,16.2,2.0,90.0,20.0,
+1942-07-09,Potosi Los Pinos,12.0,1.0,,,
+1942-07-09,Pocoata,19.0,,,,
+1942-07-10,Redencion Pampa,8.9,2.2,,,
+1942-07-10,Apolo SENAMHI,,10.0,,,0.7
+1942-07-10,San Calixto,17.0,0.0,84.0,10.0,
+1942-07-10,Potosi Los Pinos,10.0,-1.0,,,
+1942-07-10,Pocoata,15.0,,,,
+1942-07-11,Redencion Pampa,4.4,1.1,,,
+1942-07-11,Apolo SENAMHI,,7.0,,,
+1942-07-11,Potosi Los Pinos,11.0,-2.0,,,
+1942-07-11,Pocoata,16.0,,,,
+1942-07-12,Redencion Pampa,6.1,3.3,,,
+1942-07-12,Apolo SENAMHI,,7.0,,,
+1942-07-12,Potosi Los Pinos,13.0,-1.0,,,
+1942-07-12,Pocoata,17.0,,,,
+1942-07-13,Redencion Pampa,16.7,0.6,,,
+1942-07-13,Apolo SENAMHI,,9.0,,,
+1942-07-13,Potosi Los Pinos,11.0,-2.0,,,
+1942-07-13,Pocoata,15.0,,,,
+1942-07-14,Redencion Pampa,20.0,3.3,,,
+1942-07-14,Apolo SENAMHI,,10.0,,,
+1942-07-14,San Calixto,12.0,0.2,98.0,30.0,
+1942-07-14,Potosi Los Pinos,12.0,0.0,,,
+1942-07-14,Pocoata,11.0,,,,
+1942-07-15,Redencion Pampa,17.8,3.3,,,
+1942-07-15,Apolo SENAMHI,,10.0,,,
+1942-07-15,Potosi Los Pinos,10.0,-3.0,,,
+1942-07-15,Pocoata,18.0,,,,
+1942-07-16,Redencion Pampa,21.1,6.1,,,
+1942-07-16,Apolo SENAMHI,,11.0,,,
+1942-07-16,Potosi Los Pinos,11.0,1.0,,,
+1942-07-16,Pocoata,16.0,,,,
+1942-07-17,Redencion Pampa,21.1,3.9,,,
+1942-07-17,Apolo SENAMHI,,14.0,,,
+1942-07-17,San Calixto,20.0,2.0,37.0,14.0,
+1942-07-17,Potosi Los Pinos,14.0,-1.0,,,
+1942-07-17,Pocoata,17.0,,,,
+1942-07-18,Redencion Pampa,25.0,2.8,,,
+1942-07-18,Apolo SENAMHI,,13.0,,,
+1942-07-18,San Calixto,16.0,1.8,52.0,25.0,
+1942-07-18,Potosi Los Pinos,15.0,-2.0,,,
+1942-07-18,Pocoata,19.0,,,,
+1942-07-19,Redencion Pampa,15.6,3.9,,,
+1942-07-19,Apolo SENAMHI,,13.0,,,
+1942-07-19,Potosi Los Pinos,12.0,-3.0,,,
+1942-07-19,Pocoata,16.0,,,,
+1942-07-20,Redencion Pampa,17.8,3.3,,,
+1942-07-20,Apolo SENAMHI,,15.0,,,
+1942-07-20,Potosi Los Pinos,14.0,-1.0,,,
+1942-07-20,Pocoata,19.0,,,,
+1942-07-21,Redencion Pampa,21.1,6.1,,,
+1942-07-21,Apolo SENAMHI,,15.0,,,13.5
+1942-07-21,San Calixto,16.0,0.0,84.0,25.0,
+1942-07-21,Potosi Los Pinos,15.0,0.0,,,
+1942-07-21,Pocoata,16.0,,,,
+1942-07-22,Redencion Pampa,22.8,8.3,,,
+1942-07-22,Apolo SENAMHI,,14.0,,,
+1942-07-22,San Calixto,14.0,1.7,70.0,38.0,
+1942-07-22,Potosi Los Pinos,15.0,2.0,,,
+1942-07-22,Pocoata,14.0,,,,
+1942-07-23,Redencion Pampa,13.3,6.7,,,
+1942-07-23,Apolo SENAMHI,,14.0,,,
+1942-07-23,San Calixto,14.0,0.8,64.0,35.0,
+1942-07-23,Potosi Los Pinos,12.0,-1.0,,,
+1942-07-23,Pocoata,17.0,,,,
+1942-07-24,Redencion Pampa,14.1,3.3,,,
+1942-07-24,Apolo SENAMHI,,11.0,,,
+1942-07-24,San Calixto,17.6,1.0,84.0,16.0,
+1942-07-24,Potosi Los Pinos,12.0,0.0,,,
+1942-07-24,Pocoata,16.0,,,,
+1942-07-25,Redencion Pampa,17.8,4.4,,,
+1942-07-25,Apolo SENAMHI,,15.0,,,
+1942-07-25,Potosi Los Pinos,13.0,0.0,,,
+1942-07-25,Pocoata,17.0,,,,
+1942-07-26,Redencion Pampa,21.1,6.1,,,
+1942-07-26,Apolo SENAMHI,,13.0,,,
+1942-07-26,Potosi Los Pinos,13.0,0.0,,,
+1942-07-26,Pocoata,17.0,,,,
+1942-07-27,Redencion Pampa,22.2,5.6,,,
+1942-07-27,Apolo SENAMHI,,15.0,,,100.0
+1942-07-27,Potosi Los Pinos,13.0,-2.0,,,
+1942-07-27,Pocoata,16.0,,,,
+1942-07-28,Redencion Pampa,24.4,5.0,,,
+1942-07-28,Apolo SENAMHI,,16.0,,,5.8
+1942-07-28,San Calixto,17.2,0.0,43.0,14.0,
+1942-07-28,Potosi Los Pinos,11.0,-3.0,,,
+1942-07-28,Pocoata,16.0,,,,
+1942-07-29,Redencion Pampa,16.7,5.0,,,
+1942-07-29,Apolo SENAMHI,,15.0,,,
+1942-07-29,San Calixto,16.0,0.1,84.0,20.0,
+1942-07-29,Potosi Los Pinos,11.0,-2.0,,,
+1942-07-29,Pocoata,16.0,,,,
+1942-07-30,Redencion Pampa,20.0,6.7,,,
+1942-07-30,Apolo SENAMHI,,14.0,,,
+1942-07-30,San Calixto,18.0,0.4,60.0,8.0,
+1942-07-30,Potosi Los Pinos,12.0,-3.0,,,
+1942-07-30,Pocoata,16.0,,,,
+1942-08-01,Redencion Pampa,21.7,8.3,,,
+1942-08-01,Apolo SENAMHI,,15.0,,,
+1942-08-01,San Calixto,16.2,1.3,80.0,,
+1942-08-01,Potosi Los Pinos,13.0,-2.0,49.0,23.0,
+1942-08-01,Pocoata,17.0,-6.7,,,
+1942-08-01,Tupiza,22.8,10.0,,,
+1942-08-02,Redencion Pampa,22.2,8.9,,,
+1942-08-02,Apolo SENAMHI,,15.0,,,0.6
+1942-08-02,Potosi Los Pinos,11.0,-4.0,68.0,24.0,
+1942-08-02,Pocoata,16.0,-7.4,,,
+1942-08-02,Tupiza,22.8,13.3,,,
+1942-08-03,Redencion Pampa,22.2,7.8,,,
+1942-08-03,Apolo SENAMHI,,17.0,,,
+1942-08-03,San Calixto,16.3,0.5,68.0,38.0,2.0
+1942-08-03,Betanzos,,,,,2.5
+1942-08-03,Potosi Los Pinos,12.0,-3.0,42.0,28.0,
+1942-08-03,Pocoata,18.0,-7.2,,,
+1942-08-03,Tupiza,28.0,6.0,,,
+1942-08-04,Redencion Pampa,18.9,7.2,,,8.0
+1942-08-04,Apolo SENAMHI,,15.0,,,1.0
+1942-08-04,San Calixto,11.4,4.8,90.0,48.0,
+1942-08-04,Potosi Los Pinos,12.0,0.0,44.0,42.0,
+1942-08-04,Pocoata,15.0,0.0,,,4.0
+1942-08-04,Tupiza,21.7,11.0,,,
+1942-08-05,Redencion Pampa,14.4,9.4,,,
+1942-08-05,Apolo SENAMHI,,15.0,,,
+1942-08-05,San Calixto,14.2,1.7,93.0,50.0,
+1942-08-05,Potosi Los Pinos,9.0,-2.0,48.0,43.0,
+1942-08-05,Pocoata,17.0,-3.0,,,
+1942-08-05,Tupiza,21.3,7.3,,,
+1942-08-06,Redencion Pampa,17.3,6.7,,,
+1942-08-06,Apolo SENAMHI,,16.0,,,
+1942-08-06,Vallegrande SENAMHI,,,,,23.0
+1942-08-06,Potosi Los Pinos,11.0,-3.0,41.0,33.0,
+1942-08-06,Pocoata,16.0,-3.0,,,
+1942-08-06,Tupiza,21.5,8.5,,,
+1942-08-07,Redencion Pampa,11.1,10.0,,,
+1942-08-07,Apolo SENAMHI,,16.0,,,
+1942-08-07,Potosi Los Pinos,11.0,-3.0,35.0,21.0,
+1942-08-07,Pocoata,20.0,-4.7,,,
+1942-08-07,Tupiza,20.0,6.7,,,
+1942-08-08,Redencion Pampa,23.3,5.6,,,
+1942-08-08,Apolo SENAMHI,,16.0,,,
+1942-08-08,Potosi Los Pinos,12.0,-2.0,61.0,35.0,
+1942-08-08,Pocoata,16.0,-3.3,,,
+1942-08-08,Tupiza,20.0,6.7,,,
+1942-08-09,Redencion Pampa,20.0,10.0,,,
+1942-08-09,Apolo SENAMHI,,14.0,,,
+1942-08-09,Vallegrande SENAMHI,,,,,4.0
+1942-08-09,Potosi Los Pinos,13.0,1.0,45.0,42.0,
+1942-08-09,Pocoata,20.0,-3.3,,,
+1942-08-09,Tupiza,20.0,7.8,,,
+1942-08-10,Redencion Pampa,23.3,6.7,,,
+1942-08-10,Apolo SENAMHI,,15.0,,,
+1942-08-10,Potosi Los Pinos,12.0,-1.0,48.0,31.0,
+1942-08-10,Pocoata,17.0,-4.4,,,
+1942-08-10,Tupiza,20.0,8.3,,,
+1942-08-11,Redencion Pampa,21.1,8.9,,,
+1942-08-11,Apolo SENAMHI,,15.0,,,
+1942-08-11,San Calixto,17.0,2.3,88.0,30.0,
+1942-08-11,Potosi Los Pinos,12.0,-1.0,50.0,38.0,
+1942-08-11,Pocoata,16.0,-6.1,,,
+1942-08-11,Tupiza,20.6,8.3,,,
+1942-08-12,Redencion Pampa,18.9,11.1,,,
+1942-08-12,Apolo SENAMHI,,15.0,,,
+1942-08-12,San Calixto,16.4,3.4,90.0,30.0,
+1942-08-12,Potosi Los Pinos,12.0,0.0,36.0,36.0,
+1942-08-12,Pocoata,19.0,-5.6,,,
+1942-08-12,Tupiza,21.0,8.9,,,
+1942-08-13,Redencion Pampa,19.4,10.6,,,
+1942-08-13,Apolo SENAMHI,,15.0,,,
+1942-08-13,Potosi Los Pinos,15.0,0.0,40.0,22.0,
+1942-08-13,Pocoata,16.0,-1.1,,,
+1942-08-13,Tupiza,22.2,11.0,,,
+1942-08-14,Redencion Pampa,21.1,7.8,,,
+1942-08-14,Apolo SENAMHI,,15.0,,,
+1942-08-14,Betanzos,,,,,15.0
+1942-08-14,Challapata (Tacagua),,,,,3.9
+1942-08-14,Potosi Los Pinos,15.0,0.0,73.0,26.0,2.3
+1942-08-14,Pocoata,19.0,-7.2,,,
+1942-08-14,Tupiza,23.0,12.8,,,
+1942-08-15,Redencion Pampa,28.8,8.9,,,
+1942-08-15,Apolo SENAMHI,,15.0,,,
+1942-08-15,San Calixto,18.2,2.0,60.0,18.0,
+1942-08-15,Betanzos,,,,,120.0
+1942-08-15,Challapata (Tacagua),,,,,4.0
+1942-08-15,Potosi Los Pinos,15.0,2.0,84.0,23.0,0.5
+1942-08-15,Pocoata,17.0,-4.4,,,
+1942-08-15,Tupiza,22.2,12.2,,,
+1942-08-16,Redencion Pampa,23.9,7.8,,,
+1942-08-16,Apolo SENAMHI,,14.0,,,
+1942-08-16,Potosi Los Pinos,13.0,-1.0,57.0,17.0,
+1942-08-16,Pocoata,16.0,-5.6,,,2.5
+1942-08-16,Tupiza,18.3,11.7,,,1.0
+1942-08-17,Redencion Pampa,23.3,8.9,,,4.0
+1942-08-17,Apolo SENAMHI,,14.0,,,10.6
+1942-08-17,San Calixto,18.0,5.2,90.0,20.0,
+1942-08-17,Potosi Los Pinos,16.0,1.0,48.0,13.0,
+1942-08-17,Pocoata,19.0,-1.1,,,
+1942-08-17,Tupiza,20.0,11.0,,,
+1942-08-18,Redencion Pampa,24.4,12.2,,,
+1942-08-18,Apolo SENAMHI,,17.0,,,13.5
+1942-08-18,San Calixto,20.0,4.2,68.0,18.0,
+1942-08-18,Betanzos,,,,,6.0
+1942-08-18,Potosi Los Pinos,14.0,0.0,47.0,30.0,
+1942-08-18,Pocoata,20.0,-1.7,,,
+1942-08-18,Tupiza,21.0,11.0,,,
+1942-08-19,Redencion Pampa,20.0,10.0,,,
+1942-08-19,Apolo SENAMHI,,17.0,,,
+1942-08-19,San Calixto,17.4,3.8,74.0,38.0,
+1942-08-19,Vallegrande SENAMHI,,,,,6.0
+1942-08-19,Potosi Los Pinos,15.0,-1.0,73.0,49.0,
+1942-08-19,Pocoata,17.0,-3.9,,,
+1942-08-19,Tupiza,21.0,10.0,,,
+1942-08-20,Redencion Pampa,11.1,10.0,,,4.0
+1942-08-20,Apolo SENAMHI,,15.0,,,
+1942-08-20,San Calixto,16.2,4.6,93.0,40.0,
+1942-08-20,Potosi Los Pinos,15.0,0.0,45.0,42.0,
+1942-08-20,Pocoata,21.0,0.0,,,
+1942-08-20,Tupiza,21.0,12.0,,,
+1942-08-21,Redencion Pampa,19.4,7.8,,,
+1942-08-21,Apolo SENAMHI,,14.0,,,
+1942-08-21,San Calixto,13.2,4.9,90.0,40.0,
+1942-08-21,Potosi Los Pinos,14.0,0.0,39.0,27.0,0.3
+1942-08-21,Pocoata,18.0,-0.6,,,5.0
+1942-08-21,Tupiza,21.0,12.5,,,
+1942-08-22,Redencion Pampa,19.4,8.0,,,
+1942-08-22,Apolo SENAMHI,,15.0,,,
+1942-08-22,San Calixto,14.4,4.0,87.0,40.0,
+1942-08-22,Betanzos,,,,,2.2
+1942-08-22,Potosi Los Pinos,16.0,2.0,76.0,70.0,0.2
+1942-08-22,Pocoata,17.0,-1.1,,,
+1942-08-22,Tupiza,21.7,11.0,,,
+1942-08-23,Redencion Pampa,9.0,5.6,,,
+1942-08-23,Apolo SENAMHI,,15.0,,,
+1942-08-23,Potosi Los Pinos,14.0,-1.0,50.0,45.0,
+1942-08-23,Pocoata,22.0,-0.6,,,
+1942-08-23,Tupiza,21.7,11.0,,,
+1942-08-24,Redencion Pampa,19.4,8.0,,,
+1942-08-24,Apolo SENAMHI,,16.0,,,4.0
+1942-08-24,San Calixto,18.6,2.2,80.0,10.0,
+1942-08-24,Potosi Los Pinos,13.0,-1.0,40.0,27.0,
+1942-08-24,Pocoata,19.0,-8.2,,,
+1942-08-24,Tupiza,21.0,9.5,,,
+1942-08-25,Redencion Pampa,23.3,5.6,,,
+1942-08-25,Apolo SENAMHI,,15.0,,,
+1942-08-25,San Calixto,13.0,3.0,89.0,33.0,
+1942-08-25,Potosi Los Pinos,14.0,1.0,65.0,18.0,
+1942-08-25,Pocoata,11.0,-1.1,,,
+1942-08-25,Tupiza,20.6,8.3,,,
+1942-08-26,Redencion Pampa,13.3,5.6,,,
+1942-08-26,Apolo SENAMHI,,13.0,,,
+1942-08-26,San Calixto,17.4,1.2,90.0,22.0,
+1942-08-26,Potosi Los Pinos,13.0,0.0,64.0,9.0,
+1942-08-26,Pocoata,19.0,-8.9,,,
+1942-08-26,Tupiza,20.0,7.2,,,
+1942-08-27,Redencion Pampa,16.7,5.6,,,
+1942-08-27,Apolo SENAMHI,,14.0,,,
+1942-08-27,San Calixto,18.0,1.2,86.0,25.0,
+1942-08-27,Potosi Los Pinos,13.0,-1.0,31.0,17.0,
+1942-08-27,Pocoata,19.0,-8.9,,,
+1942-08-27,Tupiza,21.0,6.7,,,
+1942-08-28,Redencion Pampa,21.1,7.8,,,
+1942-08-28,Apolo SENAMHI,,13.0,,,
+1942-08-28,Potosi Los Pinos,14.0,0.0,22.0,8.0,
+1942-08-28,Pocoata,19.0,-9.4,,,
+1942-08-28,Tupiza,22.2,7.2,,,
+1942-08-29,Redencion Pampa,23.3,5.6,,,
+1942-08-29,Apolo SENAMHI,,14.0,,,
+1942-08-29,San Calixto,16.8,1.0,80.0,22.0,
+1942-08-29,Potosi Los Pinos,16.0,1.0,60.0,24.0,
+1942-08-29,Pocoata,18.0,-9.4,,,
+1942-08-29,Tupiza,22.2,7.8,,,
+1942-08-30,Redencion Pampa,23.9,8.9,,,
+1942-08-30,Apolo SENAMHI,,14.0,,,
+1942-08-30,Potosi Los Pinos,17.0,1.0,33.0,21.0,
+1942-08-30,Pocoata,21.0,-7.2,,,
+1942-08-30,Tupiza,23.9,8.9,,,
+1942-08-31,Redencion Pampa,28.8,7.2,,,
+1942-08-31,Apolo SENAMHI,,15.0,,,
+1942-08-31,San Calixto,16.6,2.9,88.0,35.0,
+1942-08-31,Potosi Los Pinos,17.0,1.0,,,
+1942-08-31,Pocoata,18.0,-4.4,,,
+1942-09-01,Redencion Pampa,23.3,7.8,,,4.2
+1942-09-01,Apolo SENAMHI,,15.0,,,
+1942-09-01,Chacaltaya,23.3,-6.7,,,
+1942-09-01,Potosi Los Pinos,17.0,3.0,55.0,55.0,
+1942-09-01,Pocoata,20.0,-1.3,,,
+1942-09-01,Tupiza,22.8,10.0,,,
+1942-09-02,Redencion Pampa,23.3,10.0,,,
+1942-09-02,Apolo SENAMHI,,16.0,,,0.4
+1942-09-02,Chacaltaya,21.1,-6.7,,,
+1942-09-02,Vallegrande SENAMHI,,,,,1.0
+1942-09-02,Potosi Los Pinos,17.0,3.0,70.0,55.0,
+1942-09-02,Pocoata,18.0,0.6,,,
+1942-09-02,Tupiza,22.8,13.3,,,
+1942-09-03,Redencion Pampa,21.7,11.1,,,
+1942-09-03,Apolo SENAMHI,,16.0,,,
+1942-09-03,Chacaltaya,3.3,-5.6,,,25.0
+1942-09-03,Riberalta SENAMHI,,,,,50.0
+1942-09-03,Potosi Los Pinos,16.0,3.0,42.0,30.0,
+1942-09-03,Pocoata,19.0,1.7,,,
+1942-09-03,Tupiza,22.8,11.0,,,
+1942-09-04,Redencion Pampa,20.6,10.0,,,
+1942-09-04,Apolo SENAMHI,,16.0,,,
+1942-09-04,Chacaltaya,11.1,-5.6,,,
+1942-09-04,Potosi Los Pinos,14.0,2.0,42.0,12.0,
+1942-09-04,Riberalta Aeropuerto,,,,,50.0
+1942-09-04,Pocoata,18.0,-1.7,,,2.7
+1942-09-04,Tupiza,21.7,11.0,,,
+1942-09-05,Redencion Pampa,23.3,11.7,,,
+1942-09-05,Apolo SENAMHI,,17.0,,,
+1942-09-05,Chacaltaya,22.2,-6.7,,,
+1942-09-05,Potosi Los Pinos,14.0,0.0,43.0,15.0,
+1942-09-05,Pocoata,18.0,0.6,,,
+1942-09-05,Tupiza,21.3,7.2,,,
+1942-09-06,Redencion Pampa,21.3,8.2,,,
+1942-09-06,Apolo SENAMHI,,16.0,,,12.0
+1942-09-06,Chacaltaya,14.4,-7.8,,,
+1942-09-06,Potosi Los Pinos,16.0,-1.0,33.0,5.0,
+1942-09-06,Pocoata,21.0,-2.8,,,
+1942-09-06,Tupiza,21.5,8.5,,,
+1942-09-07,Redencion Pampa,22.2,10.0,,,
+1942-09-07,Apolo SENAMHI,,17.0,,,7.0
+1942-09-07,Chacaltaya,12.2,-6.7,,,
+1942-09-07,Potosi Los Pinos,15.0,-1.0,57.0,21.0,
+1942-09-07,Pocoata,21.0,-7.8,,,
+1942-09-07,Tupiza,20.0,6.7,,,
+1942-09-08,Redencion Pampa,20.0,8.1,,,
+1942-09-08,Apolo SENAMHI,,16.0,,,
+1942-09-08,Chacaltaya,11.1,-7.8,,,
+1942-09-08,Potosi Los Pinos,14.0,-1.0,61.0,28.0,
+1942-09-08,Pocoata,18.0,0.6,,,
+1942-09-08,Tupiza,20.0,6.7,,,
+1942-09-09,Redencion Pampa,18.9,7.1,,,
+1942-09-09,Apolo SENAMHI,,14.0,,,1.0
+1942-09-09,Chacaltaya,15.6,-7.8,,,20.0
+1942-09-09,Riberalta SENAMHI,,,,,80.0
+1942-09-09,Potosi Los Pinos,15.0,-1.0,45.0,35.0,
+1942-09-09,Pocoata,19.0,0.0,,,
+1942-09-09,Tupiza,20.0,7.8,,,
+1942-09-10,Redencion Pampa,22.2,11.7,,,
+1942-09-10,Apolo SENAMHI,,14.0,,,
+1942-09-10,Chacaltaya,13.3,-7.8,,,10.0
+1942-09-10,Potosi Los Pinos,15.0,-1.0,48.0,35.0,
+1942-09-10,Riberalta Aeropuerto,,,,,80.0
+1942-09-10,Pocoata,17.0,0.0,,,1.0
+1942-09-10,Tupiza,20.0,8.3,,,
+1942-09-11,Redencion Pampa,21.1,10.0,,,
+1942-09-11,Apolo SENAMHI,,13.0,,,
+1942-09-11,Chacaltaya,12.2,-6.7,,,
+1942-09-11,Potosi Los Pinos,16.0,-1.0,38.0,19.0,
+1942-09-11,Pocoata,16.0,-4.4,,,
+1942-09-11,Tupiza,20.6,8.3,,,
+1942-09-12,Redencion Pampa,21.1,5.6,,,
+1942-09-12,Apolo SENAMHI,,15.0,,,9.0
+1942-09-12,Potosi Los Pinos,17.0,0.0,36.0,20.0,
+1942-09-12,Pocoata,10.0,-4.4,,,3.0
+1942-09-12,Tupiza,21.0,8.9,,,
+1942-09-13,Redencion Pampa,23.3,10.0,,,
+1942-09-13,Apolo SENAMHI,,16.0,,,6.0
+1942-09-13,Potosi Los Pinos,16.0,3.0,22.0,16.0,
+1942-09-13,Pocoata,16.0,2.8,,,
+1942-09-13,Tupiza,22.2,11.0,,,
+1942-09-14,Redencion Pampa,22.2,6.1,,,
+1942-09-14,Apolo SENAMHI,,16.0,,,0.7
+1942-09-14,Challapata (Tacagua),,,,,3.9
+1942-09-14,Potosi Los Pinos,17.0,3.0,73.0,65.0,2.3
+1942-09-14,Pocoata,16.0,1.1,,,4.0
+1942-09-14,Tupiza,23.0,12.8,,,
+1942-09-15,Redencion Pampa,21.1,10.0,,,6.0
+1942-09-15,Apolo SENAMHI,,17.0,,,
+1942-09-15,Challapata (Tacagua),,,,,4.0
+1942-09-15,Chacaltaya,,,,,2.0
+1942-09-15,Potosi Los Pinos,17.0,4.0,84.0,83.0,4.5
+1942-09-15,Pocoata,16.0,3.9,,,
+1942-09-15,Tupiza,22.2,12.2,,,1.0
+1942-09-16,Redencion Pampa,14.4,10.0,,,
+1942-09-16,Apolo SENAMHI,,17.0,,,
+1942-09-16,Potosi Los Pinos,12.0,0.0,57.0,33.0,
+1942-09-16,Pocoata,18.0,2.2,,,
+1942-09-16,Tupiza,18.3,11.7,,,1.0
+1942-09-17,Redencion Pampa,21.1,11.1,,,20.0
+1942-09-17,Apolo SENAMHI,,16.0,,,15.0
+1942-09-17,Potosi Los Pinos,13.0,1.0,48.0,29.0,
+1942-09-17,Pocoata,22.0,0.6,,,3.0
+1942-09-17,Tupiza,20.0,11.0,,,
+1942-09-18,Redencion Pampa,23.9,11.1,,,
+1942-09-18,Apolo SENAMHI,,17.0,,,
+1942-09-18,Vallegrande SENAMHI,,,,,18.0
+1942-09-18,Potosi Los Pinos,16.0,1.0,47.0,20.0,
+1942-09-18,Pocoata,20.0,0.0,,,
+1942-09-18,Tupiza,21.0,11.0,,,
+1942-09-19,Redencion Pampa,28.8,6.7,,,
+1942-09-19,Apolo SENAMHI,,16.0,,,
+1942-09-19,Chacaltaya,,,,,10.0
+1942-09-19,Riberalta SENAMHI,,,,,48.0
+1942-09-19,Potosi Los Pinos,16.0,4.0,80.0,73.0,
+1942-09-19,Pocoata,15.0,1.7,,,
+1942-09-19,Tupiza,21.0,10.0,,,
+1942-09-20,Redencion Pampa,11.1,6.7,,,45.0
+1942-09-20,Apolo SENAMHI,,15.5,,,
+1942-09-20,Potosi Los Pinos,14.0,4.0,45.0,30.0,
+1942-09-20,Riberalta Aeropuerto,,,,,48.0
+1942-09-20,Pocoata,20.0,0.0,,,
+1942-09-20,Tupiza,21.0,12.0,,,
+1942-09-21,Redencion Pampa,18.9,8.9,,,13.5
+1942-09-21,Apolo SENAMHI,,15.0,,,
+1942-09-21,Challapata (Tacagua),,,,,5.3
+1942-09-21,Chacaltaya,11.1,-6.7,,,
+1942-09-21,Potosi Los Pinos,18.0,4.0,74.0,38.0,0.3
+1942-09-21,Pocoata,16.0,1.7,,,7.0
+1942-09-21,Tupiza,21.0,12.5,,,
+1942-09-22,Redencion Pampa,21.1,10.0,,,
+1942-09-22,Apolo SENAMHI,,15.0,,,
+1942-09-22,Chacaltaya,13.3,-7.8,,,
+1942-09-22,Potosi Los Pinos,18.0,3.0,76.0,65.0,0.2
+1942-09-22,Pocoata,16.0,0.6,,,11.0
+1942-09-22,Tupiza,21.7,11.0,,,
+1942-09-23,Redencion Pampa,16.8,10.0,,,
+1942-09-23,Apolo SENAMHI,,17.0,,,
+1942-09-23,Chacaltaya,15.6,-7.8,,,
+1942-09-23,Potosi Los Pinos,16.0,2.0,50.0,20.0,
+1942-09-23,Pocoata,20.0,0.6,,,
+1942-09-23,Tupiza,21.7,11.0,,,
+1942-09-24,Redencion Pampa,13.3,10.0,,,
+1942-09-24,Apolo SENAMHI,,18.0,,,
+1942-09-24,Chacaltaya,7.8,-8.9,,,
+1942-09-24,Potosi Los Pinos,15.0,-1.0,27.0,6.0,
+1942-09-24,Pocoata,20.0,-7.5,,,
+1942-09-24,Tupiza,21.0,9.5,,,
+1942-09-25,Redencion Pampa,21.1,8.9,,,
+1942-09-25,Tarabuco,16.7,15.6,,,
+1942-09-25,Apolo SENAMHI,,18.0,,,
+1942-09-25,Chacaltaya,12.2,-12.2,,,
+1942-09-25,Riberalta SENAMHI,,,,,8.0
+1942-09-25,Potosi Los Pinos,15.0,-2.0,18.0,5.0,
+1942-09-25,Pocoata,23.0,-6.1,,,
+1942-09-25,Tupiza,20.6,8.3,,,
+1942-09-26,Redencion Pampa,10.0,5.6,,,
+1942-09-26,Tarabuco,10.0,8.3,,,
+1942-09-26,Apolo SENAMHI,,15.0,,,
+1942-09-26,Chacaltaya,13.3,-11.1,,,
+1942-09-26,Potosi Los Pinos,14.0,-1.0,9.0,8.0,
+1942-09-26,Riberalta Aeropuerto,,,,,0.8
+1942-09-26,Pocoata,20.0,7.2,,,
+1942-09-26,Tupiza,20.0,7.2,,,
+1942-09-27,Redencion Pampa,20.0,8.3,,,
+1942-09-27,Tarabuco,11.7,8.9,,,
+1942-09-27,Apolo SENAMHI,,13.0,,,
+1942-09-27,Chacaltaya,13.3,-10.0,,,
+1942-09-27,Potosi Los Pinos,16.0,0.0,17.0,4.0,
+1942-09-27,Pocoata,20.0,-6.7,,,
+1942-09-27,Tupiza,21.0,6.7,,,
+1942-09-28,Redencion Pampa,25.6,8.9,,,
+1942-09-28,Tarabuco,11.1,10.0,,,
+1942-09-28,Apolo SENAMHI,,15.0,,,
+1942-09-28,Chacaltaya,18.9,-8.9,,,
+1942-09-28,Potosi Los Pinos,18.0,5.0,60.0,8.0,
+1942-09-28,Pocoata,21.0,-6.7,,,
+1942-09-28,Tupiza,22.2,7.2,,,
+1942-09-29,Redencion Pampa,23.3,11.1,,,
+1942-09-29,Tarabuco,17.8,16.7,,,
+1942-09-29,Apolo SENAMHI,,17.0,,,
+1942-09-29,Chacaltaya,17.8,-5.6,,,
+1942-09-29,Potosi Los Pinos,19.0,3.0,60.0,10.0,
+1942-09-29,Pocoata,20.0,-5.0,,,
+1942-09-29,Tupiza,22.2,7.8,,,
+1942-09-30,Redencion Pampa,24.4,11.1,,,
+1942-09-30,Tarabuco,16.7,15.0,,,
+1942-09-30,Apolo SENAMHI,,18.0,,,
+1942-09-30,Chacaltaya,17.8,-10.0,,,
+1942-09-30,Potosi Los Pinos,19.0,2.0,21.0,20.0,
+1942-09-30,Pocoata,23.0,-1.7,,,
+1942-09-30,Tupiza,23.5,8.9,,,
+1942-10-01,Redencion Pampa,23.3,12.2,,,3.0
+1942-10-01,Tarabuco,10.6,10.0,,,
+1942-10-01,Apolo SENAMHI,,18.0,,,
+1942-10-01,Chacaltaya,18.9,-11.7,,,
+1942-10-01,Potosi Los Pinos,19.0,1.0,23.0,22.0,
+1942-10-01,Pocoata,21.0,-3.3,,,
+1942-10-01,Tupiza,22.0,0.0,,,
+1942-10-02,Redencion Pampa,25.6,11.1,,,
+1942-10-02,Tarabuco,8.9,7.8,,,
+1942-10-02,Apolo SENAMHI,,13.0,,,
+1942-10-02,San Calixto,,,,,8.0
+1942-10-02,Chacaltaya,23.3,-6.7,,,5.0
+1942-10-02,Potosi Los Pinos,20.0,3.0,83.0,59.0,1.2
+1942-10-02,Pocoata,19.0,-1.7,,,
+1942-10-02,Tupiza,31.0,0.0,,,
+1942-10-03,Magdalena Aeropuerto,,,,,7.0
+1942-10-03,Redencion Pampa,17.2,10.0,,,
+1942-10-03,Tarabuco,22.2,6.7,,,
+1942-10-03,Apolo SENAMHI,,14.0,,,
+1942-10-03,Betanzos,,,,,28.0
+1942-10-03,Chacaltaya,10.0,-5.6,,,7.0
+1942-10-03,Potosi Los Pinos,16.0,3.0,71.0,28.0,
+1942-10-03,El Alto Aeropuerto,,,,,0.8
+1942-10-03,Pocoata,20.0,3.9,,,6.5
+1942-10-03,Tupiza,21.1,0.0,,,0.2
+1942-10-04,Redencion Pampa,22.2,10.6,,,
+1942-10-04,Tarabuco,10.0,8.9,,,
+1942-10-04,Apolo SENAMHI,,17.0,,,
+1942-10-04,Chacaltaya,15.6,-8.9,,,
+1942-10-04,Potosi Los Pinos,14.0,3.0,25.0,16.0,
+1942-10-04,Pocoata,21.0,1.1,,,
+1942-10-04,Tupiza,22.0,0.0,,,
+1942-10-05,Magdalena Aeropuerto,,,,,9.0
+1942-10-05,Redencion Pampa,25.6,12.2,,,
+1942-10-05,Tarabuco,5.6,4.4,,,
+1942-10-05,Apolo SENAMHI,,17.0,,,
+1942-10-05,Chacaltaya,2.6,-10.0,,,
+1942-10-05,Potosi Los Pinos,17.0,2.0,31.0,16.0,
+1942-10-05,Pocoata,18.0,1.1,,,
+1942-10-05,Tupiza,0.0,0.0,,,1.0
+1942-10-06,Redencion Pampa,24.4,12.8,,,
+1942-10-06,Tarabuco,5.6,4.4,,,
+1942-10-06,Apolo SENAMHI,,18.0,,,
+1942-10-06,Chacaltaya,6.7,-7.8,,,
+1942-10-06,Potosi Los Pinos,17.0,1.0,24.0,14.0,
+1942-10-06,Pocoata,20.0,-4.4,,,
+1942-10-06,Tupiza,20.6,0.0,,,
+1942-10-07,Redencion Pampa,21.1,11.1,,,
+1942-10-07,Tarabuco,8.9,7.8,,,
+1942-10-07,Apolo SENAMHI,,15.0,,,0.7
+1942-10-07,Chacaltaya,13.3,-11.1,,,
+1942-10-07,Potosi Los Pinos,16.0,-1.0,51.0,19.0,
+1942-10-07,Pocoata,18.0,-7.8,,,
+1942-10-07,Tupiza,20.6,0.0,,,
+1942-10-08,Redencion Pampa,18.9,6.1,,,
+1942-10-08,Tarabuco,10.0,8.9,,,
+1942-10-08,Apolo SENAMHI,,15.0,,,
+1942-10-08,Chacaltaya,17.8,-7.8,,,3.0
+1942-10-08,Potosi Los Pinos,19.0,2.0,75.0,58.0,
+1942-10-08,Pocoata,17.0,-1.7,,,
+1942-10-08,Tupiza,21.1,0.0,,,
+1942-10-09,Redencion Pampa,17.8,6.7,,,
+1942-10-09,Tarabuco,8.9,7.8,,,
+1942-10-09,Apolo SENAMHI,,13.0,,,
+1942-10-09,Chacaltaya,18.9,-8.9,,,3.0
+1942-10-09,Potosi Los Pinos,18.0,0.0,57.0,31.0,
+1942-10-09,Pocoata,18.0,-2.8,,,
+1942-10-09,Tupiza,21.0,8.5,,,
+1942-10-10,Redencion Pampa,20.6,6.1,,,
+1942-10-10,Tarabuco,7.8,6.7,,,
+1942-10-10,Apolo SENAMHI,,14.0,,,0.8
+1942-10-10,Chacaltaya,20.0,-8.9,,,
+1942-10-10,Potosi Los Pinos,19.0,2.0,42.0,37.0,
+1942-10-10,Pocoata,20.0,-2.8,,,
+1942-10-10,Tupiza,21.0,0.0,,,
+1942-10-11,Redencion Pampa,22.2,7.8,,,
+1942-10-11,Tarabuco,12.2,8.9,,,
+1942-10-11,Apolo SENAMHI,,15.0,,,
+1942-10-11,Chacaltaya,6.7,-7.8,,,4.0
+1942-10-11,Potosi Los Pinos,20.0,2.0,43.0,31.0,
+1942-10-11,Pocoata,20.0,-6.1,,,6.0
+1942-10-11,Tupiza,22.2,7.8,,,
+1942-10-12,Redencion Pampa,24.4,12.8,,,
+1942-10-12,Tarabuco,15.6,5.6,,,
+1942-10-12,Apolo SENAMHI,,15.0,,,3.0
+1942-10-12,Chacaltaya,16.7,-11.1,,,
+1942-10-12,Potosi Los Pinos,21.0,4.0,66.0,29.0,
+1942-10-12,Pocoata,17.0,-2.2,,,
+1942-10-12,Tupiza,23.9,11.1,,,
+1942-10-13,Magdalena Aeropuerto,,,,,4.0
+1942-10-13,Redencion Pampa,22.8,11.1,,,
+1942-10-13,Tarabuco,15.6,5.6,,,
+1942-10-13,Apolo SENAMHI,,18.0,,,0.8
+1942-10-13,Chacaltaya,14.4,-10.0,,,1.0
+1942-10-13,Potosi Los Pinos,20.0,4.0,88.0,83.0,
+1942-10-13,Pocoata,18.0,1.7,,,
+1942-10-13,Tupiza,23.3,10.6,,,
+1942-10-14,Magdalena Aeropuerto,,,,,3.0
+1942-10-14,Redencion Pampa,21.7,10.6,,,
+1942-10-14,Tarabuco,15.6,5.6,,,
+1942-10-14,Apolo SENAMHI,,17.0,,,
+1942-10-14,Chacaltaya,17.8,-7.8,,,
+1942-10-14,Potosi Los Pinos,18.0,0.0,66.0,64.0,
+1942-10-14,Pocoata,20.0,1.7,,,
+1942-10-14,Tupiza,21.1,11.1,,,
+1942-10-15,Redencion Pampa,17.8,10.6,,,
+1942-10-15,Tarabuco,14.4,5.6,,,
+1942-10-15,Apolo SENAMHI,,15.0,,,
+1942-10-15,Chacaltaya,17.7,-6.7,,,3.0
+1942-10-15,Muyupampa,,,,,5.0
+1942-10-15,Potosi Los Pinos,18.0,3.0,81.0,79.0,
+1942-10-15,Pocoata,15.0,1.1,,,
+1942-10-15,Tupiza,18.9,11.0,,,
+1942-10-16,Redencion Pampa,17.2,10.0,,,
+1942-10-16,Tarabuco,13.3,4.4,,,
+1942-10-16,Apolo SENAMHI,,13.0,,,
+1942-10-16,Betanzos,,,,,3.0
+1942-10-16,Chacaltaya,16.7,-6.7,,,1.0
+1942-10-16,Riberalta SENAMHI,,,,,2.0
+1942-10-16,Potosi Los Pinos,17.0,4.0,89.0,71.0,1.0
+1942-10-16,Riberalta Aeropuerto,,,,,2.0
+1942-10-16,El Alto Aeropuerto,,,,,2.0
+1942-10-16,Pocoata,23.0,2.2,,,7.5
+1942-10-16,Tupiza,20.0,11.1,,,
+1942-10-17,Redencion Pampa,17.8,10.6,,,
+1942-10-17,Tarabuco,18.9,5.6,,,
+1942-10-17,Apolo SENAMHI,,14.0,,,
+1942-10-17,Betanzos,,,,,1.0
+1942-10-17,Chacaltaya,13.3,-8.9,,,
+1942-10-17,Potosi Los Pinos,12.0,2.0,88.0,74.0,
+1942-10-17,Pocoata,16.0,1.7,,,
+1942-10-17,Tupiza,21.7,11.7,,,
+1942-10-18,Redencion Pampa,21.7,11.1,,,
+1942-10-18,Tarabuco,20.0,7.8,,,
+1942-10-18,Apolo SENAMHI,,16.0,,,
+1942-10-18,Chacaltaya,22.2,-4.4,,,
+1942-10-18,Potosi Los Pinos,20.0,4.0,83.0,72.0,
+1942-10-18,Pocoata,21.0,-1.1,,,
+1942-10-18,Tupiza,22.8,11.1,,,
+1942-10-19,Redencion Pampa,22.2,10.6,,,
+1942-10-19,Tarabuco,7.8,5.6,,,
+1942-10-19,Apolo SENAMHI,,18.0,,,
+1942-10-19,Chacaltaya,20.0,-5.6,,,2.0
+1942-10-19,Potosi Los Pinos,20.0,3.0,74.0,65.0,1.7
+1942-10-19,Pocoata,17.0,-3.9,,,
+1942-10-19,Tupiza,22.8,11.1,,,
+1942-10-20,Magdalena Aeropuerto,,,,,1.0
+1942-10-20,Redencion Pampa,25.6,9.4,,,
+1942-10-20,Tarabuco,23.3,10.0,,,
+1942-10-20,Apolo SENAMHI,,19.0,,,3.5
+1942-10-20,Chacaltaya,17.8,-6.7,,,6.0
+1942-10-20,Potosi Los Pinos,20.0,3.0,56.0,26.0,
+1942-10-20,Pocoata,22.0,0.0,,,
+1942-10-20,Tupiza,24.5,11.1,,,
+1942-10-21,Redencion Pampa,27.2,11.7,,,19.0
+1942-10-21,Tarabuco,22.2,6.7,,,14.0
+1942-10-21,Apolo SENAMHI,,19.0,,,3.5
+1942-10-21,San Calixto,,,,,20.0
+1942-10-21,Betanzos,,,,,2.0
+1942-10-21,Chacaltaya,11.1,-4.4,,,8.0
+1942-10-21,Vallegrande SENAMHI,,,,,10.0
+1942-10-21,Potosi Los Pinos,20.0,4.0,70.0,42.0,0.7
+1942-10-21,El Alto Aeropuerto,,,,,9.0
+1942-10-21,Pocoata,19.0,1.7,,,7.5
+1942-10-21,Tupiza,23.9,14.5,,,
+1942-10-22,Redencion Pampa,26.6,10.6,,,
+1942-10-22,Tarabuco,12.8,5.6,,,16.0
+1942-10-22,Apolo SENAMHI,,18.0,,,2.3
+1942-10-22,Betanzos,,,,,3.3
+1942-10-22,Chacaltaya,17.8,-3.3,,,
+1942-10-22,Muyupampa,,,,,20.5
+1942-10-22,Potosi Los Pinos,20.0,4.0,75.0,72.0,
+1942-10-22,Pocoata,20.0,1.7,,,
+1942-10-22,Tupiza,20.6,10.6,,,3.3
+1942-10-22,Villazon,,,,,35.0
+1942-10-23,Magdalena Aeropuerto,,,,,21.0
+1942-10-23,Redencion Pampa,11.1,9.4,,,
+1942-10-23,Tarabuco,12.2,5.6,,,
+1942-10-23,Apolo SENAMHI,,18.0,,,
+1942-10-23,Chacaltaya,17.8,-5.6,,,
+1942-10-23,Riberalta SENAMHI,,,,,7.0
+1942-10-23,Potosi Los Pinos,15.0,3.0,78.0,75.0,
+1942-10-23,Riberalta Aeropuerto,,,,,7.0
+1942-10-23,Pocoata,19.0,3.3,,,
+1942-10-23,Tupiza,14.5,10.0,,,4.3
+1942-10-24,Magdalena Aeropuerto,,,,,15.0
+1942-10-24,Redencion Pampa,17.2,9.4,,,
+1942-10-24,Tarabuco,23.3,5.6,,,16.0
+1942-10-24,Apolo SENAMHI,,14.0,,,5.6
+1942-10-24,Betanzos,,,,,1.2
+1942-10-24,Chacaltaya,11.1,-8.9,,,
+1942-10-24,Vallegrande SENAMHI,,,,,15.0
+1942-10-24,Potosi Los Pinos,19.0,4.0,82.0,70.0,0.9
+1942-10-24,Pocoata,17.0,-1.7,,,
+1942-10-24,Tupiza,18.9,10.0,,,
+1942-10-25,Redencion Pampa,22.2,10.0,,,
+1942-10-25,Tarabuco,21.1,20.0,,,
+1942-10-25,Apolo SENAMHI,,17.0,,,3.0
+1942-10-25,Betanzos,,,,,2.5
+1942-10-25,Chacaltaya,16.7,-6.7,,,4.0
+1942-10-25,Muyupampa,,,,,19.0
+1942-10-25,Potosi Los Pinos,20.0,4.0,74.0,66.0,
+1942-10-25,Pocoata,19.0,3.3,,,
+1942-10-25,Tupiza,21.1,12.2,,,1.5
+1942-10-25,Villazon,,,,,3.0
+1942-10-26,Redencion Pampa,26.1,11.1,,,8.0
+1942-10-26,Tarabuco,20.0,6.7,,,
+1942-10-26,Apolo SENAMHI,,16.0,,,
+1942-10-26,Betanzos,,,,,23.0
+1942-10-26,Chacaltaya,17.8,-6.7,,,
+1942-10-26,Potosi Los Pinos,21.0,4.0,72.0,57.0,1.6
+1942-10-26,Pocoata,23.0,3.9,,,
+1942-10-26,Tupiza,21.7,12.2,,,
+1942-10-27,Redencion Pampa,22.2,10.0,,,
+1942-10-27,Tarabuco,17.8,7.8,,,
+1942-10-27,Apolo SENAMHI,,15.0,,,34.0
+1942-10-27,Chacaltaya,17.8,-4.4,,,3.0
+1942-10-27,Potosi Los Pinos,21.0,3.0,42.0,37.0,
+1942-10-27,Pocoata,20.0,0.6,,,
+1942-10-27,Tupiza,22.2,12.2,,,
+1942-10-28,Magdalena Aeropuerto,,,,,9.0
+1942-10-28,Redencion Pampa,17.2,10.6,,,
+1942-10-28,Tarabuco,13.3,10.0,,,
+1942-10-28,Apolo SENAMHI,,17.0,,,0.8
+1942-10-28,Chacaltaya,20.0,-3.3,,,2.0
+1942-10-28,Muyupampa,,,,,2.5
+1942-10-28,Potosi Los Pinos,24.0,5.0,69.0,38.0,
+1942-10-28,Riberalta Aeropuerto,,,,,8.0
+1942-10-28,Pocoata,19.0,-1.7,,,3.5
+1942-10-28,Tupiza,24.5,12.8,,,
+1942-10-29,Magdalena Aeropuerto,,,,,24.0
+1942-10-29,Redencion Pampa,22.8,7.8,,,
+1942-10-29,Tarabuco,20.0,2.2,,,
+1942-10-29,Apolo SENAMHI,,14.0,,,
+1942-10-29,Betanzos,,,,,0.2
+1942-10-29,Chacaltaya,16.7,-5.6,,,1.5
+1942-10-29,Riberalta SENAMHI,,,,,8.0
+1942-10-29,Potosi Los Pinos,21.0,2.0,77.0,38.0,
+1942-10-29,Pocoata,25.0,1.7,,,
+1942-10-29,Tupiza,23.9,10.6,,,
+1942-10-30,Redencion Pampa,26.6,11.7,,,
+1942-10-30,Tarabuco,11.1,7.8,,,
+1942-10-30,Apolo SENAMHI,,15.0,,,
+1942-10-30,Chacaltaya,20.0,-7.8,,,
+1942-10-30,Potosi Los Pinos,21.0,1.0,25.0,10.0,
+1942-10-30,Pocoata,23.0,2.8,,,
+1942-10-30,Tupiza,22.8,10.6,,,
+1942-10-31,Redencion Pampa,22.2,7.8,,,
+1942-10-31,Tarabuco,10.0,0.0,,,
+1942-10-31,Apolo SENAMHI,,17.0,,,
+1942-10-31,Chacaltaya,17.8,-7.8,,,
+1942-10-31,Potosi Los Pinos,21.0,2.0,11.0,9.0,
+1942-10-31,Pocoata,,-5.0,,,
+1942-10-31,Tupiza,23.3,9.5,,,
+1942-11-01,Magdalena Aeropuerto,,,,,38.0
+1942-11-01,Redencion Pampa,25.6,9.4,,,
+1942-11-01,Tarabuco,14.4,,,,
+1942-11-01,Apolo SENAMHI,,17.0,,,
+1942-11-01,Chacaltaya,7.8,-10.0,,,
+1942-11-01,San Jose de Chiquitos Aerop,,,36.0,27.0,
+1942-11-01,Potosi Los Pinos,21.0,2.0,66.0,30.0,
+1942-11-01,Pocoata,18.0,-3.9,,,
+1942-11-01,Tupiza,22.2,11.1,,,
+1942-11-02,Redencion Pampa,13.3,8.9,,,
+1942-11-02,Tarabuco,16.7,,,,
+1942-11-02,Apolo SENAMHI,,17.0,,,
+1942-11-02,Chacaltaya,12.2,-7.8,,,
+1942-11-02,San Jose de Chiquitos Aerop,,,30.0,10.0,
+1942-11-02,Potosi Los Pinos,21.0,4.0,74.0,73.0,
+1942-11-02,Pocoata,16.0,-2.2,,,
+1942-11-02,Tupiza,20.6,11.1,,,
+1942-11-03,Redencion Pampa,21.7,9.4,,,
+1942-11-03,Tarabuco,17.8,,,,
+1942-11-03,Apolo SENAMHI,,16.0,,,14.6
+1942-11-03,Chacaltaya,13.3,-7.8,,,
+1942-11-03,Muyupampa,33.3,,,,
+1942-11-03,San Jose de Chiquitos Aerop,,,24.0,0.8,
+1942-11-03,Potosi Los Pinos,22.0,3.0,62.0,31.0,
+1942-11-03,Pocoata,24.0,-2.2,,,
+1942-11-03,Tupiza,22.8,12.2,,,
+1942-11-04,Redencion Pampa,22.8,10.0,,,
+1942-11-04,Tarabuco,18.9,,,,
+1942-11-04,Apolo SENAMHI,,18.0,,,1.5
+1942-11-04,Chacaltaya,12.2,-6.7,,,
+1942-11-04,Muyupampa,33.3,16.7,,,
+1942-11-04,San Jose de Chiquitos Aerop,,,21.0,14.0,
+1942-11-04,Potosi Los Pinos,22.0,4.0,85.0,78.0,4.5
+1942-11-04,Pocoata,23.0,-3.3,,,
+1942-11-04,Tupiza,22.8,10.0,,,
+1942-11-05,Redencion Pampa,17.8,10.6,,,1.5
+1942-11-05,Tarabuco,17.9,,,,
+1942-11-05,Apolo SENAMHI,,18.0,,,0.5
+1942-11-05,Chacaltaya,10.0,-6.7,,,
+1942-11-05,Muyupampa,31.3,18.9,,,
+1942-11-05,San Jose de Chiquitos Aerop,,,26.0,11.0,
+1942-11-05,Potosi Los Pinos,22.0,4.0,74.0,72.0,4.0
+1942-11-05,El Alto Aeropuerto,,,,,1.0
+1942-11-05,Pocoata,18.0,2.2,,,5.0
+1942-11-05,Tupiza,29.5,11.1,,,
+1942-11-06,Redencion Pampa,17.8,11.1,,,
+1942-11-06,Tarabuco,15.6,,,,
+1942-11-06,Apolo SENAMHI,,16.0,,,
+1942-11-06,Muyupampa,36.1,14.4,,,
+1942-11-06,San Jose de Chiquitos Aerop,,,22.0,9.0,
+1942-11-06,Potosi Los Pinos,20.0,4.0,70.0,60.0,
+1942-11-06,El Alto Aeropuerto,,,,,2.0
+1942-11-06,Cochabamba Aeropuerto,,,,,1.0
+1942-11-06,Pocoata,16.0,2.2,,,2.0
+1942-11-06,Tupiza,28.3,10.6,,,
+1942-11-07,Redencion Pampa,20.0,12.2,,,
+1942-11-07,Tarabuco,18.9,,,,
+1942-11-07,Apolo SENAMHI,,17.0,,,38.0
+1942-11-07,Muyupampa,34.4,15.6,,,
+1942-11-07,San Jose de Chiquitos Aerop,,,25.0,22.0,
+1942-11-07,Potosi Los Pinos,20.0,5.0,64.0,50.0,
+1942-11-07,Cochabamba Aeropuerto,,,,,2.0
+1942-11-07,Pocoata,20.0,1.7,,,8.0
+1942-11-07,Tupiza,30.0,11.7,,,
+1942-11-08,Redencion Pampa,21.7,10.6,,,5.0
+1942-11-08,Tarabuco,8.9,,,,
+1942-11-08,Apolo SENAMHI,,15.0,,,6.0
+1942-11-08,Vallegrande SENAMHI,,,,,10.0
+1942-11-08,Muyupampa,26.7,17.2,,,
+1942-11-08,San Jose de Chiquitos Aerop,,,41.0,38.0,49.0
+1942-11-08,Potosi Los Pinos,20.0,5.0,85.0,76.0,7.0
+1942-11-08,Cochabamba Aeropuerto,,,,,1.0
+1942-11-08,Pocoata,16.0,1.7,,,4.5
+1942-11-08,Tupiza,28.3,9.5,,,0.2
+1942-11-09,Redencion Pampa,16.7,10.6,,,
+1942-11-09,Apolo SENAMHI,,15.0,,,0.8
+1942-11-09,San Calixto,,,,,9.9
+1942-11-09,Concepcion Aeropuerto SCZ,,,,,34.0
+1942-11-09,Betanzos,,,,,6.6
+1942-11-09,Trompillo Aeropuerto,,,,,14.0
+1942-11-09,Chacaltaya,,,,,3.0
+1942-11-09,Vallegrande SENAMHI,,,,,25.0
+1942-11-09,Muyupampa,32.2,16.7,,,15.0
+1942-11-09,San Jose de Chiquitos Aerop,,,41.0,40.0,
+1942-11-09,Potosi Los Pinos,16.0,2.0,88.0,70.0,40.0
+1942-11-09,El Alto Aeropuerto,,,,,15.0
+1942-11-09,Cochabamba Aeropuerto,,,,,20.0
+1942-11-09,Pocoata,17.0,1.7,,,
+1942-11-09,Tupiza,22.2,8.3,,,
+1942-11-10,Redencion Pampa,19.4,11.1,,,
+1942-11-10,Tarabuco,15.6,,,,
+1942-11-10,Apolo SENAMHI,,15.0,,,0.2
+1942-11-10,Vallegrande Aeropuerto,,,,,25.0
+1942-11-10,Betanzos,,,,,1.3
+1942-11-10,Challapata (Tacagua),,,,,2.3
+1942-11-10,Muyupampa,28.8,16.1,,,
+1942-11-10,San Jose de Chiquitos Aerop,,,43.0,34.0,
+1942-11-10,Potosi Los Pinos,14.4,4.0,95.0,80.0,1.0
+1942-11-10,Pocoata,16.0,0.6,,,
+1942-11-10,Tupiza,23.3,8.9,,,
+1942-11-11,Redencion Pampa,17.2,12.2,,,
+1942-11-11,Tarabuco,14.4,,,,
+1942-11-11,Apolo SENAMHI,,16.0,,,
+1942-11-11,Concepcion Aeropuerto SCZ,,,,,2.0
+1942-11-11,Betanzos,,,,,1.0
+1942-11-11,Chacaltaya,,,,,2.0
+1942-11-11,Muyupampa,32.2,17.2,,,
+1942-11-11,San Jose de Chiquitos Aerop,,,40.0,33.0,54.0
+1942-11-11,Potosi Los Pinos,15.0,3.0,68.0,67.0,
+1942-11-11,Cochabamba Aeropuerto,,,,,24.0
+1942-11-11,Pocoata,20.0,0.0,,,
+1942-11-11,Tupiza,23.3,10.0,,,4.2
+1942-11-12,Redencion Pampa,22.2,12.8,,,
+1942-11-12,Tarabuco,20.0,,,,
+1942-11-12,Apolo SENAMHI,,16.0,,,
+1942-11-12,San Calixto,,,,,0.2
+1942-11-12,Betanzos,,,,,1.2
+1942-11-12,Trompillo Aeropuerto,,,,,55.0
+1942-11-12,Chacaltaya,,,,,3.0
+1942-11-12,Muyupampa,24.4,18.9,,,5.0
+1942-11-12,San Jose de Chiquitos Aerop,,,46.0,42.0,33.0
+1942-11-12,Potosi Los Pinos,18.0,1.0,30.0,16.0,
+1942-11-12,Pocoata,21.0,0.6,,,
+1942-11-12,Tupiza,28.9,8.9,,,
+1942-11-13,Magdalena Aeropuerto,,,,,4.0
+1942-11-13,Redencion Pampa,22.2,11.1,,,
+1942-11-13,Tarabuco,21.1,,,,
+1942-11-13,Apolo SENAMHI,,18.0,,,
+1942-11-13,Concepcion Aeropuerto SCZ,,,,,36.0
+1942-11-13,Trompillo Aeropuerto,,,,,6.0
+1942-11-13,Muyupampa,32.2,13.9,,,8.0
+1942-11-13,San Jose de Chiquitos Aerop,,,45.0,43.0,
+1942-11-13,Potosi Los Pinos,22.0,2.0,56.0,30.0,
+1942-11-13,Pocoata,22.0,4.4,,,
+1942-11-13,Tupiza,27.8,9.5,,,
+1942-11-14,Magdalena Aeropuerto,,,,,20.0
+1942-11-14,Redencion Pampa,23.9,12.2,,,
+1942-11-14,Tarabuco,20.0,,,,
+1942-11-14,Apolo SENAMHI,,18.0,,,
+1942-11-14,Concepcion Aeropuerto SCZ,,,,,25.0
+1942-11-14,Muyupampa,36.1,14.4,,,
+1942-11-14,San Jose de Chiquitos Aerop,,,46.0,39.0,
+1942-11-14,Potosi Los Pinos,22.0,4.0,61.0,11.0,
+1942-11-14,Pocoata,22.0,0.0,,,
+1942-11-14,Tupiza,34.5,11.1,,,
+1942-11-15,Redencion Pampa,24.4,12.2,,,
+1942-11-15,Tarabuco,16.7,,,,
+1942-11-15,Apolo SENAMHI,,18.0,,,0.5
+1942-11-15,Concepcion Aeropuerto SCZ,,,,,36.0
+1942-11-15,Chacaltaya,10.0,-10.0,,,
+1942-11-15,Muyupampa,31.7,17.2,,,
+1942-11-15,San Jose de Chiquitos Aerop,,,48.0,45.0,5.0
+1942-11-15,Potosi Los Pinos,22.0,2.0,53.0,25.0,
+1942-11-15,Pocoata,23.0,0.6,,,
+1942-11-15,Tupiza,33.9,10.0,,,
+1942-11-16,Redencion Pampa,23.9,13.3,,,
+1942-11-16,Tarabuco,22.2,,,,
+1942-11-16,Apolo SENAMHI,,18.0,,,
+1942-11-16,Concepcion Aeropuerto SCZ,,,,,39.0
+1942-11-16,Trompillo Aeropuerto,,,,,5.0
+1942-11-16,Chacaltaya,7.8,-8.9,,,
+1942-11-16,Muyupampa,28.1,17.8,,,
+1942-11-16,San Jose de Chiquitos Aerop,,,46.0,39.0,
+1942-11-16,Potosi Los Pinos,23.0,3.0,57.0,55.0,
+1942-11-16,Pocoata,23.0,0.0,,,3.5
+1942-11-16,Tupiza,30.0,11.1,,,
+1942-11-17,Magdalena Aeropuerto,,,,,23.0
+1942-11-17,Redencion Pampa,22.2,12.8,,,13.0
+1942-11-17,Tarabuco,18.9,,,,
+1942-11-17,Apolo SENAMHI,,18.0,,,13.1
+1942-11-17,Concepcion Aeropuerto SCZ,,,,,9.0
+1942-11-17,Chacaltaya,13.3,-7.8,,,
+1942-11-17,Muyupampa,28.9,16.7,,,
+1942-11-17,San Jose de Chiquitos Aerop,,,41.0,35.0,
+1942-11-17,Potosi Los Pinos,22.0,3.0,60.0,59.0,
+1942-11-17,Pocoata,22.0,0.0,,,
+1942-11-17,Tupiza,30.6,11.1,,,
+1942-11-18,Redencion Pampa,22.8,11.7,,,
+1942-11-18,Tarabuco,16.7,,,,
+1942-11-18,Apolo SENAMHI,,17.0,,,8.5
+1942-11-18,Chacaltaya,10.0,-6.7,,,
+1942-11-18,Vallegrande SENAMHI,,,,,19.0
+1942-11-18,Muyupampa,32.2,13.3,,,
+1942-11-18,San Jose de Chiquitos Aerop,,,38.0,32.0,
+1942-11-18,Potosi Los Pinos,23.0,6.0,67.0,66.0,
+1942-11-18,Cochabamba Aeropuerto,,,,,1.0
+1942-11-18,Pocoata,19.0,2.2,,,
+1942-11-18,Tupiza,28.3,10.0,,,
+1942-11-19,Redencion Pampa,27.2,11.7,,,14.0
+1942-11-19,Tarabuco,14.4,,,,
+1942-11-19,Apolo SENAMHI,,17.0,,,54.5
+1942-11-19,Concepcion Aeropuerto SCZ,,,,,6.0
+1942-11-19,Vallegrande Aeropuerto,,,,,15.0
+1942-11-19,Betanzos,,,,,2.7
+1942-11-19,Chacaltaya,12.2,-5.6,,,
+1942-11-19,Muyupampa,28.9,13.3,,,
+1942-11-19,San Jose de Chiquitos Aerop,,,37.0,29.0,
+1942-11-19,Potosi Los Pinos,20.0,4.0,71.0,53.0,
+1942-11-19,Pocoata,16.0,0.0,,,
+1942-11-19,Tupiza,26.7,9.5,,,
+1942-11-20,Redencion Pampa,21.7,10.6,,,7.0
+1942-11-20,Tarabuco,16.7,,,,
+1942-11-20,Apolo SENAMHI,,16.0,,,3.2
+1942-11-20,Vallegrande Aeropuerto,,,,,25.0
+1942-11-20,Trompillo Aeropuerto,,,,,11.0
+1942-11-20,Chacaltaya,8.9,-6.7,,,3.0
+1942-11-20,Riberalta SENAMHI,,,,,18.0
+1942-11-20,Muyupampa,28.3,16.7,,,15.0
+1942-11-20,San Jose de Chiquitos Aerop,,,34.0,31.0,
+1942-11-20,Potosi Los Pinos,21.0,5.0,70.0,66.0,9.0
+1942-11-20,Cochabamba Aeropuerto,,,,,10.0
+1942-11-20,Pocoata,20.0,0.0,,,
+1942-11-20,Tupiza,27.2,12.2,,,1.0
+1942-11-21,Magdalena Aeropuerto,,,,,26.0
+1942-11-21,Redencion Pampa,16.1,10.6,,,
+1942-11-21,Tarabuco,7.2,,,,3.0
+1942-11-21,Apolo SENAMHI,,15.0,,,
+1942-11-21,Concepcion Aeropuerto SCZ,,,,,6.0
+1942-11-21,Betanzos,,,,,4.3
+1942-11-21,Trompillo Aeropuerto,,,,,1.0
+1942-11-21,Chacaltaya,10.0,-1.1,,,2.0
+1942-11-21,Muyupampa,32.2,17.2,,,
+1942-11-21,San Jose de Chiquitos Aerop,,,36.0,30.0,
+1942-11-21,Potosi Los Pinos,18.0,4.0,83.0,55.0,0.9
+1942-11-21,Cochabamba Aeropuerto,,,,,1.0
+1942-11-21,Pocoata,16.0,3.0,,,
+1942-11-21,Tupiza,25.0,10.0,,,1.7
+1942-11-22,Redencion Pampa,21.1,12.8,,,
+1942-11-22,Tarabuco,15.6,,,,
+1942-11-22,Apolo SENAMHI,,15.0,,,2.0
+1942-11-22,Betanzos,,,,,0.4
+1942-11-22,Chacaltaya,11.1,-2.2,,,4.0
+1942-11-22,Muyupampa,29.4,13.3,,,
+1942-11-22,San Jose de Chiquitos Aerop,,,38.0,34.0,
+1942-11-22,Potosi Los Pinos,20.0,6.0,69.0,58.0,0.2
+1942-11-22,Pocoata,20.0,0.0,,,
+1942-11-22,Tupiza,28.5,11.0,,,
+1942-11-23,Redencion Pampa,21.7,11.1,,,
+1942-11-23,Tarabuco,17.8,,,,
+1942-11-23,Apolo SENAMHI,,16.0,,,
+1942-11-23,San Calixto,,,,,4.0
+1942-11-23,Betanzos,,,,,0.4
+1942-11-23,Challapata (Tacagua),,,,,0.9
+1942-11-23,Chacaltaya,10.0,-8.9,,,2.0
+1942-11-23,Muyupampa,32.9,16.7,,,
+1942-11-23,San Jose de Chiquitos Aerop,,,38.0,27.0,28.0
+1942-11-23,Potosi Los Pinos,19.0,4.0,76.0,62.0,9.1
+1942-11-23,Pocoata,17.0,0.0,,,8.0
+1942-11-23,Tupiza,32.0,11.5,,,
+1942-11-23,Villazon,,,,,3.3
+1942-11-24,Redencion Pampa,21.2,12.8,,,28.0
+1942-11-24,Tarabuco,20.0,,,,
+1942-11-24,Apolo SENAMHI,,15.0,,,
+1942-11-24,Betanzos,,,,,0.5
+1942-11-24,Trompillo Aeropuerto,,,,,24.0
+1942-11-24,Chacaltaya,11.1,-10.0,,,4.0
+1942-11-24,Vallegrande SENAMHI,,,,,20.0
+1942-11-24,Muyupampa,25.6,18.9,,,15.0
+1942-11-24,San Jose de Chiquitos Aerop,,,43.0,40.0,4.0
+1942-11-24,Potosi Los Pinos,23.0,4.0,64.0,64.0,4.9
+1942-11-24,Pocoata,23.0,0.0,,,
+1942-11-24,Tupiza,31.1,10.0,,,
+1942-11-25,Magdalena Aeropuerto,,,,,25.0
+1942-11-25,Redencion Pampa,21.1,10.6,,,
+1942-11-25,Tarabuco,18.9,,,,10.0
+1942-11-25,Apolo SENAMHI,,16.0,,,
+1942-11-25,Concepcion Aeropuerto SCZ,,,,,8.0
+1942-11-25,Vallegrande Aeropuerto,,,,,20.0
+1942-11-25,Betanzos,,,,,2.5
+1942-11-25,Trompillo Aeropuerto,,,,,21.0
+1942-11-25,Chacaltaya,7.8,-8.9,,,
+1942-11-25,Muyupampa,28.9,13.3,,,
+1942-11-25,San Jose de Chiquitos Aerop,,,45.0,39.0,
+1942-11-25,Potosi Los Pinos,18.0,4.0,75.0,65.0,
+1942-11-25,Cochabamba Aeropuerto,,,,,13.5
+1942-11-25,Pocoata,21.0,2.0,,,
+1942-11-25,Tupiza,27.8,8.3,,,2.2
+1942-11-26,Magdalena Aeropuerto,,,,,44.0
+1942-11-26,Redencion Pampa,17.8,11.7,,,
+1942-11-26,Tarabuco,17.8,,,,
+1942-11-26,Apolo SENAMHI,,16.0,,,
+1942-11-26,Trompillo Aeropuerto,,,,,1.0
+1942-11-26,Muyupampa,28.9,16.7,,,20.0
+1942-11-26,San Jose de Chiquitos Aerop,,,45.0,41.0,
+1942-11-26,Potosi Los Pinos,19.0,4.0,35.0,29.0,
+1942-11-26,Pocoata,22.0,-1.1,,,
+1942-11-26,Tupiza,30.0,10.0,,,
+1942-11-27,Redencion Pampa,21.1,12.2,,,
+1942-11-27,Tarabuco,20.6,,,,
+1942-11-27,Apolo SENAMHI,,16.0,,,
+1942-11-27,Muyupampa,21.1,16.7,,,
+1942-11-27,San Jose de Chiquitos Aerop,,,43.0,35.0,
+1942-11-27,Potosi Los Pinos,22.0,4.0,35.0,34.0,
+1942-11-27,Pocoata,23.0,-2.2,,,
+1942-11-27,Tupiza,31.1,10.0,,,
+1942-11-28,Redencion Pampa,23.3,11.7,,,
+1942-11-28,Tarabuco,24.4,,,,
+1942-11-28,Apolo SENAMHI,,17.0,,,
+1942-11-28,Muyupampa,35.0,17.8,,,4.0
+1942-11-28,San Jose de Chiquitos Aerop,,,45.0,37.0,
+1942-11-28,Potosi Los Pinos,22.0,5.0,55.0,7.0,
+1942-11-28,Pocoata,20.0,1.1,,,
+1942-11-28,Tupiza,33.3,11.1,,,
+1942-11-29,Redencion Pampa,28.3,11.1,,,
+1942-11-29,Tarabuco,13.3,,,,
+1942-11-29,Apolo SENAMHI,,18.0,,,20.0
+1942-11-29,San Calixto,,,,,6.0
+1942-11-29,Concepcion Aeropuerto SCZ,,,,,5.0
+1942-11-29,Muyupampa,34.4,17.8,,,
+1942-11-29,San Jose de Chiquitos Aerop,,,38.0,28.0,42.0
+1942-11-29,Potosi Los Pinos,22.0,4.0,16.0,13.0,
+1942-11-29,Pocoata,22.0,-2.2,,,30.0
+1942-11-29,Tupiza,32.2,9.5,,,
+1942-11-30,Magdalena Aeropuerto,,,,,29.0
+1942-11-30,Redencion Pampa,27.2,10.6,,,
+1942-11-30,Tarabuco,29.9,,,,
+1942-11-30,Apolo SENAMHI,,17.0,,,
+1942-11-30,Concepcion Aeropuerto SCZ,,,,,12.0
+1942-11-30,Trompillo Aeropuerto,,,,,13.0
+1942-11-30,Muyupampa,40.0,11.1,,,
+1942-11-30,San Jose de Chiquitos Aerop,,,37.0,27.0,
+1942-11-30,Potosi Los Pinos,22.0,5.0,61.0,45.0,
+1942-11-30,Pocoata,21.0,-4.4,,,
+1942-11-30,Tupiza,31.2,13.3,,,
+1942-12-01,Magdalena Aeropuerto,,,,,29.0
+1942-12-01,Redencion Pampa,17.2,6.1,,,
+1942-12-01,Apolo SENAMHI,,15.0,,,0.3
+1942-12-01,Chacaltaya,11.1,-5.6,,,
+1942-12-01,Apolo Aeropuerto,,,,,51.0
+1942-12-01,San Jose de Chiquitos Aerop,,,23.0,18.0,
+1942-12-01,Potosi Los Pinos,21.0,2.0,,,
+1942-12-01,Cochabamba Aeropuerto,,,,,1.0
+1942-12-01,Pocoata,24.0,5.6,,,
+1942-12-01,Tupiza,30.0,10.0,,,
+1942-12-02,Redencion Pampa,23.3,5.6,,,
+1942-12-02,Tarabuco,17.2,,,,
+1942-12-02,Apolo SENAMHI,,15.0,,,
+1942-12-02,Chacaltaya,12.2,-6.7,,,
+1942-12-02,San Jose de Chiquitos Aerop,,,30.0,23.0,
+1942-12-02,Potosi Los Pinos,22.0,3.0,,,
+1942-12-02,Pocoata,24.0,1.1,,,
+1942-12-02,Tupiza,27.8,11.1,,,
+1942-12-03,Redencion Pampa,17.2,5.0,,,
+1942-12-03,Tarabuco,15.6,,,,
+1942-12-03,Apolo SENAMHI,,13.0,,,
+1942-12-03,Chacaltaya,13.3,-4.4,,,1.0
+1942-12-03,San Jose de Chiquitos Aerop,,,25.0,18.0,
+1942-12-03,Potosi Los Pinos,20.6,1.0,,,
+1942-12-03,Pocoata,22.0,2.2,,,
+1942-12-03,Tupiza,26.7,10.0,,,
+1942-12-04,Redencion Pampa,17.8,6.0,,,
+1942-12-04,Tarabuco,15.6,,,,
+1942-12-04,Apolo SENAMHI,,14.0,,,
+1942-12-04,Chacaltaya,2.2,-6.7,,,
+1942-12-04,San Jose de Chiquitos Aerop,,,23.0,18.0,
+1942-12-04,Potosi Los Pinos,19.0,0.0,,,
+1942-12-04,Pocoata,20.0,1.7,,,
+1942-12-04,Tupiza,26.7,8.9,,,
+1942-12-05,Redencion Pampa,17.8,10.0,,,
+1942-12-05,Tarabuco,15.6,,,,
+1942-12-05,Apolo SENAMHI,,15.0,,,
+1942-12-05,Chacaltaya,4.4,-6.7,,,
+1942-12-05,San Jose de Chiquitos Aerop,,,26.0,14.0,
+1942-12-05,Potosi Los Pinos,17.0,1.0,,,
+1942-12-05,Pocoata,23.0,1.1,,,
+1942-12-05,Tupiza,23.3,7.2,,,
+1942-12-06,Tarabuco,16.1,,,,
+1942-12-06,Apolo SENAMHI,,14.0,,,
+1942-12-06,Chacaltaya,6.7,-6.7,,,1.0
+1942-12-06,San Jose de Chiquitos Aerop,,,29.0,23.0,
+1942-12-06,Potosi Los Pinos,22.0,3.0,,,
+1942-12-06,Pocoata,21.0,1.8,,,
+1942-12-06,Tupiza,27.2,8.9,,,
+1942-12-07,Redencion Pampa,21.1,10.6,,,
+1942-12-07,Tarabuco,16.7,,,,
+1942-12-07,Apolo SENAMHI,,16.0,,,
+1942-12-07,Chacaltaya,1.1,-7.8,,,
+1942-12-07,San Jose de Chiquitos Aerop,,,27.0,24.0,
+1942-12-07,Potosi Los Pinos,17.0,3.0,,,
+1942-12-07,Pocoata,19.0,3.3,,,
+1942-12-07,Tupiza,26.6,8.9,,,
+1942-12-08,Redencion Pampa,22.2,10.0,,,
+1942-12-08,Tarabuco,16.7,,,,
+1942-12-08,Apolo SENAMHI,,15.0,,,
+1942-12-08,Chacaltaya,3.3,-5.6,,,
+1942-12-08,San Jose de Chiquitos Aerop,,,26.0,19.0,
+1942-12-08,Potosi Los Pinos,21.0,3.0,,,
+1942-12-08,Pocoata,18.0,3.9,,,
+1942-12-08,Tupiza,29.5,8.3,,,
+1942-12-09,Redencion Pampa,24.4,12.2,,,
+1942-12-09,Tarabuco,21.1,,,,
+1942-12-09,Apolo SENAMHI,,17.0,,,
+1942-12-09,Chacaltaya,4.4,-4.4,,,3.0
+1942-12-09,Apolo Aeropuerto,,,,,1.0
+1942-12-09,San Jose de Chiquitos Aerop,,,33.0,25.0,
+1942-12-09,Potosi Los Pinos,22.0,4.0,,,0.6
+1942-12-09,Pocoata,,1.1,,,
+1942-12-09,Tupiza,31.1,8.9,,,
+1942-12-10,Redencion Pampa,24.4,11.7,,,
+1942-12-10,Tarabuco,18.9,,,,
+1942-12-10,Apolo SENAMHI,,16.0,,,16.6
+1942-12-10,Concepcion Aeropuerto SCZ,,,,,12.0
+1942-12-10,Chacaltaya,6.7,-4.4,,,1.0
+1942-12-10,Riberalta SENAMHI,,,,,4.0
+1942-12-10,Apolo Aeropuerto,,,,,46.0
+1942-12-10,San Jose de Chiquitos Aerop,,,31.0,26.0,
+1942-12-10,Potosi Los Pinos,22.0,5.0,,,
+1942-12-10,San Joaquin Aeropuerto,,,,,25.0
+1942-12-10,Pocoata,,1.2,,,
+1942-12-10,Tupiza,29.5,11.1,,,
+1942-12-11,Magdalena Aeropuerto,,,,,9.0
+1942-12-11,Redencion Pampa,22.8,13.3,,,
+1942-12-11,Tarabuco,17.8,,,,
+1942-12-11,Apolo SENAMHI,,15.0,,,
+1942-12-11,Chacaltaya,7.8,-5.6,,,
+1942-12-11,San Jose de Chiquitos Aerop,,,32.0,24.0,
+1942-12-11,Potosi Los Pinos,22.0,6.0,,,
+1942-12-11,Pocoata,14.0,1.7,,,
+1942-12-11,Tupiza,29.6,11.1,,,
+1942-12-12,Magdalena Aeropuerto,,,,,7.0
+1942-12-12,Redencion Pampa,22.8,11.1,,,
+1942-12-12,Tarabuco,18.9,,,,
+1942-12-12,Apolo SENAMHI,,15.0,,,5.0
+1942-12-12,Concepcion Aeropuerto SCZ,,,,,4.0
+1942-12-12,Chacaltaya,5.6,-4.4,,,
+1942-12-12,Apolo Aeropuerto,,,,,46.0
+1942-12-12,San Jose de Chiquitos Aerop,,,32.0,30.0,
+1942-12-12,Potosi Los Pinos,25.0,5.0,,,6.4
+1942-12-12,San Joaquin Aeropuerto,,,,,1.0
+1942-12-12,Pocoata,18.0,1.1,,,
+1942-12-12,Tupiza,32.2,10.6,,,
+1942-12-13,Redencion Pampa,24.4,13.3,,,16.0
+1942-12-13,Tarabuco,21.1,,,,
+1942-12-13,Apolo SENAMHI,,16.0,,,6.0
+1942-12-13,Vallegrande Aeropuerto,,,,,25.0
+1942-12-13,Betanzos,,,,,1.0
+1942-12-13,Challapata (Tacagua),,,,,1.5
+1942-12-13,Chacaltaya,3.5,-5.6,,,3.0
+1942-12-13,Vallegrande SENAMHI,,,,,2.0
+1942-12-13,Apolo Aeropuerto,,,,,25.0
+1942-12-13,San Jose de Chiquitos Aerop,,,41.0,31.0,42.0
+1942-12-13,Potosi Los Pinos,22.0,5.0,,,10.8
+1942-12-13,San Joaquin Aeropuerto,,,,,1.0
+1942-12-13,Cochabamba Aeropuerto,,,,,2.0
+1942-12-13,Pocoata,18.0,0.6,,,
+1942-12-13,Tupiza,32.8,11.1,,,
+1942-12-14,Magdalena Aeropuerto,,,,,3.0
+1942-12-14,Redencion Pampa,23.3,11.1,,,
+1942-12-14,Tarabuco,16.7,,,,7.0
+1942-12-14,Apolo SENAMHI,,18.0,,,0.1
+1942-12-14,Betanzos,,,,,6.4
+1942-12-14,Trompillo Aeropuerto,,,,,46.0
+1942-12-14,Chacaltaya,2.2,-5.6,,,5.0
+1942-12-14,Riberalta SENAMHI,,,,,66.0
+1942-12-14,Apolo Aeropuerto,,,,,26.0
+1942-12-14,San Jose de Chiquitos Aerop,,,50.0,35.0,
+1942-12-14,Potosi Los Pinos,22.0,3.0,,,0.3
+1942-12-14,Cochabamba Aeropuerto,,,,,4.0
+1942-12-14,Pocoata,16.0,1.8,,,2.0
+1942-12-14,Tupiza,33.3,11.1,,,
+1942-12-15,Redencion Pampa,22.2,10.0,,,
+1942-12-15,Tarabuco,12.2,,,,
+1942-12-15,Apolo SENAMHI,,17.0,,,14.5
+1942-12-15,Chacaltaya,2.2,-10.0,,,6.0
+1942-12-15,Apolo Aeropuerto,,,,,25.0
+1942-12-15,San Jose de Chiquitos Aerop,,,38.0,33.0,
+1942-12-15,Potosi Los Pinos,17.0,4.0,,,3.1
+1942-12-15,San Joaquin Aeropuerto,,,,,1.0
+1942-12-15,El Alto Aeropuerto,,,,,6.0
+1942-12-15,Cochabamba Aeropuerto,,,,,14.0
+1942-12-15,Pocoata,19.0,1.8,,,
+1942-12-15,Tupiza,33.3,10.6,,,1.5
+1942-12-16,Tarabuco,18.9,,,,
+1942-12-16,Apolo SENAMHI,,17.0,,,1.0
+1942-12-16,Betanzos,,,,,1.0
+1942-12-16,Chacaltaya,2.2,-4.4,,,3.0
+1942-12-16,Riberalta SENAMHI,,,,,56.0
+1942-12-16,San Jose de Chiquitos Aerop,,,40.0,31.0,8.0
+1942-12-16,Potosi Los Pinos,19.0,4.0,,,
+1942-12-16,San Joaquin Aeropuerto,,,,,16.0
+1942-12-16,Cochabamba Aeropuerto,,,,,1.0
+1942-12-16,Pocoata,20.0,1.8,,,
+1942-12-16,Tupiza,30.0,10.6,,,1.0
+1942-12-17,Magdalena Aeropuerto,,,,,1.0
+1942-12-17,Tarabuco,18.3,,,,2.0
+1942-12-17,Apolo SENAMHI,,17.0,,,
+1942-12-17,Betanzos,,,,,1.3
+1942-12-17,Challapata (Tacagua),,,,,9.2
+1942-12-17,Apolo Aeropuerto,,,,,61.0
+1942-12-17,San Jose de Chiquitos Aerop,,,48.0,36.0,
+1942-12-17,Potosi Los Pinos,21.0,5.0,,,
+1942-12-17,San Joaquin Aeropuerto,,,,,51.0
+1942-12-17,El Alto Aeropuerto,,,,,34.8
+1942-12-17,Cochabamba Aeropuerto,,,,,10.0
+1942-12-17,Pocoata,17.0,2.8,,,
+1942-12-17,Tupiza,30.0,11.1,,,2.8
+1942-12-18,Apolo SENAMHI,,17.0,,,5.3
+1942-12-18,Apolo Aeropuerto,,,,,10.0
+1942-12-18,San Jose de Chiquitos Aerop,,,37.0,30.0,
+1942-12-18,Potosi Los Pinos,15.0,5.0,,,0.4
+1942-12-18,Cochabamba Aeropuerto,,,,,3.0
+1942-12-18,Tupiza,23.9,7.8,,,8.0
+1942-12-19,Redencion Pampa,21.7,11.1,,,
+1942-12-19,Tarabuco,18.9,,,,4.0
+1942-12-19,Apolo SENAMHI,,16.0,,,31.5
+1942-12-19,Challapata (Tacagua),,,,,2.4
+1942-12-19,San Jose de Chiquitos Aerop,,,40.0,27.0,10.0
+1942-12-19,Potosi Los Pinos,19.0,6.0,,,0.1
+1942-12-19,San Joaquin Aeropuerto,,,,,28.0
+1942-12-19,Cochabamba Aeropuerto,,,,,1.0
+1942-12-19,Tupiza,28.9,8.9,,,1.8
+1942-12-20,Redencion Pampa,17.8,12.2,,,
+1942-12-20,Tarabuco,17.2,,,,
+1942-12-20,Apolo SENAMHI,,17.0,,,0.2
+1942-12-20,Betanzos,,,,,1.0
+1942-12-20,Challapata (Tacagua),,,,,0.4
+1942-12-20,San Jose de Chiquitos Aerop,,,45.0,39.0,
+1942-12-20,Potosi Los Pinos,23.0,6.0,,,2.8
+1942-12-20,San Joaquin Aeropuerto,,,,,3.0
+1942-12-20,Cochabamba Aeropuerto,,,,,1.0
+1942-12-20,Tupiza,33.3,12.8,,,18.0
+1942-12-21,Magdalena Aeropuerto,,,,,5.0
+1942-12-21,Redencion Pampa,21.1,10.0,,,25.0
+1942-12-21,Tarabuco,17.8,,,,
+1942-12-21,Apolo SENAMHI,,19.0,,,
+1942-12-21,Concepcion Aeropuerto SCZ,,,,,24.0
+1942-12-21,Challapata (Tacagua),,,,,0.2
+1942-12-21,Trompillo Aeropuerto,,,,,21.0
+1942-12-21,Riberalta SENAMHI,,,,,97.0
+1942-12-21,Apolo Aeropuerto,,,,,10.8
+1942-12-21,San Jose de Chiquitos Aerop,,,49.0,35.0,
+1942-12-21,Potosi Los Pinos,18.0,4.0,,,
+1942-12-21,San Joaquin Aeropuerto,,,,,21.0
+1942-12-21,Tupiza,32.2,11.1,,,
+1942-12-22,Magdalena Aeropuerto,,,,,109.0
+1942-12-22,Redencion Pampa,22.0,10.0,,,14.0
+1942-12-22,Tarabuco,16.7,,,,
+1942-12-22,Apolo SENAMHI,,18.0,,,
+1942-12-22,Riberalta SENAMHI,,,,,10.0
+1942-12-22,San Jose de Chiquitos Aerop,,,45.0,36.0,
+1942-12-22,Potosi Los Pinos,20.0,5.0,,,1.5
+1942-12-22,San Joaquin Aeropuerto,,,,,1.0
+1942-12-22,Cochabamba Aeropuerto,,,,,6.0
+1942-12-22,Tupiza,34.5,12.2,,,
+1942-12-23,Redencion Pampa,21.1,10.0,,,
+1942-12-23,Tarabuco,17.2,,,,
+1942-12-23,Apolo SENAMHI,,16.0,,,4.7
+1942-12-23,San Calixto,,,,,2.5
+1942-12-23,Concepcion Aeropuerto SCZ,,,,,4.0
+1942-12-23,Apolo Aeropuerto,,,,,33.0
+1942-12-23,San Jose de Chiquitos Aerop,,,42.0,27.0,
+1942-12-23,Potosi Los Pinos,15.0,4.0,,,0.3
+1942-12-23,Cochabamba Aeropuerto,,,,,1.0
+1942-12-23,Tupiza,33.9,12.2,,,
+1942-12-24,Redencion Pampa,,10.6,,,14.0
+1942-12-24,Tarabuco,20.0,,,,
+1942-12-24,Apolo SENAMHI,,18.0,,,
+1942-12-24,San Calixto,,,,,10.0
+1942-12-24,Challapata (Tacagua),,,,,3.9
+1942-12-24,San Jose de Chiquitos Aerop,,,39.0,31.0,
+1942-12-24,Potosi Los Pinos,20.0,5.0,,,
+1942-12-24,Tupiza,30.0,11.7,,,1.0
+1942-12-25,Redencion Pampa,21.1,,,,
+1942-12-25,Tarabuco,16.7,,,,
+1942-12-25,Apolo SENAMHI,,16.0,,,
+1942-12-25,San Calixto,,,,,2.5
+1942-12-25,Concepcion Aeropuerto SCZ,,,,,16.0
+1942-12-25,Challapata (Tacagua),,,,,5.6
+1942-12-25,San Jose de Chiquitos Aerop,,,45.0,27.0,
+1942-12-25,Potosi Los Pinos,20.0,6.0,,,
+1942-12-25,San Joaquin Aeropuerto,,,,,1.0
+1942-12-25,Cochabamba Aeropuerto,,,,,1.0
+1942-12-25,Tupiza,33.9,14.5,,,
+1942-12-26,Magdalena Aeropuerto,,,,,12.0
+1942-12-26,Redencion Pampa,,10.6,,,
+1942-12-26,Tarabuco,20.0,,,,
+1942-12-26,Apolo SENAMHI,,18.0,,,21.5
+1942-12-26,Vallegrande Aeropuerto,,,,,5.0
+1942-12-26,Betanzos,,,,,12.0
+1942-12-26,Challapata (Tacagua),,,,,6.5
+1942-12-26,Apolo Aeropuerto,,,,,12.0
+1942-12-26,San Jose de Chiquitos Aerop,,,36.0,20.0,27.0
+1942-12-26,Potosi Los Pinos,19.0,7.0,,,12.4
+1942-12-26,El Alto Aeropuerto,,,,,25.0
+1942-12-26,Tupiza,34.5,14.5,,,
+1942-12-27,Apolo SENAMHI,,19.0,,,
+1942-12-27,Concepcion Aeropuerto SCZ,,,,,9.0
+1942-12-27,Betanzos,,,,,3.0
+1942-12-27,Trompillo Aeropuerto,,,,,12.0
+1942-12-27,San Jose de Chiquitos Aerop,,,50.0,46.0,
+1942-12-27,Potosi Los Pinos,22.0,4.0,,,1.3
+1942-12-27,San Joaquin Aeropuerto,,,,,27.0
+1942-12-27,Cochabamba Aeropuerto,,,,,10.0
+1942-12-27,Tupiza,34.5,8.9,,,18.0
+1942-12-28,Magdalena Aeropuerto,,,,,4.0
+1942-12-28,Redencion Pampa,,,,,14.0
+1942-12-28,Apolo SENAMHI,,18.0,,,5.6
+1942-12-28,Betanzos,,,,,3.0
+1942-12-28,Trompillo Aeropuerto,,,,,10.0
+1942-12-28,Apolo Aeropuerto,,,,,11.6
+1942-12-28,San Jose de Chiquitos Aerop,,,52.0,36.0,
+1942-12-28,Potosi Los Pinos,12.0,5.0,,,
+1942-12-28,El Alto Aeropuerto,,,,,10.0
+1942-12-28,Cochabamba Aeropuerto,,,,,1.0
+1942-12-28,Tupiza,23.3,10.0,,,1.0
+1942-12-29,Redencion Pampa,21.1,10.6,,,
+1942-12-29,Tarabuco,15.6,,,,
+1942-12-29,Apolo SENAMHI,,16.0,,,
+1942-12-29,Betanzos,,,,,12.0
+1942-12-29,San Jose de Chiquitos Aerop,,,50.0,41.0,
+1942-12-29,Potosi Los Pinos,17.5,8.0,,,
+1942-12-29,El Alto Aeropuerto,,,,,15.0
+1942-12-29,Cochabamba Aeropuerto,,,,,2.0
+1942-12-29,Tupiza,27.8,12.8,,,
+1942-12-30,Tarabuco,15.6,,,,5.0
+1942-12-30,Apolo SENAMHI,,16.0,,,6.7
+1942-12-30,Concepcion Aeropuerto SCZ,,,,,5.0
+1942-12-30,Betanzos,,,,,2.4
+1942-12-30,Apolo Aeropuerto,,,,,21.0
+1942-12-30,San Jose de Chiquitos Aerop,,,50.0,37.0,
+1942-12-30,Potosi Los Pinos,18.0,4.0,,,
+1942-12-30,Tupiza,33.3,11.7,,,
+1942-12-31,Tarabuco,20.0,,,,
+1942-12-31,Apolo SENAMHI,,19.0,,,
+1942-12-31,San Jose de Chiquitos Aerop,,,54.0,38.0,
+1942-12-31,Potosi Los Pinos,18.0,6.0,,,
+1942-12-31,Pocoata,,,,,1.5
+1942-12-31,Tupiza,31.1,8.3,,,2.1
