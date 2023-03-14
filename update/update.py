@@ -10,6 +10,7 @@ QUERIES = {
     1: 'precipitacion',
     2: 'temperatura',
     6: 'humedad_relativa',
+    14: 'presion',
     15: 'viento_direccion',
     16: 'viento_velocidad',
 }
@@ -37,7 +38,8 @@ DF_COLUMNS = [
     'viento_velocidad',
     'temperatura',
     'humedad_relativa',
-    'precipitacion'
+    'precipitacion',
+    'presion',
 ]
 
 
