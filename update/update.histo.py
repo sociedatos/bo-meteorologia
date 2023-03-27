@@ -1,7 +1,6 @@
 import os
 import io
 import glob
-import tqdm
 import json
 import time
 import requests
@@ -136,7 +135,7 @@ def download_stations_data(stations):
     request_date = pd.to_datetime('today')
     station_data = []
 
-    for station_id, station in tqdm.tqdm(stations.iterrows(), total=len(stations)):
+    for station_id, station in stations.iterrows():
         station = do_download_station_data(station_id, station, request_date)
         if not station:
             continue
