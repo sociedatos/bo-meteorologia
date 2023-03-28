@@ -122,7 +122,11 @@ def write_station_data(station_data):
             continue
 
         file_name = './data_historical/{}.csv'.format(data_date.year)
-        stored_df = pd.read_csv(file_name, index_col=['fecha', 'estacion'])
+        stored_df = pd.read_csv(
+            file_name,
+            index_col=['fecha', 'estacion'],
+            parse_dates=['fecha']
+        )
 
         data_df = pd.concat([stored_df, data_df])
 
