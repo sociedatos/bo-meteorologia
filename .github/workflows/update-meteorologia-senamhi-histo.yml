@@ -1,7 +1,7 @@
 name: Update meteo senamhi histo
 on:
   schedule:
-    - cron: '0 6 * * MON'
+    - cron: '0 23 * * MON'
 jobs:
   update:
     name: update data
