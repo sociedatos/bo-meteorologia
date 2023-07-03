@@ -53,6 +53,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-01,Cuatro Cañadas - CEA-2 (GPRS),33.04,24.57,93.8,55.7,1.4
 2023-01-01,Cuatro Cañadas - Colonia Chihuahua (GPRS),32.98,24.07,97.0,58.23,31.2
 2023-01-01,Culpina,26.0,7.0,90.0,76.0,
+2023-01-01,Culta,,2.0,,,
 2023-01-01,Desaguadero_M,15.33,3.5,89.7,49.2,6.0
 2023-01-01,El Alto,11.0,8.0,86.6,70.8,
 2023-01-01,El Alto Aeropuerto,16.8,4.3,,,
@@ -253,6 +254,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-02,Cuatro Cañadas - CEA-2 (GPRS),33.63,22.6,98.5,54.49,
 2023-01-02,Cuatro Cañadas - Colonia Chihuahua (GPRS),33.82,23.16,99.2,59.15,0.2
 2023-01-02,Culpina,20.0,9.0,99.0,82.0,3.0
+2023-01-02,Culta,,1.0,,,
 2023-01-02,Desaguadero_M,12.0,7.29,90.1,60.79,8.2
 2023-01-02,El Alto,12.0,3.0,99.3,61.4,
 2023-01-02,El Alto Aeropuerto,12.2,4.2,,,45.8
@@ -483,6 +485,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-03,Cuatro Cañadas - CEA-2 (GPRS),28.18,19.97,98.2,77.57,27.6
 2023-01-03,Cuatro Cañadas - Colonia Chihuahua (GPRS),29.71,21.78,98.9,72.41,50.8
 2023-01-03,Culpina,22.0,10.0,100.0,86.0,
+2023-01-03,Culta,,2.0,,,
 2023-01-03,Desaguadero_M,15.59,3.76,73.54,52.64,2.1
 2023-01-03,Dorado Chico,,,,,4.2
 2023-01-03,El Alto,13.0,5.0,75.4,75.4,
@@ -724,6 +727,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-04,Cuatro Cañadas - CEA-2 (GPRS),24.43,18.73,97.0,69.83,13.8
 2023-01-04,Cuatro Cañadas - Colonia Chihuahua (GPRS),23.68,18.12,99.4,80.2,51.6
 2023-01-04,Culpina,16.0,6.0,91.0,75.0,3.4
+2023-01-04,Culta,,3.0,,,
 2023-01-04,Desaguadero_M,15.39,5.85,90.4,44.5,1.2
 2023-01-04,El Alto,9.0,9.0,80.9,80.9,
 2023-01-04,El Alto Aeropuerto,12.4,5.1,,,2.6
@@ -959,6 +963,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-05,Cuatro Cañadas - CEA-2 (GPRS),32.91,19.38,98.0,38.22,
 2023-01-05,Cuatro Cañadas - Colonia Chihuahua (GPRS),33.04,19.43,99.9,39.6,0.2
 2023-01-05,Culpina,20.0,3.0,933.0,76.0,
+2023-01-05,Culta,,2.0,,,
 2023-01-05,Desaguadero_M,13.75,5.65,85.6,53.5,7.2
 2023-01-05,El Alto,10.0,4.0,80.5,80.5,
 2023-01-05,El Alto Aeropuerto,10.8,4.6,,,13.7
@@ -1191,6 +1196,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-06,Cuatro Cañadas - CEA-2 (GPRS),33.96,20.96,95.4,32.36,
 2023-01-06,Cuatro Cañadas - Colonia Chihuahua (GPRS),33.76,20.6,98.7,39.81,
 2023-01-06,Culpina,20.0,4.0,90.0,74.0,
+2023-01-06,Culta,,1.0,,,
 2023-01-06,Desaguadero_M,14.35,7.68,78.44,48.15,3.0
 2023-01-06,El Alto,6.0,6.0,86.4,86.4,
 2023-01-06,El Alto Aeropuerto,13.8,4.1,,,7.1
@@ -1408,6 +1414,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-07,Cuatro Cañadas - CEA-2 (GPRS),35.14,23.97,93.9,37.29,
 2023-01-07,Cuatro Cañadas - Colonia Chihuahua (GPRS),34.81,23.16,95.9,40.98,
 2023-01-07,Culpina,22.0,7.0,90.0,82.0,
+2023-01-07,Culta,,2.0,,,
 2023-01-07,Desaguadero_M,15.0,4.74,88.6,42.82,7.9
 2023-01-07,El Alto,14.0,5.0,86.3,86.3,
 2023-01-07,El Alto Aeropuerto,15.6,2.4,,,0.6
@@ -1605,6 +1612,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-08,Cuatro Cañadas - CEA-2 (GPRS),34.09,24.51,93.0,47.43,
 2023-01-08,Cuatro Cañadas - Colonia Chihuahua (GPRS),35.07,24.14,96.4,48.41,
 2023-01-08,Culpina,18.0,8.0,93.0,74.0,3.4
+2023-01-08,Culta,,3.0,,,
 2023-01-08,Desaguadero_M,14.61,3.89,88.3,49.33,1.4
 2023-01-08,El Alto,7.0,7.0,80.7,80.7,
 2023-01-08,El Alto Aeropuerto,15.0,4.6,,,
@@ -1805,6 +1813,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-09,Cuatro Cañadas - CEA-2 (GPRS),31.27,21.68,99.3,59.68,5.8
 2023-01-09,Cuatro Cañadas - Colonia Chihuahua (GPRS),31.5,21.59,99.5,62.5,
 2023-01-09,Culpina,20.0,9.0,97.0,77.0,0.4
+2023-01-09,Culta,,2.0,,,
 2023-01-09,Desaguadero_M,15.06,3.95,65.85,40.32,0.4
 2023-01-09,Dorado Chico,,,,,2.8
 2023-01-09,El Alto,7.0,7.0,80.7,80.7,
@@ -2047,6 +2056,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-10,Cuatro Cañadas - CEA-2 (GPRS),31.4,22.8,97.5,61.28,
 2023-01-10,Cuatro Cañadas - Colonia Chihuahua (GPRS),32.06,21.92,99.3,57.71,6.8
 2023-01-10,Culpina,22.0,10.0,96.0,79.0,1.1
+2023-01-10,Culta,,1.0,,,
 2023-01-10,Desaguadero_M,16.63,4.28,84.0,28.35,0.1
 2023-01-10,El Alto,9.0,9.0,75.5,75.5,
 2023-01-10,El Alto Aeropuerto,17.8,4.2,,,1.1
@@ -2268,6 +2278,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-11,Cuatro Cañadas - CEA-2 (GPRS),32.25,24.64,93.5,55.95,
 2023-01-11,Cuatro Cañadas - Colonia Chihuahua (GPRS),33.24,23.37,98.4,54.2,
 2023-01-11,Culpina,25.0,6.0,86.0,80.0,
+2023-01-11,Culta,,3.0,,,
 2023-01-11,Desaguadero_M,16.96,5.59,85.6,32.66,
 2023-01-11,El Alto,8.0,8.0,80.8,80.8,
 2023-01-11,El Alto Aeropuerto,17.7,3.4,,,
@@ -2481,6 +2492,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-12,Cuatro Cañadas - CEA-2 (GPRS),25.39,21.95,92.2,77.22,
 2023-01-12,Cuatro Cañadas - Colonia Chihuahua (GPRS),26.37,20.55,98.7,71.41,
 2023-01-12,Culpina,24.0,6.0,91.0,82.0,2.9
+2023-01-12,Culta,,2.0,,,
 2023-01-12,Desaguadero_M,17.2,0.86,84.5,27.31,
 2023-01-12,El Alto,17.0,3.0,70.4,70.4,
 2023-01-12,El Alto Aeropuerto,18.0,1.0,,,
@@ -2697,6 +2709,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-13,Cuatro Cañadas - CEA-2 (GPRS),31.83,18.4,98.4,65.47,
 2023-01-13,Cuatro Cañadas - Colonia Chihuahua (GPRS),31.54,18.57,99.0,63.89,13.6
 2023-01-13,Culpina,18.0,7.0,98.0,85.0,
+2023-01-13,Culta,,3.0,,,
 2023-01-13,Desaguadero_M,17.35,-3.37,67.01,12.63,
 2023-01-13,El Alto,10.0,10.0,53.2,53.2,
 2023-01-13,El Alto Aeropuerto,19.2,2.1,,,
@@ -2913,6 +2926,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-14,Cuatro Cañadas - CEA-2 (GPRS),23.67,18.14,100.0,77.54,33.4
 2023-01-14,Cuatro Cañadas - Colonia Chihuahua (GPRS),23.62,18.71,100.0,80.5,42.6
 2023-01-14,Culpina,22.0,3.0,81.0,68.0,
+2023-01-14,Culta,,4.0,,,
 2023-01-14,Desaguadero_M,16.11,-1.27,74.94,9.89,
 2023-01-14,El Alto,16.0,2.0,17.3,17.3,
 2023-01-14,El Alto Aeropuerto,17.2,-1.9,,,
@@ -3101,6 +3115,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-15,Cuatro Cañadas - CEA-2 (GPRS),29.63,21.75,99.2,61.54,
 2023-01-15,Cuatro Cañadas - Colonia Chihuahua (GPRS),30.16,21.06,100.0,60.69,0.2
 2023-01-15,Culpina,22.0,3.0,86.0,62.0,
+2023-01-15,Culta,,2.0,,,
 2023-01-15,Desaguadero_M,16.89,4.35,84.9,18.64,
 2023-01-15,El Alto,6.0,6.0,80.5,80.5,
 2023-01-15,El Alto Aeropuerto,17.6,2.0,,,
@@ -3287,6 +3302,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-16,Cuatro Cañadas - CEA-2 (GPRS),31.74,23.06,98.1,62.28,
 2023-01-16,Cuatro Cañadas - Colonia Chihuahua (GPRS),32.38,23.49,98.5,61.75,
 2023-01-16,Culpina,22.0,6.0,97.0,56.0,
+2023-01-16,Culta,,3.0,,,
 2023-01-16,Desaguadero_M,16.96,6.83,76.09,24.11,
 2023-01-16,El Alto,6.0,6.0,80.5,80.5,
 2023-01-16,El Alto Aeropuerto,17.5,1.2,,,
@@ -3496,6 +3512,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-17,Cuatro Cañadas - CEA-2 (GPRS),29.37,23.13,98.0,70.28,
 2023-01-17,Cuatro Cañadas - Colonia Chihuahua (GPRS),28.73,22.31,99.1,71.18,
 2023-01-17,Culpina,23.0,6.0,75.0,47.0,
+2023-01-17,Culta,,4.0,,,
 2023-01-17,Desaguadero_M,16.5,3.68,82.1,26.39,1.4
 2023-01-17,Dorado Chico,,,,,4.5
 2023-01-17,El Alto,16.0,3.0,99.3,24.9,
@@ -3712,6 +3729,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-18,Cuatro Cañadas - Colonia Chihuahua (GPRS),34.22,22.24,98.7,52.12,
 2023-01-18,Cuevo (GPRS),-39.5,-39.91,0.25,0.08,
 2023-01-18,Culpina,23.0,7.0,71.0,49.0,
+2023-01-18,Culta,,5.0,,,
 2023-01-18,Desaguadero_M,16.83,5.72,76.34,34.15,
 2023-01-18,El Alto,7.0,7.0,75.2,75.2,
 2023-01-18,El Alto Aeropuerto,16.4,2.8,,,
@@ -3936,6 +3954,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-19,Cuatro Cañadas - CEA-2 (GPRS),31.73,23.59,95.3,58.67,
 2023-01-19,Cuatro Cañadas - Colonia Chihuahua (GPRS),32.59,23.09,97.1,59.53,
 2023-01-19,Culpina,21.0,6.0,98.0,73.0,5.2
+2023-01-19,Culta,,3.0,,,
 2023-01-19,Desaguadero_M,15.31,3.89,89.6,41.06,
 2023-01-19,Dorado Chico,,,,,2.8
 2023-01-19,El Alto,11.0,4.0,99.3,53.2,
@@ -4169,6 +4188,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-20,Cuatro Cañadas - CEA-2 (GPRS),32.71,24.64,88.0,54.34,
 2023-01-20,Cuatro Cañadas - Colonia Chihuahua (GPRS),33.31,24.07,90.4,52.98,
 2023-01-20,Culpina,25.0,5.0,88.0,81.0,3.0
+2023-01-20,Culta,,4.0,,,
 2023-01-20,Desaguadero_M,15.01,4.84,82.7,34.28,
 2023-01-20,El Alto,17.0,5.0,86.5,86.5,
 2023-01-20,El Alto Aeropuerto,18.0,2.8,,,0.8
@@ -4382,6 +4402,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-21,Cuatro Cañadas - CEA-2 (GPRS),31.68,24.9,88.9,59.02,
 2023-01-21,Cuatro Cañadas - Colonia Chihuahua (GPRS),32.85,24.21,88.4,55.11,
 2023-01-21,Culpina,26.0,5.0,99.0,74.0,
+2023-01-21,Culta,,2.0,,,
 2023-01-21,Desaguadero_M,18.01,2.62,87.2,27.81,
 2023-01-21,El Alto,10.0,10.0,61.4,61.4,
 2023-01-21,El Alto Aeropuerto,18.4,4.6,,,
@@ -4563,6 +4584,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-22,Cuatro Cañadas - CEA-2 (GPRS),32.78,24.7,93.1,57.85,
 2023-01-22,Cuatro Cañadas - Colonia Chihuahua (GPRS),33.25,24.14,92.8,56.41,
 2023-01-22,Culpina,24.0,12.0,91.0,85.0,
+2023-01-22,Culta,,3.0,,,
 2023-01-22,Desaguadero_M,16.77,3.7,77.19,32.52,
 2023-01-22,El Alto,8.0,8.0,75.4,75.4,
 2023-01-22,El Alto Aeropuerto,17.4,3.8,,,
@@ -4746,6 +4768,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-23,Cuatro Cañadas - CEA-2 (GPRS),33.04,23.79,97.6,57.07,
 2023-01-23,Cuatro Cañadas - Colonia Chihuahua (GPRS),33.89,24.4,96.4,55.7,
 2023-01-23,Culpina,21.0,12.0,91.0,79.0,
+2023-01-23,Culta,,4.0,,,
 2023-01-23,Desaguadero_M,17.35,5.12,83.3,25.94,
 2023-01-23,El Alto,8.0,8.0,60.9,60.9,
 2023-01-23,El Alto Aeropuerto,16.2,3.4,,,
@@ -4974,6 +4997,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-24,Cuatro Cañadas - CEA-2 (GPRS),29.42,24.38,93.7,74.06,5.4
 2023-01-24,Cuatro Cañadas - Colonia Chihuahua (GPRS),31.01,24.08,94.9,65.81,
 2023-01-24,Culpina,26.0,5.0,92.0,76.0,
+2023-01-24,Culta,,2.0,,,
 2023-01-24,Desaguadero_M,16.5,5.72,84.4,40.75,
 2023-01-24,El Alto,17.0,5.0,75.2,75.2,
 2023-01-24,El Alto Aeropuerto,19.8,4.2,,,
@@ -5209,6 +5233,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-25,Cuatro Cañadas - CEA-2 (GPRS),32.85,24.7,93.2,58.18,
 2023-01-25,Cuatro Cañadas - Colonia Chihuahua (GPRS),33.68,24.87,91.4,54.14,
 2023-01-25,Culpina,23.0,10.0,84.0,63.0,
+2023-01-25,Culta,,4.0,,,
 2023-01-25,Desaguadero_M,15.26,4.78,83.4,44.1,0.8
 2023-01-25,Dorado Chico,,,,,3.3
 2023-01-25,El Alto,6.0,6.0,83.0,83.0,
@@ -5439,6 +5464,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-26,Cuatro Cañadas - CEA-2 (GPRS),30.55,23.39,98.1,67.48,
 2023-01-26,Cuatro Cañadas - Colonia Chihuahua (GPRS),31.53,22.26,99.6,64.09,
 2023-01-26,Culpina,22.0,9.0,98.0,90.0,6.6
+2023-01-26,Culta,,3.0,,,
 2023-01-26,Desaguadero_M,14.62,4.49,90.4,42.22,
 2023-01-26,Dorado Chico,,,,,4.8
 2023-01-26,El Alto,15.0,4.0,75.4,75.4,
@@ -5668,6 +5694,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-27,Cuatro Cañadas - CEA-2 (GPRS),29.83,23.72,98.7,66.39,0.2
 2023-01-27,Cuatro Cañadas - Colonia Chihuahua (GPRS),30.88,23.56,98.9,66.36,11.2
 2023-01-27,Culpina,24.0,8.0,91.0,85.0,
+2023-01-27,Culta,,2.0,,,
 2023-01-27,Desaguadero_M,14.35,5.11,92.3,45.23,1.5
 2023-01-27,El Alto,15.0,4.0,92.7,92.7,
 2023-01-27,El Alto Aeropuerto,15.0,5.2,,,1.5
@@ -5902,6 +5929,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-28,Cuatro Cañadas - CEA-2 (GPRS),32.58,21.72,99.1,60.14,
 2023-01-28,Cuatro Cañadas - Colonia Chihuahua (GPRS),32.13,23.03,99.9,68.14,
 2023-01-28,Culpina,17.0,9.0,98.0,77.0,
+2023-01-28,Culta,,3.0,,,
 2023-01-28,Desaguadero_M,13.56,5.87,82.7,54.22,1.3
 2023-01-28,Dorado Chico,,,,,9.5
 2023-01-28,El Alto,6.0,6.0,92.7,92.7,
@@ -6121,6 +6149,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-29,Cuatro Cañadas - CEA-2 (GPRS),29.1,22.95,99.8,76.99,15.2
 2023-01-29,Cuatro Cañadas - Colonia Chihuahua (GPRS),29.07,23.22,100.0,86.3,19.2
 2023-01-29,Culpina,18.0,10.0,98.0,73.0,14.5
+2023-01-29,Culta,,1.0,,,
 2023-01-29,Desaguadero_M,11.54,6.51,90.6,57.15,2.1
 2023-01-29,Dorado Chico,,,,,7.4
 2023-01-29,El Alto,9.0,5.0,86.5,86.5,
@@ -6356,6 +6385,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-30,Cuatro Cañadas - CEA-2 (GPRS),28.57,23.13,98.3,72.7,28.8
 2023-01-30,Cuatro Cañadas - Colonia Chihuahua (GPRS),29.62,23.09,96.7,70.17,37.0
 2023-01-30,Culpina,21.0,8.0,92.0,77.0,1.4
+2023-01-30,Culta,,2.0,,,
 2023-01-30,Desaguadero_M,14.09,7.55,88.6,48.94,1.6
 2023-01-30,Dorado Chico,,,,,9.5
 2023-01-30,El Alto,7.0,7.0,86.5,86.5,
@@ -6612,6 +6642,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-31,Cuatro Cañadas - CEA-2 (GPRS),29.75,22.08,99.3,68.9,0.2
 2023-01-31,Cuatro Cañadas - Colonia Chihuahua (GPRS),31.41,22.89,99.4,65.33,
 2023-01-31,Culpina,18.0,10.0,99.0,65.0,13.6
+2023-01-31,Culta,,3.0,,,
 2023-01-31,Desaguadero_M,13.04,4.36,91.4,59.9,2.2
 2023-01-31,Dorado Chico,,,,,4.2
 2023-01-31,El Alto,13.0,2.0,92.8,92.8,
@@ -6862,6 +6893,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-01,Cuatro Cañadas - CEA-2 (GPRS),28.25,21.23,100.0,77.44,2.8
 2023-02-01,Cuatro Cañadas - Colonia Chihuahua (GPRS),28.2,22.96,100.0,79.11,5.4
 2023-02-01,Culpina,20.0,9.0,,,
+2023-02-01,Culta,,1.0,,,
 2023-02-01,Desaguadero_M,11.77,7.09,86.5,62.75,20.8
 2023-02-01,Dorado Chico,,,,,34.3
 2023-02-01,El Alto,4.0,4.0,92.6,92.6,
@@ -7106,6 +7138,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-02,Cuatro Cañadas - CEA-2 (GPRS),24.05,23.3,97.8,93.1,32.8
 2023-02-02,Cuatro Cañadas - Colonia Chihuahua (GPRS),27.81,25.71,85.9,79.83,5.6
 2023-02-02,Culpina,21.0,7.0,,,
+2023-02-02,Culta,,2.0,,,
 2023-02-02,Desaguadero_M,13.04,11.6,65.3,59.37,1.8
 2023-02-02,Dorado Chico,,,,,13.7
 2023-02-02,El Alto,7.0,7.0,80.7,80.7,
@@ -7337,6 +7370,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-03,Cuatro Cañadas - CEA-2 (GPRS),29.76,22.28,98.6,66.63,30.6
 2023-02-03,Cuatro Cañadas - Colonia Chihuahua (GPRS),31.15,21.92,99.4,66.35,11.2
 2023-02-03,Culpina,15.0,10.0,,,
+2023-02-03,Culta,,1.0,,,
 2023-02-03,Desaguadero_M,15.0,5.33,93.8,48.69,
 2023-02-03,Dorado Chico,,,,,15.8
 2023-02-03,El Alto Aeropuerto,14.2,4.8,,,
@@ -7557,6 +7591,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-04,Cuatro Cañadas - CEA-2 (GPRS),31.53,23.72,97.8,58.3,1.2
 2023-02-04,Cuatro Cañadas - Colonia Chihuahua (GPRS),32.12,23.88,98.9,58.95,0.6
 2023-02-04,Culpina,12.0,6.0,,,
+2023-02-04,Culta,,2.0,,,
 2023-02-04,Desaguadero_M,14.15,2.78,93.7,50.37,20.8
 2023-02-04,Dorado Chico,,,,,15.7
 2023-02-04,El Alto Aeropuerto,10.7,5.2,,,0.8
@@ -7771,6 +7806,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-05,Cuatro Cañadas - CEA-2 (GPRS),29.83,23.07,99.1,66.38,
 2023-02-05,Cuatro Cañadas - Colonia Chihuahua (GPRS),31.25,23.09,96.6,62.23,1.0
 2023-02-05,Culpina,16.0,7.0,,,
+2023-02-05,Culta,,1.0,,,
 2023-02-05,Desaguadero_M,11.54,4.15,92.3,64.18,30.8
 2023-02-05,Dorado Chico,,,,,10.2
 2023-02-05,El Alto Aeropuerto,9.5,1.5,,,30.9
@@ -7998,6 +8034,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-06,Cuatro Cañadas - Colonia Chihuahua (GPRS),31.26,23.06,98.9,65.83,
 2023-02-06,Cuevo (GPRS),0.0,-39.95,0.25,0.0,
 2023-02-06,Culpina,20.0,9.0,,,
+2023-02-06,Culta,,0.0,,,
 2023-02-06,Desaguadero_M,11.61,4.09,92.2,62.36,21.6
 2023-02-06,Dorado Chico,,,,,3.5
 2023-02-06,El Alto,11.0,5.0,99.3,53.5,
@@ -8253,6 +8290,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-07,Cuatro Cañadas - Colonia Chihuahua (GPRS),32.87,22.51,100.0,58.56,
 2023-02-07,Cuevo (GPRS),-39.61,-39.82,0.21,0.19,
 2023-02-07,Culpina,17.0,7.0,,,
+2023-02-07,Culta,,-1.0,,,
 2023-02-07,Desaguadero_M,12.88,5.39,92.8,57.74,14.6
 2023-02-07,Dorado Chico,,,,,17.3
 2023-02-07,El Alto,11.0,5.0,99.3,65.8,
@@ -8515,6 +8553,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-08,Cuatro Cañadas - CEA-2 (GPRS),32.75,23.66,99.5,59.35,
 2023-02-08,Cuatro Cañadas - Colonia Chihuahua (GPRS),33.5,23.16,97.9,54.66,
 2023-02-08,Culpina,21.0,8.0,,,
+2023-02-08,Culta,,-1.0,,,
 2023-02-08,Desaguadero_M,13.17,5.39,92.7,57.54,6.9
 2023-02-08,Dorado Chico,,,,,26.2
 2023-02-08,El Alto,12.0,5.0,99.3,53.7,
@@ -8768,6 +8807,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-09,Cuatro Cañadas - CEA-2 (GPRS),32.13,24.12,96.8,59.81,
 2023-02-09,Cuatro Cañadas - Colonia Chihuahua (GPRS),33.47,23.29,99.2,58.05,
 2023-02-09,Culpina,21.0,10.0,,,
+2023-02-09,Culta,,-2.0,,,
 2023-02-09,Desaguadero_M,13.95,5.13,92.1,53.83,4.0
 2023-02-09,El Alto,11.0,5.0,99.3,70.4,
 2023-02-09,El Alto Aeropuerto,12.4,4.6,,,4.0
@@ -9014,6 +9054,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-10,Cuatro Cañadas - CEA-2 (GPRS),31.53,23.86,100.0,65.28,
 2023-02-10,Cuatro Cañadas - Colonia Chihuahua (GPRS),33.05,23.53,100.0,62.35,
 2023-02-10,Culpina,21.0,10.0,,,
+2023-02-10,Culta,,-1.0,,,
 2023-02-10,Desaguadero_M,14.16,5.59,91.7,54.81,33.6
 2023-02-10,El Alto,14.0,4.0,99.3,54.0,
 2023-02-10,El Alto Aeropuerto,13.8,4.9,,,0.4
@@ -9254,6 +9295,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-11,Cuatro Cañadas - CEA-2 (GPRS),33.31,24.38,97.8,60.73,
 2023-02-11,Cuatro Cañadas - Colonia Chihuahua (GPRS),33.24,23.21,99.1,60.91,16.2
 2023-02-11,Culpina,22.0,7.0,,,
+2023-02-11,Culta,,0.0,,,
 2023-02-11,Desaguadero_M,14.67,6.11,90.6,49.66,0.1
 2023-02-11,El Alto,15.0,6.0,99.3,47.4,
 2023-02-11,El Alto Aeropuerto,15.6,3.7,,,1.0
@@ -9467,6 +9509,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-12,Cuatro Cañadas - CEA-2 (GPRS),32.78,24.25,96.4,61.31,
 2023-02-12,Cuatro Cañadas - Colonia Chihuahua (GPRS),32.99,23.68,97.4,61.99,11.6
 2023-02-12,Culpina,25.0,7.0,,,
+2023-02-12,Culta,,1.0,,,
 2023-02-12,Desaguadero_M,14.93,5.33,90.6,43.14,16.1
 2023-02-12,Dorado Chico,,,,,9.7
 2023-02-12,El Alto,16.0,4.0,99.3,38.6,
@@ -9681,6 +9724,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-13,Cuatro Cañadas - CEA-2 (GPRS),32.72,24.97,94.5,58.77,
 2023-02-13,Cuatro Cañadas - Colonia Chihuahua (GPRS),33.44,24.86,90.8,58.24,
 2023-02-13,Culpina,24.0,8.0,,,
+2023-02-13,Culta,,1.0,,,
 2023-02-13,Desaguadero_M,14.8,5.2,90.4,49.4,
 2023-02-13,Dorado Chico,,,,,28.4
 2023-02-13,El Alto,7.0,7.0,92.7,92.7,
@@ -9913,6 +9957,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-14,Cuatro Cañadas - CEA-2 (GPRS),32.2,24.31,96.3,60.79,
 2023-02-14,Cuatro Cañadas - Colonia Chihuahua (GPRS),33.11,23.36,95.4,62.47,
 2023-02-14,Culpina,23.0,9.0,,,
+2023-02-14,Culta,,0.0,,,
 2023-02-14,Desaguadero_M,14.8,7.22,84.6,48.88,
 2023-02-14,Dorado Chico,,,,,49.9
 2023-02-14,El Alto,9.0,9.0,70.4,70.4,
@@ -10139,6 +10184,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-15,Cuatro Cañadas - Colonia Chihuahua (GPRS),31.67,24.15,95.0,68.18,
 2023-02-15,Cuevo (GPRS),-39.66,-39.74,0.33,0.3,
 2023-02-15,Culpina,20.0,9.0,,,
+2023-02-15,Culta,,1.0,,,
 2023-02-15,Desaguadero_M,16.1,5.92,78.7,44.5,
 2023-02-15,El Alto,7.0,7.0,86.5,86.5,
 2023-02-15,El Alto Aeropuerto,15.7,3.2,,,
@@ -10382,6 +10428,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-16,Cuatro Cañadas - Colonia Chihuahua (GPRS),30.49,21.46,97.5,67.34,
 2023-02-16,Cuevo (GPRS),-39.37,-39.64,0.32,0.27,
 2023-02-16,Culpina,26.0,6.0,,,
+2023-02-16,Culta,,2.0,,,
 2023-02-16,Desaguadero_M,17.22,4.95,71.0,34.09,0.4
 2023-02-16,Dorado Chico,,,,,2.9
 2023-02-16,El Alto,7.0,7.0,92.7,92.7,
@@ -10624,6 +10671,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-17,Cuatro Cañadas - CEA-2 (GPRS),21.96,17.41,100.0,64.11,22.6
 2023-02-17,Cuatro Cañadas - Colonia Chihuahua (GPRS),22.15,17.67,100.0,73.88,9.8
 2023-02-17,Culpina,17.0,8.0,,,
+2023-02-17,Culta,,2.0,,,
 2023-02-17,Desaguadero_M,16.37,4.41,85.0,40.73,
 2023-02-17,El Alto,9.0,9.0,45.8,45.8,
 2023-02-17,El Alto Aeropuerto,17.8,2.0,,,
@@ -10864,6 +10912,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-18,Cuatro Cañadas - CEA-2 (GPRS),22.54,16.43,86.5,53.61,4.6
 2023-02-18,Cuatro Cañadas - Colonia Chihuahua (GPRS),25.45,16.03,76.74,45.47,4.0
 2023-02-18,Culpina,16.0,5.0,,,
+2023-02-18,Culta,,1.0,,,
 2023-02-18,Desaguadero_M,14.02,3.04,79.5,57.47,
 2023-02-18,Dorado Chico,,,,,35.8
 2023-02-18,El Alto,8.0,8.0,86.6,86.6,
@@ -11071,6 +11120,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-19,Cuatro Cañadas - CEA-2 (GPRS),26.48,15.16,93.7,46.58,
 2023-02-19,Cuatro Cañadas - Colonia Chihuahua (GPRS),28.86,15.18,95.4,40.29,
 2023-02-19,Culpina,18.0,5.0,,,
+2023-02-19,Culta,,0.0,,,
 2023-02-19,Desaguadero_M,15.2,3.07,74.25,40.01,2.0
 2023-02-19,El Alto,7.0,7.0,80.7,80.7,
 2023-02-19,El Alto Aeropuerto,16.8,3.5,,,
@@ -11262,6 +11312,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-20,Cuatro Cañadas - CEA-2 (GPRS),30.88,18.71,96.8,39.91,
 2023-02-20,Cuatro Cañadas - Colonia Chihuahua (GPRS),32.33,18.72,99.4,41.38,
 2023-02-20,Culpina,20.0,3.0,,,
+2023-02-20,Culta,,1.0,,,
 2023-02-20,Desaguadero_M,15.85,7.87,84.2,37.6,
 2023-02-20,El Alto,6.0,6.0,92.7,92.7,
 2023-02-20,El Alto Aeropuerto,16.6,5.0,,,0.1
@@ -11453,6 +11504,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-21,Cuatro Cañadas - CEA-2 (GPRS),32.69,23.53,96.0,49.71,
 2023-02-21,Cuatro Cañadas - Colonia Chihuahua (GPRS),34.42,23.5,96.4,44.96,
 2023-02-21,Culpina,21.0,8.0,,,
+2023-02-21,Culta,,1.0,,,
 2023-02-21,Desaguadero_M,16.04,5.72,86.2,39.82,5.6
 2023-02-21,Dorado Chico,,,,,1.7
 2023-02-21,El Alto,16.0,6.0,86.4,86.4,
@@ -11655,6 +11707,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-22,Cuatro Cañadas - CEA-2 (GPRS),31.86,22.87,96.8,62.75,
 2023-02-22,Cuatro Cañadas - Colonia Chihuahua (GPRS),33.11,22.77,96.6,60.46,
 2023-02-22,Culpina,23.0,10.0,,,
+2023-02-22,Culta,,2.0,,,
 2023-02-22,Desaguadero_M,14.48,7.68,83.9,48.03,0.2
 2023-02-22,El Alto,7.0,7.0,86.5,86.5,
 2023-02-22,El Alto Aeropuerto,13.8,5.5,,,
@@ -11873,6 +11926,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-23,Cuatro Cañadas - CEA-2 (GPRS),30.48,22.94,99.4,70.35,
 2023-02-23,Cuatro Cañadas - Colonia Chihuahua (GPRS),32.33,22.84,98.8,59.67,
 2023-02-23,Culpina,22.0,7.0,,,
+2023-02-23,Culta,,1.0,,,
 2023-02-23,Desaguadero_M,15.86,5.2,86.8,41.33,1.0
 2023-02-23,El Alto,16.0,3.0,92.6,92.6,
 2023-02-23,El Alto Aeropuerto,16.3,2.0,,,8.0
@@ -12099,6 +12153,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-24,Cuatro Cañadas - CEA-2 (GPRS),30.16,23.4,98.5,69.12,0.6
 2023-02-24,Cuatro Cañadas - Colonia Chihuahua (GPRS),30.63,22.83,99.4,67.47,
 2023-02-24,Culpina,19.0,10.0,,,
+2023-02-24,Culta,,3.0,,,
 2023-02-24,Desaguadero_M,16.24,3.43,86.4,41.57,0.4
 2023-02-24,El Alto,8.0,8.0,75.4,75.4,
 2023-02-24,El Alto Aeropuerto,16.4,3.2,,,
@@ -12313,6 +12368,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-25,Cuatro Cañadas - CEA-2 (GPRS),31.68,23.92,95.9,64.62,
 2023-02-25,Cuatro Cañadas - Colonia Chihuahua (GPRS),32.78,22.9,99.1,59.34,4.2
 2023-02-25,Culpina,25.0,10.0,,,
+2023-02-25,Culta,,1.0,,,
 2023-02-25,Desaguadero_M,16.63,3.63,85.4,37.98,
 2023-02-25,El Alto,7.0,7.0,92.7,92.7,
 2023-02-25,El Alto Aeropuerto,18.2,1.8,,,
@@ -12507,6 +12563,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-26,Cuatro Cañadas - CEA-2 (GPRS),32.32,21.36,96.1,61.83,
 2023-02-26,Cuatro Cañadas - Colonia Chihuahua (GPRS),34.18,21.86,98.1,57.67,
 2023-02-26,Culpina,22.0,9.0,,,
+2023-02-26,Culta,,2.0,,,
 2023-02-26,Desaguadero_M,17.15,6.37,80.3,39.11,
 2023-02-26,El Alto,9.0,9.0,80.9,80.9,
 2023-02-26,El Alto Aeropuerto,18.4,2.7,,,
@@ -12715,6 +12772,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-27,Cuatro Cañadas - CEA-2 (GPRS),31.47,22.37,99.4,59.41,0.2
 2023-02-27,Cuatro Cañadas - Colonia Chihuahua (GPRS),32.66,20.74,99.9,56.54,0.6
 2023-02-27,Culpina,19.0,8.0,,,
+2023-02-27,Culta,,1.0,,,
 2023-02-27,Desaguadero_M,14.48,4.74,88.1,50.12,
 2023-02-27,Dorado Chico,,,,,3.5
 2023-02-27,El Alto,5.0,5.0,99.3,99.3,
@@ -12944,6 +13002,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-28,Cuatro Cañadas - CEA-2 (GPRS),33.82,23.92,97.2,51.74,
 2023-02-28,Cuatro Cañadas - Colonia Chihuahua (GPRS),34.42,24.47,92.8,50.76,
 2023-02-28,Culpina,23.0,10.0,,,
+2023-02-28,Culta,,0.0,,,
 2023-02-28,Desaguadero_M,16.11,8.4,82.0,35.46,
 2023-02-28,El Alto,5.0,5.0,92.6,92.6,
 2023-02-28,El Alto Aeropuerto,17.6,0.7,,,
@@ -13151,6 +13210,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-01,Cuatro Cañadas - CEA-2 (GPRS),33.14,24.32,94.3,60.07,
 2023-03-01,Cuatro Cañadas - Colonia Chihuahua (GPRS),34.55,23.55,97.3,52.07,
 2023-03-01,Culpina,25.0,9.0,,,
+2023-03-01,Culta,,0.0,,,
 2023-03-01,Desaguadero_M,17.35,2.45,89.5,27.57,
 2023-03-01,Dorado Chico,,,,,1.7
 2023-03-01,El Alto,8.0,8.0,80.8,80.8,
@@ -13359,6 +13419,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-02,Cuatro Cañadas - CEA-2 (GPRS),31.8,23.79,98.1,59.09,2.0
 2023-03-02,Cuatro Cañadas - Colonia Chihuahua (GPRS),33.31,23.81,98.2,53.68,
 2023-03-02,Culpina,18.0,10.0,,,
+2023-03-02,Culta,,-1.0,,,
 2023-03-02,Desaguadero_M,17.28,13.5,58.07,40.67,
 2023-03-02,El Alto,10.0,10.0,57.2,57.2,
 2023-03-02,El Alto Aeropuerto,,,,,3.0
@@ -13579,6 +13640,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-03,Cuatro Cañadas - Colonia Chihuahua (GPRS),29.77,26.5,79.5,64.15,0.8
 2023-03-03,Cuevo (GPRS),41.12,-39.93,84.74,0.07,
 2023-03-03,Culpina,,,,,1.1
+2023-03-03,Culta,,-1.0,,,
 2023-03-03,Desaguadero_M,16.05,13.69,63.48,48.3,
 2023-03-03,Dorado Chico,,,,,25.8
 2023-03-03,El Alto,16.0,12.0,61.8,33.5,
@@ -13806,6 +13868,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-04,Cuatro Cañadas - Colonia Chihuahua (GPRS),34.29,23.03,100.0,53.76,
 2023-03-04,Cuevo (GPRS),54.32,6.88,81.48,25.29,
 2023-03-04,Culpina,22.0,8.0,,,
+2023-03-04,Culta,,-2.0,,,
 2023-03-04,Desaguadero_M,17.22,6.64,80.2,47.45,
 2023-03-04,Dorado Chico,,,,,2.9
 2023-03-04,El Alto,17.0,4.0,99.3,38.6,
@@ -13982,6 +14045,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-05,Cuatro Cañadas - CEA-2 (GPRS),33.5,24.32,99.1,59.24,
 2023-03-05,Cuatro Cañadas - Colonia Chihuahua (GPRS),34.78,23.75,99.1,55.25,7.6
 2023-03-05,Culpina,23.0,11.0,,,
+2023-03-05,Culta,,-3.0,,,
 2023-03-05,Desaguadero_M,16.24,5.2,89.6,36.56,
 2023-03-05,Dorado Chico,,,,,49.9
 2023-03-05,El Alto,6.0,6.0,92.7,92.7,
@@ -14165,6 +14229,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-06,Cuatro Cañadas - CEA-2 (GPRS),33.44,24.91,96.3,60.31,
 2023-03-06,Cuatro Cañadas - Colonia Chihuahua (GPRS),34.62,25.12,92.9,52.58,
 2023-03-06,Culpina,,,,,3.1
+2023-03-06,Culta,,-2.0,,,
 2023-03-06,Desaguadero_M,16.57,3.3,90.2,25.35,
 2023-03-06,El Alto,8.0,8.0,80.8,80.8,
 2023-03-06,El Alto Aeropuerto,18.2,,,,
@@ -14370,6 +14435,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-07,Cuatro Cañadas - Colonia Chihuahua (GPRS),34.55,24.08,97.7,53.44,
 2023-03-07,Cuevo (GPRS),60.0,23.0,100.0,72.45,
 2023-03-07,Culpina,,,,,3.4
+2023-03-07,Culta,,-4.0,,,
 2023-03-07,Desaguadero_M,17.22,8.86,76.23,33.58,
 2023-03-07,Dorado Chico,,,,,28.6
 2023-03-07,El Alto,16.0,5.0,80.9,80.9,
@@ -14601,6 +14667,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-08,Cuatro Cañadas - Colonia Chihuahua (GPRS),29.52,22.12,100.0,69.75,
 2023-03-08,Cuevo (GPRS),32.3,22.89,78.01,39.93,
 2023-03-08,Culpina,,,,,3.5
+2023-03-08,Culta,,-3.0,,,
 2023-03-08,Desaguadero_M,15.98,4.94,89.6,48.63,
 2023-03-08,El Alto,8.0,8.0,86.6,86.6,
 2023-03-08,El Alto Aeropuerto,,,,,1.9
@@ -14830,6 +14897,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-09,Cuatro Cañadas - CEA-2 (GPRS),32.61,22.24,99.4,62.81,
 2023-03-09,Cuatro Cañadas - Colonia Chihuahua (GPRS),35.66,21.47,99.2,50.9,
 2023-03-09,Culpina,23.0,8.0,,,
+2023-03-09,Culta,,-5.0,,,
 2023-03-09,Desaguadero_M,13.63,4.87,88.8,55.67,1.6
 2023-03-09,Dorado Chico,,,,,9.2
 2023-03-09,El Alto,13.0,4.0,92.7,92.7,
@@ -15045,6 +15113,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-10,Cuatro Cañadas - CEA-2 (GPRS),32.46,23.52,98.5,60.2,
 2023-03-10,Cuatro Cañadas - Colonia Chihuahua (GPRS),33.77,22.78,100.0,57.28,19.2
 2023-03-10,Culpina,,,,,1.1
+2023-03-10,Culta,,-4.0,,,
 2023-03-10,Desaguadero_M,15.72,8.79,80.1,45.62,0.3
 2023-03-10,Dorado Chico,,,,,12.3
 2023-03-10,El Alto,6.0,6.0,86.4,86.4,
@@ -15255,6 +15324,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-11,Cuatro Cañadas - CEA-2 (GPRS),34.43,23.4,98.5,52.92,
 2023-03-11,Cuatro Cañadas - Colonia Chihuahua (GPRS),35.41,22.78,99.5,48.56,
 2023-03-11,Culpina,23.0,4.0,,,
+2023-03-11,Culta,,-2.0,,,
 2023-03-11,Desaguadero_M,15.01,7.16,82.9,45.57,
 2023-03-11,El Alto,16.0,4.0,92.7,92.7,
 2023-03-11,El Alto Aeropuerto,,,,,0.9
@@ -15437,6 +15507,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-12,Cuatro Cañadas - Colonia Chihuahua (GPRS),33.7,23.04,97.8,57.61,4.2
 2023-03-12,Cuevo (GPRS),3.7,-39.96,58.05,0.04,
 2023-03-12,Culpina,24.0,4.0,,,
+2023-03-12,Culta,,-1.0,,,
 2023-03-12,Desaguadero_M,17.18,8.24,81.4,33.81,1.8
 2023-03-12,El Alto,17.0,3.0,80.8,80.8,
 2023-03-12,El Alto Aeropuerto,17.2,,,,
@@ -15629,6 +15700,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-13,Cuatro Cañadas - CEA-2 (GPRS),33.81,23.66,92.1,56.69,
 2023-03-13,Cuatro Cañadas - Colonia Chihuahua (GPRS),33.97,22.51,98.4,59.03,
 2023-03-13,Culpina,23.0,8.0,,,
+2023-03-13,Culta,,-3.0,,,
 2023-03-13,Desaguadero_M,16.11,6.11,87.2,48.05,
 2023-03-13,Dorado Chico,,,,,26.1
 2023-03-13,El Alto,8.0,8.0,80.8,80.8,
@@ -15844,6 +15916,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-14,Cuatro Cañadas - CEA-2 (GPRS),29.7,23.79,96.8,69.31,
 2023-03-14,Cuatro Cañadas - Colonia Chihuahua (GPRS),30.48,23.04,98.1,67.22,40.0
 2023-03-14,Culpina,24.0,8.0,,,
+2023-03-14,Culta,,-2.0,,,
 2023-03-14,Desaguadero_M,15.0,5.7,92.6,51.29,
 2023-03-14,Dorado Chico,,,,,17.3
 2023-03-14,El Alto,14.0,5.0,75.4,75.4,
@@ -16085,6 +16158,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-15,Cuatro Cañadas - CEA-2 (GPRS),31.21,22.95,98.3,62.48,
 2023-03-15,Cuatro Cañadas - Colonia Chihuahua (GPRS),32.07,22.51,96.6,64.69,
 2023-03-15,Culpina,,,,,7.4
+2023-03-15,Culta,,-1.0,,,
 2023-03-15,Desaguadero_M,15.01,4.61,87.9,44.9,9.6
 2023-03-15,Dorado Chico,,,,,3.5
 2023-03-15,El Alto,13.0,6.0,80.5,80.5,
@@ -16316,6 +16390,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-16,Cuatro Cañadas - CEA-2 (GPRS),33.31,21.23,99.5,53.95,
 2023-03-16,Cuatro Cañadas - Colonia Chihuahua (GPRS),33.66,21.14,99.9,53.01,3.4
 2023-03-16,Culpina,20.0,8.0,,,
+2023-03-16,Culta,,-2.0,,,
 2023-03-16,Desaguadero_M,13.82,5.1,87.9,53.11,13.4
 2023-03-16,El Alto,7.0,7.0,86.5,86.5,
 2023-03-16,El Alto Aeropuerto,,,,,2.0
@@ -16547,6 +16622,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-17,Cuatro Cañadas - CEA-2 (GPRS),31.21,23.33,97.7,66.2,26.0
 2023-03-17,Cuatro Cañadas - Colonia Chihuahua (GPRS),32.4,22.3,99.9,59.94,22.6
 2023-03-17,Culpina,,,,,0.9
+2023-03-17,Culta,,-4.0,,,
 2023-03-17,Desaguadero_M,12.97,4.55,90.1,51.8,
 2023-03-17,El Alto,13.0,4.0,92.6,92.6,
 2023-03-17,El Alto Aeropuerto,,,,,0.2
@@ -16764,6 +16840,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-18,Cuatro Cañadas - CEA-2 (GPRS),29.11,22.48,98.8,73.79,3.2
 2023-03-18,Cuatro Cañadas - Colonia Chihuahua (GPRS),27.49,22.84,99.9,83.5,6.2
 2023-03-18,Culpina,18.0,4.0,,,
+2023-03-18,Culta,,-3.0,,,
 2023-03-18,Desaguadero_M,14.73,3.97,92.8,40.54,0.1
 2023-03-18,Dorado Chico,,,,,10.2
 2023-03-18,El Alto,13.0,4.0,92.7,92.7,
@@ -16968,6 +17045,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-19,Cuatro Cañadas - Colonia Chihuahua (GPRS),31.22,22.71,99.3,63.45,0.2
 2023-03-19,Cuevo (GPRS),8.41,-39.96,57.69,0.03,
 2023-03-19,Culpina,21.0,5.0,,,
+2023-03-19,Culta,,-5.0,,,
 2023-03-19,Desaguadero_M,14.46,5.2,90.8,42.82,0.1
 2023-03-19,Dorado Chico,,,,,15.7
 2023-03-19,El Alto,6.0,6.0,86.4,86.4,
@@ -17172,6 +17250,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-20,Cuatro Cañadas - Colonia Chihuahua (GPRS),32.14,22.84,99.2,63.52,
 2023-03-20,Cuevo (GPRS),25.98,-25.08,79.69,0.22,
 2023-03-20,Culpina,20.0,6.0,,,
+2023-03-20,Culta,,-6.0,,,
 2023-03-20,Desaguadero_M,13.17,3.69,93.2,50.79,5.7
 2023-03-20,El Alto,6.0,6.0,92.7,92.7,
 2023-03-20,El Alto Aeropuerto,,,,,0.5
@@ -17406,6 +17485,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-21,Cuatro Cañadas - CEA-2 (GPRS),31.15,22.81,98.7,61.43,2.8
 2023-03-21,Cuatro Cañadas - Colonia Chihuahua (GPRS),30.5,22.45,100.0,69.17,5.0
 2023-03-21,Culpina,,,,,1.4
+2023-03-21,Culta,,-4.0,,,
 2023-03-21,Desaguadero_M,14.74,6.17,87.2,43.27,16.7
 2023-03-21,El Alto,6.0,6.0,86.4,86.4,
 2023-03-21,El Alto Aeropuerto,,,,,3.5
@@ -17640,6 +17720,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-22,Cuatro Cañadas - CEA-2 (GPRS),29.31,23.53,100.0,70.68,6.0
 2023-03-22,Cuatro Cañadas - Colonia Chihuahua (GPRS),28.99,23.43,100.0,73.14,30.0
 2023-03-22,Culpina,22.0,5.0,,,
+2023-03-22,Culta,,-5.0,,,
 2023-03-22,Desaguadero_M,15.26,5.91,89.0,44.51,
 2023-03-22,Dorado Chico,,,,,13.8
 2023-03-22,El Alto,15.0,5.0,86.5,86.5,
@@ -17863,6 +17944,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-23,Cuatro Cañadas - CEA-2 (GPRS),25.24,22.94,100.0,89.2,8.6
 2023-03-23,Cuatro Cañadas - Colonia Chihuahua (GPRS),29.52,22.26,100.0,73.14,14.4
 2023-03-23,Culpina,,,,,1.6
+2023-03-23,Culta,,-3.0,,,
 2023-03-23,Desaguadero_M,15.92,6.77,86.1,46.8,
 2023-03-23,Dorado Chico,,,,,20.3
 2023-03-23,El Alto,6.0,6.0,92.7,92.7,
@@ -18099,6 +18181,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-24,Cuatro Cañadas - CEA-2 (GPRS),31.55,23.01,100.0,61.96,8.4
 2023-03-24,Cuatro Cañadas - Colonia Chihuahua (GPRS),30.24,22.58,100.0,70.39,17.0
 2023-03-24,Culpina,,,,,0.5
+2023-03-24,Culta,,-2.0,,,
 2023-03-24,Desaguadero_M,13.24,5.78,92.7,58.13,
 2023-03-24,El Alto,5.0,5.0,92.6,92.6,
 2023-03-24,El Alto Aeropuerto,,,,,1.8
@@ -18328,6 +18411,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-25,Cuatro Cañadas - CEA-2 (GPRS),31.6,30.75,68.54,65.29,0.2
 2023-03-25,Cuatro Cañadas - Colonia Chihuahua (GPRS),30.3,30.3,68.85,68.85,23.6
 2023-03-25,Culpina,23.0,7.0,,,
+2023-03-25,Culta,,-4.0,,,
 2023-03-25,Desaguadero_M,12.32,11.93,61.97,52.97,4.2
 2023-03-25,Dorado Chico,,,,,11.7
 2023-03-25,El Alto,13.0,6.0,92.7,92.7,
@@ -18533,6 +18617,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-26,Cuatro Cañadas - CEA-2 (GPRS),32.66,21.89,99.2,59.49,0.4
 2023-03-26,Cuatro Cañadas - Colonia Chihuahua (GPRS),32.46,22.19,100.0,60.12,
 2023-03-26,Culpina,,,,,23.6
+2023-03-26,Culta,,-3.0,,,
 2023-03-26,Desaguadero_M,13.5,5.33,92.5,54.02,16.6
 2023-03-26,El Alto,13.0,4.0,99.3,50.1,
 2023-03-26,El Alto Aeropuerto,,,,,0.4
@@ -18756,6 +18841,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-27,Cuatro Cañadas - CEA-2 (GPRS),31.41,22.41,100.0,61.63,
 2023-03-27,Cuatro Cañadas - Colonia Chihuahua (GPRS),,,,,2.4
 2023-03-27,Culpina,,,,,7.5
+2023-03-27,Culta,,-2.0,,,
 2023-03-27,Desaguadero_M,,,,,14.3
 2023-03-27,El Alto,,,92.6,92.6,
 2023-03-27,El Alto Aeropuerto,,,,,3.1
@@ -18992,6 +19078,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-28,Cuatro Cañadas - CEA-2 (GPRS),32.13,23.86,96.3,58.97,
 2023-03-28,Cuatro Cañadas - Colonia Chihuahua (GPRS),32.79,23.37,97.5,56.42,
 2023-03-28,Culpina,25.0,7.0,,,
+2023-03-28,Culta,,-3.0,,,
 2023-03-28,Desaguadero_M,14.41,6.37,88.9,49.51,14.2
 2023-03-28,El Alto,6.0,6.0,92.7,92.7,
 2023-03-28,El Alto Aeropuerto,,,,,3.2
@@ -19206,6 +19293,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-29,Cuatro Cañadas - CEA-2 (GPRS),35.53,23.4,96.8,50.89,
 2023-03-29,Cuatro Cañadas - Colonia Chihuahua (GPRS),34.96,22.45,99.1,53.94,
 2023-03-29,Culpina,23.0,7.0,,,
+2023-03-29,Culta,,-4.0,,,
 2023-03-29,Desaguadero_M,13.96,5.33,92.3,56.62,
 2023-03-29,El Alto,12.0,3.0,92.7,92.7,
 2023-03-29,El Alto Aeropuerto,,,,,0.4
@@ -19421,6 +19509,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-30,Cuatro Cañadas - CEA-2 (GPRS),33.65,23.6,98.4,54.35,3.8
 2023-03-30,Cuatro Cañadas - Colonia Chihuahua (GPRS),34.37,22.52,100.0,55.92,0.4
 2023-03-30,Culpina,21.0,7.0,,,
+2023-03-30,Culta,,-6.0,,,
 2023-03-30,Desaguadero_M,13.83,5.92,89.4,43.14,
 2023-03-30,El Alto,14.0,4.0,86.3,86.3,
 2023-03-30,El Alto Aeropuerto,,,,,7.1
@@ -19640,6 +19729,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-31,Cuatro Cañadas - CEA-2 (GPRS),34.4,23.74,99.2,51.04,
 2023-03-31,Cuatro Cañadas - Colonia Chihuahua (GPRS),35.1,23.11,100.0,51.05,
 2023-03-31,Culpina,20.0,4.0,,,
+2023-03-31,Culta,,-5.0,,,
 2023-03-31,Desaguadero_M,13.24,2.71,90.6,56.1,0.4
 2023-03-31,Dorado Chico,,,,,3.5
 2023-03-31,El Alto,12.0,2.0,99.3,99.3,
@@ -19853,6 +19943,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-01,Cuatro Cañadas - CEA-2 (GPRS),29.9,21.57,99.5,59.4,
 2023-04-01,Cuatro Cañadas - Colonia Chihuahua (GPRS),31.35,21.34,99.6,57.0,
 2023-04-01,Culpina,21.0,6.0,,,1.1
+2023-04-01,Culta,,-2.0,,,
 2023-04-01,Desaguadero_M,14.35,4.94,90.3,43.66,1.6
 2023-04-01,Dorado Chico,,,,,17.8
 2023-04-01,El Alto,5.0,5.0,92.6,92.6,
@@ -20047,6 +20138,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-02,Cuatro Cañadas - Colonia Chihuahua (GPRS),33.82,22.78,99.4,50.78,
 2023-04-02,Cuevo (GPRS),3.02,-39.96,73.89,0.04,
 2023-04-02,Culpina,24.0,5.0,,,
+2023-04-02,Culta,,-1.0,,,
 2023-04-02,Desaguadero_M,14.74,3.84,90.0,51.55,
 2023-04-02,Dorado Chico,,,,,4.8
 2023-04-02,El Alto,,,86.4,86.4,
@@ -20122,6 +20214,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-02,San Josecito,,,,,0.6
 2023-04-02,San Julian - Comunidad Los Angeles (GPRS),35.31,23.52,95.6,48.85,
 2023-04-02,San Julian - Nucleo 32 (GPRS),34.02,23.6,,,
+2023-04-02,San Lucas,26.0,7.0,,,
 2023-04-02,San Pablo de Lipez,17.5,-4.1,,,
 2023-04-02,San Pedro - Río Victoria (GPRS),33.11,23.78,94.5,53.57,
 2023-04-02,San Pedro - San Antonio (GPRS),32.73,23.25,96.7,56.74,
@@ -20245,6 +20338,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-03,Cuatro Cañadas - Colonia Chihuahua (GPRS),34.3,22.13,98.6,46.6,
 2023-04-03,Cuevo (GPRS),14.67,-39.97,70.42,0.04,
 2023-04-03,Culpina,23.0,6.0,,,
+2023-04-03,Culta,,-3.0,,,
 2023-04-03,Desaguadero_M,14.35,3.7,87.6,47.9,
 2023-04-03,Dorado Chico,,,,,4.8
 2023-04-03,El Alto,7.0,7.0,86.5,86.5,
@@ -20337,6 +20431,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-03,San Jose de Chiquitos Aerop,33.7,,,,
 2023-04-03,San Julian - Comunidad Los Angeles (GPRS),34.42,23.27,94.6,49.76,
 2023-04-03,San Julian - Nucleo 32 (GPRS),33.52,28.85,,,
+2023-04-03,San Lucas,25.0,6.0,,,
 2023-04-03,San Matias Aeropuerto,34.2,,,,
 2023-04-03,San Pablo de Lipez,18.0,-5.1,,,
 2023-04-03,San Pedro - Río Victoria (GPRS),32.06,23.71,92.6,62.26,
@@ -20461,6 +20556,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-04,Cuatro Cañadas - CEA-2 (GPRS),30.43,22.03,99.5,65.87,1.0
 2023-04-04,Cuatro Cañadas - Colonia Chihuahua (GPRS),30.9,22.2,100.0,65.27,
 2023-04-04,Culpina,22.0,6.0,,,
+2023-04-04,Culta,,-2.0,,,
 2023-04-04,Desaguadero_M,13.56,2.98,84.8,47.32,
 2023-04-04,Dorado Chico,,,,,4.8
 2023-04-04,El Alto,13.0,4.0,99.3,46.6,
@@ -20555,6 +20651,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-04,San Juan de Yapacaní,,,,,63.8
 2023-04-04,San Julian - Comunidad Los Angeles (GPRS),30.78,23.07,99.5,65.54,
 2023-04-04,San Julian - Nucleo 32 (GPRS),29.14,23.41,,,
+2023-04-04,San Lucas,27.0,5.0,,,
 2023-04-04,San Matias Aeropuerto,33.2,,,,4.2
 2023-04-04,San Pablo de Lipez,17.2,-5.8,,,
 2023-04-04,San Pedro - Río Victoria (GPRS),26.86,23.17,96.1,77.63,
@@ -20685,6 +20782,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-05,Cuatro Cañadas - CEA-2 (GPRS),25.57,21.24,98.9,79.91,10.6
 2023-04-05,Cuatro Cañadas - Colonia Chihuahua (GPRS),24.22,22.19,99.1,90.2,0.6
 2023-04-05,Culpina,17.0,7.0,,,5.2
+2023-04-05,Culta,,-3.0,,,
 2023-04-05,Desaguadero_M,13.24,-0.8,82.0,37.79,
 2023-04-05,Dorado Chico,,,,,3.7
 2023-04-05,El Alto,13.0,1.0,80.5,80.5,
@@ -20922,6 +21020,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-06,Cuatro Cañadas - CEA-2 (GPRS),29.43,19.18,98.3,57.08,
 2023-04-06,Cuatro Cañadas - Colonia Chihuahua (GPRS),28.54,19.12,100.0,64.08,0.2
 2023-04-06,Culpina,20.0,5.4,,,3.5
+2023-04-06,Culta,,-4.0,,,
 2023-04-06,Desaguadero_M,13.69,3.04,82.6,38.12,
 2023-04-06,Dorado Chico,,,,,13.5
 2023-04-06,El Alto,14.0,3.0,86.4,86.4,
@@ -21133,6 +21232,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-07,Cuatro Cañadas - Colonia Chihuahua (GPRS),30.38,19.51,98.3,59.47,
 2023-04-07,Cuevo (GPRS),-6.87,-39.96,35.88,0.03,
 2023-04-07,Culpina,17.0,9.0,,,
+2023-04-07,Culta,,-2.0,,,
 2023-04-07,Desaguadero_M,13.11,3.83,88.4,42.68,
 2023-04-07,Dorado Chico,,,,,5.7
 2023-04-07,El Alto,13.0,5.0,86.3,86.3,
@@ -21221,6 +21321,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-07,San Josecito,,,,,2.8
 2023-04-07,San Julian - Comunidad Los Angeles (GPRS),31.68,20.84,95.7,55.37,
 2023-04-07,San Julian - Nucleo 32 (GPRS),29.89,21.38,,,
+2023-04-07,San Lucas,21.0,7.0,,,
 2023-04-07,San Pablo de Lipez,16.0,-6.1,,,
 2023-04-07,San Pedro - Río Victoria (GPRS),30.11,21.08,93.7,59.91,
 2023-04-07,San Pedro - San Antonio (GPRS),29.93,20.44,92.2,60.9,
@@ -21339,6 +21440,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-08,Cuatro Cañadas - Colonia Chihuahua (GPRS),31.15,17.74,100.0,49.38,
 2023-04-08,Cuevo (GPRS),12.07,-39.96,48.53,0.03,
 2023-04-08,Culpina,18.0,7.0,,,
+2023-04-08,Culta,,-3.0,,,
 2023-04-08,Desaguadero_M,12.71,1.8,93.3,40.4,6.2
 2023-04-08,Dorado Chico,,,,,4.8
 2023-04-08,El Alto,4.0,4.0,92.6,92.6,
@@ -21531,6 +21633,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-09,Cuatro Cañadas - CEA-2 (GPRS),31.74,18.09,97.8,43.44,
 2023-04-09,Cuatro Cañadas - Colonia Chihuahua (GPRS),,,,,0.2
 2023-04-09,Culpina,22.0,3.0,,,
+2023-04-09,Culta,,-2.0,,,
 2023-04-09,Desaguadero_M,,,,,16.2
 2023-04-09,Dorado Chico,,,,,2.8
 2023-04-09,El Alto,,,86.3,86.3,
@@ -21602,6 +21705,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-09,San Joaquin Aeropuerto,31.6,,,,
 2023-04-09,San Julian - Comunidad Los Angeles (GPRS),33.71,20.45,95.9,43.63,
 2023-04-09,San Julian - Nucleo 32 (GPRS),31.01,20.0,,,
+2023-04-09,San Lucas,25.0,5.0,,,
 2023-04-09,San Matias Aeropuerto,31.7,,,,
 2023-04-09,San Pablo de Lipez,18.0,-5.1,,,
 2023-04-09,San Pedro - Río Victoria (GPRS),30.56,19.44,96.1,54.39,
@@ -21718,6 +21822,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-10,Cuatro Cañadas - CEA-2 (GPRS),32.73,22.88,98.3,37.0,
 2023-04-10,Cuatro Cañadas - Colonia Chihuahua (GPRS),32.27,23.11,98.9,51.73,
 2023-04-10,Culpina,21.0,4.0,,,
+2023-04-10,Culta,,-1.0,,,
 2023-04-10,Desaguadero_M,13.24,2.33,91.3,42.31,2.2
 2023-04-10,Dorado Chico,,,,,1.8
 2023-04-10,El Alto,15.0,6.0,80.5,80.5,
@@ -21800,6 +21905,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-10,San Jose de Chiquitos Aerop,32.2,,,,
 2023-04-10,San Julian - Comunidad Los Angeles (GPRS),34.11,23.4,97.9,49.94,
 2023-04-10,San Julian - Nucleo 32 (GPRS),31.79,23.21,,,
+2023-04-10,San Lucas,26.0,10.0,,,
 2023-04-10,San Matias Aeropuerto,32.5,,,,
 2023-04-10,San Pablo de Lipez,15.1,-8.0,,,
 2023-04-10,San Pedro - Río Victoria (GPRS),31.36,21.91,96.3,50.97,
@@ -21918,6 +22024,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-11,Cuatro Cañadas - CEA-2 (GPRS),32.33,23.74,97.8,55.78,
 2023-04-11,Cuatro Cañadas - Colonia Chihuahua (GPRS),31.55,22.2,99.8,62.01,0.2
 2023-04-11,Culpina,26.0,2.0,,,
+2023-04-11,Culta,,-3.0,,,
 2023-04-11,Desaguadero_M,14.37,-0.94,77.95,34.5,
 2023-04-11,Dorado Chico,,,,,1.8
 2023-04-11,El Alto,15.0,2.0,75.2,75.2,
@@ -22002,6 +22109,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-11,San Jose de Chiquitos Aerop,32.8,,,,
 2023-04-11,San Julian - Comunidad Los Angeles (GPRS),33.11,22.99,98.7,57.98,
 2023-04-11,San Julian - Nucleo 32 (GPRS),32.84,23.12,,,
+2023-04-11,San Lucas,27.0,7.0,,,
 2023-04-11,San Matias Aeropuerto,31.6,,,,
 2023-04-11,San Pablo de Lipez,14.0,-8.6,,,
 2023-04-11,San Pedro - Río Victoria (GPRS),31.79,24.35,93.7,62.38,
@@ -22118,6 +22226,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-12,Cuatro Cañadas - CEA-2 (GPRS),30.81,24.72,92.4,65.08,
 2023-04-12,Cuatro Cañadas - Colonia Chihuahua (GPRS),31.09,24.35,99.8,67.29,
 2023-04-12,Culpina,20.0,4.0,,,
+2023-04-12,Culta,,-2.0,,,
 2023-04-12,Desaguadero_M,14.87,6.77,70.09,31.16,
 2023-04-12,Dorado Chico,,,,,4.8
 2023-04-12,El Alto,17.0,0.0,23.0,23.0,
@@ -22197,6 +22306,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-12,San Jose de Chiquitos Aerop,34.7,,,,
 2023-04-12,San Julian - Comunidad Los Angeles (GPRS),32.74,24.7,96.4,62.22,1.7
 2023-04-12,San Julian - Nucleo 32 (GPRS),32.11,24.55,,,
+2023-04-12,San Lucas,28.0,5.0,,,
 2023-04-12,San Matias Aeropuerto,32.5,,,,1.7
 2023-04-12,San Pablo de Lipez,15.2,-8.0,,,
 2023-04-12,San Pedro - Río Victoria (GPRS),30.39,24.54,91.9,70.25,
@@ -22311,6 +22421,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-13,Cuatro Cañadas - CEA-2 (GPRS),30.84,18.28,96.5,66.85,
 2023-04-13,Cuatro Cañadas - Colonia Chihuahua (GPRS),31.62,18.87,99.1,61.63,5.0
 2023-04-13,Culpina,21.0,4.0,,,
+2023-04-13,Culta,,-2.0,,,
 2023-04-13,Desaguadero_M,15.26,0.04,71.43,35.97,
 2023-04-13,Dorado Chico,,,,,3.8
 2023-04-13,El Alto,16.0,1.0,86.4,86.4,
@@ -22396,6 +22507,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-13,San Juan de Yapacaní,,,,,4.6
 2023-04-13,San Julian - Comunidad Los Angeles (GPRS),32.28,19.14,97.8,64.82,0.8
 2023-04-13,San Julian - Nucleo 32 (GPRS),32.0,20.92,,,6.0
+2023-04-13,San Lucas,24.0,7.0,,,
 2023-04-13,San Matias Aeropuerto,34.0,,,,
 2023-04-13,San Pablo de Lipez,16.6,-7.1,,,
 2023-04-13,San Pedro (SCZ),,,,,1.0
@@ -22520,6 +22632,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-14,Cuatro Cañadas - CEA-2 (GPRS),22.09,18.55,99.4,84.1,3.2
 2023-04-14,Cuatro Cañadas - Colonia Chihuahua (GPRS),20.95,18.86,100.0,88.7,0.4
 2023-04-14,Culpina,21.0,7.0,,,
+2023-04-14,Culta,,-3.0,,,
 2023-04-14,Desaguadero_M,15.26,3.17,77.93,27.41,
 2023-04-14,Dorado Chico,,,,,2.8
 2023-04-14,El Alto,17.0,2.0,52.7,52.7,
@@ -22618,6 +22731,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-14,San Juan de Yapacaní,,,,,30.4
 2023-04-14,San Julian - Comunidad Los Angeles (GPRS),21.37,18.75,98.6,89.7,15.4
 2023-04-14,San Julian - Nucleo 32 (GPRS),21.05,18.82,,,4.0
+2023-04-14,San Lucas,25.0,8.0,,,
 2023-04-14,San Matias Aeropuerto,,24.5,,,
 2023-04-14,San Pablo de Lipez,18.0,-6.6,,,
 2023-04-14,San Pedro (SCZ),,,,,60.0
@@ -22740,6 +22854,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-15,Cuatro Cañadas - CEA-2 (GPRS),23.08,21.24,96.3,83.0,
 2023-04-15,Cuatro Cañadas - Colonia Chihuahua (GPRS),25.8,20.95,99.7,78.07,0.2
 2023-04-15,Culpina,26.0,4.0,,,
+2023-04-15,Culta,,-4.0,,,
 2023-04-15,Desaguadero_M,14.02,0.75,94.3,41.7,
 2023-04-15,Dorado Chico,,,,,9.8
 2023-04-15,El Alto,15.0,0.0,65.0,65.0,
@@ -22816,6 +22931,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-15,San Julian,,,,,18.3
 2023-04-15,San Julian - Comunidad Los Angeles (GPRS),26.5,21.83,97.9,78.78,5.8
 2023-04-15,San Julian - Nucleo 32 (GPRS),24.79,22.57,,,3.4
+2023-04-15,San Lucas,29.0,5.0,,,
 2023-04-15,San Pablo de Lipez,14.6,-8.1,,,
 2023-04-15,San Pedro - Río Victoria (GPRS),25.18,21.81,94.0,76.69,2.2
 2023-04-15,San Pedro - San Antonio (GPRS),24.69,20.89,95.6,78.91,2.6
@@ -22928,6 +23044,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-16,Cuatro Cañadas - CEA-2 (GPRS),28.86,22.62,97.6,70.29,
 2023-04-16,Cuatro Cañadas - Colonia Chihuahua (GPRS),30.83,23.18,100.0,69.76,
 2023-04-16,Culpina,28.0,4.0,,,
+2023-04-16,Culta,,-2.0,,,
 2023-04-16,Desaguadero_M,15.52,1.01,82.5,36.2,
 2023-04-16,Dorado Chico,,,,,2.8
 2023-04-16,El Alto,17.0,0.0,92.3,20.1,
@@ -23007,6 +23124,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-16,San Juan de Yapacaní,,,,,0.4
 2023-04-16,San Julian - Comunidad Los Angeles (GPRS),30.67,23.27,100.0,70.39,
 2023-04-16,San Julian - Nucleo 32 (GPRS),30.83,23.93,,,
+2023-04-16,San Lucas,27.0,8.0,,,
 2023-04-16,San Pablo de Lipez,15.0,-8.0,,,
 2023-04-16,San Pedro - Río Victoria (GPRS),29.74,22.39,96.0,70.86,
 2023-04-16,San Pedro - San Antonio (GPRS),30.5,22.49,96.8,70.78,
@@ -23121,6 +23239,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-17,Cuatro Cañadas - CEA-2 (GPRS),30.43,19.27,98.3,72.06,
 2023-04-17,Cuatro Cañadas - Colonia Chihuahua (GPRS),31.55,20.07,99.1,64.3,0.2
 2023-04-17,Culpina,26.0,9.0,,,
+2023-04-17,Culta,,-1.0,,,
 2023-04-17,Desaguadero_M,15.59,-0.1,69.08,21.6,
 2023-04-17,Dorado Chico,,,,,2.8
 2023-04-17,El Alto,18.0,4.0,36.3,36.3,
@@ -23213,6 +23332,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-17,San Julian,,,,,5.0
 2023-04-17,San Julian - Comunidad Los Angeles (GPRS),30.9,21.3,97.6,71.36,5.6
 2023-04-17,San Julian - Nucleo 32 (GPRS),31.44,23.87,,,
+2023-04-17,San Lucas,29.0,5.0,,,
 2023-04-17,San Matias Aeropuerto,32.5,,,,
 2023-04-17,San Pablo de Lipez,13.7,-8.4,,,
 2023-04-17,San Pedro - Río Victoria (GPRS),31.33,24.25,92.4,67.54,
@@ -23328,6 +23448,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-18,Cuatro Cañadas - CEA-2 (GPRS),22.75,20.12,98.9,87.6,8.4
 2023-04-18,Cuatro Cañadas - Colonia Chihuahua (GPRS),23.96,21.01,97.6,85.7,0.8
 2023-04-18,Culpina,23.0,5.0,,,
+2023-04-18,Culta,,-3.0,,,
 2023-04-18,Desaguadero_M,14.41,-1.86,69.79,23.29,
 2023-04-18,Dorado Chico,,,,,1.8
 2023-04-18,El Alto,16.0,4.0,41.0,18.8,
@@ -23420,6 +23541,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-18,San Juan de Yapacaní,,,,,1.2
 2023-04-18,San Julian - Comunidad Los Angeles (GPRS),26.7,21.36,95.3,77.74,
 2023-04-18,San Julian - Nucleo 32 (GPRS),30.75,21.51,,,
+2023-04-18,San Lucas,27.0,6.0,,,
 2023-04-18,San Matias Aeropuerto,34.0,,,,4.1
 2023-04-18,San Pablo de Lipez,14.2,-6.2,,,
 2023-04-18,San Pedro - Río Victoria (GPRS),30.81,21.07,90.9,66.7,1.0
@@ -23539,6 +23661,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-19,Cuatro Cañadas - CEA-2 (GPRS),23.76,17.1,100.0,83.1,3.6
 2023-04-19,Cuatro Cañadas - Colonia Chihuahua (GPRS),24.11,18.13,100.0,82.6,
 2023-04-19,Culpina,20.0,3.0,,,
+2023-04-19,Culta,,-4.0,,,
 2023-04-19,Desaguadero_M,15.78,1.02,83.0,23.58,
 2023-04-19,Dorado Chico,,,,,1.3
 2023-04-19,El Alto,17.0,3.0,28.5,28.5,
@@ -23629,6 +23752,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-19,San Juan de Yapacaní,,,,,16.2
 2023-04-19,San Julian - Comunidad Los Angeles (GPRS),24.85,18.43,99.4,79.76,0.2
 2023-04-19,San Julian - Nucleo 32 (GPRS),23.74,19.41,,,1.2
+2023-04-19,San Lucas,26.0,7.0,,,
 2023-04-19,San Matias Aeropuerto,26.4,,,,24.3
 2023-04-19,San Pablo de Lipez,15.2,-7.1,,,
 2023-04-19,San Pedro (SCZ),,,,,6.0
@@ -23746,6 +23870,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-20,Cuatro Cañadas - CEA-2 (GPRS),28.86,16.05,99.9,50.92,
 2023-04-20,Cuatro Cañadas - Colonia Chihuahua (GPRS),29.33,15.39,100.0,47.93,
 2023-04-20,Culpina,21.0,-4.0,,,
+2023-04-20,Culta,,-5.0,,,
 2023-04-20,Desaguadero_M,15.08,-1.4,87.5,39.92,
 2023-04-20,Dorado Chico,,,,,2.3
 2023-04-20,El Alto,15.0,0.0,92.7,92.7,
@@ -23831,6 +23956,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-20,San Juan de Yapacaní,,,,,0.6
 2023-04-20,San Julian - Comunidad Los Angeles (GPRS),30.81,16.85,98.6,47.48,4.8
 2023-04-20,San Julian - Nucleo 32 (GPRS),28.72,17.06,,,0.2
+2023-04-20,San Lucas,25.0,0.0,,,
 2023-04-20,San Matias Aeropuerto,28.5,,,,10.4
 2023-04-20,San Pablo de Lipez,16.0,-5.2,,,
 2023-04-20,San Pedro - Río Victoria (GPRS),28.85,16.91,95.4,49.65,
@@ -23945,6 +24071,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-21,Cuatro Cañadas - CEA-2 (GPRS),28.79,17.55,99.0,48.31,
 2023-04-21,Cuatro Cañadas - Colonia Chihuahua (GPRS),29.6,17.48,99.8,41.81,
 2023-04-21,Culpina,22.0,-2.0,,,
+2023-04-21,Culta,,-4.0,,,
 2023-04-21,Desaguadero_M,15.78,-1.27,65.68,26.19,
 2023-04-21,Dorado Chico,,,,,3.5
 2023-04-21,El Alto,17.0,2.0,86.2,18.6,
@@ -24027,6 +24154,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-21,San Jose de Chiquitos Aerop,,17.3,,,
 2023-04-21,San Julian - Comunidad Los Angeles (GPRS),31.03,18.1,99.0,42.84,
 2023-04-21,San Julian - Nucleo 32 (GPRS),30.1,18.69,,,
+2023-04-21,San Lucas,30.0,6.0,,,
 2023-04-21,San Matias Aeropuerto,,15.0,,,
 2023-04-21,San Pablo de Lipez,14.2,-6.2,,,
 2023-04-21,San Pedro - Río Victoria (GPRS),29.43,17.81,96.1,57.2,
@@ -24135,6 +24263,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-22,Cuatro Cañadas - CEA-2 (GPRS),30.49,20.32,93.8,51.39,
 2023-04-22,Cuatro Cañadas - Colonia Chihuahua (GPRS),30.9,21.48,92.1,50.16,0.2
 2023-04-22,Culpina,16.0,2.0,,,
+2023-04-22,Culta,,-6.0,,,
 2023-04-22,Desaguadero_M,16.04,-2.64,79.76,14.92,
 2023-04-22,Dorado Chico,,,,,6.2
 2023-04-22,El Alto,17.0,2.0,99.3,18.1,
@@ -24209,6 +24338,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-22,San Juan de Yapacaní,,,,,0.4
 2023-04-22,San Julian - Comunidad Los Angeles (GPRS),32.48,21.83,90.6,44.81,
 2023-04-22,San Julian - Nucleo 32 (GPRS),30.16,21.58,,,
+2023-04-22,San Lucas,25.0,2.0,,,
 2023-04-22,San Pablo de Lipez,13.9,-7.1,,,
 2023-04-22,San Pedro - Río Victoria (GPRS),30.09,21.18,94.7,58.63,
 2023-04-22,San Pedro - San Antonio (GPRS),29.76,21.09,89.5,57.8,
@@ -24315,6 +24445,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-23,Cuatro Cañadas - CEA-2 (GPRS),30.83,21.7,95.8,49.26,
 2023-04-23,Cuatro Cañadas - Colonia Chihuahua (GPRS),31.03,21.8,96.1,50.48,
 2023-04-23,Culpina,18.0,7.0,,,
+2023-04-23,Culta,,-5.0,,,
 2023-04-23,Desaguadero_M,14.41,-3.6,64.0,27.79,
 2023-04-23,Dorado Chico,,,,,12.2
 2023-04-23,El Alto,,,86.3,86.3,
@@ -24387,6 +24518,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-23,San Juan de Yapacaní,,,,,0.2
 2023-04-23,San Julian - Comunidad Los Angeles (GPRS),31.87,22.02,97.3,56.67,
 2023-04-23,San Julian - Nucleo 32 (GPRS),30.03,22.1,,,
+2023-04-23,San Lucas,25.0,4.0,,,
 2023-04-23,San Pablo de Lipez,14.8,-8.0,,,
 2023-04-23,San Pedro - Río Victoria (GPRS),29.47,20.36,93.8,58.63,
 2023-04-23,San Pedro - San Antonio (GPRS),29.69,20.63,94.0,64.51,
@@ -24498,6 +24630,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-24,Cuatro Cañadas - CEA-2 (GPRS),31.65,18.15,96.0,53.88,0.2
 2023-04-24,Cuatro Cañadas - Colonia Chihuahua (GPRS),32.77,18.92,99.4,46.85,
 2023-04-24,Culpina,20.0,4.0,,,
+2023-04-24,Culta,,-6.0,,,
 2023-04-24,Desaguadero_M,14.57,-3.56,81.2,29.91,
 2023-04-24,Dorado Chico,,,,,9.2
 2023-04-24,El Alto,16.0,1.0,86.3,86.3,
@@ -24587,6 +24720,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-24,San Josecito,,,,,13.0
 2023-04-24,San Julian - Comunidad Los Angeles (GPRS),34.23,21.5,93.6,50.84,
 2023-04-24,San Julian - Nucleo 32 (GPRS),33.7,20.07,,,
+2023-04-24,San Lucas,25.0,4.0,,,
 2023-04-24,San Matias Aeropuerto,32.0,,,,
 2023-04-24,San Pablo de Lipez,15.8,-6.6,,,
 2023-04-24,San Pedro - Río Victoria (GPRS),32.2,21.82,94.9,60.26,
@@ -24703,6 +24837,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-25,Cuatro Cañadas - CEA-2 (GPRS),28.2,19.86,94.5,69.96,3.6
 2023-04-25,Cuatro Cañadas - Colonia Chihuahua (GPRS),28.8,20.42,99.0,69.56,14.6
 2023-04-25,Culpina,26.0,2.0,,,
+2023-04-25,Culta,,-4.0,,,
 2023-04-25,Desaguadero_M,15.39,-3.49,70.84,19.49,
 2023-04-25,Dorado Chico,,,,,8.7
 2023-04-25,El Alto,16.0,1.0,80.4,80.4,
@@ -24796,6 +24931,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-25,San Juan de Yapacaní,,,,,0.2
 2023-04-25,San Julian - Comunidad Los Angeles (GPRS),30.64,21.31,97.0,64.5,0.2
 2023-04-25,San Julian - Nucleo 32 (GPRS),30.11,21.12,,,1.8
+2023-04-25,San Lucas,27.0,5.0,,,
 2023-04-25,San Matias Aeropuerto,33.9,,,,6.3
 2023-04-25,San Pablo de Lipez,14.9,-8.0,,,
 2023-04-25,San Pedro (SCZ),,,,,14.0
@@ -24914,6 +25050,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-26,Cuatro Cañadas - CEA-2 (GPRS),29.64,20.65,98.5,65.86,
 2023-04-26,Cuatro Cañadas - Colonia Chihuahua (GPRS),30.84,20.89,99.7,63.13,0.2
 2023-04-26,Culpina,23.0,4.0,,,
+2023-04-26,Culta,,-5.0,,,
 2023-04-26,Desaguadero_M,15.13,-3.49,82.4,17.98,
 2023-04-26,Dorado Chico,,,,,2.1
 2023-04-26,El Alto,17.0,0.0,45.2,45.2,
@@ -24996,6 +25133,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-26,San Jose de Chiquitos Aerop,32.1,,,,
 2023-04-26,San Julian - Comunidad Los Angeles (GPRS),31.27,21.42,97.7,63.49,0.7
 2023-04-26,San Julian - Nucleo 32 (GPRS),30.23,21.84,,,1.2
+2023-04-26,San Lucas,28.0,3.0,,,
 2023-04-26,San Matias Aeropuerto,34.5,,,,
 2023-04-26,San Pablo de Lipez,14.8,-7.7,,,
 2023-04-26,San Pedro - Río Victoria (GPRS),30.62,22.19,94.0,63.46,
@@ -25110,6 +25248,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-27,Cuatro Cañadas - CEA-2 (GPRS),30.42,20.52,99.8,60.25,
 2023-04-27,Cuatro Cañadas - Colonia Chihuahua (GPRS),30.84,20.63,99.9,60.19,0.2
 2023-04-27,Culpina,24.0,-2.0,,,
+2023-04-27,Culta,,-3.0,,,
 2023-04-27,Desaguadero_M,15.27,-1.97,85.0,17.07,
 2023-04-27,Dorado Chico,,,,,15.3
 2023-04-27,El Alto,15.0,1.0,80.5,80.5,
@@ -25190,6 +25329,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-27,San Juan de Yapacaní,,,,,0.2
 2023-04-27,San Julian - Comunidad Los Angeles (GPRS),33.26,20.98,97.7,56.8,
 2023-04-27,San Julian - Nucleo 32 (GPRS),32.64,21.19,,,
+2023-04-27,San Lucas,25.5,2.0,,,
 2023-04-27,San Matias Aeropuerto,,23.0,,,
 2023-04-27,San Pablo de Lipez,13.9,-8.0,,,
 2023-04-27,San Pedro - Río Victoria (GPRS),31.03,20.9,94.6,62.58,
@@ -25305,6 +25445,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-28,Cuatro Cañadas - CEA-2 (GPRS),32.28,22.75,98.8,57.41,
 2023-04-28,Cuatro Cañadas - Colonia Chihuahua (GPRS),33.32,22.52,98.2,55.25,0.6
 2023-04-28,Culpina,26.0,-2.0,,,
+2023-04-28,Culta,,-4.0,,,
 2023-04-28,Desaguadero_M,15.59,-1.01,86.8,23.98,
 2023-04-28,Dorado Chico,,,,,10.2
 2023-04-28,El Alto,16.0,0.0,99.3,19.0,
@@ -25383,6 +25524,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-28,San Jose de Chiquitos Aerop,32.8,,,,
 2023-04-28,San Julian - Comunidad Los Angeles (GPRS),34.11,23.08,96.6,53.22,
 2023-04-28,San Julian - Nucleo 32 (GPRS),33.82,23.63,,,
+2023-04-28,San Lucas,28.0,2.0,,,
 2023-04-28,San Pablo de Lipez,14.8,-7.2,,,
 2023-04-28,San Pedro - Río Victoria (GPRS),32.56,22.74,95.3,62.51,
 2023-04-28,San Pedro - San Antonio (GPRS),32.63,22.87,96.3,62.73,
@@ -25493,6 +25635,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-29,Cuatro Cañadas - CEA-2 (GPRS),32.41,23.93,96.3,58.25,
 2023-04-29,Cuatro Cañadas - Colonia Chihuahua (GPRS),33.72,24.1,95.3,53.04,
 2023-04-29,Culpina,29.0,1.0,,,
+2023-04-29,Culta,,-2.0,,,
 2023-04-29,Desaguadero_M,15.46,-2.84,83.9,27.63,
 2023-04-29,Dorado Chico,,,,,9.0
 2023-04-29,El Alto,17.0,3.0,49.0,49.0,
@@ -25563,6 +25706,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-29,San Juan de Yapacaní,,,,,0.8
 2023-04-29,San Julian - Comunidad Los Angeles (GPRS),33.85,24.11,94.8,54.92,
 2023-04-29,San Julian - Nucleo 32 (GPRS),33.89,25.44,,,
+2023-04-29,San Lucas,31.0,2.0,,,
 2023-04-29,San Pablo de Lipez,15.2,-8.0,,,
 2023-04-29,San Pedro - Río Victoria (GPRS),32.86,24.76,92.6,61.64,
 2023-04-29,San Pedro - San Antonio (GPRS),33.44,24.16,93.7,59.25,
@@ -25667,6 +25811,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-30,Cuatro Cañadas - CEA-2 (GPRS),32.86,24.59,97.6,57.09,
 2023-04-30,Cuatro Cañadas - Colonia Chihuahua (GPRS),34.04,24.95,91.7,52.52,
 2023-04-30,Culpina,28.0,0.0,,,
+2023-04-30,Culta,,-3.0,,,
 2023-04-30,Desaguadero_M,16.09,-1.6,74.89,18.57,
 2023-04-30,El Alto,,,51.0,51.0,
 2023-04-30,El Alto Aeropuerto,18.0,,,,
@@ -25730,6 +25875,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-30,San Javier Aeropuerto (F),30.0,29.0,73.8,69.7,
 2023-04-30,San Julian - Comunidad Los Angeles (GPRS),34.17,24.25,95.7,52.63,
 2023-04-30,San Julian - Nucleo 32 (GPRS),34.35,25.47,,,
+2023-04-30,San Lucas,30.0,1.0,,,
 2023-04-30,San Pablo de Lipez,14.6,-9.1,,,
 2023-04-30,San Pedro - Río Victoria (GPRS),32.78,24.54,92.0,62.88,
 2023-04-30,San Pedro - San Antonio (GPRS),33.44,24.47,94.3,60.18,
@@ -25836,6 +25982,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-01,Cuatro Cañadas - CEA-2 (GPRS),32.26,15.79,98.3,59.17,1.8
 2023-05-01,Cuatro Cañadas - Colonia Chihuahua (GPRS),34.1,17.88,99.6,53.37,
 2023-05-01,Culpina,23.0,4.0,,,
+2023-05-01,Culta,,-5.0,,,
 2023-05-01,Desaguadero_M,16.95,-1.79,67.84,18.11,
 2023-05-01,El Alto,17.0,1.0,33.3,33.3,
 2023-05-01,El Alto Aeropuerto,17.8,-1.0,,,
@@ -25853,6 +26000,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-01,Ivirgarzama-Senda VI (GPRS),31.77,24.54,89.8,67.58,
 2023-05-01,Jesús de Machaca_M (GPRS),19.29,-6.51,81.8,14.37,
 2023-05-01,Jihuacuta,,,,,1.4
+2023-05-01,La Asunta,30.0,20.0,,,
 2023-05-01,La Merced,20.0,11.0,,,
 2023-05-01,La Violeta,31.0,5.0,,,
 2023-05-01,Laykacota,22.0,6.7,,,
@@ -25903,6 +26051,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-01,San Juan de Yapacaní,,,,,8.0
 2023-05-01,San Julian - Comunidad Los Angeles (GPRS),34.39,17.21,99.1,56.02,
 2023-05-01,San Julian - Nucleo 32 (GPRS),34.22,18.43,,,
+2023-05-01,San Lucas,26.0,2.0,,,
 2023-05-01,San Pablo de Lipez,12.9,-7.0,,,
 2023-05-01,San Pedro - Río Victoria (GPRS),32.78,19.69,95.3,63.62,
 2023-05-01,San Pedro - San Antonio (GPRS),32.83,17.62,95.8,66.07,
@@ -26016,6 +26165,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-02,Cuatro Cañadas - CEA-2 (GPRS),17.1,15.06,96.2,86.3,9.8
 2023-05-02,Cuatro Cañadas - Colonia Chihuahua (GPRS),20.96,16.76,88.0,72.37,2.8
 2023-05-02,Culpina,25.0,5.0,,,
+2023-05-02,Culta,,-7.0,,,
 2023-05-02,Desaguadero_M,15.72,12.32,53.37,25.61,
 2023-05-02,El Alto,16.0,0.0,80.7,80.7,
 2023-05-02,El Alto Aeropuerto,,,,,0.8
@@ -26033,6 +26183,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-02,Ivirgarzama-Senda VI (GPRS),19.98,18.63,75.55,72.13,4.9
 2023-05-02,Jesús de Machaca_M (GPRS),18.25,9.64,57.6,15.93,
 2023-05-02,Jihuacuta,,,,,2.0
+2023-05-02,La Asunta,29.5,18.5,,,
 2023-05-02,La Barranca  (Chuquisaca),23.0,6.5,,,
 2023-05-02,La Merced,18.0,10.0,,,
 2023-05-02,La Violeta,28.0,4.0,,,
@@ -26102,6 +26253,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-02,San Julian,,,,,70.0
 2023-05-02,San Julian - Comunidad Los Angeles (GPRS),19.8,16.73,93.8,78.51,63.0
 2023-05-02,San Julian - Nucleo 32 (GPRS),18.89,16.86,,,27.2
+2023-05-02,San Lucas,29.0,2.0,,,
 2023-05-02,San Matias Aeropuerto,35.0,22.5,,,17.6
 2023-05-02,San Pablo de Lipez,13.9,-6.0,,,
 2023-05-02,San Pedro (SCZ),,,,,40.0
@@ -26222,6 +26374,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-03,Cuatro Cañadas - Colonia Chihuahua (GPRS),18.99,15.98,99.8,75.86,0.4
 2023-05-03,Cuevo (GPRS),-38.79,-39.94,0.9,0.07,
 2023-05-03,Culpina,27.0,2.0,,,
+2023-05-03,Culta,,-6.0,,,
 2023-05-03,Desaguadero_M,15.72,0.22,84.3,34.02,
 2023-05-03,El Alto,6.0,6.0,86.4,86.4,
 2023-05-03,El Alto Aeropuerto,16.5,,,,
@@ -26242,6 +26395,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-03,Ivirgarzama-Senda VI (GPRS),17.65,16.04,87.2,78.4,22.8
 2023-05-03,Jesús de Machaca_M (GPRS),17.99,-4.73,85.5,24.99,
 2023-05-03,Jihuacuta,,,,,1.0
+2023-05-03,La Asunta,28.0,20.0,,,
 2023-05-03,La Barranca  (Chuquisaca),23.0,6.0,,,
 2023-05-03,La Merced,20.0,8.0,,,
 2023-05-03,La Violeta,29.0,4.0,,,
@@ -26313,6 +26467,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-03,San Juan de Yapacaní,,,,,0.4
 2023-05-03,San Julian - Comunidad Los Angeles (GPRS),18.42,16.27,98.7,76.62,0.1
 2023-05-03,San Julian - Nucleo 32 (GPRS),17.58,15.36,,,0.2
+2023-05-03,San Lucas,28.0,3.0,,,
 2023-05-03,San Matias Aeropuerto,24.3,22.0,,,0.3
 2023-05-03,San Pablo de Lipez,14.6,-8.5,,,
 2023-05-03,San Pedro - Río Victoria (GPRS),16.77,14.94,94.3,81.8,29.6
@@ -26431,6 +26586,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-04,Cuatro Cañadas - Colonia Chihuahua (GPRS),20.96,17.01,99.4,81.0,0.6
 2023-05-04,Cuevo (GPRS),-39.74,-39.93,0.27,0.08,
 2023-05-04,Culpina,26.0,2.0,,,
+2023-05-04,Culta,,-5.0,,,
 2023-05-04,Desaguadero_M,15.46,7.88,84.7,45.75,
 2023-05-04,Dorado Chico,,,,,16.3
 2023-05-04,El Alto,6.0,6.0,86.4,86.4,
@@ -26447,6 +26603,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-04,Isla Suriqui_M (GPRS),15.34,4.22,95.8,49.02,
 2023-05-04,Ivirgarzama-Senda VI (GPRS),21.84,18.73,88.9,74.62,
 2023-05-04,Jesús de Machaca_M (GPRS),17.28,5.14,94.6,33.07,
+2023-05-04,La Asunta,29.0,19.5,,,
 2023-05-04,La Barranca  (Chuquisaca),23.0,6.5,,,
 2023-05-04,La Merced,16.0,8.0,,,
 2023-05-04,La Violeta,26.0,7.0,,,
@@ -26512,6 +26669,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-04,San Juan de Yapacaní,,,,,0.4
 2023-05-04,San Julian - Comunidad Los Angeles (GPRS),22.35,17.44,95.6,76.56,0.6
 2023-05-04,San Julian - Nucleo 32 (GPRS),22.07,17.71,,,1.2
+2023-05-04,San Lucas,27.0,4.0,,,
 2023-05-04,San Matias Aeropuerto,26.0,22.3,,,0.1
 2023-05-04,San Pablo de Lipez,15.1,-5.0,,,
 2023-05-04,San Pedro - Río Victoria (GPRS),21.34,18.6,92.0,78.78,
@@ -26640,6 +26798,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-05,Cuatro Cañadas - CEA-2 (GPRS),21.23,15.92,97.0,83.3,0.2
 2023-05-05,Cuatro Cañadas - Colonia Chihuahua (GPRS),23.12,16.11,98.8,78.77,0.2
 2023-05-05,Culpina,23.0,2.0,,,
+2023-05-05,Culta,,-7.0,,,
 2023-05-05,Desaguadero_M,12.13,4.93,89.3,58.12,
 2023-05-05,Dorado Chico,,,,,13.3
 2023-05-05,El Alto,5.0,5.0,99.3,99.3,
@@ -26729,6 +26888,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-05,San Juan de Yapacaní,,,,,0.6
 2023-05-05,San Julian - Comunidad Los Angeles (GPRS),23.55,16.93,97.6,81.4,
 2023-05-05,San Julian - Nucleo 32 (GPRS),22.34,17.13,,,0.2
+2023-05-05,San Lucas,28.0,4.0,,,
 2023-05-05,San Matias Aeropuerto,,22.8,,,
 2023-05-05,San Pablo de Lipez,16.6,-4.1,,,
 2023-05-05,San Pedro (SCZ),,,,,1.0
@@ -26858,6 +27018,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-06,Cuatro Cañadas - CEA-2 (GPRS),18.62,16.71,99.8,83.0,
 2023-05-06,Cuatro Cañadas - Colonia Chihuahua (GPRS),19.77,17.18,100.0,84.3,0.2
 2023-05-06,Culpina,24.0,2.0,,,
+2023-05-06,Culta,,-8.0,,,
 2023-05-06,Desaguadero_M,12.72,2.72,86.8,44.29,9.5
 2023-05-06,Dorado Chico,,,,,12.1
 2023-05-06,El Alto,5.0,5.0,92.6,92.6,
@@ -26936,6 +27097,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-06,San Julian,,,,,2.0
 2023-05-06,San Julian - Comunidad Los Angeles (GPRS),18.94,17.84,100.0,91.2,
 2023-05-06,San Julian - Nucleo 32 (GPRS),19.03,17.72,,,
+2023-05-06,San Lucas,24.0,3.0,,,
 2023-05-06,San Pablo de Lipez,14.8,-5.0,,,
 2023-05-06,San Pedro - Río Victoria (GPRS),19.89,17.68,95.4,76.02,0.2
 2023-05-06,San Pedro - San Antonio (GPRS),19.82,17.34,96.6,78.68,0.4
@@ -27052,6 +27214,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-07,Cuatro Cañadas - CEA-2 (GPRS),,,,,0.6
 2023-05-07,Cuatro Cañadas - Colonia Chihuahua (GPRS),,,,,4.4
 2023-05-07,Culpina,23.0,4.0,,,
+2023-05-07,Culta,,-6.0,,,
 2023-05-07,Desaguadero_M,12.45,3.83,77.85,31.72,
 2023-05-07,Dorado Chico,,,,,20.3
 2023-05-07,El Alto,4.0,4.0,86.2,86.2,
@@ -27129,6 +27292,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-07,San Joaquin Aeropuerto,29.6,,,,
 2023-05-07,San Julian - Comunidad Los Angeles (GPRS),,,,,7.9
 2023-05-07,San Julian - Nucleo 32 (GPRS),,,,,1.8
+2023-05-07,San Lucas,20.0,3.0,,,
 2023-05-07,San Matias Aeropuerto,32.5,,,,
 2023-05-07,San Pablo de Lipez,13.0,-6.0,,,
 2023-05-07,San Pedro - Río Victoria (GPRS),,,,,1.4
@@ -27244,6 +27408,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-08,Cuatro Cañadas - CEA-2 (GPRS),23.73,17.3,91.8,70.05,
 2023-05-08,Cuatro Cañadas - Colonia Chihuahua (GPRS),23.75,18.6,92.3,73.88,
 2023-05-08,Culpina,19.0,3.0,,,
+2023-05-08,Culta,,-5.0,,,
 2023-05-08,Desaguadero_M,12.32,4.87,83.9,36.87,
 2023-05-08,Dorado Chico,,,,,9.2
 2023-05-08,El Alto,6.0,6.0,75.0,75.0,
@@ -27260,6 +27425,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-08,Ivirgarzama-Senda VI (GPRS),21.88,19.92,84.1,74.76,1.9
 2023-05-08,Jesús de Machaca_M (GPRS),13.75,-0.25,94.5,40.61,
 2023-05-08,Jihuacuta,,,,,0.1
+2023-05-08,La Asunta,29.0,18.5,,,
 2023-05-08,La Barranca  (Chuquisaca),18.0,6.5,,,
 2023-05-08,La Merced,21.0,8.0,,,
 2023-05-08,La Violeta,22.0,7.0,,,
@@ -27319,6 +27485,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-08,San Julian,,,,,1.1
 2023-05-08,San Julian - Comunidad Los Angeles (GPRS),24.4,18.68,90.8,70.96,0.1
 2023-05-08,San Julian - Nucleo 32 (GPRS),24.13,19.16,,,
+2023-05-08,San Lucas,21.5,2.0,,,
 2023-05-08,San Matias Aeropuerto,27.1,24.3,,,
 2023-05-08,San Pablo de Lipez,12.9,-5.2,,,
 2023-05-08,San Pedro - Río Victoria (GPRS),23.69,19.35,81.7,72.99,
@@ -27434,6 +27601,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-09,Cuatro Cañadas - CEA-2 (GPRS),25.7,15.66,99.6,57.87,
 2023-05-09,Cuatro Cañadas - Colonia Chihuahua (GPRS),26.09,16.44,99.7,59.65,0.2
 2023-05-09,Culpina,22.0,-1.0,,,
+2023-05-09,Culta,,-4.0,,,
 2023-05-09,Desaguadero_M,11.87,-2.97,95.1,43.71,1.3
 2023-05-09,El Alto,4.0,4.0,74.7,74.7,
 2023-05-09,El Alto Aeropuerto,,,,,3.5
@@ -27450,6 +27618,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-09,Ivirgarzama-Senda VI (GPRS),23.21,16.79,88.4,72.78,0.1
 2023-05-09,Jesús de Machaca_M (GPRS),13.89,-8.14,93.5,32.2,
 2023-05-09,Jihuacuta,,,,,1.1
+2023-05-09,La Asunta,28.0,18.0,,,
 2023-05-09,La Merced,24.0,7.0,,,
 2023-05-09,La Violeta,24.0,9.0,,,
 2023-05-09,Laykacota,,,,,5.3
@@ -27508,6 +27677,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-09,San Jose de Chiquitos Aerop,27.3,16.5,,,
 2023-05-09,San Julian - Comunidad Los Angeles (GPRS),24.64,16.73,99.7,66.78,
 2023-05-09,San Julian - Nucleo 32 (GPRS),23.49,17.32,,,
+2023-05-09,San Lucas,25.0,5.0,,,
 2023-05-09,San Matias Aeropuerto,25.6,22.0,,,8.2
 2023-05-09,San Pablo de Lipez,13.0,-7.0,,,
 2023-05-09,San Pedro - Río Victoria (GPRS),22.26,15.85,95.5,71.83,
@@ -27627,6 +27797,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-10,Cuatro Cañadas - CEA-2 (GPRS),27.74,17.17,96.6,61.54,
 2023-05-10,Cuatro Cañadas - Colonia Chihuahua (GPRS),29.21,18.53,95.3,59.08,
 2023-05-10,Culpina,22.0,-2.0,,,
+2023-05-10,Culta,,-5.0,,,
 2023-05-10,Desaguadero_M,12.39,-2.33,80.7,19.66,
 2023-05-10,El Alto,4.0,4.0,64.5,64.5,
 2023-05-10,El Alto Aeropuerto,,,,,1.7
@@ -27643,6 +27814,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-10,Ivirgarzama-Senda VI (GPRS),28.08,18.34,88.6,68.9,
 2023-05-10,Jesús de Machaca_M (GPRS),15.13,-5.32,91.8,20.28,
 2023-05-10,Jihuacuta,,,,,0.1
+2023-05-10,La Asunta,30.0,19.0,,,
 2023-05-10,La Merced,24.0,8.0,,,
 2023-05-10,La Violeta,,,,,3.2
 2023-05-10,Laykacota,,,,,1.8
@@ -27704,6 +27876,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-10,San Jose de Chiquitos Aerop,29.4,16.3,,,
 2023-05-10,San Julian - Comunidad Los Angeles (GPRS),29.27,18.79,94.6,61.17,
 2023-05-10,San Julian - Nucleo 32 (GPRS),26.5,19.36,,,
+2023-05-10,San Lucas,24.0,3.0,,,
 2023-05-10,San Matias Aeropuerto,28.8,22.0,,,
 2023-05-10,San Pablo de Lipez,14.7,-9.1,,,
 2023-05-10,San Pedro - Río Victoria (GPRS),26.02,20.16,86.0,68.1,
@@ -27815,6 +27988,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-11,Cuatro Cañadas - CEA-2 (GPRS),29.31,18.61,96.2,51.25,
 2023-05-11,Cuatro Cañadas - Colonia Chihuahua (GPRS),28.36,18.86,99.7,59.92,
 2023-05-11,Culpina,20.0,-3.0,,,
+2023-05-11,Culta,,-4.0,,,
 2023-05-11,Desaguadero_M,12.39,0.17,90.8,45.8,
 2023-05-11,El Alto,12.0,0.0,80.1,80.1,
 2023-05-11,El Alto Aeropuerto,12.6,-0.7,,,
@@ -27830,6 +28004,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-11,Ivirgarzama-Senda VI (GPRS),29.4,19.59,88.2,65.54,
 2023-05-11,Jesús de Machaca_M (GPRS),14.73,-5.33,91.8,27.45,
 2023-05-11,Jihuacuta,,,,,0.2
+2023-05-11,La Asunta,29.0,18.5,,,
 2023-05-11,La Merced,23.0,9.0,,,
 2023-05-11,La Violeta,26.0,4.0,,,
 2023-05-11,Laykacota,19.5,3.8,,,
@@ -27888,6 +28063,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-11,San Jose de Chiquitos Aerop,30.1,18.1,,,
 2023-05-11,San Julian - Comunidad Los Angeles (GPRS),30.25,18.75,99.3,57.0,
 2023-05-11,San Julian - Nucleo 32 (GPRS),27.77,19.35,,,
+2023-05-11,San Lucas,25.5,0.0,,,
 2023-05-11,San Matias Aeropuerto,28.6,21.0,,,
 2023-05-11,San Pablo de Lipez,13.9,-10.0,,,
 2023-05-11,San Pedro - Río Victoria (GPRS),27.48,18.98,94.6,60.08,
@@ -28003,6 +28179,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-12,Cuatro Cañadas - CEA-2 (GPRS),28.4,14.21,97.6,50.85,
 2023-05-12,Cuatro Cañadas - Colonia Chihuahua (GPRS),29.01,14.28,98.0,49.88,
 2023-05-12,Culpina,23.0,1.0,,,
+2023-05-12,Culta,,-3.0,,,
 2023-05-12,Desaguadero_M,12.39,2.46,90.7,37.0,1.3
 2023-05-12,El Alto,7.0,7.0,56.4,56.4,
 2023-05-12,El Alto Aeropuerto,12.7,-1.0,,,
@@ -28021,6 +28198,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-12,Isla Suriqui_M (GPRS),13.11,3.1,94.3,47.31,
 2023-05-12,Ivirgarzama-Senda VI (GPRS),29.56,19.37,88.0,63.19,
 2023-05-12,Jesús de Machaca_M (GPRS),14.08,-0.38,98.8,35.65,
+2023-05-12,La Asunta,30.0,17.5,,,
 2023-05-12,La Barranca  (Chuquisaca),23.0,4.0,,,
 2023-05-12,La Merced,28.0,13.0,,,
 2023-05-12,La Violeta,26.0,5.0,,,
@@ -28083,6 +28261,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-12,San Jose de Chiquitos Aerop,,18.3,,,
 2023-05-12,San Julian - Comunidad Los Angeles (GPRS),29.83,16.2,92.1,50.9,
 2023-05-12,San Julian - Nucleo 32 (GPRS),27.63,16.8,,,
+2023-05-12,San Lucas,26.0,2.0,,,
 2023-05-12,San Matias Aeropuerto,,20.8,,,
 2023-05-12,San Pablo de Lipez,13.8,-8.0,,,
 2023-05-12,San Pedro - Río Victoria (GPRS),27.71,17.5,87.2,60.62,
@@ -28193,6 +28372,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-13,Cuatro Cañadas - CEA-2 (GPRS),29.51,15.33,95.3,34.3,
 2023-05-13,Cuatro Cañadas - Colonia Chihuahua (GPRS),29.73,15.13,98.1,36.08,
 2023-05-13,Culpina,23.0,-5.0,,,
+2023-05-13,Culta,,-2.0,,,
 2023-05-13,Desaguadero_M,12.71,1.08,90.5,40.13,7.2
 2023-05-13,El Alto,4.0,4.0,80.3,80.3,
 2023-05-13,El Alto Aeropuerto,13.4,-1.3,,,
@@ -28207,6 +28387,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-13,Isla Suriqui_M (GPRS),13.24,3.1,93.9,35.33,0.3
 2023-05-13,Ivirgarzama-Senda VI (GPRS),29.86,19.35,88.3,59.18,
 2023-05-13,Jesús de Machaca_M (GPRS),14.79,-1.59,96.8,32.98,6.1
+2023-05-13,La Asunta,29.5,18.0,,,
 2023-05-13,La Barranca  (Chuquisaca),22.0,4.0,,,
 2023-05-13,La Merced,28.0,11.0,,,
 2023-05-13,La Violeta,27.0,5.0,,,
@@ -28252,6 +28433,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-13,San Joaquin Aeropuerto,31.5,,,,
 2023-05-13,San Julian - Comunidad Los Angeles (GPRS),31.49,16.07,96.1,37.83,
 2023-05-13,San Julian - Nucleo 32 (GPRS),28.27,16.93,,,
+2023-05-13,San Lucas,25.0,-2.0,,,
 2023-05-13,San Pablo de Lipez,14.7,-6.6,,,
 2023-05-13,San Pedro - Río Victoria (GPRS),28.53,15.54,96.0,48.76,
 2023-05-13,San Pedro - San Antonio (GPRS),28.87,16.32,95.6,43.13,
@@ -28351,6 +28533,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-14,Cuatro Cañadas - CEA-2 (GPRS),30.76,15.98,98.6,45.72,
 2023-05-14,Cuatro Cañadas - Colonia Chihuahua (GPRS),31.22,15.71,100.0,44.75,
 2023-05-14,Culpina,25.0,-4.0,,,
+2023-05-14,Culta,,-4.0,,,
 2023-05-14,Desaguadero_M,13.63,2.06,88.6,40.78,
 2023-05-14,El Alto,5.0,5.0,64.7,64.7,
 2023-05-14,El Alto Aeropuerto,16.0,-2.3,,,
@@ -28365,6 +28548,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-14,Isla Suriqui_M (GPRS),14.11,3.69,83.8,40.09,
 2023-05-14,Ivirgarzama-Senda VI (GPRS),31.98,17.97,87.3,52.03,
 2023-05-14,Jesús de Machaca_M (GPRS),16.75,-4.55,95.7,31.23,
+2023-05-14,La Asunta,28.0,17.0,,,
 2023-05-14,La Merced,29.0,11.0,,,
 2023-05-14,La Violeta,26.0,2.0,,,
 2023-05-14,Laykacota,20.7,4.8,,,
@@ -28413,6 +28597,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-14,San Joaquin Aeropuerto,,21.3,,,
 2023-05-14,San Julian - Comunidad Los Angeles (GPRS),32.72,17.72,99.3,45.33,
 2023-05-14,San Julian - Nucleo 32 (GPRS),31.36,17.72,,,
+2023-05-14,San Lucas,27.0,-2.0,,,
 2023-05-14,San Pablo de Lipez,16.6,-4.0,,,
 2023-05-14,San Pedro - Río Victoria (GPRS),30.18,16.04,95.7,54.98,
 2023-05-14,San Pedro - San Antonio (GPRS),30.61,18.28,96.2,53.62,
@@ -28520,6 +28705,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-15,Cuatro Cañadas - CEA-2 (GPRS),30.96,18.35,95.0,45.85,
 2023-05-15,Cuatro Cañadas - Colonia Chihuahua (GPRS),32.16,18.86,98.3,39.94,
 2023-05-15,Culpina,25.0,-3.0,,,
+2023-05-15,Culta,,-3.0,,,
 2023-05-15,Desaguadero_M,14.15,-1.01,82.2,37.53,
 2023-05-15,El Alto,15.0,3.0,60.6,60.6,
 2023-05-15,El Alto Aeropuerto,15.5,-2.0,,,
@@ -28534,6 +28720,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-15,Isla Suriqui_M (GPRS),14.36,3.23,83.8,37.74,
 2023-05-15,Ivirgarzama-Senda VI (GPRS),31.96,18.63,87.9,51.47,
 2023-05-15,Jesús de Machaca_M (GPRS),16.36,-5.93,91.2,25.63,
+2023-05-15,La Asunta,29.5,19.0,,,
 2023-05-15,La Barranca  (Chuquisaca),24.0,3.0,,,
 2023-05-15,La Merced,28.0,12.0,,,
 2023-05-15,La Violeta,27.0,2.0,,,
@@ -28594,6 +28781,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-15,San Juan de Yapacaní,,,,,0.2
 2023-05-15,San Julian - Comunidad Los Angeles (GPRS),32.46,19.89,97.3,47.0,
 2023-05-15,San Julian - Nucleo 32 (GPRS),31.28,19.16,,,
+2023-05-15,San Lucas,27.0,-2.0,,,
 2023-05-15,San Matias Aeropuerto,32.5,15.5,,,
 2023-05-15,San Pablo de Lipez,17.2,-5.0,,,
 2023-05-15,San Pedro - Río Victoria (GPRS),30.39,16.66,96.0,53.63,
@@ -28703,6 +28891,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-16,Cuatro Cañadas - CEA-2 (GPRS),30.71,17.89,99.4,50.35,
 2023-05-16,Cuatro Cañadas - Colonia Chihuahua (GPRS),32.47,18.47,99.2,48.53,
 2023-05-16,Culpina,25.0,-2.0,,,
+2023-05-16,Culta,,-4.0,,,
 2023-05-16,Desaguadero_M,14.48,-3.88,87.6,13.35,
 2023-05-16,El Alto,6.0,6.0,44.9,44.9,
 2023-05-16,El Alto Aeropuerto,,,,,1.2
@@ -28717,6 +28906,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-16,Isla Suriqui_M (GPRS),15.04,2.58,90.8,15.81,
 2023-05-16,Ivirgarzama-Senda VI (GPRS),31.82,21.74,87.8,55.93,
 2023-05-16,Jesús de Machaca_M (GPRS),16.88,-9.89,89.4,11.94,
+2023-05-16,La Asunta,29.0,18.0,,,
 2023-05-16,La Barranca  (Chuquisaca),26.0,4.5,,,
 2023-05-16,La Merced,27.0,12.0,,,
 2023-05-16,La Violeta,28.0,3.0,,,
@@ -28776,6 +28966,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-16,San Jose de Chiquitos Aerop,33.5,17.5,,,
 2023-05-16,San Julian - Comunidad Los Angeles (GPRS),31.98,20.85,91.9,51.65,
 2023-05-16,San Julian - Nucleo 32 (GPRS),31.87,19.82,,,
+2023-05-16,San Lucas,28.0,0.0,,,
 2023-05-16,San Matias Aeropuerto,31.7,14.7,,,
 2023-05-16,San Pablo de Lipez,18.0,-8.1,,,
 2023-05-16,San Pedro - Río Victoria (GPRS),30.51,19.01,95.8,56.44,
@@ -28886,6 +29077,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-17,Cuatro Cañadas - CEA-2 (GPRS),31.38,22.16,96.9,53.16,
 2023-05-17,Cuatro Cañadas - Colonia Chihuahua (GPRS),32.27,23.37,88.1,46.84,
 2023-05-17,Culpina,24.0,-2.0,,,
+2023-05-17,Culta,,-5.0,,,
 2023-05-17,Desaguadero_M,14.09,-4.14,78.9,27.4,
 2023-05-17,El Alto,7.0,7.0,26.3,26.3,
 2023-05-17,El Alto Aeropuerto,15.3,-1.8,,,
@@ -28901,6 +29093,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-17,Ivirgarzama-Senda VI (GPRS),29.55,22.74,88.9,72.97,
 2023-05-17,Jesús de Machaca_M (GPRS),17.11,-9.44,82.6,10.96,
 2023-05-17,Jihuacuta,,,,,1.0
+2023-05-17,La Asunta,28.5,17.0,,,
 2023-05-17,La Barranca  (Chuquisaca),25.5,5.5,,,
 2023-05-17,La Merced,32.0,13.0,,,
 2023-05-17,La Violeta,29.0,8.0,,,
@@ -28960,6 +29153,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-17,San Jose de Chiquitos Aerop,34.2,18.3,,,
 2023-05-17,San Julian - Comunidad Los Angeles (GPRS),32.41,22.34,96.4,49.0,
 2023-05-17,San Julian - Nucleo 32 (GPRS),32.01,23.55,,,
+2023-05-17,San Lucas,27.0,-1.0,,,
 2023-05-17,San Matias Aeropuerto,33.2,15.5,,,
 2023-05-17,San Pablo de Lipez,16.0,-7.0,,,
 2023-05-17,San Pedro - Río Victoria (GPRS),30.52,22.0,94.5,60.45,
@@ -29071,6 +29265,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-18,Cuatro Cañadas - CEA-2 (GPRS),27.22,22.16,100.0,78.75,
 2023-05-18,Cuatro Cañadas - Colonia Chihuahua (GPRS),32.28,22.52,100.0,59.88,
 2023-05-18,Culpina,21.0,-1.0,,,
+2023-05-18,Culta,,-3.0,,,
 2023-05-18,Desaguadero_M,13.76,-2.45,83.7,17.42,
 2023-05-18,El Alto,5.0,5.0,32.7,32.7,
 2023-05-18,El Alto Aeropuerto,15.6,-2.0,,,
@@ -29086,6 +29281,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-18,Ivirgarzama-Senda VI (GPRS),30.63,22.67,87.6,70.11,
 2023-05-18,Jesús de Machaca_M (GPRS),16.31,-5.6,82.7,14.55,
 2023-05-18,Jihuacuta,,,,,0.1
+2023-05-18,La Asunta,29.0,18.0,,,
 2023-05-18,La Barranca  (Chuquisaca),23.5,6.0,,,
 2023-05-18,La Merced,27.0,12.0,,,
 2023-05-18,La Violeta,28.0,4.0,,,
@@ -29146,6 +29342,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-18,San Juan de Yapacaní,,,,,7.0
 2023-05-18,San Julian - Comunidad Los Angeles (GPRS),29.8,22.8,98.9,73.83,
 2023-05-18,San Julian - Nucleo 32 (GPRS),30.95,22.7,,,
+2023-05-18,San Lucas,26.0,0.0,,,
 2023-05-18,San Matias Aeropuerto,34.7,17.8,,,
 2023-05-18,San Pablo de Lipez,15.2,-9.5,,,
 2023-05-18,San Pedro - Río Victoria (GPRS),30.66,22.12,94.7,69.3,
@@ -29256,6 +29453,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-19,Cuatro Cañadas - CEA-2 (GPRS),28.4,23.34,100.0,76.74,16.0
 2023-05-19,Cuatro Cañadas - Colonia Chihuahua (GPRS),31.23,22.99,100.0,62.74,5.2
 2023-05-19,Culpina,25.0,-1.0,,,
+2023-05-19,Culta,,-2.0,,,
 2023-05-19,Desaguadero_M,14.16,-1.21,74.88,39.68,
 2023-05-19,El Alto,5.0,5.0,44.6,44.6,
 2023-05-19,El Alto Aeropuerto,15.9,-4.5,,,
@@ -29271,6 +29469,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-19,Isla Suriqui_M (GPRS),14.49,3.84,94.8,39.96,
 2023-05-19,Ivirgarzama-Senda VI (GPRS),26.78,23.39,85.6,68.7,4.6
 2023-05-19,Jesús de Machaca_M (GPRS),16.23,-6.83,92.3,28.58,
+2023-05-19,La Asunta,28.5,17.5,,,
 2023-05-19,La Barranca  (Chuquisaca),23.0,4.5,,,
 2023-05-19,La Merced,25.0,12.0,,,
 2023-05-19,La Violeta,27.0,3.0,,,
@@ -29332,6 +29531,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-19,San Julian,,,,,18.0
 2023-05-19,San Julian - Comunidad Los Angeles (GPRS),27.97,23.33,100.0,82.6,10.3
 2023-05-19,San Julian - Nucleo 32 (GPRS),28.66,23.23,,,3.8
+2023-05-19,San Lucas,28.0,1.0,,,
 2023-05-19,San Matias Aeropuerto,,18.6,,,
 2023-05-19,San Pablo de Lipez,16.6,-10.6,,,
 2023-05-19,San Pedro (SCZ),,,,,64.0
@@ -29440,6 +29640,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-20,Cuatro Cañadas - CEA-2 (GPRS),28.79,22.22,100.0,73.81,
 2023-05-20,Cuatro Cañadas - Colonia Chihuahua (GPRS),29.79,22.66,99.8,67.02,0.4
 2023-05-20,Culpina,23.0,-1.0,,,
+2023-05-20,Culta,,-3.0,,,
 2023-05-20,Desaguadero_M,13.3,-2.12,66.6,21.16,
 2023-05-20,El Alto,6.0,6.0,69.8,69.8,
 2023-05-20,El Alto Aeropuerto,15.4,-2.0,,,
@@ -29456,6 +29657,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-20,Isla Suriqui_M (GPRS),14.3,2.44,71.58,31.98,
 2023-05-20,Ivirgarzama-Senda VI (GPRS),30.49,22.97,88.6,69.49,2.9
 2023-05-20,Jesús de Machaca_M (GPRS),16.72,-6.96,75.05,16.36,
+2023-05-20,La Asunta,29.0,19.0,,,
 2023-05-20,La Barranca  (Chuquisaca),20.5,6.0,,,
 2023-05-20,La Merced,24.0,12.0,,,
 2023-05-20,La Violeta,29.0,4.0,,,
@@ -29501,6 +29703,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-20,San Juan de Yapacaní,,,,,82.0
 2023-05-20,San Julian - Comunidad Los Angeles (GPRS),30.13,22.67,100.0,73.31,
 2023-05-20,San Julian - Nucleo 32 (GPRS),30.56,22.76,,,0.2
+2023-05-20,San Lucas,25.0,2.0,,,
 2023-05-20,San Pablo de Lipez,12.7,-11.0,,,
 2023-05-20,San Pedro - Río Victoria (GPRS),29.1,23.01,95.0,77.98,1.6
 2023-05-20,San Pedro - San Antonio (GPRS),28.63,22.8,97.2,82.1,0.2
@@ -29607,6 +29810,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-21,Cuatro Cañadas - CEA-2 (GPRS),29.32,22.75,100.0,74.08,27.2
 2023-05-21,Cuatro Cañadas - Colonia Chihuahua (GPRS),30.64,22.13,100.0,68.0,2.8
 2023-05-21,Culpina,23.0,2.0,,,
+2023-05-21,Culta,,-4.0,,,
 2023-05-21,Desaguadero_M,12.52,-7.09,73.03,15.87,
 2023-05-21,El Alto,15.0,1.0,38.5,17.9,
 2023-05-21,El Alto Aeropuerto,15.0,-0.4,,,
@@ -29624,6 +29828,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-21,Isla Suriqui_M (GPRS),13.44,-0.24,67.65,25.63,
 2023-05-21,Ivirgarzama-Senda VI (GPRS),30.98,22.63,88.4,68.69,0.7
 2023-05-21,Jesús de Machaca_M (GPRS),16.7,-14.58,71.89,8.69,
+2023-05-21,La Asunta,30.0,18.5,,,
 2023-05-21,La Merced,27.0,13.0,,,
 2023-05-21,La Violeta,28.0,1.0,,,
 2023-05-21,Laykacota,20.5,5.5,,,
@@ -29671,6 +29876,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-21,San Juan de Yapacaní,,,,,3.4
 2023-05-21,San Julian - Comunidad Los Angeles (GPRS),30.17,22.47,100.0,74.67,44.3
 2023-05-21,San Julian - Nucleo 32 (GPRS),30.89,22.64,,,33.8
+2023-05-21,San Lucas,25.0,11.0,,,
 2023-05-21,San Pablo de Lipez,13.6,-12.1,,,
 2023-05-21,San Pedro (SCZ),,,,,7.0
 2023-05-21,San Pedro - Río Victoria (GPRS),30.71,22.19,95.9,71.54,3.0
@@ -29777,6 +29983,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-22,Cuatro Cañadas - CEA-2 (GPRS),30.3,24.2,98.8,68.63,
 2023-05-22,Cuatro Cañadas - Colonia Chihuahua (GPRS),31.95,23.25,99.8,64.63,0.2
 2023-05-22,Culpina,23.0,-3.0,,,
+2023-05-22,Culta,,-3.0,,,
 2023-05-22,Desaguadero_M,12.46,-3.82,71.3,15.95,
 2023-05-22,El Alto,14.0,1.0,85.9,12.8,
 2023-05-22,El Alto Aeropuerto,14.4,-5.4,,,
@@ -29791,6 +29998,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-22,Isla Suriqui_M (GPRS),12.34,0.75,93.7,24.64,
 2023-05-22,Ivirgarzama-Senda VI (GPRS),30.64,23.49,87.9,68.93,1.1
 2023-05-22,Jesús de Machaca_M (GPRS),14.93,-11.33,63.56,6.33,
+2023-05-22,La Asunta,29.5,18.5,,,
 2023-05-22,La Barranca  (Chuquisaca),24.0,4.5,,,
 2023-05-22,La Merced,32.0,11.0,,,
 2023-05-22,La Violeta,27.0,0.0,,,
@@ -29853,6 +30061,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-22,San Julian,,,,,58.3
 2023-05-22,San Julian - Comunidad Los Angeles (GPRS),30.69,24.37,99.6,71.35,4.8
 2023-05-22,San Julian - Nucleo 32 (GPRS),31.15,24.21,,,7.8
+2023-05-22,San Lucas,27.0,-2.0,,,
 2023-05-22,San Matias Aeropuerto,34.0,20.0,,,
 2023-05-22,San Pablo de Lipez,14.9,-11.0,,,
 2023-05-22,San Pedro (SCZ),,,,,6.0
@@ -29967,6 +30176,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-23,Cuatro Cañadas - Colonia Chihuahua (GPRS),33.46,22.65,98.3,58.17,
 2023-05-23,Cuevo (GPRS),-39.8,-39.86,0.18,0.13,
 2023-05-23,Culpina,25.0,-2.0,,,
+2023-05-23,Culta,,-5.0,,,
 2023-05-23,Desaguadero_M,12.78,-2.51,76.38,34.14,
 2023-05-23,El Alto,3.0,3.0,86.1,86.1,
 2023-05-23,El Alto Aeropuerto,14.4,-4.8,,,
@@ -29981,6 +30191,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-23,Isla Suriqui_M (GPRS),13.32,1.79,92.6,39.71,
 2023-05-23,Ivirgarzama-Senda VI (GPRS),30.53,23.26,88.3,69.05,
 2023-05-23,Jesús de Machaca_M (GPRS),15.38,-9.38,84.8,20.14,
+2023-05-23,La Asunta,30.5,19.0,,,
 2023-05-23,La Barranca  (Chuquisaca),23.0,4.0,,,
 2023-05-23,La Merced,32.0,9.0,,,
 2023-05-23,La Violeta,26.0,3.0,,,
@@ -30048,6 +30259,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-23,San Julian,,,,,4.0
 2023-05-23,San Julian - Comunidad Los Angeles (GPRS),31.63,23.24,99.9,66.07,0.6
 2023-05-23,San Julian - Nucleo 32 (GPRS),31.52,23.19,,,
+2023-05-23,San Lucas,25.0,-2.0,,,
 2023-05-23,San Matias Aeropuerto,35.4,21.8,,,
 2023-05-23,San Pablo de Lipez,13.8,-10.1,,,
 2023-05-23,San Pedro - Río Victoria (GPRS),30.25,23.17,95.3,73.59,23.4
@@ -30158,6 +30370,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-24,Cuatro Cañadas - CEA-2 (GPRS),30.1,23.74,96.4,68.02,
 2023-05-24,Cuatro Cañadas - Colonia Chihuahua (GPRS),31.82,22.0,97.9,62.48,
 2023-05-24,Culpina,22.0,-3.0,,,
+2023-05-24,Culta,,-4.0,,,
 2023-05-24,Desaguadero_M,13.37,-4.41,62.09,20.74,
 2023-05-24,El Alto,5.0,5.0,32.7,32.7,
 2023-05-24,El Alto Aeropuerto,14.6,,,,
@@ -30172,6 +30385,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-24,Isla Suriqui_M (GPRS),13.51,0.82,77.95,22.17,
 2023-05-24,Ivirgarzama-Senda VI (GPRS),31.62,22.34,88.2,66.82,1.6
 2023-05-24,Jesús de Machaca_M (GPRS),15.51,-10.42,69.82,13.7,
+2023-05-24,La Asunta,31.0,20.0,,,
 2023-05-24,La Barranca  (Chuquisaca),23.0,3.5,,,
 2023-05-24,La Merced,33.0,12.0,,,
 2023-05-24,La Violeta,26.0,4.0,,,
@@ -30238,6 +30452,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-24,San Juan de Yapacaní,,,,,0.2
 2023-05-24,San Julian - Comunidad Los Angeles (GPRS),31.17,23.8,97.2,69.13,
 2023-05-24,San Julian - Nucleo 32 (GPRS),30.76,23.82,,,
+2023-05-24,San Lucas,25.0,0.0,,,
 2023-05-24,San Matias Aeropuerto,33.0,19.5,,,
 2023-05-24,San Pablo de Lipez,14.0,-11.0,,,
 2023-05-24,San Pedro - Río Victoria (GPRS),30.21,22.86,94.3,68.76,0.8
@@ -30347,6 +30562,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-25,Cuatro Cañadas - CEA-2 (GPRS),30.46,23.4,97.7,66.72,
 2023-05-25,Cuatro Cañadas - Colonia Chihuahua (GPRS),31.44,23.38,93.3,62.41,0.2
 2023-05-25,Culpina,24.0,-2.0,,,
+2023-05-25,Culta,,-5.0,,,
 2023-05-25,Desaguadero_M,13.52,-3.82,71.87,21.94,
 2023-05-25,El Alto,15.0,1.0,21.9,21.9,
 2023-05-25,El Alto Aeropuerto,14.8,-2.0,,,
@@ -30422,6 +30638,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-25,San Jose de Chiquitos Aerop,35.2,19.4,,,
 2023-05-25,San Julian - Comunidad Los Angeles (GPRS),30.91,23.4,95.9,70.5,
 2023-05-25,San Julian - Nucleo 32 (GPRS),31.34,24.34,,,
+2023-05-25,San Lucas,26.0,-1.0,,,
 2023-05-25,San Matias Aeropuerto,33.6,18.0,,,
 2023-05-25,San Pablo de Lipez,13.1,-10.0,,,
 2023-05-25,San Pedro - Río Victoria (GPRS),30.83,23.78,92.4,67.12,
@@ -30534,6 +30751,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-26,Cuatro Cañadas - CEA-2 (GPRS),30.61,23.34,96.6,65.87,
 2023-05-26,Cuatro Cañadas - Colonia Chihuahua (GPRS),32.28,23.96,93.2,60.99,
 2023-05-26,Culpina,24.0,2.0,,,
+2023-05-26,Culta,,-6.0,,,
 2023-05-26,Desaguadero_M,14.02,3.17,84.9,20.58,
 2023-05-26,El Alto,6.0,6.0,56.1,56.1,
 2023-05-26,El Alto Aeropuerto,15.4,-2.2,,,
@@ -30609,6 +30827,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-26,San Jose de Chiquitos Aerop,,21.3,,,
 2023-05-26,San Julian - Comunidad Los Angeles (GPRS),31.56,23.33,96.1,68.48,
 2023-05-26,San Julian - Nucleo 32 (GPRS),,,,,0.2
+2023-05-26,San Lucas,27.0,0.0,,,
 2023-05-26,San Matias Aeropuerto,,20.7,,,
 2023-05-26,San Pablo de Lipez,12.6,-9.1,,,
 2023-05-26,San Pedro - Río Victoria (GPRS),31.02,24.16,92.0,67.12,
@@ -30715,6 +30934,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-27,Cuatro Cañadas - CEA-2 (GPRS),30.34,19.84,99.8,70.37,
 2023-05-27,Cuatro Cañadas - Colonia Chihuahua (GPRS),33.13,21.22,100.0,59.43,
 2023-05-27,Culpina,19.0,-1.0,,,
+2023-05-27,Culta,,-5.0,,,
 2023-05-27,Desaguadero_M,15.14,4.49,73.28,44.78,
 2023-05-27,El Alto,13.0,5.0,99.3,53.7,
 2023-05-27,El Alto Aeropuerto,13.3,,,,
@@ -30731,6 +30951,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-27,Isla Suriqui_M (GPRS),14.29,7.16,82.7,53.52,
 2023-05-27,Ivirgarzama-Senda VI (GPRS),31.63,21.24,88.1,69.38,
 2023-05-27,Jesús de Machaca_M (GPRS),16.3,0.0,93.5,36.39,
+2023-05-27,La Asunta,31.0,20.0,,,
 2023-05-27,La Merced,16.0,12.0,,,
 2023-05-27,La Violeta,25.0,7.0,,,
 2023-05-27,Laykacota,19.3,6.9,,,
@@ -30779,6 +31000,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-27,San Juan de Yapacaní,,,,,77.0
 2023-05-27,San Julian - Comunidad Los Angeles (GPRS),31.63,20.97,99.0,64.76,
 2023-05-27,San Julian - Nucleo 32 (GPRS),31.68,21.52,,,
+2023-05-27,San Lucas,25.0,0.0,,,
 2023-05-27,San Pablo de Lipez,12.0,-8.8,,,
 2023-05-27,San Pedro - Río Victoria (GPRS),31.64,21.88,94.3,62.97,
 2023-05-27,San Pedro - San Antonio (GPRS),31.81,21.3,94.5,65.28,
@@ -30889,6 +31111,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-28,Cuatro Cañadas - CEA-2 (GPRS),18.35,14.87,87.5,77.5,39.0
 2023-05-28,Cuatro Cañadas - Colonia Chihuahua (GPRS),18.27,14.73,91.5,82.9,29.4
 2023-05-28,Culpina,20.0,-1.0,,,
+2023-05-28,Culta,,-4.0,,,
 2023-05-28,Desaguadero_M,13.43,4.35,76.93,33.22,
 2023-05-28,Dorado Chico,,,,,18.5
 2023-05-28,El Alto,13.0,3.0,99.3,37.8,
@@ -30910,6 +31133,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-28,Isla Suriqui_M (GPRS),13.83,4.21,92.6,36.05,
 2023-05-28,Ivirgarzama-Senda VI (GPRS),21.13,17.4,88.1,74.58,88.4
 2023-05-28,Jesús de Machaca_M (GPRS),15.44,-1.75,75.47,30.26,
+2023-05-28,La Asunta,30.5,19.5,,,
 2023-05-28,La Barranca  (Chuquisaca),,,,,5.0
 2023-05-28,La Merced,26.0,10.0,,,
 2023-05-28,La Violeta,23.0,6.0,,,2.2
@@ -30968,6 +31192,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-28,San Julian,,,,,44.5
 2023-05-28,San Julian - Comunidad Los Angeles (GPRS),18.75,15.81,94.7,82.2,43.4
 2023-05-28,San Julian - Nucleo 32 (GPRS),19.06,15.95,,,25.8
+2023-05-28,San Lucas,27.0,3.0,,,
 2023-05-28,San Pablo de Lipez,11.9,-9.0,,,
 2023-05-28,San Pedro (SCZ),,,,,25.0
 2023-05-28,San Pedro - Río Victoria (GPRS),18.58,15.4,91.2,79.19,19.4
@@ -31083,6 +31308,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-29,Cuatro Cañadas - CEA-2 (GPRS),19.86,15.0,99.0,78.1,
 2023-05-29,Cuatro Cañadas - Colonia Chihuahua (GPRS),,,,,0.2
 2023-05-29,Culpina,23.0,-2.0,,,
+2023-05-29,Culta,,-5.0,,,
 2023-05-29,Desaguadero_M,16.26,-6.44,65.22,7.56,
 2023-05-29,Dorado Chico,,,,,5.2
 2023-05-29,El Alto,,,92.5,92.5,
@@ -31164,6 +31390,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-29,San Jose de Chiquitos Aerop,21.4,11.6,,,60.7
 2023-05-29,San Julian - Comunidad Los Angeles (GPRS),,,,,1.1
 2023-05-29,San Julian - Nucleo 32 (GPRS),,,,,1.8
+2023-05-29,San Lucas,26.0,5.0,,,
 2023-05-29,San Matias Aeropuerto,21.5,17.0,,,34.3
 2023-05-29,San Pablo de Lipez,12.6,-10.1,,,
 2023-05-29,San Pedro - Río Victoria (GPRS),,,,,1.0
@@ -31281,6 +31508,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-30,Cuatro Cañadas - CEA-2 (GPRS),21.83,17.69,99.4,78.6,1.2
 2023-05-30,Cuatro Cañadas - Colonia Chihuahua (GPRS),21.74,17.75,99.9,80.3,0.8
 2023-05-30,Culpina,21.0,-1.0,,,
+2023-05-30,Culta,,-4.0,,,
 2023-05-30,Desaguadero_M,12.32,-5.65,81.0,21.29,
 2023-05-30,El Alto,14.0,0.0,27.0,27.0,
 2023-05-30,El Alto Aeropuerto,15.2,-4.0,,,
@@ -31300,6 +31528,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-30,Isla Suriqui_M (GPRS),12.4,1.0,88.4,17.08,
 2023-05-30,Ivirgarzama-Senda VI (GPRS),25.43,19.26,89.9,74.43,
 2023-05-30,Jesús de Machaca_M (GPRS),15.25,-12.23,61.2,8.29,
+2023-05-30,La Asunta,28.0,19.0,,,
 2023-05-30,La Barranca  (Chuquisaca),22.0,4.0,,,
 2023-05-30,La Merced,26.0,10.0,,,
 2023-05-30,La Violeta,31.0,0.0,,,
@@ -31358,6 +31587,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-30,San Jose de Chiquitos Aerop,21.5,14.2,,,2.2
 2023-05-30,San Julian - Comunidad Los Angeles (GPRS),23.99,17.96,99.6,73.36,1.2
 2023-05-30,San Julian - Nucleo 32 (GPRS),22.64,18.12,,,1.0
+2023-05-30,San Lucas,24.0,0.0,,,
 2023-05-30,San Matias Aeropuerto,21.9,18.0,,,
 2023-05-30,San Pablo de Lipez,13.7,-8.2,,,
 2023-05-30,San Pedro - Río Victoria (GPRS),23.44,18.74,90.0,73.08,0.6
@@ -31469,6 +31699,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-31,Cuatro Cañadas - CEA-2 (GPRS),23.74,20.25,99.2,74.87,
 2023-05-31,Cuatro Cañadas - Colonia Chihuahua (GPRS),24.23,20.63,97.1,78.26,0.2
 2023-05-31,Culpina,25.0,-6.0,,,
+2023-05-31,Culta,,-6.0,,,
 2023-05-31,Desaguadero_M,13.61,-4.86,84.2,20.45,
 2023-05-31,El Alto,16.0,1.0,23.7,23.7,
 2023-05-31,El Alto Aeropuerto,16.4,-3.8,,,
@@ -31485,6 +31716,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-31,Ivirgarzama-Senda VI (GPRS),25.5,20.2,89.9,71.71,
 2023-05-31,Jesús de Machaca_M (GPRS),17.48,-10.41,67.02,7.98,
 2023-05-31,Jihuacuta,,,,,0.1
+2023-05-31,La Asunta,29.0,18.0,,,
 2023-05-31,La Barranca  (Chuquisaca),23.0,2.0,,,
 2023-05-31,La Merced,27.0,9.0,,,
 2023-05-31,La Violeta,30.0,0.0,,,
@@ -31542,6 +31774,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-31,San Jose de Chiquitos Aerop,24.6,15.3,,,
 2023-05-31,San Julian - Comunidad Los Angeles (GPRS),26.01,21.23,98.2,69.39,0.7
 2023-05-31,San Julian - Nucleo 32 (GPRS),25.33,21.59,,,
+2023-05-31,San Lucas,27.0,-2.0,,,
 2023-05-31,San Matias Aeropuerto,26.5,20.5,,,17.0
 2023-05-31,San Pablo de Lipez,14.4,-9.0,,,
 2023-05-31,San Pedro - Río Victoria (GPRS),25.38,20.42,94.9,70.69,
@@ -31612,17 +31845,21 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-01,Aroma (GPRS),-1.54,-1.54,21.3,21.3,
 2023-06-01,Cabaña Forestal Oruro,,-3.8,,,
 2023-06-01,Camiri,22.0,15.0,93.1,93.1,
+2023-06-01,Chimore Aeropuerto,,,,,1.3
 2023-06-01,Chua Cocani_M (GPRS),16.06,-0.7,83.7,25.86,
+2023-06-01,Chuqui Chuqui,30.0,11.0,,,
 2023-06-01,Cobija,27.0,22.0,93.2,93.2,
 2023-06-01,Cobija Aeropuerto,,,,,0.1
 2023-06-01,Cochabamba,29.0,4.0,56.6,56.6,
 2023-06-01,Concepcion,27.0,18.0,99.1,99.1,
 2023-06-01,Cuatro Cañadas - CEA-2 (GPRS),27.68,18.28,100.0,64.28,
 2023-06-01,Cuatro Cañadas - Colonia Chihuahua (GPRS),29.47,16.86,100.0,58.68,
+2023-06-01,Culta,,-2.0,,,
 2023-06-01,Desaguadero_M,13.95,-5.72,75.65,25.0,
 2023-06-01,El Alto,16.0,0.0,23.7,23.7,
 2023-06-01,El Alto Aeropuerto,,-1.0,,,
 2023-06-01,El Tranque (GPRS),5.78,5.78,52.54,52.54,
+2023-06-01,El Villar,27.0,5.5,,,
 2023-06-01,Huarisuyo (GPRS),16.65,-7.09,77.14,18.56,
 2023-06-01,Isla Suriqui_M (GPRS),14.51,0.61,77.45,24.39,
 2023-06-01,Ivirgarzama-Senda VI (GPRS),27.84,21.32,89.4,74.21,4.4
@@ -31634,6 +31871,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-01,Pailon - Pozo del Tigre (GPRS),28.44,18.4,100.0,59.45,
 2023-06-01,Pocona - SDC (GPRS),26.43,-2.3,84.7,10.59,
 2023-06-01,Pojo - SDC (GPRS),24.74,8.75,73.23,26.5,
+2023-06-01,Potosi Los Pinos,19.2,-3.4,,,
 2023-06-01,Puerto Suarez,21.0,21.0,93.2,93.2,
 2023-06-01,Puerto Suarez Aeropuerto (F),21.0,21.0,93.2,93.2,
 2023-06-01,Puerto Villarroel (GPRS),26.5,20.44,90.2,74.57,1.8
@@ -31651,12 +31889,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-01,San Jose de Chiquitos,21.0,21.0,93.2,93.2,
 2023-06-01,San Julian - Comunidad Los Angeles (GPRS),29.22,18.95,99.1,55.89,
 2023-06-01,San Julian - Nucleo 32 (GPRS),28.93,18.97,,,
+2023-06-01,San Lucas,27.0,-3.0,,,
 2023-06-01,San Pedro - Río Victoria (GPRS),28.05,18.88,95.7,67.55,
 2023-06-01,San Pedro - San Antonio (GPRS),27.81,19.61,96.6,67.34,
 2023-06-01,San Pedro de Buena Vista (GPRS),25.18,10.41,40.78,12.29,
 2023-06-01,San Roque - El Alto (GPRS),17.65,-1.99,59.76,7.42,
 2023-06-01,Santa Ana - Yacuma,22.0,22.0,93.2,93.2,
 2023-06-01,Sauce Pilata - SDC (GPRS),21.01,11.18,79.02,11.79,
+2023-06-01,Sucre SENAMHI,25.0,4.6,37.0,9.0,
 2023-06-01,Sunjani (GPRS),16.48,-3.39,68.49,12.65,
 2023-06-01,Tacagua_M (GPRS),16.97,-1.16,32.09,6.42,
 2023-06-01,Tarija,4.0,4.0,86.1,86.1,
@@ -31682,16 +31922,20 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-02,Aroma (GPRS),-2.87,-2.87,18.95,18.95,
 2023-06-02,Cabaña Forestal Oruro,,-4.4,,,
 2023-06-02,Camiri,28.0,18.0,87.3,44.7,
+2023-06-02,Chimore Aeropuerto,,,,,4.1
 2023-06-02,Chua Cocani_M (GPRS),14.88,-1.41,89.0,14.39,
+2023-06-02,Chuqui Chuqui,31.0,12.0,,,
 2023-06-02,Cobija,32.0,23.0,93.2,93.2,
 2023-06-02,Cochabamba,29.0,4.0,56.6,56.6,
 2023-06-02,Concepcion,28.0,18.0,99.1,69.3,
 2023-06-02,Cuatro Cañadas - CEA-2 (GPRS),28.13,19.86,99.2,66.43,
 2023-06-02,Cuatro Cañadas - Colonia Chihuahua (GPRS),29.67,19.32,100.0,61.23,
+2023-06-02,Culta,,-4.0,,,
 2023-06-02,Desaguadero_M,13.66,-6.37,83.8,28.59,
 2023-06-02,El Alto,15.0,0.0,33.0,33.0,
 2023-06-02,El Alto Aeropuerto,,-3.8,,,
 2023-06-02,El Tranque (GPRS),9.26,9.26,25.78,25.78,
+2023-06-02,El Villar,23.0,5.0,,,
 2023-06-02,Huarisuyo (GPRS),16.06,-6.66,84.5,18.04,
 2023-06-02,Isla Suriqui_M (GPRS),14.55,1.53,77.82,20.35,
 2023-06-02,Ivirgarzama-Senda VI (GPRS),,,,,0.2
@@ -31703,6 +31947,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-02,Pailon - Pozo del Tigre (GPRS),29.17,20.81,96.4,58.55,
 2023-06-02,Pocona - SDC (GPRS),25.51,-0.47,80.4,8.38,
 2023-06-02,Pojo - SDC (GPRS),25.86,8.69,56.72,25.27,
+2023-06-02,Potosi Los Pinos,22.0,-2.8,,,
 2023-06-02,Puerto Suarez,29.0,24.0,82.6,65.4,
 2023-06-02,Puerto Suarez Aeropuerto (F),29.0,24.0,82.6,65.4,
 2023-06-02,Puerto Villarroel (GPRS),29.21,19.64,89.8,66.97,3.2
@@ -31718,12 +31963,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-02,San Juan de Yapacaní,,,,,0.2
 2023-06-02,San Julian - Comunidad Los Angeles (GPRS),28.68,19.59,99.1,65.42,
 2023-06-02,San Julian - Nucleo 32 (GPRS),28.87,20.22,,,
+2023-06-02,San Lucas,29.0,-3.0,,,
 2023-06-02,San Pedro - Río Victoria (GPRS),28.68,19.88,95.2,66.09,
 2023-06-02,San Pedro - San Antonio (GPRS),28.62,20.03,96.4,66.74,
 2023-06-02,San Pedro de Buena Vista (GPRS),26.27,10.66,22.24,9.87,
 2023-06-02,San Roque - El Alto (GPRS),18.17,-1.82,63.83,9.13,
 2023-06-02,Santa Ana - Yacuma,31.0,20.0,99.1,51.6,
 2023-06-02,Sauce Pilata - SDC (GPRS),23.07,14.64,36.76,12.51,
+2023-06-02,Sucre SENAMHI,25.0,5.0,34.0,12.0,
 2023-06-02,Sunjani (GPRS),16.09,-3.49,56.69,7.43,
 2023-06-02,Tacagua_M (GPRS),15.98,-2.53,24.28,5.89,
 2023-06-02,Tarija,6.0,6.0,86.3,86.3,
@@ -31750,15 +31997,18 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-03,Cabaña Forestal Oruro,,-7.0,,,
 2023-06-03,Camiri,28.0,17.0,93.0,93.0,
 2023-06-03,Chua Cocani_M (GPRS),15.43,-1.61,84.3,10.28,
+2023-06-03,Chuqui Chuqui,30.0,15.0,,,
 2023-06-03,Cobija,32.0,22.0,99.1,99.1,
 2023-06-03,Cochabamba,28.0,4.0,52.6,52.6,
 2023-06-03,Concepcion,29.0,19.0,99.1,99.1,
 2023-06-03,Cuatro Cañadas - CEA-2 (GPRS),29.55,21.11,99.3,65.53,
 2023-06-03,Cuatro Cañadas - Colonia Chihuahua (GPRS),31.03,20.11,99.7,59.15,
+2023-06-03,Culta,,-3.0,,,
 2023-06-03,Desaguadero_M,14.87,-6.82,72.33,10.29,
 2023-06-03,El Alto,15.0,1.0,30.2,30.2,
 2023-06-03,El Alto Aeropuerto,,-0.8,,,
 2023-06-03,El Tranque (GPRS),10.4,10.4,13.13,13.13,
+2023-06-03,El Villar,32.0,7.5,,,
 2023-06-03,Huarisuyo (GPRS),16.71,-7.09,74.71,8.5,
 2023-06-03,Isla Suriqui_M (GPRS),14.03,0.81,76.55,17.03,
 2023-06-03,Ivirgarzama-Senda VI (GPRS),30.58,19.51,89.2,63.12,
@@ -31768,6 +32018,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-03,Pailon - Pozo del Tigre (GPRS),30.56,21.33,98.5,56.53,
 2023-06-03,Pocona - SDC (GPRS),28.4,-0.64,94.8,6.14,
 2023-06-03,Pojo - SDC (GPRS),26.19,7.57,72.19,28.73,
+2023-06-03,Potosi Los Pinos,20.1,-4.0,,,
 2023-06-03,Puerto Suarez,30.0,25.0,87.9,65.6,
 2023-06-03,Puerto Suarez Aeropuerto (F),30.0,25.0,87.9,65.6,
 2023-06-03,Puerto Villarroel (GPRS),30.69,19.41,89.8,62.6,1.7
@@ -31780,12 +32031,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-03,San Javier Aeropuerto (F),29.0,25.0,87.9,73.8,
 2023-06-03,San Julian - Comunidad Los Angeles (GPRS),30.33,20.78,99.5,64.57,
 2023-06-03,San Julian - Nucleo 32 (GPRS),30.24,21.79,,,
+2023-06-03,San Lucas,28.0,-3.0,,,
 2023-06-03,San Pedro - Río Victoria (GPRS),30.17,20.88,95.4,65.05,
 2023-06-03,San Pedro - San Antonio (GPRS),30.1,21.26,96.2,65.96,
 2023-06-03,San Pedro de Buena Vista (GPRS),27.3,10.07,24.63,3.29,
 2023-06-03,San Roque - El Alto (GPRS),18.34,-2.06,56.1,8.81,
 2023-06-03,Santa Ana - Yacuma,23.0,23.0,93.2,93.2,
 2023-06-03,Sauce Pilata - SDC (GPRS),24.04,11.13,53.91,10.88,
+2023-06-03,Sucre SENAMHI,27.0,5.5,,,
 2023-06-03,Sunjani (GPRS),14.98,-4.72,61.32,5.73,
 2023-06-03,Tacagua_M (GPRS),15.66,-2.79,23.08,4.53,
 2023-06-03,Tarija,6.0,6.0,86.3,86.3,
@@ -31810,15 +32063,18 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-04,Cabaña Forestal Oruro,,-6.2,,,
 2023-06-04,Camiri,26.0,15.0,93.1,93.1,
 2023-06-04,Chua Cocani_M (GPRS),14.36,-1.82,80.3,11.12,
+2023-06-04,Chuqui Chuqui,30.0,12.0,,,
 2023-06-04,Cobija,33.0,23.0,99.1,99.1,
 2023-06-04,Cochabamba,28.0,8.0,52.6,52.6,
 2023-06-04,Concepcion,29.0,20.0,99.1,99.1,
 2023-06-04,Cuatro Cañadas - CEA-2 (GPRS),30.17,20.12,100.0,67.11,
 2023-06-04,Cuatro Cañadas - Colonia Chihuahua (GPRS),31.76,21.15,99.0,61.24,0.4
+2023-06-04,Culta,,-3.0,,,
 2023-06-04,Desaguadero_M,13.44,-6.43,70.94,18.1,
 2023-06-04,El Alto,15.0,0.0,32.4,32.4,
 2023-06-04,El Alto Aeropuerto,,-0.9,,,
 2023-06-04,El Tranque (GPRS),9.66,9.66,31.87,31.87,
+2023-06-04,El Villar,29.0,5.5,,,
 2023-06-04,Guajara-Mirim - Guayaramerín,,,,,3.4
 2023-06-04,Huarisuyo (GPRS),15.91,-9.16,80.4,13.74,
 2023-06-04,Isla Suriqui_M (GPRS),14.23,-0.43,93.5,11.36,
@@ -31829,6 +32085,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-04,Pailon - Pozo del Tigre (GPRS),31.29,21.53,96.4,59.99,
 2023-06-04,Pocona - SDC (GPRS),22.91,4.77,94.6,16.92,
 2023-06-04,Pojo - SDC (GPRS),20.68,9.41,82.0,45.45,
+2023-06-04,Potosi Los Pinos,20.0,-3.5,,,
 2023-06-04,Puente Chiñata_H- SDC (GPRS),,,,,0.1
 2023-06-04,Puerto Villarroel (GPRS),31.27,21.54,89.9,64.75,1.2
 2023-06-04,Putucuni Calientes (GPRS),10.28,-2.32,74.04,11.27,
@@ -31840,12 +32097,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-04,San Javier Aeropuerto (F),30.0,27.0,78.4,74.0,
 2023-06-04,San Julian - Comunidad Los Angeles (GPRS),31.56,22.47,99.1,62.74,
 2023-06-04,San Julian - Nucleo 32 (GPRS),31.16,22.31,,,
+2023-06-04,San Lucas,29.0,-3.0,,,
 2023-06-04,San Pedro - Río Victoria (GPRS),30.9,21.48,95.5,65.16,
 2023-06-04,San Pedro - San Antonio (GPRS),30.85,22.09,93.3,67.7,
 2023-06-04,San Pedro de Buena Vista (GPRS),24.65,8.91,86.0,8.44,
 2023-06-04,San Roque - El Alto (GPRS),17.09,-2.95,58.22,7.96,
 2023-06-04,Santa Ana - Yacuma,24.0,24.0,93.3,93.3,
 2023-06-04,Sauce Pilata - SDC (GPRS),20.9,7.7,94.7,23.64,
+2023-06-04,Sucre SENAMHI,24.0,4.5,,,
 2023-06-04,Sunjani (GPRS),14.84,-4.72,81.7,8.89,
 2023-06-04,Tacagua_M (GPRS),15.52,-1.4,26.29,6.22,
 2023-06-04,Tarija,20.0,12.0,81.2,48.0,
@@ -31870,16 +32129,20 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-05,Aroma (GPRS),-2.08,-2.08,16.78,16.78,
 2023-06-05,Cabaña Forestal Oruro,,-3.6,,,
 2023-06-05,Camiri,,,93.0,93.0,
+2023-06-05,Chimore Aeropuerto,,,,,51.8
 2023-06-05,Chua Cocani_M (GPRS),14.16,-2.21,81.5,19.14,
+2023-06-05,Chuqui Chuqui,31.0,14.0,,,
 2023-06-05,Cobija,,,93.3,93.3,
 2023-06-05,Cochabamba,,,75.5,75.5,
 2023-06-05,Concepcion,,,93.1,93.1,
 2023-06-05,Cuatro Cañadas - CEA-2 (GPRS),29.26,17.76,100.0,63.32,
 2023-06-05,Cuatro Cañadas - Colonia Chihuahua (GPRS),,,,,0.6
+2023-06-05,Culta,,-3.0,,,
 2023-06-05,Desaguadero_M,12.65,-4.8,82.4,24.81,
 2023-06-05,El Alto,,,80.1,80.1,
 2023-06-05,El Alto Aeropuerto,,-6.0,,,
 2023-06-05,El Tranque (GPRS),8.05,8.05,87.5,87.5,0.2
+2023-06-05,El Villar,19.0,7.5,,,
 2023-06-05,Huarisuyo (GPRS),14.51,-8.17,79.86,16.58,
 2023-06-05,Isla Suriqui_M (GPRS),12.79,0.74,79.25,27.12,
 2023-06-05,Ivirgarzama-Senda VI (GPRS),29.53,21.34,88.9,67.09,12.8
@@ -31891,6 +32154,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-05,Pailon - Pozo del Tigre (GPRS),29.74,18.86,100.0,61.74,
 2023-06-05,Pocona - SDC (GPRS),20.4,0.99,98.3,41.86,
 2023-06-05,Pojo - SDC (GPRS),20.68,9.94,83.5,50.91,
+2023-06-05,Potosi Los Pinos,19.0,-3.8,,,
 2023-06-05,Puerto Suarez,24.0,24.0,93.3,93.3,
 2023-06-05,Puerto Suarez Aeropuerto (F),24.0,24.0,93.3,93.3,
 2023-06-05,Puerto Villarroel (GPRS),,,,,3.1
@@ -31910,12 +32174,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-05,San Juan Del Potrero,,,,,3.5
 2023-06-05,San Julian - Comunidad Los Angeles (GPRS),31.23,19.41,100.0,60.98,
 2023-06-05,San Julian - Nucleo 32 (GPRS),28.93,20.54,,,
+2023-06-05,San Lucas,23.0,3.0,,,
 2023-06-05,San Pedro - Río Victoria (GPRS),29.16,19.25,95.3,64.27,
 2023-06-05,San Pedro - San Antonio (GPRS),29.9,19.17,96.8,64.44,
 2023-06-05,San Pedro de Buena Vista (GPRS),22.17,7.58,85.6,29.59,
 2023-06-05,San Roque - El Alto (GPRS),14.87,-1.23,53.35,15.8,
 2023-06-05,Santa Ana - Yacuma,24.0,24.0,93.3,93.3,
 2023-06-05,Sauce Pilata - SDC (GPRS),16.83,7.72,99.9,57.57,
+2023-06-05,Sucre SENAMHI,20.5,7.2,70.0,30.0,
 2023-06-05,Sunjani (GPRS),13.13,-5.55,64.14,26.08,
 2023-06-05,Tacagua_M (GPRS),14.94,-3.05,32.21,7.13,
 2023-06-05,Tarija,14.0,14.0,71.3,71.3,
@@ -31941,16 +32207,20 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-06,Aroma (GPRS),-1.97,-1.97,20.24,20.24,
 2023-06-06,Cabaña Forestal Oruro,,-4.8,,,
 2023-06-06,Camiri,28.0,14.0,92.9,41.9,
+2023-06-06,Chimore Aeropuerto,,,,,2.2
 2023-06-06,Chua Cocani_M (GPRS),13.31,-1.88,83.2,15.29,
+2023-06-06,Chuqui Chuqui,31.0,14.0,,,
 2023-06-06,Cobija,32.0,22.0,99.1,62.2,
 2023-06-06,Cochabamba,27.0,4.0,74.6,10.9,
 2023-06-06,Concepcion,29.0,19.0,99.1,65.2,
 2023-06-06,Cuatro Cañadas - CEA-2 (GPRS),29.71,20.85,97.2,62.01,
 2023-06-06,Cuatro Cañadas - Colonia Chihuahua (GPRS),31.5,19.58,99.2,51.85,
+2023-06-06,Culta,,-5.0,,,
 2023-06-06,Desaguadero_M,12.78,-6.11,65.15,16.15,
 2023-06-06,El Alto,14.0,0.0,47.2,17.9,
 2023-06-06,El Alto Aeropuerto,,-4.4,,,
 2023-06-06,El Tranque (GPRS),6.37,6.37,75.55,75.55,0.1
+2023-06-06,El Villar,17.0,10.0,,,
 2023-06-06,Guajara-Mirim - Guayaramerín,,,,,0.8
 2023-06-06,Huarisuyo (GPRS),15.13,-6.64,85.8,14.38,
 2023-06-06,Isla Suriqui_M (GPRS),12.99,0.09,81.7,13.46,
@@ -31963,6 +32233,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-06,Pailon - Pozo del Tigre (GPRS),31.31,19.84,95.9,52.13,
 2023-06-06,Pocona - SDC (GPRS),20.82,3.43,89.8,39.69,
 2023-06-06,Pojo - SDC (GPRS),20.35,9.34,79.83,58.75,
+2023-06-06,Potosi Los Pinos,20.0,-5.0,,,
 2023-06-06,Puerto Suarez,31.0,24.0,93.3,93.3,
 2023-06-06,Puerto Suarez Aeropuerto (F),31.0,24.0,93.3,93.3,
 2023-06-06,Puerto Villarroel (GPRS),30.32,21.79,90.0,63.59,1.6
@@ -31977,12 +32248,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-06,San Jose de Chiquitos,31.0,23.0,82.5,54.8,
 2023-06-06,San Julian - Comunidad Los Angeles (GPRS),30.97,21.5,97.0,57.72,
 2023-06-06,San Julian - Nucleo 32 (GPRS),30.5,21.78,,,
+2023-06-06,San Lucas,26.0,0.0,,,
 2023-06-06,San Pedro - Río Victoria (GPRS),30.42,21.79,95.0,61.62,
 2023-06-06,San Pedro - San Antonio (GPRS),30.57,22.28,93.1,65.5,
 2023-06-06,San Pedro de Buena Vista (GPRS),23.09,9.24,46.29,25.16,
 2023-06-06,San Roque - El Alto (GPRS),16.13,-3.58,53.87,10.34,
 2023-06-06,Santa Ana - Yacuma,32.0,23.0,93.2,93.2,
 2023-06-06,Sauce Pilata - SDC (GPRS),19.19,11.09,67.56,34.2,
+2023-06-06,Sucre SENAMHI,23.0,8.2,65.0,18.0,
 2023-06-06,Sunjani (GPRS),13.71,-5.88,77.39,12.49,
 2023-06-06,Tacagua_M (GPRS),14.68,-4.43,27.57,5.24,
 2023-06-06,Tarija,26.0,7.0,81.0,81.0,
@@ -32010,15 +32283,18 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-07,Cabaña Forestal Oruro,,-7.3,,,
 2023-06-07,Camiri,28.0,14.0,99.1,44.7,
 2023-06-07,Chua Cocani_M (GPRS),14.09,-1.68,84.7,10.74,
+2023-06-07,Chuqui Chuqui,30.0,13.0,,,
 2023-06-07,Cobija,32.0,22.0,99.1,99.1,
 2023-06-07,Cochabamba,27.0,4.0,49.5,49.5,
 2023-06-07,Concepcion,30.0,19.0,99.1,61.7,
 2023-06-07,Cuatro Cañadas - CEA-2 (GPRS),30.01,20.45,98.8,63.63,
 2023-06-07,Cuatro Cañadas - Colonia Chihuahua (GPRS),31.88,19.12,99.3,49.66,0.2
+2023-06-07,Culta,,-4.0,,,
 2023-06-07,Desaguadero_M,12.65,-8.08,73.83,14.73,
 2023-06-07,El Alto,14.0,0.0,23.7,23.7,
 2023-06-07,El Alto Aeropuerto,,-3.0,,,
 2023-06-07,El Tranque (GPRS),8.83,8.83,25.88,25.88,
+2023-06-07,El Villar,23.5,8.0,,,
 2023-06-07,Huarisuyo (GPRS),15.97,-8.32,75.45,10.8,
 2023-06-07,Isla Suriqui_M (GPRS),13.57,1.34,83.8,16.11,
 2023-06-07,Ivirgarzama-Senda VI (GPRS),31.07,22.77,88.6,68.7,
@@ -32029,6 +32305,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-07,Pailon - Pozo del Tigre (GPRS),31.63,19.85,95.3,50.01,
 2023-06-07,Pocona - SDC (GPRS),23.49,2.18,95.1,22.61,
 2023-06-07,Pojo - SDC (GPRS),21.21,8.36,77.37,50.41,
+2023-06-07,Potosi Los Pinos,19.0,-5.0,,,
 2023-06-07,Puerto Suarez,22.0,22.0,93.2,93.2,
 2023-06-07,Puerto Suarez Aeropuerto (F),22.0,22.0,93.2,93.2,
 2023-06-07,Puerto Villarroel (GPRS),30.82,22.61,90.0,69.27,2.7
@@ -32048,6 +32325,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-07,San Juan de Yapacaní,,,,,0.8
 2023-06-07,San Julian - Comunidad Los Angeles (GPRS),31.63,22.35,95.3,58.24,
 2023-06-07,San Julian - Nucleo 32 (GPRS),31.1,21.46,,,
+2023-06-07,San Lucas,23.0,-2.0,,,
 2023-06-07,San Pedro - Río Victoria (GPRS),30.92,21.22,95.5,65.68,
 2023-06-07,San Pedro - San Antonio (GPRS),30.51,21.5,95.7,67.64,
 2023-06-07,San Pedro de Buena Vista (GPRS),25.28,8.4,55.06,7.32,
@@ -32056,6 +32334,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-07,Santa Ana - Yacuma,24.0,24.0,93.3,93.3,
 2023-06-07,Santa Ana del Yacuma Aerop,,,,,1.0
 2023-06-07,Sauce Pilata - SDC (GPRS),20.25,8.92,82.9,33.88,
+2023-06-07,Sucre SENAMHI,25.5,4.8,50.0,14.0,
 2023-06-07,Sunjani (GPRS),14.26,-5.79,63.06,6.26,
 2023-06-07,Tacagua_M (GPRS),14.35,-3.77,27.45,4.65,
 2023-06-07,Tarija,8.0,8.0,92.6,92.6,
@@ -32081,16 +32360,20 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-08,Aroma (GPRS),-4.84,-4.84,14.74,14.74,
 2023-06-08,Cabaña Forestal Oruro,,-7.3,,,
 2023-06-08,Camiri,29.0,15.0,93.0,93.0,
+2023-06-08,Chimore Aeropuerto,,,,,18.3
 2023-06-08,Chua Cocani_M (GPRS),14.11,-1.66,75.78,15.95,
+2023-06-08,Chuqui Chuqui,29.0,13.0,,,
 2023-06-08,Cobija,33.0,22.0,93.2,93.2,
 2023-06-08,Cochabamba,28.0,3.0,56.6,56.6,
 2023-06-08,Concepcion,30.0,19.0,93.1,93.1,
 2023-06-08,Cuatro Cañadas - CEA-2 (GPRS),30.04,21.83,94.6,66.06,
 2023-06-08,Cuatro Cañadas - Colonia Chihuahua (GPRS),31.75,19.65,100.0,58.37,
+2023-06-08,Culta,,-6.0,,,
 2023-06-08,Desaguadero_M,15.33,-7.35,72.7,8.2,
 2023-06-08,El Alto,15.0,0.0,32.4,32.4,
 2023-06-08,El Alto Aeropuerto,,-5.2,,,
 2023-06-08,El Tranque (GPRS),6.89,6.89,56.44,56.44,
+2023-06-08,El Villar,19.0,9.0,,,
 2023-06-08,Huarisuyo (GPRS),16.39,-7.77,62.66,11.78,
 2023-06-08,Isla Suriqui_M (GPRS),13.7,-0.11,76.71,16.42,
 2023-06-08,Ivirgarzama-Senda VI (GPRS),30.76,22.87,88.5,68.17,24.2
@@ -32101,6 +32384,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-08,Pailon - Pozo del Tigre (GPRS),31.39,21.01,94.5,55.12,
 2023-06-08,Pocona - SDC (GPRS),27.88,2.28,84.2,12.56,
 2023-06-08,Pojo - SDC (GPRS),21.93,9.08,75.4,46.9,
+2023-06-08,Potosi Los Pinos,19.1,-4.0,,,
 2023-06-08,Puerto Suarez,24.0,24.0,93.3,93.3,
 2023-06-08,Puerto Suarez Aeropuerto (F),24.0,24.0,93.3,93.3,
 2023-06-08,Puerto Villarroel (GPRS),30.66,22.49,89.9,68.84,2.8
@@ -32115,12 +32399,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-08,San Juan de Yapacaní,,,,,3.4
 2023-06-08,San Julian - Comunidad Los Angeles (GPRS),31.19,21.31,97.6,60.4,
 2023-06-08,San Julian - Nucleo 32 (GPRS),30.83,22.45,,,
+2023-06-08,San Lucas,27.0,-1.0,,,
 2023-06-08,San Pedro - Río Victoria (GPRS),30.85,22.62,93.3,63.21,0.8
 2023-06-08,San Pedro - San Antonio (GPRS),30.65,22.12,93.7,67.56,0.6
 2023-06-08,San Pedro de Buena Vista (GPRS),25.29,10.24,27.22,12.55,
 2023-06-08,San Roque - El Alto (GPRS),17.6,-3.52,43.85,7.82,
 2023-06-08,Santa Ana - Yacuma,24.0,24.0,93.3,93.3,
 2023-06-08,Sauce Pilata - SDC (GPRS),22.22,12.75,55.89,15.73,
+2023-06-08,Sucre SENAMHI,25.4,5.0,78.0,,
 2023-06-08,Sunjani (GPRS),15.92,-4.32,52.07,3.29,
 2023-06-08,Tacagua_M (GPRS),14.94,-3.38,25.1,5.3,
 2023-06-08,Tarija,10.0,10.0,86.7,86.7,
@@ -32147,15 +32433,18 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-09,Cabaña Forestal Oruro,,-7.1,,,
 2023-06-09,Camiri,32.0,15.0,99.1,99.1,
 2023-06-09,Chua Cocani_M (GPRS),14.56,-1.62,82.5,13.67,
+2023-06-09,Chuqui Chuqui,30.0,12.0,,,
 2023-06-09,Cobija,34.0,23.0,99.1,99.1,
 2023-06-09,Cochabamba,29.0,2.0,48.9,48.9,
 2023-06-09,Concepcion,31.0,20.0,93.1,93.1,
 2023-06-09,Cuatro Cañadas - CEA-2 (GPRS),30.24,23.54,96.5,64.63,
 2023-06-09,Cuatro Cañadas - Colonia Chihuahua (GPRS),31.95,21.94,99.1,56.62,0.2
+2023-06-09,Culta,,-3.0,,,
 2023-06-09,Desaguadero_M,15.07,-7.81,74.47,8.4,
 2023-06-09,El Alto,15.0,0.0,23.2,23.2,
 2023-06-09,El Alto Aeropuerto,,-3.6,,,
 2023-06-09,El Tranque (GPRS),10.28,10.28,15.91,15.91,
+2023-06-09,El Villar,25.0,7.0,,,
 2023-06-09,Huarisuyo (GPRS),16.42,-8.55,69.64,10.95,
 2023-06-09,Isla Suriqui_M (GPRS),14.03,1.66,90.3,14.31,
 2023-06-09,Ivirgarzama-Senda VI (GPRS),30.35,23.09,88.5,68.72,
@@ -32167,6 +32456,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-09,Pailon - Pozo del Tigre (GPRS),31.83,22.98,94.1,54.36,
 2023-06-09,Pocona - SDC (GPRS),29.22,1.99,83.2,8.18,
 2023-06-09,Pojo - SDC (GPRS),23.69,8.69,66.79,37.12,
+2023-06-09,Potosi Los Pinos,23.0,-4.1,,,
 2023-06-09,Puerto Suarez,25.0,25.0,87.9,87.9,
 2023-06-09,Puerto Suarez Aeropuerto (F),25.0,25.0,87.9,87.9,
 2023-06-09,Puerto Villarroel (GPRS),31.07,23.07,90.5,68.2,4.7
@@ -32185,12 +32475,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-09,San Juan de Yapacaní,,,,,0.2
 2023-06-09,San Julian - Comunidad Los Angeles (GPRS),31.65,22.55,97.2,60.72,
 2023-06-09,San Julian - Nucleo 32 (GPRS),31.1,23.62,,,
+2023-06-09,San Lucas,29.0,-4.0,,,
 2023-06-09,San Pedro - Río Victoria (GPRS),30.82,23.57,92.4,65.64,
 2023-06-09,San Pedro - San Antonio (GPRS),30.84,22.95,95.0,69.37,
 2023-06-09,San Pedro de Buena Vista (GPRS),27.98,10.51,21.44,3.4,
 2023-06-09,San Roque - El Alto (GPRS),17.82,-2.91,40.63,7.71,
 2023-06-09,Santa Ana - Yacuma,25.0,25.0,87.9,87.9,
 2023-06-09,Sauce Pilata - SDC (GPRS),24.23,12.55,47.66,12.11,
+2023-06-09,Sucre SENAMHI,27.5,6.0,35.0,8.0,
 2023-06-09,Sunjani (GPRS),15.88,-4.25,48.32,4.53,
 2023-06-09,Tacagua_M (GPRS),14.94,-3.12,21.97,4.85,
 2023-06-09,Tarija,2.0,2.0,85.9,85.9,
@@ -32217,15 +32509,18 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-10,Cabaña Forestal Oruro,,-7.5,,,
 2023-06-10,Camiri,32.0,17.0,93.0,93.0,
 2023-06-10,Chua Cocani_M (GPRS),14.56,-2.41,81.9,12.69,
+2023-06-10,Chuqui Chuqui,28.0,12.0,,,
 2023-06-10,Cobija,32.0,23.0,99.1,99.1,
 2023-06-10,Cochabamba,6.0,6.0,56.1,56.1,
 2023-06-10,Concepcion,29.0,21.0,99.1,99.1,
 2023-06-10,Cuatro Cañadas - CEA-2 (GPRS),30.5,22.16,100.0,63.39,0.2
 2023-06-10,Cuatro Cañadas - Colonia Chihuahua (GPRS),32.37,21.88,98.0,56.1,
+2023-06-10,Culta,,-4.0,,,
 2023-06-10,Desaguadero_M,12.97,-5.52,63.27,18.85,
 2023-06-10,El Alto,4.0,4.0,21.6,21.6,
 2023-06-10,El Alto Aeropuerto,,-3.8,,,
 2023-06-10,El Tranque (GPRS),7.13,7.13,25.95,25.95,
+2023-06-10,El Villar,31.0,7.0,,,
 2023-06-10,Guajara-Mirim - Guayaramerín,,,,,7.6
 2023-06-10,Huarisuyo (GPRS),15.71,-8.79,69.1,14.37,
 2023-06-10,Isla Suriqui_M (GPRS),13.58,0.88,83.0,26.63,
@@ -32236,6 +32531,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-10,Pailon - Pozo del Tigre (GPRS),32.15,22.31,96.7,54.01,
 2023-06-10,Pocona - SDC (GPRS),20.36,4.92,79.43,37.59,
 2023-06-10,Pojo - SDC (GPRS),21.69,11.38,81.7,53.34,
+2023-06-10,Potosi Los Pinos,22.0,-5.0,,,
 2023-06-10,Puerto Villarroel (GPRS),30.92,22.17,91.2,74.02,3.0
 2023-06-10,Putucuni Calientes (GPRS),10.72,-1.69,72.13,13.28,
 2023-06-10,Quila Quila_M (GPRS),23.24,4.13,56.65,7.54,
@@ -32247,12 +32543,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-10,San Juan de Yapacaní,,,,,1.6
 2023-06-10,San Julian - Comunidad Los Angeles (GPRS),31.9,23.06,97.0,60.07,
 2023-06-10,San Julian - Nucleo 32 (GPRS),31.35,23.56,,,
+2023-06-10,San Lucas,30.0,-4.0,,,
 2023-06-10,San Pedro - Río Victoria (GPRS),31.32,23.01,92.2,61.22,
 2023-06-10,San Pedro - San Antonio (GPRS),31.23,22.17,95.8,66.33,1.0
 2023-06-10,San Pedro de Buena Vista (GPRS),26.1,8.74,43.29,8.88,
 2023-06-10,San Roque - El Alto (GPRS),17.18,-1.81,46.49,6.72,
 2023-06-10,Santa Ana - Yacuma,24.0,24.0,93.3,93.3,
 2023-06-10,Sauce Pilata - SDC (GPRS),21.31,8.64,100.0,32.33,
+2023-06-10,Sucre SENAMHI,24.8,5.0,,,
 2023-06-10,Sunjani (GPRS),15.66,-5.85,80.7,6.79,
 2023-06-10,Tacagua_M (GPRS),14.87,-3.77,25.06,5.05,
 2023-06-10,Tarija,5.0,5.0,86.2,86.2,
@@ -32278,15 +32576,18 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-11,Cabaña Forestal Oruro,,-7.7,,,
 2023-06-11,Camiri,16.0,10.0,67.0,67.0,
 2023-06-11,Chua Cocani_M (GPRS),14.95,-1.1,79.54,14.67,
+2023-06-11,Chuqui Chuqui,29.0,13.0,,,
 2023-06-11,Cobija,33.0,23.0,93.3,93.3,
 2023-06-11,Cochabamba,9.0,9.0,52.9,52.9,
 2023-06-11,Concepcion,29.0,9.0,99.1,99.1,
 2023-06-11,Cuatro Cañadas - CEA-2 (GPRS),16.25,11.06,98.2,79.53,79.2
 2023-06-11,Cuatro Cañadas - Colonia Chihuahua (GPRS),18.79,10.08,98.9,83.8,
+2023-06-11,Culta,,-8.0,,,
 2023-06-11,Desaguadero_M,13.42,-5.26,66.52,15.81,
 2023-06-11,El Alto,5.0,5.0,20.1,20.1,
 2023-06-11,El Alto Aeropuerto,,-3.8,,,
 2023-06-11,El Tranque (GPRS),4.57,4.57,95.8,95.8,
+2023-06-11,El Villar,20.0,9.0,,,
 2023-06-11,Guajara-Mirim - Guayaramerín,,,,,1.4
 2023-06-11,Huarisuyo (GPRS),15.12,-6.91,81.6,14.07,
 2023-06-11,Isla Suriqui_M (GPRS),13.06,1.66,79.78,26.07,
@@ -32297,6 +32598,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-11,Pailon - Pozo del Tigre (GPRS),16.7,10.63,97.8,86.5,
 2023-06-11,Pocona - SDC (GPRS),20.55,5.19,89.1,39.76,
 2023-06-11,Pojo - SDC (GPRS),22.79,10.46,91.4,41.78,
+2023-06-11,Potosi Los Pinos,20.0,-4.1,,,
 2023-06-11,Puente Chiñata_H- SDC (GPRS),,,,,0.1
 2023-06-11,Puerto Villarroel (GPRS),27.97,10.8,93.2,83.8,4.1
 2023-06-11,Putucuni Calientes (GPRS),9.75,-1.5,87.0,17.53,
@@ -32309,12 +32611,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-11,San Juan de Yapacaní,,,,,113.0
 2023-06-11,San Julian - Comunidad Los Angeles (GPRS),20.39,11.42,97.2,79.49,
 2023-06-11,San Julian - Nucleo 32 (GPRS),20.55,11.5,,,
+2023-06-11,San Lucas,25.0,-3.0,,,
 2023-06-11,San Pedro - Río Victoria (GPRS),27.7,11.18,91.3,72.81,
 2023-06-11,San Pedro - San Antonio (GPRS),18.26,10.84,95.5,75.54,19.8
 2023-06-11,San Pedro de Buena Vista (GPRS),21.85,8.29,53.92,26.53,
 2023-06-11,San Roque - El Alto (GPRS),16.35,-1.01,71.52,11.9,
 2023-06-11,Santa Ana - Yacuma,25.0,25.0,87.9,87.9,
 2023-06-11,Sauce Pilata - SDC (GPRS),19.08,7.89,99.9,44.86,
+2023-06-11,Sucre SENAMHI,21.0,5.0,,,
 2023-06-11,Sunjani (GPRS),15.07,-4.09,88.8,8.1,
 2023-06-11,Tacagua_M (GPRS),14.48,-3.51,31.24,4.16,
 2023-06-11,Tarija,19.0,5.0,80.4,55.2,
@@ -32342,17 +32646,22 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-12,Buena Vista Sc,,,,,80.3
 2023-06-12,Cabaña Forestal Oruro,,-6.1,,,
 2023-06-12,Camiri,,,75.5,75.5,
+2023-06-12,Caranavi,,,,,18.0
+2023-06-12,Chimore Aeropuerto,,,,,23.2
 2023-06-12,Chua Cocani_M (GPRS),14.04,-0.44,85.2,16.99,
+2023-06-12,Chuqui Chuqui,27.0,15.0,,,
 2023-06-12,Cobija,,,87.8,87.8,
 2023-06-12,Cobija Aeropuerto,,,,,1.3
 2023-06-12,Cochabamba,,,70.4,70.4,
 2023-06-12,Concepcion,,,86.5,86.5,
 2023-06-12,Cuatro Cañadas - CEA-2 (GPRS),,,,,10.4
 2023-06-12,Cuatro Cañadas - Colonia Chihuahua (GPRS),,,,,12.4
+2023-06-12,Culta,,-6.0,,,
 2023-06-12,Desaguadero_M,14.71,-5.0,72.19,11.11,
 2023-06-12,El Alto,,,30.2,30.2,
 2023-06-12,El Alto Aeropuerto,,-4.2,,,
 2023-06-12,El Tranque (GPRS),9.74,9.74,12.56,12.56,
+2023-06-12,El Villar,22.5,3.5,,,
 2023-06-12,Guajara-Mirim - Guayaramerín,,,,,4.0
 2023-06-12,Huarisuyo (GPRS),13.68,-6.34,96.6,18.38,
 2023-06-12,Isla Suriqui_M (GPRS),12.86,0.75,87.9,20.93,
@@ -32366,6 +32675,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-12,Pailon - Pozo del Tigre (GPRS),,,,,12.6
 2023-06-12,Pocona - SDC (GPRS),18.76,5.34,93.9,48.98,
 2023-06-12,Pojo - SDC (GPRS),21.82,3.84,86.8,46.57,
+2023-06-12,Potosi Los Pinos,16.1,-2.8,,,
 2023-06-12,Puerto Suarez,13.0,13.0,81.3,81.3,
 2023-06-12,Puerto Suarez Aeropuerto (F),13.0,13.0,81.3,81.3,
 2023-06-12,Puerto Villarroel (GPRS),,,,,4.4
@@ -32389,6 +32699,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-12,San Juan de Yapacaní,,,,,12.8
 2023-06-12,San Julian - Comunidad Los Angeles (GPRS),,,,,16.3
 2023-06-12,San Julian - Nucleo 32 (GPRS),,,,,20.0
+2023-06-12,San Lucas,24.0,0.0,,,
 2023-06-12,San Pedro - Río Victoria (GPRS),,,,,1.6
 2023-06-12,San Pedro - San Antonio (GPRS),,,,,21.0
 2023-06-12,San Pedro de Buena Vista (GPRS),25.06,6.79,97.4,6.6,
@@ -32396,6 +32707,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-12,Santa Ana - Yacuma,16.0,16.0,99.1,99.1,
 2023-06-12,Santa Ana del Yacuma Aerop,,,,,8.2
 2023-06-12,Sauce Pilata - SDC (GPRS),18.7,0.48,100.0,45.98,
+2023-06-12,Sucre SENAMHI,21.0,4.7,74.0,18.0,
 2023-06-12,Sunjani (GPRS),12.59,-0.99,87.7,20.07,
 2023-06-12,Tacagua_M (GPRS),14.09,-3.39,43.07,8.1,
 2023-06-12,Tarija,6.0,6.0,80.4,80.4,
@@ -32420,21 +32732,28 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-13,Aiquile (GPRS),15.48,3.93,83.3,58.32,
 2023-06-13,Alto Peñas (GPRS),12.75,11.05,27.59,17.25,
 2023-06-13,Apolo,15.0,15.0,87.1,87.1,
+2023-06-13,Apolo Aeropuerto,,,,,12.5
 2023-06-13,Aroma (GPRS),-3.13,-3.13,24.53,24.53,
 2023-06-13,Ascensión de Guarayos Aerop,,,,,12.3
 2023-06-13,Buena Vista Sc,,,,,15.6
 2023-06-13,Cabaña Forestal Oruro,,-4.3,,,
 2023-06-13,Camiri,13.0,8.0,49.4,49.4,
+2023-06-13,Caranavi,,,,,16.6
+2023-06-13,Chimore Aeropuerto,,,,,18.6
 2023-06-13,Chua Cocani_M (GPRS),13.9,-0.95,55.68,17.7,
+2023-06-13,Chuqui Chuqui,20.0,8.0,,,
 2023-06-13,Cobija,14.0,9.0,99.1,99.1,
 2023-06-13,Cobija Aeropuerto,,,,,1.2
 2023-06-13,Cochabamba,10.0,10.0,70.6,70.6,
 2023-06-13,Concepcion,10.0,7.0,70.3,70.3,
 2023-06-13,Cuatro Cañadas - CEA-2 (GPRS),11.58,9.21,87.2,54.29,1.2
 2023-06-13,Cuatro Cañadas - Colonia Chihuahua (GPRS),12.46,7.66,96.8,52.76,1.4
+2023-06-13,Culta,,-7.0,,,
 2023-06-13,Desaguadero_M,15.07,-5.98,61.49,9.84,
+2023-06-13,Dorado Chico,,,,,9.8
 2023-06-13,El Alto,3.0,3.0,74.5,74.5,
 2023-06-13,El Tranque (GPRS),-3.74,-3.74,97.4,97.4,
+2023-06-13,El Villar,5.0,-1.0,,,
 2023-06-13,Guajara-Mirim - Guayaramerín,,,,,8.1
 2023-06-13,Huarisuyo (GPRS),13.56,-8.51,68.79,20.65,
 2023-06-13,Isla Suriqui_M (GPRS),12.85,1.21,65.51,25.23,
@@ -32443,11 +32762,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-13,Magdalena,13.0,10.0,92.6,92.6,
 2023-06-13,Magdalena Aeropuerto,,,,,2.3
 2023-06-13,Mizque - SDC (GPRS),10.75,3.98,70.41,52.05,
+2023-06-13,Nuevo Mundo,,,,,6.2
 2023-06-13,Oruro,17.0,0.0,74.0,74.0,
 2023-06-13,Oruro Aeropuerto,,-8.5,,,
 2023-06-13,Pailon - Pozo del Tigre (GPRS),12.4,8.41,93.9,52.46,
 2023-06-13,Pocona - SDC (GPRS),15.31,-3.56,94.5,53.07,
 2023-06-13,Pojo - SDC (GPRS),11.64,4.03,74.17,53.8,
+2023-06-13,Potosi Los Pinos,16.0,-4.8,,,
 2023-06-13,Puerto Suarez,8.0,8.0,75.2,75.2,
 2023-06-13,Puerto Suarez Aeropuerto (F),8.0,8.0,75.2,75.2,
 2023-06-13,Puerto Villarroel (GPRS),11.44,9.9,93.3,86.2,0.4
@@ -32468,6 +32789,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-13,San Julian,,,,,19.3
 2023-06-13,San Julian - Comunidad Los Angeles (GPRS),12.35,8.29,93.2,65.14,3.2
 2023-06-13,San Julian - Nucleo 32 (GPRS),12.55,7.96,,,1.0
+2023-06-13,San Lucas,18.0,-1.0,,,
 2023-06-13,San Pedro - Río Victoria (GPRS),11.26,9.16,81.8,70.98,4.0
 2023-06-13,San Pedro - San Antonio (GPRS),11.33,9.25,83.7,72.79,2.8
 2023-06-13,San Pedro de Buena Vista (GPRS),17.46,1.5,93.7,47.26,
@@ -32476,6 +32798,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-13,Santa Ana - Yacuma,11.0,11.0,86.7,86.7,
 2023-06-13,Santa Ana del Yacuma Aerop,,,,,7.1
 2023-06-13,Sauce Pilata - SDC (GPRS),5.58,-1.87,99.9,73.76,0.8
+2023-06-13,Sucre SENAMHI,11.5,4.8,92.0,40.0,
 2023-06-13,Sunjani (GPRS),11.82,-5.41,88.0,33.19,
 2023-06-13,Tacagua_M (GPRS),15.46,-3.45,40.88,4.6,
 2023-06-13,Tarija,2.0,2.0,92.3,92.3,
@@ -32499,20 +32822,26 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-14,Aguadas (GPRS),13.28,-9.64,60.07,9.14,
 2023-06-14,Aiquile (GPRS),20.14,-3.59,93.4,42.79,
 2023-06-14,Alto Peñas (GPRS),12.56,2.94,28.73,16.73,
+2023-06-14,Apolo Aeropuerto,,,,,3.4
 2023-06-14,Aroma (GPRS),-4.31,-4.31,29.79,29.79,
 2023-06-14,Ascensión de Guarayos Aerop,,,,,1.0
 2023-06-14,Cabaña Forestal Oruro,,-6.2,,,
 2023-06-14,Camiri,21.0,0.0,86.3,86.3,
+2023-06-14,Chimore Aeropuerto,,,,,7.2
 2023-06-14,Chua Cocani_M (GPRS),13.06,-4.38,64.86,14.57,
+2023-06-14,Chuqui Chuqui,17.0,7.0,,,
 2023-06-14,Cobija,13.0,10.0,92.6,92.6,
 2023-06-14,Cobija Aeropuerto,,,,,7.6
 2023-06-14,Cochabamba,26.0,3.0,70.2,70.2,
 2023-06-14,Concepcion,11.0,7.0,92.5,92.5,
 2023-06-14,Cuatro Cañadas - CEA-2 (GPRS),16.31,10.52,95.9,44.68,1.4
 2023-06-14,Cuatro Cañadas - Colonia Chihuahua (GPRS),15.92,8.91,98.6,50.18,7.2
+2023-06-14,Culta,,-5.0,,,
 2023-06-14,Desaguadero_M,12.06,-10.36,78.69,15.65,
+2023-06-14,Dorado Chico,,,,,5.3
 2023-06-14,El Alto,12.0,0.0,29.9,29.9,
 2023-06-14,El Tranque (GPRS),-4.17,-4.17,85.7,85.7,
+2023-06-14,El Villar,4.0,0.0,,,
 2023-06-14,Guajara-Mirim - Guayaramerín,,,,,0.1
 2023-06-14,Huarisuyo (GPRS),12.69,-11.78,72.42,15.17,
 2023-06-14,Isla Suriqui_M (GPRS),12.47,-2.07,63.09,22.51,
@@ -32527,6 +32856,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-14,Pailon - Pozo del Tigre (GPRS),16.25,8.94,97.6,43.97,6.4
 2023-06-14,Pocona - SDC (GPRS),16.81,-3.36,95.9,37.32,
 2023-06-14,Pojo - SDC (GPRS),13.02,4.17,79.13,49.44,
+2023-06-14,Potosi Los Pinos,15.0,-5.0,,,
 2023-06-14,Puerto Suarez,9.0,9.0,86.5,86.5,
 2023-06-14,Puerto Suarez Aeropuerto (F),9.0,9.0,86.5,86.5,
 2023-06-14,Puerto Villarroel (GPRS),16.87,13.28,92.6,65.3,0.4
@@ -32548,6 +32878,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-14,San Julian,,,,,8.5
 2023-06-14,San Julian - Comunidad Los Angeles (GPRS),16.2,11.3,88.5,50.79,7.9
 2023-06-14,San Julian - Nucleo 32 (GPRS),15.24,11.63,,,3.8
+2023-06-14,San Lucas,17.0,0.0,,,
 2023-06-14,San Pedro - Río Victoria (GPRS),17.59,12.83,79.63,46.6,1.2
 2023-06-14,San Pedro - San Antonio (GPRS),17.38,11.95,85.0,46.22,1.0
 2023-06-14,San Pedro de Buena Vista (GPRS),19.59,1.99,79.62,22.5,
@@ -32556,6 +32887,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-14,Santa Ana - Yacuma,9.0,9.0,99.1,99.1,
 2023-06-14,Santa Ana del Yacuma Aerop,,,,,8.2
 2023-06-14,Sauce Pilata - SDC (GPRS),8.32,3.44,82.2,59.1,
+2023-06-14,Sucre SENAMHI,14.0,1.8,70.0,22.0,
 2023-06-14,Sunjani (GPRS),12.48,-8.1,57.63,8.93,
 2023-06-14,Tacagua_M (GPRS),13.44,-7.24,32.09,3.41,
 2023-06-14,Tarija,3.0,3.0,55.3,55.3,
@@ -32580,11 +32912,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-15,Aiquile (GPRS),29.3,-1.89,95.3,17.93,
 2023-06-15,Alalay (GPRS),11.82,5.4,21.84,9.51,
 2023-06-15,Alto Peñas (GPRS),12.1,10.77,27.67,13.12,
+2023-06-15,Apolo Aeropuerto,,,,,5.8
 2023-06-15,Aroma (GPRS),-8.75,-8.75,12.46,12.46,
 2023-06-15,Cabaña Forestal Oruro,,-10.4,,,
 2023-06-15,Camiri,22.0,0.0,85.6,85.6,
 2023-06-15,Charazani (GPRS),16.18,3.6,97.63,26.4,
 2023-06-15,Chua Cocani_M (GPRS),12.53,-4.57,80.9,15.16,
+2023-06-15,Chuqui Chuqui,23.0,5.0,,,
 2023-06-15,Cobija,23.0,13.0,86.9,86.9,
 2023-06-15,Cobija Aeropuerto,,,,,0.1
 2023-06-15,Cochabamba,6.0,6.0,75.0,75.0,
@@ -32592,8 +32926,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-15,Cuatro Cañadas - CEA-2 (GPRS),20.72,13.82,93.7,41.79,
 2023-06-15,Cuatro Cañadas - Colonia Chihuahua (GPRS),21.11,11.4,97.2,39.93,0.2
 2023-06-15,Cuevo (GPRS),-39.76,-39.86,0.22,0.19,
+2023-06-15,Culta,,-4.0,,,
 2023-06-15,Desaguadero_M,11.1,-8.38,71.66,20.3,
 2023-06-15,El Alto,2.0,2.0,17.7,17.7,
+2023-06-15,El Villar,11.0,-3.0,,,
 2023-06-15,Huarisuyo (GPRS),12.7,-10.68,61.09,10.58,
 2023-06-15,Isla Suriqui_M (GPRS),11.49,-2.27,73.8,23.66,
 2023-06-15,Ivirgarzama-Senda VI (GPRS),22.88,14.53,89.3,52.78,
@@ -32608,6 +32944,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-15,Patacamaya (GPRS),15.25,-8.27,22.67,4.09,
 2023-06-15,Pocona - SDC (GPRS),21.45,-4.07,94.0,14.88,
 2023-06-15,Pojo - SDC (GPRS),21.01,4.43,78.29,30.26,
+2023-06-15,Potosi Los Pinos,17.0,-7.0,,,
 2023-06-15,Puerto Suarez,10.0,10.0,86.6,86.6,
 2023-06-15,Puerto Suarez Aeropuerto (F),10.0,10.0,86.6,86.6,
 2023-06-15,Puerto Villarroel (GPRS),20.44,11.51,91.9,55.4,3.5
@@ -32624,12 +32961,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-15,San Jose de Chiquitos,23.0,12.0,81.1,40.5,
 2023-06-15,San Julian - Comunidad Los Angeles (GPRS),21.7,12.48,93.4,45.52,
 2023-06-15,San Julian - Nucleo 32 (GPRS),19.11,15.7,,,
+2023-06-15,San Lucas,20.0,-8.0,,,
 2023-06-15,San Pedro - Río Victoria (GPRS),19.99,11.58,94.9,48.69,
 2023-06-15,San Pedro - San Antonio (GPRS),19.89,14.05,90.4,45.23,
 2023-06-15,San Pedro de Buena Vista (GPRS),18.47,6.53,36.67,11.35,
 2023-06-15,San Roque - El Alto (GPRS),12.92,-6.11,47.64,12.12,
 2023-06-15,Santa Ana - Yacuma,13.0,13.0,81.3,81.3,
 2023-06-15,Sauce Pilata - SDC (GPRS),15.62,6.55,76.46,33.7,
+2023-06-15,Sucre SENAMHI,18.0,-1.0,60.0,7.0,
 2023-06-15,Sunjani (GPRS),13.07,-6.09,53.44,7.47,
 2023-06-15,Tacagua_M (GPRS),11.01,-6.58,26.69,3.86,
 2023-06-15,Tarija,3.0,3.0,59.6,59.6,
@@ -32658,13 +32997,16 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-16,Camiri,1.0,1.0,79.7,79.7,
 2023-06-16,Charazani (GPRS),18.85,12.95,53.64,19.25,
 2023-06-16,Chua Cocani_M (GPRS),12.63,-4.5,86.4,12.6,
+2023-06-16,Chuqui Chuqui,26.0,11.0,,,
 2023-06-16,Cobija,15.0,15.0,81.5,81.5,
 2023-06-16,Cochabamba,5.0,5.0,51.8,51.8,
 2023-06-16,Concepcion,13.0,13.0,86.9,86.9,
 2023-06-16,Cuatro Cañadas - CEA-2 (GPRS),22.42,9.09,94.5,41.02,
 2023-06-16,Cuatro Cañadas - Colonia Chihuahua (GPRS),25.15,9.31,93.3,38.98,
+2023-06-16,Culta,,-3.0,,,
 2023-06-16,Desaguadero_M,11.08,-10.29,77.47,27.41,
 2023-06-16,El Alto,3.0,3.0,21.3,21.3,
+2023-06-16,El Villar,22.0,0.0,,,
 2023-06-16,Huarisuyo (GPRS),13.33,-10.96,62.29,12.97,
 2023-06-16,Isla Suriqui_M (GPRS),11.91,-0.3,73.0,17.52,
 2023-06-16,Ivirgarzama-Senda VI (GPRS),25.54,14.5,89.2,39.75,
@@ -32679,6 +33021,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-16,Patacamaya (GPRS),7.9,-5.36,19.93,10.77,
 2023-06-16,Pocona - SDC (GPRS),25.06,-1.97,88.3,10.94,
 2023-06-16,Pojo - SDC (GPRS),22.74,6.33,70.8,27.53,
+2023-06-16,Potosi Los Pinos,16.0,-7.5,,,
 2023-06-16,Puerto Suarez,13.0,13.0,86.8,86.8,
 2023-06-16,Puerto Suarez Aeropuerto (F),13.0,13.0,86.8,86.8,
 2023-06-16,Puerto Villarroel (GPRS),22.77,10.79,92.2,49.25,0.8
@@ -32698,12 +33041,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-16,San Jose de Chiquitos,13.0,13.0,86.9,86.9,
 2023-06-16,San Julian - Comunidad Los Angeles (GPRS),25.61,11.5,88.8,38.94,
 2023-06-16,San Julian - Nucleo 32 (GPRS),22.84,11.96,,,0.2
+2023-06-16,San Lucas,21.0,-7.0,,,
 2023-06-16,San Pedro - Río Victoria (GPRS),23.77,12.89,91.4,46.28,
 2023-06-16,San Pedro - San Antonio (GPRS),23.09,12.64,83.2,47.56,
 2023-06-16,San Pedro de Buena Vista (GPRS),21.95,5.33,35.85,9.79,
 2023-06-16,San Roque - El Alto (GPRS),15.68,-5.55,43.84,6.59,
 2023-06-16,Santa Ana - Yacuma,14.0,14.0,86.9,86.9,
 2023-06-16,Sauce Pilata - SDC (GPRS),18.31,6.65,77.1,19.42,
+2023-06-16,Sucre SENAMHI,22.4,-1.0,40.0,,
 2023-06-16,Sunjani (GPRS),13.6,-7.59,47.6,4.41,
 2023-06-16,Tacagua_M (GPRS),11.6,-5.6,28.4,4.96,
 2023-06-16,Tarija,1.0,1.0,74.0,74.0,
@@ -32729,13 +33074,16 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-17,Cabaña Forestal Oruro,,-9.3,,,
 2023-06-17,Camiri,1.0,1.0,79.7,79.7,
 2023-06-17,Chua Cocani_M (GPRS),13.25,-2.78,79.52,14.34,
+2023-06-17,Chuqui Chuqui,24.0,6.0,,,
 2023-06-17,Cobija,17.0,17.0,93.0,93.0,
 2023-06-17,Cochabamba,5.0,5.0,51.8,51.8,
 2023-06-17,Concepcion,12.0,12.0,86.8,86.8,
 2023-06-17,Cuatro Cañadas - CEA-2 (GPRS),22.42,9.29,94.8,44.6,
 2023-06-17,Cuatro Cañadas - Colonia Chihuahua (GPRS),25.15,9.38,93.6,38.98,
+2023-06-17,Culta,,-4.0,,,
 2023-06-17,Desaguadero_M,12.29,-6.89,70.88,11.38,
 2023-06-17,El Alto,2.0,2.0,21.0,21.0,
+2023-06-17,El Villar,16.0,0.0,,,
 2023-06-17,Huarisuyo (GPRS),14.51,-8.7,82.7,6.69,
 2023-06-17,Isla Suriqui_M (GPRS),11.93,-1.22,79.14,22.23,
 2023-06-17,Ivirgarzama-Senda VI (GPRS),26.05,11.36,88.9,40.58,
@@ -32745,6 +33093,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-17,Pailon - Pozo del Tigre (GPRS),23.81,9.92,90.2,36.24,
 2023-06-17,Pocona - SDC (GPRS),23.89,-4.28,95.0,10.93,
 2023-06-17,Pojo - SDC (GPRS),20.85,5.61,75.61,17.34,
+2023-06-17,Potosi Los Pinos,18.1,-7.0,,,
 2023-06-17,Puerto Villarroel (GPRS),,,,,1.0
 2023-06-17,Putucuni Calientes (GPRS),8.88,-4.01,60.78,13.27,
 2023-06-17,Quila Quila_M (GPRS),17.92,0.19,48.02,7.02,
@@ -32756,12 +33105,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-17,San Joaquin,24.0,19.0,76.9,56.6,
 2023-06-17,San Julian - Comunidad Los Angeles (GPRS),25.3,10.5,90.9,38.74,
 2023-06-17,San Julian - Nucleo 32 (GPRS),22.71,10.91,,,
+2023-06-17,San Lucas,21.0,-7.0,,,
 2023-06-17,San Pedro - Río Victoria (GPRS),23.48,11.56,91.1,43.6,
 2023-06-17,San Pedro - San Antonio (GPRS),22.77,11.71,84.9,47.26,
 2023-06-17,San Pedro de Buena Vista (GPRS),19.54,6.03,38.28,14.92,
 2023-06-17,San Roque - El Alto (GPRS),15.84,-4.27,49.07,7.87,
 2023-06-17,Santa Ana - Yacuma,16.0,16.0,81.6,81.6,
 2023-06-17,Sauce Pilata - SDC (GPRS),17.31,6.62,75.54,23.69,
+2023-06-17,Sucre SENAMHI,19.4,0.0,,,
 2023-06-17,Sunjani (GPRS),13.78,-6.19,62.15,8.6,
 2023-06-17,Tacagua_M (GPRS),12.54,-6.19,26.98,5.22,
 2023-06-17,Tarija,1.0,1.0,68.7,68.7,
@@ -32786,13 +33137,16 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-18,Cabaña Forestal Oruro,,-8.2,,,
 2023-06-18,Camiri,23.0,1.0,92.4,37.9,
 2023-06-18,Chua Cocani_M (GPRS),14.04,-3.19,79.19,18.39,
+2023-06-18,Chuqui Chuqui,26.0,6.0,,,
 2023-06-18,Cobija,27.0,15.0,99.1,57.1,
 2023-06-18,Cochabamba,24.0,2.0,69.0,14.1,
 2023-06-18,Concepcion,25.0,12.0,99.1,64.6,
 2023-06-18,Cuatro Cañadas - CEA-2 (GPRS),24.64,11.92,99.4,52.97,
 2023-06-18,Cuatro Cañadas - Colonia Chihuahua (GPRS),25.81,11.01,100.0,46.67,
+2023-06-18,Culta,,-2.0,,,
 2023-06-18,Desaguadero_M,12.62,-6.69,74.21,25.75,
 2023-06-18,El Alto,14.0,0.0,53.0,15.2,
+2023-06-18,El Villar,18.0,0.0,,,
 2023-06-18,Huarisuyo (GPRS),14.01,-7.33,76.31,20.26,
 2023-06-18,Isla Suriqui_M (GPRS),12.59,-0.89,85.9,22.83,
 2023-06-18,Ivirgarzama-Senda VI (GPRS),26.52,14.23,88.8,41.63,
@@ -32801,6 +33155,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-18,Pailon - Pozo del Tigre (GPRS),25.38,12.2,99.0,43.74,
 2023-06-18,Pocona - SDC (GPRS),24.55,1.97,57.77,8.3,
 2023-06-18,Pojo - SDC (GPRS),23.07,6.72,70.15,15.78,
+2023-06-18,Potosi Los Pinos,18.0,-5.1,,,
 2023-06-18,Puerto Villarroel (GPRS),24.58,11.57,91.5,48.19,2.9
 2023-06-18,Putucuni Calientes (GPRS),9.52,-2.32,33.95,8.69,
 2023-06-18,Quila Quila_M (GPRS),20.94,3.74,37.34,6.61,
@@ -32808,12 +33163,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-18,San Andres de Machaca_M (GPRS),14.1,-0.34,35.99,18.17,
 2023-06-18,San Julian - Comunidad Los Angeles (GPRS),26.44,13.26,98.4,45.85,
 2023-06-18,San Julian - Nucleo 32 (GPRS),24.61,12.88,,,
+2023-06-18,San Lucas,24.0,-7.0,,,
 2023-06-18,San Pedro - Río Victoria (GPRS),25.47,11.67,96.1,52.29,
 2023-06-18,San Pedro - San Antonio (GPRS),24.71,13.01,94.6,46.55,
 2023-06-18,San Pedro de Buena Vista (GPRS),22.79,11.13,25.72,8.78,
 2023-06-18,San Roque - El Alto (GPRS),14.45,-2.94,63.46,17.22,
 2023-06-18,Santa Ana - Yacuma,28.0,15.0,92.9,41.6,
 2023-06-18,Sauce Pilata - SDC (GPRS),20.07,12.3,32.08,8.67,
+2023-06-18,Sucre SENAMHI,22.5,1.0,22.0,,
 2023-06-18,Sunjani (GPRS),14.8,-4.15,42.74,13.74,
 2023-06-18,Tacagua_M (GPRS),14.81,-3.31,50.08,8.29,
 2023-06-18,Tarija,22.0,0.0,85.8,26.3,
@@ -32837,13 +33194,16 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-19,Cabaña Forestal Oruro,,-5.2,,,
 2023-06-19,Camiri,26.0,4.0,92.8,38.7,
 2023-06-19,Chua Cocani_M (GPRS),14.04,-3.32,88.8,12.1,
+2023-06-19,Chuqui Chuqui,28.0,9.0,,,
 2023-06-19,Cobija,31.0,17.0,99.1,54.8,
 2023-06-19,Cochabamba,27.0,4.0,69.4,10.9,
 2023-06-19,Concepcion,26.0,14.0,93.0,57.1,
 2023-06-19,Cuatro Cañadas - CEA-2 (GPRS),25.9,14.54,99.8,58.26,
 2023-06-19,Cuatro Cañadas - Colonia Chihuahua (GPRS),28.42,14.95,99.4,55.61,
+2023-06-19,Culta,,-3.0,,,
 2023-06-19,Desaguadero_M,12.91,-8.78,78.02,29.56,
 2023-06-19,El Alto,14.0,0.0,74.1,11.5,
+2023-06-19,El Villar,18.0,2.0,,,
 2023-06-19,Huarisuyo (GPRS),13.71,-5.96,57.71,11.05,
 2023-06-19,Isla Suriqui_M (GPRS),12.2,-1.29,68.26,22.49,
 2023-06-19,Ivirgarzama-Senda VI (GPRS),27.62,14.94,88.5,55.8,
@@ -32855,11 +33215,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-19,Pailon - Pozo del Tigre (GPRS),28.25,14.62,99.2,51.7,
 2023-06-19,Pocona - SDC (GPRS),21.79,1.71,85.1,15.56,
 2023-06-19,Pojo - SDC (GPRS),23.96,7.45,66.14,19.25,
+2023-06-19,Potosi Los Pinos,18.0,-4.0,,,
 2023-06-19,Potosí,14.0,1.0,50.7,28.3,
 2023-06-19,Puerto Suarez,27.0,19.0,93.1,61.1,
 2023-06-19,Puerto Suarez Aeropuerto (F),27.0,19.0,93.1,61.1,
 2023-06-19,Puerto Villarroel (GPRS),26.89,15.29,90.5,54.07,1.5
 2023-06-19,Putucuni Calientes (GPRS),9.97,-2.05,60.01,18.38,
+2023-06-19,Quiabaya,,,,,10.0
 2023-06-19,Quila Quila_M (GPRS),22.51,5.45,25.04,7.51,
 2023-06-19,Reyes,28.0,13.0,99.1,47.4,
 2023-06-19,Riberalta,30.0,18.0,99.1,47.9,
@@ -32872,12 +33234,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-19,San Jose de Chiquitos,29.0,19.0,76.9,47.9,
 2023-06-19,San Julian - Comunidad Los Angeles (GPRS),27.44,15.03,98.4,58.63,
 2023-06-19,San Julian - Nucleo 32 (GPRS),27.24,16.62,,,
+2023-06-19,San Lucas,25.0,-4.0,,,
 2023-06-19,San Pedro - Río Victoria (GPRS),27.34,14.14,95.4,58.32,
 2023-06-19,San Pedro - San Antonio (GPRS),27.12,15.52,96.4,56.02,
 2023-06-19,San Pedro de Buena Vista (GPRS),25.66,10.68,22.16,4.15,
 2023-06-19,San Roque - El Alto (GPRS),14.3,-3.57,51.61,7.68,
 2023-06-19,Santa Ana - Yacuma,30.0,16.0,99.1,45.0,
 2023-06-19,Sauce Pilata - SDC (GPRS),21.05,11.89,44.45,18.57,
+2023-06-19,Sucre SENAMHI,23.0,2.8,35.0,13.0,
 2023-06-19,Sunjani (GPRS),14.36,-5.0,60.37,14.76,
 2023-06-19,Tacagua_M (GPRS),13.17,-5.15,42.13,11.95,
 2023-06-19,Tarija,29.0,0.0,92.2,13.1,
@@ -32903,13 +33267,16 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-20,Cabaña Forestal Oruro,,-7.4,,,
 2023-06-20,Camiri,13.0,13.0,86.9,86.9,
 2023-06-20,Chua Cocani_M (GPRS),14.5,-4.04,81.6,9.82,
+2023-06-20,Chuqui Chuqui,27.0,10.0,,,
 2023-06-20,Cobija,19.0,19.0,93.1,93.1,
 2023-06-20,Cochabamba,8.0,8.0,56.6,56.6,
 2023-06-20,Concepcion,17.0,17.0,93.0,93.0,
 2023-06-20,Cuatro Cañadas - CEA-2 (GPRS),27.44,17.22,100.0,56.7,
 2023-06-20,Cuatro Cañadas - Colonia Chihuahua (GPRS),29.14,16.06,100.0,53.41,
+2023-06-20,Culta,,-4.0,,,
 2023-06-20,Desaguadero_M,13.24,-8.92,84.6,26.24,
 2023-06-20,El Alto,5.0,5.0,25.7,25.7,
+2023-06-20,El Villar,29.0,5.0,,,
 2023-06-20,Huarisuyo (GPRS),14.77,-10.16,70.89,16.81,
 2023-06-20,Isla Suriqui_M (GPRS),14.09,-0.83,78.08,19.96,
 2023-06-20,Ivirgarzama-Senda VI (GPRS),28.95,16.42,88.7,61.4,
@@ -32921,11 +33288,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-20,Pailon - Pozo del Tigre (GPRS),28.44,16.9,98.0,51.05,
 2023-06-20,Pocona - SDC (GPRS),20.42,0.0,95.0,30.36,
 2023-06-20,Pojo - SDC (GPRS),21.02,8.95,78.51,46.11,
+2023-06-20,Potosi Los Pinos,19.0,-4.1,,,
 2023-06-20,Potosí,1.0,1.0,50.7,50.7,
 2023-06-20,Puerto Suarez,22.0,22.0,87.6,87.6,
 2023-06-20,Puerto Suarez Aeropuerto (F),22.0,22.0,87.6,87.6,
 2023-06-20,Puerto Villarroel (GPRS),28.37,16.81,89.9,62.38,0.1
 2023-06-20,Putucuni Calientes (GPRS),9.51,-0.27,79.06,16.7,
+2023-06-20,Quiabaya,,,,,15.1
 2023-06-20,Quila Quila_M (GPRS),21.53,3.74,62.26,7.73,
 2023-06-20,Reyes,16.0,16.0,92.9,92.9,
 2023-06-20,Riberalta,20.0,20.0,93.1,93.1,
@@ -32938,12 +33307,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-20,San Jose de Chiquitos,17.0,17.0,87.2,87.2,
 2023-06-20,San Julian - Comunidad Los Angeles (GPRS),28.69,18.16,99.3,58.24,
 2023-06-20,San Julian - Nucleo 32 (GPRS),28.48,18.58,,,
+2023-06-20,San Lucas,24.0,-2.0,,,
 2023-06-20,San Pedro - Río Victoria (GPRS),28.42,16.56,95.5,57.02,
 2023-06-20,San Pedro - San Antonio (GPRS),28.34,18.12,95.6,60.83,
 2023-06-20,San Pedro de Buena Vista (GPRS),26.92,9.27,39.86,3.89,
 2023-06-20,San Roque - El Alto (GPRS),14.98,-4.17,58.71,15.78,
 2023-06-20,Santa Ana - Yacuma,19.0,19.0,87.4,87.4,
 2023-06-20,Sauce Pilata - SDC (GPRS),19.15,9.6,74.51,24.68,
+2023-06-20,Sucre SENAMHI,21.5,4.5,25.0,15.0,
 2023-06-20,Sunjani (GPRS),14.72,-4.95,59.54,12.47,
 2023-06-20,Tacagua_M (GPRS),13.17,-3.38,34.03,8.88,
 2023-06-20,Tarija,8.0,8.0,75.3,75.3,
@@ -32969,13 +33340,16 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-21,Cabaña Forestal Oruro,,-7.2,,,
 2023-06-21,Camiri,17.0,17.0,76.6,76.6,
 2023-06-21,Chua Cocani_M (GPRS),12.73,-3.12,84.9,17.14,
+2023-06-21,Chuqui Chuqui,29.0,10.0,,,
 2023-06-21,Cobija,21.0,21.0,93.2,93.2,
 2023-06-21,Cochabamba,8.0,8.0,65.4,65.4,
 2023-06-21,Concepcion,20.0,20.0,93.1,93.1,
 2023-06-21,Cuatro Cañadas - CEA-2 (GPRS),28.73,19.86,100.0,64.68,
 2023-06-21,Cuatro Cañadas - Colonia Chihuahua (GPRS),30.58,20.76,98.5,58.95,
+2023-06-21,Culta,,-5.0,,,
 2023-06-21,Desaguadero_M,11.8,-8.26,72.96,16.85,
 2023-06-21,El Alto,3.0,3.0,21.3,21.3,
+2023-06-21,El Villar,17.5,5.5,,,
 2023-06-21,Huarisuyo (GPRS),14.57,-10.62,65.04,8.08,
 2023-06-21,Isla Suriqui_M (GPRS),12.99,-1.22,71.24,13.17,
 2023-06-21,Ivirgarzama-Senda VI (GPRS),30.33,20.11,88.0,58.72,
@@ -32986,9 +33360,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-21,Pailon - Pozo del Tigre (GPRS),30.2,21.21,96.7,57.05,
 2023-06-21,Pocona - SDC (GPRS),22.99,2.56,79.96,20.57,
 2023-06-21,Pojo - SDC (GPRS),20.62,8.75,71.4,42.52,
+2023-06-21,Potosi Los Pinos,19.1,-5.1,,,
 2023-06-21,Potosí,0.0,0.0,46.6,46.6,
 2023-06-21,Puerto Villarroel (GPRS),29.6,19.5,89.6,63.71,1.8
 2023-06-21,Putucuni Calientes (GPRS),8.74,-2.97,81.5,9.74,
+2023-06-21,Quiabaya,,,,,10.0
 2023-06-21,Quila Quila_M (GPRS),23.22,3.87,36.76,5.56,
 2023-06-21,Reyes,17.0,17.0,99.1,99.1,
 2023-06-21,Riberalta,22.0,22.0,93.2,93.2,
@@ -32996,12 +33372,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-21,San Andres de Machaca_M (GPRS),15.54,-2.27,30.13,6.45,
 2023-06-21,San Julian - Comunidad Los Angeles (GPRS),29.67,20.39,98.6,61.7,
 2023-06-21,San Julian - Nucleo 32 (GPRS),29.84,20.88,,,
+2023-06-21,San Lucas,26.0,-2.0,,,
 2023-06-21,San Pedro - Río Victoria (GPRS),30.32,19.78,94.8,58.56,
 2023-06-21,San Pedro - San Antonio (GPRS),29.9,19.61,96.8,62.89,
 2023-06-21,San Pedro de Buena Vista (GPRS),27.33,11.45,11.13,2.8,
 2023-06-21,San Roque - El Alto (GPRS),15.64,-4.94,39.9,8.29,
 2023-06-21,Santa Ana - Yacuma,20.0,20.0,93.1,93.1,
 2023-06-21,Sauce Pilata - SDC (GPRS),21.48,10.41,46.0,25.94,
+2023-06-21,Sucre SENAMHI,23.2,3.0,,,
 2023-06-21,Sunjani (GPRS),13.7,-4.65,57.51,7.85,
 2023-06-21,Tacagua_M (GPRS),13.24,-3.77,33.52,8.1,
 2023-06-21,Tarija,1.0,1.0,92.3,92.3,
@@ -33027,13 +33405,16 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-22,Cabaña Forestal Oruro,,-7.5,,,
 2023-06-22,Camiri,23.0,15.0,87.1,87.1,
 2023-06-22,Chua Cocani_M (GPRS),14.03,-5.09,70.63,11.44,
+2023-06-22,Chuqui Chuqui,27.0,10.0,,,
 2023-06-22,Cobija,34.0,21.0,99.1,99.1,
 2023-06-22,Cochabamba,27.0,2.0,56.4,56.4,
 2023-06-22,Concepcion,30.0,19.0,93.1,93.1,
 2023-06-22,Cuatro Cañadas - CEA-2 (GPRS),29.13,22.23,97.5,68.79,
 2023-06-22,Cuatro Cañadas - Colonia Chihuahua (GPRS),31.04,21.94,95.9,62.29,0.2
+2023-06-22,Culta,,-6.0,,,
 2023-06-22,Desaguadero_M,12.33,-9.24,69.64,19.54,
 2023-06-22,El Alto,14.0,0.0,21.0,21.0,
+2023-06-22,El Villar,28.5,9.0,,,
 2023-06-22,Huarisuyo (GPRS),13.82,-9.1,47.16,8.21,
 2023-06-22,Isla Suriqui_M (GPRS),12.85,-1.88,68.79,20.13,
 2023-06-22,Jesús de Machaca_M (GPRS),15.38,-16.72,55.45,7.44,
@@ -33044,6 +33425,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-22,Pailon - Pozo del Tigre (GPRS),31.14,22.12,95.4,59.21,
 2023-06-22,Pocona - SDC (GPRS),19.63,-1.94,88.6,39.67,
 2023-06-22,Pojo - SDC (GPRS),22.04,7.77,74.19,36.84,
+2023-06-22,Potosi Los Pinos,18.2,-5.0,,,
 2023-06-22,Potosí,15.0,2.0,43.7,43.7,
 2023-06-22,Puerto Suarez,33.0,23.0,82.5,82.5,
 2023-06-22,Puerto Suarez Aeropuerto (F),33.0,23.0,82.5,82.5,
@@ -33060,12 +33442,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-22,San Jose de Chiquitos,31.0,20.0,87.5,87.5,
 2023-06-22,San Julian - Comunidad Los Angeles (GPRS),31.09,21.43,98.4,64.11,
 2023-06-22,San Julian - Nucleo 32 (GPRS),30.46,21.92,,,
+2023-06-22,San Lucas,26.0,-3.0,,,
 2023-06-22,San Pedro - Río Victoria (GPRS),30.85,21.27,94.0,61.95,
 2023-06-22,San Pedro - San Antonio (GPRS),29.89,22.0,93.2,67.04,
 2023-06-22,San Pedro de Buena Vista (GPRS),26.27,11.77,10.59,2.42,
 2023-06-22,San Roque - El Alto (GPRS),14.2,-5.18,29.46,11.02,
 2023-06-22,Santa Ana - Yacuma,34.0,22.0,93.2,93.2,
 2023-06-22,Sauce Pilata - SDC (GPRS),20.83,13.14,54.48,13.01,
+2023-06-22,Sucre SENAMHI,24.0,2.5,30.0,9.0,
 2023-06-22,Sunjani (GPRS),13.64,-5.38,44.62,11.21,
 2023-06-22,Tacagua_M (GPRS),13.5,-3.12,33.85,6.34,
 2023-06-22,Tarija,31.0,3.0,99.2,99.2,
@@ -33091,13 +33475,16 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-23,Cabaña Forestal Oruro,,-8.1,,,
 2023-06-23,Camiri,17.0,17.0,87.2,87.2,
 2023-06-23,Chua Cocani_M (GPRS),13.25,-3.12,77.25,10.45,
+2023-06-23,Chuqui Chuqui,30.0,10.0,,,
 2023-06-23,Cobija,23.0,23.0,93.2,93.2,
 2023-06-23,Cochabamba,8.0,8.0,48.9,48.9,
 2023-06-23,Concepcion,20.0,20.0,99.1,99.1,
 2023-06-23,Cuatro Cañadas - CEA-2 (GPRS),30.04,23.22,94.6,67.5,
 2023-06-23,Cuatro Cañadas - Colonia Chihuahua (GPRS),31.84,23.58,87.5,59.75,
+2023-06-23,Culta,,-3.0,,,
 2023-06-23,Desaguadero_M,13.96,-10.42,69.05,4.42,
 2023-06-23,El Alto,2.0,2.0,16.3,16.3,
+2023-06-23,El Villar,30.0,5.0,,,
 2023-06-23,Huarisuyo (GPRS),14.77,-11.35,66.0,6.02,
 2023-06-23,Isla Suriqui_M (GPRS),12.33,-0.76,81.9,14.41,
 2023-06-23,Jesús de Machaca_M (GPRS),15.45,-17.83,43.11,3.91,
@@ -33107,6 +33494,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-23,Pailon - Pozo del Tigre (GPRS),31.64,22.45,91.3,56.48,
 2023-06-23,Pocona - SDC (GPRS),26.8,-3.87,69.72,6.11,
 2023-06-23,Pojo - SDC (GPRS),27.37,8.1,49.94,7.86,
+2023-06-23,Potosi Los Pinos,19.2,-4.0,,,
 2023-06-23,Potosí,0.0,0.0,46.6,46.6,
 2023-06-23,Puerto Suarez,25.0,25.0,77.8,77.8,
 2023-06-23,Puerto Suarez Aeropuerto (F),25.0,25.0,77.8,77.8,
@@ -33122,12 +33510,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-23,San Jose de Chiquitos,22.0,22.0,93.2,93.2,
 2023-06-23,San Julian - Comunidad Los Angeles (GPRS),31.3,21.64,96.0,61.96,
 2023-06-23,San Julian - Nucleo 32 (GPRS),31.23,22.9,,,
+2023-06-23,San Lucas,25.0,-2.0,,,
 2023-06-23,San Pedro - Río Victoria (GPRS),31.47,22.51,92.4,63.24,
 2023-06-23,San Pedro - San Antonio (GPRS),31.06,22.83,92.9,64.19,
 2023-06-23,San Pedro de Buena Vista (GPRS),25.42,8.88,12.94,3.27,
 2023-06-23,San Roque - El Alto (GPRS),15.53,-4.76,39.48,6.76,
 2023-06-23,Santa Ana - Yacuma,24.0,24.0,87.8,87.8,
 2023-06-23,Sauce Pilata - SDC (GPRS),21.51,14.38,12.62,8.22,
+2023-06-23,Sucre SENAMHI,23.0,3.5,24.0,8.0,
 2023-06-23,Sunjani (GPRS),12.68,-5.34,35.08,6.75,
 2023-06-23,Tacagua_M (GPRS),12.9,-4.56,26.6,7.25,
 2023-06-23,Tarija,1.0,1.0,74.0,74.0,
@@ -33153,13 +33543,16 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-24,Cabaña Forestal Oruro,,-8.5,,,
 2023-06-24,Camiri,10.0,10.0,92.7,92.7,
 2023-06-24,Chua Cocani_M (GPRS),13.78,-3.32,78.86,21.36,
+2023-06-24,Chuqui Chuqui,29.0,10.0,,,
 2023-06-24,Cobija,23.0,23.0,99.1,99.1,
 2023-06-24,Cochabamba,3.0,3.0,29.6,29.6,
 2023-06-24,Concepcion,22.0,22.0,87.6,87.6,
 2023-06-24,Cuatro Cañadas - CEA-2 (GPRS),29.72,21.77,97.3,69.66,
 2023-06-24,Cuatro Cañadas - Colonia Chihuahua (GPRS),31.82,19.71,98.0,54.22,0.4
+2023-06-24,Culta,,-4.0,,,
 2023-06-24,Desaguadero_M,12.26,-8.85,71.91,15.06,
 2023-06-24,El Alto,2.0,2.0,21.0,21.0,
+2023-06-24,El Villar,29.0,5.0,,,
 2023-06-24,Huarisuyo (GPRS),14.65,-11.65,68.89,13.92,
 2023-06-24,Isla Suriqui_M (GPRS),13.06,-1.94,83.8,20.15,
 2023-06-24,Jesús de Machaca_M (GPRS),15.32,-14.25,45.88,3.09,
@@ -33168,6 +33561,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-24,Pailon - Pozo del Tigre (GPRS),31.54,21.14,95.7,55.97,
 2023-06-24,Pocona - SDC (GPRS),29.08,-3.38,78.5,3.43,
 2023-06-24,Pojo - SDC (GPRS),26.06,7.38,68.45,13.27,
+2023-06-24,Potosi Los Pinos,20.0,-5.3,,,
 2023-06-24,Puerto Suarez,24.0,24.0,82.6,82.6,
 2023-06-24,Puerto Suarez Aeropuerto (F),24.0,24.0,82.6,82.6,
 2023-06-24,Puerto Villarroel (GPRS),31.01,21.63,89.9,68.9,0.5
@@ -33177,12 +33571,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-24,San Andres de Machaca_M (GPRS),15.59,-0.06,11.55,3.98,
 2023-06-24,San Julian - Comunidad Los Angeles (GPRS),31.5,21.31,95.9,62.29,
 2023-06-24,San Julian - Nucleo 32 (GPRS),30.96,21.93,,,
+2023-06-24,San Lucas,25.0,-5.0,,,
 2023-06-24,San Pedro - Río Victoria (GPRS),31.64,22.47,93.4,63.92,
 2023-06-24,San Pedro - San Antonio (GPRS),31.74,22.34,93.4,62.83,
 2023-06-24,San Pedro de Buena Vista (GPRS),27.15,9.26,14.69,1.93,
 2023-06-24,San Roque - El Alto (GPRS),16.64,-5.06,36.6,6.35,
 2023-06-24,Santa Ana - Yacuma,24.0,24.0,93.3,93.3,
 2023-06-24,Sauce Pilata - SDC (GPRS),23.53,12.75,32.52,6.85,
+2023-06-24,Sucre SENAMHI,25.0,2.5,,,
 2023-06-24,Sunjani (GPRS),15.47,-4.15,35.96,3.33,
 2023-06-24,Tacagua_M (GPRS),13.5,-3.05,24.25,5.56,
 2023-06-24,Tarija,1.0,1.0,68.7,68.7,
@@ -33207,13 +33603,16 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-25,Cabaña Forestal Oruro,,-7.1,,,
 2023-06-25,Camiri,11.0,11.0,92.7,92.7,
 2023-06-25,Chua Cocani_M (GPRS),15.02,-3.64,78.33,14.73,
+2023-06-25,Chuqui Chuqui,28.0,9.0,,,
 2023-06-25,Cobija,23.0,23.0,93.2,93.2,
 2023-06-25,Cochabamba,5.0,5.0,44.6,44.6,
 2023-06-25,Concepcion,23.0,23.0,82.5,82.5,
 2023-06-25,Cuatro Cañadas - CEA-2 (GPRS),29.72,20.79,97.2,65.02,
 2023-06-25,Cuatro Cañadas - Colonia Chihuahua (GPRS),32.15,19.07,100.0,55.45,0.2
+2023-06-25,Culta,,-5.0,,,
 2023-06-25,Desaguadero_M,14.68,-8.13,71.14,9.56,
 2023-06-25,El Alto,2.0,2.0,19.3,19.3,
+2023-06-25,El Villar,32.0,5.5,,,
 2023-06-25,Huarisuyo (GPRS),16.77,-8.48,62.69,7.39,
 2023-06-25,Isla Suriqui_M (GPRS),13.38,-0.89,78.33,17.01,
 2023-06-25,Jesús de Machaca_M (GPRS),16.43,-11.59,53.0,7.32,
@@ -33221,6 +33620,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-25,Pailon - Pozo del Tigre (GPRS),31.83,21.21,95.8,54.47,
 2023-06-25,Pocona - SDC (GPRS),26.7,-3.35,86.7,7.33,
 2023-06-25,Pojo - SDC (GPRS),24.9,8.63,69.04,19.0,
+2023-06-25,Potosi Los Pinos,20.0,-4.1,,,
 2023-06-25,Puerto Villarroel (GPRS),31.92,22.21,89.7,66.09,5.3
 2023-06-25,Putucuni Calientes (GPRS),11.49,-1.63,81.7,9.91,
 2023-06-25,Quila Quila_M (GPRS),22.57,3.6,35.51,4.66,
@@ -33229,12 +33629,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-25,San Borja,28.0,28.0,78.2,78.2,
 2023-06-25,San Julian - Comunidad Los Angeles (GPRS),31.28,21.7,93.0,63.41,
 2023-06-25,San Julian - Nucleo 32 (GPRS),31.16,22.52,,,
+2023-06-25,San Lucas,27.0,-5.0,,,
 2023-06-25,San Pedro - Río Victoria (GPRS),31.67,21.35,95.0,62.84,
 2023-06-25,San Pedro - San Antonio (GPRS),30.54,21.21,94.9,69.53,
 2023-06-25,San Pedro de Buena Vista (GPRS),23.27,8.2,22.82,5.47,
 2023-06-25,San Roque - El Alto (GPRS),17.47,-3.5,51.46,7.05,
 2023-06-25,Santa Ana - Yacuma,24.0,24.0,87.8,87.8,
 2023-06-25,Sauce Pilata - SDC (GPRS),20.46,11.28,62.08,13.46,
+2023-06-25,Sucre SENAMHI,24.0,4.6,,,
 2023-06-25,Sunjani (GPRS),14.52,-6.51,45.07,5.62,
 2023-06-25,Tacagua_M (GPRS),14.87,-3.84,30.7,7.71,
 2023-06-25,Tarija,29.0,3.0,86.0,15.2,
@@ -33252,29 +33654,490 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-25,Vivero Viloma - SDC (GPRS),27.37,3.92,37.19,1.98,
 2023-06-25,Wila Cala (GPRS),12.3,-3.44,65.02,15.02,
 2023-06-25,Yacuiba,27.0,12.0,86.8,65.0,
+2023-06-26,4 Esquinas (GPRS),14.11,-10.58,,,
+2023-06-26,Aguadas (GPRS),16.43,-7.6,45.38,6.35,
+2023-06-26,Aiquile (GPRS),34.9,-0.91,90.4,6.93,
+2023-06-26,Alalay (GPRS),15.23,2.48,20.16,10.77,
+2023-06-26,Alto Peñas (GPRS),14.76,0.25,37.58,14.9,
 2023-06-26,Aroma (GPRS),-3.46,-3.46,18.2,18.2,
+2023-06-26,Atulcha (GPRS),7.72,-0.13,17.94,11.56,
 2023-06-26,Cabaña Forestal Oruro,,-7.4,,,
 2023-06-26,Camiri,,,86.8,86.8,
+2023-06-26,Charazani (GPRS),19.12,6.28,81.22,21.19,
+2023-06-26,Chua Cocani_M (GPRS),14.1,-4.17,82.2,13.34,
+2023-06-26,Chuqui Chuqui,29.0,10.0,,,
 2023-06-26,Cobija,,,93.2,93.2,
 2023-06-26,Cochabamba,5.0,5.0,51.8,51.8,
 2023-06-26,Concepcion,,,93.1,93.1,
+2023-06-26,Cuatro Cañadas - CEA-2 (GPRS),30.9,20.47,94.8,61.57,
 2023-06-26,Cuatro Cañadas - Colonia Chihuahua (GPRS),,,,,0.2
+2023-06-26,Cuevo (GPRS),-39.72,-39.87,0.2,0.09,
+2023-06-26,Culta,,-3.0,,,
+2023-06-26,Desaguadero_M,14.81,-10.16,73.73,8.66,
 2023-06-26,El Alto,3.0,3.0,29.6,29.6,
+2023-06-26,El Villar,29.0,4.5,,,
+2023-06-26,Huarisuyo (GPRS),15.4,-9.08,61.42,10.65,
+2023-06-26,Isla Suriqui_M (GPRS),13.64,-0.96,82.6,14.94,
+2023-06-26,Jesús de Machaca_M (GPRS),15.84,-16.33,52.33,7.7,
 2023-06-26,Magdalena,,,99.1,99.1,
+2023-06-26,Mizque - SDC (GPRS),28.95,-1.22,79.72,5.09,
+2023-06-26,Orinoca - UTO (GPRS),14.84,-6.69,24.99,6.57,
 2023-06-26,Oruro,,,32.7,32.7,
+2023-06-26,Pailon - Pozo del Tigre (GPRS),32.23,19.32,94.3,49.53,
+2023-06-26,Pasorapa (GPRS),27.36,9.08,84.98,16.24,
+2023-06-26,Patacamaya (GPRS),16.66,-9.65,,,
+2023-06-26,Pocona - SDC (GPRS),27.24,-2.07,87.2,6.28,
+2023-06-26,Pojo - SDC (GPRS),22.52,7.25,66.06,23.66,
+2023-06-26,Potosi Los Pinos,19.1,-6.0,,,
 2023-06-26,Potosí,,,39.8,39.8,
 2023-06-26,Puerto Suarez,,,82.6,82.6,
 2023-06-26,Puerto Suarez Aeropuerto (F),,,82.6,82.6,
 2023-06-26,Puerto Villarroel (GPRS),,,,,2.5
+2023-06-26,Putucuni Calientes (GPRS),10.8,-0.38,32.13,11.46,
+2023-06-26,Quila Quila_M (GPRS),23.11,2.95,22.92,4.93,
+2023-06-26,Quillacas (GPRS),16.53,-12.99,27.41,6.54,
 2023-06-26,Reyes,,,99.1,99.1,
 2023-06-26,Riberalta,,,93.2,93.2,
 2023-06-26,Robore,,,93.1,93.1,
 2023-06-26,Rurrenabaque,,,99.1,99.1,
+2023-06-26,Sacabamba (GPRS),21.81,-3.38,42.91,8.15,
+2023-06-26,San Andres de Machaca_M (GPRS),14.69,-2.24,16.09,5.26,
 2023-06-26,San Joaquin,,,99.1,99.1,
 2023-06-26,San Jose de Chiquitos,,,87.6,87.6,
+2023-06-26,San Juan de Yapacaní,,,,,8.8
+2023-06-26,San Julian - Comunidad Los Angeles (GPRS),32.09,21.63,89.8,55.51,
+2023-06-26,San Julian - Nucleo 32 (GPRS),31.69,21.01,,,
+2023-06-26,San Lucas,28.0,-5.0,,,
+2023-06-26,San Pedro - Río Victoria (GPRS),31.8,21.3,94.9,60.62,
+2023-06-26,San Pedro - San Antonio (GPRS),31.4,21.66,91.6,65.48,
+2023-06-26,San Pedro de Buena Vista (GPRS),24.01,8.95,15.91,4.48,
+2023-06-26,San Roque - El Alto (GPRS),16.46,-3.41,43.46,10.34,
 2023-06-26,Santa Ana - Yacuma,,,99.1,99.1,
+2023-06-26,Sauce Pilata - SDC (GPRS),21.96,11.88,48.36,9.09,
+2023-06-26,Sucre SENAMHI,25.5,2.6,30.0,9.0,
+2023-06-26,Sunjani (GPRS),15.28,-6.1,40.37,6.22,
+2023-06-26,Tacagua_M (GPRS),13.89,-4.04,27.99,6.73,
 2023-06-26,Tarija,,,74.8,74.8,
+2023-06-26,Templo (GPRS),12.56,-1.76,25.56,6.51,
+2023-06-26,Temporal - SDC (GPRS),23.79,5.66,22.79,2.14,
+2023-06-26,Tiahuanaco_M (GPRS),16.11,-12.63,67.17,9.44,
 2023-06-26,Trinidad,,,87.8,87.8,
+2023-06-26,Univalle (GPRS),15.23,15.23,,,
+2023-06-26,Vacas - SDC (GPRS),16.88,0.48,35.69,7.69,
+2023-06-26,Viacha_M (GPRS),16.23,-10.95,60.37,9.4,
+2023-06-26,Vila Vila - SDC (GPRS),25.72,6.64,22.75,4.95,
 2023-06-26,Villamontes,,,92.9,92.9,
 2023-06-26,Viru Viru,24.0,24.0,82.6,82.6,
+2023-06-26,Viscachas Chirage (GPRS),16.03,-0.81,64.29,9.13,
+2023-06-26,Vivero Chimboco - SDC (GPRS),24.25,0.72,42.49,2.59,
+2023-06-26,Vivero Viloma - SDC (GPRS),27.19,2.9,35.37,2.03,
+2023-06-26,Wila Cala (GPRS),12.84,-4.09,70.64,19.2,
 2023-06-26,Yacuiba,,,71.2,71.2,
+2023-06-27,4 Esquinas (GPRS),15.53,-9.85,,,
+2023-06-27,Aguadas (GPRS),17.72,-6.62,40.05,6.75,
+2023-06-27,Aiquile (GPRS),35.04,0.32,91.8,6.01,
+2023-06-27,Alto Peñas (GPRS),14.63,6.63,33.19,11.96,
+2023-06-27,Apolo,26.0,26.0,53.6,53.6,
+2023-06-27,Aroma (GPRS),-7.05,-7.05,19.15,19.15,
+2023-06-27,Camiri,14.0,14.0,92.9,92.9,
+2023-06-27,Charazani (GPRS),16.83,15.52,50.85,44.61,
+2023-06-27,Chimore Aeropuerto,,,,,1.4
+2023-06-27,Chua Cocani_M (GPRS),14.17,-3.71,87.5,13.46,
+2023-06-27,Chuqui Chuqui,29.0,10.0,,,
+2023-06-27,Cobija,22.0,22.0,93.2,93.2,
+2023-06-27,Cochabamba,5.0,5.0,44.6,44.6,
+2023-06-27,Concepcion,18.0,18.0,93.0,93.0,
+2023-06-27,Cuatro Cañadas - CEA-2 (GPRS),30.85,20.72,97.3,53.29,
+2023-06-27,Cuatro Cañadas - Colonia Chihuahua (GPRS),32.48,19.52,97.8,43.01,0.2
+2023-06-27,Culta,,-2.0,,,
+2023-06-27,Desaguadero_M,16.26,-9.51,73.8,6.51,
+2023-06-27,El Alto,3.0,3.0,19.6,19.6,
+2023-06-27,El Villar,30.0,5.0,,,
+2023-06-27,Huarisuyo (GPRS),15.02,-10.63,54.51,10.08,
+2023-06-27,Isla Suriqui_M (GPRS),13.78,-1.35,86.6,12.6,
+2023-06-27,Jesús de Machaca_M (GPRS),17.21,-16.66,46.31,5.43,
+2023-06-27,Magdalena,23.0,23.0,93.2,93.2,
+2023-06-27,Mizque - SDC (GPRS),28.95,-0.42,82.8,5.32,
+2023-06-27,Orinoca - UTO (GPRS),8.29,6.66,13.8,12.55,
+2023-06-27,Oruro,5.0,5.0,35.4,35.4,
+2023-06-27,Pailon - Pozo del Tigre (GPRS),32.16,20.29,94.1,43.6,
+2023-06-27,Pasorapa (GPRS),21.45,20.35,37.04,30.76,
+2023-06-27,Patacamaya (GPRS),10.03,9.26,12.95,12.0,
+2023-06-27,Pocona - SDC (GPRS),28.19,3.95,63.86,5.84,
+2023-06-27,Pojo - SDC (GPRS),22.98,10.33,71.48,40.58,
+2023-06-27,Potosi Los Pinos,22.0,-5.1,,,
+2023-06-27,Potosí,1.0,1.0,46.9,46.9,
+2023-06-27,Puerto Suarez,23.0,23.0,82.5,82.5,
+2023-06-27,Puerto Suarez Aeropuerto (F),23.0,23.0,82.5,82.5,
+2023-06-27,Puerto Villarroel (GPRS),29.22,23.27,90.4,77.92,2.6
+2023-06-27,Putucuni Calientes (GPRS),12.28,0.25,32.32,4.34,
+2023-06-27,Quila Quila_M (GPRS),25.07,4.0,26.38,4.09,
+2023-06-27,Quillacas (GPRS),9.8,9.45,10.04,9.78,
+2023-06-27,Reyes,22.0,22.0,93.2,93.2,
+2023-06-27,Riberalta,23.0,23.0,93.2,93.2,
+2023-06-27,Robore,18.0,18.0,99.1,99.1,
+2023-06-27,Rurrenabaque,22.0,22.0,99.1,99.1,
+2023-06-27,Sacabamba (GPRS),17.87,14.28,15.05,11.06,
+2023-06-27,San Andres de Machaca_M (GPRS),15.86,-1.85,14.6,4.18,
+2023-06-27,San Borja,31.0,31.0,69.8,69.8,
+2023-06-27,San Javier,30.0,28.0,57.6,54.6,
+2023-06-27,San Javier Aeropuerto (F),30.0,28.0,57.6,54.6,
+2023-06-27,San Joaquin,23.0,23.0,93.2,93.2,
+2023-06-27,San Jose de Chiquitos,33.0,24.0,82.6,52.0,
+2023-06-27,San Julian - Comunidad Los Angeles (GPRS),32.2,21.83,90.3,51.78,
+2023-06-27,San Julian - Nucleo 32 (GPRS),31.23,24.35,,,
+2023-06-27,San Lucas,27.0,-6.0,,,
+2023-06-27,San Pedro - Río Victoria (GPRS),30.66,22.32,92.5,59.31,
+2023-06-27,San Pedro - San Antonio (GPRS),30.38,23.05,88.6,63.02,
+2023-06-27,San Pedro de Buena Vista (GPRS),25.29,9.54,15.74,4.58,
+2023-06-27,San Roque - El Alto (GPRS),18.8,-5.28,41.99,8.25,
+2023-06-27,Santa Ana - Yacuma,23.0,23.0,93.2,93.2,
+2023-06-27,Sauce Pilata - SDC (GPRS),22.67,9.55,66.42,9.83,
+2023-06-27,Sucre SENAMHI,26.8,2.4,23.0,9.0,
+2023-06-27,Sunjani (GPRS),16.98,-4.58,42.19,4.72,
+2023-06-27,Tacagua_M (GPRS),14.68,-4.1,22.42,4.53,
+2023-06-27,Tarija,4.0,4.0,69.3,69.3,
+2023-06-27,Templo (GPRS),13.92,-0.23,28.36,5.57,
+2023-06-27,Temporal - SDC (GPRS),24.7,5.57,27.85,1.61,
+2023-06-27,Tiahuanaco_M (GPRS),16.57,-12.89,63.6,9.05,
+2023-06-27,Trinidad,24.0,24.0,87.8,87.8,
+2023-06-27,Vacas - SDC (GPRS),18.04,0.98,44.53,8.14,
+2023-06-27,Viacha_M (GPRS),17.93,-12.2,59.9,6.47,
+2023-06-27,Vila Vila - SDC (GPRS),26.09,4.38,29.66,4.64,
+2023-06-27,Villamontes,17.0,17.0,93.0,93.0,
+2023-06-27,Viru Viru,23.0,23.0,82.5,82.5,
+2023-06-27,Viscachas Chirage (GPRS),17.19,-0.59,72.98,4.57,
+2023-06-27,Vivero Chimboco - SDC (GPRS),25.97,1.72,34.66,1.59,
+2023-06-27,Vivero Viloma - SDC (GPRS),27.45,3.95,33.06,1.56,
+2023-06-27,Wila Cala (GPRS),13.26,-4.53,90.23,20.68,
+2023-06-27,Yacuiba,15.0,15.0,92.9,92.9,
+2023-06-28,4 Esquinas (GPRS),13.57,-7.93,,,
+2023-06-28,Aguadas (GPRS),15.88,-6.23,89.9,13.28,
+2023-06-28,Aiquile (GPRS),31.11,9.43,86.8,35.71,
+2023-06-28,Alto Peñas (GPRS),15.42,7.27,42.71,11.55,
+2023-06-28,Aroma (GPRS),-6.05,-6.05,16.4,16.4,
+2023-06-28,Camiri,18.0,18.0,87.3,87.3,
+2023-06-28,Chua Cocani_M (GPRS),14.57,-2.26,89.7,11.63,
+2023-06-28,Chuqui Chuqui,26.0,10.0,,,
+2023-06-28,Cobija,22.0,22.0,93.2,93.2,
+2023-06-28,Cochabamba,5.0,5.0,51.8,51.8,
+2023-06-28,Concepcion,20.0,20.0,93.1,93.1,
+2023-06-28,Cuatro Cañadas - CEA-2 (GPRS),27.03,16.65,93.7,74.91,
+2023-06-28,Cuatro Cañadas - Colonia Chihuahua (GPRS),28.09,19.27,91.4,68.84,0.2
+2023-06-28,Culta,,-3.0,,,
+2023-06-28,Desaguadero_M,14.81,-5.97,81.4,9.25,
+2023-06-28,El Alto,3.0,3.0,13.9,13.9,
+2023-06-28,El Villar,29.0,7.0,,,
+2023-06-28,Huarisuyo (GPRS),15.37,-8.13,97.4,9.88,
+2023-06-28,Isla Suriqui_M (GPRS),14.82,-0.5,93.7,15.47,
+2023-06-28,Jesús de Machaca_M (GPRS),16.88,-10.93,74.71,5.3,
+2023-06-28,Magdalena,21.0,21.0,93.2,93.2,
+2023-06-28,Mizque - SDC (GPRS),23.65,9.74,86.7,32.0,
+2023-06-28,Oruro,7.0,7.0,26.3,26.3,
+2023-06-28,Pailon - Pozo del Tigre (GPRS),28.67,18.44,91.7,62.57,
+2023-06-28,Pocona - SDC (GPRS),23.47,3.43,94.2,38.09,
+2023-06-28,Pojo - SDC (GPRS),22.65,10.72,81.9,48.21,
+2023-06-28,Potosí,2.0,2.0,37.3,37.3,
+2023-06-28,Puerto Suarez,23.0,23.0,72.8,72.8,
+2023-06-28,Puerto Suarez Aeropuerto (F),23.0,23.0,72.8,72.8,
+2023-06-28,Puerto Villarroel (GPRS),24.31,19.32,91.7,89.0,0.6
+2023-06-28,Putucuni Calientes (GPRS),11.86,-4.34,93.3,3.94,
+2023-06-28,Quila Quila_M (GPRS),17.4,3.35,85.3,29.5,
+2023-06-28,Reyes,21.0,21.0,99.1,99.1,
+2023-06-28,Riberalta,23.0,23.0,87.7,87.7,
+2023-06-28,Robore,18.0,18.0,99.1,99.1,
+2023-06-28,Rurrenabaque,23.0,23.0,99.1,99.1,
+2023-06-28,San Andres de Machaca_M (GPRS),15.86,-1.06,74.77,4.7,
+2023-06-28,San Javier,27.0,18.0,93.0,69.1,
+2023-06-28,San Javier Aeropuerto (F),27.0,18.0,93.0,69.1,
+2023-06-28,San Joaquin,20.0,20.0,93.1,93.1,
+2023-06-28,San Jose de Chiquitos,20.0,20.0,87.5,87.5,
+2023-06-28,San Julian - Comunidad Los Angeles (GPRS),30.9,19.61,87.2,58.57,
+2023-06-28,San Julian - Nucleo 32 (GPRS),31.1,19.24,,,
+2023-06-28,San Lucas,28.0,-6.0,,,
+2023-06-28,San Pedro - Río Victoria (GPRS),30.24,19.81,90.5,62.8,
+2023-06-28,San Pedro - San Antonio (GPRS),28.2,18.99,91.2,69.25,
+2023-06-28,San Pedro de Buena Vista (GPRS),19.56,7.29,84.5,18.09,
+2023-06-28,San Roque - El Alto (GPRS),17.36,-4.8,93.3,6.77,
+2023-06-28,Santa Ana - Yacuma,23.0,23.0,93.2,93.2,
+2023-06-28,Sauce Pilata - SDC (GPRS),16.25,7.23,98.2,60.71,
+2023-06-28,Sucre SENAMHI,20.0,2.2,26.0,24.0,
+2023-06-28,Sunjani (GPRS),14.56,-5.21,89.6,8.01,
+2023-06-28,Tacagua_M (GPRS),13.85,-2.4,46.7,4.58,
+2023-06-28,Tarija,11.0,11.0,81.1,81.1,
+2023-06-28,Templo (GPRS),12.62,-4.77,91.4,7.31,
+2023-06-28,Temporal - SDC (GPRS),23.27,7.54,65.17,5.64,
+2023-06-28,Tiahuanaco_M (GPRS),16.64,-7.08,95.2,5.72,
+2023-06-28,Trinidad,24.0,24.0,82.6,82.6,
+2023-06-28,Vacas - SDC (GPRS),14.51,1.09,98.2,39.72,
+2023-06-28,Viacha_M (GPRS),17.29,-8.4,93.2,5.3,
+2023-06-28,Vila Vila - SDC (GPRS),19.85,9.58,83.4,36.34,
+2023-06-28,Villamontes,21.0,21.0,82.2,82.2,
+2023-06-28,Viru Viru,23.0,23.0,93.2,93.2,
+2023-06-28,Viscachas Chirage (GPRS),14.42,-0.93,87.1,35.26,
+2023-06-28,Vivero Chimboco - SDC (GPRS),23.84,4.47,85.3,6.75,
+2023-06-28,Vivero Viloma - SDC (GPRS),25.93,7.4,71.39,4.42,
+2023-06-28,Wila Cala (GPRS),12.27,-6.66,99.73,24.38,
+2023-06-28,Yacuiba,17.0,17.0,99.1,99.1,
+2023-06-29,4 Esquinas (GPRS),13.37,-9.84,,,
+2023-06-29,Aguadas (GPRS),15.31,-6.77,62.86,8.86,
+2023-06-29,Aiquile (GPRS),30.91,1.75,93.8,34.58,
+2023-06-29,Alto Peñas (GPRS),13.29,5.64,58.28,25.54,
+2023-06-29,Aroma (GPRS),-2.68,-2.68,26.79,26.79,
+2023-06-29,Camiri,14.0,14.0,87.0,87.0,
+2023-06-29,Chimore Aeropuerto,,,,,36.0
+2023-06-29,Chua Cocani_M (GPRS),13.45,-2.99,91.1,18.74,
+2023-06-29,Chuqui Chuqui,23.0,9.0,,,
+2023-06-29,Cobija,23.0,23.0,93.2,93.2,
+2023-06-29,Cochabamba,10.0,10.0,65.8,65.8,
+2023-06-29,Concepcion,20.0,20.0,87.5,87.5,
+2023-06-29,Cuatro Cañadas - CEA-2 (GPRS),24.66,13.96,99.7,65.89,
+2023-06-29,Cuatro Cañadas - Colonia Chihuahua (GPRS),25.28,14.87,99.6,63.41,0.4
+2023-06-29,Culta,,-2.0,,,
+2023-06-29,Desaguadero_M,11.41,-3.95,78.41,42.54,
+2023-06-29,El Alto,2.0,2.0,47.2,47.2,
+2023-06-29,El Villar,19.0,9.0,,,
+2023-06-29,Huarisuyo (GPRS),14.89,-7.49,90.0,16.27,
+2023-06-29,Isla Suriqui_M (GPRS),12.07,0.44,93.3,24.3,
+2023-06-29,Jesús de Machaca_M (GPRS),15.25,-11.84,74.06,12.01,
+2023-06-29,Magdalena,21.0,21.0,99.1,99.1,
+2023-06-29,Mizque - SDC (GPRS),26.03,2.92,93.2,28.12,
+2023-06-29,Oruro,2.0,2.0,55.1,55.1,
+2023-06-29,Pailon - Pozo del Tigre (GPRS),25.06,14.75,98.0,63.52,
+2023-06-29,Pocona - SDC (GPRS),19.64,0.15,96.4,41.23,
+2023-06-29,Pojo - SDC (GPRS),19.64,7.64,78.5,55.23,
+2023-06-29,Potosí,1.0,1.0,40.1,40.1,
+2023-06-29,Puerto Suarez,20.0,20.0,93.1,93.1,
+2023-06-29,Puerto Suarez Aeropuerto (F),20.0,20.0,93.1,93.1,
+2023-06-29,Puerto Villarroel (GPRS),24.75,17.59,91.7,79.48,
+2023-06-29,Putucuni Calientes (GPRS),7.89,-0.47,69.84,7.12,
+2023-06-29,Quila Quila_M (GPRS),19.24,4.0,77.08,34.07,
+2023-06-29,Reyes,23.0,23.0,87.7,87.7,
+2023-06-29,Riberalta,22.0,22.0,87.6,87.6,
+2023-06-29,Robore,19.0,18.0,99.1,93.1,
+2023-06-29,Rurrenabaque,23.0,23.0,93.2,93.2,
+2023-06-29,San Andres de Machaca_M (GPRS),15.33,-0.24,58.65,10.03,
+2023-06-29,San Borja,27.0,27.0,73.5,69.1,
+2023-06-29,San Borja Aeropuerto,,,,,10.3
+2023-06-29,San Joaquin,22.0,22.0,93.2,93.2,
+2023-06-29,San Jose de Chiquitos,28.0,20.0,87.5,57.6,
+2023-06-29,San Julian - Comunidad Los Angeles (GPRS),27.7,15.62,97.3,58.89,
+2023-06-29,San Julian - Nucleo 32 (GPRS),24.25,15.64,,,
+2023-06-29,San Lucas,26.0,-2.0,,,
+2023-06-29,San Pedro - Río Victoria (GPRS),25.6,17.78,92.7,62.15,
+2023-06-29,San Pedro - San Antonio (GPRS),25.62,16.78,92.2,65.32,
+2023-06-29,San Pedro de Buena Vista (GPRS),22.45,8.0,56.79,24.19,
+2023-06-29,San Roque - El Alto (GPRS),16.31,-2.87,61.05,14.64,
+2023-06-29,Santa Ana - Yacuma,22.0,22.0,93.2,93.2,
+2023-06-29,Sauce Pilata - SDC (GPRS),17.57,7.13,95.8,53.73,
+2023-06-29,Sucre SENAMHI,21.0,7.5,64.0,26.0,
+2023-06-29,Sunjani (GPRS),13.65,-6.4,52.49,6.07,
+2023-06-29,Tacagua_M (GPRS),13.69,-2.63,36.3,7.99,
+2023-06-29,Tarija,12.0,12.0,81.2,81.2,
+2023-06-29,Templo (GPRS),11.75,-2.46,35.09,7.67,
+2023-06-29,Temporal - SDC (GPRS),22.87,6.56,45.28,4.81,
+2023-06-29,Tiahuanaco_M (GPRS),14.29,-9.96,88.0,16.85,
+2023-06-29,Trinidad,22.0,22.0,77.4,77.4,
+2023-06-29,Vacas - SDC (GPRS),16.41,-0.13,68.54,25.22,
+2023-06-29,Viacha_M (GPRS),15.38,-6.5,82.8,10.96,
+2023-06-29,Vila Vila - SDC (GPRS),21.71,6.1,77.63,32.19,
+2023-06-29,Villamontes,15.0,15.0,81.5,81.5,
+2023-06-29,Viru Viru,18.0,18.0,76.8,76.8,
+2023-06-29,Viscachas Chirage (GPRS),12.71,-1.66,82.6,25.83,
+2023-06-29,Vivero Chimboco - SDC (GPRS),22.82,3.43,61.92,6.65,
+2023-06-29,Vivero Viloma - SDC (GPRS),24.25,5.13,49.81,19.08,
+2023-06-29,Wila Cala (GPRS),-5.23,-5.57,78.23,75.43,
+2023-06-29,Yacuiba,13.0,13.0,92.8,92.8,
+2023-06-30,4 Esquinas (GPRS),14.67,-10.31,,,
+2023-06-30,Aguadas (GPRS),17.1,-7.49,63.79,6.22,
+2023-06-30,Aiquile (GPRS),31.62,0.36,92.8,27.96,
+2023-06-30,Alto Peñas (GPRS),14.87,2.36,56.74,19.68,
+2023-06-30,Aroma (GPRS),-2.88,-2.88,18.89,18.89,
+2023-06-30,Camiri,28.0,12.0,86.8,86.8,
+2023-06-30,Chua Cocani_M (GPRS),14.5,-2.92,78.55,15.81,
+2023-06-30,Chuqui Chuqui,28.0,11.0,,,
+2023-06-30,Cobija,32.0,21.0,93.2,93.2,
+2023-06-30,Cochabamba,26.0,3.0,60.6,60.6,
+2023-06-30,Concepcion,28.0,17.0,99.1,99.1,
+2023-06-30,Cuatro Cañadas - CEA-2 (GPRS),28.34,16.33,100.0,57.38,
+2023-06-30,Cuatro Cañadas - Colonia Chihuahua (GPRS),29.54,15.97,100.0,52.31,
+2023-06-30,Culta,,-3.0,,,
+2023-06-30,Desaguadero_M,13.96,-5.26,79.77,15.11,
+2023-06-30,El Alto,14.0,0.0,27.6,27.6,
+2023-06-30,El Villar,21.0,9.0,,,
+2023-06-30,Huarisuyo (GPRS),15.84,-10.16,91.9,17.03,
+2023-06-30,Isla Suriqui_M (GPRS),13.19,0.74,87.4,18.59,
+2023-06-30,Jesús de Machaca_M (GPRS),16.43,-12.3,64.72,13.12,
+2023-06-30,Magdalena,33.0,17.0,99.1,99.1,
+2023-06-30,Mizque - SDC (GPRS),26.12,1.95,91.6,19.12,
+2023-06-30,Oruro,17.0,2.0,35.1,35.1,
+2023-06-30,Pailon - Pozo del Tigre (GPRS),29.02,15.6,98.7,52.2,
+2023-06-30,Pocona - SDC (GPRS),24.92,-2.84,95.0,14.83,
+2023-06-30,Pojo - SDC (GPRS),20.23,7.71,73.76,43.59,
+2023-06-30,Potosí,16.0,0.0,46.6,46.6,
+2023-06-30,Puerto Suarez,29.0,16.0,,,
+2023-06-30,Puerto Suarez Aeropuerto (F),29.0,16.0,,,
+2023-06-30,Puerto Villarroel (GPRS),27.96,20.59,90.8,67.98,4.1
+2023-06-30,Putucuni Calientes (GPRS),12.1,-0.06,59.25,6.75,
+2023-06-30,Quila Quila_M (GPRS),21.99,3.54,54.1,8.45,
+2023-06-30,Reyes,31.0,21.0,93.2,93.2,
+2023-06-30,Riberalta,32.0,20.0,93.2,93.2,
+2023-06-30,Robore,28.0,17.0,99.1,99.1,
+2023-06-30,Rurrenabaque,30.0,20.0,99.1,99.1,
+2023-06-30,San Andres de Machaca_M (GPRS),15.61,-0.15,45.62,10.24,
+2023-06-30,San Joaquin,33.0,20.0,99.1,99.1,
+2023-06-30,San Jose de Chiquitos,30.0,15.0,92.9,92.9,
+2023-06-30,San Julian - Comunidad Los Angeles (GPRS),29.8,17.37,97.7,49.05,
+2023-06-30,San Julian - Nucleo 32 (GPRS),29.14,19.37,,,
+2023-06-30,San Lucas,26.0,-3.0,,,
+2023-06-30,San Pedro - Río Victoria (GPRS),28.89,17.72,95.5,59.8,
+2023-06-30,San Pedro - San Antonio (GPRS),29.01,17.97,96.7,61.89,
+2023-06-30,San Pedro de Buena Vista (GPRS),23.9,8.83,45.16,13.49,
+2023-06-30,San Roque - El Alto (GPRS),17.13,-4.37,44.94,13.98,
+2023-06-30,Santa Ana - Yacuma,31.0,20.0,93.2,93.2,
+2023-06-30,Sauce Pilata - SDC (GPRS),19.42,9.55,74.77,38.07,
+2023-06-30,Sucre SENAMHI,24.0,4.5,60.0,12.0,
+2023-06-30,Sunjani (GPRS),15.93,-6.19,54.15,8.15,
+2023-06-30,Tacagua_M (GPRS),14.54,-2.79,33.26,9.34,
+2023-06-30,Tarija,26.0,7.0,92.6,92.6,
+2023-06-30,Templo (GPRS),13.14,-2.19,35.35,4.74,
+2023-06-30,Temporal - SDC (GPRS),23.37,6.6,40.66,1.6,
+2023-06-30,Tiahuanaco_M (GPRS),16.37,-10.08,83.2,13.55,
+2023-06-30,Trinidad,30.0,21.0,87.5,87.5,
+2023-06-30,Vacas - SDC (GPRS),17.34,0.26,62.96,15.63,
+2023-06-30,Viacha_M (GPRS),16.43,-9.13,76.71,9.14,
+2023-06-30,Vila Vila - SDC (GPRS),23.82,6.38,57.27,14.98,
+2023-06-30,Villamontes,21.0,10.0,92.7,92.7,
+2023-06-30,Viru Viru,28.0,16.0,87.2,87.2,
+2023-06-30,Viscachas Chirage (GPRS),15.48,-2.48,65.0,11.35,
+2023-06-30,Vivero Chimboco - SDC (GPRS),24.17,2.89,58.69,3.05,
+2023-06-30,Vivero Viloma - SDC (GPRS),26.83,5.5,46.97,5.52,
+2023-06-30,Wila Cala (GPRS),-4.23,-5.13,72.9,68.46,
+2023-06-30,Yacuiba,19.0,12.0,81.2,81.2,
+2023-07-01,4 Esquinas (GPRS),14.97,-9.16,,,
+2023-07-01,Aguadas (GPRS),17.34,-6.05,60.89,7.3,
+2023-07-01,Aiquile (GPRS),30.14,0.67,94.1,28.93,
+2023-07-01,Alto Peñas (GPRS),14.17,1.3,37.19,18.62,
+2023-07-01,Aroma (GPRS),-2.95,-2.95,18.23,18.23,
+2023-07-01,Camiri,14.0,14.0,87.0,87.0,
+2023-07-01,Chua Cocani_M (GPRS),13.71,-1.62,85.7,14.57,
+2023-07-01,Cobija,21.0,21.0,99.1,99.1,
+2023-07-01,Cochabamba,7.0,7.0,56.4,56.4,
+2023-07-01,Concepcion,18.0,18.0,99.1,99.1,
+2023-07-01,Cuatro Cañadas - CEA-2 (GPRS),29.78,17.24,98.4,49.83,
+2023-07-01,Cuatro Cañadas - Colonia Chihuahua (GPRS),31.31,15.13,99.3,42.09,
+2023-07-01,Desaguadero_M,15.27,-6.95,67.09,10.48,
+2023-07-01,El Alto,3.0,3.0,13.9,13.9,
+2023-07-01,Huarisuyo (GPRS),15.18,-7.58,59.91,15.39,
+2023-07-01,Isla Suriqui_M (GPRS),13.84,0.28,77.14,12.53,
+2023-07-01,Jesús de Machaca_M (GPRS),16.55,-13.67,61.72,8.36,
+2023-07-01,Magdalena,20.0,20.0,93.1,93.1,
+2023-07-01,Mizque - SDC (GPRS),26.15,2.93,93.2,18.99,
+2023-07-01,Oruro,17.0,5.0,51.8,27.1,
+2023-07-01,Pailon - Pozo del Tigre (GPRS),30.92,17.88,88.9,39.88,
+2023-07-01,Pocona - SDC (GPRS),23.05,-0.45,94.7,24.09,
+2023-07-01,Pojo - SDC (GPRS),19.11,7.97,77.09,47.33,
+2023-07-01,Puerto Suarez,29.0,24.0,82.6,65.0,
+2023-07-01,Puerto Suarez Aeropuerto (F),29.0,24.0,82.6,65.0,
+2023-07-01,Puerto Villarroel (GPRS),29.55,21.22,91.1,63.65,
+2023-07-01,Putucuni Calientes (GPRS),12.0,0.82,42.69,6.3,
+2023-07-01,Quila Quila_M (GPRS),21.86,3.34,61.41,11.85,
+2023-07-01,Riberalta,21.0,21.0,93.2,93.2,
+2023-07-01,San Andres de Machaca_M (GPRS),16.55,-1.52,31.31,6.32,
+2023-07-01,San Julian - Comunidad Los Angeles (GPRS),31.56,17.06,96.8,45.27,
+2023-07-01,San Julian - Nucleo 32 (GPRS),31.16,18.72,,,
+2023-07-01,San Pedro - Río Victoria (GPRS),29.97,17.31,95.6,55.79,
+2023-07-01,San Pedro - San Antonio (GPRS),30.55,18.76,94.9,54.44,
+2023-07-01,San Pedro de Buena Vista (GPRS),23.85,8.32,49.25,12.17,
+2023-07-01,San Roque - El Alto (GPRS),17.7,-2.53,46.63,11.49,
+2023-07-01,Santa Ana - Yacuma,21.0,21.0,93.2,93.2,
+2023-07-01,Sauce Pilata - SDC (GPRS),18.24,8.2,87.4,34.75,
+2023-07-01,Sunjani (GPRS),16.62,-4.73,51.8,5.11,
+2023-07-01,Tacagua_M (GPRS),14.61,-3.12,29.87,7.87,
+2023-07-01,Tarija,7.0,7.0,86.4,86.4,
+2023-07-01,Templo (GPRS),13.8,-0.06,37.89,5.42,
+2023-07-01,Temporal - SDC (GPRS),24.46,6.74,31.71,0.65,
+2023-07-01,Tiahuanaco_M (GPRS),15.65,-11.0,71.98,11.35,
+2023-07-01,Trinidad,22.0,22.0,87.6,87.6,
+2023-07-01,Vacas - SDC (GPRS),18.1,1.24,53.93,11.02,
+2023-07-01,Viacha_M (GPRS),17.3,-11.42,65.39,10.72,
+2023-07-01,Vila Vila - SDC (GPRS),22.78,3.63,71.36,16.11,
+2023-07-01,Viru Viru,20.0,20.0,87.5,87.5,
+2023-07-01,Viscachas Chirage (GPRS),15.37,0.51,59.4,7.0,
+2023-07-01,Vivero Chimboco - SDC (GPRS),25.0,3.31,54.59,4.76,
+2023-07-01,Vivero Viloma - SDC (GPRS),26.43,6.52,37.22,5.32,
+2023-07-01,Wila Cala (GPRS),-3.64,-4.35,55.29,49.76,
+2023-07-02,Aguadas (GPRS),18.2,-6.89,45.57,7.6,
+2023-07-02,Aiquile (GPRS),34.7,0.48,92.5,16.22,
+2023-07-02,Alto Peñas (GPRS),15.54,1.86,37.77,12.51,
+2023-07-02,Aroma (GPRS),-4.56,-4.56,23.09,23.09,
+2023-07-02,Camiri,29.0,16.0,87.2,87.2,
+2023-07-02,Chua Cocani_M (GPRS),14.62,-2.33,81.9,8.51,
+2023-07-02,Cobija,20.0,20.0,93.1,93.1,
+2023-07-02,Cochabamba,8.0,8.0,48.9,48.9,
+2023-07-02,Concepcion,16.0,16.0,93.0,93.0,
+2023-07-02,Cuatro Cañadas - CEA-2 (GPRS),29.59,19.48,88.5,47.74,
+2023-07-02,Cuatro Cañadas - Colonia Chihuahua (GPRS),31.89,17.03,95.3,42.87,
+2023-07-02,Desaguadero_M,12.73,-7.01,82.6,13.27,
+2023-07-02,El Alto,3.0,3.0,25.2,25.2,
+2023-07-02,Huarisuyo (GPRS),16.48,-7.61,48.29,11.16,
+2023-07-02,Isla Suriqui_M (GPRS),15.02,0.42,89.3,12.08,
+2023-07-02,Jesús de Machaca_M (GPRS),16.5,-11.0,48.88,6.93,
+2023-07-02,Mizque - SDC (GPRS),28.79,1.16,89.6,10.2,
+2023-07-02,Pailon - Pozo del Tigre (GPRS),30.93,17.82,90.8,42.81,
+2023-07-02,Pocona - SDC (GPRS),28.52,-1.65,92.1,8.61,
+2023-07-02,Pojo - SDC (GPRS),23.63,9.21,76.18,36.08,
+2023-07-02,Puerto Villarroel (GPRS),29.9,21.6,91.6,63.58,
+2023-07-02,Putucuni Calientes (GPRS),11.52,3.41,19.56,10.16,
+2023-07-02,Quila Quila_M (GPRS),24.16,4.53,31.61,6.24,
+2023-07-02,Riberalta,21.0,21.0,93.2,93.2,
+2023-07-02,San Andres de Machaca_M (GPRS),17.43,0.51,37.61,7.83,
+2023-07-02,San Julian - Comunidad Los Angeles (GPRS),30.91,18.82,90.4,46.11,
+2023-07-02,San Julian - Nucleo 32 (GPRS),30.25,18.71,,,
+2023-07-02,San Pedro - Río Victoria (GPRS),30.42,19.09,91.0,54.66,
+2023-07-02,San Pedro - San Antonio (GPRS),30.26,19.5,89.4,50.83,
+2023-07-02,San Pedro de Buena Vista (GPRS),26.83,9.53,18.63,8.3,
+2023-07-02,San Roque - El Alto (GPRS),18.92,-4.33,40.53,8.81,
+2023-07-02,Santa Ana - Yacuma,21.0,21.0,93.2,93.2,
+2023-07-02,Sauce Pilata - SDC (GPRS),22.75,10.39,57.12,15.49,
+2023-07-02,Sunjani (GPRS),17.35,-4.85,38.01,7.62,
+2023-07-02,Tacagua_M (GPRS),14.81,-2.66,31.81,6.8,
+2023-07-02,Tarija,26.0,6.0,99.2,33.9,
+2023-07-02,Templo (GPRS),14.14,2.8,25.49,7.76,
+2023-07-02,Temporal - SDC (GPRS),25.76,7.15,27.48,3.54,
+2023-07-02,Tiahuanaco_M (GPRS),16.31,-11.72,69.52,9.5,
+2023-07-02,Trinidad,21.0,21.0,87.5,87.5,
+2023-07-02,Vacas - SDC (GPRS),18.44,3.36,41.95,6.89,
+2023-07-02,Viacha_M (GPRS),17.35,-11.48,56.97,7.32,
+2023-07-02,Vila Vila - SDC (GPRS),27.65,3.5,48.06,5.38,
+2023-07-02,Viru Viru,21.0,21.0,93.2,93.2,
+2023-07-02,Viscachas Chirage (GPRS),17.89,-0.44,29.47,5.91,
+2023-07-02,Vivero Chimboco - SDC (GPRS),27.05,2.87,40.98,3.78,
+2023-07-02,Vivero Viloma - SDC (GPRS),27.9,5.15,38.33,7.65,
+2023-07-02,Wila Cala (GPRS),-1.83,-3.32,61.61,58.7,
+2023-07-03,Aroma (GPRS),-1.92,-1.92,26.53,26.53,
+2023-07-03,Camiri,,,87.4,87.4,
+2023-07-03,Cobija,,,99.1,99.1,
+2023-07-03,Cochabamba,6.0,6.0,60.4,60.4,
+2023-07-03,Concepcion,,,93.0,93.0,
+2023-07-03,El Alto,4.0,4.0,19.8,19.8,
+2023-07-03,Magdalena,,,93.0,93.0,
+2023-07-03,Oruro,,,35.4,35.4,
+2023-07-03,Potosí,,,54.5,54.5,
+2023-07-03,Puerto Suarez,,,82.4,82.4,
+2023-07-03,Puerto Suarez Aeropuerto (F),,,82.4,82.4,
+2023-07-03,Reyes,,,99.1,99.1,
+2023-07-03,Riberalta,,,93.1,93.1,
+2023-07-03,Robore,,,92.8,92.8,
+2023-07-03,Rurrenabaque,,,99.1,99.1,
+2023-07-03,San Javier,,,93.0,93.0,
+2023-07-03,San Javier Aeropuerto (F),,,93.0,93.0,
+2023-07-03,San Joaquin,,,99.1,99.1,
+2023-07-03,San Jose de Chiquitos,,,87.2,87.2,
+2023-07-03,Santa Ana - Yacuma,,,87.5,87.5,
+2023-07-03,Tarija,,,92.6,92.6,
+2023-07-03,Trinidad,,,87.5,87.5,
+2023-07-03,Villamontes,,,99.1,99.1,
+2023-07-03,Viru Viru,21.0,21.0,82.2,82.2,
+2023-07-03,Wila Cala (GPRS),-0.95,-1.41,47.2,43.1,
+2023-07-03,Yacuiba,,,93.0,93.0,
