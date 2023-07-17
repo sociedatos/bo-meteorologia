@@ -124,6 +124,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-01,San Calixto,18.8,6.2,,,
 2023-01-01,San Ignacio de Velasco Aerop,31.8,20.8,,,3.2
 2023-01-01,San Jacinto Sud,35.0,15.0,,,
+2023-01-01,San Jacinto_M (GPRS),31.64,18.09,86.1,32.58,
 2023-01-01,San Javier Aeropuerto,31.8,20.9,,,25.0
 2023-01-01,San Josecito,,,,,7.0
 2023-01-01,San Julian,,,,,9.2
@@ -346,6 +347,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-02,San Calixto,14.2,6.8,,,60.6
 2023-01-02,San Ignacio de Velasco Aerop,31.6,21.2,,,
 2023-01-02,San Jacinto Sud,28.5,18.0,,,
+2023-01-02,San Jacinto_M (GPRS),24.46,13.06,93.2,51.76,
 2023-01-02,San Javier,30.0,30.0,69.7,69.7,
 2023-01-02,San Javier Aeropuerto,30.0,21.7,,,
 2023-01-02,San Javier Aeropuerto (F),30.0,30.0,69.7,69.7,
@@ -577,6 +579,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-03,San Calixto,21.4,5.4,,,9.2
 2023-01-03,San Ignacio de Velasco Aerop,25.8,20.3,,,12.8
 2023-01-03,San Jacinto Sud,23.0,14.5,,,
+2023-01-03,San Jacinto_M (GPRS),18.48,12.37,98.4,66.41,0.3
 2023-01-03,San Javier,28.0,23.0,99.1,73.6,
 2023-01-03,San Javier Aeropuerto,29.5,19.8,,,0.3
 2023-01-03,San Javier Aeropuerto (F),28.0,23.0,99.1,73.6,
@@ -819,6 +822,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-04,San Calixto,17.8,5.0,,,
 2023-01-04,San Ignacio de Velasco Aerop,23.1,18.6,,,15.8
 2023-01-04,San Jacinto Sud,25.0,13.0,,,8.0
+2023-01-04,San Jacinto_M (GPRS),21.52,8.87,96.2,42.67,8.1
 2023-01-04,San Javier Aeropuerto,20.1,15.7,,,45.1
 2023-01-04,San Joaquin,30.0,19.0,93.3,93.3,
 2023-01-04,San Joaquin Aeropuerto,30.6,23.7,,,2.1
@@ -1053,6 +1057,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-05,San Ignacio de Moxos Aerop,,,,,20.7
 2023-01-05,San Ignacio de Velasco Aerop,30.8,18.5,,,9.6
 2023-01-05,San Jacinto Sud,28.0,9.5,,,1.0
+2023-01-05,San Jacinto_M (GPRS),24.72,11.66,86.1,27.57,1.6
 2023-01-05,San Javier,21.0,21.0,87.6,87.6,
 2023-01-05,San Javier Aeropuerto,29.7,16.9,,,12.6
 2023-01-05,San Javier Aeropuerto (F),21.0,21.0,87.6,87.6,
@@ -1284,6 +1289,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-06,San Calixto,17.6,5.4,,,1.4
 2023-01-06,San Ignacio de Velasco Aerop,32.0,18.0,,,
 2023-01-06,San Jacinto Sud,26.0,11.0,,,
+2023-01-06,San Jacinto_M (GPRS),25.26,11.08,89.4,29.46,
 2023-01-06,San Javier Aeropuerto,31.8,16.9,,,
 2023-01-06,San Joaquin,32.0,24.0,87.8,87.8,
 2023-01-06,San Joaquin Aeropuerto,33.0,19.9,,,
@@ -1488,6 +1494,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-07,San Calixto,18.8,6.0,,,
 2023-01-07,San Ignacio de Velasco Aerop,33.8,18.2,,,
 2023-01-07,San Jacinto Sud,30.5,12.0,,,
+2023-01-07,San Jacinto_M (GPRS),25.53,13.64,98.0,36.92,
 2023-01-07,San Javier,31.0,28.0,65.2,54.8,
 2023-01-07,San Javier Aeropuerto,32.5,17.0,,,
 2023-01-07,San Javier Aeropuerto (F),31.0,28.0,65.2,54.8,
@@ -1687,6 +1694,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-08,San Calixto,19.4,6.8,,,
 2023-01-08,San Ignacio de Velasco Aerop,33.5,19.3,,,
 2023-01-08,San Jacinto Sud,26.0,15.0,,,13.5
+2023-01-08,San Jacinto_M (GPRS),20.92,13.17,99.1,59.01,12.9
 2023-01-08,San Javier Aeropuerto,33.0,19.1,,,
 2023-01-08,San Joaquin Aeropuerto,34.8,,,,
 2023-01-08,San Julian - Comunidad Los Angeles (GPRS),35.92,25.53,93.9,45.57,
@@ -1913,6 +1921,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-09,San Calixto,20.2,6.6,,,
 2023-01-09,San Ignacio de Velasco Aerop,31.0,20.2,,,
 2023-01-09,San Jacinto Sud,26.5,14.0,,,16.5
+2023-01-09,San Jacinto_M (GPRS),22.16,12.97,96.1,57.64,29.1
 2023-01-09,San Javier,25.0,25.0,87.9,87.9,
 2023-01-09,San Javier Aeropuerto,30.0,22.6,,,
 2023-01-09,San Javier Aeropuerto (F),25.0,25.0,87.9,87.9,
@@ -2147,6 +2156,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-10,San Ignacio de Moxos Aerop,,,,,2.2
 2023-01-10,San Ignacio de Velasco Aerop,32.0,19.5,,,
 2023-01-10,San Jacinto Sud,29.0,13.5,,,1.5
+2023-01-10,San Jacinto_M (GPRS),26.18,11.45,98.0,45.84,1.3
 2023-01-10,San Javier Aeropuerto,31.0,19.0,,,41.0
 2023-01-10,San Joaquin,31.0,26.0,69.5,69.5,
 2023-01-10,San Joaquin Aeropuerto,31.8,23.3,,,
@@ -2359,6 +2369,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-11,San Calixto,22.0,7.8,,,
 2023-01-11,San Ignacio de Velasco Aerop,32.5,20.3,,,
 2023-01-11,San Jacinto Sud,30.0,11.0,,,
+2023-01-11,San Jacinto_M (GPRS),26.62,13.29,98.5,40.49,
 2023-01-11,San Javier,30.0,25.0,93.4,73.8,
 2023-01-11,San Javier Aeropuerto,30.8,17.6,,,3.3
 2023-01-11,San Javier Aeropuerto (F),30.0,25.0,93.4,73.8,
@@ -2581,6 +2592,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-12,San Calixto,21.4,7.4,,,
 2023-01-12,San Ignacio de Velasco Aerop,30.5,20.5,,,1.0
 2023-01-12,San Jacinto Sud,32.0,13.0,,,6.5
+2023-01-12,San Jacinto_M (GPRS),28.42,15.67,90.8,36.11,4.0
 2023-01-12,San Javier Aeropuerto,29.6,19.3,,,10.8
 2023-01-12,San Joaquin,33.0,26.0,87.9,87.9,
 2023-01-12,San Joaquin Aeropuerto,33.4,23.2,,,
@@ -2798,6 +2810,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-13,San Calixto,23.8,7.6,,,
 2023-01-13,San Ignacio de Velasco Aerop,30.5,20.0,,,8.2
 2023-01-13,San Jacinto Sud,19.0,15.5,,,
+2023-01-13,San Jacinto_M (GPRS),13.82,12.0,94.7,76.6,7.9
 2023-01-13,San Javier,22.0,22.0,99.1,99.1,
 2023-01-13,San Javier Aeropuerto,31.0,21.4,,,3.1
 2023-01-13,San Javier Aeropuerto (F),22.0,22.0,99.1,99.1,
@@ -3000,6 +3013,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-14,San Calixto,21.8,6.0,,,
 2023-01-14,San Ignacio de Velasco Aerop,21.0,18.2,,,15.3
 2023-01-14,San Jacinto Sud,28.0,8.0,,,9.0
+2023-01-14,San Jacinto_M (GPRS),23.45,9.06,96.7,42.1,0.2
 2023-01-14,San Javier Aeropuerto,22.2,17.0,,,54.2
 2023-01-14,San Juan Del Potrero,,,,,33.5
 2023-01-14,San Juan de Yapacaní,,,,,51.0
@@ -3188,6 +3202,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-15,San Calixto,21.2,7.0,,,
 2023-01-15,San Ignacio de Velasco Aerop,30.2,19.2,,,48.9
 2023-01-15,San Jacinto Sud,29.5,9.0,,,
+2023-01-15,San Jacinto_M (GPRS),25.04,11.44,95.7,41.32,
 2023-01-15,San Javier,30.0,22.0,93.2,65.6,
 2023-01-15,San Javier Aeropuerto,30.0,16.8,,,13.1
 2023-01-15,San Javier Aeropuerto (F),30.0,22.0,93.2,65.6,
@@ -3387,6 +3402,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-16,San Ignacio de Moxos Aerop,,,,,118.8
 2023-01-16,San Ignacio de Velasco Aerop,32.8,19.0,,,
 2023-01-16,San Jacinto Sud,30.0,10.5,,,
+2023-01-16,San Jacinto_M (GPRS),25.93,12.11,93.6,40.71,
 2023-01-16,San Javier,30.0,22.0,93.2,65.6,
 2023-01-16,San Javier Aeropuerto,32.0,17.4,,,
 2023-01-16,San Javier Aeropuerto (F),30.0,22.0,93.2,65.6,
@@ -3601,6 +3617,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-17,San Calixto,20.0,7.6,,,
 2023-01-17,San Ignacio de Velasco Aerop,26.5,19.0,,,2.5
 2023-01-17,San Jacinto Sud,32.0,12.0,,,
+2023-01-17,San Jacinto_M (GPRS),27.43,15.98,87.3,36.34,
 2023-01-17,San Javier,22.0,21.0,99.1,99.1,
 2023-01-17,San Javier Aeropuerto,28.9,18.7,,,
 2023-01-17,San Javier Aeropuerto (F),22.0,21.0,99.1,99.1,
@@ -3823,6 +3840,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-18,San Ignacio de Moxos Aerop,,,,,4.3
 2023-01-18,San Ignacio de Velasco Aerop,31.0,19.3,,,7.0
 2023-01-18,San Jacinto Sud,32.5,16.0,,,
+2023-01-18,San Jacinto_M (GPRS),27.87,13.67,92.0,29.49,
 2023-01-18,San Javier Aeropuerto,30.7,18.4,,,
 2023-01-18,San Joaquin,30.0,23.0,99.1,99.1,
 2023-01-18,San Joaquin Aeropuerto,32.0,22.0,,,8.3
@@ -4057,6 +4075,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-19,San Ignacio de Moxos Aerop,,,,,4.4
 2023-01-19,San Ignacio de Velasco Aerop,32.5,19.8,,,3.2
 2023-01-19,San Jacinto Sud,31.0,13.5,,,
+2023-01-19,San Jacinto_M (GPRS),26.8,15.9,88.7,39.24,
 2023-01-19,San Javier,29.0,26.0,78.2,73.6,
 2023-01-19,San Javier Aeropuerto,29.3,20.3,,,
 2023-01-19,San Javier Aeropuerto (F),29.0,26.0,78.2,73.6,
@@ -4285,6 +4304,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-20,San Calixto,20.0,6.2,,,0.4
 2023-01-20,San Ignacio de Velasco Aerop,32.8,20.0,,,
 2023-01-20,San Jacinto Sud,36.0,12.0,,,
+2023-01-20,San Jacinto_M (GPRS),30.82,13.98,85.7,22.5,2.4
 2023-01-20,San Javier Aeropuerto,32.8,18.0,,,
 2023-01-20,San Joaquin,31.0,26.0,87.9,87.9,
 2023-01-20,San Joaquin Aeropuerto,32.0,22.2,,,
@@ -4479,6 +4499,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-21,San Calixto,21.2,7.0,,,
 2023-01-21,San Ignacio de Velasco Aerop,32.0,20.3,,,
 2023-01-21,San Jacinto Sud,35.0,12.5,,,
+2023-01-21,San Jacinto_M (GPRS),30.81,16.31,88.4,23.03,
 2023-01-21,San Javier,24.0,24.0,87.8,87.8,
 2023-01-21,San Javier Aeropuerto,31.8,19.1,,,
 2023-01-21,San Javier Aeropuerto (F),24.0,24.0,87.8,87.8,
@@ -4662,6 +4683,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-22,San Calixto,20.2,7.8,,,
 2023-01-22,San Ignacio de Velasco Aerop,32.8,20.5,,,
 2023-01-22,San Jacinto Sud,32.0,17.0,,,
+2023-01-22,San Jacinto_M (GPRS),27.89,17.19,96.1,43.67,
 2023-01-22,San Javier Aeropuerto,32.3,20.4,,,
 2023-01-22,San Julian - Comunidad Los Angeles (GPRS),34.08,24.42,93.3,54.64,
 2023-01-22,San Julian - Nucleo 32 (GPRS),32.79,24.68,,,
@@ -4873,6 +4895,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-23,San Calixto,19.6,8.0,,,
 2023-01-23,San Ignacio de Velasco Aerop,33.0,20.5,,,
 2023-01-23,San Jacinto Sud,23.0,19.0,,,1.5
+2023-01-23,San Jacinto_M (GPRS),19.53,12.09,98.6,70.57,4.4
 2023-01-23,San Javier,31.0,27.0,78.2,65.6,
 2023-01-23,San Javier Aeropuerto,31.8,19.8,,,
 2023-01-23,San Javier Aeropuerto (F),31.0,27.0,78.2,65.6,
@@ -5104,6 +5127,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-24,San Calixto,22.2,8.8,,,
 2023-01-24,San Ignacio de Velasco Aerop,31.4,21.1,,,
 2023-01-24,San Jacinto Sud,33.0,12.0,,,1.0
+2023-01-24,San Jacinto_M (GPRS),27.96,15.87,96.1,48.49,
 2023-01-24,San Javier Aeropuerto,28.5,22.0,,,25.1
 2023-01-24,San Joaquin,31.0,25.0,87.9,87.9,
 2023-01-24,San Joaquin Aeropuerto,31.2,23.4,,,
@@ -5338,6 +5362,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-25,San Calixto,20.2,7.6,,,1.8
 2023-01-25,San Ignacio de Velasco Aerop,33.3,20.5,,,
 2023-01-25,San Jacinto Sud,34.0,16.0,,,
+2023-01-25,San Jacinto_M (GPRS),28.44,15.14,97.7,38.34,
 2023-01-25,San Javier,23.0,23.0,99.1,99.1,
 2023-01-25,San Javier Aeropuerto,32.9,20.0,,,2.8
 2023-01-25,San Javier Aeropuerto (F),23.0,23.0,99.1,99.1,
@@ -5571,6 +5596,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-26,San Calixto,19.4,6.8,,,
 2023-01-26,San Ignacio de Velasco Aerop,25.8,21.0,,,1.0
 2023-01-26,San Jacinto Sud,32.0,16.0,,,16.5
+2023-01-26,San Jacinto_M (GPRS),28.22,15.67,93.5,41.02,17.0
 2023-01-26,San Javier Aeropuerto,29.4,19.8,,,23.8
 2023-01-26,San Joaquin,32.0,29.0,,,
 2023-01-26,San Joaquin Aeropuerto,33.3,,,,
@@ -5800,6 +5826,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-27,San Calixto,18.0,7.8,,,4.3
 2023-01-27,San Ignacio de Velasco Aerop,30.0,21.0,,,3.2
 2023-01-27,San Jacinto Sud,33.5,15.5,,,
+2023-01-27,San Jacinto_M (GPRS),28.76,15.25,95.4,33.57,
 2023-01-27,San Javier,28.0,24.0,99.1,78.2,
 2023-01-27,San Javier Aeropuerto,28.5,21.0,,,43.9
 2023-01-27,San Javier Aeropuerto (F),28.0,24.0,99.1,78.2,
@@ -6030,6 +6057,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-28,San Calixto,17.0,8.0,,,5.2
 2023-01-28,San Ignacio de Velasco Aerop,31.3,21.5,,,
 2023-01-28,San Jacinto Sud,26.0,16.0,,,10.3
+2023-01-28,San Jacinto_M (GPRS),21.17,16.17,94.5,70.19,2.3
 2023-01-28,San Javier Aeropuerto,29.8,22.2,,,1.2
 2023-01-28,San Juan de Yapacaní,,,,,18.2
 2023-01-28,San Julian - Comunidad Los Angeles (GPRS),31.94,23.06,99.1,69.11,
@@ -6257,6 +6285,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-29,San Calixto,16.6,7.0,,,7.2
 2023-01-29,San Ignacio de Velasco Aerop,28.0,20.5,,,9.6
 2023-01-29,San Jacinto Sud,29.0,16.5,,,0.5
+2023-01-29,San Jacinto_M (GPRS),23.98,15.01,93.1,53.44,0.6
 2023-01-29,San Javier,22.0,22.0,99.1,99.1,
 2023-01-29,San Javier Aeropuerto,26.7,21.2,,,
 2023-01-29,San Javier Aeropuerto (F),22.0,22.0,99.1,99.1,
@@ -6505,6 +6534,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-30,San Ignacio de Moxos Aerop,,,,,159.6
 2023-01-30,San Ignacio de Velasco Aerop,28.0,21.0,,,5.3
 2023-01-30,San Jacinto Sud,31.5,14.0,,,
+2023-01-30,San Jacinto_M (GPRS),25.38,16.21,98.8,52.74,
 2023-01-30,San Javier Aeropuerto,28.9,18.8,,,20.3
 2023-01-30,San Joaquin,24.0,24.0,93.3,93.3,
 2023-01-30,San Joaquin Aeropuerto,,22.2,,,8.2
@@ -6757,6 +6787,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-01-31,San Ignacio de Moxos Aerop,,,,,13.0
 2023-01-31,San Ignacio de Velasco Aerop,29.8,20.0,,,6.2
 2023-01-31,San Jacinto Sud,27.0,16.0,,,18.5
+2023-01-31,San Jacinto_M (GPRS),23.57,15.5,95.9,55.27,12.3
 2023-01-31,San Javier,29.0,24.0,82.8,69.5,
 2023-01-31,San Javier Aeropuerto,29.6,19.0,,,1.8
 2023-01-31,San Javier Aeropuerto (F),29.0,24.0,82.8,69.5,
@@ -7005,6 +7036,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-01,San Calixto,16.2,5.0,,,30.4
 2023-02-01,San Ignacio de Velasco Aerop,29.1,20.1,,,5.3
 2023-02-01,San Jacinto Sud,29.5,16.5,,,11.2
+2023-02-01,San Jacinto_M (GPRS),26.13,14.91,96.0,48.48,10.8
 2023-02-01,San Javier Aeropuerto,28.4,21.0,,,28.6
 2023-02-01,San Joaquin,30.0,25.0,87.9,87.9,
 2023-02-01,San Joaquin Aeropuerto,30.0,22.2,,,
@@ -7245,6 +7277,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-02,San Calixto,18.0,7.0,,,0.4
 2023-02-02,San Ignacio de Velasco Aerop,30.8,20.5,,,2.9
 2023-02-02,San Jacinto Sud,30.5,15.0,,,
+2023-02-02,San Jacinto_M (GPRS),25.3,24.28,52.07,48.35,
 2023-02-02,San Javier Aeropuerto,29.0,21.2,,,5.9
 2023-02-02,San Joaquin,24.0,24.0,93.3,93.3,
 2023-02-02,San Joaquin Aeropuerto,32.6,22.0,,,14.9
@@ -7476,6 +7509,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-03,San Calixto,17.8,7.2,,,0.3
 2023-02-03,San Ignacio de Velasco Aerop,29.4,21.0,,,
 2023-02-03,San Jacinto Sud,26.0,15.0,,,4.5
+2023-02-03,San Jacinto_M (GPRS),22.24,12.8,95.3,46.8,7.1
 2023-02-03,San Javier Aeropuerto,24.7,19.6,,,
 2023-02-03,San Joaquin Aeropuerto,32.1,22.0,,,34.7
 2023-02-03,San Jose de Chiquitos Aerop,,23.1,,,
@@ -7690,6 +7724,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-04,San Ignacio de Moxos Aerop,,,,,84.9
 2023-02-04,San Ignacio de Velasco Aerop,31.0,20.3,,,2.6
 2023-02-04,San Jacinto Sud,20.5,13.5,,,2.5
+2023-02-04,San Jacinto_M (GPRS),20.17,13.1,95.7,63.84,2.3
 2023-02-04,San Javier Aeropuerto,28.9,17.9,,,
 2023-02-04,San Joaquin Aeropuerto,32.3,,,,
 2023-02-04,San Juan de Yapacaní,,,,,0.2
@@ -7907,6 +7942,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-05,San Calixto,17.2,5.0,,,21.4
 2023-02-05,San Ignacio de Velasco Aerop,31.8,21.5,,,
 2023-02-05,San Jacinto Sud,26.5,13.5,,,1.6
+2023-02-05,San Jacinto_M (GPRS),21.69,14.46,97.8,60.54,1.8
 2023-02-05,San Javier Aeropuerto,29.8,18.7,,,
 2023-02-05,San Joaquin Aeropuerto,31.5,21.9,,,18.2
 2023-02-05,San Juan Del Potrero,,,,,7.0
@@ -8156,6 +8192,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-06,San Ignacio de Moxos Aerop,,,,,54.4
 2023-02-06,San Ignacio de Velasco Aerop,30.0,20.3,,,12.4
 2023-02-06,San Jacinto Sud,29.0,16.0,,,3.0
+2023-02-06,San Jacinto_M (GPRS),24.67,13.9,99.1,53.7,1.2
 2023-02-06,San Javier Aeropuerto,29.4,20.9,,,0.3
 2023-02-06,San Joaquin,31.0,29.0,73.8,61.9,
 2023-02-06,San Joaquin Aeropuerto,31.7,21.6,,,
@@ -8417,6 +8454,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-07,San Ignacio de Moxos Aerop,,,,,4.6
 2023-02-07,San Ignacio de Velasco Aerop,29.6,21.2,,,1.0
 2023-02-07,San Jacinto Sud,29.0,15.0,,,6.3
+2023-02-07,San Jacinto_M (GPRS),24.36,10.12,98.1,40.65,14.9
 2023-02-07,San Javier,30.0,23.0,93.3,65.6,
 2023-02-07,San Javier Aeropuerto,31.0,20.5,,,18.3
 2023-02-07,San Javier Aeropuerto (F),30.0,23.0,93.3,65.6,
@@ -8671,6 +8709,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-08,San Calixto,14.8,6.4,,,6.4
 2023-02-08,San Ignacio de Velasco Aerop,30.5,21.0,,,2.1
 2023-02-08,San Jacinto Sud,31.0,10.0,,,
+2023-02-08,San Jacinto_M (GPRS),27.0,16.84,87.0,31.7,
 2023-02-08,San Javier,22.0,22.0,99.1,93.2,
 2023-02-08,San Javier Aeropuerto,31.9,18.4,,,2.0
 2023-02-08,San Javier Aeropuerto (F),22.0,22.0,99.1,93.2,
@@ -8924,6 +8963,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-09,San Ignacio de Moxos Aerop,,,,,2.4
 2023-02-09,San Ignacio de Velasco Aerop,31.5,21.0,,,
 2023-02-09,San Jacinto Sud,33.0,17.0,,,
+2023-02-09,San Jacinto_M (GPRS),28.09,14.61,98.9,32.33,
 2023-02-09,San Javier,23.0,22.0,93.3,87.6,
 2023-02-09,San Javier Aeropuerto,32.4,18.5,,,
 2023-02-09,San Javier Aeropuerto (F),23.0,22.0,93.3,87.6,
@@ -9171,6 +9211,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-10,San Ignacio de Moxos Aerop,,,,,4.7
 2023-02-10,San Ignacio de Velasco Aerop,31.0,20.3,,,1.3
 2023-02-10,San Jacinto Sud,29.0,16.5,,,14.3
+2023-02-10,San Jacinto_M (GPRS),25.91,14.51,97.7,47.61,33.0
 2023-02-10,San Javier Aeropuerto,30.5,21.9,,,
 2023-02-10,San Joaquin,32.0,25.0,88.0,62.2,
 2023-02-10,San Joaquin Aeropuerto,32.7,22.1,,,
@@ -9393,6 +9434,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-11,San Calixto,18.6,7.4,,,3.2
 2023-02-11,San Ignacio de Velasco Aerop,32.5,20.0,,,
 2023-02-11,San Jacinto Sud,30.0,14.0,,,
+2023-02-11,San Jacinto_M (GPRS),26.99,13.01,99.1,40.64,0.6
 2023-02-11,San Javier,30.0,25.0,93.4,65.6,
 2023-02-11,San Javier Aeropuerto,30.8,22.0,,,4.4
 2023-02-11,San Javier Aeropuerto (F),30.0,25.0,93.4,65.6,
@@ -9610,6 +9652,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-12,San Calixto,19.6,8.4,,,0.2
 2023-02-12,San Ignacio de Velasco Aerop,30.0,20.8,,,
 2023-02-12,San Jacinto Sud,33.0,13.5,,,2.5
+2023-02-12,San Jacinto_M (GPRS),28.09,15.34,95.6,43.72,3.3
 2023-02-12,San Javier Aeropuerto,31.6,21.8,,,10.3
 2023-02-12,San Joaquin Aeropuerto,32.4,,,,
 2023-02-12,San Julian - Comunidad Los Angeles (GPRS),32.62,23.77,96.8,66.8,8.2
@@ -9836,6 +9879,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-13,San Ignacio de Moxos Aerop,,,,,2.3
 2023-02-13,San Ignacio de Velasco Aerop,32.0,21.0,,,2.6
 2023-02-13,San Jacinto Sud,33.0,14.5,,,
+2023-02-13,San Jacinto_M (GPRS),29.18,14.79,98.7,44.37,
 2023-02-13,San Javier,24.0,24.0,93.3,93.3,
 2023-02-13,San Javier Aeropuerto,31.8,22.0,,,
 2023-02-13,San Javier Aeropuerto (F),24.0,24.0,93.3,93.3,
@@ -10068,6 +10112,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-14,San Ignacio de Moxos Aerop,,,,,1.4
 2023-02-14,San Ignacio de Velasco Aerop,33.5,21.3,,,
 2023-02-14,San Jacinto Sud,32.0,16.0,,,18.8
+2023-02-14,San Jacinto_M (GPRS),27.5,15.22,98.6,55.89,28.9
 2023-02-14,San Javier Aeropuerto,32.4,19.9,,,
 2023-02-14,San Jose de Chiquitos,26.0,26.0,88.0,88.0,
 2023-02-14,San Jose de Chiquitos Aerop,35.8,24.1,,,
@@ -10300,6 +10345,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-15,San Calixto,19.6,7.6,,,0.3
 2023-02-15,San Ignacio de Velasco Aerop,32.0,21.1,,,5.2
 2023-02-15,San Jacinto Sud,28.0,16.5,,,15.0
+2023-02-15,San Jacinto_M (GPRS),23.81,14.25,98.0,50.45,31.7
 2023-02-15,San Javier,31.0,25.0,82.9,65.6,
 2023-02-15,San Javier Aeropuerto,31.6,22.0,,,
 2023-02-15,San Javier Aeropuerto (F),31.0,25.0,82.9,65.6,
@@ -10547,6 +10593,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-16,San Calixto,21.8,8.6,,,5.3
 2023-02-16,San Ignacio de Velasco Aerop,30.0,21.3,,,12.0
 2023-02-16,San Jacinto Sud,32.0,13.5,,,
+2023-02-16,San Jacinto_M (GPRS),30.44,11.82,97.8,33.65,
 2023-02-16,San Javier,27.0,23.0,93.3,78.1,
 2023-02-16,San Javier Aeropuerto,28.0,21.8,,,5.4
 2023-02-16,San Javier Aeropuerto (F),27.0,23.0,93.3,78.1,
@@ -10787,6 +10834,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-17,San Calixto,22.2,7.8,,,
 2023-02-17,San Ignacio de Velasco Aerop,27.6,21.1,,,
 2023-02-17,San Jacinto Sud,28.0,13.0,,,17.5
+2023-02-17,San Jacinto_M (GPRS),17.27,5.43,97.7,71.99,18.3
 2023-02-17,San Javier,23.0,23.0,93.3,93.3,
 2023-02-17,San Javier Aeropuerto,24.2,19.9,,,0.8
 2023-02-17,San Javier Aeropuerto (F),23.0,23.0,93.3,93.3,
@@ -11013,6 +11061,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-18,San Calixto,17.4,8.2,,,4.2
 2023-02-18,San Ignacio de Velasco Aerop,23.0,18.3,,,13.5
 2023-02-18,San Jacinto Sud,17.5,6.5,,,4.0
+2023-02-18,San Jacinto_M (GPRS),11.99,9.35,92.9,70.62,5.7
 2023-02-18,San Javier Aeropuerto,21.3,15.8,,,57.1
 2023-02-18,San Josecito,,,,,10.0
 2023-02-18,San Julian,,,,,20.0
@@ -11211,6 +11260,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-19,San Calixto,20.6,7.2,,,1.4
 2023-02-19,San Ignacio de Velasco Aerop,27.8,16.3,,,
 2023-02-19,San Jacinto Sud,24.0,7.0,,,
+2023-02-19,San Jacinto_M (GPRS),20.73,11.28,95.0,53.69,0.2
 2023-02-19,San Javier,24.0,16.0,68.4,55.9,
 2023-02-19,San Javier Aeropuerto,24.9,13.2,,,
 2023-02-19,San Javier Aeropuerto (F),24.0,16.0,68.4,55.9,
@@ -11404,6 +11454,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-20,San Calixto,20.2,6.8,,,
 2023-02-20,San Ignacio de Velasco Aerop,30.5,16.0,,,
 2023-02-20,San Jacinto Sud,28.0,11.0,,,
+2023-02-20,San Jacinto_M (GPRS),24.29,12.58,86.8,46.66,
 2023-02-20,San Javier,29.0,19.0,93.1,61.5,
 2023-02-20,San Javier Aeropuerto,29.7,15.2,,,
 2023-02-20,San Javier Aeropuerto (F),29.0,19.0,93.1,61.5,
@@ -11600,6 +11651,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-21,San Calixto,19.2,7.0,,,
 2023-02-21,San Ignacio de Velasco Aerop,32.1,18.5,,,
 2023-02-21,San Jacinto Sud,28.0,13.5,,,
+2023-02-21,San Jacinto_M (GPRS),23.63,14.43,97.9,53.28,
 2023-02-21,San Javier,23.0,23.0,82.5,82.5,
 2023-02-21,San Javier Aeropuerto,30.8,18.2,,,
 2023-02-21,San Javier Aeropuerto (F),23.0,23.0,82.5,82.5,
@@ -11812,6 +11864,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-22,San Ignacio de Moxos Aerop,,,,,23.9
 2023-02-22,San Ignacio de Velasco Aerop,31.0,21.3,,,
 2023-02-22,San Jacinto Sud,29.0,10.5,,,10.0
+2023-02-22,San Jacinto_M (GPRS),25.4,14.96,99.2,56.57,8.3
 2023-02-22,San Javier Aeropuerto,30.7,19.7,,,
 2023-02-22,San Joaquin,24.0,24.0,99.1,99.1,
 2023-02-22,San Joaquin Aeropuerto,32.4,22.6,,,25.2
@@ -12035,6 +12088,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-23,San Calixto,19.6,6.8,,,0.6
 2023-02-23,San Ignacio de Velasco Aerop,31.2,20.8,,,2.8
 2023-02-23,San Jacinto Sud,27.5,14.5,,,3.3
+2023-02-23,San Jacinto_M (GPRS),22.28,15.52,93.1,61.69,3.0
 2023-02-23,San Javier,29.0,27.0,82.9,69.5,
 2023-02-23,San Javier Aeropuerto,30.4,19.0,,,
 2023-02-23,San Javier Aeropuerto (F),29.0,27.0,82.9,69.5,
@@ -12259,6 +12313,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-24,San Calixto,20.4,7.4,,,
 2023-02-24,San Ignacio de Velasco Aerop,32.0,21.0,,,
 2023-02-24,San Jacinto Sud,27.0,16.0,,,
+2023-02-24,San Jacinto_M (GPRS),22.64,14.91,98.0,61.24,0.2
 2023-02-24,San Javier Aeropuerto,31.0,20.8,,,
 2023-02-24,San Joaquin,25.0,25.0,93.3,93.3,
 2023-02-24,San Joaquin Aeropuerto,32.8,23.2,,,6.6
@@ -12467,6 +12522,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-25,San Calixto,21.4,7.6,,,
 2023-02-25,San Ignacio de Velasco Aerop,32.2,21.2,,,
 2023-02-25,San Jacinto Sud,31.0,14.0,,,1.7
+2023-02-25,San Jacinto_M (GPRS),27.5,16.95,95.4,52.11,0.7
 2023-02-25,San Javier,24.0,24.0,93.3,93.3,
 2023-02-25,San Javier Aeropuerto,30.5,21.7,,,
 2023-02-25,San Javier Aeropuerto (F),24.0,24.0,93.3,93.3,
@@ -12662,6 +12718,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-26,San Calixto,20.8,8.8,,,
 2023-02-26,San Ignacio de Velasco Aerop,33.0,21.0,,,
 2023-02-26,San Jacinto Sud,28.0,17.0,,,
+2023-02-26,San Jacinto_M (GPRS),24.1,13.25,98.2,58.74,
 2023-02-26,San Javier,24.0,24.0,93.3,93.3,
 2023-02-26,San Javier Aeropuerto,31.3,22.2,,,
 2023-02-26,San Javier Aeropuerto (F),24.0,24.0,93.3,93.3,
@@ -12891,6 +12948,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-27,San Ignacio de Moxos Aerop,,,,,5.1
 2023-02-27,San Ignacio de Velasco Aerop,30.6,21.5,,,2.5
 2023-02-27,San Jacinto Sud,28.0,13.5,,,11.0
+2023-02-27,San Jacinto_M (GPRS),22.86,15.88,90.1,55.91,8.1
 2023-02-27,San Javier,27.0,22.0,99.1,82.8,
 2023-02-27,San Javier Aeropuerto,27.9,19.8,,,7.8
 2023-02-27,San Javier Aeropuerto (F),27.0,22.0,99.1,82.8,
@@ -13108,6 +13166,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-02-28,San Ignacio de Moxos Aerop,,,,,39.4
 2023-02-28,San Ignacio de Velasco Aerop,32.0,20.3,,,5.3
 2023-02-28,San Jacinto Sud,30.0,17.0,,,
+2023-02-28,San Jacinto_M (GPRS),23.69,16.48,98.5,57.43,
 2023-02-28,San Javier Aeropuerto,33.0,18.2,,,4.0
 2023-02-28,San Joaquin,24.0,24.0,99.1,99.1,
 2023-02-28,San Joaquin Aeropuerto,33.2,21.4,,,7.4
@@ -13315,6 +13374,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-01,San Calixto,21.8,7.2,,,
 2023-03-01,San Ignacio de Velasco Aerop,32.6,,,,
 2023-03-01,San Jacinto Sud,31.0,17.0,,,0.7
+2023-03-01,San Jacinto_M (GPRS),26.28,16.26,98.1,54.21,0.8
 2023-03-01,San Javier,24.0,24.0,93.3,93.3,
 2023-03-01,San Javier Aeropuerto,32.0,,,,
 2023-03-01,San Javier Aeropuerto (F),24.0,24.0,93.3,93.3,
@@ -13534,6 +13594,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-02,San Calixto,21.4,7.0,,,3.0
 2023-03-02,San Ignacio de Velasco Aerop,32.5,,,,
 2023-03-02,San Jacinto Sud,28.0,17.0,,,17.0
+2023-03-02,San Jacinto_M (GPRS),23.41,16.79,87.1,56.48,11.9
 2023-03-02,San Javier Aeropuerto,31.4,,,,
 2023-03-02,San Joaquin,26.0,26.0,87.9,87.9,
 2023-03-02,San Joaquin Aeropuerto,34.1,,,,
@@ -13762,6 +13823,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-03,San Calixto,18.2,7.6,,,2.4
 2023-03-03,San Ignacio de Velasco Aerop,30.6,,,,
 2023-03-03,San Jacinto Sud,30.0,13.0,,,2.8
+2023-03-03,San Jacinto_M (GPRS),26.97,23.08,63.35,46.08,1.6
 2023-03-03,San Javier,25.0,24.0,87.8,77.8,
 2023-03-03,San Javier Aeropuerto,25.4,,,,
 2023-03-03,San Javier Aeropuerto (F),25.0,24.0,87.8,77.8,
@@ -13970,6 +14032,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-04,San Calixto,20.2,6.4,,,
 2023-03-04,San Ignacio de Velasco Aerop,,,,,1.0
 2023-03-04,San Jacinto Sud,30.5,15.0,,,
+2023-03-04,San Jacinto_M (GPRS),25.57,14.13,97.9,43.19,
 2023-03-04,San Javier Aeropuerto,32.7,,,,
 2023-03-04,San Juan de Yapacaní,,,,,10.0
 2023-03-04,San Julian - Comunidad Los Angeles (GPRS),33.9,23.58,99.2,57.84,
@@ -14142,6 +14205,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-05,San Calixto,19.4,7.8,,,
 2023-03-05,San Ignacio de Velasco Aerop,33.2,,,,
 2023-03-05,San Jacinto Sud,32.5,13.5,,,
+2023-03-05,San Jacinto_M (GPRS),25.54,15.05,96.7,43.5,
 2023-03-05,San Javier,23.0,23.0,93.3,93.3,
 2023-03-05,San Javier Aeropuerto,,,,,23.6
 2023-03-05,San Javier Aeropuerto (F),23.0,23.0,93.3,93.3,
@@ -14338,6 +14402,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-06,San Ignacio de Moxos Aerop,,,,,56.5
 2023-03-06,San Ignacio de Velasco Aerop,33.8,,,,
 2023-03-06,San Jacinto Sud,30.0,14.0,,,
+2023-03-06,San Jacinto_M (GPRS),28.46,12.75,99.1,52.94,
 2023-03-06,San Javier,23.0,23.0,99.1,99.1,
 2023-03-06,San Javier Aeropuerto,31.5,,,,
 2023-03-06,San Javier Aeropuerto (F),23.0,23.0,99.1,99.1,
@@ -14559,6 +14624,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-07,San Calixto,21.0,8.2,,,
 2023-03-07,San Ignacio de Velasco Aerop,32.5,,,,
 2023-03-07,San Jacinto Sud,33.5,13.0,,,2.0
+2023-03-07,San Jacinto_M (GPRS),25.68,15.61,95.5,48.06,6.8
 2023-03-07,San Javier,31.0,26.0,82.8,65.8,
 2023-03-07,San Javier Aeropuerto,31.8,,,,
 2023-03-07,San Javier Aeropuerto (F),31.0,26.0,82.8,65.8,
@@ -14793,6 +14859,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-08,San Calixto,20.4,7.4,,,1.0
 2023-03-08,San Ignacio de Velasco Aerop,31.0,,,,
 2023-03-08,San Jacinto Sud,31.5,15.5,,,
+2023-03-08,San Jacinto_M (GPRS),25.84,14.4,97.7,54.56,
 2023-03-08,San Javier Aeropuerto,29.4,,,,
 2023-03-08,San Joaquin,25.0,25.0,87.9,87.9,
 2023-03-08,San Joaquin Aeropuerto,33.2,,,,
@@ -15015,6 +15082,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-09,San Ignacio de Velasco (GPRS),26.0,26.0,82.8,82.8,
 2023-03-09,San Ignacio de Velasco Aerop,31.0,,,,
 2023-03-09,San Jacinto Sud,33.0,13.5,,,
+2023-03-09,San Jacinto_M (GPRS),27.16,12.86,97.8,38.66,
 2023-03-09,San Javier,23.0,23.0,93.3,93.3,
 2023-03-09,San Javier Aeropuerto,30.1,,,,
 2023-03-09,San Javier Aeropuerto (F),23.0,23.0,93.3,93.3,
@@ -15231,6 +15299,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-10,San Ignacio de Moxos Aerop,,,,,37.3
 2023-03-10,San Ignacio de Velasco Aerop,33.3,,,,
 2023-03-10,San Jacinto Sud,34.0,12.5,,,
+2023-03-10,San Jacinto_M (GPRS),27.66,14.55,97.3,36.08,
 2023-03-10,San Javier,30.0,30.0,74.0,74.0,
 2023-03-10,San Javier Aeropuerto,31.0,,,,
 2023-03-10,San Javier Aeropuerto (F),30.0,30.0,74.0,74.0,
@@ -15425,6 +15494,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-11,San Calixto,19.8,7.6,,,0.4
 2023-03-11,San Ignacio de Velasco Aerop,,,,,5.8
 2023-03-11,San Jacinto Sud,34.0,13.0,,,
+2023-03-11,San Jacinto_M (GPRS),28.7,14.84,93.5,18.58,
 2023-03-11,San Javier,30.0,23.0,93.4,74.0,
 2023-03-11,San Javier Aeropuerto,30.5,,,,
 2023-03-11,San Javier Aeropuerto (F),30.0,23.0,93.4,74.0,
@@ -15617,6 +15687,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-12,San Calixto,20.4,8.0,,,
 2023-03-12,San Ignacio de Velasco Aerop,,,,,1.0
 2023-03-12,San Jacinto Sud,34.0,13.5,,,
+2023-03-12,San Jacinto_M (GPRS),27.29,16.16,90.8,42.04,
 2023-03-12,San Javier Aeropuerto,,,,,0.3
 2023-03-12,San Joaquin Aeropuerto,32.0,,,,
 2023-03-12,San Julian - Comunidad Los Angeles (GPRS),34.55,23.13,95.9,54.19,
@@ -15816,6 +15887,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-13,San Calixto,19.8,7.6,,,
 2023-03-13,San Ignacio de Velasco Aerop,,,,,2.3
 2023-03-13,San Jacinto Sud,34.0,16.5,,,
+2023-03-13,San Jacinto_M (GPRS),26.71,14.61,98.5,43.86,
 2023-03-13,San Javier,23.0,23.0,99.1,99.1,
 2023-03-13,San Javier Aeropuerto,32.7,,,,
 2023-03-13,San Javier Aeropuerto (F),23.0,23.0,99.1,99.1,
@@ -16055,6 +16127,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-14,San Ignacio de Moxos Aerop,,,,,0.1
 2023-03-14,San Ignacio de Velasco Aerop,31.0,,,,
 2023-03-14,San Jacinto Sud,31.0,15.5,,,5.6
+2023-03-14,San Jacinto_M (GPRS),25.48,15.37,96.5,49.72,6.0
 2023-03-14,San Javier,29.0,23.0,87.8,69.3,
 2023-03-14,San Javier Aeropuerto,29.7,,,,
 2023-03-14,San Javier Aeropuerto (F),29.0,23.0,87.8,69.3,
@@ -16294,6 +16367,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-15,San Calixto,18.0,8.4,,,
 2023-03-15,San Ignacio de Velasco Aerop,31.0,,,,
 2023-03-15,San Jacinto Sud,28.0,15.5,,,7.8
+2023-03-15,San Jacinto_M (GPRS),25.08,13.25,98.2,50.64,4.7
 2023-03-15,San Javier,29.0,25.0,87.9,69.3,
 2023-03-15,San Javier Aeropuerto,29.9,,,,
 2023-03-15,San Javier Aeropuerto (F),29.0,25.0,87.9,69.3,
@@ -16523,6 +16597,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-16,San Ignacio de Moxos Aerop,,,,,81.3
 2023-03-16,San Ignacio de Velasco Aerop,,,,,22.5
 2023-03-16,San Jacinto Sud,29.0,13.0,,,1.2
+2023-03-16,San Jacinto_M (GPRS),24.12,13.24,96.2,47.53,
 2023-03-16,San Javier Aeropuerto,31.2,,,,
 2023-03-16,San Joaquin,25.0,25.0,93.3,93.3,
 2023-03-16,San Joaquin Aeropuerto,29.0,,,,
@@ -16747,6 +16822,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-17,San Ignacio de Moxos Aerop,,,,,8.7
 2023-03-17,San Ignacio de Velasco Aerop,,,,,5.7
 2023-03-17,San Jacinto Sud,29.0,13.0,,,
+2023-03-17,San Jacinto_M (GPRS),24.1,11.42,98.4,48.33,
 2023-03-17,San Javier,21.0,21.0,93.2,93.2,
 2023-03-17,San Javier Aeropuerto,,,,,2.1
 2023-03-17,San Javier Aeropuerto (F),21.0,21.0,93.2,93.2,
@@ -16958,6 +17034,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-18,San Calixto,17.2,5.4,,,2.2
 2023-03-18,San Ignacio de Velasco Aerop,,,,,1.4
 2023-03-18,San Jacinto Sud,30.0,10.5,,,1.5
+2023-03-18,San Jacinto_M (GPRS),24.64,12.42,97.9,37.88,1.5
 2023-03-18,San Javier,28.0,28.0,78.2,78.2,
 2023-03-18,San Javier Aeropuerto,,,,,5.8
 2023-03-18,San Javier Aeropuerto (F),28.0,28.0,78.2,78.2,
@@ -17159,6 +17236,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-19,San Calixto,18.2,6.8,,,0.3
 2023-03-19,San Ignacio de Velasco Aerop,28.8,,,,
 2023-03-19,San Jacinto Sud,30.5,10.0,,,
+2023-03-19,San Jacinto_M (GPRS),25.09,12.18,97.9,41.25,
 2023-03-19,San Javier,25.0,22.0,99.1,87.8,
 2023-03-19,San Javier Aeropuerto,,,,,2.5
 2023-03-19,San Javier Aeropuerto (F),25.0,22.0,99.1,87.8,
@@ -17382,6 +17460,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-20,San Calixto,18.4,7.4,,,0.4
 2023-03-20,San Ignacio de Velasco Aerop,,,,,2.6
 2023-03-20,San Jacinto Sud,31.5,11.5,,,
+2023-03-20,San Jacinto_M (GPRS),25.6,12.5,95.9,45.72,
 2023-03-20,San Javier,22.0,22.0,99.1,99.1,
 2023-03-20,San Javier Aeropuerto,,,,,7.3
 2023-03-20,San Javier Aeropuerto (F),22.0,22.0,99.1,99.1,
@@ -17617,6 +17696,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-21,San Ignacio de Moxos Aerop,,,,,32.8
 2023-03-21,San Ignacio de Velasco Aerop,,,,,23.3
 2023-03-21,San Jacinto Sud,31.0,13.5,,,
+2023-03-21,San Jacinto_M (GPRS),25.24,12.28,97.1,35.23,
 2023-03-21,San Javier,22.0,22.0,93.2,93.2,
 2023-03-21,San Javier Aeropuerto,,,,,5.8
 2023-03-21,San Javier Aeropuerto (F),22.0,22.0,93.2,93.2,
@@ -17848,6 +17928,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-22,San Ignacio de Moxos Aerop,,,,,20.5
 2023-03-22,San Ignacio de Velasco Aerop,,,,,3.2
 2023-03-22,San Jacinto Sud,32.0,11.0,,,
+2023-03-22,San Jacinto_M (GPRS),25.51,12.52,95.8,41.93,
 2023-03-22,San Javier,25.0,23.0,93.3,82.7,
 2023-03-22,San Javier Aeropuerto,,,,,81.2
 2023-03-22,San Javier Aeropuerto (F),25.0,23.0,93.3,82.7,
@@ -18076,6 +18157,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-23,San Ignacio de Moxos Aerop,,,,,4.1
 2023-03-23,San Ignacio de Velasco Aerop,,,,,3.1
 2023-03-23,San Jacinto Sud,32.0,12.0,,,
+2023-03-23,San Jacinto_M (GPRS),23.2,14.79,95.6,53.49,
 2023-03-23,San Javier,26.0,24.0,87.9,82.7,
 2023-03-23,San Javier Aeropuerto,,,,,8.4
 2023-03-23,San Javier Aeropuerto (F),26.0,24.0,87.9,82.7,
@@ -18316,6 +18398,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-24,San Ignacio de Moxos Aerop,,,,,6.4
 2023-03-24,San Ignacio de Velasco Aerop,31.0,,,,
 2023-03-24,San Jacinto Sud,31.0,13.5,,,
+2023-03-24,San Jacinto_M (GPRS),24.38,12.92,98.6,52.66,
 2023-03-24,San Javier Aeropuerto,,,,,4.8
 2023-03-24,San Joaquin,23.0,23.0,99.1,99.1,
 2023-03-24,San Joaquin Aeropuerto,32.0,,,,14.3
@@ -18533,6 +18616,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-25,San Calixto,18.2,6.0,,,
 2023-03-25,San Ignacio de Velasco Aerop,31.6,,,,
 2023-03-25,San Jacinto Sud,32.0,12.0,,,
+2023-03-25,San Jacinto_M (GPRS),25.18,13.74,99.6,50.67,
 2023-03-25,San Javier,22.0,22.0,93.2,93.2,
 2023-03-25,San Javier Aeropuerto,,,,,42.8
 2023-03-25,San Javier Aeropuerto (F),22.0,22.0,93.2,93.2,
@@ -18746,6 +18830,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-26,San Ignacio de Moxos Aerop,,,,,20.7
 2023-03-26,San Ignacio de Velasco Aerop,33.0,,,,
 2023-03-26,San Jacinto Sud,20.0,15.5,,,46.8
+2023-03-26,San Jacinto_M (GPRS),18.3,13.09,99.9,78.97,67.2
 2023-03-26,San Javier Aeropuerto,32.1,,,,
 2023-03-26,San Joaquin,30.0,30.0,78.5,78.5,
 2023-03-26,San Joaquin Aeropuerto,32.2,,,,
@@ -18978,6 +19063,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-27,San Ignacio de Moxos Aerop,,,,,15.3
 2023-03-27,San Ignacio de Velasco Aerop,,,,,2.2
 2023-03-27,San Jacinto Sud,28.0,13.0,,,13.3
+2023-03-27,San Jacinto_M (GPRS),23.5,14.62,98.3,62.85,3.5
 2023-03-27,San Javier,29.0,23.0,93.3,73.8,
 2023-03-27,San Javier Aeropuerto,,,,,3.3
 2023-03-27,San Javier Aeropuerto (F),29.0,23.0,93.3,73.8,
@@ -19204,6 +19290,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-28,San Calixto,16.4,6.8,,,1.2
 2023-03-28,San Ignacio de Velasco Aerop,,,,,3.9
 2023-03-28,San Jacinto Sud,31.0,14.0,,,
+2023-03-28,San Jacinto_M (GPRS),25.67,15.6,98.2,60.23,
 2023-03-28,San Javier Aeropuerto,,,,,23.3
 2023-03-28,San Joaquin,25.0,25.0,99.1,99.1,
 2023-03-28,San Joaquin Aeropuerto,33.6,,,,
@@ -19416,6 +19503,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-29,San Calixto,17.2,7.4,,,3.3
 2023-03-29,San Ignacio de Velasco Aerop,,,,,3.3
 2023-03-29,San Jacinto Sud,33.5,15.0,,,
+2023-03-29,San Jacinto_M (GPRS),29.05,13.92,98.5,41.09,
 2023-03-29,San Javier,23.0,23.0,93.3,93.3,
 2023-03-29,San Javier Aeropuerto,31.8,,,,
 2023-03-29,San Javier Aeropuerto (F),23.0,23.0,93.3,93.3,
@@ -19641,6 +19729,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-30,San Calixto,16.4,6.8,,,13.4
 2023-03-30,San Ignacio de Velasco Aerop,33.2,,,,
 2023-03-30,San Jacinto Sud,33.5,13.5,,,
+2023-03-30,San Jacinto_M (GPRS),26.91,13.46,97.6,41.1,
 2023-03-30,San Javier Aeropuerto,32.2,,,,
 2023-03-30,San Joaquin,32.0,25.0,93.3,69.7,
 2023-03-30,San Joaquin Aeropuerto,33.0,,,,
@@ -19853,6 +19942,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-03-31,San Calixto,17.0,7.4,,,0.3
 2023-03-31,San Ignacio de Velasco Aerop,33.2,,,,
 2023-03-31,San Jacinto Sud,33.0,12.5,,,
+2023-03-31,San Jacinto_M (GPRS),25.89,14.01,99.7,49.44,
 2023-03-31,San Javier,31.0,22.0,93.2,65.8,
 2023-03-31,San Javier Aeropuerto,32.3,,,,40.6
 2023-03-31,San Javier Aeropuerto (F),31.0,22.0,93.2,65.8,
@@ -20065,6 +20155,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-01,San Calixto,16.4,6.4,,,
 2023-04-01,San Ignacio de Velasco Aerop,31.0,,,,
 2023-04-01,San Jacinto Sud,30.0,13.5,,,6.5
+2023-04-01,San Jacinto_M (GPRS),26.1,12.2,98.4,42.32,19.6
 2023-04-01,San Javier Aeropuerto,28.4,,,,
 2023-04-01,San Juan de Yapacaní,,,,,0.2
 2023-04-01,San Julian - Comunidad Los Angeles (GPRS),31.74,22.15,98.3,58.6,
@@ -20258,6 +20349,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-02,San Calixto,19.6,6.6,,,
 2023-04-02,San Ignacio de Velasco Aerop,33.5,,,,
 2023-04-02,San Jacinto Sud,33.0,11.0,,,
+2023-04-02,San Jacinto_M (GPRS),25.9,12.82,98.3,49.36,
 2023-04-02,San Javier Aeropuerto,31.9,,,,
 2023-04-02,San Joaquin Aeropuerto,32.3,,,,
 2023-04-02,San Josecito,,,,,0.6
@@ -20472,6 +20564,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-03,San Calixto,20.0,7.8,,,
 2023-04-03,San Ignacio de Velasco Aerop,30.0,,,,
 2023-04-03,San Jacinto Sud,31.0,12.0,,,
+2023-04-03,San Jacinto_M (GPRS),22.19,14.81,95.2,58.18,
 2023-04-03,San Javier,30.0,21.0,93.4,65.6,
 2023-04-03,San Javier Aeropuerto,31.2,,,,
 2023-04-03,San Javier Aeropuerto (F),30.0,21.0,93.4,65.6,
@@ -20691,6 +20784,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-04,San Calixto,17.0,8.0,,,
 2023-04-04,San Ignacio de Velasco Aerop,30.0,,,,
 2023-04-04,San Jacinto Sud,31.0,14.0,,,
+2023-04-04,San Jacinto_M (GPRS),24.22,12.68,99.0,55.15,
 2023-04-04,San Javier,21.0,21.0,99.1,99.1,
 2023-04-04,San Javier Aeropuerto,29.3,,,,
 2023-04-04,San Javier Aeropuerto (F),21.0,21.0,99.1,99.1,
@@ -20932,6 +21026,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-05,San Ignacio de Moxos Aerop,,,,,11.5
 2023-04-05,San Ignacio de Velasco Aerop,28.0,,,,
 2023-04-05,San Jacinto Sud,26.0,14.0,,,35.0
+2023-04-05,San Jacinto_M (GPRS),20.26,13.2,94.8,59.87,36.5
 2023-04-05,San Javier,21.0,21.0,99.1,99.1,
 2023-04-05,San Javier Aeropuerto,,,,,37.5
 2023-04-05,San Javier Aeropuerto (F),21.0,21.0,99.1,99.1,
@@ -21157,6 +21252,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-06,San Ignacio de Moxos Aerop,,,,,73.4
 2023-04-06,San Ignacio de Velasco Aerop,28.0,,,,11.2
 2023-04-06,San Jacinto Sud,27.0,10.0,,,6.0
+2023-04-06,San Jacinto_M (GPRS),21.65,13.07,95.7,58.25,5.2
 2023-04-06,San Javier,21.0,21.0,99.1,99.1,
 2023-04-06,San Javier Aeropuerto,,,,,46.8
 2023-04-06,San Javier Aeropuerto (F),21.0,21.0,99.1,99.1,
@@ -21370,6 +21466,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-07,San Calixto,16.2,6.8,,,
 2023-04-07,San Ignacio de Velasco Aerop,27.5,,,,
 2023-04-07,San Jacinto Sud,27.0,13.5,,,
+2023-04-07,San Jacinto_M (GPRS),20.24,12.35,98.7,59.93,
 2023-04-07,San Javier,27.0,20.0,93.2,73.3,
 2023-04-07,San Javier Aeropuerto,27.8,,,,
 2023-04-07,San Javier Aeropuerto (F),27.0,20.0,93.2,73.3,
@@ -21571,6 +21668,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-08,San Calixto,14.2,6.4,,,
 2023-04-08,San Ignacio de Velasco Aerop,28.5,,,,
 2023-04-08,San Jacinto Sud,29.0,10.5,,,3.0
+2023-04-08,San Jacinto_M (GPRS),22.47,11.79,96.5,47.29,8.4
 2023-04-08,San Javier,27.0,18.0,93.0,61.1,
 2023-04-08,San Javier Aeropuerto,27.4,,,,
 2023-04-08,San Javier Aeropuerto (F),27.0,18.0,93.0,61.1,
@@ -21759,6 +21857,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-09,San Calixto,16.4,6.2,,,
 2023-04-09,San Ignacio de Velasco Aerop,30.5,,,,
 2023-04-09,San Jacinto Sud,29.5,9.0,,,
+2023-04-09,San Jacinto_M (GPRS),22.37,11.15,98.4,51.65,
 2023-04-09,San Javier,,19.0,93.1,93.1,
 2023-04-09,San Javier Aeropuerto,28.3,,,,
 2023-04-09,San Javier Aeropuerto (F),,19.0,93.1,93.1,
@@ -21957,6 +22056,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-10,San Calixto,17.8,6.4,,,1.2
 2023-04-10,San Ignacio de Velasco Aerop,31.0,,,,
 2023-04-10,San Jacinto Sud,30.5,10.5,,,
+2023-04-10,San Jacinto_M (GPRS),23.26,10.14,97.1,47.62,
 2023-04-10,San Javier,27.0,21.0,93.2,93.2,
 2023-04-10,San Javier Aeropuerto,29.0,,,,
 2023-04-10,San Javier Aeropuerto (F),27.0,21.0,93.2,93.2,
@@ -22162,6 +22262,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-11,San Calixto,20.2,5.3,,,
 2023-04-11,San Ignacio de Velasco Aerop,30.5,,,,6.8
 2023-04-11,San Jacinto Sud,31.0,9.5,,,
+2023-04-11,San Jacinto_M (GPRS),25.76,10.5,98.9,48.18,
 2023-04-11,San Javier,31.0,27.0,78.1,58.3,
 2023-04-11,San Javier Aeropuerto,,,,,3.0
 2023-04-11,San Javier Aeropuerto (F),31.0,27.0,78.1,58.3,
@@ -22361,6 +22462,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-12,San Calixto,21.2,5.6,,,
 2023-04-12,San Ignacio de Velasco Aerop,30.5,,,,
 2023-04-12,San Jacinto Sud,28.0,10.0,,,
+2023-04-12,San Jacinto_M (GPRS),22.26,16.04,89.4,61.09,
 2023-04-12,San Javier Aeropuerto,30.4,,,,
 2023-04-12,San Joaquin,25.0,25.0,93.3,93.3,
 2023-04-12,San Joaquin Aeropuerto,33.4,,,,
@@ -22560,6 +22662,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-13,San Calixto,20.8,6.2,,,
 2023-04-13,San Ignacio de Velasco Aerop,30.3,,,,
 2023-04-13,San Jacinto Sud,31.0,16.5,,,
+2023-04-13,San Jacinto_M (GPRS),24.49,14.19,90.4,51.73,
 2023-04-13,San Javier,23.0,23.0,93.3,93.3,
 2023-04-13,San Javier Aeropuerto,29.8,,,,
 2023-04-13,San Javier Aeropuerto (F),23.0,23.0,93.3,93.3,
@@ -22785,6 +22888,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-14,San Ignacio de Moxos Aerop,,,,,4.7
 2023-04-14,San Ignacio de Velasco Aerop,28.0,,,,3.5
 2023-04-14,San Jacinto Sud,28.0,15.0,,,
+2023-04-14,San Jacinto_M (GPRS),21.99,14.35,78.05,59.19,
 2023-04-14,San Javier,19.0,17.0,99.1,99.1,
 2023-04-14,San Javier Aeropuerto,21.7,,,,
 2023-04-14,San Javier Aeropuerto (F),19.0,17.0,99.1,99.1,
@@ -22992,6 +23096,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-15,San Calixto,18.8,7.6,,,
 2023-04-15,San Ignacio de Velasco Aerop,28.5,,,,
 2023-04-15,San Jacinto Sud,30.0,13.0,,,
+2023-04-15,San Jacinto_M (GPRS),23.71,13.76,84.7,53.22,
 2023-04-15,San Javier,27.0,20.0,99.1,78.1,
 2023-04-15,San Javier Aeropuerto,30.0,,,,18.2
 2023-04-15,San Javier Aeropuerto (F),27.0,20.0,99.1,78.1,
@@ -23185,6 +23290,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-16,San Calixto,20.0,6.4,,,
 2023-04-16,San Ignacio de Velasco Aerop,30.6,,,,
 2023-04-16,San Jacinto Sud,30.5,14.5,,,
+2023-04-16,San Jacinto_M (GPRS),23.21,12.71,87.9,56.33,
 2023-04-16,San Javier,,,99.1,99.1,
 2023-04-16,San Javier Aeropuerto,29.7,,,,
 2023-04-16,San Javier Aeropuerto (F),,,99.1,99.1,
@@ -23391,6 +23497,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-17,San Ignacio de Moxos Aerop,,,,,34.7
 2023-04-17,San Ignacio de Velasco Aerop,30.8,,,,
 2023-04-17,San Jacinto Sud,29.5,13.5,,,
+2023-04-17,San Jacinto_M (GPRS),21.64,11.91,92.6,55.38,
 2023-04-17,San Javier,23.0,23.0,99.1,99.1,
 2023-04-17,San Javier Aeropuerto,30.5,,,,
 2023-04-17,San Javier Aeropuerto (F),23.0,23.0,99.1,99.1,
@@ -23604,6 +23711,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-18,San Ignacio de Moxos Aerop,,,,,7.4
 2023-04-18,San Ignacio de Velasco Aerop,30.5,,,,2.1
 2023-04-18,San Jacinto Sud,29.0,13.0,,,
+2023-04-18,San Jacinto_M (GPRS),22.55,6.27,98.1,47.86,
 2023-04-18,San Javier Aeropuerto,29.8,,,,
 2023-04-18,San Joaquin,31.0,25.0,99.1,65.8,
 2023-04-18,San Joaquin Aeropuerto,33.4,,,,
@@ -23814,6 +23922,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-19,San Ignacio de Moxos Aerop,,,,,6.5
 2023-04-19,San Ignacio de Velasco Aerop,23.5,,,,22.5
 2023-04-19,San Jacinto Sud,29.5,5.0,,,
+2023-04-19,San Jacinto_M (GPRS),23.2,6.01,97.2,24.71,
 2023-04-19,San Javier,20.0,20.0,99.1,99.1,
 2023-04-19,San Javier Aeropuerto,21.3,,,,10.1
 2023-04-19,San Javier Aeropuerto (F),20.0,20.0,99.1,99.1,
@@ -24021,6 +24130,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-20,San Ignacio de Moxos Aerop,,,,,16.3
 2023-04-20,San Ignacio de Velasco Aerop,27.5,,,,10.8
 2023-04-20,San Jacinto Sud,29.0,4.0,,,
+2023-04-20,San Jacinto_M (GPRS),23.86,5.79,97.6,30.59,
 2023-04-20,San Javier,19.0,19.0,93.1,93.1,
 2023-04-20,San Javier Aeropuerto,27.2,,,,6.8
 2023-04-20,San Javier Aeropuerto (F),19.0,19.0,93.1,93.1,
@@ -24222,6 +24332,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-21,San Calixto,20.4,5.8,,,
 2023-04-21,San Ignacio de Velasco Aerop,,17.0,,,
 2023-04-21,San Jacinto Sud,32.0,4.0,,,
+2023-04-21,San Jacinto_M (GPRS),28.05,11.3,95.6,29.56,
 2023-04-21,San Javier,20.0,20.0,87.5,87.5,
 2023-04-21,San Javier Aeropuerto,,17.3,,,
 2023-04-21,San Javier Aeropuerto (F),20.0,20.0,87.5,87.5,
@@ -24412,6 +24523,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-22,San Calixto,20.6,5.6,,,
 2023-04-22,San Ignacio de Velasco Aerop,30.6,,,,
 2023-04-22,San Jacinto Sud,23.0,11.0,,,
+2023-04-22,San Jacinto_M (GPRS),20.25,12.96,96.2,62.83,
 2023-04-22,San Javier,26.0,20.0,93.1,73.3,
 2023-04-22,San Javier Aeropuerto,28.0,,,,
 2023-04-22,San Javier Aeropuerto (F),26.0,20.0,93.1,73.3,
@@ -24592,6 +24704,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-23,San Calixto,19.2,6.6,,,
 2023-04-23,San Ignacio de Velasco Aerop,31.0,,,,
 2023-04-23,San Jacinto Sud,26.0,13.0,,,
+2023-04-23,San Jacinto_M (GPRS),19.81,13.33,94.1,63.91,0.2
 2023-04-23,San Javier,26.0,21.0,93.3,78.0,
 2023-04-23,San Javier Aeropuerto,27.0,,,,
 2023-04-23,San Javier Aeropuerto (F),26.0,21.0,93.3,78.0,
@@ -24795,6 +24908,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-24,San Calixto,19.4,5.8,,,
 2023-04-24,San Ignacio de Velasco Aerop,31.5,,,,
 2023-04-24,San Jacinto Sud,28.0,14.0,,,
+2023-04-24,San Jacinto_M (GPRS),20.61,12.81,79.72,56.33,
 2023-04-24,San Javier,22.0,22.0,99.1,99.1,
 2023-04-24,San Javier Aeropuerto,30.9,,,,3.8
 2023-04-24,San Javier Aeropuerto (F),22.0,22.0,99.1,99.1,
@@ -25007,6 +25121,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-25,San Ignacio de Moxos Aerop,,,,,1.7
 2023-04-25,San Ignacio de Velasco Aerop,32.0,,,,
 2023-04-25,San Jacinto Sud,28.5,12.5,,,
+2023-04-25,San Jacinto_M (GPRS),21.38,5.51,97.8,47.69,
 2023-04-25,San Javier,27.0,27.0,82.9,82.9,
 2023-04-25,San Javier Aeropuerto,28.2,,,,
 2023-04-25,San Javier Aeropuerto (F),27.0,27.0,82.9,82.9,
@@ -25212,6 +25327,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-26,San Ignacio de Moxos Aerop,,,,,5.4
 2023-04-26,San Ignacio de Velasco Aerop,31.2,,,,
 2023-04-26,San Jacinto Sud,32.0,3.5,,,
+2023-04-26,San Jacinto_M (GPRS),27.56,5.01,96.0,14.2,
 2023-04-26,San Javier,28.0,21.0,99.1,78.2,
 2023-04-26,San Javier Aeropuerto,29.5,,,,
 2023-04-26,San Javier Aeropuerto (F),28.0,21.0,99.1,78.2,
@@ -25408,6 +25524,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-27,San Calixto,18.0,5.0,,,
 2023-04-27,San Ignacio de Velasco Aerop,32.5,,,,
 2023-04-27,San Jacinto Sud,33.5,3.5,,,
+2023-04-27,San Jacinto_M (GPRS),27.25,6.42,97.9,18.2,
 2023-04-27,San Javier,28.0,20.0,99.1,78.2,
 2023-04-27,San Javier Aeropuerto,28.7,,,,
 2023-04-27,San Javier Aeropuerto (F),28.0,20.0,99.1,78.2,
@@ -25605,6 +25722,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-28,San Calixto,19.4,5.4,,,
 2023-04-28,San Ignacio de Velasco Aerop,31.0,,,,
 2023-04-28,San Jacinto Sud,33.0,5.5,,,
+2023-04-28,San Jacinto_M (GPRS),28.3,6.99,97.9,28.13,
 2023-04-28,San Javier,21.0,21.0,93.2,93.2,
 2023-04-28,San Javier Aeropuerto,30.3,,,,
 2023-04-28,San Javier Aeropuerto (F),21.0,21.0,93.2,93.2,
@@ -25790,6 +25908,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-29,San Calixto,19.8,5.2,,,
 2023-04-29,San Ignacio de Velasco Aerop,33.0,,,,
 2023-04-29,San Jacinto Sud,36.5,6.0,,,
+2023-04-29,San Jacinto_M (GPRS),33.11,7.57,97.7,23.65,
 2023-04-29,San Javier,23.0,23.0,93.3,93.3,
 2023-04-29,San Javier Aeropuerto,31.0,,,,
 2023-04-29,San Javier Aeropuerto (F),23.0,23.0,93.3,93.3,
@@ -25963,6 +26082,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-04-30,San Calixto,21.2,6.0,,,
 2023-04-30,San Ignacio de Velasco Aerop,32.0,,,,
 2023-04-30,San Jacinto Sud,38.5,6.0,,,
+2023-04-30,San Jacinto_M (GPRS),32.04,12.21,93.5,13.98,
 2023-04-30,San Javier,30.0,29.0,73.8,69.7,
 2023-04-30,San Javier Aeropuerto,31.7,,,,
 2023-04-30,San Javier Aeropuerto (F),30.0,29.0,73.8,69.7,
@@ -26091,6 +26211,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-01,Huayrocondo,20.1,-2.9,,,
 2023-05-01,Isla Del Sol,15.2,4.2,,,
 2023-05-01,Isla Suriqui_M (GPRS),16.52,3.3,92.6,29.81,
+2023-05-01,Itau,,,,,11.5
 2023-05-01,Ivirgarzama-Senda VI (GPRS),31.77,24.54,89.8,67.58,
 2023-05-01,Jesús de Machaca_M (GPRS),19.29,-6.51,81.8,14.37,
 2023-05-01,Jihuacuta,,,,,1.4
@@ -26140,6 +26261,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-01,San Calixto,19.6,5.4,,,
 2023-05-01,San Ignacio de Velasco Aerop,33.5,21.0,,,
 2023-05-01,San Jacinto Sud,31.5,11.0,,,
+2023-05-01,San Jacinto_M (GPRS),25.41,13.95,84.4,42.13,
 2023-05-01,San Javier Aeropuerto,32.4,20.2,,,
 2023-05-01,San Joaquin Aeropuerto,33.8,,,,
 2023-05-01,San Juan de Yapacaní,,,,,8.0
@@ -26337,6 +26459,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-02,San Ignacio de Moxos Aerop,,,,,6.4
 2023-05-02,San Ignacio de Velasco Aerop,30.0,21.1,,,
 2023-05-02,San Jacinto Sud,29.0,14.0,,,
+2023-05-02,San Jacinto_M (GPRS),22.9,16.25,71.14,52.56,
 2023-05-02,San Javier,13.0,13.0,92.8,92.8,
 2023-05-02,San Javier Aeropuerto,,,,,5.7
 2023-05-02,San Javier Aeropuerto (F),13.0,13.0,92.8,92.8,
@@ -26556,6 +26679,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-03,San Calixto,19.4,5.6,,,1.6
 2023-05-03,San Ignacio de Velasco Aerop,,,,,3.2
 2023-05-03,San Jacinto Sud,28.0,11.0,,,
+2023-05-03,San Jacinto_M (GPRS),21.32,10.37,83.6,52.63,
 2023-05-03,San Javier Aeropuerto,,,,,9.1
 2023-05-03,San Joaquin,24.0,24.0,93.3,93.3,
 2023-05-03,San Joaquin Aeropuerto,31.7,,,,
@@ -26759,6 +26883,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-04,San Ignacio de Moxos Aerop,,,,,8.3
 2023-05-04,San Ignacio de Velasco Aerop,28.4,15.0,,,
 2023-05-04,San Jacinto Sud,27.5,10.5,,,
+2023-05-04,San Jacinto_M (GPRS),19.99,8.95,85.3,51.33,
 2023-05-04,San Javier Aeropuerto,,,,,0.3
 2023-05-04,San Joaquin,19.0,19.0,99.1,99.1,
 2023-05-04,San Joaquin Aeropuerto,30.0,18.8,,,7.4
@@ -26977,6 +27102,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-05,San Ignacio de Moxos Aerop,26.6,,,,
 2023-05-05,San Ignacio de Velasco Aerop,26.5,18.3,,,
 2023-05-05,San Jacinto Sud,17.5,9.5,,,
+2023-05-05,San Jacinto_M (GPRS),13.01,9.94,87.0,70.67,
 2023-05-05,San Javier,24.0,18.0,99.1,87.6,
 2023-05-05,San Javier Aeropuerto,24.0,17.2,,,
 2023-05-05,San Javier Aeropuerto (F),24.0,18.0,99.1,87.6,
@@ -27190,6 +27316,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-06,San Calixto,9.6,3.6,,,27.5
 2023-05-06,San Ignacio de Velasco Aerop,,,,,4.5
 2023-05-06,San Jacinto Sud,26.0,10.0,,,
+2023-05-06,San Jacinto_M (GPRS),18.34,5.49,99.0,55.83,
 2023-05-06,San Javier,18.0,16.0,99.1,99.1,
 2023-05-06,San Javier Aeropuerto,17.6,12.6,,,
 2023-05-06,San Javier Aeropuerto (F),18.0,16.0,99.1,99.1,
@@ -27387,6 +27514,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-07,San Calixto,14.0,5.0,,,15.2
 2023-05-07,San Ignacio de Velasco Aerop,30.0,17.0,,,
 2023-05-07,San Jacinto Sud,29.0,4.5,,,
+2023-05-07,San Jacinto_M (GPRS),27.63,5.7,89.8,17.4,
 2023-05-07,San Javier,18.0,18.0,99.1,99.1,
 2023-05-07,San Javier Aeropuerto,,,,,4.5
 2023-05-07,San Javier Aeropuerto (F),18.0,18.0,99.1,99.1,
@@ -27579,6 +27707,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-08,San Ignacio de Moxos Aerop,23.5,,,,
 2023-05-08,San Ignacio de Velasco Aerop,24.0,19.5,,,
 2023-05-08,San Jacinto Sud,24.0,5.0,,,
+2023-05-08,San Jacinto_M (GPRS),18.0,12.74,62.08,37.6,
 2023-05-08,San Javier Aeropuerto,22.8,15.1,,,
 2023-05-08,San Joaquin,28.0,23.0,99.1,99.1,
 2023-05-08,San Joaquin Aeropuerto,29.0,20.8,,,21.2
@@ -27773,6 +27902,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-09,San Ignacio de Moxos Aerop,,,,,4.8
 2023-05-09,San Ignacio de Velasco Aerop,25.0,17.3,,,
 2023-05-09,San Jacinto Sud,29.0,2.0,,,
+2023-05-09,San Jacinto_M (GPRS),23.03,14.42,61.77,25.36,
 2023-05-09,San Javier Aeropuerto,23.3,16.7,,,
 2023-05-09,San Joaquin,21.0,21.0,93.2,93.2,
 2023-05-09,San Joaquin Aeropuerto,27.2,20.0,,,
@@ -27971,6 +28101,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-10,San Ignacio de Moxos Aerop,,,,,1.0
 2023-05-10,San Ignacio de Velasco Aerop,28.6,16.6,,,
 2023-05-10,San Jacinto Sud,30.0,2.5,,,
+2023-05-10,San Jacinto_M (GPRS),23.45,11.1,72.24,32.08,
 2023-05-10,San Javier,18.0,18.0,99.1,99.1,
 2023-05-10,San Javier Aeropuerto,25.8,16.7,,,
 2023-05-10,San Javier Aeropuerto (F),18.0,18.0,99.1,99.1,
@@ -28159,6 +28290,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-11,San Ignacio de Moxos Aerop,29.3,,,,
 2023-05-11,San Ignacio de Velasco Aerop,28.0,17.5,,,
 2023-05-11,San Jacinto Sud,30.0,2.5,,,
+2023-05-11,San Jacinto_M (GPRS),22.06,11.66,85.5,43.05,
 2023-05-11,San Javier,18.0,18.0,99.1,99.1,
 2023-05-11,San Javier Aeropuerto,24.8,17.8,,,
 2023-05-11,San Javier Aeropuerto (F),18.0,18.0,99.1,99.1,
@@ -28361,6 +28493,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-12,San Ignacio de Moxos Aerop,29.7,,,,
 2023-05-12,San Ignacio de Velasco Aerop,29.0,19.1,,,
 2023-05-12,San Jacinto Sud,29.0,10.0,,,
+2023-05-12,San Jacinto_M (GPRS),22.01,8.41,86.1,42.1,
 2023-05-12,San Javier Aeropuerto,26.9,15.1,,,
 2023-05-12,San Joaquin,22.0,22.0,93.2,93.2,
 2023-05-12,San Joaquin Aeropuerto,31.5,20.8,,,
@@ -28537,6 +28670,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-13,San Calixto,16.2,4.8,,,
 2023-05-13,San Ignacio de Velasco Aerop,29.3,15.5,,,
 2023-05-13,San Jacinto Sud,32.0,1.5,,,
+2023-05-13,San Jacinto_M (GPRS),26.57,6.18,91.2,16.48,
 2023-05-13,San Javier Aeropuerto,28.4,13.4,,,
 2023-05-13,San Joaquin Aeropuerto,31.5,,,,
 2023-05-13,San Julian - Comunidad Los Angeles (GPRS),31.49,16.07,96.1,37.83,
@@ -28699,6 +28833,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-14,San Calixto,17.6,5.0,,,
 2023-05-14,San Ignacio de Velasco Aerop,30.6,17.5,,,
 2023-05-14,San Jacinto Sud,34.0,0.5,,,
+2023-05-14,San Jacinto_M (GPRS),27.22,4.07,95.8,19.75,
 2023-05-14,San Javier,27.0,27.0,65.0,65.0,
 2023-05-14,San Javier Aeropuerto,29.9,14.4,,,
 2023-05-14,San Javier Aeropuerto (F),27.0,27.0,65.0,65.0,
@@ -28881,6 +29016,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-15,San Ignacio de Moxos Aerop,32.1,,,,
 2023-05-15,San Ignacio de Velasco Aerop,31.0,16.0,,,
 2023-05-15,San Jacinto Sud,33.0,2.5,,,
+2023-05-15,San Jacinto_M (GPRS),27.65,5.04,95.9,15.42,
 2023-05-15,San Javier,26.0,26.0,78.0,78.0,
 2023-05-15,San Javier Aeropuerto,29.6,17.3,,,
 2023-05-15,San Javier Aeropuerto (F),26.0,26.0,78.0,78.0,
@@ -29068,6 +29204,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-16,San Ignacio de Moxos Aerop,32.9,,,,
 2023-05-16,San Ignacio de Velasco Aerop,30.8,16.0,,,
 2023-05-16,San Jacinto Sud,34.0,3.0,,,
+2023-05-16,San Jacinto_M (GPRS),27.28,6.04,97.5,30.29,
 2023-05-16,San Javier,28.0,27.0,73.5,65.2,
 2023-05-16,San Javier Aeropuerto,28.5,18.0,,,
 2023-05-16,San Javier Aeropuerto (F),28.0,27.0,73.5,65.2,
@@ -29256,6 +29393,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-17,San Ignacio de Moxos Aerop,32.5,,,,
 2023-05-17,San Ignacio de Velasco Aerop,31.0,17.0,,,
 2023-05-17,San Jacinto Sud,36.0,2.5,,,
+2023-05-17,San Jacinto_M (GPRS),30.29,6.75,97.7,13.17,
 2023-05-17,San Javier,28.0,27.0,73.5,69.3,
 2023-05-17,San Javier Aeropuerto,28.8,17.2,,,
 2023-05-17,San Javier Aeropuerto (F),28.0,27.0,73.5,69.3,
@@ -29447,6 +29585,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-18,San Ignacio de Moxos Aerop,33.1,,,,
 2023-05-18,San Ignacio de Velasco Aerop,31.0,18.5,,,
 2023-05-18,San Jacinto Sud,28.0,6.0,,,
+2023-05-18,San Jacinto_M (GPRS),20.92,8.34,94.7,44.69,
 2023-05-18,San Javier Aeropuerto,29.7,18.3,,,
 2023-05-18,San Joaquin,33.0,24.0,93.3,93.3,
 2023-05-18,San Joaquin Aeropuerto,34.1,22.8,,,
@@ -29636,6 +29775,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-19,San Ignacio de Moxos Aerop,,,,,26.6
 2023-05-19,San Ignacio de Velasco Aerop,31.0,19.0,,,
 2023-05-19,San Jacinto Sud,30.0,5.5,,,
+2023-05-19,San Jacinto_M (GPRS),23.22,14.41,86.0,46.35,
 2023-05-19,San Javier Aeropuerto,29.3,18.0,,,
 2023-05-19,San Joaquin,23.0,23.0,99.1,99.1,
 2023-05-19,San Joaquin Aeropuerto,33.9,22.7,,,3.1
@@ -29812,6 +29952,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-20,San Calixto,18.2,3.8,,,
 2023-05-20,San Ignacio de Velasco Aerop,31.5,,,,
 2023-05-20,San Jacinto Sud,30.5,13.5,,,
+2023-05-20,San Jacinto_M (GPRS),26.42,9.92,97.4,12.69,
 2023-05-20,San Javier,30.0,22.0,99.1,65.4,
 2023-05-20,San Javier Aeropuerto,30.3,,,,
 2023-05-20,San Javier Aeropuerto (F),30.0,22.0,99.1,65.4,
@@ -29942,6 +30083,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-21,Huayrocondo,15.5,-3.8,,,
 2023-05-21,Isla Del Sol,18.3,2.4,,,
 2023-05-21,Isla Suriqui_M (GPRS),13.44,-0.24,67.65,25.63,
+2023-05-21,Itau,,,,,2.0
 2023-05-21,Ivirgarzama-Senda VI (GPRS),30.98,22.63,88.4,68.69,0.7
 2023-05-21,Jesús de Machaca_M (GPRS),16.7,-14.58,71.89,8.69,
 2023-05-21,La Asunta,30.0,18.5,,,
@@ -29985,6 +30127,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-21,San Calixto,20.4,4.6,,,
 2023-05-21,San Ignacio de Velasco Aerop,31.3,20.3,,,
 2023-05-21,San Jacinto Sud,36.5,10.0,,,
+2023-05-21,San Jacinto_M (GPRS),28.45,2.56,87.6,8.23,
 2023-05-21,San Javier,29.0,21.0,99.1,69.5,
 2023-05-21,San Javier Aeropuerto,29.7,,,,
 2023-05-21,San Javier Aeropuerto (F),29.0,21.0,99.1,69.5,
@@ -30167,6 +30310,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-22,San Ignacio de Moxos Aerop,,,,,2.1
 2023-05-22,San Ignacio de Velasco Aerop,31.0,21.0,,,
 2023-05-22,San Jacinto Sud,35.5,0.0,,,
+2023-05-22,San Jacinto_M (GPRS),28.5,2.57,90.7,9.43,
 2023-05-22,San Javier,28.0,28.0,78.2,78.2,
 2023-05-22,San Javier Aeropuerto,31.0,21.0,,,
 2023-05-22,San Javier Aeropuerto (F),28.0,28.0,78.2,78.2,
@@ -30368,6 +30512,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-23,San Ignacio de Moxos Aerop,,,,,10.4
 2023-05-23,San Ignacio de Velasco Aerop,32.0,21.0,,,
 2023-05-23,San Jacinto Sud,35.0,0.0,,,
+2023-05-23,San Jacinto_M (GPRS),28.88,5.76,94.8,17.92,
 2023-05-23,San Javier Aeropuerto,31.2,21.2,,,
 2023-05-23,San Joaquin,32.0,24.0,93.3,93.3,
 2023-05-23,San Joaquin Aeropuerto,32.8,22.7,,,1.3
@@ -30561,6 +30706,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-24,San Ignacio de Moxos Aerop,32.3,,,,
 2023-05-24,San Ignacio de Velasco Aerop,31.1,20.5,,,
 2023-05-24,San Jacinto Sud,36.0,3.5,,,
+2023-05-24,San Jacinto_M (GPRS),29.21,11.19,90.1,7.36,
 2023-05-24,San Javier,28.0,25.0,87.9,78.1,
 2023-05-24,San Javier Aeropuerto,30.4,18.4,,,
 2023-05-24,San Javier Aeropuerto (F),28.0,25.0,87.9,78.1,
@@ -30749,6 +30895,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-25,San Ignacio de Moxos Aerop,32.2,,,,
 2023-05-25,San Ignacio de Velasco Aerop,31.0,21.0,,,
 2023-05-25,San Jacinto Sud,34.0,4.0,,,
+2023-05-25,San Jacinto_M (GPRS),29.19,7.13,98.8,10.34,
 2023-05-25,San Javier,27.0,27.0,78.1,78.1,
 2023-05-25,San Javier Aeropuerto,29.5,18.8,,,
 2023-05-25,San Javier Aeropuerto (F),27.0,27.0,78.1,78.1,
@@ -30941,6 +31088,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-26,San Ignacio de Moxos Aerop,32.5,,,,
 2023-05-26,San Ignacio de Velasco Aerop,31.0,20.7,,,
 2023-05-26,San Jacinto Sud,36.0,6.0,,,
+2023-05-26,San Jacinto_M (GPRS),30.11,4.56,87.9,6.84,
 2023-05-26,San Javier Aeropuerto,30.7,18.7,,,
 2023-05-26,San Joaquin,24.0,24.0,93.3,93.3,
 2023-05-26,San Joaquin Aeropuerto,32.8,22.9,,,3.8
@@ -31116,6 +31264,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-27,San Calixto,15.4,5.8,,,
 2023-05-27,San Ignacio de Velasco Aerop,31.0,,,,
 2023-05-27,San Jacinto Sud,26.0,6.0,,,
+2023-05-27,San Jacinto_M (GPRS),20.34,11.73,86.0,50.8,
 2023-05-27,San Javier,28.0,24.0,93.3,73.6,
 2023-05-27,San Javier Aeropuerto,28.5,,,,
 2023-05-27,San Javier Aeropuerto (F),28.0,24.0,93.3,73.6,
@@ -31308,6 +31457,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-28,San Calixto,16.0,8.4,,,1.2
 2023-05-28,San Ignacio de Velasco Aerop,22.0,,,,
 2023-05-28,San Jacinto Sud,28.0,12.0,,,
+2023-05-28,San Jacinto_M (GPRS),19.12,5.74,97.1,54.4,
 2023-05-28,San Javier,18.0,18.0,93.0,93.0,
 2023-05-28,San Javier Aeropuerto,20.2,,,,
 2023-05-28,San Javier Aeropuerto (F),18.0,18.0,93.0,93.0,
@@ -31450,6 +31600,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-29,Incapampa,,,,,20.1
 2023-05-29,Isla Del Sol,14.2,4.5,,,1.2
 2023-05-29,Isla Suriqui_M (GPRS),,,,,3.0
+2023-05-29,Itau,,,,,5.0
 2023-05-29,Ivirgarzama-Senda VI (GPRS),20.8,18.15,90.2,83.1,0.2
 2023-05-29,Jesús de Machaca_M (GPRS),17.2,-14.9,75.61,5.76,
 2023-05-29,La Asunta,,,,,2.6
@@ -31509,6 +31660,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-29,San Ignacio de Moxos Aerop,,,,,2.9
 2023-05-29,San Ignacio de Velasco Aerop,,,,,12.5
 2023-05-29,San Jacinto Sud,28.0,4.0,,,
+2023-05-29,San Jacinto_M (GPRS),20.09,11.73,90.6,50.87,
 2023-05-29,San Javier Aeropuerto,,,,,14.1
 2023-05-29,San Joaquin,19.0,19.0,99.1,99.1,
 2023-05-29,San Joaquin Aeropuerto,23.5,18.5,,,39.4
@@ -31653,6 +31805,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-30,Incapampa,,,,,6.2
 2023-05-30,Isla Del Sol,15.8,2.4,,,
 2023-05-30,Isla Suriqui_M (GPRS),12.4,1.0,88.4,17.08,
+2023-05-30,Itau,,,,,8.0
 2023-05-30,Ivirgarzama-Senda VI (GPRS),25.43,19.26,89.9,74.43,
 2023-05-30,Jesús de Machaca_M (GPRS),15.25,-12.23,61.2,8.29,
 2023-05-30,La Asunta,28.0,19.0,,,
@@ -31710,6 +31863,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-30,San Ignacio de Moxos Aerop,22.7,,,,
 2023-05-30,San Ignacio de Velasco Aerop,,,,,1.1
 2023-05-30,San Jacinto Sud,29.0,8.0,,,
+2023-05-30,San Jacinto_M (GPRS),22.44,10.04,74.92,29.22,0.1
 2023-05-30,San Javier Aeropuerto,20.1,13.1,,,
 2023-05-30,San Jose de Chiquitos,16.0,16.0,99.1,99.1,
 2023-05-30,San Jose de Chiquitos Aerop,21.5,14.2,,,2.2
@@ -31897,6 +32051,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-31,San Ignacio de Moxos Aerop,28.7,,,,
 2023-05-31,San Ignacio de Velasco Aerop,23.0,15.0,,,
 2023-05-31,San Jacinto Sud,33.0,-1.0,,,
+2023-05-31,San Jacinto_M (GPRS),25.92,2.8,96.4,18.92,
 2023-05-31,San Javier Aeropuerto,24.6,13.5,,,
 2023-05-31,San Joaquin Aeropuerto,25.2,,,,
 2023-05-31,San Jose de Chiquitos,23.0,19.0,93.1,77.5,
@@ -31983,6 +32138,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-01,Camata,30.5,11.0,,,
 2023-06-01,Camiri,22.0,15.0,93.1,93.1,
 2023-06-01,Carabuco,,-2.5,,,
+2023-06-01,Caranavi,36.5,21.0,,,
 2023-06-01,Catacora,15.0,-7.0,,,
 2023-06-01,Cañas,29.5,4.0,,,
 2023-06-01,Chaqui,21.8,-2.6,,,
@@ -32034,6 +32190,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-01,Padilla,25.0,3.0,,,
 2023-06-01,Pailon - Pozo del Tigre (GPRS),28.44,18.4,100.0,59.45,
 2023-06-01,Palca_LP,20.0,3.0,,,
+2023-06-01,Palmar Grande,23.0,19.0,,,
 2023-06-01,Pampas de Lequezana,20.1,9.0,,,
 2023-06-01,Pocona - SDC (GPRS),26.43,-2.3,84.7,10.59,
 2023-06-01,Pojo - SDC (GPRS),24.74,8.75,73.23,26.5,
@@ -32056,6 +32213,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-01,Samasa,20.0,-1.0,,,
 2023-06-01,San Andres de Machaca_M (GPRS),16.78,-0.67,38.46,6.59,
 2023-06-01,San Calixto,18.6,4.8,,,
+2023-06-01,San Jacinto_M (GPRS),26.81,21.23,38.17,24.01,
 2023-06-01,San Javier,27.0,20.0,93.1,69.1,
 2023-06-01,San Javier Aeropuerto (F),27.0,20.0,93.1,69.1,
 2023-06-01,San Joaquin,22.0,22.0,93.2,93.2,
@@ -32085,6 +32243,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-01,Temporal - SDC (GPRS),25.83,7.73,29.04,0.02,
 2023-06-01,Tiahuanaco_M (GPRS),16.62,-7.99,87.0,14.26,
 2023-06-01,Tinguipaya,21.3,1.3,,,
+2023-06-01,Todos Santos_Or,,-6.0,,,
 2023-06-01,Tomave,19.0,-8.5,,,
 2023-06-01,Trinidad,22.0,22.0,93.2,93.2,
 2023-06-01,Trompillo Aeropuerto,25.6,19.6,,,
@@ -32094,6 +32253,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-01,Vacas - SDC (GPRS),18.79,2.16,33.15,11.32,
 2023-06-01,Viacha_M (GPRS),17.54,-7.35,78.69,9.47,
 2023-06-01,Vila Vila - SDC (GPRS),25.42,6.57,53.29,11.76,
+2023-06-01,Villa Puni,16.0,0.0,,,
 2023-06-01,Villamontes,19.0,19.0,93.1,93.1,
 2023-06-01,Villazon,20.2,-4.2,,,
 2023-06-01,Viru Viru,20.0,20.0,99.1,99.1,
@@ -32104,6 +32264,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-01,Wila Cala (GPRS),-0.1,-0.97,34.25,30.7,
 2023-06-01,Yacuiba,18.0,18.0,87.3,87.3,
 2023-06-01,Yesera Norte,25.0,3.0,,,
+2023-06-01,Yesera Sur,28.0,-1.0,,,
 2023-06-01,Yocalla,24.1,-6.0,,,
 2023-06-01,Zudañez,26.0,4.0,,,
 2023-06-01,Ñoquejza,16.0,-5.1,,,
@@ -32122,6 +32283,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-02,Camata,31.5,12.0,,,
 2023-06-02,Camiri,28.0,18.0,87.3,44.7,
 2023-06-02,Carabuco,,-1.9,,,
+2023-06-02,Caranavi,35.0,20.5,,,
 2023-06-02,Catacora,14.0,-8.0,,,
 2023-06-02,Cañas,32.5,2.5,,,
 2023-06-02,Chaqui,22.7,0.4,,,
@@ -32172,6 +32334,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-02,Padilla,30.0,2.0,,,
 2023-06-02,Pailon - Pozo del Tigre (GPRS),29.17,20.81,96.4,58.55,
 2023-06-02,Palca_LP,20.5,2.0,,,
+2023-06-02,Palmar Grande,30.0,14.0,,,
 2023-06-02,Pampas de Lequezana,21.4,10.1,,,
 2023-06-02,Pocona - SDC (GPRS),25.51,-0.47,80.4,8.38,
 2023-06-02,Pojo - SDC (GPRS),25.86,8.69,56.72,25.27,
@@ -32193,6 +32356,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-02,Samasa,19.4,0.0,,,
 2023-06-02,San Andres de Machaca_M (GPRS),17.22,-0.13,29.17,7.11,
 2023-06-02,San Calixto,18.8,4.4,,,
+2023-06-02,San Jacinto_M (GPRS),28.59,2.01,94.3,22.04,
 2023-06-02,San Joaquin,31.0,23.0,93.2,58.3,
 2023-06-02,San Jose de Chiquitos,28.0,21.0,82.4,69.3,
 2023-06-02,San Juan de Yapacaní,,,,,0.2
@@ -32221,6 +32385,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-02,Temporal - SDC (GPRS),26.0,7.89,29.05,0.02,
 2023-06-02,Tiahuanaco_M (GPRS),16.57,-9.04,79.21,14.85,
 2023-06-02,Tinguipaya,23.2,1.4,,,
+2023-06-02,Todos Santos_Or,,-7.5,,,
 2023-06-02,Tomave,18.1,-8.6,,,
 2023-06-02,Trinidad,21.0,21.0,93.2,93.2,
 2023-06-02,Trompillo Aeropuerto,27.6,19.5,,,
@@ -32230,6 +32395,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-02,Vacas - SDC (GPRS),18.93,2.2,57.32,9.27,
 2023-06-02,Viacha_M (GPRS),17.28,-7.75,73.18,8.95,
 2023-06-02,Vila Vila - SDC (GPRS),27.38,9.99,30.33,8.2,
+2023-06-02,Villa Puni,14.0,-1.0,,,
 2023-06-02,Villamontes,31.0,21.0,82.2,45.5,
 2023-06-02,Villazon,21.0,-4.1,,,
 2023-06-02,Viru Viru,20.0,20.0,93.1,93.1,
@@ -32240,6 +32406,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-02,Wila Cala (GPRS),-0.43,-1.95,39.88,32.16,
 2023-06-02,Yacuiba,15.0,15.0,81.5,81.5,
 2023-06-02,Yesera Norte,30.0,3.5,,,
+2023-06-02,Yesera Sur,29.0,1.0,,,
 2023-06-02,Yocalla,25.0,-5.2,,,
 2023-06-02,Zudañez,23.5,3.0,,,
 2023-06-02,Ñoquejza,14.1,-4.2,,,
@@ -32258,6 +32425,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-03,Camata,31.0,12.5,,,
 2023-06-03,Camiri,28.0,17.0,93.0,93.0,
 2023-06-03,Carabuco,,-2.9,,,
+2023-06-03,Caranavi,35.5,21.5,,,
 2023-06-03,Catacora,14.5,-7.5,,,
 2023-06-03,Cañas,34.0,8.5,,,
 2023-06-03,Chaqui,21.9,0.8,,,
@@ -32305,6 +32473,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-03,Padilla,26.0,6.0,,,
 2023-06-03,Pailon - Pozo del Tigre (GPRS),30.56,21.33,98.5,56.53,
 2023-06-03,Palca_LP,20.5,2.5,,,
+2023-06-03,Palmar Grande,26.0,15.0,,,
 2023-06-03,Pampas de Lequezana,20.2,9.0,,,
 2023-06-03,Pocona - SDC (GPRS),28.4,-0.64,94.8,6.14,
 2023-06-03,Pojo - SDC (GPRS),26.19,7.57,72.19,28.73,
@@ -32324,6 +32493,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-03,Samasa,19.2,-1.0,,,
 2023-06-03,San Andres de Machaca_M (GPRS),15.65,-0.94,19.1,6.19,
 2023-06-03,San Calixto,19.0,4.8,,,
+2023-06-03,San Jacinto_M (GPRS),29.8,3.41,90.9,9.86,
 2023-06-03,San Javier,29.0,25.0,87.9,73.8,
 2023-06-03,San Javier Aeropuerto (F),29.0,25.0,87.9,73.8,
 2023-06-03,San Julian - Comunidad Los Angeles (GPRS),30.33,20.78,99.5,64.57,
@@ -32351,6 +32521,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-03,Temporal - SDC (GPRS),25.56,6.63,36.5,0.02,
 2023-06-03,Tiahuanaco_M (GPRS),16.5,-9.75,74.9,8.66,
 2023-06-03,Tinguipaya,22.1,1.3,,,
+2023-06-03,Todos Santos_Or,,-8.0,,,
 2023-06-03,Tomave,19.1,-8.0,,,
 2023-06-03,Trinidad,23.0,23.0,87.7,87.7,
 2023-06-03,Trompillo Aeropuerto,29.4,20.5,,,
@@ -32360,6 +32531,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-03,Vacas - SDC (GPRS),18.81,1.97,34.0,8.79,
 2023-06-03,Viacha_M (GPRS),16.69,-6.9,65.17,7.52,
 2023-06-03,Vila Vila - SDC (GPRS),27.27,6.89,41.29,4.74,
+2023-06-03,Villa Puni,13.5,1.0,,,
 2023-06-03,Villazon,22.0,-4.2,,,
 2023-06-03,Viru Viru,22.0,22.0,87.6,87.6,
 2023-06-03,Viscachas Chirage (GPRS),16.81,-0.27,82.0,6.39,
@@ -32368,6 +32540,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-03,Vivero Viloma - SDC (GPRS),29.5,6.23,40.83,1.24,
 2023-06-03,Wila Cala (GPRS),-0.06,-0.94,56.22,54.84,
 2023-06-03,Yesera Norte,25.0,3.0,,,
+2023-06-03,Yesera Sur,30.0,2.0,,,
 2023-06-03,Yocalla,23.2,-3.2,,,
 2023-06-03,Zudañez,24.0,4.0,,,
 2023-06-03,Ñoquejza,18.1,-3.3,,,
@@ -32386,6 +32559,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-04,Camata,30.5,14.0,,,
 2023-06-04,Camiri,26.0,15.0,93.1,93.1,
 2023-06-04,Carabuco,,-1.5,,,
+2023-06-04,Caranavi,36.0,19.0,,,
 2023-06-04,Catacora,14.5,-7.5,,,
 2023-06-04,Cañas,20.0,3.5,,,
 2023-06-04,Chaqui,21.7,1.1,,,
@@ -32432,6 +32606,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-04,Padilla,24.0,1.0,,,
 2023-06-04,Pailon - Pozo del Tigre (GPRS),31.29,21.53,96.4,59.99,
 2023-06-04,Palca_LP,19.5,2.0,,,
+2023-06-04,Palmar Grande,27.0,15.0,,,
 2023-06-04,Pampas de Lequezana,19.4,10.2,,,
 2023-06-04,Pocona - SDC (GPRS),22.91,4.77,94.6,16.92,
 2023-06-04,Pojo - SDC (GPRS),20.68,9.41,82.0,45.45,
@@ -32450,6 +32625,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-04,San Andres de Machaca_M (GPRS),15.27,-1.39,28.02,7.69,
 2023-06-04,San Calixto,17.4,5.0,,,
 2023-06-04,San Ignacio de Moxos (GPRS),22.0,22.0,93.2,93.2,
+2023-06-04,San Jacinto_M (GPRS),19.14,11.4,82.3,49.05,
 2023-06-04,San Javier,30.0,27.0,78.4,74.0,
 2023-06-04,San Javier Aeropuerto (F),30.0,27.0,78.4,74.0,
 2023-06-04,San Julian - Comunidad Los Angeles (GPRS),31.56,22.47,99.1,62.74,
@@ -32477,6 +32653,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-04,Temporal - SDC (GPRS),24.94,8.58,63.68,0.03,
 2023-06-04,Tiahuanaco_M (GPRS),16.04,-8.32,75.69,13.08,
 2023-06-04,Tinguipaya,22.3,1.2,,,
+2023-06-04,Todos Santos_Or,,-9.0,,,
 2023-06-04,Tomave,17.0,-7.5,,,
 2023-06-04,Trinidad,24.0,24.0,93.3,93.3,
 2023-06-04,Trompillo Aeropuerto,29.4,21.2,,,
@@ -32486,6 +32663,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-04,Vacas - SDC (GPRS),18.3,0.65,95.9,7.19,
 2023-06-04,Viacha_M (GPRS),16.23,-7.36,94.4,7.31,
 2023-06-04,Vila Vila - SDC (GPRS),24.65,7.2,83.8,11.93,
+2023-06-04,Villa Puni,14.0,1.5,,,
 2023-06-04,Villazon,21.0,-6.1,,,
 2023-06-04,Viru Viru,23.0,23.0,87.7,87.7,
 2023-06-04,Viscachas Chirage (GPRS),16.14,-2.01,74.45,13.16,
@@ -32494,6 +32672,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-04,Vivero Viloma - SDC (GPRS),27.46,7.75,69.09,2.05,
 2023-06-04,Wila Cala (GPRS),0.07,-0.42,40.02,37.1,
 2023-06-04,Yesera Norte,19.0,4.0,,,
+2023-06-04,Yesera Sur,21.0,1.0,,,
 2023-06-04,Yocalla,24.0,-1.0,,,
 2023-06-04,Zudañez,25.0,3.0,,,
 2023-06-04,Ñoquejza,19.2,-6.2,,,
@@ -32513,6 +32692,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-05,Camata,32.0,15.0,,,
 2023-06-05,Camiri,,,93.0,93.0,
 2023-06-05,Carabuco,,-2.5,,,
+2023-06-05,Caranavi,36.5,20.5,,,
 2023-06-05,Catacora,15.0,-8.0,,,
 2023-06-05,Cañas,23.5,10.0,,,
 2023-06-05,Chaqui,18.1,-2.8,,,
@@ -32563,6 +32743,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-05,Padilla,22.0,10.0,,,
 2023-06-05,Pailon - Pozo del Tigre (GPRS),29.74,18.86,100.0,61.74,
 2023-06-05,Palca_LP,18.5,1.5,,,
+2023-06-05,Palmar Grande,30.0,18.0,,,
 2023-06-05,Pampas de Lequezana,24.1,9.4,,,
 2023-06-05,Pocona - SDC (GPRS),20.4,0.99,98.3,41.86,
 2023-06-05,Pojo - SDC (GPRS),20.68,9.94,83.5,50.91,
@@ -32586,6 +32767,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-05,San Borja,31.0,31.0,69.8,69.8,
 2023-06-05,San Calixto,16.8,2.6,,,
 2023-06-05,San Ignacio de Velasco Aerop,,,,,1.5
+2023-06-05,San Jacinto_M (GPRS),20.88,8.39,94.1,46.0,
 2023-06-05,San Javier,26.0,19.0,99.1,82.8,
 2023-06-05,San Javier Aeropuerto (F),26.0,19.0,99.1,82.8,
 2023-06-05,San Joaquin,24.0,24.0,93.3,93.3,
@@ -32603,6 +32785,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-05,Santiago de Huata,16.0,-3.0,,,
 2023-06-05,Sara Ana,34.0,20.0,,,
 2023-06-05,Sauce Pilata - SDC (GPRS),16.83,7.72,99.9,57.57,
+2023-06-05,Saykan Perulas,,,,,0.6
 2023-06-05,Sella Quebrada,22.0,7.5,,,
 2023-06-05,Sorata,24.0,5.0,,,
 2023-06-05,Sucre SENAMHI,20.5,7.2,70.0,30.0,
@@ -32615,6 +32798,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-05,Temporal - SDC (GPRS),22.18,7.05,56.15,0.05,
 2023-06-05,Tiahuanaco_M (GPRS),14.35,-10.28,83.6,14.57,
 2023-06-05,Tinguipaya,20.4,1.0,,,
+2023-06-05,Todos Santos_Or,,-7.0,,,
 2023-06-05,Tomave,16.1,-7.0,,,
 2023-06-05,Trinidad,24.0,24.0,93.3,93.3,
 2023-06-05,Trompillo Aeropuerto,28.8,20.3,,,
@@ -32624,6 +32808,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-05,Vacas - SDC (GPRS),15.1,1.93,74.09,24.67,
 2023-06-05,Viacha_M (GPRS),14.79,-8.4,81.9,13.24,
 2023-06-05,Vila Vila - SDC (GPRS),21.88,8.99,79.27,32.76,
+2023-06-05,Villa Puni,13.5,1.0,,,
 2023-06-05,Villamontes,19.0,19.0,93.1,93.1,
 2023-06-05,Villazon,20.0,-5.1,,,
 2023-06-05,Viru Viru,23.0,23.0,77.5,77.5,
@@ -32634,6 +32819,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-05,Wila Cala (GPRS),9.11,-2.38,93.64,34.65,
 2023-06-05,Yacuiba,18.0,18.0,87.3,87.3,
 2023-06-05,Yesera Norte,19.5,9.0,,,
+2023-06-05,Yesera Sur,22.0,7.0,,,
 2023-06-05,Yocalla,23.1,-5.1,,,
 2023-06-05,Zudañez,24.0,6.0,,,
 2023-06-05,Ñoquejza,11.9,-5.1,,,
@@ -32652,6 +32838,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-06,Camata,30.5,14.5,,,
 2023-06-06,Camiri,28.0,14.0,92.9,41.9,
 2023-06-06,Carabuco,,-2.5,,,
+2023-06-06,Caranavi,37.0,20.0,,,
 2023-06-06,Catacora,14.0,-9.0,,,
 2023-06-06,Cañas,29.0,10.0,,,
 2023-06-06,Chaqui,20.1,-0.8,,,
@@ -32683,6 +32870,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-06,Guajara-Mirim - Guayaramerín,,,,,0.8
 2023-06-06,Hichucota,13.0,-3.0,,,
 2023-06-06,Huarisuyo (GPRS),15.13,-6.64,85.8,14.38,
+2023-06-06,Huaylipaya,,,,,11.5
 2023-06-06,Huayrocondo,16.2,-6.5,,,
 2023-06-06,Isla Del Sol,13.4,3.6,,,
 2023-06-06,Isla Suriqui_M (GPRS),12.99,0.09,81.7,13.46,
@@ -32703,6 +32891,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-06,Padilla,25.0,12.0,,,
 2023-06-06,Pailon - Pozo del Tigre (GPRS),31.31,19.84,95.9,52.13,
 2023-06-06,Palca_LP,19.5,0.5,,,
+2023-06-06,Palmar Grande,30.0,20.0,,,
 2023-06-06,Pampas de Lequezana,20.3,9.0,,,1.0
 2023-06-06,Pocona - SDC (GPRS),20.82,3.43,89.8,39.69,
 2023-06-06,Pojo - SDC (GPRS),20.35,9.34,79.83,58.75,
@@ -32724,6 +32913,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-06,Samasa,18.2,-5.0,,,
 2023-06-06,San Andres de Machaca_M (GPRS),14.62,-0.93,25.22,8.21,
 2023-06-06,San Calixto,17.0,2.8,,,
+2023-06-06,San Jacinto_M (GPRS),24.69,17.64,68.98,36.82,
 2023-06-06,San Joaquin,34.0,23.0,93.2,93.2,
 2023-06-06,San Jose de Chiquitos,31.0,23.0,82.5,54.8,
 2023-06-06,San Julian - Comunidad Los Angeles (GPRS),30.97,21.5,97.0,57.72,
@@ -32751,6 +32941,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-06,Temporal - SDC (GPRS),24.64,6.55,36.69,0.02,
 2023-06-06,Tiahuanaco_M (GPRS),15.0,-10.08,75.42,12.74,
 2023-06-06,Tinguipaya,21.3,1.3,,,
+2023-06-06,Todos Santos_Or,,-9.5,,,
 2023-06-06,Tomave,18.1,-5.1,,,
 2023-06-06,Trinidad,32.0,23.0,93.2,93.2,
 2023-06-06,Trompillo Aeropuerto,30.0,18.2,,,
@@ -32760,6 +32951,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-06,Vacas - SDC (GPRS),16.86,1.97,59.75,8.23,
 2023-06-06,Viacha_M (GPRS),15.44,-10.63,79.37,11.02,
 2023-06-06,Vila Vila - SDC (GPRS),23.3,5.98,75.84,21.97,
+2023-06-06,Villa Puni,14.5,1.0,,,
 2023-06-06,Villamontes,30.0,18.0,93.1,93.1,
 2023-06-06,Villazon,20.1,-7.0,,,
 2023-06-06,Viru Viru,30.0,21.0,87.6,87.6,
@@ -32770,6 +32962,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-06,Wila Cala (GPRS),11.64,-2.65,99.83,19.96,
 2023-06-06,Yacuiba,26.0,19.0,87.4,87.4,
 2023-06-06,Yesera Norte,20.0,4.0,,,
+2023-06-06,Yesera Sur,27.0,5.0,,,
 2023-06-06,Yocalla,24.0,-6.8,,,
 2023-06-06,Zudañez,24.0,4.0,,,
 2023-06-06,Ñoquejza,16.1,-6.2,,,
@@ -32789,6 +32982,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-07,Camata,31.5,15.5,,,
 2023-06-07,Camiri,28.0,14.0,99.1,44.7,
 2023-06-07,Carabuco,,-2.9,,,
+2023-06-07,Caranavi,37.5,19.0,,,
 2023-06-07,Catacora,13.0,-8.0,,,
 2023-06-07,Cañas,27.5,4.0,,,
 2023-06-07,Chaqui,20.2,-0.1,,,
@@ -32818,6 +33012,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-07,El Villar,23.5,8.0,,,
 2023-06-07,Hichucota,15.0,-5.0,,,
 2023-06-07,Huarisuyo (GPRS),15.97,-8.32,75.45,10.8,
+2023-06-07,Huaylipaya,,,,,6.9
 2023-06-07,Huayrocondo,17.0,-7.1,,,
 2023-06-07,Isla Del Sol,16.7,4.5,,,
 2023-06-07,Isla Suriqui_M (GPRS),13.57,1.34,83.8,16.11,
@@ -32837,6 +33032,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-07,Padilla,24.0,3.0,,,
 2023-06-07,Pailon - Pozo del Tigre (GPRS),31.63,19.85,95.3,50.01,
 2023-06-07,Palca_LP,19.5,1.0,,,
+2023-06-07,Palmar Grande,30.0,20.0,,,
 2023-06-07,Pampas de Lequezana,19.2,8.1,,,
 2023-06-07,Pocona - SDC (GPRS),23.49,2.18,95.1,22.61,
 2023-06-07,Pojo - SDC (GPRS),21.21,8.36,77.37,50.41,
@@ -32860,6 +33056,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-07,Samasa,17.0,-2.0,,,
 2023-06-07,San Andres de Machaca_M (GPRS),15.62,-1.59,30.51,7.74,
 2023-06-07,San Calixto,17.4,3.4,,,
+2023-06-07,San Jacinto_M (GPRS),24.28,14.91,77.17,32.38,
 2023-06-07,San Javier,30.0,19.0,99.1,99.1,
 2023-06-07,San Javier Aeropuerto (F),30.0,19.0,99.1,99.1,
 2023-06-07,San Joaquin,31.0,23.0,99.1,99.1,
@@ -32892,6 +33089,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-07,Temporal - SDC (GPRS),24.55,6.79,35.63,0.03,
 2023-06-07,Tiahuanaco_M (GPRS),15.66,-10.54,79.48,11.19,
 2023-06-07,Tinguipaya,22.1,1.2,,,
+2023-06-07,Todos Santos_Or,,-9.0,,,
 2023-06-07,Tomave,17.5,-2.0,,,
 2023-06-07,Trinidad,23.0,23.0,93.2,93.2,
 2023-06-07,Trompillo Aeropuerto,29.0,21.7,,,0.1
@@ -32901,6 +33099,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-07,Vacas - SDC (GPRS),16.84,1.31,59.68,9.7,
 2023-06-07,Viacha_M (GPRS),16.16,-7.09,67.51,8.55,
 2023-06-07,Vila Vila - SDC (GPRS),25.06,4.88,75.96,9.49,
+2023-06-07,Villa Puni,14.0,-1.0,,,
 2023-06-07,Villamontes,19.0,19.0,93.1,93.1,
 2023-06-07,Villazon,19.4,-5.1,,,
 2023-06-07,Viru Viru,23.0,23.0,93.2,93.2,
@@ -32911,6 +33110,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-07,Wila Cala (GPRS),12.57,-2.48,99.11,25.42,
 2023-06-07,Yacuiba,20.0,20.0,87.5,87.5,
 2023-06-07,Yesera Norte,24.0,3.0,,,
+2023-06-07,Yesera Sur,26.0,3.0,,,
 2023-06-07,Yocalla,23.2,-9.2,,,
 2023-06-07,Zudañez,24.0,5.0,,,
 2023-06-07,Ñoquejza,14.2,5.1,,,
@@ -32929,6 +33129,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-08,Camata,32.0,15.0,,,
 2023-06-08,Camiri,29.0,15.0,93.0,93.0,
 2023-06-08,Carabuco,,-2.0,,,
+2023-06-08,Caranavi,36.5,21.5,,,
 2023-06-08,Catacora,12.5,-9.5,,,
 2023-06-08,Cañas,30.0,9.0,,,
 2023-06-08,Chaqui,20.7,-1.6,,,
@@ -32977,6 +33178,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-08,Padilla,28.0,5.0,,,
 2023-06-08,Pailon - Pozo del Tigre (GPRS),31.39,21.01,94.5,55.12,
 2023-06-08,Palca_LP,18.0,2.0,,,
+2023-06-08,Palmar Grande,31.0,15.0,,,
 2023-06-08,Pampas de Lequezana,18.1,5.3,,,
 2023-06-08,Pocona - SDC (GPRS),27.88,2.28,84.2,12.56,
 2023-06-08,Pojo - SDC (GPRS),21.93,9.08,75.4,46.9,
@@ -32996,6 +33198,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-08,Samasa,16.8,-2.0,,,
 2023-06-08,San Andres de Machaca_M (GPRS),16.18,-1.53,22.22,6.13,
 2023-06-08,San Calixto,19.0,3.6,,,
+2023-06-08,San Jacinto_M (GPRS),28.07,6.2,89.2,14.84,
 2023-06-08,San Javier,29.0,27.0,69.5,65.4,
 2023-06-08,San Javier Aeropuerto (F),29.0,27.0,69.5,65.4,
 2023-06-08,San Joaquin,23.0,23.0,93.2,93.2,
@@ -33025,6 +33228,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-08,Temporal - SDC (GPRS),25.77,6.41,32.49,0.02,
 2023-06-08,Tiahuanaco_M (GPRS),16.05,-11.84,69.65,15.17,
 2023-06-08,Tinguipaya,21.2,2.4,,,
+2023-06-08,Todos Santos_Or,,-11.0,,,
 2023-06-08,Tomave,19.0,-6.5,,,
 2023-06-08,Trinidad,23.0,23.0,93.2,93.2,
 2023-06-08,Trompillo Aeropuerto,30.0,22.0,,,0.3
@@ -33034,9 +33238,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-08,Vacas - SDC (GPRS),18.3,2.81,38.41,7.63,
 2023-06-08,Viacha_M (GPRS),16.36,-11.28,70.09,6.0,
 2023-06-08,Vila Vila - SDC (GPRS),27.11,6.58,31.62,7.68,
+2023-06-08,Villa Puni,14.0,0.0,,,
 2023-06-08,Villamontes,19.0,19.0,93.1,93.1,
 2023-06-08,Villazon,20.2,-5.2,,,
 2023-06-08,Viru Viru,23.0,23.0,93.2,93.2,
+2023-06-08,Viru Viru Aeropuerto,,,,,1.0
 2023-06-08,Viscachas Chirage (GPRS),17.61,0.78,62.42,9.97,
 2023-06-08,Vitichi,23.4,1.4,,,
 2023-06-08,Vivero Chimboco - SDC (GPRS),26.51,2.66,52.69,1.94,
@@ -33044,6 +33250,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-08,Wila Cala (GPRS),12.93,-3.02,72.94,20.29,
 2023-06-08,Yacuiba,18.0,18.0,93.0,93.0,
 2023-06-08,Yesera Norte,20.0,4.0,,,
+2023-06-08,Yesera Sur,27.0,5.0,,,
 2023-06-08,Yocalla,24.1,-4.1,,,
 2023-06-08,Zudañez,25.0,7.0,,,
 2023-06-08,Ñoquejza,19.1,3.2,,,
@@ -33062,6 +33269,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-09,Camata,32.0,14.5,,,
 2023-06-09,Camiri,32.0,15.0,99.1,99.1,
 2023-06-09,Carabuco,,-2.0,,,
+2023-06-09,Caranavi,36.0,20.0,,,
 2023-06-09,Catacora,12.0,-9.0,,,
 2023-06-09,Cañas,34.5,4.0,,,
 2023-06-09,Chaqui,22.3,1.5,,,
@@ -33102,6 +33310,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-09,Llallagua,18.2,-1.0,,,
 2023-06-09,Luribay,28.0,4.0,,,
 2023-06-09,Magdalena,34.0,23.0,99.1,99.1,
+2023-06-09,Minero (Unagro),,,,,0.8
 2023-06-09,Mizque - SDC (GPRS),30.98,-0.08,87.7,6.08,
 2023-06-09,Mojo,22.4,-5.4,,,
 2023-06-09,Molle Molle,26.7,7.2,,,
@@ -33111,6 +33320,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-09,Padilla,29.0,3.0,,,
 2023-06-09,Pailon - Pozo del Tigre (GPRS),31.83,22.98,94.1,54.36,
 2023-06-09,Palca_LP,21.5,2.0,,,
+2023-06-09,Palmar Grande,35.0,20.0,,,
 2023-06-09,Pampas de Lequezana,20.3,7.4,,,
 2023-06-09,Pocona - SDC (GPRS),29.22,1.99,83.2,8.18,
 2023-06-09,Pojo - SDC (GPRS),23.69,8.69,66.79,37.12,
@@ -33133,6 +33343,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-09,Samasa,17.4,-2.0,,,
 2023-06-09,San Andres de Machaca_M (GPRS),15.73,-1.72,18.37,4.76,
 2023-06-09,San Calixto,19.4,4.0,,,
+2023-06-09,San Jacinto_M (GPRS),30.72,3.89,94.2,14.08,
 2023-06-09,San Javier,27.0,21.0,93.2,78.0,
 2023-06-09,San Javier Aeropuerto (F),27.0,21.0,93.2,78.0,
 2023-06-09,San Joaquin,23.0,23.0,93.2,93.2,
@@ -33163,6 +33374,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-09,Temporal - SDC (GPRS),26.38,6.45,25.38,0.02,
 2023-06-09,Tiahuanaco_M (GPRS),16.37,-13.15,69.18,9.63,
 2023-06-09,Tinguipaya,23.2,2.2,,,
+2023-06-09,Todos Santos_Or,,-10.0,,,
 2023-06-09,Tomave,18.2,-8.0,,,
 2023-06-09,Trinidad,25.0,25.0,87.9,87.9,
 2023-06-09,Trompillo Aeropuerto,29.0,22.0,,,6.8
@@ -33172,6 +33384,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-09,Vacas - SDC (GPRS),19.27,2.62,27.61,7.73,
 2023-06-09,Viacha_M (GPRS),17.15,-11.09,58.73,5.68,
 2023-06-09,Vila Vila - SDC (GPRS),27.61,8.51,26.43,3.48,
+2023-06-09,Villa Puni,13.5,1.5,,,
 2023-06-09,Villamontes,18.0,18.0,93.0,93.0,
 2023-06-09,Villazon,20.1,-5.1,,,
 2023-06-09,Viru Viru,23.0,23.0,93.2,93.2,
@@ -33182,6 +33395,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-09,Wila Cala (GPRS),13.53,-3.2,71.65,16.5,
 2023-06-09,Yacuiba,18.0,18.0,87.3,87.3,
 2023-06-09,Yesera Norte,30.0,3.0,,,
+2023-06-09,Yesera Sur,29.0,1.0,,,
 2023-06-09,Yocalla,23.2,-3.2,,,
 2023-06-09,Zudañez,23.0,4.0,,,
 2023-06-09,Ñoquejza,18.1,-4.2,,,
@@ -33200,6 +33414,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-10,Camata,31.5,15.0,,,
 2023-06-10,Camiri,32.0,17.0,93.0,93.0,
 2023-06-10,Carabuco,,-2.0,,,
+2023-06-10,Caranavi,37.0,19.5,,,
 2023-06-10,Catacora,12.0,-9.5,,,
 2023-06-10,Cañas,30.0,5.5,,,
 2023-06-10,Chaqui,22.6,1.9,,,
@@ -33240,6 +33455,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-10,La Merced,27.0,11.0,,,
 2023-06-10,Llallagua,19.0,-1.6,,,
 2023-06-10,Luribay,27.0,4.0,,,
+2023-06-10,Minero (Unagro),,,,,78.4
 2023-06-10,Mizque - SDC (GPRS),29.4,3.24,92.2,10.92,
 2023-06-10,Mojo,21.3,-6.3,,,
 2023-06-10,Molle Molle,20.5,7.8,,,
@@ -33248,6 +33464,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-10,Padilla,28.0,2.0,,,
 2023-06-10,Pailon - Pozo del Tigre (GPRS),32.15,22.31,96.7,54.01,
 2023-06-10,Palca_LP,20.0,1.0,,,
+2023-06-10,Palmar Grande,32.0,18.0,,,
 2023-06-10,Pampas de Lequezana,22.4,4.2,,,
 2023-06-10,Pocona - SDC (GPRS),20.36,4.92,79.43,37.59,
 2023-06-10,Pojo - SDC (GPRS),21.69,11.38,81.7,53.34,
@@ -33265,6 +33482,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-10,Samasa,19.2,-2.0,,,
 2023-06-10,San Andres de Machaca_M (GPRS),15.8,-3.22,25.15,4.18,
 2023-06-10,San Calixto,18.4,4.4,,,
+2023-06-10,San Jacinto_M (GPRS),27.23,12.25,91.9,17.37,
 2023-06-10,San Javier,22.0,22.0,93.2,93.2,
 2023-06-10,San Javier Aeropuerto (F),22.0,22.0,93.2,93.2,
 2023-06-10,San Juan de Yapacaní,,,,,1.6
@@ -33293,6 +33511,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-10,Temporal - SDC (GPRS),25.7,6.9,42.06,0.02,
 2023-06-10,Tiahuanaco_M (GPRS),16.04,-10.93,74.87,8.05,
 2023-06-10,Tinguipaya,21.2,1.3,,,
+2023-06-10,Todos Santos_Or,,-11.5,,,
 2023-06-10,Tomave,19.0,-9.0,,,
 2023-06-10,Trinidad,25.0,25.0,93.3,93.3,
 2023-06-10,Trompillo Aeropuerto,29.5,23.2,,,
@@ -33302,6 +33521,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-10,Vacas - SDC (GPRS),18.09,0.72,71.35,8.2,
 2023-06-10,Viacha_M (GPRS),16.69,-10.5,79.23,5.55,
 2023-06-10,Vila Vila - SDC (GPRS),24.86,7.14,61.4,11.77,
+2023-06-10,Villa Puni,15.0,1.5,,,
 2023-06-10,Villazon,20.2,-5.1,,,
 2023-06-10,Viru Viru,24.0,24.0,87.8,87.8,
 2023-06-10,Viscachas Chirage (GPRS),15.56,-1.67,82.7,14.35,
@@ -33310,6 +33530,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-10,Vivero Viloma - SDC (GPRS),27.94,5.48,55.14,5.9,
 2023-06-10,Wila Cala (GPRS),13.45,-3.29,45.38,17.52,
 2023-06-10,Yesera Norte,25.0,4.0,,,
+2023-06-10,Yesera Sur,26.0,3.0,,,
 2023-06-10,Yocalla,24.1,-5.1,,,
 2023-06-10,Zudañez,26.0,4.0,,,
 2023-06-10,Ñoquejza,19.0,-5.1,,,
@@ -33329,6 +33550,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-11,Camata,32.0,15.5,,,
 2023-06-11,Camiri,16.0,10.0,67.0,67.0,
 2023-06-11,Carabuco,,-2.7,,,
+2023-06-11,Caranavi,35.5,20.0,,,
 2023-06-11,Catacora,13.0,-9.0,,,
 2023-06-11,Cañas,16.0,10.0,,,
 2023-06-11,Chaqui,19.8,-3.4,,,
@@ -33358,15 +33580,18 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-11,Guajara-Mirim - Guayaramerín,,,,,1.4
 2023-06-11,Hichucota,13.0,-3.0,,,
 2023-06-11,Huarisuyo (GPRS),15.12,-6.91,81.6,14.07,
+2023-06-11,Huaylipaya,,,,,7.8
 2023-06-11,Huayrocondo,15.6,-7.5,,,
 2023-06-11,Isla Del Sol,12.8,1.6,,,
 2023-06-11,Isla Suriqui_M (GPRS),13.06,1.66,79.78,26.07,
+2023-06-11,Itau,,,,,6.5
 2023-06-11,Ivirgarzama-Senda VI (GPRS),29.45,11.49,88.8,78.37,2.1
 2023-06-11,Jesús de Machaca_M (GPRS),16.33,-11.45,60.89,7.97,
 2023-06-11,La Asunta,28.0,16.0,,,
 2023-06-11,La Merced,10.0,9.0,,,
 2023-06-11,Llallagua,17.0,-2.0,,,
 2023-06-11,Luribay,25.0,6.0,,,
+2023-06-11,Minero (Unagro),,,,,36.0
 2023-06-11,Mizque - SDC (GPRS),25.81,4.31,93.6,30.23,
 2023-06-11,Mojo,19.3,-7.0,,,
 2023-06-11,Molle Molle,21.1,6.1,,,
@@ -33375,6 +33600,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-11,Padilla,25.0,5.0,,,
 2023-06-11,Pailon - Pozo del Tigre (GPRS),16.7,10.63,97.8,86.5,
 2023-06-11,Palca_LP,19.5,-1.0,,,
+2023-06-11,Palmar Grande,15.0,14.0,,,
 2023-06-11,Pampas de Lequezana,21.0,-3.0,,,
 2023-06-11,Pocona - SDC (GPRS),20.55,5.19,89.1,39.76,
 2023-06-11,Pojo - SDC (GPRS),22.79,10.46,91.4,41.78,
@@ -33392,6 +33618,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-11,Samasa,18.4,-4.0,,,
 2023-06-11,San Andres de Machaca_M (GPRS),16.06,-1.13,34.78,7.1,
 2023-06-11,San Calixto,18.8,3.2,,,
+2023-06-11,San Jacinto_M (GPRS),17.87,6.58,72.8,55.46,
 2023-06-11,San Javier,28.0,16.0,99.1,73.6,
 2023-06-11,San Javier Aeropuerto (F),28.0,16.0,99.1,73.6,
 2023-06-11,San Jose de Chiquitos,26.0,19.0,82.8,82.0,
@@ -33421,6 +33648,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-11,Temporal - SDC (GPRS),24.87,7.86,43.28,0.02,
 2023-06-11,Tiahuanaco_M (GPRS),15.45,-9.95,75.49,13.67,
 2023-06-11,Tinguipaya,24.3,-1.0,,,
+2023-06-11,Todos Santos_Or,,-9.5,,,
 2023-06-11,Tomave,17.1,-3.0,,,
 2023-06-11,Trinidad,24.0,24.0,99.1,99.1,
 2023-06-11,Trompillo Aeropuerto,22.6,18.5,,,15.3
@@ -33430,14 +33658,17 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-11,Vacas - SDC (GPRS),16.99,2.16,85.4,9.34,
 2023-06-11,Viacha_M (GPRS),16.16,-6.17,95.2,10.17,
 2023-06-11,Vila Vila - SDC (GPRS),21.89,4.93,81.3,32.22,
+2023-06-11,Villa Puni,15.0,1.0,,,
 2023-06-11,Villazon,21.2,-6.2,,,
 2023-06-11,Viru Viru,18.0,18.0,99.1,99.1,
+2023-06-11,Viru Viru Aeropuerto,,,,,5.9
 2023-06-11,Viscachas Chirage (GPRS),14.79,-0.71,84.3,27.0,
 2023-06-11,Vitichi,24.7,-1.1,,,
 2023-06-11,Vivero Chimboco - SDC (GPRS),24.18,4.14,65.95,9.55,
 2023-06-11,Vivero Viloma - SDC (GPRS),25.96,7.05,62.82,8.29,
 2023-06-11,Wila Cala (GPRS),12.46,-0.9,99.82,19.24,
 2023-06-11,Yesera Norte,12.0,5.0,,,
+2023-06-11,Yesera Sur,21.0,9.0,,,
 2023-06-11,Yocalla,23.3,-5.3,,,
 2023-06-11,Zudañez,28.0,4.0,,,
 2023-06-11,Ñoquejza,16.1,-4.1,,,
@@ -33478,6 +33709,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-12,Colcha K,21.8,-5.4,,,
 2023-06-12,Collana,19.0,-2.0,,,
 2023-06-12,Concepcion,,,86.5,86.5,
+2023-06-12,Concepcion Aeropuerto SCZ,,,,,21.6
 2023-06-12,Coripata,27.5,15.0,,,
 2023-06-12,Cotagaita Mosoj Llajta,25.0,-3.1,,,
 2023-06-12,Cuatro Cañadas - CEA-2 (GPRS),,,,,10.4
@@ -33505,6 +33737,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-12,Llallagua,14.6,0.0,,,
 2023-06-12,Luribay,25.0,5.0,,,
 2023-06-12,Magdalena,,,93.3,93.3,
+2023-06-12,Minero (Unagro),,,,,2.0
 2023-06-12,Mizque - SDC (GPRS),25.82,5.71,90.2,33.1,
 2023-06-12,Mojo,18.3,-2.3,,,
 2023-06-12,Molle Molle,20.0,6.7,,,
@@ -33515,12 +33748,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-12,Padilla,12.0,7.0,,,
 2023-06-12,Pailon - Pozo del Tigre (GPRS),,,,,12.6
 2023-06-12,Palca_LP,18.0,-2.0,,,
+2023-06-12,Palmar Grande,17.0,10.0,,,
 2023-06-12,Pampas de Lequezana,19.1,-4.1,,,
 2023-06-12,Pocona - SDC (GPRS),18.76,5.34,93.9,48.98,
 2023-06-12,Pojo - SDC (GPRS),21.82,3.84,86.8,46.57,
 2023-06-12,Porco,17.0,2.0,,,
 2023-06-12,Potosi Los Pinos,16.1,-2.8,,,
 2023-06-12,Puerto Suarez,13.0,13.0,81.3,81.3,
+2023-06-12,Puerto Suarez Aeropuerto,,,,,24.3
 2023-06-12,Puerto Suarez Aeropuerto (F),13.0,13.0,81.3,81.3,
 2023-06-12,Puerto Villarroel (GPRS),,,,,4.4
 2023-06-12,Puna,14.1,-8.0,,,
@@ -33529,8 +33764,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-12,Ravelo,19.0,-6.0,,,
 2023-06-12,Redencion Pampa,18.0,6.0,,,
 2023-06-12,Reyes,17.0,17.0,99.1,99.1,
+2023-06-12,Reyes Aeropuerto,,,,,66.0
 2023-06-12,Riberalta,24.0,24.0,99.1,99.1,
 2023-06-12,Robore,11.0,11.0,99.1,99.1,
+2023-06-12,Roboré Aeropuerto,,,,,13.2
 2023-06-12,Rurrenabaque,17.0,17.0,99.1,99.1,
 2023-06-12,Rurrenabaque Aeropuerto,,,,,55.4
 2023-06-12,Sacaca,24.2,-5.0,,,
@@ -33541,7 +33778,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-12,San Calixto,16.8,3.0,,,
 2023-06-12,San Ignacio de Moxos Aerop,,,,,29.1
 2023-06-12,San Ignacio de Velasco Aerop,,,,,9.4
+2023-06-12,San Jacinto_M (GPRS),8.72,-0.09,94.3,61.7,
 2023-06-12,San Javier,9.0,9.0,92.6,92.6,
+2023-06-12,San Javier Aeropuerto,,,,,10.5
 2023-06-12,San Javier Aeropuerto (F),9.0,9.0,92.6,92.6,
 2023-06-12,San Joaquin,23.0,23.0,93.2,93.2,
 2023-06-12,San Jose de Chiquitos,11.0,11.0,81.0,81.0,
@@ -33550,6 +33789,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-12,San Julian - Comunidad Los Angeles (GPRS),,,,,16.3
 2023-06-12,San Julian - Nucleo 32 (GPRS),,,,,20.0
 2023-06-12,San Lucas,24.0,0.0,,,
+2023-06-12,San Matias Aeropuerto,,,,,9.6
 2023-06-12,San Pablo de Lipez,11.8,-16.0,,,
 2023-06-12,San Pedro - Río Victoria (GPRS),,,,,1.6
 2023-06-12,San Pedro - San Antonio (GPRS),,,,,21.0
@@ -33557,9 +33797,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-12,San Roque - El Alto (GPRS),13.97,-1.39,75.84,17.4,
 2023-06-12,Santa Ana - Yacuma,16.0,16.0,99.1,99.1,
 2023-06-12,Santa Ana del Yacuma Aerop,,,,,8.2
+2023-06-12,Santa Rosa Aeropuerto (BENI),,,,,55.2
 2023-06-12,Santiago de Huata,15.0,-1.0,,,
 2023-06-12,Sara Ana,22.5,21.0,,,19.7
 2023-06-12,Sauce Pilata - SDC (GPRS),18.7,0.48,100.0,45.98,
+2023-06-12,Saykan Perulas,,,,,1.6
 2023-06-12,Sella Quebrada,11.5,4.5,,,
 2023-06-12,Sorata,24.0,5.0,,,
 2023-06-12,Sucre SENAMHI,21.0,4.7,74.0,18.0,
@@ -33573,6 +33815,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-12,Temporal - SDC (GPRS),23.49,8.7,51.93,0.22,
 2023-06-12,Tiahuanaco_M (GPRS),13.76,-9.46,79.53,16.59,
 2023-06-12,Tinguipaya,16.4,2.1,,,
+2023-06-12,Todos Santos_Or,,-12.0,,,
 2023-06-12,Tomave,17.0,0.5,,,
 2023-06-12,Trinidad,,,92.8,92.8,
 2023-06-12,Trinidad Aeropuerto,,,,,20.2
@@ -33581,11 +33824,15 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-12,Turumayo,11.0,4.0,,,
 2023-06-12,Uyuni,12.0,-9.5,,,
 2023-06-12,Vacas - SDC (GPRS),15.36,2.15,91.1,21.46,
+2023-06-12,Vallegrande Aeropuerto,,,,,1.3
 2023-06-12,Viacha_M (GPRS),14.45,-4.39,96.7,16.5,
 2023-06-12,Vila Vila - SDC (GPRS),22.19,6.74,88.7,26.63,
+2023-06-12,Villa Puni,16.0,0.0,,,
 2023-06-12,Villamontes,11.0,11.0,57.3,57.3,
+2023-06-12,Villamontes Aeropuerto,,,,,1.5
 2023-06-12,Villazon,20.0,-7.0,,,
 2023-06-12,Viru Viru,11.0,11.0,86.7,86.7,
+2023-06-12,Viru Viru Aeropuerto,,,,,44.2
 2023-06-12,Viscachas Chirage (GPRS),14.17,1.73,89.3,37.44,
 2023-06-12,Vitichi,22.1,1.8,,,
 2023-06-12,Vivero Chimboco - SDC (GPRS),24.21,5.38,71.12,12.87,
@@ -33593,6 +33840,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-12,Wila Cala (GPRS),11.67,-2.14,99.83,18.34,
 2023-06-12,Yacuiba,9.0,9.0,86.5,86.5,
 2023-06-12,Yesera Norte,10.0,4.0,,,
+2023-06-12,Yesera Sur,9.0,2.0,,,
 2023-06-12,Yocalla,25.1,-4.2,,,
 2023-06-12,Zudañez,21.0,10.0,,,
 2023-06-12,Ñoquejza,18.2,-6.1,,,
@@ -33661,6 +33909,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-13,Luribay,24.0,4.0,,,
 2023-06-13,Magdalena,13.0,10.0,92.6,92.6,
 2023-06-13,Magdalena Aeropuerto,,,,,2.3
+2023-06-13,Minero (Unagro),,,,,2.8
 2023-06-13,Mizque - SDC (GPRS),10.75,3.98,70.41,52.05,
 2023-06-13,Mojo,16.3,-7.2,,,
 2023-06-13,Molle Molle,12.2,4.4,,,
@@ -33671,12 +33920,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-13,Padilla,9.0,0.0,,,
 2023-06-13,Pailon - Pozo del Tigre (GPRS),12.4,8.41,93.9,52.46,
 2023-06-13,Palca_LP,19.5,-1.0,,,
+2023-06-13,Palmar Grande,19.0,10.0,,,
 2023-06-13,Pampas de Lequezana,17.3,5.0,,,
 2023-06-13,Pocona - SDC (GPRS),15.31,-3.56,94.5,53.07,
 2023-06-13,Pojo - SDC (GPRS),11.64,4.03,74.17,53.8,
 2023-06-13,Porco,16.0,5.0,,,
 2023-06-13,Potosi Los Pinos,16.0,-4.8,,,
 2023-06-13,Puerto Suarez,8.0,8.0,75.2,75.2,
+2023-06-13,Puerto Suarez Aeropuerto,,,,,13.8
 2023-06-13,Puerto Suarez Aeropuerto (F),8.0,8.0,75.2,75.2,
 2023-06-13,Puerto Villarroel (GPRS),11.44,9.9,93.3,86.2,0.4
 2023-06-13,Puna,14.0,-9.9,,,
@@ -33685,9 +33936,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-13,Ravelo,15.0,-2.0,,,
 2023-06-13,Redencion Pampa,8.0,-3.0,,,
 2023-06-13,Reyes,12.0,12.0,99.1,99.1,
+2023-06-13,Reyes Aeropuerto,,,,,26.1
 2023-06-13,Riberalta,16.0,16.0,92.9,92.9,
 2023-06-13,Riberalta Aeropuerto,,,,,6.7
 2023-06-13,Robore,8.0,8.0,99.1,99.1,
+2023-06-13,Roboré Aeropuerto,,,,,3.5
 2023-06-13,Rurrenabaque,13.0,13.0,92.8,92.8,
 2023-06-13,Rurrenabaque Aeropuerto,,,,,34.7
 2023-06-13,Sacaca,25.0,-4.1,,,
@@ -33697,12 +33950,16 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-13,San Borja Aeropuerto,,,,,34.7
 2023-06-13,San Calixto,17.2,3.4,,,
 2023-06-13,San Ignacio de Velasco Aerop,,,,,10.3
+2023-06-13,San Jacinto_M (GPRS),8.38,-4.03,93.7,40.64,
+2023-06-13,San Javier Aeropuerto,,,,,2.6
 2023-06-13,San Joaquin,12.0,12.0,86.8,86.8,
+2023-06-13,San Joaquin Aeropuerto,,,,,51.0
 2023-06-13,San Juan de Yapacaní,,,,,2.8
 2023-06-13,San Julian,,,,,19.3
 2023-06-13,San Julian - Comunidad Los Angeles (GPRS),12.35,8.29,93.2,65.14,3.2
 2023-06-13,San Julian - Nucleo 32 (GPRS),12.55,7.96,,,1.0
 2023-06-13,San Lucas,18.0,-1.0,,,
+2023-06-13,San Matias Aeropuerto,,,,,1.4
 2023-06-13,San Pablo de Lipez,10.9,-17.0,,,
 2023-06-13,San Pedro - Río Victoria (GPRS),11.26,9.16,81.8,70.98,4.0
 2023-06-13,San Pedro - San Antonio (GPRS),11.33,9.25,83.7,72.79,2.8
@@ -33711,6 +33968,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-13,San Roque - El Alto (GPRS),13.95,-1.23,45.2,18.55,
 2023-06-13,Santa Ana - Yacuma,11.0,11.0,86.7,86.7,
 2023-06-13,Santa Ana del Yacuma Aerop,,,,,7.1
+2023-06-13,Santa Rosa Aeropuerto (BENI),,,,,30.0
 2023-06-13,Santiago de Huata,13.0,-2.0,,,
 2023-06-13,Sara Ana,22.0,14.5,,,17.8
 2023-06-13,Sauce Pilata - SDC (GPRS),5.58,-1.87,99.9,73.76,0.8
@@ -33723,10 +33981,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-13,Tarabuco,13.4,-2.0,,,
 2023-06-13,Tarapaya,22.2,-4.1,,,
 2023-06-13,Tarija,2.0,2.0,92.3,92.3,
+2023-06-13,Tarija Aeropuerto,,,,,0.1
 2023-06-13,Templo (GPRS),8.47,0.8,77.18,16.1,
 2023-06-13,Temporal - SDC (GPRS),23.53,5.86,50.46,0.02,
 2023-06-13,Tiahuanaco_M (GPRS),13.33,-12.04,71.34,16.0,
 2023-06-13,Tinguipaya,17.1,1.2,,,
+2023-06-13,Todos Santos_Or,,-13.0,,,
 2023-06-13,Tomave,14.0,2.0,,,
 2023-06-13,Trinidad,12.0,12.0,75.8,75.8,
 2023-06-13,Trinidad Aeropuerto,,,,,38.5
@@ -33735,11 +33995,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-13,Turumayo,7.0,-1.0,,,0.8
 2023-06-13,Uyuni,12.1,-7.2,,,
 2023-06-13,Vacas - SDC (GPRS),14.3,1.29,84.3,41.13,
+2023-06-13,Vallegrande Aeropuerto,,,,,0.7
 2023-06-13,Viacha_M (GPRS),14.34,-10.96,59.52,15.92,
 2023-06-13,Vila Vila - SDC (GPRS),10.4,2.52,76.45,60.77,
+2023-06-13,Villa Puni,17.5,1.0,,,
 2023-06-13,Villamontes,10.0,10.0,65.7,65.7,
 2023-06-13,Villazon,17.2,-9.4,,,
 2023-06-13,Viru Viru,13.0,13.0,43.6,43.6,
+2023-06-13,Viru Viru Aeropuerto,,,,,1.0
 2023-06-13,Viscachas Chirage (GPRS),13.76,-2.52,92.1,37.91,
 2023-06-13,Vitichi,21.6,3.1,,,
 2023-06-13,Vivero Chimboco - SDC (GPRS),23.29,2.78,71.64,25.4,
@@ -33747,6 +34010,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-13,Wila Cala (GPRS),11.98,-0.64,99.85,21.28,
 2023-06-13,Yacuiba,7.0,7.0,86.3,86.3,
 2023-06-13,Yesera Norte,4.0,-2.0,,,
+2023-06-13,Yesera Sur,15.0,-2.0,,,
 2023-06-13,Yocalla,25.0,-7.2,,,
 2023-06-13,Zudañez,20.0,1.0,,,
 2023-06-13,Ñoquejza,18.0,-5.6,,,
@@ -33767,6 +34031,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-14,Camata,25.0,10.5,,,
 2023-06-14,Camiri,21.0,0.0,86.3,86.3,
 2023-06-14,Carabuco,,-2.7,,,
+2023-06-14,Caranavi,22.5,14.0,,,
 2023-06-14,Catacora,12.0,-11.0,,,
 2023-06-14,Cañas,16.0,-4.0,,,
 2023-06-14,Chaqui,17.2,-3.1,,,
@@ -33783,6 +34048,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-14,Colcha K,17.2,-0.2,,,
 2023-06-14,Collana,18.0,-3.0,,,
 2023-06-14,Concepcion,11.0,7.0,92.5,92.5,
+2023-06-14,Concepcion Aeropuerto SCZ,,,,,6.8
 2023-06-14,Coripata,23.0,11.5,,,
 2023-06-14,Cotagaita Mosoj Llajta,24.0,-3.0,,,
 2023-06-14,Cuatro Cañadas - CEA-2 (GPRS),16.31,10.52,95.9,44.68,1.4
@@ -33822,12 +34088,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-14,Padilla,19.0,3.0,,,
 2023-06-14,Pailon - Pozo del Tigre (GPRS),16.25,8.94,97.6,43.97,6.4
 2023-06-14,Palca_LP,18.5,-1.5,,,
+2023-06-14,Palmar Grande,25.0,2.0,,,
 2023-06-14,Pampas de Lequezana,16.2,6.2,,,
 2023-06-14,Pocona - SDC (GPRS),16.81,-3.36,95.9,37.32,
 2023-06-14,Pojo - SDC (GPRS),13.02,4.17,79.13,49.44,
 2023-06-14,Porco,13.0,3.0,,,
 2023-06-14,Potosi Los Pinos,15.0,-5.0,,,
 2023-06-14,Puerto Suarez,9.0,9.0,86.5,86.5,
+2023-06-14,Puerto Suarez Aeropuerto,,,,,17.3
 2023-06-14,Puerto Suarez Aeropuerto (F),9.0,9.0,86.5,86.5,
 2023-06-14,Puerto Villarroel (GPRS),16.87,13.28,92.6,65.3,0.4
 2023-06-14,Puna,13.8,-8.0,,,
@@ -33836,9 +34104,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-14,Ravelo,17.0,-4.0,,,
 2023-06-14,Redencion Pampa,13.0,-3.0,,,
 2023-06-14,Reyes,11.0,11.0,92.7,92.7,
+2023-06-14,Reyes Aeropuerto,,,,,35.0
 2023-06-14,Riberalta,11.0,11.0,86.7,86.7,
 2023-06-14,Riberalta Aeropuerto,,,,,3.2
 2023-06-14,Robore,10.0,10.0,86.6,86.6,
+2023-06-14,Roboré Aeropuerto,,,,,6.7
 2023-06-14,Rurrenabaque,11.0,11.0,92.7,92.7,
 2023-06-14,Rurrenabaque Aeropuerto,,,,,7.0
 2023-06-14,Sacaca,26.0,-5.2,,,
@@ -33849,8 +34119,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-14,San Calixto,16.4,3.6,,,
 2023-06-14,San Ignacio de Moxos Aerop,,,,,32.3
 2023-06-14,San Ignacio de Velasco Aerop,,,,,3.3
+2023-06-14,San Jacinto_M (GPRS),13.39,-4.24,89.5,28.53,
+2023-06-14,San Javier Aeropuerto,,,,,9.4
 2023-06-14,San Joaquin,10.0,10.0,92.6,92.6,
 2023-06-14,San Jose de Chiquitos,11.0,11.0,86.7,86.7,
+2023-06-14,San Jose de Chiquitos Aerop,,,,,1.6
 2023-06-14,San Julian,,,,,8.5
 2023-06-14,San Julian - Comunidad Los Angeles (GPRS),16.2,11.3,88.5,50.79,7.9
 2023-06-14,San Julian - Nucleo 32 (GPRS),15.24,11.63,,,3.8
@@ -33863,6 +34136,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-14,San Roque - El Alto (GPRS),13.23,-5.18,42.46,14.95,
 2023-06-14,Santa Ana - Yacuma,9.0,9.0,99.1,99.1,
 2023-06-14,Santa Ana del Yacuma Aerop,,,,,8.2
+2023-06-14,Santa Rosa Aeropuerto (BENI),,,,,32.2
 2023-06-14,Santiago de Huata,12.0,-3.0,,,
 2023-06-14,Sara Ana,21.0,12.5,,,
 2023-06-14,Sauce Pilata - SDC (GPRS),8.32,3.44,82.2,59.1,
@@ -33879,6 +34153,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-14,Temporal - SDC (GPRS),23.55,1.58,70.04,0.02,
 2023-06-14,Tiahuanaco_M (GPRS),13.3,-13.94,64.79,13.44,
 2023-06-14,Tinguipaya,16.3,-1.3,,,
+2023-06-14,Todos Santos_Or,,-14.5,,,
 2023-06-14,Tomave,14.6,1.8,,,
 2023-06-14,Trinidad,11.0,11.0,86.7,86.7,
 2023-06-14,Trinidad Aeropuerto,,,,,1.8
@@ -33889,9 +34164,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-14,Vacas - SDC (GPRS),16.14,-3.39,96.5,9.63,
 2023-06-14,Viacha_M (GPRS),14.06,-12.33,45.87,10.09,
 2023-06-14,Vila Vila - SDC (GPRS),12.96,2.48,76.83,43.26,
+2023-06-14,Villa Puni,14.5,1.0,,,
 2023-06-14,Villamontes,6.0,6.0,86.2,86.2,
 2023-06-14,Villazon,16.2,-10.2,,,
 2023-06-14,Viru Viru,13.0,13.0,50.2,50.2,
+2023-06-14,Viru Viru Aeropuerto,,,,,0.1
 2023-06-14,Viscachas Chirage (GPRS),14.12,-4.42,91.4,6.08,
 2023-06-14,Vitichi,16.8,-5.8,,,
 2023-06-14,Vivero Chimboco - SDC (GPRS),24.11,0.04,84.7,4.13,
@@ -33899,6 +34176,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-14,Wila Cala (GPRS),11.26,-3.6,52.7,7.96,
 2023-06-14,Yacuiba,4.0,4.0,80.1,80.1,
 2023-06-14,Yesera Norte,18.0,-5.0,,,
+2023-06-14,Yesera Sur,-6.0,-6.0,,,
 2023-06-14,Yocalla,24.4,-5.3,,,
 2023-06-14,Zudañez,21.0,1.0,,,
 2023-06-14,Ñoquejza,15.1,-4.2,,,
@@ -33919,6 +34197,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-15,Camata,25.5,10.0,,,
 2023-06-15,Camiri,22.0,0.0,85.6,85.6,
 2023-06-15,Carabuco,,-3.3,,,
+2023-06-15,Caranavi,23.5,14.5,,,
 2023-06-15,Catacora,12.5,-11.5,,,
 2023-06-15,Cañas,22.0,-3.0,,,
 2023-06-15,Chaqui,16.7,-6.8,,,
@@ -33971,6 +34250,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-15,Padilla,24.0,-3.0,,,
 2023-06-15,Pailon - Pozo del Tigre (GPRS),21.65,13.77,94.3,37.13,
 2023-06-15,Palca_LP,19.0,-2.0,,,
+2023-06-15,Palmar Grande,23.0,0.6,,,
 2023-06-15,Pampas de Lequezana,20.1,-4.1,,,
 2023-06-15,Pasorapa (GPRS),22.03,5.38,86.66,19.13,
 2023-06-15,Patacamaya (GPRS),15.25,-8.27,22.67,4.09,
@@ -33979,6 +34259,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-15,Porco,16.0,0.0,,,
 2023-06-15,Potosi Los Pinos,17.0,-7.0,,,
 2023-06-15,Puerto Suarez,10.0,10.0,86.6,86.6,
+2023-06-15,Puerto Suarez Aeropuerto,,,,,6.3
 2023-06-15,Puerto Suarez Aeropuerto (F),10.0,10.0,86.6,86.6,
 2023-06-15,Puerto Villarroel (GPRS),20.44,11.51,91.9,55.4,3.5
 2023-06-15,Puna,13.0,-7.1,,,
@@ -33990,14 +34271,17 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-15,Reyes,14.0,14.0,92.8,92.8,
 2023-06-15,Riberalta,13.0,13.0,86.8,86.8,
 2023-06-15,Robore,7.0,7.0,99.1,99.1,
+2023-06-15,Roboré Aeropuerto,,,,,6.0
 2023-06-15,Rurrenabaque,15.0,15.0,92.9,92.9,
 2023-06-15,Sacabamba (GPRS),18.84,-4.54,,,
 2023-06-15,Sacaca,26.2,-5.4,,,
 2023-06-15,Samasa,13.6,-4.0,,,
 2023-06-15,San Andres de Machaca_M (GPRS),13.69,-3.03,22.7,4.62,
 2023-06-15,San Calixto,16.6,2.0,,,
+2023-06-15,San Jacinto_M (GPRS),19.4,11.98,42.06,17.06,
 2023-06-15,San Joaquin,13.0,13.0,81.3,81.3,
 2023-06-15,San Jose de Chiquitos,23.0,12.0,81.1,40.5,
+2023-06-15,San Jose de Chiquitos Aerop,,,,,1.8
 2023-06-15,San Julian - Comunidad Los Angeles (GPRS),21.7,12.48,93.4,45.52,
 2023-06-15,San Julian - Nucleo 32 (GPRS),19.11,15.7,,,
 2023-06-15,San Lucas,20.0,-8.0,,,
@@ -34023,6 +34307,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-15,Temporal - SDC (GPRS),19.62,4.49,36.21,11.17,
 2023-06-15,Tiahuanaco_M (GPRS),12.65,-14.13,72.63,12.86,
 2023-06-15,Tinguipaya,20.1,-3.2,,,
+2023-06-15,Todos Santos_Or,,-16.0,,,
 2023-06-15,Tomave,13.0,2.0,,,
 2023-06-15,Trinidad,14.0,14.0,81.4,81.4,
 2023-06-15,Trinidad Aeropuerto,,,,,0.1
@@ -34033,6 +34318,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-15,Vacas - SDC (GPRS),13.82,-0.18,51.67,4.42,
 2023-06-15,Viacha_M (GPRS),13.41,-13.77,56.49,8.72,
 2023-06-15,Vila Vila - SDC (GPRS),18.79,0.7,58.62,19.39,
+2023-06-15,Villa Puni,14.0,-1.0,,,
 2023-06-15,Villamontes,4.0,4.0,86.0,86.0,
 2023-06-15,Villazon,16.2,-8.3,,,
 2023-06-15,Viru Viru,10.0,10.0,70.5,70.5,
@@ -34043,6 +34329,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-15,Wila Cala (GPRS),11.12,-3.17,59.66,21.93,
 2023-06-15,Yacuiba,3.0,3.0,92.3,92.3,
 2023-06-15,Yesera Norte,19.0,-5.2,,,
+2023-06-15,Yesera Sur,-6.0,-6.0,,,
 2023-06-15,Yocalla,23.1,-3.3,,,
 2023-06-15,Zudañez,19.0,-3.0,,,
 2023-06-15,Ñoquejza,14.0,-4.0,,,
@@ -34061,6 +34348,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-16,Camata,28.0,11.0,,,
 2023-06-16,Camiri,1.0,1.0,79.7,79.7,
 2023-06-16,Carabuco,,-4.5,,,
+2023-06-16,Caranavi,25.0,15.0,,,
 2023-06-16,Catacora,11.5,-10.5,,,
 2023-06-16,Cañas,23.0,-2.5,,,
 2023-06-16,Chaqui,17.8,-5.6,,,
@@ -34111,6 +34399,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-16,Padilla,25.0,-5.0,,,
 2023-06-16,Pailon - Pozo del Tigre (GPRS),23.49,9.15,94.5,35.38,
 2023-06-16,Palca_LP,18.5,-1.0,,,
+2023-06-16,Palmar Grande,23.0,2.0,,,
 2023-06-16,Pampas de Lequezana,21.3,5.4,,,
 2023-06-16,Pasorapa (GPRS),15.68,9.49,70.95,61.66,
 2023-06-16,Patacamaya (GPRS),7.9,-5.36,19.93,10.77,
@@ -34137,6 +34426,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-16,San Andres de Machaca_M (GPRS),14.09,-7.2,25.25,4.69,
 2023-06-16,San Borja,22.0,22.0,63.9,63.9,
 2023-06-16,San Calixto,17.8,1.8,,,
+2023-06-16,San Jacinto_M (GPRS),21.09,-1.57,84.2,16.84,
 2023-06-16,San Javier,19.0,11.0,92.7,72.1,
 2023-06-16,San Javier Aeropuerto (F),19.0,11.0,92.7,72.1,
 2023-06-16,San Joaquin,13.0,13.0,92.8,92.8,
@@ -34166,6 +34456,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-16,Temporal - SDC (GPRS),23.28,4.95,35.67,1.73,
 2023-06-16,Tiahuanaco_M (GPRS),14.22,-15.17,72.75,7.85,
 2023-06-16,Tinguipaya,18.4,-2.1,,,
+2023-06-16,Todos Santos_Or,,-15.5,,,
 2023-06-16,Tomave,16.6,-2.5,,,
 2023-06-16,Trinidad,17.0,17.0,81.8,81.8,
 2023-06-16,Tupiza,22.2,-5.0,,,
@@ -34174,6 +34465,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-16,Vacas - SDC (GPRS),15.43,-1.94,63.86,5.64,
 2023-06-16,Viacha_M (GPRS),14.79,-8.99,50.92,4.17,
 2023-06-16,Vila Vila - SDC (GPRS),22.23,7.45,45.29,9.92,
+2023-06-16,Villa Puni,13.0,-1.5,,,
 2023-06-16,Villamontes,4.0,4.0,86.0,86.0,
 2023-06-16,Villazon,14.4,-9.1,,,
 2023-06-16,Viru Viru,13.0,13.0,71.0,71.0,
@@ -34184,6 +34476,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-16,Wila Cala (GPRS),11.75,-4.72,73.86,15.09,
 2023-06-16,Yacuiba,4.0,4.0,92.4,92.4,
 2023-06-16,Yesera Norte,18.0,-4.3,,,
+2023-06-16,Yesera Sur,18.0,-5.0,,,
 2023-06-16,Yocalla,25.1,-2.0,,,
 2023-06-16,Zudañez,28.0,-1.0,,,
 2023-06-16,Ñoquejza,14.8,-5.0,,,
@@ -34202,6 +34495,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-17,Camata,27.0,12.0,,,
 2023-06-17,Camiri,1.0,1.0,79.7,79.7,
 2023-06-17,Carabuco,,-4.3,,,
+2023-06-17,Caranavi,28.5,16.5,,,
 2023-06-17,Catacora,12.0,-11.0,,,
 2023-06-17,Cañas,23.0,-2.0,,,
 2023-06-17,Chaqui,17.9,-5.3,,,
@@ -34228,6 +34522,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-17,El Villar,16.0,0.0,,,
 2023-06-17,Hichucota,14.0,-5.0,,,
 2023-06-17,Huarisuyo (GPRS),14.51,-8.7,82.7,6.69,
+2023-06-17,Huaylipaya,,,,,16.9
 2023-06-17,Huayrocondo,15.7,-8.8,,,
 2023-06-17,Isla Del Sol,12.8,0.2,,,
 2023-06-17,Isla Suriqui_M (GPRS),11.93,-1.22,79.14,22.23,
@@ -34246,6 +34541,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-17,Padilla,22.0,-6.0,,,
 2023-06-17,Pailon - Pozo del Tigre (GPRS),23.81,9.92,90.2,36.24,
 2023-06-17,Palca_LP,19.0,-1.0,,,
+2023-06-17,Palmar Grande,25.0,2.0,,,
 2023-06-17,Pampas de Lequezana,19.0,5.8,,,
 2023-06-17,Pocona - SDC (GPRS),23.89,-4.28,95.0,10.93,
 2023-06-17,Pojo - SDC (GPRS),20.85,5.61,75.61,17.34,
@@ -34263,6 +34559,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-17,Samasa,14.2,-6.0,,,
 2023-06-17,San Andres de Machaca_M (GPRS),14.03,-2.64,28.55,5.73,
 2023-06-17,San Calixto,15.8,2.2,,,
+2023-06-17,San Jacinto_M (GPRS),20.96,-2.95,94.7,17.72,
 2023-06-17,San Javier,22.0,11.0,92.7,46.1,
 2023-06-17,San Javier Aeropuerto (F),22.0,11.0,92.7,46.1,
 2023-06-17,San Joaquin,24.0,19.0,76.9,56.6,
@@ -34290,6 +34587,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-17,Temporal - SDC (GPRS),20.24,4.76,40.58,12.15,
 2023-06-17,Tiahuanaco_M (GPRS),13.94,-10.21,78.35,7.66,
 2023-06-17,Tinguipaya,19.3,-2.3,,,
+2023-06-17,Todos Santos_Or,,-14.0,,,
 2023-06-17,Tomave,14.5,-7.0,,,
 2023-06-17,Trinidad,15.0,15.0,81.5,81.5,
 2023-06-17,Tupiza,23.2,-5.2,,,
@@ -34298,6 +34596,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-17,Vacas - SDC (GPRS),13.82,-0.72,58.77,12.12,
 2023-06-17,Viacha_M (GPRS),14.79,-11.09,75.38,6.32,
 2023-06-17,Vila Vila - SDC (GPRS),22.0,1.74,63.5,12.88,
+2023-06-17,Villa Puni,12.5,-1.0,,,
 2023-06-17,Villazon,14.8,-6.0,,,
 2023-06-17,Viru Viru,14.0,14.0,58.0,58.0,
 2023-06-17,Viscachas Chirage (GPRS),13.78,-2.51,80.7,10.18,
@@ -34307,6 +34606,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-17,Wila Cala (GPRS),10.14,-2.83,99.82,18.2,
 2023-06-17,Yacuiba,4.0,4.0,99.1,99.1,
 2023-06-17,Yesera Norte,20.0,-3.0,,,
+2023-06-17,Yesera Sur,19.0,-6.0,,,
 2023-06-17,Yocalla,25.3,-5.1,,,
 2023-06-17,Zudañez,24.0,-1.0,,,
 2023-06-17,Ñoquejza,12.9,-5.1,,,
@@ -34325,6 +34625,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-18,Camata,28.0,10.0,,,
 2023-06-18,Camiri,23.0,1.0,92.4,37.9,
 2023-06-18,Carabuco,,-2.5,,,
+2023-06-18,Caranavi,28.0,13.5,,,
 2023-06-18,Catacora,13.0,-12.5,,,
 2023-06-18,Cañas,26.5,-1.0,,,
 2023-06-18,Chaqui,20.3,-5.4,,,
@@ -34353,6 +34654,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-18,El Villar,18.0,0.0,,,
 2023-06-18,Hichucota,15.0,-5.0,,,
 2023-06-18,Huarisuyo (GPRS),14.01,-7.33,76.31,20.26,
+2023-06-18,Huaylipaya,,,,,4.5
 2023-06-18,Huayrocondo,15.5,-7.5,,,
 2023-06-18,Isla Del Sol,14.6,0.1,,,
 2023-06-18,Isla Suriqui_M (GPRS),12.59,-0.89,85.9,22.83,
@@ -34369,6 +34671,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-18,Padilla,21.0,-5.0,,,
 2023-06-18,Pailon - Pozo del Tigre (GPRS),25.38,12.2,99.0,43.74,
 2023-06-18,Palca_LP,19.5,-1.5,,,
+2023-06-18,Palmar Grande,24.0,3.0,,,
 2023-06-18,Pampas de Lequezana,20.3,5.9,,,
 2023-06-18,Pocona - SDC (GPRS),24.55,1.97,57.77,8.3,
 2023-06-18,Pojo - SDC (GPRS),23.07,6.72,70.15,15.78,
@@ -34385,6 +34688,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-18,Samasa,18.4,-7.0,,,
 2023-06-18,San Andres de Machaca_M (GPRS),14.1,-0.34,35.99,18.17,
 2023-06-18,San Calixto,18.8,0.8,,,
+2023-06-18,San Jacinto_M (GPRS),21.85,-0.18,95.9,22.8,
 2023-06-18,San Julian - Comunidad Los Angeles (GPRS),26.44,13.26,98.4,45.85,
 2023-06-18,San Julian - Nucleo 32 (GPRS),24.61,12.88,,,
 2023-06-18,San Lucas,24.0,-7.0,,,
@@ -34409,6 +34713,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-18,Temporal - SDC (GPRS),22.24,6.39,27.35,7.62,
 2023-06-18,Tiahuanaco_M (GPRS),13.56,-10.02,80.7,18.38,
 2023-06-18,Tinguipaya,21.3,-2.3,,,
+2023-06-18,Todos Santos_Or,,-13.5,,,
 2023-06-18,Tomave,16.0,-5.1,,,
 2023-06-18,Trinidad,26.0,14.0,92.8,44.2,
 2023-06-18,Tupiza,22.2,-5.4,,,
@@ -34417,6 +34722,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-18,Vacas - SDC (GPRS),16.78,1.5,35.37,7.51,
 2023-06-18,Viacha_M (GPRS),14.66,-9.91,71.47,13.69,
 2023-06-18,Vila Vila - SDC (GPRS),24.9,6.18,35.13,8.31,
+2023-06-18,Villa Puni,14.0,0.0,,,
 2023-06-18,Villazon,18.1,-5.0,,,
 2023-06-18,Viru Viru,24.0,12.0,92.8,46.6,
 2023-06-18,Viscachas Chirage (GPRS),14.24,-0.29,42.18,11.99,
@@ -34425,6 +34731,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-18,Vivero Viloma - SDC (GPRS),25.07,4.29,38.87,5.22,
 2023-06-18,Wila Cala (GPRS),11.66,-1.88,90.74,27.03,
 2023-06-18,Yesera Norte,24.0,-3.5,,,
+2023-06-18,Yesera Sur,21.0,-5.0,,,
 2023-06-18,Yocalla,25.2,-4.0,,,
 2023-06-18,Zudañez,22.0,-1.0,,,
 2023-06-18,Ñoquejza,14.2,-6.2,,,
@@ -34443,6 +34750,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-19,Camata,29.0,10.5,,,
 2023-06-19,Camiri,26.0,4.0,92.8,38.7,
 2023-06-19,Carabuco,,-3.5,,,
+2023-06-19,Caranavi,29.5,16.5,,,
 2023-06-19,Catacora,12.5,-11.5,,,
 2023-06-19,Cañas,29.5,0.0,,,
 2023-06-19,Chaqui,19.9,0.2,,,
@@ -34491,6 +34799,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-19,Padilla,31.0,-2.0,,,
 2023-06-19,Pailon - Pozo del Tigre (GPRS),28.25,14.62,99.2,51.7,
 2023-06-19,Palca_LP,21.5,0.5,,,
+2023-06-19,Palmar Grande,27.0,5.0,,,
 2023-06-19,Pampas de Lequezana,19.1,-2.0,,,
 2023-06-19,Pocona - SDC (GPRS),21.79,1.71,85.1,15.56,
 2023-06-19,Pojo - SDC (GPRS),23.96,7.45,66.14,19.25,
@@ -34514,6 +34823,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-19,Samasa,19.2,1.0,,,
 2023-06-19,San Andres de Machaca_M (GPRS),15.2,-0.41,33.66,14.58,
 2023-06-19,San Calixto,18.0,2.8,,,
+2023-06-19,San Jacinto_M (GPRS),27.93,4.22,92.6,9.52,
 2023-06-19,San Javier,23.0,23.0,77.5,77.5,
 2023-06-19,San Javier Aeropuerto (F),23.0,23.0,77.5,77.5,
 2023-06-19,San Joaquin,31.0,15.0,99.1,48.4,
@@ -34530,6 +34840,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-19,Santiago de Huata,16.0,-4.0,,,
 2023-06-19,Sara Ana,26.0,,,,
 2023-06-19,Sauce Pilata - SDC (GPRS),21.05,11.89,44.45,18.57,
+2023-06-19,Saykan Perulas,,,,,2.6
 2023-06-19,Sella Quebrada,27.0,2.0,,,
 2023-06-19,Sucre SENAMHI,23.0,2.8,35.0,13.0,
 2023-06-19,Sunjani (GPRS),14.36,-5.0,60.37,14.76,
@@ -34542,6 +34853,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-19,Temporal - SDC (GPRS),24.91,7.51,31.24,5.2,
 2023-06-19,Tiahuanaco_M (GPRS),13.69,-11.32,76.84,19.86,
 2023-06-19,Tinguipaya,22.3,-1.2,,,
+2023-06-19,Todos Santos_Or,,-11.5,,,
 2023-06-19,Tomave,16.2,0.0,,,
 2023-06-19,Trinidad,29.0,16.0,99.1,47.9,
 2023-06-19,Tupiza,23.8,2.0,,,
@@ -34550,6 +34862,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-19,Vacas - SDC (GPRS),16.79,2.68,62.48,12.32,
 2023-06-19,Viacha_M (GPRS),15.05,-10.11,63.38,14.99,
 2023-06-19,Vila Vila - SDC (GPRS),26.13,8.73,41.61,7.31,
+2023-06-19,Villa Puni,16.5,0.5,,,
 2023-06-19,Villamontes,24.0,8.0,86.4,46.1,
 2023-06-19,Villazon,17.2,-7.1,,,
 2023-06-19,Viru Viru,27.0,14.0,99.1,44.2,
@@ -34560,6 +34873,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-19,Wila Cala (GPRS),13.51,-1.69,85.29,11.69,
 2023-06-19,Yacuiba,24.0,7.0,86.3,46.6,
 2023-06-19,Yesera Norte,23.0,-3.1,,,
+2023-06-19,Yesera Sur,26.0,-3.0,,,
 2023-06-19,Yocalla,24.1,-3.1,,,
 2023-06-19,Zudañez,30.0,-1.0,,,
 2023-06-19,Ñoquejza,16.8,-5.2,,,
@@ -34578,6 +34892,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-20,Camata,29.5,11.0,,,
 2023-06-20,Camiri,13.0,13.0,86.9,86.9,
 2023-06-20,Carabuco,,-3.7,,,
+2023-06-20,Caranavi,30.5,15.0,,,
 2023-06-20,Catacora,13.0,-11.0,,,
 2023-06-20,Cañas,20.5,2.5,,,
 2023-06-20,Chaqui,18.8,-0.8,,,
@@ -34625,6 +34940,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-20,Padilla,21.0,0.0,,,
 2023-06-20,Pailon - Pozo del Tigre (GPRS),28.44,16.9,98.0,51.05,
 2023-06-20,Palca_LP,20.0,-1.0,,,
+2023-06-20,Palmar Grande,16.0,7.0,,,
 2023-06-20,Pampas de Lequezana,19.8,-4.1,,,
 2023-06-20,Pocona - SDC (GPRS),20.42,0.0,95.0,30.36,
 2023-06-20,Pojo - SDC (GPRS),21.02,8.95,78.51,46.11,
@@ -34648,6 +34964,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-20,Samasa,17.0,-5.0,,,
 2023-06-20,San Andres de Machaca_M (GPRS),15.46,-0.48,30.42,8.8,
 2023-06-20,San Calixto,19.0,3.6,,,
+2023-06-20,San Jacinto_M (GPRS),17.46,3.3,96.2,47.16,
 2023-06-20,San Javier,26.0,23.0,77.5,68.9,
 2023-06-20,San Javier Aeropuerto (F),26.0,23.0,77.5,68.9,
 2023-06-20,San Joaquin,18.0,18.0,99.1,99.1,
@@ -34676,6 +34993,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-20,Temporal - SDC (GPRS),24.13,6.41,46.69,7.33,
 2023-06-20,Tiahuanaco_M (GPRS),14.61,-12.24,78.33,11.71,
 2023-06-20,Tinguipaya,21.2,1.4,,,
+2023-06-20,Todos Santos_Or,,-12.0,,,
 2023-06-20,Tomave,14.1,1.0,,,
 2023-06-20,Trinidad,19.0,19.0,87.4,87.4,
 2023-06-20,Tupiza,23.4,0.0,,,
@@ -34684,6 +35002,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-20,Vacas - SDC (GPRS),16.09,0.85,75.79,15.53,
 2023-06-20,Viacha_M (GPRS),15.64,-11.15,76.7,11.02,
 2023-06-20,Vila Vila - SDC (GPRS),23.49,4.64,78.72,14.98,
+2023-06-20,Villa Puni,15.0,0.0,,,
 2023-06-20,Villamontes,19.0,19.0,67.6,67.6,
 2023-06-20,Villazon,17.0,-7.0,,,
 2023-06-20,Viru Viru,18.0,18.0,87.3,87.3,
@@ -34694,6 +35013,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-20,Wila Cala (GPRS),12.98,-3.11,99.83,19.82,
 2023-06-20,Yacuiba,17.0,17.0,87.2,87.2,
 2023-06-20,Yesera Norte,20.0,2.0,,,
+2023-06-20,Yesera Sur,20.0,2.0,,,
 2023-06-20,Yocalla,26.1,-2.2,,,
 2023-06-20,Zudañez,30.0,3.0,,,
 2023-06-20,Ñoquejza,19.6,-3.2,,,
@@ -34712,6 +35032,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-21,Camata,32.5,11.0,,,
 2023-06-21,Camiri,17.0,17.0,76.6,76.6,
 2023-06-21,Carabuco,,-4.0,,,
+2023-06-21,Caranavi,33.0,13.0,,,
 2023-06-21,Catacora,13.0,-12.0,,,
 2023-06-21,Cañas,27.0,4.0,,,
 2023-06-21,Chaqui,21.8,-1.4,,,
@@ -34757,6 +35078,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-21,Padilla,30.0,-1.0,,,
 2023-06-21,Pailon - Pozo del Tigre (GPRS),30.2,21.21,96.7,57.05,
 2023-06-21,Palca_LP,20.0,-1.0,,,
+2023-06-21,Palmar Grande,20.0,15.0,,,
 2023-06-21,Pampas de Lequezana,20.0,-2.0,,,
 2023-06-21,Pocona - SDC (GPRS),22.99,2.56,79.96,20.57,
 2023-06-21,Pojo - SDC (GPRS),20.62,8.75,71.4,42.52,
@@ -34777,6 +35099,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-21,Samasa,18.5,0.0,,,
 2023-06-21,San Andres de Machaca_M (GPRS),15.54,-2.27,30.13,6.45,
 2023-06-21,San Calixto,18.2,2.8,,,
+2023-06-21,San Jacinto_M (GPRS),25.87,3.35,95.5,24.61,
 2023-06-21,San Julian - Comunidad Los Angeles (GPRS),29.67,20.39,98.6,61.7,
 2023-06-21,San Julian - Nucleo 32 (GPRS),29.84,20.88,,,
 2023-06-21,San Lucas,26.0,-2.0,,,
@@ -34801,6 +35124,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-21,Temporal - SDC (GPRS),24.69,6.7,35.8,4.5,
 2023-06-21,Tiahuanaco_M (GPRS),14.61,-12.3,73.44,7.14,
 2023-06-21,Tinguipaya,20.1,1.3,,,
+2023-06-21,Todos Santos_Or,,-10.5,,,
 2023-06-21,Tomave,15.2,2.5,,,
 2023-06-21,Trinidad,21.0,21.0,87.5,87.5,
 2023-06-21,Tupiza,24.8,0.1,,,
@@ -34809,6 +35133,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-21,Vacas - SDC (GPRS),16.73,1.09,50.53,8.3,
 2023-06-21,Viacha_M (GPRS),15.31,-10.63,54.93,8.28,
 2023-06-21,Vila Vila - SDC (GPRS),26.75,7.36,32.0,6.1,
+2023-06-21,Villa Puni,15.0,-0.5,,,
 2023-06-21,Villamontes,16.0,16.0,81.6,81.6,
 2023-06-21,Villazon,19.1,-7.1,,,
 2023-06-21,Viru Viru,20.0,20.0,87.5,87.5,
@@ -34819,6 +35144,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-21,Wila Cala (GPRS),12.91,-2.83,94.65,16.47,
 2023-06-21,Yacuiba,14.0,14.0,92.9,92.9,
 2023-06-21,Yesera Norte,27.0,3.0,,,
+2023-06-21,Yesera Sur,26.0,-2.0,,,
 2023-06-21,Yocalla,25.2,-5.1,,,
 2023-06-21,Zudañez,26.0,2.0,,,
 2023-06-21,Ñoquejza,18.0,-4.1,,,
@@ -34837,6 +35163,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-22,Camata,30.0,13.0,,,
 2023-06-22,Camiri,23.0,15.0,87.1,87.1,
 2023-06-22,Carabuco,,-3.7,,,
+2023-06-22,Caranavi,35.0,15.5,,,
 2023-06-22,Catacora,11.5,-12.5,,,
 2023-06-22,Cañas,30.0,3.5,,,
 2023-06-22,Chaqui,21.1,-1.0,,,
@@ -34883,6 +35210,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-22,Padilla,31.0,8.0,,,
 2023-06-22,Pailon - Pozo del Tigre (GPRS),31.14,22.12,95.4,59.21,
 2023-06-22,Palca_LP,21.0,-1.5,,,
+2023-06-22,Palmar Grande,20.0,14.0,,,
 2023-06-22,Pampas de Lequezana,23.4,4.9,,,
 2023-06-22,Pocona - SDC (GPRS),19.63,-1.94,88.6,39.67,
 2023-06-22,Pojo - SDC (GPRS),22.04,7.77,74.19,36.84,
@@ -34906,6 +35234,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-22,San Andres de Machaca_M (GPRS),15.2,-1.64,19.08,6.13,
 2023-06-22,San Borja,32.0,32.0,58.5,58.5,
 2023-06-22,San Calixto,17.4,3.0,,,
+2023-06-22,San Jacinto_M (GPRS),30.01,0.94,83.0,6.57,
 2023-06-22,San Joaquin,33.0,22.0,93.2,93.2,
 2023-06-22,San Jose de Chiquitos,31.0,20.0,87.5,87.5,
 2023-06-22,San Julian - Comunidad Los Angeles (GPRS),31.09,21.43,98.4,64.11,
@@ -34932,6 +35261,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-22,Temporal - SDC (GPRS),24.76,6.53,25.85,4.59,
 2023-06-22,Tiahuanaco_M (GPRS),14.34,-14.0,66.38,11.1,
 2023-06-22,Tinguipaya,19.2,1.2,,,
+2023-06-22,Todos Santos_Or,,-9.5,,,
 2023-06-22,Tomave,14.1,-2.5,,,
 2023-06-22,Trinidad,32.0,22.0,87.7,87.7,
 2023-06-22,Tupiza,25.0,-0.8,,,
@@ -34940,6 +35270,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-22,Vacas - SDC (GPRS),16.78,0.77,61.08,10.24,
 2023-06-22,Viacha_M (GPRS),14.98,-13.05,50.23,7.09,
 2023-06-22,Vila Vila - SDC (GPRS),26.82,7.1,38.7,4.84,
+2023-06-22,Villa Puni,13.5,-1.0,,,
 2023-06-22,Villamontes,19.0,16.0,87.1,87.1,
 2023-06-22,Villazon,20.0,-6.0,,,
 2023-06-22,Viru Viru,30.0,19.0,93.1,93.1,
@@ -34950,6 +35281,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-22,Wila Cala (GPRS),13.24,-3.76,58.84,9.98,
 2023-06-22,Yacuiba,20.0,9.0,87.0,87.0,
 2023-06-22,Yesera Norte,28.0,3.0,,,
+2023-06-22,Yesera Sur,28.0,3.0,,,
 2023-06-22,Yocalla,24.1,-4.2,,,
 2023-06-22,Zudañez,30.0,2.0,,,
 2023-06-22,Ñoquejza,19.1,-4.3,,,
@@ -34968,6 +35300,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-23,Camata,32.0,13.0,,,
 2023-06-23,Camiri,17.0,17.0,87.2,87.2,
 2023-06-23,Carabuco,,-5.3,,,
+2023-06-23,Caranavi,36.0,16.0,,,
 2023-06-23,Catacora,12.0,-14.0,,,
 2023-06-23,Cañas,31.0,4.0,,,
 2023-06-23,Chaqui,17.8,0.4,,,
@@ -34993,6 +35326,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-23,El Belen,16.0,-13.0,,,
 2023-06-23,El Tejar (Tarija),28.6,2.4,,,
 2023-06-23,El Villar,30.0,5.0,,,
+2023-06-23,Guajara-Mirim - Guayaramerín,,,,,1.3
 2023-06-23,Hichucota,13.0,-4.0,,,
 2023-06-23,Huarisuyo (GPRS),14.77,-11.35,66.0,6.02,
 2023-06-23,Huayrocondo,15.2,-9.9,,,
@@ -35013,6 +35347,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-23,Padilla,30.0,2.0,,,
 2023-06-23,Pailon - Pozo del Tigre (GPRS),31.64,22.45,91.3,56.48,
 2023-06-23,Palca_LP,20.0,-2.0,,,
+2023-06-23,Palmar Grande,30.0,15.0,,,
 2023-06-23,Pampas de Lequezana,24.1,-2.0,,,
 2023-06-23,Pocona - SDC (GPRS),26.8,-3.87,69.72,6.11,
 2023-06-23,Pojo - SDC (GPRS),27.37,8.1,49.94,7.86,
@@ -35035,6 +35370,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-23,Samasa,17.0,2.0,,,
 2023-06-23,San Andres de Machaca_M (GPRS),13.38,-2.86,12.47,3.91,
 2023-06-23,San Calixto,16.8,2.4,,,
+2023-06-23,San Jacinto_M (GPRS),29.03,12.9,35.88,6.88,
 2023-06-23,San Joaquin,21.0,21.0,93.2,93.2,
 2023-06-23,San Jose de Chiquitos,22.0,22.0,93.2,93.2,
 2023-06-23,San Julian - Comunidad Los Angeles (GPRS),31.3,21.64,96.0,61.96,
@@ -35061,6 +35397,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-23,Temporal - SDC (GPRS),23.74,4.87,20.88,2.71,
 2023-06-23,Tiahuanaco_M (GPRS),15.52,-14.13,57.64,4.8,
 2023-06-23,Tinguipaya,19.3,1.3,,,
+2023-06-23,Todos Santos_Or,,-8.0,,,
 2023-06-23,Tomave,16.0,-8.0,,,
 2023-06-23,Trinidad,23.0,23.0,93.2,93.2,
 2023-06-23,Tupiza,24.8,-2.0,,,
@@ -35069,6 +35406,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-23,Vacas - SDC (GPRS),16.32,1.63,27.93,5.21,
 2023-06-23,Viacha_M (GPRS),15.38,-12.92,48.73,6.26,
 2023-06-23,Vila Vila - SDC (GPRS),24.36,4.49,22.1,5.1,
+2023-06-23,Villa Puni,13.0,-1.5,,,
 2023-06-23,Villamontes,17.0,17.0,93.0,93.0,
 2023-06-23,Villazon,19.1,-5.0,,,
 2023-06-23,Viru Viru,24.0,24.0,87.8,87.8,
@@ -35079,6 +35417,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-23,Wila Cala (GPRS),12.1,-5.08,57.6,9.67,
 2023-06-23,Yacuiba,11.0,11.0,75.7,75.7,
 2023-06-23,Yesera Norte,28.5,4.0,,,
+2023-06-23,Yesera Sur,28.0,1.0,,,
 2023-06-23,Yocalla,25.1,-3.1,,,
 2023-06-23,Zudañez,27.0,3.0,,,
 2023-06-23,Ñoquejza,16.2,-5.2,,,
@@ -35097,6 +35436,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-24,Camata,31.5,12.0,,,
 2023-06-24,Camiri,10.0,10.0,92.7,92.7,
 2023-06-24,Carabuco,,-3.0,,,
+2023-06-24,Caranavi,36.5,17.5,,,
 2023-06-24,Catacora,12.0,-13.0,,,
 2023-06-24,Cañas,33.0,4.5,,,
 2023-06-24,Chaqui,20.4,-0.3,,,
@@ -35124,6 +35464,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-24,El Villar,29.0,5.0,,,
 2023-06-24,Hichucota,15.0,-5.0,,,
 2023-06-24,Huarisuyo (GPRS),14.65,-11.65,68.89,13.92,
+2023-06-24,Huaylipaya,,,,,19.7
 2023-06-24,Huayrocondo,17.0,-7.6,,,
 2023-06-24,Isla Del Sol,13.4,0.2,,,
 2023-06-24,Isla Suriqui_M (GPRS),13.06,-1.94,83.8,20.15,
@@ -35141,6 +35482,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-24,Padilla,31.0,-2.0,,,
 2023-06-24,Pailon - Pozo del Tigre (GPRS),31.54,21.14,95.7,55.97,
 2023-06-24,Palca_LP,22.0,-1.5,,,
+2023-06-24,Palmar Grande,33.0,11.0,,,
 2023-06-24,Pampas de Lequezana,23.4,-4.1,,,
 2023-06-24,Pocona - SDC (GPRS),29.08,-3.38,78.5,3.43,
 2023-06-24,Pojo - SDC (GPRS),26.06,7.38,68.45,13.27,
@@ -35159,6 +35501,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-24,Samasa,18.4,-3.0,,,
 2023-06-24,San Andres de Machaca_M (GPRS),15.59,-0.06,11.55,3.98,
 2023-06-24,San Calixto,18.4,3.2,,,
+2023-06-24,San Jacinto_M (GPRS),31.49,1.43,85.5,5.7,
 2023-06-24,San Julian - Comunidad Los Angeles (GPRS),31.5,21.31,95.9,62.29,
 2023-06-24,San Julian - Nucleo 32 (GPRS),30.96,21.93,,,
 2023-06-24,San Lucas,25.0,-5.0,,,
@@ -35183,6 +35526,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-24,Temporal - SDC (GPRS),24.78,5.72,20.48,0.56,
 2023-06-24,Tiahuanaco_M (GPRS),15.2,-12.37,64.31,5.78,
 2023-06-24,Tinguipaya,22.1,1.2,,,
+2023-06-24,Todos Santos_Or,,-10.0,,,
 2023-06-24,Tomave,17.0,-7.5,,,
 2023-06-24,Trinidad,24.0,24.0,87.8,87.8,
 2023-06-24,Tupiza,26.6,-3.0,,,
@@ -35191,6 +35535,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-24,Vacas - SDC (GPRS),17.96,1.31,39.48,2.88,
 2023-06-24,Viacha_M (GPRS),15.97,-10.95,49.28,5.94,
 2023-06-24,Vila Vila - SDC (GPRS),28.32,8.83,20.08,2.55,
+2023-06-24,Villa Puni,12.5,0.0,,,
 2023-06-24,Villamontes,32.0,32.0,48.7,48.7,
 2023-06-24,Villazon,19.4,-6.4,,,
 2023-06-24,Viru Viru,24.0,24.0,87.8,82.6,
@@ -35200,6 +35545,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-24,Vivero Viloma - SDC (GPRS),26.49,3.45,29.81,3.97,
 2023-06-24,Wila Cala (GPRS),13.88,-4.61,56.38,8.59,
 2023-06-24,Yesera Norte,30.0,3.0,,,
+2023-06-24,Yesera Sur,29.0,2.0,,,
 2023-06-24,Yocalla,25.4,-2.2,,,
 2023-06-24,Zudañez,27.5,2.0,,,
 2023-06-24,Ñoquejza,15.8,-6.1,,,
@@ -35218,6 +35564,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-25,Camata,33.0,14.0,,,
 2023-06-25,Camiri,11.0,11.0,92.7,92.7,
 2023-06-25,Carabuco,,-4.0,,,
+2023-06-25,Caranavi,37.0,18.0,,,
 2023-06-25,Catacora,13.0,-12.5,,,
 2023-06-25,Cañas,30.0,4.5,,,
 2023-06-25,Chaqui,21.1,-0.2,,,
@@ -35245,6 +35592,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-25,El Villar,32.0,5.5,,,
 2023-06-25,Hichucota,14.0,-5.0,,,
 2023-06-25,Huarisuyo (GPRS),16.77,-8.48,62.69,7.39,
+2023-06-25,Huaylipaya,,,,,21.5
 2023-06-25,Huayrocondo,17.2,-8.9,,,
 2023-06-25,Isla Del Sol,15.2,0.4,,,
 2023-06-25,Isla Suriqui_M (GPRS),13.38,-0.89,78.33,17.01,
@@ -35260,6 +35608,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-25,Padilla,27.0,4.0,,,
 2023-06-25,Pailon - Pozo del Tigre (GPRS),31.83,21.21,95.8,54.47,
 2023-06-25,Palca_LP,21.0,0.0,,,
+2023-06-25,Palmar Grande,35.0,17.0,,,
 2023-06-25,Pampas de Lequezana,20.1,5.2,,,
 2023-06-25,Pocona - SDC (GPRS),26.7,-3.35,86.7,7.33,
 2023-06-25,Pojo - SDC (GPRS),24.9,8.63,69.04,19.0,
@@ -35277,6 +35626,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-25,San Andres de Machaca_M (GPRS),14.81,-1.91,43.85,6.65,
 2023-06-25,San Borja,28.0,28.0,78.2,78.2,
 2023-06-25,San Calixto,17.6,3.4,,,
+2023-06-25,San Jacinto_M (GPRS),27.8,15.15,44.27,11.21,
 2023-06-25,San Julian - Comunidad Los Angeles (GPRS),31.28,21.7,93.0,63.41,
 2023-06-25,San Julian - Nucleo 32 (GPRS),31.16,22.52,,,
 2023-06-25,San Lucas,27.0,-5.0,,,
@@ -35302,6 +35652,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-25,Temporal - SDC (GPRS),24.17,5.37,29.65,2.96,
 2023-06-25,Tiahuanaco_M (GPRS),16.44,-10.93,72.6,7.68,
 2023-06-25,Tinguipaya,23.1,1.4,,,
+2023-06-25,Todos Santos_Or,,-11.5,,,
 2023-06-25,Tomave,18.1,-7.0,,,
 2023-06-25,Trinidad,24.0,24.0,87.8,87.8,
 2023-06-25,Trinidad Aeropuerto,,,,,0.9
@@ -35311,6 +35662,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-25,Vacas - SDC (GPRS),17.56,0.75,37.39,4.69,
 2023-06-25,Viacha_M (GPRS),16.89,-10.43,69.77,6.6,
 2023-06-25,Vila Vila - SDC (GPRS),23.85,5.88,34.94,6.84,
+2023-06-25,Villa Puni,13.5,-0.5,,,
 2023-06-25,Villamontes,30.0,13.0,99.1,51.3,
 2023-06-25,Villazon,16.6,-4.1,,,
 2023-06-25,Viru Viru,24.0,24.0,87.8,87.8,
@@ -35321,6 +35673,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-25,Wila Cala (GPRS),12.3,-3.44,65.02,15.02,
 2023-06-25,Yacuiba,27.0,12.0,86.8,65.0,
 2023-06-25,Yesera Norte,27.0,4.0,,,
+2023-06-25,Yesera Sur,30.0,-1.0,,,
 2023-06-25,Yocalla,24.3,-3.1,,,
 2023-06-25,Zudañez,22.0,3.0,,,
 2023-06-25,Ñoquejza,16.4,-4.2,,,
@@ -35341,6 +35694,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-26,Camata,32.0,15.0,,,
 2023-06-26,Camiri,,,86.8,86.8,
 2023-06-26,Carabuco,,-4.0,,,
+2023-06-26,Caranavi,36.5,17.0,,,
 2023-06-26,Catacora,12.0,-13.0,,,
 2023-06-26,Cañas,32.0,4.0,,,
 2023-06-26,Chaqui,21.4,-2.0,,,
@@ -35389,6 +35743,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-26,Padilla,31.0,-1.0,,,
 2023-06-26,Pailon - Pozo del Tigre (GPRS),32.23,19.32,94.3,49.53,
 2023-06-26,Palca_LP,21.5,-1.0,,,
+2023-06-26,Palmar Grande,35.0,14.0,,,
 2023-06-26,Pampas de Lequezana,19.0,-1.3,,,
 2023-06-26,Pasorapa (GPRS),27.36,9.08,84.98,16.24,
 2023-06-26,Patacamaya (GPRS),16.66,-9.65,,,
@@ -35415,6 +35770,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-26,Samasa,18.4,-4.0,,,
 2023-06-26,San Andres de Machaca_M (GPRS),14.69,-2.24,16.09,5.26,
 2023-06-26,San Calixto,17.2,2.8,,,
+2023-06-26,San Jacinto_M (GPRS),28.9,7.64,67.65,11.13,
 2023-06-26,San Joaquin,,,99.1,99.1,
 2023-06-26,San Jose de Chiquitos,,,87.6,87.6,
 2023-06-26,San Juan de Yapacaní,,,,,8.8
@@ -35443,6 +35799,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-26,Temporal - SDC (GPRS),23.79,5.66,22.79,2.14,
 2023-06-26,Tiahuanaco_M (GPRS),16.11,-12.63,67.17,9.44,
 2023-06-26,Tinguipaya,22.3,-1.2,,,
+2023-06-26,Todos Santos_Or,,-9.0,,,
 2023-06-26,Tomave,16.0,-9.0,,,
 2023-06-26,Trinidad,,,87.8,87.8,
 2023-06-26,Tupiza,26.7,-4.0,,,
@@ -35452,6 +35809,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-26,Vacas - SDC (GPRS),16.88,0.48,35.69,7.69,
 2023-06-26,Viacha_M (GPRS),16.23,-10.95,60.37,9.4,
 2023-06-26,Vila Vila - SDC (GPRS),25.72,6.64,22.75,4.95,
+2023-06-26,Villa Puni,14.0,-1.0,,,
 2023-06-26,Villamontes,,,92.9,92.9,
 2023-06-26,Villazon,19.2,-4.3,,,
 2023-06-26,Viru Viru,24.0,24.0,82.6,82.6,
@@ -35462,6 +35820,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-26,Wila Cala (GPRS),12.84,-4.09,70.64,19.2,
 2023-06-26,Yacuiba,,,71.2,71.2,
 2023-06-26,Yesera Norte,27.0,3.0,,,
+2023-06-26,Yesera Sur,29.0,-1.0,,,
 2023-06-26,Yocalla,26.1,-1.2,,,
 2023-06-26,Zudañez,30.0,1.0,,,
 2023-06-26,Ñoquejza,18.2,-4.3,,,
@@ -35481,6 +35840,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-27,Camata,33.0,16.0,,,
 2023-06-27,Camiri,14.0,14.0,92.9,92.9,
 2023-06-27,Carabuco,,-4.0,,,
+2023-06-27,Caranavi,35.5,19.0,,,
 2023-06-27,Catacora,13.0,-14.0,,,
 2023-06-27,Cañas,33.5,4.0,,,
 2023-06-27,Chaqui,22.2,-1.1,,,
@@ -35529,6 +35889,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-27,Padilla,30.0,0.0,,,
 2023-06-27,Pailon - Pozo del Tigre (GPRS),32.16,20.29,94.1,43.6,
 2023-06-27,Palca_LP,20.5,0.0,,,
+2023-06-27,Palmar Grande,35.0,14.0,,,
 2023-06-27,Pampas de Lequezana,23.2,4.0,,,
 2023-06-27,Pasorapa (GPRS),21.45,20.35,37.04,30.76,
 2023-06-27,Patacamaya (GPRS),10.03,9.26,12.95,12.0,
@@ -35556,6 +35917,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-27,San Andres de Machaca_M (GPRS),15.86,-1.85,14.6,4.18,
 2023-06-27,San Borja,31.0,31.0,69.8,69.8,
 2023-06-27,San Calixto,18.0,3.6,,,
+2023-06-27,San Jacinto_M (GPRS),28.81,5.41,87.6,14.0,
 2023-06-27,San Javier,30.0,28.0,57.6,54.6,
 2023-06-27,San Javier Aeropuerto (F),30.0,28.0,57.6,54.6,
 2023-06-27,San Joaquin,23.0,23.0,93.2,93.2,
@@ -35573,6 +35935,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-27,Santiago de Huata,15.0,-6.0,,,
 2023-06-27,Sara Ana,35.0,21.0,,,
 2023-06-27,Sauce Pilata - SDC (GPRS),22.67,9.55,66.42,9.83,
+2023-06-27,Saykan Perulas,,,,,0.8
 2023-06-27,Sella Quebrada,29.0,4.5,,,
 2023-06-27,Sorata,25.0,4.0,,,
 2023-06-27,Sucre SENAMHI,26.8,2.4,23.0,9.0,
@@ -35586,6 +35949,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-27,Temporal - SDC (GPRS),24.7,5.57,27.85,1.61,
 2023-06-27,Tiahuanaco_M (GPRS),16.57,-12.89,63.6,9.05,
 2023-06-27,Tinguipaya,23.2,-1.3,,,
+2023-06-27,Todos Santos_Or,,-8.5,,,
 2023-06-27,Tomave,17.0,-8.5,,,
 2023-06-27,Trinidad,24.0,24.0,87.8,87.8,
 2023-06-27,Tupiza,26.8,-5.0,,,
@@ -35594,6 +35958,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-27,Vacas - SDC (GPRS),18.04,0.98,44.53,8.14,
 2023-06-27,Viacha_M (GPRS),17.93,-12.2,59.9,6.47,
 2023-06-27,Vila Vila - SDC (GPRS),26.09,4.38,29.66,4.64,
+2023-06-27,Villa Puni,13.5,-2.0,,,
 2023-06-27,Villamontes,17.0,17.0,93.0,93.0,
 2023-06-27,Villazon,20.2,-6.0,,,
 2023-06-27,Viru Viru,23.0,23.0,82.5,82.5,
@@ -35604,6 +35969,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-27,Wila Cala (GPRS),13.26,-4.53,90.23,20.68,
 2023-06-27,Yacuiba,15.0,15.0,92.9,92.9,
 2023-06-27,Yesera Norte,28.0,3.5,,,
+2023-06-27,Yesera Sur,30.0,-1.0,,,
 2023-06-27,Yocalla,25.3,-4.1,,,
 2023-06-27,Zudañez,30.0,1.0,,,
 2023-06-27,Ñoquejza,15.9,-3.1,,,
@@ -35622,6 +35988,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-28,Camata,31.0,15.5,,,
 2023-06-28,Camiri,18.0,18.0,87.3,87.3,
 2023-06-28,Carabuco,,-3.0,,,
+2023-06-28,Caranavi,34.0,18.5,,,
 2023-06-28,Catacora,12.5,-13.0,,,
 2023-06-28,Cañas,21.0,5.5,,,
 2023-06-28,Chaqui,19.1,-1.3,,,
@@ -35645,6 +36012,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-28,Desaguadero_M,14.81,-5.97,81.4,9.25,
 2023-06-28,El Alto,3.0,3.0,13.9,13.9,
 2023-06-28,El Belen,16.6,-10.6,,,
+2023-06-28,El Común Caraparí,,,,,1.0
 2023-06-28,El Tejar (Tarija),21.3,7.7,,,
 2023-06-28,El Villar,29.0,7.0,,,
 2023-06-28,Hichucota,13.0,-4.0,,,
@@ -35667,6 +36035,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-28,Padilla,24.0,2.0,,,
 2023-06-28,Pailon - Pozo del Tigre (GPRS),28.67,18.44,91.7,62.57,
 2023-06-28,Palca_LP,20.0,1.0,,,
+2023-06-28,Palmar Grande,21.0,19.0,,,
 2023-06-28,Pampas de Lequezana,22.5,6.4,,,
 2023-06-28,Pocona - SDC (GPRS),23.47,3.43,94.2,38.09,
 2023-06-28,Pojo - SDC (GPRS),22.65,10.72,81.9,48.21,
@@ -35690,6 +36059,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-28,Samasa,16.2,-3.0,,,
 2023-06-28,San Andres de Machaca_M (GPRS),15.86,-1.06,74.77,4.7,
 2023-06-28,San Calixto,17.8,3.8,,,
+2023-06-28,San Jacinto_M (GPRS),19.61,10.55,83.6,53.41,
 2023-06-28,San Javier,27.0,18.0,93.0,69.1,
 2023-06-28,San Javier Aeropuerto (F),27.0,18.0,93.0,69.1,
 2023-06-28,San Joaquin,20.0,20.0,93.1,93.1,
@@ -35707,6 +36077,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-28,Santiago de Huata,16.0,-4.0,,,
 2023-06-28,Sara Ana,31.0,21.0,,,
 2023-06-28,Sauce Pilata - SDC (GPRS),16.25,7.23,98.2,60.71,
+2023-06-28,Saykan Perulas,,,,,14.5
 2023-06-28,Sella Quebrada,19.0,5.0,,,
 2023-06-28,Sorata,23.0,5.0,,,
 2023-06-28,Sucre SENAMHI,20.0,2.2,26.0,24.0,
@@ -35720,6 +36091,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-28,Temporal - SDC (GPRS),23.27,7.54,65.17,5.64,
 2023-06-28,Tiahuanaco_M (GPRS),16.64,-7.08,95.2,5.72,
 2023-06-28,Tinguipaya,19.3,-1.2,,,
+2023-06-28,Todos Santos_Or,,-9.5,,,
 2023-06-28,Tomave,16.2,-10.5,,,
 2023-06-28,Trinidad,24.0,24.0,82.6,82.6,
 2023-06-28,Tupiza,26.4,-5.1,,,
@@ -35729,6 +36101,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-28,Viacha_M (GPRS),17.29,-8.4,93.2,5.3,
 2023-06-28,Vila Vila - SDC (GPRS),19.85,9.58,83.4,36.34,
 2023-06-28,Villa Copacabana,,,,,0.9
+2023-06-28,Villa Puni,15.5,-1.5,,,
 2023-06-28,Villamontes,21.0,21.0,82.2,82.2,
 2023-06-28,Villazon,19.4,-9.2,,,
 2023-06-28,Viru Viru,23.0,23.0,93.2,93.2,
@@ -35738,7 +36111,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-28,Vivero Viloma - SDC (GPRS),25.93,7.4,71.39,4.42,
 2023-06-28,Wila Cala (GPRS),12.27,-6.66,99.73,24.38,
 2023-06-28,Yacuiba,17.0,17.0,99.1,99.1,
+2023-06-28,Yacuiba Aeropuerto,,,,,0.1
 2023-06-28,Yesera Norte,14.0,4.0,,,
+2023-06-28,Yesera Sur,21.0,3.0,,,
 2023-06-28,Yocalla,24.1,-5.4,,,
 2023-06-28,Zudañez,28.0,0.0,,,
 2023-06-28,Ñoquejza,14.8,-3.2,,,
@@ -35757,6 +36132,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-29,Camata,32.0,15.0,,,
 2023-06-29,Camiri,14.0,14.0,87.0,87.0,
 2023-06-29,Carabuco,,-3.5,,,
+2023-06-29,Caranavi,31.5,20.0,,,
 2023-06-29,Catacora,13.0,-12.5,,,
 2023-06-29,Cañas,27.5,8.5,,,
 2023-06-29,Chaqui,21.2,-2.9,,,
@@ -35804,6 +36180,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-29,Padilla,25.0,10.0,,,
 2023-06-29,Pailon - Pozo del Tigre (GPRS),25.06,14.75,98.0,63.52,
 2023-06-29,Palca_LP,18.0,0.0,,,
+2023-06-29,Palmar Grande,24.0,14.0,,,
 2023-06-29,Pampas de Lequezana,20.1,5.9,,,
 2023-06-29,Pocona - SDC (GPRS),19.64,0.15,96.4,41.23,
 2023-06-29,Pojo - SDC (GPRS),19.64,7.64,78.5,55.23,
@@ -35828,6 +36205,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-29,San Borja,27.0,27.0,73.5,69.1,
 2023-06-29,San Borja Aeropuerto,,,,,10.3
 2023-06-29,San Calixto,15.0,1.4,,,
+2023-06-29,San Jacinto_M (GPRS),23.21,4.95,97.5,39.14,
 2023-06-29,San Joaquin,22.0,22.0,93.2,93.2,
 2023-06-29,San Jose de Chiquitos,28.0,20.0,87.5,57.6,
 2023-06-29,San Julian - Comunidad Los Angeles (GPRS),27.7,15.62,97.3,58.89,
@@ -35855,6 +36233,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-29,Temporal - SDC (GPRS),22.87,6.56,45.28,4.81,
 2023-06-29,Tiahuanaco_M (GPRS),14.29,-9.96,88.0,16.85,
 2023-06-29,Tinguipaya,21.2,-2.1,,,
+2023-06-29,Todos Santos_Or,,-7.5,,,
 2023-06-29,Tomave,17.0,-10.0,,,
 2023-06-29,Trinidad,22.0,22.0,77.4,77.4,
 2023-06-29,Trompillo Aeropuerto,,,,,5.0
@@ -35865,16 +36244,21 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-29,Viacha_M (GPRS),15.38,-6.5,82.8,10.96,
 2023-06-29,Vila Vila - SDC (GPRS),21.71,6.1,77.63,32.19,
 2023-06-29,Villa Copacabana,,,,,1.2
+2023-06-29,Villa Puni,14.5,-1.0,,,
 2023-06-29,Villamontes,15.0,15.0,81.5,81.5,
+2023-06-29,Villamontes Aeropuerto,,,,,1.6
 2023-06-29,Villazon,20.2,-7.3,,,
 2023-06-29,Viru Viru,18.0,18.0,76.8,76.8,
+2023-06-29,Viru Viru Aeropuerto,,,,,5.4
 2023-06-29,Viscachas Chirage (GPRS),12.71,-1.66,82.6,25.83,
 2023-06-29,Vitichi,23.2,1.6,,,
 2023-06-29,Vivero Chimboco - SDC (GPRS),22.82,3.43,61.92,6.65,
 2023-06-29,Vivero Viloma - SDC (GPRS),24.25,5.13,49.81,19.08,
 2023-06-29,Wila Cala (GPRS),-5.23,-5.57,78.23,75.43,
 2023-06-29,Yacuiba,13.0,13.0,92.8,92.8,
+2023-06-29,Yacuiba Aeropuerto,,,,,0.3
 2023-06-29,Yesera Norte,20.0,9.0,,,
+2023-06-29,Yesera Sur,27.0,6.0,,,
 2023-06-29,Yocalla,26.1,-2.1,,,
 2023-06-29,Zudañez,24.0,1.0,,,
 2023-06-29,Ñoquejza,12.9,-4.0,,,
@@ -35893,6 +36277,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-30,Camata,32.5,16.0,,,
 2023-06-30,Camiri,28.0,12.0,86.8,86.8,
 2023-06-30,Carabuco,,-2.9,,,
+2023-06-30,Caranavi,32.0,19.5,,,
 2023-06-30,Catacora,14.0,-12.0,,,
 2023-06-30,Cañas,29.5,4.5,,,
 2023-06-30,Chaqui,21.6,-1.8,,,
@@ -35920,6 +36305,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-30,El Villar,21.0,9.0,,,
 2023-06-30,Hichucota,14.0,-3.0,,,
 2023-06-30,Huarisuyo (GPRS),15.84,-10.16,91.9,17.03,
+2023-06-30,Huaylipaya,,,,,6.5
 2023-06-30,Huayrocondo,17.0,-7.3,,,
 2023-06-30,Isla Del Sol,15.6,2.6,,,
 2023-06-30,Isla Suriqui_M (GPRS),13.19,0.74,87.4,18.59,
@@ -35938,6 +36324,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-30,Padilla,26.0,4.0,,,
 2023-06-30,Pailon - Pozo del Tigre (GPRS),29.02,15.6,98.7,52.2,
 2023-06-30,Palca_LP,19.5,0.5,,,
+2023-06-30,Palmar Grande,24.0,9.0,,,
 2023-06-30,Pampas de Lequezana,23.2,5.3,,,
 2023-06-30,Pocona - SDC (GPRS),24.92,-2.84,95.0,14.83,
 2023-06-30,Pojo - SDC (GPRS),20.23,7.71,73.76,43.59,
@@ -35953,13 +36340,17 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-30,Ravelo,21.0,-7.0,,,
 2023-06-30,Redencion Pampa,21.0,2.0,,,
 2023-06-30,Reyes,31.0,21.0,93.2,93.2,
+2023-06-30,Reyes Aeropuerto,,,,,3.0
 2023-06-30,Riberalta,32.0,20.0,93.2,93.2,
 2023-06-30,Robore,28.0,17.0,99.1,99.1,
+2023-06-30,Roboré Aeropuerto,,,,,0.4
 2023-06-30,Rurrenabaque,30.0,20.0,99.1,99.1,
 2023-06-30,Sacaca,22.6,-3.1,,,
 2023-06-30,Samasa,19.2,-3.0,,,
 2023-06-30,San Andres de Machaca_M (GPRS),15.61,-0.15,45.62,10.24,
+2023-06-30,San Borja Aeropuerto,,,,,18.8
 2023-06-30,San Calixto,16.6,3.4,,,
+2023-06-30,San Jacinto_M (GPRS),25.4,17.12,55.77,33.93,
 2023-06-30,San Joaquin,33.0,20.0,99.1,99.1,
 2023-06-30,San Jose de Chiquitos,30.0,15.0,92.9,92.9,
 2023-06-30,San Julian - Comunidad Los Angeles (GPRS),29.8,17.37,97.7,49.05,
@@ -35974,6 +36365,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-30,Santiago de Huata,16.0,-5.0,,,
 2023-06-30,Sara Ana,33.0,22.0,,,
 2023-06-30,Sauce Pilata - SDC (GPRS),19.42,9.55,74.77,38.07,
+2023-06-30,Saykan Perulas,,,,,2.6
 2023-06-30,Sella Quebrada,26.0,1.0,,,
 2023-06-30,Sorata,23.0,7.0,,,
 2023-06-30,Sucre SENAMHI,24.0,4.5,60.0,12.0,
@@ -35987,6 +36379,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-30,Temporal - SDC (GPRS),23.37,6.6,40.66,1.6,
 2023-06-30,Tiahuanaco_M (GPRS),16.37,-10.08,83.2,13.55,
 2023-06-30,Tinguipaya,22.3,-2.0,,,
+2023-06-30,Todos Santos_Or,,-9.5,,,
 2023-06-30,Tomave,18.2,-8.0,,,
 2023-06-30,Trinidad,30.0,21.0,87.5,87.5,
 2023-06-30,Tupiza,25.4,-2.2,,,
@@ -35995,6 +36388,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-30,Vacas - SDC (GPRS),17.34,0.26,62.96,15.63,
 2023-06-30,Viacha_M (GPRS),16.43,-9.13,76.71,9.14,
 2023-06-30,Vila Vila - SDC (GPRS),23.82,6.38,57.27,14.98,
+2023-06-30,Villa Puni,14.0,-1.5,,,
 2023-06-30,Villamontes,21.0,10.0,92.7,92.7,
 2023-06-30,Villazon,19.0,-7.0,,,
 2023-06-30,Viru Viru,28.0,16.0,87.2,87.2,
@@ -36005,6 +36399,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-30,Wila Cala (GPRS),-4.23,-5.13,72.9,68.46,
 2023-06-30,Yacuiba,19.0,12.0,81.2,81.2,
 2023-06-30,Yesera Norte,22.0,0.0,,,
+2023-06-30,Yesera Sur,28.0,5.0,,,
 2023-06-30,Yocalla,27.0,-5.1,,,
 2023-06-30,Zudañez,22.0,3.0,,,
 2023-06-30,Ñoquejza,14.1,-4.1,,,
@@ -36013,6 +36408,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-01,Aiquile (GPRS),30.14,0.67,94.1,28.93,
 2023-07-01,Alto Peñas (GPRS),14.17,1.3,37.19,18.62,
 2023-07-01,Aroma (GPRS),-2.95,-2.95,18.23,18.23,
+2023-07-01,Cabaña Forestal Oruro,,-5.3,,,
 2023-07-01,Camiri,14.0,14.0,87.0,87.0,
 2023-07-01,Chua Cocani_M (GPRS),13.71,-1.62,85.7,14.57,
 2023-07-01,Cobija,21.0,21.0,99.1,99.1,
@@ -36038,6 +36434,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-01,Quila Quila_M (GPRS),21.86,3.34,61.41,11.85,
 2023-07-01,Riberalta,21.0,21.0,93.2,93.2,
 2023-07-01,San Andres de Machaca_M (GPRS),16.55,-1.52,31.31,6.32,
+2023-07-01,San Jacinto_M (GPRS),22.66,3.79,97.3,37.2,
 2023-07-01,San Juan de Yapacaní,,,,,0.2
 2023-07-01,San Julian - Comunidad Los Angeles (GPRS),31.56,17.06,96.8,45.27,
 2023-07-01,San Julian - Nucleo 32 (GPRS),31.16,18.72,,,
@@ -36066,6 +36463,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-02,Aiquile (GPRS),34.7,0.48,92.5,16.22,
 2023-07-02,Alto Peñas (GPRS),15.54,1.86,37.77,12.51,
 2023-07-02,Aroma (GPRS),-4.56,-4.56,23.09,23.09,
+2023-07-02,Cabaña Forestal Oruro,,-6.4,,,
 2023-07-02,Camiri,29.0,16.0,87.2,87.2,
 2023-07-02,Chua Cocani_M (GPRS),14.62,-2.33,81.9,8.51,
 2023-07-02,Cobija,20.0,20.0,93.1,93.1,
@@ -36087,6 +36485,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-02,Quila Quila_M (GPRS),24.16,4.53,31.61,6.24,
 2023-07-02,Riberalta,21.0,21.0,93.2,93.2,
 2023-07-02,San Andres de Machaca_M (GPRS),17.43,0.51,37.61,7.83,
+2023-07-02,San Jacinto_M (GPRS),25.81,13.71,79.8,29.73,
 2023-07-02,San Juan de Yapacaní,,,,,0.4
 2023-07-02,San Julian - Comunidad Los Angeles (GPRS),30.91,18.82,90.4,46.11,
 2023-07-02,San Julian - Nucleo 32 (GPRS),30.25,18.71,,,
@@ -36115,6 +36514,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-03,Aiquile (GPRS),34.35,1.4,94.1,21.14,
 2023-07-03,Alto Peñas (GPRS),15.89,4.33,55.03,20.17,
 2023-07-03,Aroma (GPRS),-1.92,-1.92,26.53,26.53,
+2023-07-03,Cabaña Forestal Oruro,,-6.3,,,
 2023-07-03,Camiri,,,87.4,87.4,
 2023-07-03,Chua Cocani_M (GPRS),16.2,-1.03,87.4,20.25,
 2023-07-03,Cobija,,,99.1,99.1,
@@ -36144,6 +36544,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-03,Robore,,,92.8,92.8,
 2023-07-03,Rurrenabaque,,,99.1,99.1,
 2023-07-03,San Andres de Machaca_M (GPRS),17.49,1.68,34.03,8.74,
+2023-07-03,San Jacinto_M (GPRS),23.78,16.42,69.37,32.75,
 2023-07-03,San Javier,,,93.0,93.0,
 2023-07-03,San Javier Aeropuerto (F),,,93.0,93.0,
 2023-07-03,San Joaquin,,,99.1,99.1,
@@ -36177,6 +36578,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-04,Aiquile (GPRS),35.54,2.91,91.6,19.88,
 2023-07-04,Alto Peñas (GPRS),17.39,3.42,24.53,12.7,
 2023-07-04,Aroma (GPRS),-1.17,-1.17,20.94,20.94,
+2023-07-04,Cabaña Forestal Oruro,,-6.9,,,
 2023-07-04,Camiri,18.0,18.0,93.1,93.1,
 2023-07-04,Chua Cocani_M (GPRS),15.94,-1.09,85.7,13.8,
 2023-07-04,Cobija,21.0,21.0,93.2,93.2,
@@ -36205,6 +36607,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-04,Robore,15.0,15.0,99.1,99.1,
 2023-07-04,Rurrenabaque,23.0,23.0,93.2,93.2,
 2023-07-04,San Andres de Machaca_M (GPRS),18.55,0.44,27.51,8.62,
+2023-07-04,San Jacinto_M (GPRS),24.96,3.6,96.9,35.0,
 2023-07-04,San Joaquin,19.0,19.0,99.1,99.1,
 2023-07-04,San Jose de Chiquitos,19.0,19.0,87.4,87.4,
 2023-07-04,San Julian - Comunidad Los Angeles (GPRS),31.69,20.68,89.0,46.31,
@@ -36235,6 +36638,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-05,Aiquile (GPRS),34.94,1.09,93.6,22.58,
 2023-07-05,Alto Peñas (GPRS),17.06,2.09,33.91,16.59,
 2023-07-05,Aroma (GPRS),-5.6,-5.6,20.14,20.14,
+2023-07-05,Cabaña Forestal Oruro,,-6.9,,,
 2023-07-05,Camiri,16.0,16.0,81.7,81.7,
 2023-07-05,Chua Cocani_M (GPRS),15.87,-1.02,82.0,31.98,
 2023-07-05,Cobija,22.0,22.0,93.2,93.2,
@@ -36263,6 +36667,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-05,Robore,18.0,18.0,93.0,93.0,
 2023-07-05,Rurrenabaque,22.0,22.0,99.1,99.1,
 2023-07-05,San Andres de Machaca_M (GPRS),18.94,0.61,13.09,5.25,
+2023-07-05,San Jacinto_M (GPRS),25.51,4.23,96.0,20.33,
 2023-07-05,San Javier,25.0,25.0,73.2,73.2,
 2023-07-05,San Javier Aeropuerto (F),25.0,25.0,73.2,73.2,
 2023-07-05,San Joaquin,20.0,20.0,93.1,93.1,
@@ -36296,6 +36701,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-06,Aiquile (GPRS),35.13,2.0,95.5,21.28,
 2023-07-06,Alto Peñas (GPRS),17.95,4.96,26.77,14.77,
 2023-07-06,Aroma (GPRS),-3.56,-3.56,16.9,16.9,
+2023-07-06,Cabaña Forestal Oruro,,-6.9,,,
 2023-07-06,Camiri,31.0,16.0,87.2,87.2,
 2023-07-06,Chua Cocani_M (GPRS),17.11,-2.21,83.8,20.93,
 2023-07-06,Cobija,34.0,22.0,87.7,87.7,
@@ -36325,6 +36731,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-06,Robore,32.0,25.0,64.6,64.6,
 2023-07-06,Rurrenabaque,28.0,22.0,93.2,93.2,
 2023-07-06,San Andres de Machaca_M (GPRS),19.71,0.83,37.93,5.94,
+2023-07-06,San Jacinto_M (GPRS),25.18,7.52,96.0,33.96,
 2023-07-06,San Joaquin,34.0,21.0,93.2,93.2,
 2023-07-06,San Jose de Chiquitos,33.0,22.0,93.2,93.2,
 2023-07-06,San Juan de Yapacaní,,,,,2.2
@@ -36357,6 +36764,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-07,Aiquile (GPRS),33.48,2.73,93.6,23.28,
 2023-07-07,Alto Peñas (GPRS),17.79,4.41,26.76,7.74,
 2023-07-07,Aroma (GPRS),-3.81,-3.81,13.15,13.15,
+2023-07-07,Cabaña Forestal Oruro,,-6.4,,,
 2023-07-07,Camiri,30.0,20.0,87.5,48.2,
 2023-07-07,Chua Cocani_M (GPRS),17.32,-2.53,81.4,18.71,
 2023-07-07,Cobija,23.0,23.0,93.2,93.2,
@@ -36386,6 +36794,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-07,Robore,32.0,26.0,65.2,51.8,
 2023-07-07,Rurrenabaque,27.0,25.0,99.1,82.9,
 2023-07-07,San Andres de Machaca_M (GPRS),19.0,-1.06,26.51,5.04,
+2023-07-07,San Jacinto_M (GPRS),24.63,7.64,97.6,40.44,
 2023-07-07,San Joaquin,34.0,26.0,73.3,43.3,
 2023-07-07,San Jose de Chiquitos,34.0,26.0,68.9,43.5,
 2023-07-07,San Juan de Yapacaní,,,,,0.4
@@ -36417,6 +36826,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-08,Aiquile (GPRS),34.28,2.37,94.4,21.65,
 2023-07-08,Alto Peñas (GPRS),16.72,2.56,23.3,7.88,
 2023-07-08,Aroma (GPRS),-4.78,-4.78,11.99,11.99,
+2023-07-08,Cabaña Forestal Oruro,,-7.3,,,
 2023-07-08,Camiri,20.0,20.0,82.2,82.2,
 2023-07-08,Chua Cocani_M (GPRS),15.61,-3.0,85.7,11.84,
 2023-07-08,Cobija,22.0,22.0,99.1,99.1,
@@ -36442,6 +36852,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-08,Riberalta,24.0,24.0,87.8,87.8,
 2023-07-08,Rurrenabaque,24.0,24.0,93.3,93.3,
 2023-07-08,San Andres de Machaca_M (GPRS),17.95,-1.01,22.81,4.57,
+2023-07-08,San Jacinto_M (GPRS),25.08,7.26,95.7,40.87,
 2023-07-08,San Julian - Comunidad Los Angeles (GPRS),31.36,23.08,93.2,57.4,
 2023-07-08,San Julian - Nucleo 32 (GPRS),31.1,23.96,,,
 2023-07-08,San Pedro - Río Victoria (GPRS),30.83,22.93,94.1,66.93,
@@ -36469,6 +36880,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-09,Aiquile (GPRS),34.33,3.28,93.9,23.4,
 2023-07-09,Alto Peñas (GPRS),16.32,6.79,43.21,18.35,
 2023-07-09,Aroma (GPRS),-6.67,-6.67,13.21,13.21,
+2023-07-09,Cabaña Forestal Oruro,,-7.2,,,
 2023-07-09,Camiri,17.0,17.0,93.0,93.0,
 2023-07-09,Chua Cocani_M (GPRS),17.12,-0.57,86.4,20.32,
 2023-07-09,Cobija,24.0,24.0,93.3,93.3,
@@ -36491,6 +36903,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-09,Quila Quila_M (GPRS),23.96,4.15,38.7,5.38,
 2023-07-09,Riberalta,25.0,25.0,93.3,93.3,
 2023-07-09,San Andres de Machaca_M (GPRS),17.89,1.02,23.1,5.75,
+2023-07-09,San Jacinto_M (GPRS),26.25,1.22,89.7,18.03,
 2023-07-09,San Joaquin,33.0,26.0,77.9,52.0,
 2023-07-09,San Julian - Comunidad Los Angeles (GPRS),31.49,22.69,97.5,60.13,
 2023-07-09,San Julian - Nucleo 32 (GPRS),31.64,28.35,,,
@@ -36514,31 +36927,331 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-09,Viscachas Chirage (GPRS),17.82,2.08,87.9,9.88,
 2023-07-09,Vivero Chimboco - SDC (GPRS),27.32,3.98,53.66,3.65,
 2023-07-09,Vivero Viloma - SDC (GPRS),27.87,7.31,42.79,9.08,
+2023-07-10,Aguadas (GPRS),18.81,-5.14,80.6,8.37,
+2023-07-10,Aiquile (GPRS),34.92,3.81,93.9,25.51,
+2023-07-10,Alto Peñas (GPRS),16.69,1.92,80.9,14.54,
 2023-07-10,Aroma (GPRS),-3.2,-3.2,11.53,11.53,
+2023-07-10,Cabaña Forestal Oruro,,-6.0,,,
 2023-07-10,Camiri,18.0,18.0,93.1,93.1,
+2023-07-10,Chua Cocani_M (GPRS),16.59,-1.42,93.4,20.78,
 2023-07-10,Cobija,23.0,23.0,93.2,93.2,
 2023-07-10,Cochabamba,9.0,9.0,52.9,52.9,
 2023-07-10,Concepcion,21.0,21.0,99.1,99.1,
 2023-07-10,Cuatro Cañadas - CEA-2 (GPRS),,,,,5.6
 2023-07-10,Cuatro Cañadas - Colonia Chihuahua (GPRS),,,,,0.4
+2023-07-10,Desaguadero_M,14.95,-5.71,70.95,8.13,
 2023-07-10,El Alto,6.0,6.0,28.2,28.2,
+2023-07-10,Huarisuyo (GPRS),17.36,-6.56,88.4,10.93,
+2023-07-10,Isla Suriqui_M (GPRS),15.47,1.53,90.5,18.08,
+2023-07-10,Jesús de Machaca_M (GPRS),17.96,-9.9,54.39,4.66,
 2023-07-10,Magdalena,25.0,25.0,93.3,93.3,
+2023-07-10,Mizque - SDC (GPRS),28.57,5.42,91.6,21.98,
 2023-07-10,Oruro,4.0,4.0,35.1,35.1,
 2023-07-10,Pailon - Pozo del Tigre (GPRS),,,,,1.0
+2023-07-10,Pocona - SDC (GPRS),21.14,8.71,76.4,41.05,
+2023-07-10,Pojo - SDC (GPRS),21.54,11.21,79.25,56.68,
 2023-07-10,Potosí,1.0,1.0,40.1,40.1,
 2023-07-10,Puerto Suarez,25.0,25.0,82.7,82.7,
 2023-07-10,Puerto Suarez Aeropuerto (F),25.0,25.0,82.7,82.7,
+2023-07-10,Puerto Villarroel (GPRS),29.32,23.62,91.4,77.89,
+2023-07-10,Putucuni Calientes (GPRS),12.74,-1.76,89.6,12.06,
+2023-07-10,Quila Quila_M (GPRS),25.34,5.18,47.56,3.69,
 2023-07-10,Reyes,24.0,24.0,93.3,93.3,
 2023-07-10,Riberalta,24.0,24.0,93.3,93.3,
 2023-07-10,Robore,24.0,24.0,68.5,68.5,
 2023-07-10,Rurrenabaque,23.0,23.0,99.1,99.1,
+2023-07-10,San Andres de Machaca_M (GPRS),17.62,1.03,37.19,5.61,
+2023-07-10,San Jacinto_M (GPRS),27.92,3.23,96.6,15.15,
 2023-07-10,San Joaquin,23.0,23.0,93.2,93.2,
 2023-07-10,San Jose de Chiquitos,24.0,24.0,82.6,82.6,
 2023-07-10,San Julian - Comunidad Los Angeles (GPRS),,,,,2.0
+2023-07-10,San Julian - Nucleo 32 (GPRS),31.03,24.36,,,4.4
+2023-07-10,San Pedro - Río Victoria (GPRS),31.96,23.54,92.1,60.88,
 2023-07-10,San Pedro - San Antonio (GPRS),,,,,4.4
+2023-07-10,San Pedro de Buena Vista (GPRS),27.08,10.79,41.91,8.98,
+2023-07-10,San Roque - El Alto (GPRS),18.22,-0.81,89.5,10.53,
 2023-07-10,Santa Ana - Yacuma,23.0,23.0,93.2,93.2,
+2023-07-10,Sauce Pilata - SDC (GPRS),21.89,11.78,69.88,37.61,
+2023-07-10,Sunjani (GPRS),17.55,-3.49,84.2,7.72,
+2023-07-10,Tacagua_M (GPRS),15.59,-2.07,24.45,4.98,
 2023-07-10,Tarija,6.0,6.0,74.9,74.9,
+2023-07-10,Templo (GPRS),14.71,0.37,58.53,7.54,
+2023-07-10,Temporal - SDC (GPRS),27.06,8.91,46.06,0.34,
+2023-07-10,Tiahuanaco_M (GPRS),17.64,-9.23,77.86,8.33,
 2023-07-10,Trinidad,24.0,24.0,87.8,87.8,
+2023-07-10,Vacas - SDC (GPRS),19.93,3.26,70.01,5.95,
+2023-07-10,Viacha_M (GPRS),18.07,-5.52,93.6,7.85,
+2023-07-10,Vila Vila - SDC (GPRS),26.17,7.73,68.89,16.03,
 2023-07-10,Villamontes,19.0,19.0,93.1,93.1,
 2023-07-10,Viru Viru,24.0,24.0,93.3,93.3,
+2023-07-10,Viscachas Chirage (GPRS),17.07,0.34,88.3,12.91,
+2023-07-10,Vivero Chimboco - SDC (GPRS),26.86,6.38,58.34,5.21,
+2023-07-10,Vivero Viloma - SDC (GPRS),29.04,8.43,49.64,5.79,
 2023-07-10,Yacuiba,17.0,17.0,93.0,93.0,
+2023-07-11,Aguadas (GPRS),17.54,-2.6,71.21,9.0,
+2023-07-11,Aiquile (GPRS),33.87,2.29,91.8,25.16,
+2023-07-11,Alto Peñas (GPRS),15.93,3.21,79.92,21.26,
+2023-07-11,Aroma (GPRS),-1.76,-1.76,16.34,16.34,
+2023-07-11,Cabaña Forestal Oruro,,-5.3,,,
+2023-07-11,Camiri,24.0,18.0,93.1,68.6,
+2023-07-11,Chua Cocani_M (GPRS),16.59,0.29,75.89,18.82,
+2023-07-11,Cobija,35.0,22.0,99.1,99.1,
+2023-07-11,Cochabamba,10.0,10.0,57.1,57.1,
+2023-07-11,Concepcion,30.0,21.0,93.2,93.2,
+2023-07-11,Cuatro Cañadas - CEA-2 (GPRS),31.62,23.09,94.0,54.54,
+2023-07-11,Cuatro Cañadas - Colonia Chihuahua (GPRS),33.23,24.5,80.5,47.91,0.4
+2023-07-11,Desaguadero_M,16.31,-3.95,67.28,21.69,
+2023-07-11,El Alto,4.0,4.0,37.9,37.9,
+2023-07-11,Huarisuyo (GPRS),16.34,-5.51,89.1,19.07,
+2023-07-11,Isla Suriqui_M (GPRS),15.14,3.43,77.86,31.43,
+2023-07-11,Jesús de Machaca_M (GPRS),17.56,-7.09,55.96,14.36,
+2023-07-11,Magdalena,34.0,22.0,93.2,93.2,
+2023-07-11,Mizque - SDC (GPRS),28.77,3.1,91.9,19.93,
+2023-07-11,Oruro,19.0,2.0,35.1,35.1,
+2023-07-11,Pailon - Pozo del Tigre (GPRS),33.07,24.93,80.4,42.96,
+2023-07-11,Palos Blancos_M (GPRS),,,,,1.0
+2023-07-11,Pocona - SDC (GPRS),20.88,10.12,71.21,40.72,
+2023-07-11,Pojo - SDC (GPRS),24.94,11.97,76.32,37.58,
+2023-07-11,Potosí,18.0,0.0,46.6,46.6,
+2023-07-11,Puente Chiñata_H- SDC (GPRS),,,,,0.1
+2023-07-11,Puerto Suarez,33.0,25.0,87.9,87.9,
+2023-07-11,Puerto Suarez Aeropuerto (F),33.0,25.0,87.9,87.9,
+2023-07-11,Puerto Villarroel (GPRS),29.96,23.16,92.0,76.68,
+2023-07-11,Putucuni Calientes (GPRS),12.0,2.02,58.3,13.31,
+2023-07-11,Quila Quila_M (GPRS),23.76,10.08,52.91,5.71,
+2023-07-11,Reyes,23.0,23.0,99.1,99.1,
+2023-07-11,Riberalta,23.0,23.0,93.2,93.2,
+2023-07-11,Robore,25.0,25.0,68.7,68.7,
+2023-07-11,Rurrenabaque,24.0,24.0,99.1,99.1,
+2023-07-11,San Andres de Machaca_M (GPRS),17.42,3.51,37.76,12.38,
+2023-07-11,San Jacinto_M (GPRS),29.27,18.21,44.11,17.04,
+2023-07-11,San Javier,22.0,22.0,93.2,93.2,
+2023-07-11,San Javier Aeropuerto (F),22.0,22.0,93.2,93.2,
+2023-07-11,San Joaquin,22.0,22.0,93.2,93.2,
+2023-07-11,San Jose de Chiquitos,24.0,24.0,82.6,82.6,
+2023-07-11,San Julian - Comunidad Los Angeles (GPRS),32.55,24.14,87.7,51.4,
+2023-07-11,San Julian - Nucleo 32 (GPRS),32.41,24.02,,,
+2023-07-11,San Pedro - Río Victoria (GPRS),32.51,22.46,91.2,58.88,
+2023-07-11,San Pedro - San Antonio (GPRS),31.8,22.59,93.2,58.12,
+2023-07-11,San Pedro de Buena Vista (GPRS),26.13,14.55,26.96,11.62,
+2023-07-11,San Roque - El Alto (GPRS),17.09,1.24,70.81,23.53,
+2023-07-11,Santa Ana - Yacuma,24.0,24.0,87.8,87.8,
+2023-07-11,Sauce Pilata - SDC (GPRS),21.38,14.04,63.17,28.9,
+2023-07-11,Sunjani (GPRS),16.08,-0.29,52.31,5.47,
+2023-07-11,Tacagua_M (GPRS),17.16,-3.9,50.79,8.77,
+2023-07-11,Tarija,6.0,6.0,80.4,80.4,
+2023-07-11,Templo (GPRS),13.83,3.49,44.77,4.41,
+2023-07-11,Temporal - SDC (GPRS),26.04,9.49,36.45,1.06,
+2023-07-11,Tiahuanaco_M (GPRS),17.15,-9.43,81.1,18.58,
+2023-07-11,Trinidad,23.0,23.0,93.2,93.2,
+2023-07-11,Vacas - SDC (GPRS),17.8,4.32,67.28,16.5,
+2023-07-11,Viacha_M (GPRS),17.33,-8.07,95.2,17.69,
+2023-07-11,Vila Vila - SDC (GPRS),25.31,12.64,52.01,15.38,
+2023-07-11,Villamontes,20.0,20.0,87.5,87.5,
+2023-07-11,Viru Viru,25.0,25.0,87.9,87.9,
+2023-07-11,Viscachas Chirage (GPRS),17.47,3.2,87.2,6.2,
+2023-07-11,Vivero Chimboco - SDC (GPRS),26.17,5.81,56.94,8.21,
+2023-07-11,Vivero Viloma - SDC (GPRS),26.54,8.73,52.49,4.05,
+2023-07-11,Yacuiba,18.0,18.0,93.0,93.0,
+2023-07-12,Aguadas (GPRS),16.96,-4.61,61.06,13.97,
+2023-07-12,Aiquile (GPRS),36.84,6.8,91.1,5.68,
+2023-07-12,Alto Peñas (GPRS),15.54,2.25,44.73,17.05,
+2023-07-12,Aroma (GPRS),-0.88,-0.88,27.12,27.12,
+2023-07-12,Camiri,19.0,19.0,87.4,87.4,
+2023-07-12,Chua Cocani_M (GPRS),15.17,-2.52,59.4,25.79,
+2023-07-12,Cobija,23.0,23.0,93.2,93.2,
+2023-07-12,Cochabamba,11.0,11.0,53.4,53.4,
+2023-07-12,Concepcion,23.0,23.0,82.5,82.5,
+2023-07-12,Cuatro Cañadas - CEA-2 (GPRS),31.42,18.77,95.1,57.02,
+2023-07-12,Cuatro Cañadas - Colonia Chihuahua (GPRS),32.9,19.52,97.0,50.12,
+2023-07-12,Desaguadero_M,13.18,-6.89,72.44,16.58,
+2023-07-12,El Alto,5.0,5.0,30.2,30.2,
+2023-07-12,Huarisuyo (GPRS),15.6,-7.68,76.73,18.95,
+2023-07-12,Isla Suriqui_M (GPRS),14.17,0.39,63.94,25.13,
+2023-07-12,Jesús de Machaca_M (GPRS),18.34,-12.81,56.96,8.23,
+2023-07-12,Magdalena,22.0,22.0,99.1,99.1,
+2023-07-12,Mizque - SDC (GPRS),31.68,7.4,86.9,4.8,
+2023-07-12,Oruro,3.0,3.0,47.5,47.5,
+2023-07-12,Pailon - Pozo del Tigre (GPRS),32.48,19.84,91.0,51.63,
+2023-07-12,Palos Blancos_M (GPRS),,,,,0.9
+2023-07-12,Pocona - SDC (GPRS),27.78,1.84,95.1,8.5,
+2023-07-12,Pojo - SDC (GPRS),23.96,11.38,79.64,41.23,
+2023-07-12,Potosí,3.0,3.0,44.0,44.0,
+2023-07-12,Puerto Suarez,25.0,25.0,82.7,82.7,
+2023-07-12,Puerto Suarez Aeropuerto (F),25.0,25.0,82.7,82.7,
+2023-07-12,Puerto Villarroel (GPRS),28.93,21.96,91.7,78.65,
+2023-07-12,Putucuni Calientes (GPRS),11.36,0.12,68.84,16.5,
+2023-07-12,Quila Quila_M (GPRS),24.15,3.93,69.44,3.82,
+2023-07-12,Riberalta,24.0,24.0,87.8,87.8,
+2023-07-12,Robore,25.0,25.0,68.7,68.7,
+2023-07-12,Rurrenabaque,30.0,24.0,99.1,61.7,
+2023-07-12,San Andres de Machaca_M (GPRS),17.04,-1.91,21.4,7.44,
+2023-07-12,San Jacinto_M (GPRS),29.56,13.42,67.22,4.18,
+2023-07-12,San Joaquin,22.0,22.0,93.2,93.2,
+2023-07-12,San Jose de Chiquitos,24.0,24.0,82.6,82.6,
+2023-07-12,San Julian - Comunidad Los Angeles (GPRS),32.34,19.61,91.6,54.72,
+2023-07-12,San Julian - Nucleo 32 (GPRS),32.21,27.89,,,
+2023-07-12,San Pedro - Río Victoria (GPRS),31.7,21.45,94.0,62.52,
+2023-07-12,San Pedro - San Antonio (GPRS),30.92,21.26,90.0,63.43,
+2023-07-12,San Pedro de Buena Vista (GPRS),25.42,8.87,65.64,4.94,
+2023-07-12,San Roque - El Alto (GPRS),17.59,-2.74,37.37,15.26,
+2023-07-12,Santa Ana - Yacuma,23.0,23.0,93.2,93.2,
+2023-07-12,Sauce Pilata - SDC (GPRS),25.23,9.89,92.6,7.93,
+2023-07-12,Sunjani (GPRS),15.81,-3.12,59.23,16.1,
+2023-07-12,Tacagua_M (GPRS),14.48,-5.34,25.14,4.66,
+2023-07-12,Tarija,14.0,14.0,71.3,71.3,
+2023-07-12,Templo (GPRS),12.53,-0.61,47.36,16.77,
+2023-07-12,Temporal - SDC (GPRS),25.99,9.81,17.47,6.88,
+2023-07-12,Tiahuanaco_M (GPRS),16.44,-10.54,62.89,14.89,
+2023-07-12,Trinidad,23.0,23.0,93.2,93.2,
+2023-07-12,Vacas - SDC (GPRS),18.22,2.11,34.97,10.41,
+2023-07-12,Viacha_M (GPRS),17.15,-8.53,42.24,11.75,
+2023-07-12,Vila Vila - SDC (GPRS),26.95,9.15,72.92,7.07,
+2023-07-12,Villamontes,19.0,19.0,99.1,99.1,
+2023-07-12,Viru Viru,24.0,24.0,87.8,87.8,
+2023-07-12,Viscachas Chirage (GPRS),16.95,1.21,81.5,14.9,
+2023-07-12,Vivero Chimboco - SDC (GPRS),26.77,4.2,42.25,5.57,
+2023-07-12,Vivero Viloma - SDC (GPRS),28.61,7.67,34.34,7.11,
+2023-07-12,Yacuiba,18.0,18.0,87.3,87.3,
+2023-07-13,Aguadas (GPRS),14.92,-1.88,91.0,35.61,
+2023-07-13,Aiquile (GPRS),28.63,10.03,89.1,45.08,
+2023-07-13,Alto Peñas (GPRS),15.12,1.1,84.8,17.44,
+2023-07-13,Aroma (GPRS),-4.68,-4.68,15.47,15.47,
+2023-07-13,Camiri,14.0,14.0,62.2,62.2,
+2023-07-13,Chua Cocani_M (GPRS),16.46,0.09,93.7,17.78,
+2023-07-13,Cobija,23.0,23.0,93.2,93.2,
+2023-07-13,Cochabamba,8.0,8.0,56.6,56.6,
+2023-07-13,Concepcion,21.0,21.0,93.2,93.2,
+2023-07-13,Cuatro Cañadas - CEA-2 (GPRS),17.77,14.94,91.3,62.37,4.8
+2023-07-13,Cuatro Cañadas - Colonia Chihuahua (GPRS),19.53,15.33,83.4,59.64,2.6
+2023-07-13,Desaguadero_M,14.35,-3.49,91.9,22.52,
+2023-07-13,El Alto,3.0,3.0,23.2,23.2,
+2023-07-13,Huarisuyo (GPRS),16.62,-6.58,97.0,14.07,
+2023-07-13,Isla Suriqui_M (GPRS),15.02,1.99,94.6,24.98,
+2023-07-13,Jesús de Machaca_M (GPRS),16.56,-9.64,82.3,13.22,
+2023-07-13,Magdalena,23.0,23.0,99.1,99.1,
+2023-07-13,Mizque - SDC (GPRS),25.23,11.29,79.88,36.86,
+2023-07-13,Oruro,6.0,6.0,26.0,26.0,
+2023-07-13,Pailon - Pozo del Tigre (GPRS),18.42,15.47,81.9,56.95,0.6
+2023-07-13,Pocona - SDC (GPRS),19.63,4.14,96.7,51.14,
+2023-07-13,Pojo - SDC (GPRS),19.84,8.89,92.9,59.94,
+2023-07-13,Potosí,1.0,1.0,43.4,43.4,
+2023-07-13,Puerto Suarez,18.0,18.0,87.3,87.3,
+2023-07-13,Puerto Suarez Aeropuerto (F),18.0,18.0,87.3,87.3,
+2023-07-13,Puerto Villarroel (GPRS),16.77,14.92,93.6,77.08,23.1
+2023-07-13,Putucuni Calientes (GPRS),10.0,-0.14,88.0,27.61,
+2023-07-13,Quila Quila_M (GPRS),19.63,4.39,92.5,30.76,
+2023-07-13,Reyes,23.0,23.0,99.1,99.1,
+2023-07-13,Riberalta,25.0,25.0,87.9,87.9,
+2023-07-13,Robore,17.0,17.0,87.2,87.2,
+2023-07-13,Rurrenabaque,23.0,23.0,99.1,99.1,
+2023-07-13,San Andres de Machaca_M (GPRS),16.77,-3.48,82.4,13.04,
+2023-07-13,San Jacinto_M (GPRS),15.18,,97.0,45.31,
+2023-07-13,San Javier,13.0,13.0,71.0,71.0,
+2023-07-13,San Javier Aeropuerto (F),13.0,13.0,71.0,71.0,
+2023-07-13,San Joaquin,23.0,23.0,93.2,93.2,
+2023-07-13,San Jose de Chiquitos,19.0,18.0,87.3,76.9,
+2023-07-13,San Julian - Comunidad Los Angeles (GPRS),20.46,15.95,85.9,63.38,0.4
+2023-07-13,San Julian - Nucleo 32 (GPRS),18.99,16.39,,,1.0
+2023-07-13,San Pedro - Río Victoria (GPRS),19.52,16.58,77.18,60.58,
+2023-07-13,San Pedro - San Antonio (GPRS),18.07,16.1,84.4,65.26,0.4
+2023-07-13,San Pedro de Buena Vista (GPRS),22.26,8.65,93.4,24.93,
+2023-07-13,San Roque - El Alto (GPRS),16.75,-0.92,78.7,11.94,
+2023-07-13,Santa Ana - Yacuma,25.0,25.0,82.7,82.7,
+2023-07-13,Sauce Pilata - SDC (GPRS),17.72,6.32,100.0,62.22,
+2023-07-13,Sunjani (GPRS),14.28,0.12,90.2,34.26,
+2023-07-13,Tacagua_M (GPRS),13.96,-4.03,33.9,3.22,
+2023-07-13,Tarija,10.0,10.0,75.6,75.6,
+2023-07-13,Templo (GPRS),12.87,1.04,78.45,23.88,
+2023-07-13,Temporal - SDC (GPRS),23.53,8.3,60.27,12.52,
+2023-07-13,Tiahuanaco_M (GPRS),16.37,-6.23,96.8,15.89,
+2023-07-13,Trinidad,24.0,24.0,82.6,82.6,
+2023-07-13,Vacas - SDC (GPRS),16.07,2.81,91.2,37.43,
+2023-07-13,Viacha_M (GPRS),16.7,-2.48,97.0,10.84,
+2023-07-13,Vila Vila - SDC (GPRS),22.06,10.6,88.2,31.14,
+2023-07-13,Villamontes,14.0,14.0,66.5,66.5,
+2023-07-13,Viru Viru,17.0,17.0,87.2,87.2,
+2023-07-13,Viscachas Chirage (GPRS),11.88,3.01,92.1,54.49,
+2023-07-13,Vivero Chimboco - SDC (GPRS),22.62,6.1,74.48,13.84,
+2023-07-13,Vivero Viloma - SDC (GPRS),23.94,8.18,77.75,0.66,
+2023-07-13,Yacuiba,11.0,11.0,86.7,86.7,
+2023-07-14,Aguadas (GPRS),15.8,,66.52,15.37,
+2023-07-14,Aiquile (GPRS),27.45,,95.4,41.03,
+2023-07-14,Alto Peñas (GPRS),15.34,,43.87,18.7,
+2023-07-14,Apolo,16.0,,93.0,93.0,
+2023-07-14,Aroma (GPRS),-7.33,-7.33,14.87,14.87,
+2023-07-14,Camiri,19.0,,80.8,80.8,
+2023-07-14,Chua Cocani_M (GPRS),16.0,,68.77,17.45,
+2023-07-14,Cobija,20.0,20.0,82.1,82.1,
+2023-07-14,Cochabamba,12.0,12.0,66.2,66.2,
+2023-07-14,Concepcion,14.0,14.0,71.2,71.2,
+2023-07-14,Cuatro Cañadas - CEA-2 (GPRS),19.28,,93.2,52.8,
+2023-07-14,Cuatro Cañadas - Colonia Chihuahua (GPRS),19.65,,96.1,53.86,
+2023-07-14,Desaguadero_M,13.37,,62.59,21.21,
+2023-07-14,El Alto,4.0,4.0,69.4,69.4,
+2023-07-14,Huarisuyo (GPRS),15.27,,59.81,18.71,
+2023-07-14,Isla Suriqui_M (GPRS),13.77,,62.1,24.83,
+2023-07-14,Jesús de Machaca_M (GPRS),17.67,,66.56,9.41,
+2023-07-14,Magdalena,18.0,18.0,93.0,93.0,
+2023-07-14,Mizque - SDC (GPRS),22.9,,95.2,33.67,
+2023-07-14,Oruro,1.0,1.0,74.1,74.1,
+2023-07-14,Pailon - Pozo del Tigre (GPRS),19.2,,86.2,50.66,
+2023-07-14,Palos Blancos_M (GPRS),,,,,1.6
+2023-07-14,Pocona - SDC (GPRS),24.27,,96.1,28.78,
+2023-07-14,Pojo - SDC (GPRS),21.47,,78.13,47.42,
+2023-07-14,Potosí,2.0,2.0,34.4,34.4,
+2023-07-14,Puerto Suarez,12.0,12.0,92.7,92.7,
+2023-07-14,Puerto Suarez Aeropuerto (F),12.0,12.0,92.7,92.7,
+2023-07-14,Puerto Villarroel (GPRS),18.92,,93.4,68.68,
+2023-07-14,Putucuni Calientes (GPRS),9.63,,59.24,12.82,
+2023-07-14,Quila Quila_M (GPRS),21.86,,49.67,5.97,
+2023-07-14,Reyes,16.0,16.0,81.6,81.6,
+2023-07-14,Riberalta,20.0,20.0,77.1,77.1,
+2023-07-14,Robore,12.0,12.0,86.8,86.8,
+2023-07-14,Rurrenabaque,17.0,17.0,67.2,67.2,
+2023-07-14,San Andres de Machaca_M (GPRS),17.56,,28.41,6.66,
+2023-07-14,San Jacinto_M (GPRS),22.12,,95.1,28.69,
+2023-07-14,San Javier,13.0,,92.8,92.8,
+2023-07-14,San Javier Aeropuerto (F),13.0,,92.8,92.8,
+2023-07-14,San Joaquin,19.0,19.0,63.3,63.3,
+2023-07-14,San Jose de Chiquitos,14.0,14.0,81.4,81.4,
+2023-07-14,San Julian - Comunidad Los Angeles (GPRS),18.23,,96.3,60.45,
+2023-07-14,San Julian - Nucleo 32 (GPRS),16.95,,,,
+2023-07-14,San Pedro - Río Victoria (GPRS),19.04,,91.7,62.71,
+2023-07-14,San Pedro - San Antonio (GPRS),18.55,,89.9,61.25,
+2023-07-14,San Pedro de Buena Vista (GPRS),23.35,,55.24,7.11,
+2023-07-14,San Roque - El Alto (GPRS),16.25,,43.11,19.78,
+2023-07-14,Santa Ana - Yacuma,18.0,18.0,63.0,63.0,
+2023-07-14,Sauce Pilata - SDC (GPRS),17.24,,99.8,21.35,0.1
+2023-07-14,Sunjani (GPRS),14.76,,57.28,23.16,
+2023-07-14,Tacagua_M (GPRS),13.11,,44.92,6.24,
+2023-07-14,Tarija,0.0,0.0,85.7,85.7,
+2023-07-14,Templo (GPRS),11.68,,45.85,7.24,
+2023-07-14,Temporal - SDC (GPRS),25.13,,43.6,0.36,
+2023-07-14,Tiahuanaco_M (GPRS),15.92,,69.41,20.65,
+2023-07-14,Trinidad,18.0,18.0,63.0,63.0,
+2023-07-14,Vacas - SDC (GPRS),17.05,,67.93,14.66,
+2023-07-14,Viacha_M (GPRS),16.83,,40.05,15.05,
+2023-07-14,Vila Vila - SDC (GPRS),21.22,,69.86,16.65,
+2023-07-14,Villamontes,7.0,7.0,80.5,80.5,
+2023-07-14,Viru Viru,14.0,14.0,66.5,66.5,
+2023-07-14,Viscachas Chirage (GPRS),15.14,,69.83,20.04,
+2023-07-14,Vivero Chimboco - SDC (GPRS),25.16,,62.23,12.08,
+2023-07-14,Vivero Viloma - SDC (GPRS),25.05,,40.38,6.09,
+2023-07-14,Yacuiba,7.0,7.0,80.5,80.5,
+2023-07-15,Aroma (GPRS),-4.54,,15.08,15.08,
+2023-07-15,Camiri,,,86.2,86.2,
+2023-07-15,Cobija,16.0,,92.9,92.9,
+2023-07-15,Cochabamba,8.0,,70.2,70.2,
+2023-07-15,Concepcion,14.0,,92.9,92.9,
+2023-07-15,El Alto,4.0,,23.4,23.4,
+2023-07-15,Puerto Suarez,16.0,,92.9,92.9,
+2023-07-15,Puerto Suarez Aeropuerto (F),16.0,,92.9,92.9,
+2023-07-15,Riberalta,16.0,,87.1,87.1,
+2023-07-15,Rurrenabaque,17.0,,87.2,87.2,
+2023-07-15,San Javier,14.0,,87.0,87.0,
+2023-07-15,San Javier Aeropuerto (F),14.0,,87.0,87.0,
+2023-07-15,Santa Ana - Yacuma,16.0,,81.6,81.6,
+2023-07-15,Tarija,4.0,,86.1,86.1,
+2023-07-15,Trinidad,17.0,,76.6,76.6,
+2023-07-15,Viru Viru,16.0,,76.5,76.5,
