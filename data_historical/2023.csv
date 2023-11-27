@@ -52356,6 +52356,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-01,Aroma (GPRS),7.29,7.29,55.05,55.05,
 2023-09-01,Ascensión de Guarayos Aerop,,23.0,,,
 2023-09-01,Ayo Ayo,20.0,,,,1.0
+2023-09-01,Ayoma,24.2,2.1,,,0.2
 2023-09-01,Azurduy,24.0,10.0,,,
 2023-09-01,Caiza D,24.0,0.0,,,
 2023-09-01,Calacoto,20.0,-3.0,,,
@@ -52465,12 +52466,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-01,San Pablo de Lipez,13.9,-5.0,,,
 2023-09-01,San Pedro - Río Victoria (GPRS),34.16,24.8,82.9,59.65,
 2023-09-01,San Pedro - San Antonio (GPRS),33.24,24.65,84.3,62.05,
+2023-09-01,San Pedro de Buena Vista,25.0,10.0,,,
 2023-09-01,San Pedro de Buena Vista (GPRS),26.68,14.81,38.12,18.75,0.2
 2023-09-01,San Pedro de Tiquina_M (GPRS),,,,,0.3
 2023-09-01,San Ramón Aeropuerto,37.6,,,,
 2023-09-01,San Roque - El Alto (GPRS),17.19,2.11,89.5,22.42,0.3
 2023-09-01,Santa Ana del Yacuma Aerop,37.5,,,,
 2023-09-01,Santa Rosa Aeropuerto (BENI),37.3,,,,
+2023-09-01,Santiago de Huata,17.0,2.0,,,1.0
 2023-09-01,Santivañez,34.4,8.9,,,
 2023-09-01,Sara Ana,36.0,23.0,,,
 2023-09-01,Sarco,30.5,13.9,,,
@@ -52526,6 +52529,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-02,Arani,26.0,13.0,,,
 2023-09-02,Aroma (GPRS),-0.23,-0.23,31.23,31.23,
 2023-09-02,Ayo Ayo,22.0,,,,
+2023-09-02,Ayoma,25.1,-1.1,,,
 2023-09-02,Azurduy,25.0,11.0,,,
 2023-09-02,Caiza D,23.1,1.0,,,
 2023-09-02,Calacoto,19.8,-6.0,,,
@@ -52628,9 +52632,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-02,San Pablo de Lipez,12.8,-4.1,,,
 2023-09-02,San Pedro - Río Victoria (GPRS),34.16,22.64,88.1,52.02,
 2023-09-02,San Pedro - San Antonio (GPRS),33.61,23.21,88.2,53.87,
+2023-09-02,San Pedro de Buena Vista,25.4,9.8,,,
 2023-09-02,San Pedro de Buena Vista (GPRS),28.98,13.67,46.25,11.58,0.4
 2023-09-02,San Roque - El Alto (GPRS),17.29,5.07,70.16,23.3,
 2023-09-02,Santa Ana del Yacuma Aerop,37.3,21.8,,,
+2023-09-02,Santiago de Huata,18.0,0.0,,,
 2023-09-02,Santivañez,32.2,7.8,,,
 2023-09-02,Sara Ana,35.0,23.0,,,
 2023-09-02,Sarco,30.5,13.0,,,
@@ -52687,6 +52693,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-03,Arani,23.0,11.0,,,
 2023-09-03,Aroma (GPRS),1.56,1.56,29.43,29.43,
 2023-09-03,Ayo Ayo,18.5,,,,
+2023-09-03,Ayoma,23.4,-1.0,,,
 2023-09-03,Azurduy,24.0,10.0,,,
 2023-09-03,Buena Vista Sc,,,,,8.6
 2023-09-03,Caiza D,23.2,2.2,,,
@@ -52803,11 +52810,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-03,San Pablo de Lipez,14.6,-6.0,,,
 2023-09-03,San Pedro - Río Victoria (GPRS),32.77,22.26,92.6,63.75,
 2023-09-03,San Pedro - San Antonio (GPRS),31.4,22.97,92.2,69.0,
+2023-09-03,San Pedro de Buena Vista,26.0,9.1,,,
 2023-09-03,San Pedro de Buena Vista (GPRS),23.53,11.23,38.86,7.75,
 2023-09-03,San Ramón Aeropuerto,36.4,,,,
 2023-09-03,San Roque - El Alto (GPRS),16.91,-1.25,56.25,22.58,
 2023-09-03,Santa Ana del Yacuma Aerop,36.8,21.8,,,
 2023-09-03,Santa Rosa Aeropuerto (BENI),37.0,,,,
+2023-09-03,Santiago de Huata,19.0,-1.0,,,
 2023-09-03,Santivañez,34.4,3.3,,,
 2023-09-03,Sara Ana,35.0,23.0,,,
 2023-09-03,Sarco,26.7,11.1,,,3.0
@@ -52867,6 +52876,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-04,Aroma (GPRS),-0.81,-0.81,28.78,28.78,
 2023-09-04,Ascensión de Guarayos Aerop,36.0,,,,
 2023-09-04,Ayo Ayo,22.0,,,,
+2023-09-04,Ayoma,25.2,-4.2,,,
 2023-09-04,Azurduy,22.0,9.0,,,
 2023-09-04,Buena Vista Sc,,,,,12.3
 2023-09-04,Caiza D,22.2,3.4,,,
@@ -52979,11 +52989,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-04,San Pablo de Lipez,15.8,-5.2,,,
 2023-09-04,San Pedro - Río Victoria (GPRS),34.02,20.97,86.9,58.09,
 2023-09-04,San Pedro - San Antonio (GPRS),,,,,1.6
+2023-09-04,San Pedro de Buena Vista,27.6,8.0,,,
 2023-09-04,San Pedro de Buena Vista (GPRS),29.2,11.95,62.74,3.44,
 2023-09-04,San Ramón Aeropuerto,38.4,22.8,,,
 2023-09-04,San Roque - El Alto (GPRS),19.5,0.37,88.3,6.01,
 2023-09-04,Santa Ana del Yacuma Aerop,37.8,23.0,,,
 2023-09-04,Santa Rosa Aeropuerto (BENI),34.0,23.5,,,
+2023-09-04,Santiago de Huata,18.0,-2.0,,,
 2023-09-04,Santivañez,31.1,5.5,,,
 2023-09-04,Sara Ana,31.0,23.0,,,
 2023-09-04,Sarco,33.3,10.5,,,
@@ -53043,6 +53055,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-05,Aroma (GPRS),-1.88,-1.88,16.47,16.47,
 2023-09-05,Ascensión de Guarayos Aerop,34.0,,,,
 2023-09-05,Ayo Ayo,19.5,,,,
+2023-09-05,Ayoma,25.1,-2.1,,,
 2023-09-05,Azurduy,25.0,11.0,,,
 2023-09-05,Caiza D,21.0,4.5,,,
 2023-09-05,Calacoto,21.5,-6.0,,,
@@ -53104,6 +53117,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-05,Mojo,23.0,-3.3,,,
 2023-09-05,Molle Molle,23.3,12.2,,,
 2023-09-05,Montero_Muyurina,,,,,2.1
+2023-09-05,Narvaez,,,,,0.5
 2023-09-05,Oronkota PTI,33.8,14.0,,,
 2023-09-05,Oruro Aeropuerto,18.4,,,,
 2023-09-05,Pailon - Pozo del Tigre (GPRS),29.44,19.73,70.51,43.4,
@@ -53148,11 +53162,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-05,San Pablo de Lipez,16.0,-6.1,,,
 2023-09-05,San Pedro - Río Victoria (GPRS),26.55,18.94,79.03,62.18,
 2023-09-05,San Pedro - San Antonio (GPRS),25.91,18.15,82.1,64.71,7.2
+2023-09-05,San Pedro de Buena Vista,27.4,7.8,,,
 2023-09-05,San Pedro de Buena Vista (GPRS),28.89,14.29,49.54,8.38,
 2023-09-05,San Ramón Aeropuerto,35.4,21.8,,,
 2023-09-05,San Roque - El Alto (GPRS),18.32,1.64,87.9,23.23,
 2023-09-05,Santa Ana del Yacuma Aerop,34.8,22.3,,,
 2023-09-05,Santa Rosa Aeropuerto (BENI),35.0,20.6,,,
+2023-09-05,Santiago de Huata,19.0,0.0,,,
 2023-09-05,Santivañez,33.3,7.8,,,
 2023-09-05,Sara Ana,35.0,22.5,,,
 2023-09-05,Sarco,30.5,11.7,,,
@@ -53212,6 +53228,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-06,Aroma (GPRS),3.78,3.78,59.55,59.55,
 2023-09-06,Ascensión de Guarayos Aerop,37.2,,,,
 2023-09-06,Ayo Ayo,19.0,,,,
+2023-09-06,Ayoma,24.2,-2.1,,,
 2023-09-06,Azurduy,27.0,12.0,,,
 2023-09-06,Caiza D,22.2,3.8,,,
 2023-09-06,Calacoto,20.0,-1.0,,,
@@ -53277,6 +53294,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-06,Mizque - SDC (GPRS),27.32,9.59,78.64,27.32,
 2023-09-06,Mojo,22.0,-2.3,,,
 2023-09-06,Molle Molle,21.1,12.8,,,
+2023-09-06,Narvaez,,,,,2.7
 2023-09-06,Oronkota PTI,33.5,14.8,,,
 2023-09-06,Oruro Aeropuerto,20.8,,,,
 2023-09-06,Pailon - Pozo del Tigre (GPRS),34.85,23.9,82.6,42.46,
@@ -53324,11 +53342,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-06,San Pablo de Lipez,13.9,-4.0,,,
 2023-09-06,San Pedro - Río Victoria (GPRS),30.53,20.12,94.1,61.68,
 2023-09-06,San Pedro - San Antonio (GPRS),29.78,20.3,94.3,62.64,
+2023-09-06,San Pedro de Buena Vista,28.0,6.0,,,
 2023-09-06,San Pedro de Buena Vista (GPRS),26.74,14.47,43.88,18.29,
 2023-09-06,San Ramón Aeropuerto,38.6,21.4,,,
 2023-09-06,San Roque - El Alto (GPRS),15.34,1.88,89.4,35.45,
 2023-09-06,Santa Ana del Yacuma Aerop,36.6,21.0,,,
 2023-09-06,Santa Rosa Aeropuerto (BENI),35.0,22.5,,,
+2023-09-06,Santiago de Huata,17.0,3.0,,,
 2023-09-06,Santivañez,33.3,5.5,,,
 2023-09-06,Sara Ana,34.0,23.0,,,
 2023-09-06,Sarco,25.5,13.3,,,
@@ -53391,6 +53411,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-07,Aroma (GPRS),4.34,4.34,11.17,11.17,
 2023-09-07,Ascensión de Guarayos Aerop,37.5,,,,
 2023-09-07,Ayo Ayo,21.5,,,,2.5
+2023-09-07,Ayoma,23.1,4.2,,,
 2023-09-07,Azurduy,24.0,10.0,,,
 2023-09-07,Caiza D,23.4,4.0,,,
 2023-09-07,Calacoto,20.0,-7.5,,,
@@ -53502,12 +53523,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-07,San Pablo de Lipez,14.2,-5.0,,,
 2023-09-07,San Pedro - Río Victoria (GPRS),34.64,20.77,92.9,43.56,
 2023-09-07,San Pedro - San Antonio (GPRS),32.88,21.02,93.4,54.72,
+2023-09-07,San Pedro de Buena Vista,29.0,6.9,,,
 2023-09-07,San Pedro de Buena Vista (GPRS),24.72,11.25,42.33,20.66,
 2023-09-07,San Pedro de Tiquina_M (GPRS),,,,,11.2
 2023-09-07,San Ramón Aeropuerto,37.8,21.2,,,
 2023-09-07,San Roque - El Alto (GPRS),15.3,-0.9,80.3,16.17,0.8
 2023-09-07,Santa Ana del Yacuma Aerop,38.5,20.4,,,
 2023-09-07,Santa Rosa Aeropuerto (BENI),36.5,21.0,,,
+2023-09-07,Santiago de Huata,16.0,2.0,,,4.0
 2023-09-07,Santivañez,31.1,3.3,,,
 2023-09-07,Sara Ana,35.0,22.0,,,
 2023-09-07,Sarco,27.8,13.9,,,
@@ -53568,6 +53591,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-08,Aroma (GPRS),2.21,2.21,16.06,16.06,
 2023-09-08,Ascensión de Guarayos Aerop,36.0,,,,
 2023-09-08,Ayo Ayo,20.0,,,,
+2023-09-08,Ayoma,22.3,-2.1,,,
 2023-09-08,Azurduy,26.0,11.0,,,
 2023-09-08,Caiza D,20.0,4.3,,,
 2023-09-08,Calacoto,20.0,-13.0,,,
@@ -53670,11 +53694,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-08,San Pablo de Lipez,16.2,-4.1,,,
 2023-09-08,San Pedro - Río Victoria (GPRS),34.3,32.92,62.39,52.14,
 2023-09-08,San Pedro - San Antonio (GPRS),32.75,31.71,70.6,57.7,
+2023-09-08,San Pedro de Buena Vista,27.0,7.0,,,
 2023-09-08,San Pedro de Buena Vista (GPRS),28.18,24.23,7.43,1.95,0.7
 2023-09-08,San Ramón Aeropuerto,38.4,23.2,,,
 2023-09-08,San Roque - El Alto (GPRS),16.89,13.55,18.75,9.19,
 2023-09-08,Santa Ana del Yacuma Aerop,38.1,23.2,,,
 2023-09-08,Santa Rosa Aeropuerto (BENI),37.5,22.5,,,
+2023-09-08,Santiago de Huata,17.0,-1.0,,,
 2023-09-08,Santivañez,33.3,4.4,,,
 2023-09-08,Sara Ana,29.0,20.0,,,
 2023-09-08,Sarco,30.5,11.1,,,
@@ -53731,6 +53757,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-09,Arani,32.0,13.0,,,
 2023-09-09,Aroma (GPRS),17.31,-8.59,18.93,2.19,
 2023-09-09,Ayo Ayo,22.0,,,,
+2023-09-09,Ayoma,26.2,6.2,,,
 2023-09-09,Azurduy,24.5,10.0,,,
 2023-09-09,Buena Vista S.(GPRS),,,,,5.2
 2023-09-09,Buena Vista Sc,,,,,6.5
@@ -53825,9 +53852,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-09,San Pablo de Lipez,17.0,-3.0,,,
 2023-09-09,San Pedro - Río Victoria (GPRS),30.79,20.53,92.4,62.96,
 2023-09-09,San Pedro - San Antonio (GPRS),29.86,20.16,92.5,62.29,
+2023-09-09,San Pedro de Buena Vista,26.0,8.0,,,
 2023-09-09,San Pedro de Buena Vista (GPRS),28.37,12.22,52.44,2.0,
 2023-09-09,San Roque - El Alto (GPRS),18.82,-1.2,63.63,6.89,
 2023-09-09,Santa Ana del Yacuma Aerop,38.0,,,,
+2023-09-09,Santiago de Huata,18.0,-4.0,,,
 2023-09-09,Santivañez,32.2,12.2,,,
 2023-09-09,Sara Ana,36.0,21.0,,,
 2023-09-09,Sarco,32.2,10.0,,,
@@ -53880,6 +53909,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-10,Arani,22.0,14.0,,,
 2023-09-10,Aroma (GPRS),0.57,0.57,7.92,7.92,
 2023-09-10,Ayo Ayo,20.0,,,,
+2023-09-10,Ayoma,27.4,5.1,,,
 2023-09-10,Azurduy,22.0,9.0,,,
 2023-09-10,Caiza D,30.0,5.0,,,
 2023-09-10,Calacoto,22.5,-12.0,,,
@@ -53980,11 +54010,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-10,San Pablo de Lipez,16.2,-2.2,,,
 2023-09-10,San Pedro - Río Victoria (GPRS),34.37,23.68,92.2,59.76,
 2023-09-10,San Pedro - San Antonio (GPRS),32.9,23.87,92.0,62.2,
+2023-09-10,San Pedro de Buena Vista,24.0,9.0,,,
 2023-09-10,San Pedro de Buena Vista (GPRS),28.03,13.65,36.44,8.31,
 2023-09-10,San Ramón Aeropuerto,37.8,,,,
 2023-09-10,San Roque - El Alto (GPRS),18.7,-0.89,73.46,8.98,
 2023-09-10,Santa Ana del Yacuma Aerop,,,,,0.1
 2023-09-10,Santa Rosa Aeropuerto (BENI),37.4,,,,
+2023-09-10,Santiago de Huata,19.0,-1.0,,,
 2023-09-10,Santivañez,34.4,11.1,,,
 2023-09-10,Sara Ana,37.0,20.0,,,
 2023-09-10,Sarco,32.2,11.7,,,
@@ -54040,6 +54072,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-11,Aroma (GPRS),5.59,5.59,27.06,27.06,
 2023-09-11,Ascensión de Guarayos Aerop,38.0,,,,24.0
 2023-09-11,Ayo Ayo,22.0,,,,
+2023-09-11,Ayoma,28.1,2.1,,,
 2023-09-11,Azurduy,24.0,10.0,,,
 2023-09-11,Caiza D,20.1,4.1,,,
 2023-09-11,Calacoto,23.0,-7.0,,,
@@ -54142,11 +54175,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-11,San Pablo de Lipez,17.4,-4.0,,,
 2023-09-11,San Pedro - Río Victoria (GPRS),35.61,25.0,84.2,52.15,
 2023-09-11,San Pedro - San Antonio (GPRS),34.64,24.52,84.1,56.85,
+2023-09-11,San Pedro de Buena Vista,25.4,7.4,,,
 2023-09-11,San Pedro de Buena Vista (GPRS),31.02,14.97,47.31,5.95,
 2023-09-11,San Ramón Aeropuerto,38.8,22.8,,,
 2023-09-11,San Roque - El Alto (GPRS),20.61,-0.28,71.82,15.96,
 2023-09-11,Santa Ana del Yacuma Aerop,38.6,23.8,,,
 2023-09-11,Santa Rosa Aeropuerto (BENI),37.5,23.5,,,
+2023-09-11,Santiago de Huata,18.0,0.0,,,
 2023-09-11,Santivañez,36.7,12.2,,,
 2023-09-11,Sara Ana,37.0,22.5,,,
 2023-09-11,Sarco,35.0,11.1,,,
@@ -54204,6 +54239,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-12,Aroma (GPRS),5.52,5.52,8.57,8.57,
 2023-09-12,Ascensión de Guarayos Aerop,37.5,,,,
 2023-09-12,Ayo Ayo,22.0,,,,
+2023-09-12,Ayoma,26.3,0.0,,,
 2023-09-12,Azurduy,26.0,11.0,,,1.2
 2023-09-12,Caiza D,23.0,4.4,,,
 2023-09-12,Calacoto,23.0,-7.0,,,
@@ -54313,11 +54349,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-12,San Pablo de Lipez,16.2,-3.1,,,
 2023-09-12,San Pedro - Río Victoria (GPRS),35.03,20.09,92.1,56.86,
 2023-09-12,San Pedro - San Antonio (GPRS),34.32,16.65,92.7,58.58,
+2023-09-12,San Pedro de Buena Vista,26.6,7.8,,,
 2023-09-12,San Pedro de Buena Vista (GPRS),28.5,12.35,49.05,8.19,
 2023-09-12,San Ramón Aeropuerto,37.4,22.6,,,
 2023-09-12,San Roque - El Alto (GPRS),18.75,2.41,78.52,16.13,
 2023-09-12,Santa Ana del Yacuma Aerop,38.2,23.0,,,
 2023-09-12,Santa Rosa Aeropuerto (BENI),37.2,23.8,,,
+2023-09-12,Santiago de Huata,19.0,1.0,,,
 2023-09-12,Santivañez,33.3,10.0,,,
 2023-09-12,Sara Ana,36.0,24.0,,,
 2023-09-12,Sarco,32.2,11.0,,,
@@ -54378,6 +54416,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-13,Aroma (GPRS),4.57,4.57,12.33,12.33,
 2023-09-13,Ascensión de Guarayos Aerop,20.0,,,,
 2023-09-13,Ayo Ayo,20.0,,,,
+2023-09-13,Ayoma,22.2,-1.1,,,
 2023-09-13,Azurduy,27.0,12.0,,,
 2023-09-13,Caiza D,20.1,5.0,,,
 2023-09-13,Calacoto,20.0,-6.0,,,
@@ -54501,11 +54540,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-13,San Pablo de Lipez,17.2,-6.2,,,
 2023-09-13,San Pedro - Río Victoria (GPRS),18.73,15.22,91.9,55.03,2.2
 2023-09-13,San Pedro - San Antonio (GPRS),19.37,15.31,88.1,55.25,3.6
+2023-09-13,San Pedro de Buena Vista,26.8,10.0,,,
 2023-09-13,San Pedro de Buena Vista (GPRS),28.24,9.74,54.22,0.78,
 2023-09-13,San Ramón Aeropuerto,35.7,25.4,,,
 2023-09-13,San Roque - El Alto (GPRS),18.83,-2.55,76.82,6.35,
 2023-09-13,Santa Ana del Yacuma Aerop,35.5,24.2,,,
 2023-09-13,Santa Rosa Aeropuerto (BENI),32.5,23.3,,,
+2023-09-13,Santiago de Huata,17.0,0.0,,,6.2
 2023-09-13,Santivañez,35.5,13.3,,,
 2023-09-13,Sara Ana,34.0,23.0,,,43.0
 2023-09-13,Sarco,33.1,14.0,,,
@@ -54567,6 +54608,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-14,Aroma (GPRS),1.44,1.44,14.26,14.26,
 2023-09-14,Ascensión de Guarayos Aerop,29.7,,,,15.3
 2023-09-14,Ayo Ayo,21.5,,,,
+2023-09-14,Ayoma,26.1,5.2,,,
 2023-09-14,Azurduy,28.0,12.5,,,
 2023-09-14,Caiza D,23.0,5.1,,,
 2023-09-14,Calacoto,21.5,-13.0,,,
@@ -54676,11 +54718,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-14,San Pablo de Lipez,18.4,-5.1,,,
 2023-09-14,San Pedro - Río Victoria (GPRS),25.4,17.72,89.2,46.9,1.6
 2023-09-14,San Pedro - San Antonio (GPRS),25.48,17.79,91.8,45.21,0.8
+2023-09-14,San Pedro de Buena Vista,27.0,11.0,,,
 2023-09-14,San Pedro de Buena Vista (GPRS),28.26,9.09,53.71,4.15,
 2023-09-14,San Ramón Aeropuerto,,,,,22.5
 2023-09-14,San Roque - El Alto (GPRS),19.13,-1.37,37.47,4.49,
 2023-09-14,Santa Ana del Yacuma Aerop,,,,,31.4
 2023-09-14,Santa Rosa Aeropuerto (BENI),29.9,19.2,,,
+2023-09-14,Santiago de Huata,18.0,-1.0,,,
 2023-09-14,Santivañez,35.5,8.9,,,
 2023-09-14,Sara Ana,28.0,22.0,,,
 2023-09-14,Sarco,32.2,12.2,,,
@@ -54739,6 +54783,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-15,Aroma (GPRS),5.46,5.46,9.04,9.04,
 2023-09-15,Ascensión de Guarayos Aerop,33.2,,,,
 2023-09-15,Ayo Ayo,22.5,,,,
+2023-09-15,Ayoma,27.2,2.1,,,
 2023-09-15,Azurduy,27.0,11.0,,,
 2023-09-15,Caiza D,23.8,4.8,,,
 2023-09-15,Calacoto,23.0,-10.0,,,
@@ -54842,11 +54887,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-15,San Pablo de Lipez,16.2,-7.0,,,
 2023-09-15,San Pedro - Río Victoria (GPRS),30.08,18.36,94.2,54.55,
 2023-09-15,San Pedro - San Antonio (GPRS),29.75,19.61,88.3,54.53,
+2023-09-15,San Pedro de Buena Vista,27.8,9.9,,,
 2023-09-15,San Pedro de Buena Vista (GPRS),27.24,11.94,47.29,12.72,
 2023-09-15,San Ramón Aeropuerto,34.6,17.8,,,
 2023-09-15,San Roque - El Alto (GPRS),20.28,-0.08,63.79,10.2,
 2023-09-15,Santa Ana del Yacuma Aerop,34.5,14.9,,,
 2023-09-15,Santa Rosa Aeropuerto (BENI),33.5,15.2,,,
+2023-09-15,Santiago de Huata,19.0,1.0,,,
 2023-09-15,Santivañez,34.4,11.1,,,
 2023-09-15,Sara Ana,33.0,19.0,,,
 2023-09-15,Sarco,32.5,10.5,,,
@@ -54902,6 +54949,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-16,Arani,31.0,18.0,,,
 2023-09-16,Aroma (GPRS),5.08,5.08,8.41,8.41,
 2023-09-16,Ayo Ayo,22.0,,,,
+2023-09-16,Ayoma,28.4,0.0,,,
 2023-09-16,Azurduy,24.0,10.0,,,
 2023-09-16,Caiza D,25.0,4.1,,,
 2023-09-16,Calacoto,23.0,-11.0,,,
@@ -54993,9 +55041,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-16,San Pablo de Lipez,17.2,-8.1,,,
 2023-09-16,San Pedro - Río Victoria (GPRS),33.22,22.73,83.2,54.99,
 2023-09-16,San Pedro - San Antonio (GPRS),32.25,23.07,84.5,55.63,
+2023-09-16,San Pedro de Buena Vista,28.0,8.9,,,
 2023-09-16,San Pedro de Buena Vista (GPRS),29.02,15.32,42.13,6.27,
 2023-09-16,San Roque - El Alto (GPRS),20.16,2.63,71.44,11.08,
 2023-09-16,Santa Ana del Yacuma Aerop,37.3,18.2,,,
+2023-09-16,Santiago de Huata,18.0,-1.0,,,
 2023-09-16,Santivañez,31.1,10.0,,,
 2023-09-16,Sara Ana,35.5,18.5,,,
 2023-09-16,Sarco,35.5,13.7,,,
@@ -55049,6 +55099,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-17,Arani,26.0,21.0,,,
 2023-09-17,Aroma (GPRS),7.01,7.01,17.95,17.95,
 2023-09-17,Ayo Ayo,23.0,,,,
+2023-09-17,Ayoma,28.3,1.1,,,
 2023-09-17,Azurduy,25.0,11.0,,,
 2023-09-17,Caiza D,23.2,5.0,,,
 2023-09-17,Calacoto,23.0,-5.5,,,
@@ -55150,11 +55201,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-17,San Pablo de Lipez,16.2,-7.0,,,
 2023-09-17,San Pedro - Río Victoria (GPRS),34.71,23.68,86.0,50.58,
 2023-09-17,San Pedro - San Antonio (GPRS),34.26,24.17,84.7,53.23,
+2023-09-17,San Pedro de Buena Vista,29.0,9.6,,,
 2023-09-17,San Pedro de Buena Vista (GPRS),32.05,13.86,41.24,7.42,
 2023-09-17,San Ramón Aeropuerto,37.6,,,,
 2023-09-17,San Roque - El Alto (GPRS),20.86,0.19,68.59,11.27,
 2023-09-17,Santa Ana del Yacuma Aerop,38.5,20.2,,,
 2023-09-17,Santa Rosa Aeropuerto (BENI),37.0,,,,
+2023-09-17,Santiago de Huata,19.0,2.0,,,
 2023-09-17,Santivañez,33.3,12.2,,,
 2023-09-17,Sara Ana,36.5,18.5,,,20.0
 2023-09-17,Sarco,34.4,11.1,,,
@@ -55211,6 +55264,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-18,Aroma (GPRS),5.8,5.8,14.0,14.0,
 2023-09-18,Ascensión de Guarayos Aerop,38.5,,,,
 2023-09-18,Ayo Ayo,21.0,,,,2.5
+2023-09-18,Ayoma,28.1,0.0,,,
 2023-09-18,Azurduy,26.0,12.0,,,
 2023-09-18,Caiza D,29.0,5.2,,,
 2023-09-18,Calacoto,22.0,-7.0,,,
@@ -55318,11 +55372,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-18,San Pablo de Lipez,15.0,-6.2,,,
 2023-09-18,San Pedro - Río Victoria (GPRS),33.68,22.2,93.8,59.3,
 2023-09-18,San Pedro - San Antonio (GPRS),33.62,21.98,94.8,60.66,
+2023-09-18,San Pedro de Buena Vista,28.0,10.0,,,
 2023-09-18,San Pedro de Buena Vista (GPRS),28.89,12.5,76.23,13.42,
 2023-09-18,San Ramón Aeropuerto,37.6,19.4,,,
 2023-09-18,San Roque - El Alto (GPRS),19.87,3.58,92.4,14.18,
 2023-09-18,Santa Ana del Yacuma Aerop,37.4,23.4,,,
 2023-09-18,Santa Rosa Aeropuerto (BENI),37.5,23.5,,,
+2023-09-18,Santiago de Huata,18.0,-1.0,,,
 2023-09-18,Santivañez,32.2,11.1,,,
 2023-09-18,Sara Ana,37.0,21.0,,,
 2023-09-18,Sarco,33.3,13.3,,,
@@ -55382,6 +55438,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-19,Aroma (GPRS),8.02,8.02,14.11,14.11,
 2023-09-19,Ascensión de Guarayos Aerop,25.7,,,,
 2023-09-19,Ayo Ayo,18.6,,,,
+2023-09-19,Ayoma,25.2,5.2,,,1.1
 2023-09-19,Azurduy,26.0,11.0,,,
 2023-09-19,Buena Vista S.(GPRS),,,,,1.6
 2023-09-19,Cabaña Forestal Oruro,,,,,1.7
@@ -55505,12 +55562,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-19,San Pablo de Lipez,16.2,-4.0,,,
 2023-09-19,San Pedro - Río Victoria (GPRS),28.48,21.05,96.2,76.99,19.6
 2023-09-19,San Pedro - San Antonio (GPRS),23.89,20.44,97.5,91.8,21.6
+2023-09-19,San Pedro de Buena Vista,27.0,9.8,,,
 2023-09-19,San Pedro de Buena Vista (GPRS),25.95,12.54,69.37,26.63,
 2023-09-19,San Pedro de Tiquina_M (GPRS),,,,,3.0
 2023-09-19,San Ramón Aeropuerto,37.8,23.4,,,
 2023-09-19,San Roque - El Alto (GPRS),16.63,2.01,93.4,32.59,0.4
 2023-09-19,Santa Ana del Yacuma Aerop,37.5,22.6,,,
 2023-09-19,Santa Rosa Aeropuerto (BENI),34.0,22.7,,,
+2023-09-19,Santiago de Huata,17.0,4.0,,,4.5
 2023-09-19,Santivañez,34.4,10.0,,,
 2023-09-19,Sara Ana,33.0,21.0,,,28.2
 2023-09-19,Sarco,30.5,13.3,,,
@@ -55571,6 +55630,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-20,Aroma (GPRS),6.43,6.43,17.45,17.45,
 2023-09-20,Ascensión de Guarayos Aerop,34.7,,,,42.2
 2023-09-20,Ayo Ayo,17.8,,,,
+2023-09-20,Ayoma,26.1,3.1,,,
 2023-09-20,Azurduy,24.0,10.0,,,
 2023-09-20,Caiza D,29.0,4.8,,,
 2023-09-20,Calacoto,23.0,-2.5,,,
@@ -55686,11 +55746,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-20,San Pablo de Lipez,18.1,-6.1,,,
 2023-09-20,San Pedro - Río Victoria (GPRS),31.23,22.8,95.2,68.89,18.2
 2023-09-20,San Pedro - San Antonio (GPRS),30.37,23.11,95.5,74.03,19.4
+2023-09-20,San Pedro de Buena Vista,25.4,9.0,,,
 2023-09-20,San Pedro de Buena Vista (GPRS),27.29,13.23,64.0,25.57,
 2023-09-20,San Ramón Aeropuerto,37.4,21.0,,,
 2023-09-20,San Roque - El Alto (GPRS),19.63,3.66,90.6,27.28,
 2023-09-20,Santa Ana del Yacuma Aerop,,,,,35.1
 2023-09-20,Santa Rosa Aeropuerto (BENI),36.5,22.0,,,
+2023-09-20,Santiago de Huata,18.0,3.0,,,
 2023-09-20,Santivañez,35.5,6.7,,,
 2023-09-20,Sara Ana,31.0,21.5,,,
 2023-09-20,Sarco,33.0,12.0,,,
@@ -55750,6 +55812,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-21,Aroma (GPRS),8.29,8.29,16.95,16.95,
 2023-09-21,Ascensión de Guarayos Aerop,36.8,,,,
 2023-09-21,Ayo Ayo,20.8,,,,
+2023-09-21,Ayoma,27.3,4.2,,,
 2023-09-21,Azurduy,25.0,11.0,,,
 2023-09-21,Caiza D,29.7,5.2,,,
 2023-09-21,Calacoto,24.0,-5.0,,,
@@ -55856,11 +55919,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-21,San Pablo de Lipez,17.0,-5.2,,,
 2023-09-21,San Pedro - Río Victoria (GPRS),33.09,23.62,93.9,60.06,
 2023-09-21,San Pedro - San Antonio (GPRS),31.88,24.42,89.5,67.3,
+2023-09-21,San Pedro de Buena Vista,25.6,9.6,,,
 2023-09-21,San Pedro de Buena Vista (GPRS),31.44,14.54,54.22,11.47,
 2023-09-21,San Ramón Aeropuerto,38.2,23.4,,,
 2023-09-21,San Roque - El Alto (GPRS),19.03,3.46,88.2,31.93,1.2
 2023-09-21,Santa Ana del Yacuma Aerop,37.5,21.5,,,
 2023-09-21,Santa Rosa Aeropuerto (BENI),37.5,23.4,,,
+2023-09-21,Santiago de Huata,17.0,2.0,,,
 2023-09-21,Santivañez,33.3,7.8,,,
 2023-09-21,Sara Ana,37.0,23.0,,,
 2023-09-21,Sarco,32.2,13.0,,,
@@ -55919,6 +55984,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-22,Aroma (GPRS),6.77,6.77,18.41,18.41,
 2023-09-22,Ascensión de Guarayos Aerop,38.2,,,,
 2023-09-22,Ayo Ayo,23.0,,,,
+2023-09-22,Ayoma,29.2,1.1,,,
 2023-09-22,Azurduy,27.0,12.0,,,
 2023-09-22,Caiza D,28.0,4.4,,,
 2023-09-22,Calacoto,24.5,-2.0,,,
@@ -56021,10 +56087,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-22,San Pablo de Lipez,16.2,-6.0,,,
 2023-09-22,San Pedro - Río Victoria (GPRS),34.22,23.61,94.4,62.7,
 2023-09-22,San Pedro - San Antonio (GPRS),33.41,23.11,92.7,64.54,
+2023-09-22,San Pedro de Buena Vista,24.4,9.4,,,
 2023-09-22,San Pedro de Buena Vista (GPRS),30.42,14.0,54.08,12.59,
 2023-09-22,San Roque - El Alto (GPRS),20.07,4.63,85.3,19.2,
 2023-09-22,Santa Ana del Yacuma Aerop,38.6,22.5,,,
 2023-09-22,Santa Rosa Aeropuerto (BENI),38.5,23.5,,,
+2023-09-22,Santiago de Huata,19.0,0.0,,,
 2023-09-22,Santivañez,35.5,7.8,,,
 2023-09-22,Sara Ana,37.0,22.0,,,
 2023-09-22,Sarco,35.0,13.9,,,
@@ -56079,6 +56147,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-23,Arani,31.0,16.0,,,
 2023-09-23,Aroma (GPRS),6.68,6.68,18.6,18.6,
 2023-09-23,Ayo Ayo,21.5,,,,
+2023-09-23,Ayoma,28.1,5.3,,,
 2023-09-23,Azurduy,28.0,13.0,,,
 2023-09-23,Caiza D,30.0,5.0,,,
 2023-09-23,Calacoto,24.0,-2.0,,,
@@ -56170,9 +56239,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-23,San Pablo de Lipez,15.4,-7.1,,,
 2023-09-23,San Pedro - Río Victoria (GPRS),34.73,24.35,92.5,57.09,
 2023-09-23,San Pedro - San Antonio (GPRS),34.27,24.37,90.6,62.06,
+2023-09-23,San Pedro de Buena Vista,26.0,8.9,,,
 2023-09-23,San Pedro de Buena Vista (GPRS),28.83,14.96,56.88,14.22,
 2023-09-23,San Roque - El Alto (GPRS),19.98,3.97,90.0,25.37,
 2023-09-23,Santa Ana del Yacuma Aerop,39.0,22.4,,,
+2023-09-23,Santiago de Huata,18.0,4.0,,,
 2023-09-23,Santivañez,34.4,8.9,,,
 2023-09-23,Sara Ana,37.0,22.0,,,
 2023-09-23,Sarco,32.2,15.0,,,
@@ -56224,6 +56295,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-24,Arani,30.0,19.0,,,
 2023-09-24,Aroma (GPRS),10.65,10.65,49.51,49.51,
 2023-09-24,Ayo Ayo,21.0,,,,
+2023-09-24,Ayoma,29.4,5.1,,,
 2023-09-24,Azurduy,28.0,13.5,,,
 2023-09-24,Caiza D,33.0,5.6,,,
 2023-09-24,Calacoto,24.0,0.0,,,
@@ -56320,10 +56392,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-24,San Pablo de Lipez,16.6,-4.1,,,
 2023-09-24,San Pedro - Río Victoria (GPRS),35.37,24.58,78.19,53.52,
 2023-09-24,San Pedro - San Antonio (GPRS),34.47,23.38,86.0,57.74,
+2023-09-24,San Pedro de Buena Vista,26.4,8.0,,,
 2023-09-24,San Pedro de Buena Vista (GPRS),29.41,14.29,55.32,16.47,
 2023-09-24,San Roque - El Alto (GPRS),21.66,2.29,77.94,15.3,
 2023-09-24,Santa Ana del Yacuma Aerop,,,,,0.1
 2023-09-24,Santa Rosa Aeropuerto (BENI),39.2,,,,
+2023-09-24,Santiago de Huata,19.0,4.0,,,
 2023-09-24,Santivañez,32.2,5.5,,,
 2023-09-24,Sara Ana,38.0,22.0,,,
 2023-09-24,Sarco,34.4,14.4,,,
@@ -56381,6 +56455,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-25,Aroma (GPRS),9.97,9.97,52.96,52.96,
 2023-09-25,Atulcha (GPRS),19.84,6.5,26.87,11.84,
 2023-09-25,Ayo Ayo,21.5,,,,
+2023-09-25,Ayoma,28.3,4.2,,,
 2023-09-25,Azurduy,28.5,14.0,,,
 2023-09-25,Caiza D,32.4,6.0,,,
 2023-09-25,Calacoto,24.5,-2.0,,,
@@ -56487,10 +56562,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-25,San Pablo de Lipez,17.7,-3.2,,,
 2023-09-25,San Pedro - Río Victoria (GPRS),34.93,25.37,82.6,55.63,
 2023-09-25,San Pedro - San Antonio (GPRS),34.49,25.87,83.5,57.16,
+2023-09-25,San Pedro de Buena Vista,25.8,6.0,,,
 2023-09-25,San Pedro de Buena Vista (GPRS),32.18,15.64,45.1,10.76,
 2023-09-25,San Roque - El Alto (GPRS),21.49,3.0,76.08,24.59,
 2023-09-25,Santa Ana del Yacuma Aerop,39.6,23.6,,,
 2023-09-25,Santa Rosa Aeropuerto (BENI),39.1,23.5,,,
+2023-09-25,Santiago de Huata,18.0,2.0,,,
 2023-09-25,Santivañez,35.5,8.9,,,
 2023-09-25,Sarco,34.4,14.4,,,
 2023-09-25,Sella Quebrada,33.0,14.0,,,
@@ -56548,6 +56625,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-26,Ascensión de Guarayos Aerop,39.2,,,,
 2023-09-26,Atulcha (GPRS),18.91,6.67,27.59,13.06,
 2023-09-26,Ayo Ayo,24.0,,,,
+2023-09-26,Ayoma,29.1,4.1,,,
 2023-09-26,Azurduy,24.0,12.0,,,
 2023-09-26,Caiza D,29.0,5.4,,,
 2023-09-26,Calacoto,24.5,-3.0,,,
@@ -56674,11 +56752,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-26,San Pablo de Lipez,16.2,-6.1,,,
 2023-09-26,San Pedro - Río Victoria (GPRS),35.18,24.18,86.5,50.15,
 2023-09-26,San Pedro - San Antonio (GPRS),34.18,24.28,87.8,59.8,
+2023-09-26,San Pedro de Buena Vista,26.0,5.4,,,
 2023-09-26,San Pedro de Buena Vista (GPRS),33.48,14.83,71.91,9.27,
 2023-09-26,San Roque - El Alto (GPRS),23.16,5.05,85.6,18.18,
 2023-09-26,Santa Ana - Yacuma,36.0,27.0,78.1,41.4,
 2023-09-26,Santa Ana del Yacuma Aerop,38.4,23.0,,,
 2023-09-26,Santa Rosa Aeropuerto (BENI),38.5,24.0,,,
+2023-09-26,Santiago de Huata,19.0,1.0,,,
 2023-09-26,Santivañez,33.3,10.0,,,
 2023-09-26,Sarco,37.2,14.4,,,
 2023-09-26,Sella Quebrada,39.0,14.0,,,
@@ -56739,6 +56819,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-27,Aroma (GPRS),22.53,-1.16,17.94,17.94,
 2023-09-27,Ascensión de Guarayos Aerop,30.0,,,,
 2023-09-27,Ayo Ayo,20.5,,,,
+2023-09-27,Ayoma,24.2,4.0,,,
 2023-09-27,Azurduy,14.0,6.0,,,
 2023-09-27,Buena Vista S.(GPRS),,,,,4.0
 2023-09-27,Buena Vista Sc,,,,,4.8
@@ -56880,12 +56961,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-27,San Pablo de Lipez,13.4,-5.2,,,
 2023-09-27,San Pedro - Río Victoria (GPRS),26.73,20.53,74.69,50.88,
 2023-09-27,San Pedro - San Antonio (GPRS),26.37,20.13,74.86,44.79,
+2023-09-27,San Pedro de Buena Vista,26.6,5.6,,,
 2023-09-27,San Pedro de Buena Vista (GPRS),24.72,12.08,77.0,30.88,
 2023-09-27,San Ramón Aeropuerto,39.8,,,,
 2023-09-27,San Roque - El Alto (GPRS),19.32,6.33,85.9,32.88,
 2023-09-27,Santa Ana - Yacuma,29.0,29.0,69.5,69.5,
 2023-09-27,Santa Ana del Yacuma Aerop,37.8,25.3,,,
 2023-09-27,Santa Rosa Aeropuerto (BENI),38.8,23.4,,,
+2023-09-27,Santiago de Huata,18.0,2.0,,,
 2023-09-27,Santivañez,35.4,6.7,,,
 2023-09-27,Sarco,30.1,17.2,,,
 2023-09-27,Saykan Perulas,,,,,4.5
@@ -56949,6 +57032,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-28,Aroma (GPRS),21.49,-0.85,26.49,26.49,
 2023-09-28,Ascensión de Guarayos Aerop,31.7,,,,
 2023-09-28,Ayo Ayo,24.8,,,,
+2023-09-28,Ayoma,29.5,3.1,,,
 2023-09-28,Azurduy,20.0,9.0,,,
 2023-09-28,Caiza D,28.0,5.6,,,
 2023-09-28,Calacoto,25.5,-2.0,,,
@@ -57097,12 +57181,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-28,San Pablo de Lipez,15.2,-4.2,,,
 2023-09-28,San Pedro - Río Victoria (GPRS),23.28,18.33,90.5,58.27,
 2023-09-28,San Pedro - San Antonio (GPRS),24.37,19.72,88.9,54.13,
+2023-09-28,San Pedro de Buena Vista,25.8,9.1,,,
 2023-09-28,San Pedro de Buena Vista (GPRS),33.48,12.66,80.4,12.19,2.6
 2023-09-28,San Ramón Aeropuerto,35.4,21.2,,,
 2023-09-28,San Roque - El Alto (GPRS),22.53,4.98,90.0,15.71,1.1
 2023-09-28,Santa Ana - Yacuma,23.0,23.0,72.8,72.8,
 2023-09-28,Santa Ana del Yacuma Aerop,31.6,18.8,,,
 2023-09-28,Santa Rosa Aeropuerto (BENI),,,,,5.6
+2023-09-28,Santiago de Huata,19.0,4.0,,,
 2023-09-28,Santivañez,36.7,3.3,,,
 2023-09-28,Sara Ana,31.0,22.0,,,1.3
 2023-09-28,Sarco,36.7,12.5,,,0.2
@@ -57166,6 +57252,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-29,Aroma (GPRS),23.27,6.08,16.5,16.5,
 2023-09-29,Ascensión de Guarayos Aerop,34.8,,,,
 2023-09-29,Ayo Ayo,23.0,,,,
+2023-09-29,Ayoma,28.3,5.2,,,
 2023-09-29,Azurduy,24.0,10.0,,,
 2023-09-29,Caiza D,28.9,5.7,,,
 2023-09-29,Calacoto,24.5,-3.0,,,
@@ -57285,12 +57372,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-29,San Pablo de Lipez,15.8,-7.1,,,
 2023-09-29,San Pedro - Río Victoria (GPRS),30.48,19.59,87.8,58.4,
 2023-09-29,San Pedro - San Antonio (GPRS),30.27,20.74,87.9,53.33,
+2023-09-29,San Pedro de Buena Vista,26.9,4.0,,,
 2023-09-29,San Pedro de Buena Vista (GPRS),26.42,12.44,76.73,29.87,
 2023-09-29,San Ramón Aeropuerto,36.4,21.4,,,
 2023-09-29,San Roque - El Alto (GPRS),19.2,3.12,92.2,30.74,
 2023-09-29,Santa Ana - Yacuma,35.0,24.0,93.3,45.8,
 2023-09-29,Santa Ana del Yacuma Aerop,36.0,19.2,,,
 2023-09-29,Santa Rosa Aeropuerto (BENI),36.0,16.5,,,
+2023-09-29,Santiago de Huata,18.0,5.0,,,
 2023-09-29,Santivañez,35.5,4.4,,,
 2023-09-29,Sara Ana,35.0,20.0,,,
 2023-09-29,Sarco,33.0,17.8,,,
@@ -57347,6 +57436,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-30,Arani,30.0,17.0,,,
 2023-09-30,Aroma (GPRS),23.13,0.87,59.66,59.66,
 2023-09-30,Ayo Ayo,22.8,,,,
+2023-09-30,Ayoma,27.1,6.4,,,
 2023-09-30,Azurduy,25.0,10.5,,,
 2023-09-30,Caiza D,30.9,6.0,,,
 2023-09-30,Calacoto,25.0,-3.0,,,
@@ -57459,10 +57549,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-30,San Pablo de Lipez,14.6,-5.2,,,
 2023-09-30,San Pedro - Río Victoria (GPRS),27.27,19.48,93.1,64.2,1.8
 2023-09-30,San Pedro - San Antonio (GPRS),28.76,18.58,89.8,63.28,2.0
+2023-09-30,San Pedro de Buena Vista,25.0,3.8,,,
 2023-09-30,San Pedro de Buena Vista (GPRS),28.8,12.07,78.45,26.16,
 2023-09-30,San Roque - El Alto (GPRS),18.83,3.91,95.3,37.09,0.1
 2023-09-30,Santa Ana - Yacuma,27.0,27.0,82.9,82.9,
 2023-09-30,Santa Ana del Yacuma Aerop,33.7,24.0,,,
+2023-09-30,Santiago de Huata,19.0,2.0,,,
 2023-09-30,Santivañez,34.4,6.7,,,
 2023-09-30,Sara Ana,31.0,24.5,,,
 2023-09-30,Sarco,32.8,15.5,,,
@@ -57513,7 +57605,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-01,Alto Peñas (GPRS),15.94,5.5,90.1,41.81,
 2023-10-01,Arani,30.0,16.0,,,
 2023-10-01,Aroma (GPRS),22.76,1.72,14.89,14.89,
+2023-10-01,Ayoma,30.1,7.2,,,
 2023-10-01,Azurduy,,,,,1.3
+2023-10-01,Caiza D,21.0,3.2,,,
 2023-10-01,Camargo_H (GPRS),,,,,0.01
 2023-10-01,Camata,34.0,16.0,,,
 2023-10-01,Camiri,20.0,20.0,48.7,48.7,
@@ -57525,6 +57619,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-01,Chua Cocani_M (GPRS),16.92,3.89,83.7,49.27,
 2023-10-01,Chuqui Chuqui,32.0,19.0,,,
 2023-10-01,Chuquiago,34.0,8.0,,,
+2023-10-01,Ckochas,19.1,8.5,,,
 2023-10-01,Cobija,30.0,24.0,88.0,88.0,
 2023-10-01,Cochabamba,20.0,20.0,42.6,42.6,
 2023-10-01,Coimata,26.0,6.0,,,
@@ -57540,6 +57635,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-01,Desaguadero_M,15.86,0.96,73.54,23.38,
 2023-10-01,El Alto,8.0,8.0,80.8,80.8,
 2023-10-01,El Belen,17.6,0.0,,,
+2023-10-01,El Villar,24.0,12.5,,,
 2023-10-01,Hichucota,14.0,0.0,,,
 2023-10-01,Huarisuyo (GPRS),18.75,1.02,97.0,35.26,
 2023-10-01,Huaylipaya,,,,,2.7
@@ -57555,6 +57651,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-01,Luribay,29.0,12.0,,,
 2023-10-01,Mizque - SDC (GPRS),30.14,12.67,77.36,27.66,
 2023-10-01,Molle Molle,,10.0,,,23.3
+2023-10-01,Oronkota PTI,34.8,16.3,,,
+2023-10-01,Padilla,31.0,12.0,,,
 2023-10-01,Pailon - Pozo del Tigre (GPRS),34.86,23.84,78.75,33.62,
 2023-10-01,Palca_LP,22.0,9.0,,,
 2023-10-01,Pampas de Lequezana,23.4,19.0,,,
@@ -57584,6 +57682,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-01,San Pablo de Lipez,15.2,-3.0,,,
 2023-10-01,San Pedro - Río Victoria (GPRS),31.44,21.32,93.6,46.59,
 2023-10-01,San Pedro - San Antonio (GPRS),32.01,20.79,94.4,47.49,
+2023-10-01,San Pedro de Buena Vista,24.0,9.0,,,
 2023-10-01,San Pedro de Buena Vista (GPRS),27.09,13.52,70.52,25.92,
 2023-10-01,San Roque - El Alto (GPRS),19.91,3.4,93.3,32.22,
 2023-10-01,Santa Ana - Yacuma,25.0,25.0,73.1,73.1,
@@ -57596,6 +57695,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-01,Sucre SENAMHI,26.2,11.0,,,
 2023-10-01,Sunjani (GPRS),14.53,1.52,96.4,52.63,
 2023-10-01,Tacagua_M (GPRS),22.01,5.45,39.23,8.78,
+2023-10-01,Talula_Tako Tako,27.0,12.0,,,
+2023-10-01,Tarabuco,22.5,6.3,,,
 2023-10-01,Tarata,31.8,12.8,,,
 2023-10-01,Tarija,26.0,10.0,75.6,29.6,
 2023-10-01,Templo (GPRS),11.59,3.69,90.2,47.75,
@@ -57615,6 +57716,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-01,Vivero Chimboco - SDC (GPRS),27.27,11.36,69.5,22.99,
 2023-10-01,Vivero Viloma - SDC (GPRS),28.63,12.96,61.09,12.49,
 2023-10-01,Yesera Norte,20.0,8.0,,,
+2023-10-01,Yocalla,27.0,5.2,,,
+2023-10-01,Ñoquejza,16.1,6.2,,,
 2023-10-02,4 Esquinas (GPRS),,,,,40.5
 2023-10-02,Acasio,36.0,14.0,,,
 2023-10-02,Achiri,22.5,-1.0,,,
@@ -57622,8 +57725,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-02,Aguadas (GPRS),,,,,1.2
 2023-10-02,Aiquile (GPRS),37.03,11.15,87.6,24.0,
 2023-10-02,Alto Peñas (GPRS),,,,,3.7
+2023-10-02,Ancoraimes,,,,,1.5
 2023-10-02,Arani,29.0,20.0,,,
 2023-10-02,Aroma (GPRS),,,22.69,22.69,
+2023-10-02,Ayoma,29.3,4.1,,,
+2023-10-02,Caiza D,21.1,4.0,,,
 2023-10-02,Camata,35.0,17.0,,,
 2023-10-02,Camiri,19.0,19.0,67.6,67.6,
 2023-10-02,Carabuco,,3.3,,,
@@ -57635,6 +57741,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-02,Chuqui Chuqui,38.0,18.0,,,
 2023-10-02,Chuquiago,35.1,11.2,,,
 2023-10-02,Chuquiaguillo_LP,,,,,0.8
+2023-10-02,Ckochas,24.5,7.1,,,
 2023-10-02,Cobija,25.0,25.0,93.3,93.3,
 2023-10-02,Cobija Aeropuerto,,,,,1.5
 2023-10-02,Cochabamba,20.0,20.0,42.6,42.6,
@@ -57653,6 +57760,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-02,El Alto Aeropuerto,,,,,0.4
 2023-10-02,El Belen,20.6,2.0,,,
 2023-10-02,El Tejar (Tarija),31.4,7.2,,,
+2023-10-02,El Villar,25.0,9.0,,,
 2023-10-02,Hichucota,,,,,2.0
 2023-10-02,Huancane Corapata_M (GPRS),,,,,2.6
 2023-10-02,Huarisuyo (GPRS),,,,,5.8
@@ -57662,15 +57770,19 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-02,Jesús de Machaca_M (GPRS),23.07,-2.53,61.39,13.45,
 2023-10-02,Jihuacuta,,,,,0.1
 2023-10-02,La Asunta,32.0,19.0,,,
+2023-10-02,La Barranca  (Chuquisaca),28.0,7.5,,,
 2023-10-02,La Merced,31.0,8.0,,,
 2023-10-02,La Violeta,32.0,10.0,,,
 2023-10-02,Luribay,31.0,13.0,,,
 2023-10-02,Magdalena,25.0,25.0,93.3,93.3,
 2023-10-02,Magdalena Aeropuerto,,,,,7.2
+2023-10-02,Misicuni,,,,,0.6
 2023-10-02,Mizque - SDC (GPRS),33.56,12.27,81.6,16.57,
 2023-10-02,Molle Molle,,12.2,,,27.8
+2023-10-02,Oronkota PTI,35.2,16.4,,,
 2023-10-02,Oruro,8.0,8.0,60.9,60.9,
 2023-10-02,Oruro (GPRS),8.0,8.0,60.9,60.9,
+2023-10-02,Padilla,30.0,15.0,,,
 2023-10-02,Pailon - Pozo del Tigre (GPRS),36.18,28.6,70.4,44.5,
 2023-10-02,Palca_LP,26.0,8.5,,,
 2023-10-02,Pampas de Lequezana,21.0,9.1,,,
@@ -57712,6 +57824,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-02,San Pablo de Lipez,16.8,-4.1,,,
 2023-10-02,San Pedro - Río Victoria (GPRS),33.9,25.27,84.1,60.52,
 2023-10-02,San Pedro - San Antonio (GPRS),33.31,25.74,84.1,61.22,
+2023-10-02,San Pedro de Buena Vista,21.0,8.0,,,
 2023-10-02,San Pedro de Buena Vista (GPRS),32.48,16.73,59.61,12.19,
 2023-10-02,San Ramón Aeropuerto,,,,,15.2
 2023-10-02,San Roque - El Alto (GPRS),,,,,0.5
@@ -57724,6 +57837,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-02,Sucre SENAMHI,29.5,11.2,,,
 2023-10-02,Sunjani (GPRS),,,,,10.4
 2023-10-02,Tacagua_M (GPRS),22.32,4.02,39.1,10.43,
+2023-10-02,Talula_Tako Tako,30.0,8.5,,,
+2023-10-02,Tarabuco,27.4,9.4,,,
 2023-10-02,Tarata,32.8,11.5,,,
 2023-10-02,Tarija,15.0,15.0,58.3,58.3,
 2023-10-02,Templo (GPRS),,,,,4.1
@@ -57745,6 +57860,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-02,Vivero Viloma - SDC (GPRS),30.89,13.6,58.47,12.25,
 2023-10-02,Yacuiba,24.0,24.0,68.6,68.6,
 2023-10-02,Yesera Norte,31.0,10.0,,,
+2023-10-02,Yocalla,26.3,6.3,,,
+2023-10-02,Ñoquejza,18.2,3.1,,,
 2023-10-03,4 Esquinas (GPRS),16.6,1.91,,,3.1
 2023-10-03,Acasio,34.1,15.1,,,
 2023-10-03,Achiri,23.5,1.0,,,
@@ -57755,6 +57872,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-03,Arani,29.0,17.0,,,
 2023-10-03,Aroma (GPRS),21.57,-1.27,25.56,25.56,
 2023-10-03,Ascencion de Guarayos,33.0,33.0,58.8,58.8,
+2023-10-03,Ayoma,28.2,5.3,,,
+2023-10-03,Caiza D,30.0,-1.0,,,
 2023-10-03,Camata,35.5,18.0,,,
 2023-10-03,Camiri,40.0,23.0,68.4,68.4,
 2023-10-03,Carabuco,,5.0,,,
@@ -57767,6 +57886,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-03,Chua Cocani_M (GPRS),19.28,4.35,89.9,18.06,
 2023-10-03,Chuqui Chuqui,40.0,20.0,,,
 2023-10-03,Chuquiago,35.0,9.0,,,
+2023-10-03,Ckochas,26.0,2.1,,,
 2023-10-03,Cobija,38.0,26.0,78.2,78.2,
 2023-10-03,Cochabamba,33.0,14.0,49.0,49.0,
 2023-10-03,Coimata,37.0,8.0,,,
@@ -57782,6 +57902,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-03,El Alto,20.0,5.0,70.4,70.4,
 2023-10-03,El Belen,22.0,0.0,,,
 2023-10-03,El Tejar (Tarija),38.2,11.6,,,
+2023-10-03,El Villar,30.0,13.0,,,
 2023-10-03,Hichucota,18.0,1.0,,,
 2023-10-03,Huarisuyo (GPRS),20.8,-0.18,96.0,18.76,
 2023-10-03,Huayrocondo,21.3,1.5,,,
@@ -57789,15 +57910,19 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-03,Isla Suriqui_M (GPRS),19.47,6.51,93.2,20.9,
 2023-10-03,Jesús de Machaca_M (GPRS),22.29,-2.99,43.21,12.22,
 2023-10-03,La Asunta,31.0,20.0,,,
+2023-10-03,La Barranca  (Chuquisaca),30.0,9.0,,,
 2023-10-03,La Merced,37.0,11.0,,,
 2023-10-03,La Violeta,31.0,12.0,,,
 2023-10-03,Luribay,32.0,14.0,,,
 2023-10-03,Magdalena,38.0,28.0,83.0,83.0,
+2023-10-03,Misicuni,,,,,0.4
 2023-10-03,Mizque - SDC (GPRS),34.89,14.17,76.1,13.23,
 2023-10-03,Molle Molle,,14.4,,,25.0
 2023-10-03,Montero_Muyurina,,,,,0.1
+2023-10-03,Oronkota PTI,35.0,17.3,,,
 2023-10-03,Oruro,23.0,8.0,48.9,48.9,
 2023-10-03,Oruro (GPRS),23.0,8.0,48.9,48.9,
+2023-10-03,Padilla,33.0,11.0,,,
 2023-10-03,Pailon - Pozo del Tigre (GPRS),37.33,28.8,62.86,41.64,
 2023-10-03,Palca_LP,27.5,8.5,,,
 2023-10-03,Pampas de Lequezana,20.6,12.4,,,
@@ -57834,6 +57959,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-03,San Pablo de Lipez,17.2,-3.1,,,
 2023-10-03,San Pedro - Río Victoria (GPRS),35.06,23.51,88.0,58.06,
 2023-10-03,San Pedro - San Antonio (GPRS),35.24,24.52,84.6,57.33,
+2023-10-03,San Pedro de Buena Vista,22.4,7.0,,,
 2023-10-03,San Pedro de Buena Vista (GPRS),34.33,16.01,60.44,6.57,
 2023-10-03,San Roque - El Alto (GPRS),23.31,4.57,92.2,17.35,0.6
 2023-10-03,Santa Ana - Yacuma,38.0,26.0,73.8,73.8,
@@ -57845,6 +57971,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-03,Sucre SENAMHI,32.0,12.5,,,
 2023-10-03,Sunjani (GPRS),18.99,0.21,89.0,35.09,0.6
 2023-10-03,Tacagua_M (GPRS),21.48,3.62,35.64,10.92,
+2023-10-03,Talula_Tako Tako,33.0,10.0,,,
+2023-10-03,Tarabuco,28.3,12.5,,,
 2023-10-03,Tarata,32.2,11.2,,,
 2023-10-03,Tarija,38.0,16.0,59.3,59.3,
 2023-10-03,Templo (GPRS),16.82,2.33,93.4,28.07,
@@ -57866,6 +57994,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-03,Vivero Viloma - SDC (GPRS),32.78,14.23,56.85,7.7,
 2023-10-03,Yacuiba,26.0,26.0,60.9,60.9,
 2023-10-03,Yesera Norte,35.0,11.0,,,
+2023-10-03,Yocalla,27.1,7.0,,,
+2023-10-03,Ñoquejza,20.1,4.2,,,
 2023-10-04,4 Esquinas (GPRS),16.14,2.04,,,
 2023-10-04,Acasio,38.1,15.0,,,
 2023-10-04,Achiri,23.0,-1.5,,,
@@ -57875,7 +58005,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-04,Alto Peñas (GPRS),20.61,5.48,92.5,22.08,
 2023-10-04,Arani,34.0,18.0,,,
 2023-10-04,Aroma (GPRS),23.12,-1.92,24.67,24.67,
+2023-10-04,Ayoma,29.1,3.1,,,
 2023-10-04,Cabaña Forestal Oruro,,,,,3.4
+2023-10-04,Caiza D,31.0,3.4,,,
 2023-10-04,Camata,34.5,19.0,,,
 2023-10-04,Camiri,30.0,17.0,41.1,41.1,
 2023-10-04,Campamento Villa Tunari,,,,,6.0
@@ -57888,6 +58020,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-04,Chua Cocani_M (GPRS),20.85,5.65,85.8,21.17,
 2023-10-04,Chuqui Chuqui,36.0,21.0,,,
 2023-10-04,Chuquiago,34.2,11.2,,,
+2023-10-04,Ckochas,27.5,2.1,,,
 2023-10-04,Cobija,38.0,26.0,78.3,78.3,
 2023-10-04,Cochabamba,21.0,21.0,49.0,49.0,
 2023-10-04,Coimata,20.0,7.0,,,
@@ -57903,6 +58036,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-04,El Alto,11.0,11.0,46.3,46.3,
 2023-10-04,El Belen,21.0,1.0,,,
 2023-10-04,El Tejar (Tarija),24.2,16.8,,,
+2023-10-04,El Villar,34.5,15.0,,,
 2023-10-04,Guanay_H (GPRS),,,,,50.0
 2023-10-04,Hichucota,19.0,1.0,,,
 2023-10-04,Huarisuyo (GPRS),21.39,1.56,97.4,18.43,
@@ -57911,6 +58045,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-04,Isla Suriqui_M (GPRS),19.35,7.88,92.8,25.0,
 2023-10-04,Jesús de Machaca_M (GPRS),21.91,-0.26,91.5,14.36,
 2023-10-04,La Asunta,32.0,22.0,,,
+2023-10-04,La Barranca  (Chuquisaca),24.0,11.5,,,
 2023-10-04,La Merced,20.0,16.0,,,
 2023-10-04,La Violeta,30.0,11.0,,,
 2023-10-04,Luribay,33.0,13.0,,,
@@ -57918,8 +58053,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-04,Mizque - SDC (GPRS),31.26,12.19,80.2,29.37,
 2023-10-04,Molle Molle,,15.0,,,27.2
 2023-10-04,Montero_Muyurina,,,,,0.4
+2023-10-04,Oronkota PTI,32.2,12.4,,,
 2023-10-04,Oruro,25.0,8.0,52.7,52.7,
 2023-10-04,Oruro (GPRS),25.0,8.0,52.7,52.7,
+2023-10-04,Padilla,28.0,12.0,,,
 2023-10-04,Pailon - Pozo del Tigre (GPRS),35.31,23.39,45.86,32.61,
 2023-10-04,Palca_LP,26.5,8.0,,,
 2023-10-04,Pampas de Lequezana,24.5,10.6,,,
@@ -57959,6 +58096,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-04,San Pablo de Lipez,19.0,-5.1,,,
 2023-10-04,San Pedro - Río Victoria (GPRS),35.69,21.88,73.33,56.4,
 2023-10-04,San Pedro - San Antonio (GPRS),35.25,22.09,75.24,50.66,
+2023-10-04,San Pedro de Buena Vista,21.0,9.9,,,
 2023-10-04,San Pedro de Buena Vista (GPRS),29.59,14.69,72.84,27.38,
 2023-10-04,San Roque - El Alto (GPRS),24.17,5.12,87.8,18.17,
 2023-10-04,Santa Ana - Yacuma,39.0,25.0,73.8,73.8,
@@ -57970,6 +58108,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-04,Sucre SENAMHI,27.5,15.0,,,
 2023-10-04,Sunjani (GPRS),19.61,2.63,89.6,26.06,
 2023-10-04,Tacagua_M (GPRS),22.59,4.08,28.61,7.49,
+2023-10-04,Talula_Tako Tako,26.5,13.0,,,
+2023-10-04,Tarabuco,29.5,11.3,,,
 2023-10-04,Tarata,32.8,12.5,,,
 2023-10-04,Tarija,23.0,7.0,67.0,67.0,
 2023-10-04,Templo (GPRS),16.36,3.73,92.4,30.26,
@@ -57991,6 +58131,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-04,Vivero Viloma - SDC (GPRS),30.84,19.83,42.74,12.51,
 2023-10-04,Yacuiba,20.0,20.0,67.8,67.8,
 2023-10-04,Yesera Norte,22.5,13.0,,,
+2023-10-04,Yocalla,27.4,8.1,,,
+2023-10-04,Ñoquejza,18.1,5.2,,,
 2023-10-05,4 Esquinas (GPRS),18.09,0.49,,,
 2023-10-05,Acasio,38.0,15.0,,,
 2023-10-05,Achiri,24.5,-1.0,,,
@@ -58000,8 +58142,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-05,Alto Peñas (GPRS),18.96,6.53,89.1,35.31,
 2023-10-05,Arani,29.0,20.0,,,
 2023-10-05,Aroma (GPRS),23.1,-2.63,7.08,7.08,
+2023-10-05,Ayoma,28.3,6.2,,,
 2023-10-05,Azurduy,,,,,3.0
 2023-10-05,Buena Vista S.(GPRS),,,,,7.4
+2023-10-05,Caiza D,32.0,4.0,,,
 2023-10-05,Camata,35.0,18.5,,,
 2023-10-05,Camiri,31.0,15.0,45.0,45.0,
 2023-10-05,Campamento Villa Tunari,,,,,30.0
@@ -58017,6 +58161,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-05,Chua Cocani_M (GPRS),20.86,5.2,85.3,29.28,
 2023-10-05,Chuqui Chuqui,37.0,20.0,,,
 2023-10-05,Chuquiago,33.1,5.0,,,
+2023-10-05,Ckochas,22.5,10.5,,,
 2023-10-05,Cobija,38.0,27.0,73.8,73.8,
 2023-10-05,Cochabamba,34.0,14.0,40.3,40.3,
 2023-10-05,Coimata,32.0,5.0,,,
@@ -58035,6 +58180,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-05,El Alto Aeropuerto,,,,,0.1
 2023-10-05,El Belen,19.6,2.4,,,
 2023-10-05,El Tejar (Tarija),27.7,7.3,,,
+2023-10-05,El Villar,27.0,11.0,,,
 2023-10-05,Guanay_H (GPRS),,,,,7.0
 2023-10-05,Hichucota,19.0,2.0,,,
 2023-10-05,Huarisuyo (GPRS),20.88,0.16,91.1,27.12,
@@ -58045,6 +58191,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-05,Isla Suriqui_M (GPRS),19.08,7.03,94.1,30.79,
 2023-10-05,Jesús de Machaca_M (GPRS),22.03,-3.83,48.61,16.86,
 2023-10-05,La Asunta,31.0,23.0,,,
+2023-10-05,La Barranca  (Chuquisaca),27.5,9.5,,,
 2023-10-05,La Merced,25.0,16.0,,,
 2023-10-05,La Violeta,30.0,13.0,,,
 2023-10-05,Luribay,32.0,14.0,,,
@@ -58052,8 +58199,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-05,Mizque - SDC (GPRS),32.07,11.51,82.3,26.1,
 2023-10-05,Molle Molle,,15.0,,,24.4
 2023-10-05,Okinawa I,,,,,3.2
+2023-10-05,Oronkota PTI,36.0,16.2,,,
 2023-10-05,Oruro,26.0,7.0,60.6,60.6,
 2023-10-05,Oruro (GPRS),26.0,7.0,60.6,60.6,
+2023-10-05,Padilla,30.0,9.0,,,
 2023-10-05,Pailon - Pozo del Tigre (GPRS),33.75,24.09,77.52,35.62,
 2023-10-05,Palca_LP,25.0,8.5,,,
 2023-10-05,Pampas de Lequezana,21.2,13.1,,,
@@ -58094,6 +58243,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-05,San Pablo de Lipez,19.2,-6.1,,,
 2023-10-05,San Pedro - Río Victoria (GPRS),29.06,21.08,88.4,54.14,0.6
 2023-10-05,San Pedro - San Antonio (GPRS),29.49,21.12,87.7,46.96,
+2023-10-05,San Pedro de Buena Vista,21.2,9.8,,,
 2023-10-05,San Pedro de Buena Vista (GPRS),35.17,18.35,45.92,9.6,2.1
 2023-10-05,San Roque - El Alto (GPRS),21.89,5.65,81.8,27.35,0.2
 2023-10-05,Santa Ana - Yacuma,39.0,25.0,82.7,82.7,
@@ -58105,6 +58255,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-05,Sucre SENAMHI,29.8,13.5,,,
 2023-10-05,Sunjani (GPRS),17.15,2.17,80.5,42.24,
 2023-10-05,Tacagua_M (GPRS),23.16,0.55,33.49,4.4,
+2023-10-05,Talula_Tako Tako,30.5,11.0,,,
+2023-10-05,Tarabuco,25.4,10.4,,,
 2023-10-05,Tarata,32.5,12.0,,,
 2023-10-05,Tarija,28.0,8.0,70.7,70.7,
 2023-10-05,Templo (GPRS),14.52,6.69,93.6,28.41,
@@ -58129,6 +58281,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-05,Vivero Viloma - SDC (GPRS),28.33,14.82,50.33,23.32,
 2023-10-05,Yacuiba,19.0,19.0,72.1,72.1,
 2023-10-05,Yesera Norte,25.0,5.0,,,
+2023-10-05,Yocalla,28.1,9.3,,,
+2023-10-05,Ñoquejza,14.2,4.3,,,
 2023-10-06,4 Esquinas (GPRS),18.39,2.87,,,
 2023-10-06,Acasio,33.1,15.0,,,
 2023-10-06,Achiri,23.5,-1.5,,,
@@ -58139,6 +58293,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-06,Apolo,24.0,24.0,68.6,68.6,
 2023-10-06,Arani,34.0,20.0,,,
 2023-10-06,Aroma (GPRS),21.49,0.41,22.67,22.67,
+2023-10-06,Ayoma,28.1,2.1,,,
+2023-10-06,Caiza D,31.0,5.2,,,
 2023-10-06,Camata,34.0,19.0,,,
 2023-10-06,Camiri,38.0,19.0,63.3,63.3,
 2023-10-06,Carabuco,,3.7,,,
@@ -58152,6 +58308,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-06,Chuqui Chuqui,40.0,20.0,,,
 2023-10-06,Chuquiago,34.5,7.5,,,
 2023-10-06,Circuata,,,,,8.2
+2023-10-06,Ckochas,22.1,9.1,,,
 2023-10-06,Cobija,39.0,27.0,73.8,73.8,
 2023-10-06,Cochabamba,35.0,14.0,42.9,42.9,
 2023-10-06,Coimata,35.0,4.0,,,
@@ -58170,6 +58327,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-06,El Alto,21.0,3.0,43.1,43.1,
 2023-10-06,El Belen,21.4,-0.6,,,
 2023-10-06,El Tejar (Tarija),36.9,8.4,,,
+2023-10-06,El Villar,27.0,10.0,,,
 2023-10-06,Hichucota,14.0,0.0,,,
 2023-10-06,Huarisuyo (GPRS),22.01,0.13,91.5,18.46,
 2023-10-06,Huayrocondo,22.3,1.5,,,
@@ -58179,6 +58337,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-06,Jesús de Machaca_M (GPRS),23.27,-4.75,44.23,10.41,
 2023-10-06,Jihuacuta,,,,,0.1
 2023-10-06,La Asunta,32.0,22.5,,,
+2023-10-06,La Barranca  (Chuquisaca),30.0,10.0,,,
 2023-10-06,La Merced,32.0,7.0,,,
 2023-10-06,La Violeta,32.0,15.0,,,
 2023-10-06,Luribay,32.0,13.0,,,
@@ -58186,9 +58345,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-06,Mizque - SDC (GPRS),34.26,14.08,79.85,13.0,
 2023-10-06,Molle Molle,,15.5,,,25.5
 2023-10-06,Okinawa I,,,,,2.0
+2023-10-06,Oronkota PTI,37.0,15.7,,,
 2023-10-06,Oruro,22.0,9.0,45.7,45.7,
 2023-10-06,Oruro (GPRS),22.0,9.0,45.7,45.7,
 2023-10-06,Oruro Aeropuerto,,,,,0.7
+2023-10-06,Padilla,33.0,14.0,,,
 2023-10-06,Pailon - Pozo del Tigre (GPRS),37.2,30.1,64.05,40.61,
 2023-10-06,Palca_LP,28.0,8.5,,,
 2023-10-06,Pampas de Lequezana,22.4,12.2,,,
@@ -58226,6 +58387,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-06,San Pablo de Lipez,16.2,-7.1,,,
 2023-10-06,San Pedro - Río Victoria (GPRS),35.94,24.84,85.9,53.02,
 2023-10-06,San Pedro - San Antonio (GPRS),35.97,24.14,89.9,51.0,
+2023-10-06,San Pedro de Buena Vista,25.0,9.0,,,
 2023-10-06,San Pedro de Buena Vista (GPRS),34.65,15.14,67.11,3.11,
 2023-10-06,San Roque - El Alto (GPRS),22.4,4.37,64.96,15.31,
 2023-10-06,Santa Ana - Yacuma,39.0,28.0,65.6,65.6,
@@ -58237,6 +58399,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-06,Sucre SENAMHI,31.5,12.5,,,
 2023-10-06,Sunjani (GPRS),20.76,1.43,91.9,26.01,
 2023-10-06,Tacagua_M (GPRS),21.28,4.21,31.56,6.11,
+2023-10-06,Talula_Tako Tako,31.0,11.0,,,
+2023-10-06,Tarabuco,28.3,12.5,,,
 2023-10-06,Tarata,33.8,11.0,,,
 2023-10-06,Tarija,37.0,15.0,54.5,54.5,
 2023-10-06,Templo (GPRS),17.37,0.38,82.5,27.05,
@@ -58258,6 +58422,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-06,Vivero Viloma - SDC (GPRS),32.8,14.41,51.38,11.68,
 2023-10-06,Yacuiba,32.0,21.0,63.7,63.7,
 2023-10-06,Yesera Norte,25.0,8.0,,,
+2023-10-06,Yocalla,29.3,8.4,,,
+2023-10-06,Ñoquejza,18.1,5.1,,,
 2023-10-07,4 Esquinas (GPRS),15.83,6.6,,,
 2023-10-07,Acasio,34.1,14.1,,,
 2023-10-07,Achiri,24.0,-1.5,,,
@@ -58267,7 +58433,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-07,Alto Peñas (GPRS),20.48,5.42,100.0,15.11,
 2023-10-07,Arani,33.0,21.0,,,
 2023-10-07,Aroma (GPRS),8.09,8.09,29.15,29.15,
+2023-10-07,Ayoma,28.4,1.1,,,
 2023-10-07,Azurduy,,,,,2.2
+2023-10-07,Caiza D,30.0,6.0,,,
 2023-10-07,Camata,35.0,20.0,,,
 2023-10-07,Camiri,26.0,17.0,53.6,53.6,
 2023-10-07,Campamento Villa Tunari,,,,,15.0
@@ -58283,6 +58451,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-07,Chuqui Chuqui,34.0,22.0,,,
 2023-10-07,Chuquiago,33.0,11.3,,,
 2023-10-07,Circuata,,,,,3.6
+2023-10-07,Ckochas,28.1,10.5,,,
 2023-10-07,Cobija,37.0,26.0,73.8,73.8,
 2023-10-07,Cochabamba,30.0,18.0,43.1,43.1,
 2023-10-07,Coimata,32.0,6.0,,,
@@ -58312,6 +58481,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-07,Jihuacuta,,,,,0.2
 2023-10-07,Juntas,,,,,2.8
 2023-10-07,La Asunta,30.5,19.0,,,32.0
+2023-10-07,La Barranca  (Chuquisaca),24.5,10.0,,,
 2023-10-07,La Merced,22.0,8.0,,,
 2023-10-07,La Violeta,26.0,14.0,,,
 2023-10-07,Luribay,30.0,14.0,,,
@@ -58319,6 +58489,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-07,Mataral,,,,,5.2
 2023-10-07,Mizque - SDC (GPRS),30.39,13.48,75.14,28.68,
 2023-10-07,Molle Molle,,13.3,,,25.0
+2023-10-07,Oronkota PTI,32.0,21.0,,,
 2023-10-07,Oruro,23.0,15.0,41.2,37.1,
 2023-10-07,Oruro (GPRS),23.0,15.0,41.2,37.1,
 2023-10-07,Padilla,,,,,2.5
@@ -58354,6 +58525,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-07,San Pablo de Lipez,16.2,-4.1,,,
 2023-10-07,San Pedro - Río Victoria (GPRS),35.49,17.58,87.8,58.73,
 2023-10-07,San Pedro - San Antonio (GPRS),34.64,18.79,84.2,61.37,
+2023-10-07,San Pedro de Buena Vista,26.6,11.0,,,
 2023-10-07,San Pedro de Buena Vista (GPRS),27.18,12.6,98.2,28.44,
 2023-10-07,San Roque - El Alto (GPRS),21.91,5.76,87.1,18.91,
 2023-10-07,Santa Ana - Yacuma,39.0,27.0,73.8,73.8,
@@ -58365,6 +58537,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-07,Sucre SENAMHI,26.2,14.0,,,
 2023-10-07,Sunjani (GPRS),18.25,6.89,89.7,31.07,
 2023-10-07,Tacagua_M (GPRS),24.29,3.89,39.37,8.01,
+2023-10-07,Talula_Tako Tako,26.0,12.0,,,
+2023-10-07,Tarabuco,23.5,10.3,,,
 2023-10-07,Tarata,31.5,12.5,,,
 2023-10-07,Tarija,21.0,10.0,71.8,71.8,
 2023-10-07,Templo (GPRS),14.67,5.12,95.3,39.05,
@@ -58384,6 +58558,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-07,Vivero Chimboco - SDC (GPRS),28.48,15.37,58.88,19.06,
 2023-10-07,Vivero Viloma - SDC (GPRS),30.79,17.67,54.55,18.26,
 2023-10-07,Yesera Norte,17.0,6.0,,,
+2023-10-07,Yocalla,27.4,9.2,,,
+2023-10-07,Ñoquejza,18.2,6.2,,,
 2023-10-08,4 Esquinas (GPRS),18.12,4.73,,,0.2
 2023-10-08,Acasio,31.1,15.2,,,
 2023-10-08,Achiri,24.5,-2.5,,,
@@ -58394,7 +58570,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-08,Arani,29.0,17.0,,,
 2023-10-08,Aroma (GPRS),7.46,7.46,16.84,16.84,
 2023-10-08,Ascensión de Guarayos Aerop,,,,,11.2
+2023-10-08,Ayoma,27.4,7.3,,,
 2023-10-08,Buena Vista S.(GPRS),,,,,3.6
+2023-10-08,Caiza D,22.0,5.4,,,
 2023-10-08,Camargo_H (GPRS),,,,,0.06
 2023-10-08,Camata,32.0,18.5,,,
 2023-10-08,Camiri,18.0,18.0,72.0,72.0,
@@ -58411,6 +58589,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-08,Chuquiago,32.0,7.6,,,
 2023-10-08,Chuquiaguillo_LP,,,,,1.0
 2023-10-08,Circuata,,,,,12.3
+2023-10-08,Ckochas,22.1,9.1,,,
 2023-10-08,Cobija,28.0,28.0,83.0,83.0,
 2023-10-08,Cochabamba,22.0,22.0,46.1,46.1,
 2023-10-08,Coimata,33.0,7.0,,,
@@ -58429,6 +58608,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-08,El Alto,11.0,11.0,70.8,70.8,
 2023-10-08,El Belen,21.0,5.0,,,
 2023-10-08,El Tejar (Tarija),25.8,10.3,,,
+2023-10-08,El Villar,19.0,7.0,,,
 2023-10-08,Guanay_H (GPRS),,,,,4.0
 2023-10-08,Hichucota,19.0,2.0,,,
 2023-10-08,Huarisuyo (GPRS),21.31,0.14,98.7,12.01,
@@ -58446,6 +58626,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-08,Mizque - SDC (GPRS),28.28,14.95,71.87,35.42,
 2023-10-08,Molle Molle,,13.3,,,23.9
 2023-10-08,Okinawa I,,,,,8.3
+2023-10-08,Oronkota PTI,20.1,14.0,,,
+2023-10-08,Padilla,22.0,8.0,,,
 2023-10-08,Pailon - Pozo del Tigre (GPRS),27.1,20.06,91.9,53.54,0.6
 2023-10-08,Palca_LP,23.5,9.0,,,0.1
 2023-10-08,Palos Blancos_M (GPRS),,,,,0.1
@@ -58488,6 +58670,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-08,San Pablo de Lipez,17.0,-5.2,,,
 2023-10-08,San Pedro - Río Victoria (GPRS),21.75,19.05,92.0,73.41,17.0
 2023-10-08,San Pedro - San Antonio (GPRS),22.11,18.45,91.6,77.2,1.0
+2023-10-08,San Pedro de Buena Vista,21.0,7.8,,,
 2023-10-08,San Pedro de Buena Vista (GPRS),27.17,12.59,84.5,38.31,5.9
 2023-10-08,San Roque - El Alto (GPRS),22.19,4.64,93.8,13.93,
 2023-10-08,Santa Ana - Yacuma,28.0,28.0,73.6,73.6,
@@ -58500,6 +58683,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-08,Sucre SENAMHI,23.5,10.2,,,
 2023-10-08,Sunjani (GPRS),16.5,4.16,91.8,44.53,8.5
 2023-10-08,Tacagua_M (GPRS),20.04,1.93,37.85,4.01,
+2023-10-08,Talula_Tako Tako,26.0,11.0,,,
+2023-10-08,Tarabuco,19.4,9.4,,,
 2023-10-08,Tarata,31.8,12.5,,,
 2023-10-08,Tarija,25.0,8.0,86.5,27.4,
 2023-10-08,Taruma,,,,,16.4
@@ -58524,6 +58709,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-08,Vivero Chimboco - SDC (GPRS),28.55,12.88,70.75,25.66,
 2023-10-08,Vivero Viloma - SDC (GPRS),24.86,12.76,76.04,11.29,
 2023-10-08,Yesera Norte,,,,,3.7
+2023-10-08,Yocalla,26.3,8.1,,,
+2023-10-08,Ñoquejza,20.1,8.2,,,
 2023-10-09,4 Esquinas (GPRS),14.95,3.07,,,
 2023-10-09,Acasio,32.0,7.2,,,
 2023-10-09,Achiri,23.5,-5.0,,,
@@ -58534,6 +58721,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-09,Apolo_M (GPRS),,,,,0.1
 2023-10-09,Arani,28.0,16.0,,,
 2023-10-09,Aroma (GPRS),6.47,6.47,11.33,11.33,
+2023-10-09,Ayoma,28.1,8.2,,,
+2023-10-09,Caiza D,23.0,6.4,,,
 2023-10-09,Camata,22.0,17.5,,,5.5
 2023-10-09,Camiri,,,67.2,67.2,
 2023-10-09,Carabuco,,7.5,,,
@@ -58548,6 +58737,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-09,Chua Cocani_M (GPRS),19.46,6.24,85.4,38.09,
 2023-10-09,Chuqui Chuqui,30.0,18.0,,,
 2023-10-09,Chuquiago,33.2,7.0,,,
+2023-10-09,Ckochas,23.5,7.1,,,
 2023-10-09,Cobija,,,87.8,87.8,
 2023-10-09,Cobija Aeropuerto,,,,,0.7
 2023-10-09,Cochabamba,20.0,20.0,52.2,52.2,
@@ -58566,6 +58756,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-09,El Alto,10.0,10.0,70.6,70.6,
 2023-10-09,El Belen,18.4,3.0,,,
 2023-10-09,El Tejar (Tarija),28.8,8.2,,,
+2023-10-09,El Villar,20.0,9.0,,,
 2023-10-09,Guajara-Mirim - Guayaramerín,,,,,0.6
 2023-10-09,Guanay_H (GPRS),,,,,2.0
 2023-10-09,Guayaramerin Aeropuerto,,,,,0.6
@@ -58581,6 +58772,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-09,Ixiamas_M (GPRS),,,,,24.9
 2023-10-09,Jesús de Machaca_M (GPRS),21.31,0.27,92.8,15.94,
 2023-10-09,La Asunta,28.0,17.0,,,
+2023-10-09,La Barranca  (Chuquisaca),24.0,7.0,,,
 2023-10-09,La Merced,30.0,13.0,,,0.3
 2023-10-09,La Violeta,29.0,14.0,,,
 2023-10-09,Luribay,29.0,12.0,,,
@@ -58588,8 +58780,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-09,Magdalena Aeropuerto,,,,,20.0
 2023-10-09,Mizque - SDC (GPRS),30.36,10.25,84.6,28.52,
 2023-10-09,Molle Molle,,11.7,,,23.9
+2023-10-09,Oronkota PTI,33.0,15.5,,,
 2023-10-09,Oruro,,,61.1,61.1,
 2023-10-09,Oruro (GPRS),24.0,9.0,61.1,61.1,
+2023-10-09,Padilla,26.0,10.0,,,
 2023-10-09,Pailon - Pozo del Tigre (GPRS),34.2,23.06,82.3,38.5,
 2023-10-09,Palca_LP,23.5,8.5,,,
 2023-10-09,Pampas de Lequezana,23.6,14.4,,,
@@ -58636,6 +58830,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-09,San Pablo de Lipez,16.2,-4.1,,,
 2023-10-09,San Pedro - Río Victoria (GPRS),29.26,20.39,93.5,61.27,
 2023-10-09,San Pedro - San Antonio (GPRS),,,,,1.6
+2023-10-09,San Pedro de Buena Vista,20.0,8.0,,,
 2023-10-09,San Pedro de Buena Vista (GPRS),30.06,13.61,78.59,26.8,
 2023-10-09,San Ramón Aeropuerto,,,,,21.6
 2023-10-09,San Roque - El Alto (GPRS),20.4,3.78,95.7,27.9,
@@ -58650,6 +58845,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-09,Sucre SENAMHI,26.5,13.0,,,
 2023-10-09,Sunjani (GPRS),15.38,3.06,93.8,54.76,
 2023-10-09,Tacagua_M (GPRS),22.92,3.17,50.12,8.27,
+2023-10-09,Talula_Tako Tako,26.5,11.0,,,
+2023-10-09,Tarabuco,20.3,8.5,,,
 2023-10-09,Tarata,28.5,12.5,,,
 2023-10-09,Tarija,,,58.1,58.1,
 2023-10-09,Templo (GPRS),11.91,2.51,92.5,63.77,
@@ -58671,6 +58868,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-09,Vivero Viloma - SDC (GPRS),24.68,17.65,47.05,5.1,
 2023-10-09,Yacuiba,,,64.6,64.6,
 2023-10-09,Yesera Norte,26.0,7.0,,,
+2023-10-09,Yocalla,27.2,7.2,,,
+2023-10-09,Ñoquejza,20.2,6.2,,,
 2023-10-10,4 Esquinas (GPRS),20.12,-0.52,,,0.4
 2023-10-10,Acasio,36.1,14.1,,,
 2023-10-10,Achiri,24.5,0.0,,,
@@ -58683,6 +58882,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-10,Arani,32.0,21.0,,,
 2023-10-10,Aroma (GPRS),6.67,6.67,14.75,14.75,
 2023-10-10,Atulcha (GPRS),18.66,1.02,16.35,3.26,
+2023-10-10,Ayoma,30.4,5.1,,,
+2023-10-10,Caiza D,24.0,6.0,,,
 2023-10-10,Camata,32.0,17.0,,,
 2023-10-10,Camiri,22.0,22.0,68.2,68.2,
 2023-10-10,Carabuco,,6.3,,,
@@ -58698,6 +58899,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-10,Chua Cocani_M (GPRS),19.6,3.95,80.7,30.51,
 2023-10-10,Chuqui Chuqui,40.0,19.0,,,
 2023-10-10,Chuquiago,36.2,6.5,,,
+2023-10-10,Ckochas,22.1,7.0,,,
 2023-10-10,Cobija,23.0,23.0,93.2,93.2,
 2023-10-10,Cochabamba,21.0,21.0,40.0,40.0,
 2023-10-10,Coimata,32.0,8.0,,,
@@ -58715,6 +58917,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-10,El Alto,11.0,11.0,66.1,66.1,
 2023-10-10,El Belen,19.8,6.4,,,
 2023-10-10,El Tejar (Tarija),,10.9,,,
+2023-10-10,El Villar,23.5,9.0,,,
 2023-10-10,Guajara-Mirim - Guayaramerín,,,,,1.8
 2023-10-10,Guayaramerin Aeropuerto,,,,,1.8
 2023-10-10,Guayaramerin_M (GPRS),,,,,2.7
@@ -58729,6 +58932,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-10,Ixiamas_M (GPRS),,,,,0.1
 2023-10-10,Jesús de Machaca_M (GPRS),22.87,-2.67,90.5,17.77,
 2023-10-10,La Asunta,29.5,18.0,,,
+2023-10-10,La Barranca  (Chuquisaca),29.5,7.5,,,
 2023-10-10,La Merced,35.0,12.0,,,
 2023-10-10,La Violeta,32.0,16.0,,,
 2023-10-10,Luribay,32.0,13.0,,,
@@ -58736,8 +58940,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-10,Mizque - SDC (GPRS),33.92,10.36,79.81,14.3,
 2023-10-10,Molle Molle,,13.3,,,25.0
 2023-10-10,Orinoca - UTO (GPRS),23.5,3.11,61.04,8.17,
+2023-10-10,Oronkota PTI,39.2,17.1,,,
 2023-10-10,Oruro,10.0,10.0,70.6,70.6,
 2023-10-10,Oruro (GPRS),10.0,10.0,70.6,70.6,
+2023-10-10,Padilla,33.0,8.0,,,
 2023-10-10,Pailon - Pozo del Tigre (GPRS),37.01,28.15,68.14,39.82,
 2023-10-10,Palca_LP,24.5,8.5,,,
 2023-10-10,Pampas de Lequezana,20.4,15.6,,,
@@ -58781,6 +58987,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-10,San Pablo de Lipez,13.4,-3.0,,,
 2023-10-10,San Pedro - Río Victoria (GPRS),34.24,24.63,84.5,55.1,
 2023-10-10,San Pedro - San Antonio (GPRS),33.88,24.4,87.1,58.09,
+2023-10-10,San Pedro de Buena Vista,19.9,7.0,,,
 2023-10-10,San Pedro de Buena Vista (GPRS),34.36,17.49,48.71,8.28,
 2023-10-10,San Roque - El Alto (GPRS),22.76,4.61,83.2,24.56,
 2023-10-10,Santa Ana - Yacuma,24.0,24.0,82.6,82.6,
@@ -58793,6 +59000,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-10,Sucre SENAMHI,32.0,12.0,,,
 2023-10-10,Sunjani (GPRS),21.16,1.23,91.0,14.63,0.4
 2023-10-10,Tacagua_M (GPRS),24.31,5.0,29.49,5.54,
+2023-10-10,Talula_Tako Tako,32.0,9.0,,,
+2023-10-10,Tarabuco,27.5,9.3,,,
 2023-10-10,Tarata,32.8,11.2,,,
 2023-10-10,Tarija,16.0,16.0,58.6,58.6,
 2023-10-10,Templo (GPRS),17.96,3.28,80.6,19.9,0.2
@@ -58814,6 +59023,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-10,Vivero Viloma - SDC (GPRS),30.59,13.46,50.61,0.94,
 2023-10-10,Yacuiba,27.0,27.0,53.9,53.9,
 2023-10-10,Yesera Norte,33.0,8.0,,,
+2023-10-10,Yocalla,26.4,6.3,,,
+2023-10-10,Ñoquejza,22.1,5.1,,,
 2023-10-11,4 Esquinas (GPRS),19.11,15.31,,,0.1
 2023-10-11,Acasio,38.0,15.0,,,
 2023-10-11,Achiri,24.5,-1.0,,,
@@ -58825,7 +59036,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-11,Arani,34.0,20.0,,,
 2023-10-11,Aroma (GPRS),24.67,8.59,8.05,2.55,
 2023-10-11,Atulcha (GPRS),19.74,9.58,10.48,2.72,
+2023-10-11,Ayoma,31.2,5.2,,,
 2023-10-11,Azurduy,,,,,1.0
+2023-10-11,Caiza D,30.2,5.5,,,
 2023-10-11,Camata,33.0,18.0,,,
 2023-10-11,Camiri,38.0,24.0,64.4,27.2,
 2023-10-11,Carabuco,,5.0,,,
@@ -58837,6 +59050,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-11,Chua Cocani_M (GPRS),21.96,18.43,33.7,23.62,
 2023-10-11,Chuqui Chuqui,41.0,20.0,,,
 2023-10-11,Chuquiago,37.1,3.0,,,
+2023-10-11,Ckochas,22.1,9.1,,,2.0
 2023-10-11,Cobija,39.0,28.0,78.2,39.5,
 2023-10-11,Cochabamba,35.0,21.0,40.0,13.4,
 2023-10-11,Coimata,31.0,9.0,,,
@@ -58851,6 +59065,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-11,Desaguadero_M,19.38,17.1,44.65,23.47,
 2023-10-11,El Alto,21.0,10.0,53.2,13.2,
 2023-10-11,El Belen,21.4,0.4,,,
+2023-10-11,El Villar,30.5,13.8,,,
 2023-10-11,Hichucota,21.0,1.0,,,
 2023-10-11,Huarisuyo (GPRS),23.59,18.57,26.89,19.66,
 2023-10-11,Huayrocondo,23.5,0.2,,,
@@ -58859,6 +59074,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-11,Jesús de Machaca_M (GPRS),23.46,19.54,28.93,13.34,
 2023-10-11,Jihuacuta,,,,,0.1
 2023-10-11,La Asunta,31.0,22.0,,,
+2023-10-11,La Barranca  (Chuquisaca),30.5,9.5,,,
 2023-10-11,La Merced,35.0,14.0,,,
 2023-10-11,La Violeta,31.0,16.0,,,
 2023-10-11,Luribay,32.0,14.0,,,
@@ -58866,8 +59082,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-11,Mizque - SDC (GPRS),34.86,33.52,13.77,12.83,
 2023-10-11,Molle Molle,,14.4,,,24.4
 2023-10-11,Orinoca - UTO (GPRS),23.4,11.82,11.09,4.76,
+2023-10-11,Oronkota PTI,39.5,20.3,,,
 2023-10-11,Oruro,26.0,10.0,65.8,20.9,
 2023-10-11,Oruro (GPRS),26.0,10.0,65.8,20.9,
+2023-10-11,Padilla,32.0,12.0,,,
 2023-10-11,Pailon - Pozo del Tigre (GPRS),37.85,36.23,44.9,38.66,
 2023-10-11,Palca_LP,27.5,8.0,,,
 2023-10-11,Pampas de Lequezana,21.2,15.1,,,3.2
@@ -58908,6 +59126,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-11,San Pablo de Lipez,14.8,-4.1,,,
 2023-10-11,San Pedro - Río Victoria (GPRS),35.81,33.9,65.08,54.55,
 2023-10-11,San Pedro - San Antonio (GPRS),35.12,33.72,63.14,57.36,
+2023-10-11,San Pedro de Buena Vista,20.0,6.8,,,
 2023-10-11,San Pedro de Buena Vista (GPRS),33.88,30.87,12.03,8.15,
 2023-10-11,San Roque - El Alto (GPRS),23.95,3.99,82.0,15.27,
 2023-10-11,Santa Ana - Yacuma,39.0,28.0,73.6,33.1,
@@ -58919,6 +59138,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-11,Sucre SENAMHI,32.8,13.0,,,
 2023-10-11,Sunjani (GPRS),20.48,14.66,71.05,26.0,
 2023-10-11,Tacagua_M (GPRS),24.22,20.62,5.08,3.33,
+2023-10-11,Talula_Tako Tako,33.0,11.0,,,
+2023-10-11,Tarabuco,27.3,12.4,,,
 2023-10-11,Tarata,34.8,11.8,,,
 2023-10-11,Tarija,32.0,19.0,59.3,27.1,
 2023-10-11,Templo (GPRS),17.28,13.65,77.77,27.19,
@@ -58940,6 +59161,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-11,Vivero Viloma - SDC (GPRS),31.56,30.14,16.78,8.71,
 2023-10-11,Yacuiba,39.0,32.0,58.5,36.9,
 2023-10-11,Yesera Norte,31.0,12.7,,,
+2023-10-11,Yocalla,28.5,10.1,,,
+2023-10-11,Ñoquejza,24.2,6.1,,,
 2023-10-12,4 Esquinas (GPRS),17.3,13.99,,,
 2023-10-12,Acasio,34.1,17.1,,,
 2023-10-12,Achiri,23.5,-1.0,,,
@@ -58950,6 +59173,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-12,Apolo,25.0,25.0,56.9,56.9,
 2023-10-12,Arani,28.0,19.0,,,
 2023-10-12,Aroma (GPRS),23.66,8.78,36.96,5.4,
+2023-10-12,Ayoma,28.1,5.4,,,
+2023-10-12,Caiza D,31.0,6.4,,,
 2023-10-12,Camata,35.0,17.5,,,
 2023-10-12,Camiri,31.0,21.0,52.4,33.0,
 2023-10-12,Carabuco,,6.5,,,
@@ -58963,6 +59188,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-12,Chua Cocani_M (GPRS),20.66,15.35,44.83,29.35,0.1
 2023-10-12,Chuqui Chuqui,37.0,24.0,,,
 2023-10-12,Chuquiago,36.5,11.0,,,
+2023-10-12,Ckochas,28.5,12.1,,,
 2023-10-12,Cobija,36.0,29.0,74.1,46.8,
 2023-10-12,Cochabamba,31.0,22.0,40.3,20.7,
 2023-10-12,Coimata,32.0,10.0,,,
@@ -58978,6 +59204,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-12,El Alto,19.0,10.0,75.7,21.9,
 2023-10-12,El Belen,19.2,2.6,,,
 2023-10-12,El Tejar (Tarija),23.5,,,,
+2023-10-12,El Villar,31.5,16.5,,,
 2023-10-12,Guayaramerin_M (GPRS),,,,,16.8
 2023-10-12,Hichucota,20.0,1.0,,,
 2023-10-12,Huarisuyo (GPRS),18.97,15.94,46.44,35.95,
@@ -58987,14 +59214,17 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-12,Jesús de Machaca_M (GPRS),20.07,17.93,35.44,27.8,
 2023-10-12,Jihuacuta,,,,,0.2
 2023-10-12,La Asunta,33.0,21.5,,,
+2023-10-12,La Barranca  (Chuquisaca),26.5,13.5,,,
 2023-10-12,La Merced,35.0,16.0,,,
 2023-10-12,La Violeta,32.0,15.0,,,
 2023-10-12,Luribay,31.0,13.0,,,
 2023-10-12,Magdalena,38.0,27.0,88.0,44.6,
 2023-10-12,Mizque - SDC (GPRS),31.03,30.19,25.26,23.72,
 2023-10-12,Molle Molle,,13.9,,,25.5
+2023-10-12,Oronkota PTI,36.0,15.0,,,
 2023-10-12,Oruro,24.0,10.0,65.8,32.8,
 2023-10-12,Oruro (GPRS),24.0,10.0,65.8,32.8,
+2023-10-12,Padilla,30.0,17.0,,,
 2023-10-12,Pailon - Pozo del Tigre (GPRS),32.12,30.04,45.76,41.36,
 2023-10-12,Palca_LP,24.0,8.5,,,
 2023-10-12,Pampas de Lequezana,23.6,12.0,,,
@@ -59036,6 +59266,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-12,San Pablo de Lipez,15.2,-3.0,,,
 2023-10-12,San Pedro - Río Victoria (GPRS),31.63,30.66,62.62,55.31,
 2023-10-12,San Pedro - San Antonio (GPRS),31.93,29.33,55.73,49.95,
+2023-10-12,San Pedro de Buena Vista,18.0,4.4,,,
 2023-10-12,San Pedro de Buena Vista (GPRS),31.86,26.51,33.06,19.3,
 2023-10-12,San Roque - El Alto (GPRS),22.51,16.32,40.09,24.13,
 2023-10-12,Santa Ana - Yacuma,38.0,29.0,65.4,39.2,
@@ -59047,6 +59278,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-12,Sucre SENAMHI,28.5,16.2,,,
 2023-10-12,Sunjani (GPRS),16.36,13.5,64.41,46.47,
 2023-10-12,Tacagua_M (GPRS),23.14,19.4,23.91,10.03,
+2023-10-12,Talula_Tako Tako,28.0,16.0,,,
+2023-10-12,Tarabuco,23.4,11.5,,,
 2023-10-12,Tarata,30.0,12.8,,,
 2023-10-12,Tarija,22.0,14.0,71.3,43.1,
 2023-10-12,Templo (GPRS),13.19,10.35,70.48,55.37,
@@ -59069,6 +59302,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-12,Vivero Viloma - SDC (GPRS),30.12,16.45,54.37,21.7,
 2023-10-12,Yacuiba,22.0,17.0,71.8,52.4,
 2023-10-12,Yesera Norte,25.0,12.0,,,
+2023-10-12,Yocalla,29.1,11.0,,,
+2023-10-12,Ñoquejza,25.1,7.2,,,
 2023-10-13,4 Esquinas (GPRS),17.25,14.37,,,
 2023-10-13,Acasio,37.1,16.0,,,
 2023-10-13,Achiri,23.0,-1.5,,,
@@ -59080,7 +59315,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-13,Arani,33.0,22.0,,,
 2023-10-13,Aroma (GPRS),24.79,7.8,15.61,3.38,
 2023-10-13,Ascencion de Guarayos,25.0,25.0,60.6,60.6,
+2023-10-13,Ayoma,30.2,3.1,,,
 2023-10-13,Cachimayu,,,,,1.8
+2023-10-13,Caiza D,32.0,6.8,,,
 2023-10-13,Camata,34.0,18.0,,,
 2023-10-13,Camiri,25.0,17.0,47.9,25.5,
 2023-10-13,Carabuco,,7.3,,,
@@ -59095,6 +59332,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-13,Chua Cocani_M (GPRS),17.31,2.97,80.3,40.61,
 2023-10-13,Chuqui Chuqui,38.0,22.0,,,
 2023-10-13,Chuquiago,36.0,4.2,,,
+2023-10-13,Ckochas,23.1,9.5,,,
 2023-10-13,Cobija,34.0,27.0,82.9,49.2,
 2023-10-13,Cobija Aeropuerto,,,,,0.2
 2023-10-13,Cochabamba,32.0,23.0,40.6,14.8,
@@ -59111,6 +59349,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-13,El Alto,19.0,10.0,75.8,19.1,
 2023-10-13,El Belen,17.0,4.6,,,
 2023-10-13,El Tejar (Tarija),24.5,10.2,,,
+2023-10-13,El Villar,25.0,6.5,,,
 2023-10-13,Guajara-Mirim - Guayaramerín,,,,,25.0
 2023-10-13,Guayaramerin Aeropuerto,,,,,25.0
 2023-10-13,Guayaramerin_M (GPRS),,,,,5.9
@@ -59122,14 +59361,17 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-13,Jesús de Machaca_M (GPRS),19.43,18.19,37.14,21.9,0.3
 2023-10-13,Jihuacuta,,,,,2.2
 2023-10-13,La Asunta,33.0,22.0,,,
+2023-10-13,La Barranca  (Chuquisaca),28.0,11.5,,,
 2023-10-13,La Merced,23.0,11.0,,,
 2023-10-13,La Violeta,33.0,16.0,,,
 2023-10-13,Luribay,30.0,14.0,,,
 2023-10-13,Magdalena,31.0,28.0,83.0,61.9,
 2023-10-13,Mizque - SDC (GPRS),31.51,28.25,33.58,26.04,
 2023-10-13,Molle Molle,,13.9,,,24.4
+2023-10-13,Oronkota PTI,36.2,15.5,,,
 2023-10-13,Oruro,25.0,10.0,70.6,25.5,
 2023-10-13,Oruro (GPRS),25.0,10.0,70.6,25.5,
+2023-10-13,Padilla,24.0,10.0,,,
 2023-10-13,Pailon - Pozo del Tigre (GPRS),26.58,25.08,42.2,38.96,
 2023-10-13,Palca_LP,24.5,9.0,,,
 2023-10-13,Pampas de Lequezana,20.5,10.1,,,
@@ -59173,6 +59415,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-13,San Pablo de Lipez,17.2,-2.1,,,
 2023-10-13,San Pedro - Río Victoria (GPRS),25.6,23.74,56.72,50.02,
 2023-10-13,San Pedro - San Antonio (GPRS),24.4,23.82,51.91,48.65,
+2023-10-13,San Pedro de Buena Vista,19.0,5.0,,,
 2023-10-13,San Pedro de Buena Vista (GPRS),30.32,27.92,25.82,8.35,1.0
 2023-10-13,San Roque - El Alto (GPRS),21.65,18.91,31.69,15.36,
 2023-10-13,Santa Ana - Yacuma,32.0,26.0,87.9,45.2,
@@ -59185,6 +59428,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-13,Sucre SENAMHI,30.0,15.0,,,
 2023-10-13,Sunjani (GPRS),18.93,16.15,57.52,28.28,
 2023-10-13,Tacagua_M (GPRS),24.88,21.09,13.22,7.62,
+2023-10-13,Talula_Tako Tako,30.1,11.6,,,
+2023-10-13,Tarabuco,25.3,10.3,,,
 2023-10-13,Tarata,32.5,12.5,,,
 2023-10-13,Tarija,23.0,10.0,66.2,32.8,
 2023-10-13,Templo (GPRS),15.58,12.26,66.03,20.4,0.3
@@ -59208,6 +59453,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-13,Vivero Viloma - SDC (GPRS),32.8,29.1,29.2,7.91,
 2023-10-13,Yacuiba,27.0,18.0,63.1,31.9,
 2023-10-13,Yesera Norte,24.0,8.0,,,
+2023-10-13,Yocalla,30.3,10.3,,,
+2023-10-13,Ñoquejza,26.2,6.1,,,
 2023-10-14,4 Esquinas (GPRS),18.23,11.49,,,
 2023-10-14,Acasio,35.0,15.0,,,
 2023-10-14,Achiri,22.5,-1.5,,,
@@ -59218,6 +59465,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-14,Alto Peñas (GPRS),17.04,14.09,47.38,38.44,
 2023-10-14,Arani,33.0,19.0,,,
 2023-10-14,Aroma (GPRS),23.43,10.46,53.05,13.21,
+2023-10-14,Ayoma,28.3,4.2,,,
+2023-10-14,Caiza D,31.0,5.0,,,
 2023-10-14,Camata,33.0,17.5,,,
 2023-10-14,Camiri,32.0,18.0,51.6,22.4,
 2023-10-14,Carabuco,,5.0,,,
@@ -59228,6 +59477,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-14,Chua Cocani_M (GPRS),19.61,14.17,46.51,29.08,
 2023-10-14,Chuqui Chuqui,37.0,19.0,,,
 2023-10-14,Chuquiago,35.1,7.6,,,
+2023-10-14,Ckochas,21.1,7.5,,,
 2023-10-14,Cobija,31.0,24.0,87.8,61.9,
 2023-10-14,Cobija Aeropuerto,,,,,22.7
 2023-10-14,Cochabamba,31.0,21.0,40.0,19.0,
@@ -59244,6 +59494,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-14,El Alto,19.0,10.0,61.4,23.9,
 2023-10-14,El Belen,19.2,0.4,,,
 2023-10-14,El Tejar (Tarija),,6.9,,,
+2023-10-14,El Villar,20.2,6.0,,,
 2023-10-14,Hichucota,20.0,-2.0,,,
 2023-10-14,Huarisuyo (GPRS),20.0,14.23,43.57,32.59,4.0
 2023-10-14,Huaylipaya,,,,,42.5
@@ -59254,13 +59505,16 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-14,Jesús de Machaca_M (GPRS),18.88,11.64,57.41,28.98,
 2023-10-14,Jihuacuta,,,,,1.3
 2023-10-14,La Asunta,30.0,21.5,,,
+2023-10-14,La Barranca  (Chuquisaca),27.0,8.0,,,
 2023-10-14,La Merced,25.0,11.0,,,
 2023-10-14,La Violeta,31.0,12.0,,,
 2023-10-14,Luribay,31.0,12.0,,,
 2023-10-14,Mizque - SDC (GPRS),33.1,29.25,25.61,18.91,
 2023-10-14,Molle Molle,,13.3,,,25.0
+2023-10-14,Oronkota PTI,38.8,13.1,,,
 2023-10-14,Oruro,22.0,18.0,45.0,28.5,
 2023-10-14,Oruro (GPRS),22.0,18.0,45.0,28.5,
+2023-10-14,Padilla,31.0,8.0,,,
 2023-10-14,Pailon - Pozo del Tigre (GPRS),35.57,32.78,37.2,34.08,
 2023-10-14,Palca_LP,25.5,8.5,,,
 2023-10-14,Pampas de Lequezana,24.1,13.3,,,
@@ -59295,6 +59549,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-14,San Pablo de Lipez,18.0,3.0,,,
 2023-10-14,San Pedro - Río Victoria (GPRS),31.1,28.73,53.92,47.45,
 2023-10-14,San Pedro - San Antonio (GPRS),32.18,29.64,54.96,46.61,
+2023-10-14,San Pedro de Buena Vista,19.8,4.4,,,
 2023-10-14,San Pedro de Buena Vista (GPRS),33.12,28.28,20.29,9.62,
 2023-10-14,San Roque - El Alto (GPRS),19.79,15.19,44.53,31.33,
 2023-10-14,Santa Ana - Yacuma,35.0,23.0,56.4,35.8,
@@ -59306,6 +59561,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-14,Sucre SENAMHI,28.0,13.0,,,
 2023-10-14,Sunjani (GPRS),19.13,11.56,66.32,27.38,
 2023-10-14,Tacagua_M (GPRS),23.48,19.56,21.57,14.33,
+2023-10-14,Talula_Tako Tako,29.0,9.4,,,
+2023-10-14,Tarabuco,25.6,8.4,,,
 2023-10-14,Tarata,31.8,11.5,,,
 2023-10-14,Tarija,28.0,13.0,47.1,26.1,
 2023-10-14,Templo (GPRS),15.68,7.89,69.76,25.18,
@@ -59327,6 +59584,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-14,Vivero Chimboco - SDC (GPRS),29.51,25.05,29.23,18.66,
 2023-10-14,Vivero Viloma - SDC (GPRS),28.65,25.83,24.81,18.73,
 2023-10-14,Yesera Norte,25.0,5.0,,,
+2023-10-14,Yocalla,30.1,12.4,,,
+2023-10-14,Ñoquejza,20.1,6.2,,,
 2023-10-15,4 Esquinas (GPRS),16.3,13.51,,,
 2023-10-15,Acasio,33.1,14.1,,,
 2023-10-15,Achiri,22.5,-1.0,,,
@@ -59336,6 +59595,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-15,Alto Peñas (GPRS),17.93,15.85,37.48,31.3,
 2023-10-15,Arani,29.0,20.0,,,
 2023-10-15,Aroma (GPRS),24.23,11.82,44.41,9.86,
+2023-10-15,Ayoma,28.1,3.1,,,
+2023-10-15,Caiza D,32.0,5.6,,,
 2023-10-15,Camata,32.0,18.0,,,
 2023-10-15,Camiri,38.0,22.0,52.6,22.2,
 2023-10-15,Carabuco,,3.5,,,
@@ -59346,6 +59607,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-15,Chua Cocani_M (GPRS),19.67,16.92,34.6,24.84,
 2023-10-15,Chuqui Chuqui,37.0,20.0,,,
 2023-10-15,Chuquiago,36.1,11.2,,,
+2023-10-15,Ckochas,25.5,8.5,,,
 2023-10-15,Cobija,35.0,26.0,88.0,52.5,
 2023-10-15,Cochabamba,31.0,22.0,32.8,17.5,
 2023-10-15,Coimata,33.0,8.0,,,
@@ -59361,6 +59623,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-15,El Alto,19.0,9.0,70.4,16.2,
 2023-10-15,El Belen,17.6,-3.0,,,
 2023-10-15,El Tejar (Tarija),33.2,9.9,,,
+2023-10-15,El Villar,26.5,10.0,,,
 2023-10-15,Hichucota,19.0,-2.0,,,
 2023-10-15,Huancane Corapata_M (GPRS),,,,,0.9
 2023-10-15,Huarisuyo (GPRS),19.6,16.37,33.07,24.15,0.3
@@ -59375,6 +59638,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-15,Luribay,33.0,12.0,,,
 2023-10-15,Mizque - SDC (GPRS),32.0,29.53,19.19,13.68,
 2023-10-15,Molle Molle,,14.4,,,25.5
+2023-10-15,Oronkota PTI,37.4,18.9,,,
+2023-10-15,Padilla,32.0,7.0,,,
 2023-10-15,Pailon - Pozo del Tigre (GPRS),38.01,35.83,42.36,35.15,
 2023-10-15,Palca_LP,24.0,5.5,,,
 2023-10-15,Pampas de Lequezana,21.6,11.5,,,
@@ -59409,6 +59674,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-15,San Pablo de Lipez,19.2,4.1,,,
 2023-10-15,San Pedro - Río Victoria (GPRS),35.04,33.06,58.4,53.15,
 2023-10-15,San Pedro - San Antonio (GPRS),34.74,33.14,57.51,48.62,
+2023-10-15,San Pedro de Buena Vista,20.0,3.2,,,
 2023-10-15,San Pedro de Buena Vista (GPRS),31.98,28.1,20.13,13.34,
 2023-10-15,San Roque - El Alto (GPRS),21.34,17.11,30.16,20.91,
 2023-10-15,Santa Ana - Yacuma,39.0,26.0,73.3,30.8,
@@ -59419,6 +59685,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-15,Sucre SENAMHI,28.5,14.0,,,
 2023-10-15,Sunjani (GPRS),18.0,15.65,45.83,25.53,
 2023-10-15,Tacagua_M (GPRS),23.7,21.68,17.79,5.53,
+2023-10-15,Talula_Tako Tako,28.8,11.0,,,
+2023-10-15,Tarabuco,24.4,9.5,,,
 2023-10-15,Tarata,30.0,11.0,,,
 2023-10-15,Tarija,32.0,14.0,76.2,22.4,
 2023-10-15,Templo (GPRS),14.2,12.22,52.53,31.45,1.4
@@ -59438,6 +59706,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-15,Vivero Chimboco - SDC (GPRS),28.04,25.07,24.43,11.65,
 2023-10-15,Vivero Viloma - SDC (GPRS),29.31,27.24,23.24,15.91,
 2023-10-15,Yesera Norte,30.0,8.0,,,
+2023-10-15,Yocalla,29.4,10.3,,,
+2023-10-15,Ñoquejza,19.2,5.1,,,
 2023-10-16,4 Esquinas (GPRS),16.92,13.27,,,
 2023-10-16,Acasio,32.1,8.0,,,
 2023-10-16,Achiri,22.0,0.0,,,
@@ -59448,6 +59718,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-16,Apolo,28.0,28.0,50.8,50.8,
 2023-10-16,Arani,29.0,14.0,,,
 2023-10-16,Aroma (GPRS),23.46,10.53,50.1,5.97,
+2023-10-16,Ayoma,29.4,6.3,,,
+2023-10-16,Caiza D,31.0,5.8,,,
 2023-10-16,Camata,30.0,17.5,,,
 2023-10-16,Camiri,40.0,24.0,56.7,18.8,
 2023-10-16,Carabuco,,5.0,,,
@@ -59458,6 +59730,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-16,Chua Cocani_M (GPRS),20.65,14.37,40.65,26.24,
 2023-10-16,Chuqui Chuqui,39.0,20.0,,,
 2023-10-16,Chuquiago,35.0,10.0,,,
+2023-10-16,Ckochas,24.1,8.1,,,
 2023-10-16,Cobija,31.0,25.0,82.8,65.4,
 2023-10-16,Cochabamba,31.0,21.0,34.9,20.7,
 2023-10-16,Coimata,35.0,9.0,,,
@@ -59473,6 +59746,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-16,El Alto,18.0,8.0,49.5,18.9,
 2023-10-16,El Belen,18.6,-1.0,,,
 2023-10-16,El Tejar (Tarija),31.3,10.7,,,
+2023-10-16,El Villar,31.0,14.0,,,
 2023-10-16,Guajara-Mirim - Guayaramerín,,,,,14.1
 2023-10-16,Guayaramerin Aeropuerto,,,,,14.1
 2023-10-16,Guayaramerin_M (GPRS),,,,,15.1
@@ -59485,14 +59759,17 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-16,Jesús de Machaca_M (GPRS),19.97,18.12,27.01,18.67,
 2023-10-16,Jihuacuta,,,,,3.2
 2023-10-16,La Asunta,33.0,21.0,,,
+2023-10-16,La Barranca  (Chuquisaca),29.0,9.0,,,
 2023-10-16,La Merced,34.0,12.0,,,
 2023-10-16,La Violeta,32.0,14.0,,,
 2023-10-16,Luribay,32.0,12.0,,,
 2023-10-16,Magdalena,36.0,26.0,87.9,44.0,
 2023-10-16,Mizque - SDC (GPRS),31.45,29.57,21.53,18.18,
 2023-10-16,Molle Molle,,13.9,,,24.4
+2023-10-16,Oronkota PTI,37.0,16.8,,,
 2023-10-16,Oruro,23.0,9.0,70.4,23.0,
 2023-10-16,Oruro (GPRS),23.0,9.0,70.4,23.0,
+2023-10-16,Padilla,33.0,10.0,,,
 2023-10-16,Pailon - Pozo del Tigre (GPRS),38.44,36.42,41.58,33.66,
 2023-10-16,Palca_LP,24.0,6.0,,,
 2023-10-16,Pampas de Lequezana,20.4,12.6,,,
@@ -59535,6 +59812,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-16,San Pablo de Lipez,20.1,6.1,,,
 2023-10-16,San Pedro - Río Victoria (GPRS),36.0,34.12,62.7,53.55,
 2023-10-16,San Pedro - San Antonio (GPRS),35.77,34.27,62.22,52.39,
+2023-10-16,San Pedro de Buena Vista,21.0,5.0,,,
 2023-10-16,San Pedro de Buena Vista (GPRS),31.84,25.91,17.77,11.19,
 2023-10-16,San Ramón Aeropuerto,,,,,7.8
 2023-10-16,San Roque - El Alto (GPRS),20.25,16.85,36.83,16.97,
@@ -59547,6 +59825,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-16,Sucre SENAMHI,30.1,113.0,,,
 2023-10-16,Sunjani (GPRS),16.54,14.29,59.9,36.95,
 2023-10-16,Tacagua_M (GPRS),23.45,19.61,14.72,10.95,
+2023-10-16,Talula_Tako Tako,30.0,10.0,,,
+2023-10-16,Tarabuco,25.3,8.3,,,
 2023-10-16,Tarata,30.0,10.8,,,
 2023-10-16,Tarija,36.0,22.0,49.3,23.2,
 2023-10-16,Templo (GPRS),14.16,11.41,59.23,41.17,
@@ -59568,6 +59848,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-16,Vivero Viloma - SDC (GPRS),28.77,26.25,19.09,9.29,
 2023-10-16,Yacuiba,43.0,29.0,54.4,17.9,
 2023-10-16,Yesera Norte,33.0,12.0,,,
+2023-10-16,Yocalla,28.3,11.4,,,
+2023-10-16,Ñoquejza,20.1,7.2,,,
 2023-10-17,4 Esquinas (GPRS),14.98,9.61,,,
 2023-10-17,Acasio,29.1,14.1,,,
 2023-10-17,Achiri,21.5,-1.0,,,
@@ -59578,6 +59860,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-17,Apolo_M (GPRS),,,,,0.2
 2023-10-17,Arani,29.0,14.0,,,
 2023-10-17,Aroma (GPRS),22.13,11.06,47.91,15.67,
+2023-10-17,Ayoma,26.2,5.2,,,
+2023-10-17,Caiza D,29.0,5.5,,,
 2023-10-17,Camata,32.0,18.0,,,8.5
 2023-10-17,Camiri,34.0,24.0,68.6,33.9,
 2023-10-17,Carabuco,,6.1,,,
@@ -59590,6 +59874,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-17,Chuqui Chuqui,37.0,21.0,,,
 2023-10-17,Chuquiago,34.2,10.5,,,
 2023-10-17,Circuata,,,,,2.8
+2023-10-17,Ckochas,24.5,7.1,,,
 2023-10-17,Cobija,36.0,24.0,87.8,46.8,
 2023-10-17,Cochabamba,30.0,21.0,37.4,14.7,
 2023-10-17,Coimata,30.0,8.0,,,
@@ -59606,6 +59891,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-17,El Alto,16.0,8.0,70.6,33.2,
 2023-10-17,El Belen,17.8,2.0,,,
 2023-10-17,El Tejar (Tarija),22.8,15.9,,,
+2023-10-17,El Villar,36.0,15.5,,,
 2023-10-17,Guajara-Mirim - Guayaramerín,,,,,3.6
 2023-10-17,Guayaramerin Aeropuerto,,,,,3.6
 2023-10-17,Guayaramerin_M (GPRS),,,,,3.0
@@ -59619,14 +59905,17 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-17,Jesús de Machaca_M (GPRS),19.16,15.84,34.63,27.85,
 2023-10-17,Jihuacuta,,,,,2.1
 2023-10-17,La Asunta,32.0,20.0,,,
+2023-10-17,La Barranca  (Chuquisaca),26.0,8.5,,,
 2023-10-17,La Merced,36.0,16.0,,,
 2023-10-17,La Violeta,27.0,15.0,,,
 2023-10-17,Luribay,31.0,12.0,,,
 2023-10-17,Magdalena,35.0,27.0,78.1,52.5,
 2023-10-17,Mizque - SDC (GPRS),28.18,20.84,56.1,29.34,
 2023-10-17,Molle Molle,,13.3,,,26.7
+2023-10-17,Oronkota PTI,32.0,21.0,,,1.8
 2023-10-17,Oruro,21.0,9.0,65.6,32.5,
 2023-10-17,Oruro (GPRS),21.0,9.0,65.6,32.5,
+2023-10-17,Padilla,32.0,13.0,,,
 2023-10-17,Pailon - Pozo del Tigre (GPRS),38.12,35.97,46.4,34.05,
 2023-10-17,Palca_LP,23.5,5.5,,,
 2023-10-17,Pampas de Lequezana,22.0,8.1,,,2.0
@@ -59668,6 +59957,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-17,San Pablo de Lipez,19.2,5.2,,,
 2023-10-17,San Pedro - Río Victoria (GPRS),37.03,35.3,51.15,45.41,
 2023-10-17,San Pedro - San Antonio (GPRS),36.61,35.02,56.79,43.17,
+2023-10-17,San Pedro de Buena Vista,18.0,8.0,,,
 2023-10-17,San Pedro de Buena Vista (GPRS),25.06,14.64,76.02,27.16,
 2023-10-17,San Roque - El Alto (GPRS),19.54,14.81,51.03,27.77,
 2023-10-17,Santa Ana - Yacuma,38.0,29.0,65.4,32.6,
@@ -59679,6 +59969,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-17,Sucre SENAMHI,27.5,14.0,,,
 2023-10-17,Sunjani (GPRS),17.28,12.49,60.15,28.78,
 2023-10-17,Tacagua_M (GPRS),21.48,19.72,23.19,14.07,
+2023-10-17,Talula_Tako Tako,27.0,12.0,,,
+2023-10-17,Tarabuco,23.5,9.4,,,
 2023-10-17,Tarata,28.2,10.5,,,
 2023-10-17,Tarija,29.0,22.0,52.6,39.0,
 2023-10-17,Templo (GPRS),13.76,9.12,71.21,34.4,
@@ -59703,6 +59995,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-17,Vivero Viloma - SDC (GPRS),27.99,24.18,26.69,17.28,
 2023-10-17,Yacuiba,31.0,28.0,57.6,45.5,
 2023-10-17,Yesera Norte,28.0,15.0,,,
+2023-10-17,Yocalla,30.1,12.3,,,
+2023-10-17,Ñoquejza,18.2,6.2,,,
 2023-10-18,4 Esquinas (GPRS),13.68,11.76,,,
 2023-10-18,Acasio,29.0,13.0,,,
 2023-10-18,Achiri,18.0,1.0,,,
@@ -59716,7 +60010,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-18,Apolo_M (GPRS),,,,,30.5
 2023-10-18,Arani,26.0,18.0,,,
 2023-10-18,Aroma (GPRS),20.8,10.26,58.47,23.06,
+2023-10-18,Ayoma,23.1,9.1,,,
 2023-10-18,Boyuibe,,,,,2.0
+2023-10-18,Caiza D,22.0,5.7,,,
 2023-10-18,Camata,30.0,16.0,,,
 2023-10-18,Camiri,33.0,21.0,77.2,40.7,
 2023-10-18,Camiri Aeropuerto,,,,,2.8
@@ -59732,6 +60028,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-18,Chua Cocani_M (GPRS),17.66,16.2,35.51,31.28,
 2023-10-18,Chuqui Chuqui,36.0,20.0,,,
 2023-10-18,Chuquiago,32.2,12.5,,,4.0
+2023-10-18,Ckochas,25.1,7.5,,,11.6
 2023-10-18,Cobija,37.0,26.0,88.0,44.3,
 2023-10-18,Cochabamba,28.0,20.0,48.8,22.9,
 2023-10-18,Cochabamba Aeropuerto,,,,,1.0
@@ -59754,6 +60051,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-18,El Puente_H (GPRS),,,,,0.71
 2023-10-18,El Tejar (Tarija),30.8,15.8,,,0.5
 2023-10-18,El Villar,,,,,6.0
+2023-10-18,Guajara-Mirim - Guayaramerín,,,,,1.0
 2023-10-18,Guayaramerin Aeropuerto,,,,,1.0
 2023-10-18,Guayaramerin_M (GPRS),,,,,2.7
 2023-10-18,Hichucota,12.0,-1.0,,,
@@ -59775,6 +60073,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-18,Mizque - SDC (GPRS),29.52,27.78,25.71,22.77,
 2023-10-18,Molle Molle,,10.5,,,25.5
 2023-10-18,Muyuquiri,,,,,19.0
+2023-10-18,Oronkota PTI,33.0,17.0,,,0.5
 2023-10-18,Oruro,21.0,9.0,70.4,39.8,
 2023-10-18,Oruro (GPRS),21.0,9.0,70.4,39.8,
 2023-10-18,Padilla,,,,,4.3
@@ -59823,6 +60122,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-18,San Pablo de Lipez,18.2,7.0,,,
 2023-10-18,San Pedro - Río Victoria (GPRS),34.57,32.15,65.5,60.85,
 2023-10-18,San Pedro - San Antonio (GPRS),35.02,32.83,58.46,52.59,
+2023-10-18,San Pedro de Buena Vista,23.0,6.0,,,
 2023-10-18,San Pedro de Buena Vista (GPRS),25.2,16.28,72.46,33.27,4.3
 2023-10-18,San Roque - El Alto (GPRS),16.91,14.13,56.25,35.6,
 2023-10-18,Santa Ana - Yacuma,39.0,27.0,73.5,35.2,
@@ -59836,6 +60136,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-18,Sunjani (GPRS),13.15,10.61,58.75,48.12,
 2023-10-18,Tacagua_M (GPRS),20.37,17.17,36.28,22.21,
 2023-10-18,Talula_Tako Tako,,,,,3.7
+2023-10-18,Tarabuco,21.4,9.5,,,
 2023-10-18,Tarata,27.5,13.0,,,
 2023-10-18,Tarija,31.0,17.0,81.8,31.0,
 2023-10-18,Tarija Aeropuerto,,,,,0.8
@@ -59865,6 +60166,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-18,Vivero Viloma - SDC (GPRS),25.24,23.09,29.94,19.95,
 2023-10-18,Yacuiba,30.0,19.0,67.6,39.8,
 2023-10-18,Yesera Norte,,,,,0.3
+2023-10-18,Yocalla,29.4,11.4,,,
+2023-10-18,Ñoquejza,18.0,7.1,,,6.0
 2023-10-19,4 Esquinas (GPRS),12.17,9.0,,,0.1
 2023-10-19,Acasio,23.1,13.1,,,6.4
 2023-10-19,Achiri,18.0,0.5,,,
@@ -59876,7 +60179,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-19,Alto Peñas (GPRS),15.35,10.06,72.04,45.95,
 2023-10-19,Arani,26.0,17.0,,,
 2023-10-19,Aroma (GPRS),20.05,11.92,66.38,25.59,
+2023-10-19,Ayoma,21.3,8.3,,,7.8
 2023-10-19,Cachimayu,,,,,2.7
+2023-10-19,Caiza D,23.0,6.8,,,
 2023-10-19,Camata,29.0,17.0,,,
 2023-10-19,Camiri,29.0,22.0,68.2,48.0,
 2023-10-19,Carabuco,,6.0,,,2.7
@@ -59891,6 +60196,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-19,Chuqui Chuqui,31.0,21.0,,,
 2023-10-19,Chuquiago,31.2,13.2,,,1.0
 2023-10-19,Circuata,,,,,14.3
+2023-10-19,Ckochas,16.5,7.5,,,2.5
 2023-10-19,Cobija,38.0,29.0,73.8,39.5,
 2023-10-19,Cochabamba,27.0,19.0,42.9,24.1,
 2023-10-19,Coimata,30.0,8.0,,,16.0
@@ -59930,8 +60236,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-19,Mizque - SDC (GPRS),27.75,22.7,49.18,28.71,
 2023-10-19,Molle Molle,,12.2,,,23.3
 2023-10-19,Muyuquiri,,,,,10.0
+2023-10-19,Narvaez,,,,,22.0
+2023-10-19,Oronkota PTI,31.0,18.2,,,0.5
 2023-10-19,Oruro,19.0,10.0,81.0,42.3,
 2023-10-19,Oruro (GPRS),19.0,10.0,81.0,42.3,
+2023-10-19,Padilla,28.0,14.0,,,
 2023-10-19,Pailon - Pozo del Tigre (GPRS),38.9,29.06,80.8,34.12,
 2023-10-19,Palca_LP,19.5,8.5,,,
 2023-10-19,Palos Blancos S.(GPRS),,,,,3.2
@@ -59977,6 +60286,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-19,San Pablo de Lipez,17.2,5.4,,,
 2023-10-19,San Pedro - Río Victoria (GPRS),37.37,36.16,55.82,47.33,
 2023-10-19,San Pedro - San Antonio (GPRS),37.43,36.25,51.82,45.56,
+2023-10-19,San Pedro de Buena Vista,25.0,7.0,,,4.4
 2023-10-19,San Pedro de Buena Vista (GPRS),24.0,13.61,90.4,39.39,2.3
 2023-10-19,San Pedro de Tiquina_M (GPRS),,,,,3.8
 2023-10-19,San Roque - El Alto (GPRS),12.31,6.79,87.8,56.17,0.9
@@ -60022,6 +60332,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-19,Yacuiba,20.0,16.0,99.1,72.3,
 2023-10-19,Yacuiba Aeropuerto,,,,,0.1
 2023-10-19,Yesera Norte,,,,,3.0
+2023-10-19,Yocalla,28.3,9.1,,,2.1
+2023-10-19,Ñoquejza,17.7,8.0,,,8.0
 2023-10-19,Ñucchu,,,,,2.0
 2023-10-20,4 Esquinas (GPRS),14.74,9.43,,,
 2023-10-20,Acasio,28.0,11.0,,,8.9
@@ -60036,8 +60348,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-20,Alto Peñas (GPRS),16.08,12.11,52.81,41.15,
 2023-10-20,Arani,28.0,17.0,,,
 2023-10-20,Aroma (GPRS),20.1,8.48,87.5,28.02,
+2023-10-20,Ayoma,23.4,7.2,,,0.4
 2023-10-20,Cabaña Forestal Oruro,,,,,3.7
 2023-10-20,Cachimayu,,,,,34.0
+2023-10-20,Caiza D,22.0,6.4,,,
 2023-10-20,Camata,30.0,17.5,,,
 2023-10-20,Camiri,31.0,20.0,72.5,42.7,
 2023-10-20,Carabuco,,6.7,,,
@@ -60053,6 +60367,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-20,Chuquiago,33.2,11.5,,,2.0
 2023-10-20,Chuquiaguillo_LP,,,,,0.9
 2023-10-20,Circuata,,,,,3.2
+2023-10-20,Ckochas,16.1,7.1,,,
 2023-10-20,Cobija,37.0,28.0,78.2,47.1,
 2023-10-20,Cochabamba,28.0,19.0,51.9,21.4,
 2023-10-20,Coimata,29.0,9.0,,,2.5
@@ -60097,9 +60412,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-20,Mizque - SDC (GPRS),30.03,28.33,27.9,20.85,
 2023-10-20,Molle Molle,,13.9,,,25.0
 2023-10-20,Muyuquiri,,,,,5.0
+2023-10-20,Narvaez,,,,,2.2
+2023-10-20,Oronkota PTI,39.8,15.0,,,
 2023-10-20,Oruro,19.0,9.0,75.5,42.3,
 2023-10-20,Oruro (GPRS),19.0,9.0,75.5,42.3,
 2023-10-20,Oruro Aeropuerto,,,,,1.5
+2023-10-20,Padilla,31.0,13.0,,,
 2023-10-20,Pailon - Pozo del Tigre (GPRS),36.16,32.19,48.19,41.78,0.6
 2023-10-20,Palca_LP,23.0,9.0,,,
 2023-10-20,Pampas de Lequezana,20.1,13.3,,,3.5
@@ -60145,6 +60463,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-20,San Pablo de Lipez,17.0,4.1,,,
 2023-10-20,San Pedro - Río Victoria (GPRS),34.29,30.51,65.07,55.4,
 2023-10-20,San Pedro - San Antonio (GPRS),34.95,31.81,56.57,51.23,
+2023-10-20,San Pedro de Buena Vista,24.4,7.4,,,5.9
 2023-10-20,San Pedro de Buena Vista (GPRS),27.96,23.3,43.87,27.88,9.7
 2023-10-20,San Pedro de Tiquina_M (GPRS),,,,,10.8
 2023-10-20,San Roque - El Alto (GPRS),12.7,9.7,72.36,43.2,11.8
@@ -60192,7 +60511,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-20,Yacuiba,29.0,20.0,87.5,47.9,
 2023-10-20,Yacuiba Aeropuerto,,,,,0.2
 2023-10-20,Yesera Norte,,,,,4.0
+2023-10-20,Yocalla,30.1,10.2,,,1.1
 2023-10-20,Zudañez,,,,,0.8
+2023-10-20,Ñoquejza,20.0,6.0,,,
 2023-10-20,Ñucchu,,,,,10.0
 2023-10-21,4 Esquinas (GPRS),12.9,10.06,,,8.5
 2023-10-21,Acasio,26.1,11.2,,,
@@ -60206,7 +60527,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-21,Anzaldo_M (GPRS),,,,,0.7
 2023-10-21,Arani,26.0,18.0,,,
 2023-10-21,Aroma (GPRS),17.7,10.44,69.17,34.27,
+2023-10-21,Ayoma,26.1,7.4,,,0.7
 2023-10-21,Cabaña Forestal Oruro,,,,,3.4
+2023-10-21,Caiza D,23.1,4.1,,,
 2023-10-21,Camata,29.5,16.5,,,
 2023-10-21,Camiri,36.0,21.0,82.3,30.3,
 2023-10-21,Carabuco,,6.3,,,
@@ -60219,6 +60542,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-21,Chuqui Chuqui,33.0,19.0,,,
 2023-10-21,Chuquiago,35.1,10.0,,,
 2023-10-21,Chuquiaguillo_LP,,,,,1.0
+2023-10-21,Ckochas,21.1,9.1,,,
 2023-10-21,Cobija,36.0,27.0,82.9,49.7,
 2023-10-21,Cochabamba,28.0,18.0,67.5,26.3,
 2023-10-21,Cochabamba Aeropuerto,,,,,1.8
@@ -60238,6 +60562,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-21,El Belen,15.8,3.4,,,
 2023-10-21,El Tejar (La Paz),,,,,2.2
 2023-10-21,El Tejar (Tarija),,16.2,,,
+2023-10-21,El Villar,28.2,13.8,,,
 2023-10-21,Guayaramerin_M (GPRS),,,,,8.1
 2023-10-21,Hichucota,11.0,0.0,,,10.0
 2023-10-21,Huancane Corapata_M (GPRS),,,,,1.1
@@ -60252,14 +60577,18 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-21,Jesús de Machaca_M (GPRS),13.42,12.91,57.29,55.43,7.2
 2023-10-21,Juntas,,,,,6.2
 2023-10-21,La Asunta,31.0,21.0,,,
+2023-10-21,La Barranca  (Chuquisaca),26.0,9.0,,,
 2023-10-21,La Merced,26.0,16.0,,,
 2023-10-21,La Violeta,26.0,15.0,,,6.8
 2023-10-21,Laykacota,,,,,0.4
 2023-10-21,Luribay,30.0,12.0,,,
+2023-10-21,Misicuni,,,,,1.0
 2023-10-21,Mizque - SDC (GPRS),29.06,27.89,28.48,26.39,
 2023-10-21,Molle Molle,,13.9,,,22.8
+2023-10-21,Oronkota PTI,35.2,19.9,,,
 2023-10-21,Oruro,18.0,18.0,42.0,34.0,
 2023-10-21,Oruro (GPRS),18.0,18.0,42.0,34.0,
+2023-10-21,Padilla,33.0,11.0,,,
 2023-10-21,Pailon - Pozo del Tigre (GPRS),39.94,38.71,33.86,30.75,
 2023-10-21,Palca_LP,21.5,8.0,,,1.1
 2023-10-21,Pampas de Lequezana,25.0,11.5,,,
@@ -60300,6 +60629,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-21,San Pablo de Lipez,19.2,3.8,,,
 2023-10-21,San Pedro - Río Victoria (GPRS),38.7,37.56,47.8,39.47,
 2023-10-21,San Pedro - San Antonio (GPRS),38.32,37.39,45.52,38.92,
+2023-10-21,San Pedro de Buena Vista,21.0,7.8,,,
 2023-10-21,San Pedro de Buena Vista (GPRS),27.19,23.55,37.06,27.04,11.4
 2023-10-21,San Roque - El Alto (GPRS),17.59,12.57,54.59,39.32,0.4
 2023-10-21,Santa Ana - Yacuma,39.0,26.0,87.9,32.8,
@@ -60311,6 +60641,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-21,Sucre SENAMHI,27.5,12.5,,,
 2023-10-21,Sunjani (GPRS),13.03,9.27,68.54,53.86,2.1
 2023-10-21,Tacagua_M (GPRS),15.6,8.34,82.6,46.18,0.9
+2023-10-21,Talula_Tako Tako,27.0,9.2,,,
+2023-10-21,Tarabuco,23.4,8.3,,,
 2023-10-21,Tarata,27.5,12.0,,,
 2023-10-21,Tarija,31.0,22.0,68.2,39.9,
 2023-10-21,Taruma,,,,,10.0
@@ -60334,7 +60666,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-21,Vivero Chimboco - SDC (GPRS),25.09,21.59,33.03,25.29,0.9
 2023-10-21,Vivero Viloma - SDC (GPRS),23.4,22.42,34.81,32.89,20.1
 2023-10-21,Yesera Norte,30.0,14.0,,,
+2023-10-21,Yocalla,27.4,11.4,,,0.1
 2023-10-21,Zudañez,,,,,1.2
+2023-10-21,Ñoquejza,23.0,5.0,,,
 2023-10-22,4 Esquinas (GPRS),15.93,13.57,,,1.6
 2023-10-22,Acasio,31.0,11.0,,,
 2023-10-22,Achiri,19.0,3.0,,,
@@ -60344,7 +60678,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-22,Alto Peñas (GPRS),16.09,14.92,39.91,36.91,
 2023-10-22,Arani,28.0,17.0,,,
 2023-10-22,Aroma (GPRS),21.62,9.15,85.2,26.06,
+2023-10-22,Ayoma,26.3,6.2,,,
 2023-10-22,Cabaña Forestal Oruro,,,,,2.1
+2023-10-22,Caiza D,23.2,4.0,,,
 2023-10-22,Camata,34.0,17.0,,,7.2
 2023-10-22,Camiri,41.0,23.0,68.4,13.7,
 2023-10-22,Carabuco,,7.0,,,
@@ -60357,6 +60693,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-22,Chua Cocani_M (GPRS),19.08,12.8,54.2,33.57,
 2023-10-22,Chuqui Chuqui,37.0,19.0,,,
 2023-10-22,Chuquiago,34.2,12.2,,,
+2023-10-22,Ckochas,24.1,9.1,,,
 2023-10-22,Cobija,37.0,27.0,82.9,47.1,
 2023-10-22,Cochabamba,30.0,20.0,42.6,16.5,
 2023-10-22,Coimata,31.0,12.0,,,
@@ -60374,6 +60711,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-22,El Belen,18.6,3.6,,,
 2023-10-22,El Puente_H (GPRS),,,,,2.07
 2023-10-22,El Tejar (Tarija),33.8,,,,
+2023-10-22,El Villar,30.5,13.5,,,
 2023-10-22,Hichucota,14.0,-1.0,,,
 2023-10-22,Huarisuyo (GPRS),19.01,15.97,41.0,34.4,
 2023-10-22,Huaylipaya,,,,,7.5
@@ -60390,6 +60728,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-22,Magdalena,38.0,37.0,39.2,34.9,
 2023-10-22,Mizque - SDC (GPRS),32.39,30.3,17.6,13.22,
 2023-10-22,Molle Molle,,15.0,,,25.5
+2023-10-22,Oronkota PTI,37.0,20.1,,,
+2023-10-22,Padilla,33.0,12.0,,,
 2023-10-22,Pailon - Pozo del Tigre (GPRS),40.4,39.49,30.42,28.08,
 2023-10-22,Palca_LP,19.5,6.0,,,
 2023-10-22,Pampas de Lequezana,23.4,9.0,,,2.0
@@ -60423,6 +60763,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-22,San Pablo de Lipez,17.2,2.6,,,
 2023-10-22,San Pedro - Río Victoria (GPRS),39.82,38.44,42.71,29.21,
 2023-10-22,San Pedro - San Antonio (GPRS),39.28,38.58,37.59,30.98,
+2023-10-22,San Pedro de Buena Vista,23.0,4.6,,,
 2023-10-22,San Pedro de Buena Vista (GPRS),30.66,25.31,26.38,17.45,
 2023-10-22,San Roque - El Alto (GPRS),18.05,10.75,74.49,37.92,
 2023-10-22,Santa Ana - Yacuma,40.0,29.0,69.5,29.5,
@@ -60435,6 +60776,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-22,Sultaca_M (GPRS),,,,,5.0
 2023-10-22,Sunjani (GPRS),16.54,13.94,48.1,37.32,0.5
 2023-10-22,Tacagua_M (GPRS),17.66,12.78,54.65,41.69,11.3
+2023-10-22,Talula_Tako Tako,27.6,9.2,,,
+2023-10-22,Tarabuco,24.3,8.5,,,
 2023-10-22,Tarata,30.0,9.0,,,
 2023-10-22,Tarija,34.0,17.0,93.2,29.5,
 2023-10-22,Templo (GPRS),13.77,10.56,50.79,42.4,0.5
@@ -60455,6 +60798,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-22,Vivero Chimboco - SDC (GPRS),26.56,25.45,27.98,20.31,
 2023-10-22,Vivero Viloma - SDC (GPRS),27.62,25.56,21.27,0.35,
 2023-10-22,Yesera Norte,33.0,12.0,,,
+2023-10-22,Yocalla,26.1,9.3,,,
+2023-10-22,Ñoquejza,21.0,6.1,,,
 2023-10-23,4 Esquinas (GPRS),16.41,8.34,,,0.1
 2023-10-23,Acasio,34.1,10.0,,,
 2023-10-23,Achiri,20.5,2.0,,,
@@ -60467,6 +60812,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-23,Apolo,32.0,30.0,45.3,37.9,
 2023-10-23,Arani,33.0,18.0,,,7.2
 2023-10-23,Aroma (GPRS),22.93,11.66,60.09,22.45,
+2023-10-23,Ayoma,25.2,10.4,,,
+2023-10-23,Caiza D,23.0,4.6,,,
 2023-10-23,Camata,30.0,18.0,,,
 2023-10-23,Camiri,40.0,23.0,60.2,20.1,
 2023-10-23,Carabuco,,6.3,,,
@@ -60480,6 +60827,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-23,Chuqui Chuqui,39.0,19.0,,,
 2023-10-23,Chuquiago,33.5,12.5,,,1.5
 2023-10-23,Chuquiaguillo_LP,,,,,5.5
+2023-10-23,Ckochas,24.1,10.1,,,
 2023-10-23,Cobija,38.0,28.0,78.2,42.0,
 2023-10-23,Cochabamba,30.0,21.0,42.9,20.4,
 2023-10-23,Coimata,32.0,11.0,,,7.5
@@ -60500,6 +60848,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-23,El Puente_H (GPRS),,,,,1.32
 2023-10-23,El Tejar (La Paz),,,,,3.1
 2023-10-23,El Tejar (Tarija),33.3,15.2,,,2.0
+2023-10-23,El Villar,34.5,15.0,,,
 2023-10-23,Hichucota,13.0,0.0,,,5.0
 2023-10-23,Huancane Corapata_M (GPRS),,,,,0.9
 2023-10-23,Huarisuyo (GPRS),16.52,6.55,82.7,40.46,0.5
@@ -60509,6 +60858,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-23,Jesús de Machaca_M (GPRS),17.2,14.47,48.11,33.78,
 2023-10-23,Juntas,,,,,13.5
 2023-10-23,La Asunta,33.5,22.0,,,
+2023-10-23,La Barranca  (Chuquisaca),29.0,9.5,,,
 2023-10-23,La Merced,35.0,16.0,,,14.9
 2023-10-23,La Violeta,27.0,12.0,,,
 2023-10-23,Laykacota,,,,,0.5
@@ -60518,6 +60868,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-23,Mecapaca_M (GPRS),,,,,2.1
 2023-10-23,Mizque - SDC (GPRS),33.24,30.91,26.07,13.69,
 2023-10-23,Molle Molle,,15.0,,,28.9
+2023-10-23,Oronkota PTI,38.9,20.4,,,3.0
 2023-10-23,Oruro,20.0,12.0,66.3,37.1,
 2023-10-23,Oruro (GPRS),20.0,12.0,66.3,37.1,
 2023-10-23,Padilla,,,,,7.3
@@ -60562,6 +60913,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-23,San Pablo de Lipez,14.2,-3.1,,,
 2023-10-23,San Pedro - Río Victoria (GPRS),37.7,36.49,49.86,40.1,
 2023-10-23,San Pedro - San Antonio (GPRS),37.29,36.83,46.18,39.89,
+2023-10-23,San Pedro de Buena Vista,22.8,6.0,,,
 2023-10-23,San Pedro de Buena Vista (GPRS),28.69,18.98,55.44,22.69,
 2023-10-23,San Roque - El Alto (GPRS),17.43,11.21,65.5,39.79,0.5
 2023-10-23,Santa Ana - Yacuma,39.0,26.0,82.8,31.1,
@@ -60575,6 +60927,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-23,Sunjani (GPRS),16.43,9.81,70.87,49.28,
 2023-10-23,Tacagua_M (GPRS),19.85,15.14,47.88,28.41,1.6
 2023-10-23,Talula_Tako Tako,,,,,0.5
+2023-10-23,Tarabuco,25.6,11.4,,,
 2023-10-23,Tarata,31.5,13.0,,,1.0
 2023-10-23,Tarija,33.0,19.0,72.4,33.6,
 2023-10-23,Tarija Aeropuerto,,,,,4.2
@@ -60601,6 +60954,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-23,Vivero Viloma - SDC (GPRS),28.45,24.96,28.65,18.58,
 2023-10-23,Yacuiba,36.0,31.0,45.5,32.3,
 2023-10-23,Yesera Norte,,,,,0.1
+2023-10-23,Yocalla,28.3,10.1,,,0.1
+2023-10-23,Ñoquejza,19.0,5.1,,,
 2023-10-23,Ñucchu,,,,,4.0
 2023-10-24,4 Esquinas (GPRS),12.34,7.95,,,2.7
 2023-10-24,Acasio,27.1,12.1,,,17.3
@@ -60611,11 +60966,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-24,Aiquile (GPRS),34.26,16.71,91.2,33.39,10.6
 2023-10-24,Alcantarí_Aeropuerto,,,,,18.7
 2023-10-24,Alto Peñas (GPRS),14.64,7.26,84.6,48.41,0.3
+2023-10-24,Ancoraimes,,,,,12.2
 2023-10-24,Anzaldo,,,,,1.1
 2023-10-24,Anzaldo_M (GPRS),,,,,0.9
 2023-10-24,Arani,28.0,13.0,,,
 2023-10-24,Aroma (GPRS),21.61,11.01,58.7,11.53,
+2023-10-24,Ayoma,25.1,8.1,,,
 2023-10-24,Cabaña Forestal Oruro,,,,,0.4
+2023-10-24,Caiza D,28.0,5.5,,,
 2023-10-24,Camata,32.0,18.5,,,
 2023-10-24,Camiri,35.0,26.0,57.1,32.0,
 2023-10-24,Carabuco,,6.0,,,3.2
@@ -60627,6 +60985,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-24,Chuqui Chuqui,,,,,7.2
 2023-10-24,Chuquiago,34.2,10.5,,,
 2023-10-24,Chuquiaguillo_LP,,,,,0.3
+2023-10-24,Ckochas,16.1,9.1,,,
 2023-10-24,Cobija,37.0,27.0,78.1,44.3,
 2023-10-24,Cochabamba,29.0,15.0,87.2,23.2,
 2023-10-24,Cochabamba Aeropuerto,,,,,0.6
@@ -60650,6 +61009,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-24,El Tejar (Tarija),28.4,14.6,,,49.0
 2023-10-24,El Villar,,,,,6.5
 2023-10-24,Entre Rios (TJA),,,,,22.0
+2023-10-24,Guajara-Mirim - Guayaramerín,,,,,0.2
 2023-10-24,Guayaramerin Aeropuerto,,,,,0.2
 2023-10-24,Guayaramerin_M (GPRS),,,,,0.2
 2023-10-24,Hichucota,14.0,3.0,,,
@@ -60661,14 +61021,19 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-24,Jihuacuta,,,,,1.1
 2023-10-24,Juntas,,,,,28.0
 2023-10-24,La Asunta,34.0,21.0,,,
+2023-10-24,La Barranca  (Chuquisaca),25.5,11.5,,,
 2023-10-24,La Merced,28.0,15.0,,,2.4
 2023-10-24,La Violeta,26.0,14.0,,,5.6
 2023-10-24,Luribay,26.0,15.0,,,
 2023-10-24,Magdalena,38.0,27.0,78.1,42.0,
+2023-10-24,Misicuni,,,,,7.1
 2023-10-24,Mizque - SDC (GPRS),31.43,26.11,32.01,20.01,
 2023-10-24,Molle Molle,,14.4,,,26.1
+2023-10-24,Narvaez,,,,,24.6
+2023-10-24,Oronkota PTI,33.7,19.2,,,4.3
 2023-10-24,Oruro,21.0,11.0,75.8,34.9,
 2023-10-24,Oruro (GPRS),21.0,11.0,75.8,34.9,
+2023-10-24,Padilla,29.0,15.0,,,
 2023-10-24,Pailon - Pozo del Tigre (GPRS),37.87,37.31,43.55,41.09,
 2023-10-24,Palca_LP,22.5,8.5,,,3.8
 2023-10-24,Pampas de Lequezana,24.8,11.3,,,
@@ -60716,6 +61081,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-24,San Pablo de Lipez,15.2,-4.1,,,
 2023-10-24,San Pedro - Río Victoria (GPRS),37.79,35.61,57.37,43.59,
 2023-10-24,San Pedro - San Antonio (GPRS),36.96,35.79,56.79,50.23,
+2023-10-24,San Pedro de Buena Vista,23.4,5.8,,,10.0
 2023-10-24,San Pedro de Buena Vista (GPRS),28.35,20.94,84.5,25.58,1.7
 2023-10-24,San Pedro de Tiquina_M (GPRS),,,,,0.9
 2023-10-24,San Roque - El Alto (GPRS),17.93,11.31,66.83,37.39,0.2
@@ -60730,6 +61096,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-24,Sultaca_M (GPRS),,,,,1.9
 2023-10-24,Sunjani (GPRS),10.67,5.56,84.9,61.64,8.3
 2023-10-24,Tacagua_M (GPRS),19.06,15.27,44.81,28.08,7.5
+2023-10-24,Talula_Tako Tako,26.0,14.2,,,
+2023-10-24,Tarabuco,24.3,10.3,,,
 2023-10-24,Tarata,28.0,12.5,,,0.8
 2023-10-24,Tarija,27.0,18.0,87.4,47.4,
 2023-10-24,Tarija Aeropuerto,,,,,55.3
@@ -60759,6 +61127,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-24,Yacuiba,29.0,25.0,64.8,57.1,
 2023-10-24,Yacuiba Aeropuerto,,,,,0.3
 2023-10-24,Yesera Norte,,,,,38.5
+2023-10-24,Yocalla,29.4,7.0,,,
+2023-10-24,Ñoquejza,18.0,4.2,,,
 2023-10-25,4 Esquinas (GPRS),15.59,9.27,,,3.8
 2023-10-25,Acasio,28.0,11.1,,,
 2023-10-25,Achiri,20.5,1.0,,,2.0
@@ -60772,7 +61142,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-25,Anzaldo_M (GPRS),,,,,3.2
 2023-10-25,Arani,30.0,13.0,,,
 2023-10-25,Aroma (GPRS),21.46,10.56,43.54,4.91,
+2023-10-25,Ayoma,27.3,5.3,,,
 2023-10-25,Boyuibe,,,,,1.5
+2023-10-25,Caiza D,29.0,3.2,,,
 2023-10-25,Camata,30.0,19.0,,,7.4
 2023-10-25,Camiri,27.0,22.0,93.2,65.0,
 2023-10-25,Camiri Aeropuerto,,,,,3.4
@@ -60791,6 +61163,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-25,Chuqui Chuqui,,,,,8.7
 2023-10-25,Chuquiago,35.2,11.0,,,
 2023-10-25,Chuquiaguillo_LP,,,,,4.0
+2023-10-25,Ckochas,23.1,9.5,,,
 2023-10-25,Cobija,38.0,27.0,78.1,42.0,
 2023-10-25,Cochabamba,31.0,17.0,67.3,17.8,
 2023-10-25,Cochabamba Aeropuerto,,,,,0.4
@@ -60813,6 +61186,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-25,El Común Caraparí,,,,,2.5
 2023-10-25,El Tejar (La Paz),,,,,0.8
 2023-10-25,El Tejar (Tarija),28.4,14.6,,,33.2
+2023-10-25,El Villar,28.0,17.0,,,
 2023-10-25,Entre Rios (TJA),,,,,29.0
 2023-10-25,Guanay_H (GPRS),,,,,147.0
 2023-10-25,Hichucota,15.0,2.0,,,
@@ -60834,10 +61208,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-25,Magdalena,38.0,28.0,78.2,39.5,
 2023-10-25,Mecapaca,,,,,5.1
 2023-10-25,Mecapaca_M (GPRS),,,,,4.5
+2023-10-25,Misicuni,,,,,3.5
 2023-10-25,Mizque - SDC (GPRS),32.07,28.2,33.32,19.72,
 2023-10-25,Molle Molle,,13.3,,,27.8
+2023-10-25,Narvaez,,,,,13.3
+2023-10-25,Oronkota PTI,33.2,20.1,,,
 2023-10-25,Oruro,23.0,10.0,70.6,28.8,
 2023-10-25,Oruro (GPRS),23.0,10.0,70.6,28.8,
+2023-10-25,Padilla,30.0,14.0,,,
 2023-10-25,Pailon - Pozo del Tigre (GPRS),35.83,31.61,68.8,46.06,
 2023-10-25,Palca_LP,24.5,8.5,,,0.7
 2023-10-25,Palos Blancos S.(GPRS),,,,,21.6
@@ -60884,6 +61262,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-25,San Pablo de Lipez,16.2,-5.1,,,
 2023-10-25,San Pedro - Río Victoria (GPRS),35.54,33.72,65.35,54.88,
 2023-10-25,San Pedro - San Antonio (GPRS),34.81,32.4,61.44,54.77,
+2023-10-25,San Pedro de Buena Vista,24.0,4.1,,,
 2023-10-25,San Pedro de Buena Vista (GPRS),29.32,24.03,41.14,26.58,18.3
 2023-10-25,San Roque - El Alto (GPRS),20.7,18.12,42.1,24.48,1.3
 2023-10-25,Santa Ana - Yacuma,38.0,28.0,78.2,37.1,
@@ -60897,6 +61276,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-25,Sunjani (GPRS),17.39,7.99,82.4,33.72,5.8
 2023-10-25,Tacagua_M (GPRS),21.29,16.7,32.18,17.3,
 2023-10-25,Talula_Tako Tako,,,,,2.8
+2023-10-25,Tarabuco,23.4,10.5,,,
 2023-10-25,Tarata,29.0,10.0,,,
 2023-10-25,Tarija,26.0,17.0,87.3,57.0,
 2023-10-25,Tarija Aeropuerto,,,,,32.2
@@ -60928,7 +61308,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-25,Yacuiba,21.0,18.0,93.1,87.5,
 2023-10-25,Yacuiba Aeropuerto,,,,,0.4
 2023-10-25,Yesera Norte,25.0,15.0,,,
+2023-10-25,Yocalla,30.1,9.3,,,
 2023-10-25,Zudañez,,,,,2.1
+2023-10-25,Ñoquejza,20.0,3.2,,,
 2023-10-26,4 Esquinas (GPRS),15.37,8.47,,,0.7
 2023-10-26,Acasio,29.1,13.1,,,
 2023-10-26,Achiri,21.5,0.0,,,
@@ -60939,7 +61321,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-26,Alto Peñas (GPRS),15.59,13.48,57.94,43.13,4.4
 2023-10-26,Arani,29.0,19.0,,,
 2023-10-26,Aroma (GPRS),21.68,9.32,15.8,5.38,
+2023-10-26,Ayoma,28.2,5.2,,,
 2023-10-26,Buena Vista S.(GPRS),,,,,26.6
+2023-10-26,Caiza D,32.0,4.4,,,
 2023-10-26,Camata,31.0,17.0,,,
 2023-10-26,Camiri,23.0,20.0,93.2,72.8,
 2023-10-26,Campo Grande Bermejo,,,,,2.5
@@ -60953,6 +61337,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-26,Chua Cocani_M (GPRS),18.82,13.84,55.58,33.02,
 2023-10-26,Chuqui Chuqui,35.0,19.0,,,
 2023-10-26,Chuquiago,34.2,8.1,,,
+2023-10-26,Ckochas,22.5,10.5,,,
 2023-10-26,Cobija,37.0,29.0,73.8,46.8,
 2023-10-26,Cochabamba,30.0,21.0,49.0,19.0,
 2023-10-26,Coimata,30.0,11.0,,,
@@ -60970,6 +61355,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-26,El Belen,19.8,5.6,,,
 2023-10-26,El Común Caraparí,,,,,3.0
 2023-10-26,El Tejar (Tarija),30.2,14.6,,,
+2023-10-26,El Villar,27.5,14.0,,,
 2023-10-26,Entre Rios (TJA),,,,,4.5
 2023-10-26,Hichucota,16.0,2.0,,,8.0
 2023-10-26,Huarisuyo (GPRS),18.82,15.82,47.08,33.55,
@@ -60979,6 +61365,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-26,Isla Suriqui_M (GPRS),17.12,15.14,52.68,36.39,
 2023-10-26,Jesús de Machaca_M (GPRS),19.95,16.82,33.33,22.96,
 2023-10-26,La Asunta,30.0,22.0,,,
+2023-10-26,La Barranca  (Chuquisaca),25.0,12.0,,,
 2023-10-26,La Merced,25.0,16.0,,,5.0
 2023-10-26,La Violeta,31.0,15.0,,,
 2023-10-26,Laykacota,,,,,0.1
@@ -60987,8 +61374,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-26,Mizque - SDC (GPRS),30.92,29.53,29.23,23.91,
 2023-10-26,Molle Molle,,13.9,,,23.9
 2023-10-26,Montero_Muyurina,,,,,12.7
+2023-10-26,Narvaez,,,,,3.7
+2023-10-26,Oronkota PTI,34.0,21.0,,,
 2023-10-26,Oruro,22.0,12.0,57.7,26.3,
 2023-10-26,Oruro (GPRS),22.0,12.0,57.7,26.3,
+2023-10-26,Padilla,32.0,15.0,,,
 2023-10-26,Pailon - Pozo del Tigre (GPRS),32.25,30.3,68.01,59.95,
 2023-10-26,Palca_LP,25.0,8.5,,,
 2023-10-26,Pampas de Lequezana,22.0,12.6,,,
@@ -61034,6 +61424,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-26,San Pablo de Lipez,17.0,-4.1,,,
 2023-10-26,San Pedro - Río Victoria (GPRS),30.05,25.77,88.2,72.5,0.6
 2023-10-26,San Pedro - San Antonio (GPRS),29.44,26.68,85.1,76.36,
+2023-10-26,San Pedro de Buena Vista,24.2,6.0,,,
 2023-10-26,San Pedro de Buena Vista (GPRS),30.71,27.47,28.15,13.2,
 2023-10-26,San Ramón Aeropuerto,,,,,19.2
 2023-10-26,San Roque - El Alto (GPRS),21.32,16.94,42.17,24.93,
@@ -61047,6 +61438,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-26,Sucre SENAMHI,28.0,14.8,,,
 2023-10-26,Sunjani (GPRS),15.42,12.28,69.26,45.19,17.3
 2023-10-26,Tacagua_M (GPRS),19.65,15.86,9.42,7.62,
+2023-10-26,Talula_Tako Tako,26.8,14.0,,,
+2023-10-26,Tarabuco,24.5,11.4,,,
 2023-10-26,Tarata,30.5,12.8,,,
 2023-10-26,Tarija,30.0,19.0,77.0,39.9,
 2023-10-26,Taruma,,,,,25.0
@@ -61077,6 +61470,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-26,Yacuiba,21.0,18.0,93.1,82.3,
 2023-10-26,Yacuiba Aeropuerto,,,,,1.1
 2023-10-26,Yesera Norte,29.0,16.0,,,
+2023-10-26,Yocalla,29.1,10.1,,,
+2023-10-26,Ñoquejza,21.0,4.2,,,
 2023-10-27,4 Esquinas (GPRS),15.35,12.68,,,4.1
 2023-10-27,Acasio,31.0,14.0,,,
 2023-10-27,Achiri,22.5,-0.5,,,
@@ -61088,7 +61483,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-27,Arani,28.0,19.0,,,
 2023-10-27,Aroma (GPRS),23.64,10.22,8.03,5.29,
 2023-10-27,Ascensión de Guarayos Aerop,,,,,2.2
+2023-10-27,Ayoma,27.1,3.1,,,
 2023-10-27,Boyuibe,,,,,1.5
+2023-10-27,Caiza D,30.0,4.8,,,
 2023-10-27,Camata,31.5,17.5,,,
 2023-10-27,Camiri,23.0,20.0,93.2,43.4,
 2023-10-27,Camiri Aeropuerto,,,,,3.0
@@ -61103,6 +61500,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-27,Chua Cocani_M (GPRS),19.4,17.44,38.45,15.65,
 2023-10-27,Chuqui Chuqui,37.0,19.0,,,
 2023-10-27,Chuquiago,34.0,5.4,,,
+2023-10-27,Ckochas,24.1,10.5,,,
 2023-10-27,Cobija,34.0,26.0,88.0,58.8,
 2023-10-27,Cochabamba,31.0,22.0,37.7,17.8,
 2023-10-27,Coimata,31.0,10.0,,,
@@ -61121,7 +61519,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-27,El Belen,19.4,3.0,,,
 2023-10-27,El Común Caraparí,,,,,2.0
 2023-10-27,El Tejar (Tarija),29.8,15.9,,,
+2023-10-27,El Villar,26.5,15.5,,,
 2023-10-27,Entre Rios (TJA),,,,,3.5
+2023-10-27,Guajara-Mirim - Guayaramerín,,,,,8.7
 2023-10-27,Guanay_H (GPRS),,,,,1.0
 2023-10-27,Guayaramerin Aeropuerto,,,,,8.7
 2023-10-27,Guayaramerin_M (GPRS),,,,,2.6
@@ -61135,6 +61535,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-27,Ixiamas_M (GPRS),,,,,6.2
 2023-10-27,Jesús de Machaca_M (GPRS),19.42,17.79,30.33,27.02,
 2023-10-27,La Asunta,29.5,22.5,,,
+2023-10-27,La Barranca  (Chuquisaca),28.0,10.0,,,
 2023-10-27,La Merced,25.0,16.0,,,
 2023-10-27,La Violeta,32.0,16.0,,,
 2023-10-27,Luribay,29.0,14.0,,,
@@ -61142,8 +61543,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-27,Magdalena Aeropuerto,,,,,60.3
 2023-10-27,Mizque - SDC (GPRS),30.15,28.98,31.14,27.42,
 2023-10-27,Molle Molle,,14.4,,,25.0
+2023-10-27,Narvaez,,,,,4.5
+2023-10-27,Oronkota PTI,36.0,21.1,,,
 2023-10-27,Oruro,24.0,8.0,75.3,21.9,
 2023-10-27,Oruro (GPRS),24.0,8.0,75.3,21.9,
+2023-10-27,Padilla,33.0,14.0,,,
 2023-10-27,Pailon - Pozo del Tigre (GPRS),35.52,34.21,52.69,47.3,
 2023-10-27,Palca_LP,23.0,8.5,,,
 2023-10-27,Pampas de Lequezana,25.4,13.0,,,
@@ -61186,6 +61590,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-27,San Pablo de Lipez,18.2,-3.1,,,
 2023-10-27,San Pedro - Río Victoria (GPRS),33.42,30.93,68.61,58.63,
 2023-10-27,San Pedro - San Antonio (GPRS),32.83,27.7,85.6,65.24,0.2
+2023-10-27,San Pedro de Buena Vista,25.0,6.8,,,
 2023-10-27,San Pedro de Buena Vista (GPRS),31.09,27.9,24.27,11.99,
 2023-10-27,San Ramón Aeropuerto,,,,,8.0
 2023-10-27,San Roque - El Alto (GPRS),20.2,16.8,35.25,21.96,
@@ -61202,6 +61607,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-27,Sucre SENAMHI,29.2,15.0,,,
 2023-10-27,Sunjani (GPRS),15.54,13.3,61.71,49.21,
 2023-10-27,Tacagua_M (GPRS),21.42,16.71,11.78,8.13,
+2023-10-27,Talula_Tako Tako,29.6,11.0,,,
+2023-10-27,Tarabuco,24.3,10.3,,,
 2023-10-27,Tarata,30.5,12.0,,,
 2023-10-27,Tarija,30.0,19.0,77.0,37.4,
 2023-10-27,Templo (GPRS),12.53,10.51,65.97,51.57,
@@ -61228,6 +61635,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-27,Yacuiba,24.0,19.0,93.1,73.0,
 2023-10-27,Yacuiba Aeropuerto,,,,,2.9
 2023-10-27,Yesera Norte,27.0,16.0,,,
+2023-10-27,Yocalla,28.2,9.4,,,
+2023-10-27,Ñoquejza,22.0,5.0,,,
 2023-10-28,4 Esquinas (GPRS),14.15,12.44,,,0.2
 2023-10-28,Acasio,34.0,11.0,,,
 2023-10-28,Achiri,22.5,-2.0,,,
@@ -61237,7 +61646,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-28,Alto Peñas (GPRS),17.63,14.15,31.74,18.9,
 2023-10-28,Arani,30.0,17.0,,,
 2023-10-28,Aroma (GPRS),18.57,7.24,17.3,4.36,
+2023-10-28,Ayoma,25.3,3.2,,,
 2023-10-28,Buena Vista S.(GPRS),,,,,0.2
+2023-10-28,Caiza D,29.9,5.0,,,
 2023-10-28,Camata,32.0,18.0,,,
 2023-10-28,Camiri,33.0,22.0,87.7,46.1,
 2023-10-28,Camiri Aeropuerto,,,,,0.6
@@ -61255,6 +61666,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-28,Chuqui Chuqui,37.0,21.0,,,
 2023-10-28,Chuquiago,35.2,11.3,,,
 2023-10-28,Chuquiaguillo_LP,,,,,0.1
+2023-10-28,Ckochas,24.0,8.1,,,
 2023-10-28,Cobija,32.0,24.0,99.1,66.0,
 2023-10-28,Cobija Aeropuerto,,,,,1.2
 2023-10-28,Cochabamba,30.0,21.0,21.6,11.3,
@@ -61276,6 +61688,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-28,El Tejar (Tarija),32.9,14.5,,,
 2023-10-28,El Villar,,,,,2.3
 2023-10-28,Entre Rios (TJA),,,,,2.5
+2023-10-28,Guajara-Mirim - Guayaramerín,,,,,22.6
 2023-10-28,Guanay_H (GPRS),,,,,13.0
 2023-10-28,Guayaramerin Aeropuerto,,,,,22.6
 2023-10-28,Guayaramerin_M (GPRS),,,,,3.4
@@ -61289,15 +61702,19 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-28,Ixiamas_M (GPRS),,,,,26.6
 2023-10-28,Jesús de Machaca_M (GPRS),19.82,17.73,17.03,14.82,
 2023-10-28,La Asunta,28.0,22.0,,,
+2023-10-28,La Barranca  (Chuquisaca),25.0,9.5,,,
 2023-10-28,La Merced,27.0,17.0,,,
 2023-10-28,La Violeta,30.0,14.0,,,
 2023-10-28,Luribay,30.0,12.0,,,
+2023-10-28,Misicuni,,,,,0.4
 2023-10-28,Mizque - SDC (GPRS),27.74,25.32,34.42,25.6,
 2023-10-28,Molle Molle,,15.0,,,22.8
 2023-10-28,Montero_Muyurina,,,,,16.8
 2023-10-28,Okinawa I,,,,,10.3
+2023-10-28,Oronkota PTI,36.2,21.0,,,
 2023-10-28,Oruro,22.0,16.0,33.4,19.9,
 2023-10-28,Oruro (GPRS),22.0,16.0,33.4,19.9,
+2023-10-28,Padilla,32.0,15.0,,,
 2023-10-28,Pailon - Pozo del Tigre (GPRS),35.21,32.15,57.3,47.3,
 2023-10-28,Palca_LP,26.5,10.0,,,
 2023-10-28,Palos Blancos_M (GPRS),,,,,1.4
@@ -61333,6 +61750,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-28,San Pablo de Lipez,16.6,-5.1,,,
 2023-10-28,San Pedro - Río Victoria (GPRS),34.53,26.9,91.3,56.06,
 2023-10-28,San Pedro - San Antonio (GPRS),32.39,25.43,92.3,63.35,1.0
+2023-10-28,San Pedro de Buena Vista,25.6,5.8,,,
 2023-10-28,San Pedro de Buena Vista (GPRS),31.9,27.45,9.92,7.1,
 2023-10-28,San Roque - El Alto (GPRS),17.65,15.77,26.4,17.61,
 2023-10-28,Santa Ana - Yacuma,34.0,26.0,82.9,52.0,
@@ -61346,6 +61764,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-28,Sucre SENAMHI,27.2,14.4,,,
 2023-10-28,Sunjani (GPRS),16.13,12.25,58.38,33.14,
 2023-10-28,Tacagua_M (GPRS),18.28,14.03,10.52,6.63,
+2023-10-28,Talula_Tako Tako,28.6,13.0,,,
+2023-10-28,Tarabuco,25.4,11.5,,,
 2023-10-28,Tarata,27.5,14.0,,,
 2023-10-28,Tarija,31.0,19.0,77.0,25.4,
 2023-10-28,Templo (GPRS),12.7,9.01,45.68,34.46,
@@ -61366,6 +61786,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-28,Vivero Chimboco - SDC (GPRS),27.95,22.3,29.38,12.95,
 2023-10-28,Vivero Viloma - SDC (GPRS),27.09,24.21,16.35,0.67,
 2023-10-28,Yesera Norte,30.0,12.0,,,
+2023-10-28,Yocalla,27.0,8.1,,,
+2023-10-28,Ñoquejza,23.0,4.1,,,
 2023-10-29,4 Esquinas (GPRS),17.02,13.71,,,
 2023-10-29,Acasio,31.0,10.0,,,
 2023-10-29,Achiri,20.5,-4.5,,,
@@ -61377,7 +61799,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-29,Arani,33.0,19.0,,,
 2023-10-29,Aroma (GPRS),17.81,6.25,28.61,1.47,
 2023-10-29,Atulcha (GPRS),18.39,0.61,25.92,3.66,
+2023-10-29,Ayoma,26.2,2.1,,,
 2023-10-29,Buena Vista S.(GPRS),,,,,2.8
+2023-10-29,Caiza D,30.0,5.2,,,
 2023-10-29,Camata,33.0,19.0,,,
 2023-10-29,Camiri,38.0,23.0,77.5,30.6,
 2023-10-29,Carabuco,,6.0,,,
@@ -61391,6 +61815,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-29,Chua Cocani_M (GPRS),16.84,14.82,22.01,13.5,
 2023-10-29,Chuqui Chuqui,40.0,19.0,,,
 2023-10-29,Chuquiago,31.2,6.6,,,
+2023-10-29,Ckochas,24.2,6.5,,,
 2023-10-29,Cobija,29.0,25.0,93.3,78.3,
 2023-10-29,Cobija Aeropuerto,,,,,7.7
 2023-10-29,Cochabamba,32.0,20.0,20.9,11.7,
@@ -61408,6 +61833,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-29,Desaguadero_M,15.07,13.24,32.13,22.21,
 2023-10-29,El Alto,17.0,8.0,18.6,9.9,
 2023-10-29,El Belen,19.0,3.0,,,
+2023-10-29,El Villar,30.0,13.0,,,
+2023-10-29,Guajara-Mirim - Guayaramerín,,,,,7.4
 2023-10-29,Guanay_H (GPRS),,,,,135.0
 2023-10-29,Guayaramerin Aeropuerto,,,,,7.4
 2023-10-29,Guayaramerin_M (GPRS),,,,,6.0
@@ -61428,6 +61855,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-29,Mizque - SDC (GPRS),34.57,32.37,8.36,2.75,
 2023-10-29,Molle Molle,,12.2,,,27.2
 2023-10-29,Orinoca - UTO (GPRS),17.59,0.43,,,
+2023-10-29,Oronkota PTI,36.1,19.9,,,
+2023-10-29,Padilla,34.0,12.0,,,
 2023-10-29,Pailon - Pozo del Tigre (GPRS),35.51,33.94,51.0,46.72,
 2023-10-29,Palca_LP,27.0,5.0,,,
 2023-10-29,Pampas de Lequezana,22.7,13.2,,,
@@ -61462,6 +61891,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-29,San Pablo de Lipez,17.6,-4.1,,,
 2023-10-29,San Pedro - Río Victoria (GPRS),33.99,30.79,73.91,55.48,21.4
 2023-10-29,San Pedro - San Antonio (GPRS),33.27,30.74,86.2,63.72,18.8
+2023-10-29,San Pedro de Buena Vista,26.0,7.1,,,
 2023-10-29,San Pedro de Buena Vista (GPRS),31.47,28.15,5.29,2.54,
 2023-10-29,San Roque - El Alto (GPRS),18.71,15.82,16.46,9.21,
 2023-10-29,Santa Ana - Yacuma,33.0,25.0,93.3,58.7,
@@ -61475,6 +61905,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-29,Sucre SENAMHI,30.0,13.6,,,
 2023-10-29,Sunjani (GPRS),18.23,16.68,24.7,16.29,
 2023-10-29,Tacagua_M (GPRS),16.31,12.39,8.88,4.99,
+2023-10-29,Talula_Tako Tako,30.0,8.2,,,
+2023-10-29,Tarabuco,27.5,10.4,,,
 2023-10-29,Tarata,32.0,8.5,,,
 2023-10-29,Tarija,33.0,18.0,87.4,19.8,
 2023-10-29,Templo (GPRS),15.2,13.97,24.74,17.24,
@@ -61497,6 +61929,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-29,Vivero Chimboco - SDC (GPRS),27.88,26.16,26.34,3.91,
 2023-10-29,Vivero Viloma - SDC (GPRS),30.42,27.15,9.34,0.06,
 2023-10-29,Yesera Norte,32.0,10.0,,,
+2023-10-29,Yocalla,29.1,10.4,,,
+2023-10-29,Ñoquejza,24.0,6.2,,,
 2023-10-30,4 Esquinas (GPRS),16.58,7.89,,,
 2023-10-30,Acasio,33.1,12.0,,,
 2023-10-30,Achiri,21.0,-4.5,,,
@@ -61508,7 +61942,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-30,Aroma (GPRS),19.17,6.47,18.4,2.72,
 2023-10-30,Ascensión de Guarayos Aerop,,,,,13.5
 2023-10-30,Atulcha (GPRS),12.21,5.31,15.95,5.69,
+2023-10-30,Ayoma,27.4,1.1,,,
 2023-10-30,Azurduy,,,,,4.2
+2023-10-30,Caiza D,29.8,5.3,,,
 2023-10-30,Camata,33.5,18.0,,,
 2023-10-30,Camiri,38.0,25.0,77.8,29.0,
 2023-10-30,Campamento Villa Tunari,,,,,28.0
@@ -61522,6 +61958,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-30,Chua Cocani_M (GPRS),19.48,16.46,39.68,16.56,
 2023-10-30,Chuqui Chuqui,39.0,22.0,,,
 2023-10-30,Chuquiago,34.2,5.0,,,
+2023-10-30,Ckochas,25.1,5.1,,,
 2023-10-30,Cobija,36.0,25.0,87.9,44.1,
 2023-10-30,Cochabamba,32.0,23.0,25.3,11.3,
 2023-10-30,Coimata,32.0,13.0,,,
@@ -61537,7 +61974,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-30,El Alto,19.0,9.0,33.9,14.5,
 2023-10-30,El Belen,20.4,0.6,,,
 2023-10-30,El Tejar (Tarija),31.4,14.0,,,
+2023-10-30,El Villar,32.0,15.0,,,
 2023-10-30,Entre Rios (TJA),,,,,4.0
+2023-10-30,Guajara-Mirim - Guayaramerín,,,,,21.8
 2023-10-30,Guayaramerin Aeropuerto,,,,,21.8
 2023-10-30,Guayaramerin_M (GPRS),,,,,10.4
 2023-10-30,Hichucota,18.0,-3.0,,,
@@ -61547,15 +61986,18 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-30,Isla Suriqui_M (GPRS),16.15,15.16,43.43,40.88,
 2023-10-30,Jesús de Machaca_M (GPRS),20.53,16.95,16.26,13.52,
 2023-10-30,La Asunta,32.0,22.0,,,
+2023-10-30,La Barranca  (Chuquisaca),27.5,8.5,,,
 2023-10-30,La Merced,35.0,16.0,,,
 2023-10-30,La Violeta,30.0,9.0,,,
 2023-10-30,Luribay,29.0,14.0,,,
 2023-10-30,Magdalena,30.0,24.0,99.1,69.7,
 2023-10-30,Magdalena Aeropuerto,,,,,7.1
 2023-10-30,Mataral,,,,,15.6
+2023-10-30,Misicuni,,,,,2.1
 2023-10-30,Mizque - SDC (GPRS),34.55,31.0,9.59,6.45,
 2023-10-30,Molle Molle,,14.4,,,28.9
 2023-10-30,Orinoca - UTO (GPRS),14.88,10.27,15.49,7.78,
+2023-10-30,Oronkota PTI,36.2,17.0,,,
 2023-10-30,Oruro,23.0,10.0,70.6,22.7,
 2023-10-30,Oruro (GPRS),23.0,10.0,70.6,22.7,
 2023-10-30,Padilla,,,,,1.3
@@ -61604,6 +62046,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-30,San Pablo de Lipez,18.4,-6.1,,,
 2023-10-30,San Pedro - Río Victoria (GPRS),35.68,34.2,60.82,50.83,
 2023-10-30,San Pedro - San Antonio (GPRS),34.78,33.03,62.3,52.4,0.6
+2023-10-30,San Pedro de Buena Vista,27.6,6.0,,,
 2023-10-30,San Pedro de Buena Vista (GPRS),31.45,28.0,7.71,4.72,
 2023-10-30,San Ramón Aeropuerto,,,,,2.0
 2023-10-30,San Roque - El Alto (GPRS),20.68,18.49,20.29,12.26,
@@ -61619,6 +62062,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-30,Sucre SENAMHI,30.5,15.0,,,
 2023-10-30,Sunjani (GPRS),19.13,14.51,54.93,16.41,
 2023-10-30,Tacagua_M (GPRS),17.16,14.69,9.48,5.95,
+2023-10-30,Talula_Tako Tako,30.0,11.0,,,
+2023-10-30,Tarabuco,24.3,11.3,,,
 2023-10-30,Tarata,31.5,10.5,,,
 2023-10-30,Tarija,31.0,23.0,60.2,20.7,
 2023-10-30,Templo (GPRS),16.72,10.97,62.7,16.01,
@@ -61642,7 +62087,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-30,Vivero Viloma - SDC (GPRS),30.67,26.6,21.61,12.41,
 2023-10-30,Yacuiba,37.0,30.0,58.1,38.7,
 2023-10-30,Yesera Norte,28.3,12.0,,,
+2023-10-30,Yocalla,30.0,9.3,,,
 2023-10-30,Zudañez,,,,,1.3
+2023-10-30,Ñoquejza,23.1,5.0,,,
 2023-10-31,4 Esquinas (GPRS),13.69,10.5,,,4.8
 2023-10-31,Acasio,34.1,14.0,,,
 2023-10-31,Achiri,22.0,-4.5,,,
@@ -61654,8 +62101,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-31,Arani,30.0,16.0,,,1.1
 2023-10-31,Aroma (GPRS),20.74,7.56,13.75,0.94,
 2023-10-31,Ascencion de Guarayos,29.0,27.0,73.8,73.5,
+2023-10-31,Ayoma,27.2,5.2,,,
 2023-10-31,Boyuibe,,,,,3.0
 2023-10-31,Buena Vista S.(GPRS),,,,,13.0
+2023-10-31,Caiza D,29.0,6.0,,,
 2023-10-31,Camata,32.0,19.0,,,
 2023-10-31,Camiri,32.0,22.0,87.7,43.0,
 2023-10-31,Camiri Aeropuerto,,,,,24.1
@@ -61671,6 +62120,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-31,Chua Cocani_M (GPRS),18.03,15.54,29.19,24.16,
 2023-10-31,Chuqui Chuqui,41.0,21.0,,,
 2023-10-31,Chuquiago,35.0,9.1,,,
+2023-10-31,Ckochas,25.5,5.5,,,
 2023-10-31,Cobija,35.0,26.0,93.4,52.5,
 2023-10-31,Cochabamba,31.0,20.0,63.6,20.7,
 2023-10-31,Cochabamba Aeropuerto,,,,,0.2
@@ -61689,6 +62139,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-31,El Alto,19.0,10.0,70.6,10.2,
 2023-10-31,El Belen,18.8,-1.0,,,
 2023-10-31,El Tejar (Tarija),26.9,17.3,,,
+2023-10-31,El Villar,31.0,14.0,,,
 2023-10-31,Guanay_H (GPRS),,,,,101.0
 2023-10-31,Hichucota,17.0,-2.0,,,
 2023-10-31,Huarisuyo (GPRS),20.33,16.93,28.4,16.83,
@@ -61707,8 +62158,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-31,Mizque - SDC (GPRS),29.33,29.33,32.21,28.27,
 2023-10-31,Molle Molle,,13.9,,,25.5
 2023-10-31,Montero_Muyurina,,,,,2.8
+2023-10-31,Oronkota PTI,38.0,20.4,,,
 2023-10-31,Oruro,22.0,6.0,38.5,18.5,
 2023-10-31,Oruro (GPRS),22.0,6.0,38.5,18.5,
+2023-10-31,Padilla,30.0,16.0,,,
 2023-10-31,Pailon - Pozo del Tigre (GPRS),33.37,31.61,59.31,50.14,
 2023-10-31,Palca_LP,26.5,8.5,,,
 2023-10-31,Palos Blancos_M (GPRS),,,,,0.3
@@ -61752,6 +62205,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-31,San Pablo de Lipez,19.2,-4.4,,,
 2023-10-31,San Pedro - Río Victoria (GPRS),23.4,22.47,93.4,90.7,3.0
 2023-10-31,San Pedro - San Antonio (GPRS),24.69,23.28,91.1,87.7,
+2023-10-31,San Pedro de Buena Vista,25.0,6.8,,,
 2023-10-31,San Pedro de Buena Vista (GPRS),29.09,25.13,35.82,24.49,
 2023-10-31,San Roque - El Alto (GPRS),21.69,17.82,21.44,13.77,
 2023-10-31,Santa Ana - Yacuma,34.0,25.0,88.2,55.5,
@@ -61763,6 +62217,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-31,Sucre SENAMHI,26.0,15.2,,,
 2023-10-31,Sunjani (GPRS),16.92,13.84,63.8,42.33,
 2023-10-31,Tacagua_M (GPRS),19.58,16.38,4.4,2.72,
+2023-10-31,Talula_Tako Tako,25.1,13.2,,,
+2023-10-31,Tarabuco,20.4,11.5,,,
 2023-10-31,Tarata,29.8,14.2,,,
 2023-10-31,Tarija,26.0,20.0,63.6,46.9,
 2023-10-31,Templo (GPRS),15.07,10.72,68.88,31.85,
@@ -61789,6 +62245,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-31,Vivero Viloma - SDC (GPRS),25.57,25.57,30.25,19.23,
 2023-10-31,Yacuiba,29.0,22.0,82.4,47.9,
 2023-10-31,Yesera Norte,23.0,14.0,,,
+2023-10-31,Yocalla,29.1,10.1,,,
+2023-10-31,Ñoquejza,20.0,3.0,,,
 2023-11-01,4 Esquinas (GPRS),12.71,7.42,,,0.1
 2023-11-01,Aguadas (GPRS),15.92,4.63,91.1,51.55,
 2023-11-01,Aiquile (GPRS),38.3,25.82,60.69,31.84,
@@ -61802,6 +62260,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-01,Cobija,31.0,24.0,99.1,65.8,
 2023-11-01,Cobija Aeropuerto,,,,,7.8
 2023-11-01,Cochabamba,31.0,21.0,42.9,15.6,
+2023-11-01,Cochabamba Aeropuerto,,,,,0.7
 2023-11-01,Concepcion,30.0,24.0,82.7,65.4,
 2023-11-01,Coroico_H (GPRS),,,,,0.12
 2023-11-01,Covendo_M (GPRS),,,,,0.6
@@ -61832,6 +62291,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-01,Quila Quila_M (GPRS),24.8,22.25,40.81,34.38,
 2023-11-01,Reyes,35.0,26.0,82.8,49.5,
 2023-11-01,Riberalta,31.0,25.0,87.9,69.8,
+2023-11-01,Riberalta Aeropuerto,,,,,22.6
 2023-11-01,Riberalta_H (GPRS),,,,,4.76
 2023-11-01,Robore,34.0,27.0,78.1,52.3,
 2023-11-01,Roboré Aeropuerto,35.5,25.5,,,
@@ -61864,6 +62324,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-01,Villa Rivero_M (GPRS),,,,,0.4
 2023-11-01,Villa Tunari_H (GPRS),,,,,1.04
 2023-11-01,Villamontes,32.0,24.0,73.0,48.7,
+2023-11-01,Villamontes Aeropuerto,,,,,1.1
 2023-11-01,Viru Viru,33.0,25.0,82.7,51.8,
 2023-11-01,Viscachas Chirage (GPRS),13.23,9.98,80.4,58.88,
 2023-11-01,Vivero Chimboco - SDC (GPRS),27.86,24.75,29.01,19.52,
@@ -61886,6 +62347,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-02,Desaguadero_M,17.69,14.74,47.97,35.01,
 2023-11-02,El Alto,21.0,10.0,61.4,16.4,
 2023-11-02,El Común Caraparí,,,,,0.1
+2023-11-02,Guajara-Mirim - Guayaramerín,,,,,18.8
 2023-11-02,Guayaramerin_M (GPRS),,,,,2.7
 2023-11-02,Huarisuyo (GPRS),19.89,16.22,38.35,12.92,
 2023-11-02,Incapampa - Coroico_M (GPRS),,,,,0.1
@@ -61972,6 +62434,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-03,Robore,26.0,24.0,60.4,50.3,
 2023-11-03,Roboré Aeropuerto,27.2,22.5,,,
 2023-11-03,Rurrenabaque,37.0,27.0,78.1,34.7,
+2023-11-03,Samaipata,,,,,1.0
 2023-11-03,San Andres de Machaca_M (GPRS),21.01,17.69,17.28,13.32,
 2023-11-03,San Borja,29.0,29.0,73.8,73.8,
 2023-11-03,San Jacinto_M (GPRS),21.35,18.45,58.25,49.25,
@@ -62018,6 +62481,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-04,Desaguadero_M,16.58,15.07,51.42,47.52,
 2023-11-04,El Alto,16.0,9.0,70.6,33.5,
 2023-11-04,El Alto Aeropuerto,,,,,0.1
+2023-11-04,Guajara-Mirim - Guayaramerín,,,,,0.3
 2023-11-04,Guayaramerin_M (GPRS),,,,,2.0
 2023-11-04,Huancane Corapata_M (GPRS),,,,,3.5
 2023-11-04,Huarisuyo (GPRS),18.51,16.06,45.62,38.56,0.1
@@ -62041,7 +62505,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-04,Putucuni Calientes (GPRS),11.86,8.4,88.2,56.68,0.8
 2023-11-04,Quila Quila_M (GPRS),19.62,15.16,64.53,47.58,
 2023-11-04,Riberalta,25.0,23.0,99.1,87.8,
+2023-11-04,Riberalta Aeropuerto,,,,,11.6
 2023-11-04,Riberalta_H (GPRS),,,,,5.94
+2023-11-04,Samaipata,,,,,4.0
 2023-11-04,San Andres de Machaca_M (GPRS),19.26,15.35,37.45,28.57,
 2023-11-04,San Jacinto_M (GPRS),25.54,8.64,91.9,36.17,
 2023-11-04,San Javier,18.0,18.0,67.4,67.4,
@@ -62054,9 +62520,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-04,San Roque - El Alto (GPRS),18.65,12.29,66.5,32.82,
 2023-11-04,Santa Ana - Yacuma,26.0,18.0,99.1,57.1,
 2023-11-04,Sena_H (GPRS),,,,,0.62
+2023-11-04,Sucre SENAMHI,,,,,0.5
 2023-11-04,Sunjani (GPRS),16.46,9.84,88.3,50.13,
 2023-11-04,Tacagua_M (GPRS),22.67,19.07,25.6,9.51,
 2023-11-04,Tarija,25.0,11.0,81.1,33.4,
+2023-11-04,Taruma,,,,,23.0
 2023-11-04,Templo (GPRS),14.31,5.02,89.7,50.51,
 2023-11-04,Temporal - SDC (GPRS),28.61,14.5,35.24,0.56,
 2023-11-04,Toma Ravelo_M (GPRS),,,,,1.0
@@ -62089,6 +62557,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-05,Desaguadero_M,18.6,14.48,51.94,24.54,
 2023-11-05,El Alto,19.0,7.0,80.7,15.2,
 2023-11-05,El Alto Aeropuerto,,,,,2.8
+2023-11-05,Guajara-Mirim - Guayaramerín,,,,,13.8
 2023-11-05,Guayaramerin_M (GPRS),,,,,29.1
 2023-11-05,Huarisuyo (GPRS),21.0,17.49,31.82,23.73,
 2023-11-05,Incapampa - Coroico_M (GPRS),,,,,0.4
@@ -62104,6 +62573,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-05,Putucuni Calientes (GPRS),11.82,9.83,71.57,57.33,
 2023-11-05,Quila Quila_M (GPRS),27.39,25.27,18.02,9.84,
 2023-11-05,Riberalta,31.0,23.0,87.7,61.7,
+2023-11-05,Riberalta Aeropuerto,,,,,45.0
 2023-11-05,Riberalta_H (GPRS),,,,,0.19
 2023-11-05,Rurrenabaque,32.0,25.0,56.9,37.9,
 2023-11-05,San Andres de Machaca_M (GPRS),21.42,18.6,25.04,11.76,
@@ -62257,6 +62727,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-07,Vacas - SDC (GPRS),20.22,14.56,72.16,37.67,
 2023-11-07,Viacha_M (GPRS),20.34,18.34,38.72,29.42,
 2023-11-07,Vila Vila - SDC (GPRS),29.31,26.91,35.96,24.77,
+2023-11-07,Villa Copacabana,,,,,1.2
 2023-11-07,Villamontes,42.0,32.0,51.8,24.9,
 2023-11-07,Viru Viru,39.0,31.0,54.8,34.9,
 2023-11-07,Viscachas Chirage (GPRS),18.91,11.44,80.1,45.16,
@@ -62317,6 +62788,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-08,San Pedro de Buena Vista (GPRS),32.95,28.66,20.35,12.03,0.3
 2023-11-08,San Roque - El Alto (GPRS),22.62,17.38,36.29,21.88,
 2023-11-08,Santa Ana - Yacuma,36.0,29.0,78.3,44.0,
+2023-11-08,Sucre SENAMHI,,,,,44.5
 2023-11-08,Sunjani (GPRS),17.66,14.94,51.85,33.46,
 2023-11-08,Tacagua_M (GPRS),21.48,18.74,34.33,19.16,0.3
 2023-11-08,Tarija,31.0,20.0,77.3,37.4,
@@ -62334,6 +62806,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-08,Vivero Chimboco - SDC (GPRS),28.39,25.86,26.23,16.25,
 2023-11-08,Vivero Viloma - SDC (GPRS),28.69,26.95,23.45,19.55,
 2023-11-08,Yacuiba,38.0,31.0,51.6,35.0,
+2023-11-08,Ñucchu,,,,,1.0
 2023-11-09,4 Esquinas (GPRS),13.61,6.84,,,
 2023-11-09,Aguadas (GPRS),16.63,7.34,85.9,39.86,
 2023-11-09,Aiquile (GPRS),38.27,25.0,51.37,27.07,
@@ -62395,10 +62868,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-09,San Pedro de Buena Vista (GPRS),27.87,25.18,29.52,20.86,
 2023-11-09,San Roque - El Alto (GPRS),16.61,11.98,55.97,39.31,
 2023-11-09,Santa Ana - Yacuma,35.0,26.0,87.9,49.5,
+2023-11-09,Sucre SENAMHI,,,,,2.0
 2023-11-09,Sultaca_M (GPRS),,,,,14.6
 2023-11-09,Sunjani (GPRS),15.47,7.1,80.8,45.77,
 2023-11-09,Tacagua_M (GPRS),18.21,17.63,29.18,26.97,
 2023-11-09,Tarija,27.0,21.0,77.3,50.6,
+2023-11-09,Tarija Aeropuerto,,,,,3.9
 2023-11-09,Templo (GPRS),12.1,4.78,87.0,53.87,
 2023-11-09,Temporal - SDC (GPRS),27.15,17.83,25.79,0.08,
 2023-11-09,Totora i_M (GPRS),,,,,0.8
@@ -62406,6 +62881,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-09,Vacas - SDC (GPRS),17.73,13.11,55.8,31.95,
 2023-11-09,Viacha_M (GPRS),15.84,11.92,54.52,43.91,
 2023-11-09,Vila Vila - SDC (GPRS),26.51,24.48,31.55,26.42,
+2023-11-09,Villa Copacabana,,,,,1.9
 2023-11-09,Villamontes,36.0,28.0,65.2,39.0,
 2023-11-09,Viru Viru,38.0,29.0,65.4,39.2,
 2023-11-09,Viscachas Chirage (GPRS),14.29,6.78,87.4,54.8,0.6
@@ -62541,6 +63017,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-11,Sunjani (GPRS),14.46,10.13,85.3,57.32,0.4
 2023-11-11,Tacagua_M (GPRS),18.6,15.81,40.51,22.34,6.1
 2023-11-11,Tarija,36.0,19.0,82.1,16.7,
+2023-11-11,Tarija Aeropuerto,,,,,7.0
 2023-11-11,Templo (GPRS),11.0,7.55,90.8,63.03,1.2
 2023-11-11,Temporal - SDC (GPRS),30.08,23.18,25.5,0.05,
 2023-11-11,Totora i_M (GPRS),,,,,0.3
@@ -62548,6 +63025,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-11,Vacas - SDC (GPRS),21.29,18.34,42.86,29.55,
 2023-11-11,Viacha_M (GPRS),19.31,16.11,38.76,32.13,
 2023-11-11,Vila Vila - SDC (GPRS),30.0,27.69,25.94,19.43,
+2023-11-11,Villa Copacabana,,,,,2.9
 2023-11-11,Viru Viru,38.0,29.0,65.4,34.7,
 2023-11-11,Viscachas Chirage (GPRS),14.58,9.37,90.0,64.81,
 2023-11-11,Vivero Chimboco - SDC (GPRS),28.63,24.03,39.39,15.3,
@@ -62561,6 +63039,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-12,Cabaña Forestal Oruro,,,,,5.4
 2023-11-12,Caranavi_H (GPRS),,,,,0.11
 2023-11-12,Chua Cocani_M (GPRS),16.92,5.33,94.6,48.09,0.5
+2023-11-12,Cochabamba Aeropuerto,,,,,1.8
 2023-11-12,Cuatro Cañadas - CEA-2 (GPRS),39.19,28.69,71.35,36.23,
 2023-11-12,Cuatro Cañadas - Colonia Chihuahua (GPRS),40.68,28.97,70.11,32.02,
 2023-11-12,Desaguadero_M,17.1,5.27,90.3,43.41,2.1
@@ -62589,6 +63068,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-12,San Pedro de Buena Vista (GPRS),31.49,16.64,51.43,17.15,
 2023-11-12,San Pedro de Tiquina_M (GPRS),,,,,8.0
 2023-11-12,San Roque - El Alto (GPRS),18.31,4.78,94.5,42.6,8.2
+2023-11-12,Sucre SENAMHI,,,,,1.5
 2023-11-12,Sunjani (GPRS),15.66,4.05,91.7,53.49,10.0
 2023-11-12,Tacagua_M (GPRS),22.01,7.1,91.0,19.16,
 2023-11-12,Templo (GPRS),11.88,2.09,95.7,59.88,10.0
@@ -62596,9 +63076,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-12,Vacas - SDC (GPRS),20.83,8.83,76.96,31.82,
 2023-11-12,Viacha_M (GPRS),18.2,4.38,93.7,39.44,1.5
 2023-11-12,Vila Vila - SDC (GPRS),29.68,17.6,66.93,22.38,4.1
+2023-11-12,Villa Copacabana,,,,,5.9
 2023-11-12,Viscachas Chirage (GPRS),14.14,4.54,93.2,51.25,6.2
 2023-11-12,Vivero Chimboco - SDC (GPRS),28.65,15.75,56.07,21.94,
 2023-11-12,Vivero Viloma - SDC (GPRS),29.75,15.06,56.05,0.14,0.1
+2023-11-12,Ñucchu,,,,,4.0
 2023-11-13,4 Esquinas (GPRS),16.16,13.0,,,3.4
 2023-11-13,Aeropueto Copacabana_M (GPRS),,,,,8.7
 2023-11-13,Aguadas (GPRS),18.4,15.73,54.54,43.69,3.1
@@ -62611,6 +63093,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-13,Chua Cocani_M (GPRS),15.94,15.14,56.63,43.98,8.3
 2023-11-13,Cobija,36.0,26.0,93.4,52.8,
 2023-11-13,Cochabamba,31.0,19.0,45.3,19.3,
+2023-11-13,Cochabamba Aeropuerto,,,,,0.3
 2023-11-13,Concepcion,36.0,28.0,73.6,39.0,
 2023-11-13,Cuatro Cañadas - CEA-2 (GPRS),39.85,37.42,41.56,33.1,
 2023-11-13,Cuatro Cañadas - Colonia Chihuahua (GPRS),40.35,29.96,63.87,32.74,
@@ -62618,6 +63101,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-13,El Alto,18.0,7.0,86.5,27.4,
 2023-11-13,El Alto Aeropuerto,,,,,5.7
 2023-11-13,El Común Caraparí,,,,,6.1
+2023-11-13,Guajara-Mirim - Guayaramerín,,,,,1.7
 2023-11-13,Guayaramerin_M (GPRS),,,,,5.0
 2023-11-13,Huancane Corapata_M (GPRS),,,,,6.8
 2023-11-13,Huarisuyo (GPRS),17.85,14.68,59.63,39.16,6.4
@@ -62664,12 +63148,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-13,Sunjani (GPRS),16.16,13.93,58.36,42.99,3.8
 2023-11-13,Tacagua_M (GPRS),20.04,16.58,59.35,25.15,0.6
 2023-11-13,Tarija,26.0,20.0,77.2,53.7,
+2023-11-13,Tarija Aeropuerto,,,,,17.4
 2023-11-13,Templo (GPRS),12.59,10.53,66.16,53.41,7.9
 2023-11-13,Temporal - SDC (GPRS),30.15,24.46,20.88,0.8,
 2023-11-13,Trinidad,38.0,29.0,73.8,39.5,
 2023-11-13,Vacas - SDC (GPRS),19.15,16.34,45.36,34.44,
 2023-11-13,Viacha_M (GPRS),19.71,15.58,50.51,27.81,3.0
 2023-11-13,Vila Vila - SDC (GPRS),29.55,25.18,27.85,19.79,
+2023-11-13,Villa Copacabana,,,,,5.8
 2023-11-13,Villamontes,28.0,26.0,73.5,57.4,
 2023-11-13,Viru Viru,38.0,29.0,73.8,39.5,
 2023-11-13,Viscachas Chirage (GPRS),15.72,12.09,81.5,48.12,15.6
@@ -62687,6 +63173,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-14,Caranavi_H (GPRS),,,,,5.12
 2023-11-14,Carura_M (GPRS),,,,,21.3
 2023-11-14,Charazani (GPRS),19.65,11.57,97.84,53.62,
+2023-11-14,Chimore Aeropuerto,,,,,14.2
 2023-11-14,Chua Cocani_M (GPRS),14.56,6.31,93.4,53.88,
 2023-11-14,Cobija,35.0,26.0,93.4,52.5,
 2023-11-14,Cochabamba,32.0,22.0,43.1,15.6,
@@ -62698,6 +63185,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-14,Desaguadero_M,17.24,14.01,55.41,47.13,
 2023-11-14,El Alto,16.0,10.0,75.7,38.6,
 2023-11-14,El Común Caraparí,,,,,0.1
+2023-11-14,Guajara-Mirim - Guayaramerín,,,,,0.5
 2023-11-14,Guanay_H (GPRS),,,,,27.0
 2023-11-14,Huarisuyo (GPRS),19.79,16.03,43.88,26.4,
 2023-11-14,Incapampa - Coroico_M (GPRS),,,,,8.3
@@ -62740,6 +63228,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-14,San Pedro de Buena Vista (GPRS),32.62,27.02,14.31,7.62,0.1
 2023-11-14,San Roque - El Alto (GPRS),19.52,18.25,27.72,22.02,
 2023-11-14,Santa Ana - Yacuma,36.0,30.0,74.0,44.0,
+2023-11-14,Sucre SENAMHI,,,,,4.2
 2023-11-14,Sunjani (GPRS),17.25,15.37,48.72,37.6,
 2023-11-14,Tacagua_M (GPRS),21.02,16.84,17.83,10.48,0.3
 2023-11-14,Tarija,30.0,20.0,82.2,39.6,
@@ -62751,6 +63240,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-14,Vacas - SDC (GPRS),20.16,17.74,44.72,25.37,
 2023-11-14,Viacha_M (GPRS),19.44,17.48,38.29,25.09,
 2023-11-14,Vila Vila - SDC (GPRS),30.06,28.37,25.88,11.19,0.1
+2023-11-14,Villa Copacabana,,,,,5.8
 2023-11-14,Villa Tunari_H (GPRS),,,,,0.03
 2023-11-14,Villamontes,28.0,24.0,68.5,50.5,
 2023-11-14,Viru Viru,37.0,30.0,65.6,41.7,
@@ -62795,6 +63285,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-15,Quila Quila_M (GPRS),27.7,26.32,19.56,9.12,
 2023-11-15,Reyes,39.0,30.0,74.0,35.2,
 2023-11-15,Riberalta,35.0,27.0,82.9,52.5,
+2023-11-15,Riberalta Aeropuerto,,,,,8.8
 2023-11-15,Riberalta_H (GPRS),,,,,0.88
 2023-11-15,Robore,41.0,30.0,65.6,31.6,
 2023-11-15,Roboré Aeropuerto,42.4,28.3,,,
@@ -62836,6 +63327,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-16,Aroma (GPRS),23.18,11.79,25.05,13.16,
 2023-11-16,Camiri,38.0,26.0,69.0,32.8,
 2023-11-16,Charazani (GPRS),21.66,10.23,99.01,48.78,
+2023-11-16,Chimore Aeropuerto,,,,,7.4
 2023-11-16,Chua Cocani_M (GPRS),20.58,15.68,51.42,35.14,
 2023-11-16,Cobija,37.0,27.0,82.9,44.3,
 2023-11-16,Cochabamba,32.0,23.0,35.4,11.9,
@@ -62901,6 +63393,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-16,Vacas - SDC (GPRS),21.85,20.59,38.44,30.58,
 2023-11-16,Viacha_M (GPRS),20.17,14.14,66.87,33.84,0.1
 2023-11-16,Vila Vila - SDC (GPRS),31.23,28.97,25.18,12.37,
+2023-11-16,Villa Copacabana,,,,,0.1
 2023-11-16,Villa Tunari_H (GPRS),,,,,0.23
 2023-11-16,Villamontes,39.0,31.0,62.0,39.8,
 2023-11-16,Viru Viru,38.0,30.0,58.1,37.2,
@@ -62908,6 +63401,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-16,Vivero Chimboco - SDC (GPRS),29.37,26.54,29.07,21.67,
 2023-11-16,Vivero Viloma - SDC (GPRS),31.15,29.03,25.74,12.78,
 2023-11-16,Yacuiba,35.0,27.0,78.1,43.8,
+2023-11-17,4 Esquinas (GPRS),19.24,1.4,,,
 2023-11-17,Aeropueto Copacabana_M (GPRS),,,,,2.2
 2023-11-17,Aguadas (GPRS),21.73,19.96,56.71,33.49,
 2023-11-17,Aiquile (GPRS),41.66,27.09,54.08,25.72,
@@ -62923,6 +63417,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-17,Cuatro Cañadas - Colonia Chihuahua (GPRS),39.99,37.35,40.87,32.35,
 2023-11-17,Desaguadero_M,17.71,15.73,56.8,45.4,
 2023-11-17,El Alto,20.0,11.0,53.7,22.5,
+2023-11-17,El Alto Aeropuerto,,,,,2.1
 2023-11-17,Huarisuyo (GPRS),20.86,17.58,45.71,28.17,
 2023-11-17,Incapampa - Coroico_M (GPRS),,,,,1.4
 2023-11-17,Isla Suriqui_M (GPRS),18.03,15.34,52.55,43.88,0.1
@@ -62976,6 +63471,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-17,Vivero Chimboco - SDC (GPRS),30.8,27.97,29.81,18.44,
 2023-11-17,Vivero Viloma - SDC (GPRS),31.69,30.44,21.03,16.77,
 2023-11-17,Yacuiba,39.0,28.0,57.6,39.8,
+2023-11-18,4 Esquinas (GPRS),20.0,7.58,,,
 2023-11-18,Aguadas (GPRS),23.73,17.58,63.06,26.87,
 2023-11-18,Aiquile (GPRS),38.88,21.52,50.29,17.85,
 2023-11-18,Alto Peñas (GPRS),19.85,17.44,34.54,27.9,
@@ -63019,6 +63515,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-18,Santa Ana - Yacuma,39.0,31.0,61.9,32.8,
 2023-11-18,Sunjani (GPRS),22.18,17.48,57.83,23.85,
 2023-11-18,Tacagua_M (GPRS),21.08,18.08,10.93,9.25,
+2023-11-18,Tarata,,,,,0.7
 2023-11-18,Tarija,33.0,18.0,93.2,16.1,
 2023-11-18,Templo (GPRS),17.9,14.68,63.32,25.14,
 2023-11-18,Temporal - SDC (GPRS),33.06,30.76,18.16,6.84,
@@ -63030,7 +63527,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-18,Viscachas Chirage (GPRS),20.65,13.97,73.01,22.87,
 2023-11-18,Vivero Chimboco - SDC (GPRS),31.65,29.56,24.61,7.5,
 2023-11-18,Vivero Viloma - SDC (GPRS),33.8,30.83,14.26,7.86,
+2023-11-18,Ñucchu,,,,,10.0
 2023-11-19, Paniagua_M (GPRS),,,,,1.2
+2023-11-19,4 Esquinas (GPRS),15.05,4.1,,,1.2
 2023-11-19,Aguadas (GPRS),12.96,10.8,73.39,45.81,3.0
 2023-11-19,Aiquile (GPRS),32.27,20.71,67.45,38.19,
 2023-11-19,Alto Peñas (GPRS),19.83,14.76,27.34,22.06,
@@ -63048,6 +63547,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-19,Cuatro Cañadas - Colonia Chihuahua (GPRS),28.26,22.83,97.1,81.5,5.8
 2023-11-19,Desaguadero_M,18.07,15.85,33.11,23.4,
 2023-11-19,El Alto,19.0,10.0,36.9,14.1,
+2023-11-19,El Alto Aeropuerto,,,,,0.4
 2023-11-19,El Común Caraparí,,,,,21.5
 2023-11-19,Guanay_H (GPRS),,,,,6.0
 2023-11-19,Huarisuyo (GPRS),20.68,16.67,25.34,20.07,
@@ -63080,6 +63580,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-19,San Pedro de Buena Vista (GPRS),26.65,23.02,40.76,30.1,
 2023-11-19,San Roque - El Alto (GPRS),19.36,17.01,23.13,18.95,
 2023-11-19,Santa Ana - Yacuma,38.0,31.0,69.8,39.5,
+2023-11-19,Sucre SENAMHI,,,,,37.0
 2023-11-19,Sunjani (GPRS),13.19,10.2,75.86,55.45,2.2
 2023-11-19,Tacagua_M (GPRS),21.81,18.93,7.62,6.43,
 2023-11-19,Tarija,28.0,18.0,87.4,50.8,
@@ -63094,11 +63595,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-19,Viscachas Chirage (GPRS),13.71,9.63,78.91,52.96,0.6
 2023-11-19,Vivero Chimboco - SDC (GPRS),25.65,22.55,35.92,15.47,
 2023-11-19,Vivero Viloma - SDC (GPRS),28.23,25.1,31.64,22.76,2.0
+2023-11-19,Ñucchu,,,,,28.0
 2023-11-20, Paniagua_M (GPRS),,,,,0.3
+2023-11-20,4 Esquinas (GPRS),15.38,2.84,,,4.5
 2023-11-20,Aguadas (GPRS),19.11,13.53,65.83,47.41,2.8
 2023-11-20,Aiquile (GPRS),36.66,23.54,61.99,32.9,
 2023-11-20,Alto Peñas (GPRS),19.22,16.36,40.09,30.27,1.1
 2023-11-20,Anzaldo_M (GPRS),,,,,1.2
+2023-11-20,Apolo,28.0,28.0,57.6,57.6,
 2023-11-20,Aroma (GPRS),22.3,12.22,9.37,4.43,
 2023-11-20,Buena Vista S.(GPRS),,,,,0.2
 2023-11-20,Camiri,32.0,25.0,77.8,45.8,
@@ -63106,6 +63610,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-20,Chua Cocani_M (GPRS),17.57,15.22,36.94,28.28,2.4
 2023-11-20,Cobija,28.0,24.0,99.1,83.0,
 2023-11-20,Cochabamba,31.0,20.0,48.8,19.3,
+2023-11-20,Cochabamba Aeropuerto,,,,,0.1
 2023-11-20,Concepcion,28.0,24.0,87.8,69.3,
 2023-11-20,Covendo_M (GPRS),,,,,8.9
 2023-11-20,Cuatro Cañadas - CEA-2 (GPRS),29.35,25.09,93.1,71.75,0.4
@@ -63141,9 +63646,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-20,Roboré Aeropuerto,,22.6,,,3.4
 2023-11-20,Rurrenabaque,33.0,27.0,83.0,55.1,
 2023-11-20,Sacacani_M (GPRS),,,,,0.5
+2023-11-20,Samaipata,,,,,3.0
 2023-11-20,San Andres de Machaca_M (GPRS),20.7,17.3,19.69,13.12,
+2023-11-20,San Ignacio de Moxos Aerop,,,,,1.0
 2023-11-20,San Jacinto_M (GPRS),28.66,26.65,51.57,42.83,2.7
 2023-11-20,San Joaquin,27.0,24.0,93.3,87.9,
+2023-11-20,San Jose de Chiquitos,30.0,27.0,82.9,61.7,
 2023-11-20,San Julian - Comunidad Los Angeles (GPRS),30.28,28.9,80.8,67.96,1.0
 2023-11-20,San Julian - Nucleo 32 (GPRS),28.51,26.54,,,9.4
 2023-11-20,San Pedro - Río Victoria (GPRS),26.47,25.8,89.0,80.6,8.8
@@ -63156,6 +63664,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-20,Sunjani (GPRS),17.04,14.11,63.5,53.0,3.3
 2023-11-20,Tacagua_M (GPRS),21.61,18.93,14.45,8.2,
 2023-11-20,Tarija,30.0,21.0,68.0,42.2,
+2023-11-20,Tarija Aeropuerto,,,,,2.1
 2023-11-20,Templo (GPRS),14.95,10.51,72.16,35.53,3.2
 2023-11-20,Temporal - SDC (GPRS),30.9,27.23,23.69,12.12,0.2
 2023-11-20,Trinidad,28.0,24.0,93.4,78.2,
@@ -63170,3 +63679,511 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-20,Vivero Chimboco - SDC (GPRS),28.41,25.51,31.69,15.15,
 2023-11-20,Vivero Viloma - SDC (GPRS),30.08,25.41,29.24,3.79,1.9
 2023-11-20,Yacuiba,37.0,28.0,58.1,39.2,
+2023-11-21, Paniagua_M (GPRS),,,,,44.2
+2023-11-21,4 Esquinas (GPRS),18.57,0.58,,,1.8
+2023-11-21,Aguadas (GPRS),15.57,8.05,85.6,56.69,5.1
+2023-11-21,Aiquile (GPRS),36.79,19.66,62.31,32.26,
+2023-11-21,Alto Peñas (GPRS),18.08,14.44,44.25,28.21,
+2023-11-21,Aroma (GPRS),22.96,10.4,11.9,5.84,
+2023-11-21,Buena Vista S.(GPRS),,,,,0.6
+2023-11-21,Camiri,35.0,23.0,82.5,38.7,
+2023-11-21,Chimore Aeropuerto,,,,,17.6
+2023-11-21,Chua Cocani_M (GPRS),18.62,16.2,42.94,31.09,
+2023-11-21,Cobija,30.0,25.0,87.9,69.7,
+2023-11-21,Cochabamba,31.0,18.0,59.1,15.6,
+2023-11-21,Cochabamba Aeropuerto,,,,,0.2
+2023-11-21,Concepcion,30.0,22.0,87.6,58.1,
+2023-11-21,Covendo_M (GPRS),,,,,14.1
+2023-11-21,Cuatro Cañadas - CEA-2 (GPRS),32.89,30.07,64.46,56.45,
+2023-11-21,Cuatro Cañadas - Colonia Chihuahua (GPRS),33.69,31.92,61.03,53.94,16.0
+2023-11-21,Desaguadero_M,18.39,15.86,39.36,27.64,
+2023-11-21,El Alto,18.0,10.0,70.6,23.6,
+2023-11-21,Guajara-Mirim - Guayaramerín,,,,,74.0
+2023-11-21,Guanay_H (GPRS),,,,,46.0
+2023-11-21,Guayaramerin_M (GPRS),,,,,85.3
+2023-11-21,Huarisuyo (GPRS),20.74,16.26,34.54,23.97,
+2023-11-21,Incapampa - Coroico_M (GPRS),,,,,0.1
+2023-11-21,Isla Suriqui_M (GPRS),18.1,16.26,42.27,26.88,
+2023-11-21,Ixiamas S.(GPRS),,,,,5.4
+2023-11-21,Ixiamas_M (GPRS),,,,,2.4
+2023-11-21,Jesús de Machaca_M (GPRS),21.87,18.57,16.85,8.65,
+2023-11-21,Magdalena,31.0,24.0,99.1,65.8,
+2023-11-21,Mizque - SDC (GPRS),28.83,23.81,42.19,27.42,
+2023-11-21,Oruro (GPRS),24.0,12.0,46.6,28.8,
+2023-11-21,Pailon - Pozo del Tigre (GPRS),32.33,30.44,62.95,56.92,18.0
+2023-11-21,Palos Blancos S.(GPRS),,,,,1.0
+2023-11-21,Palos Blancos_M (GPRS),,,,,0.1
+2023-11-21,Pocona - SDC (GPRS),20.95,17.27,66.97,48.6,
+2023-11-21,Pojo - SDC (GPRS),23.83,20.7,68.42,58.12,
+2023-11-21,Potolo_M (GPRS),0.0,0.0,0.0,0.0,
+2023-11-21,Potosí,19.0,6.0,48.0,30.5,
+2023-11-21,Presa Misicuni (GPRS),,,,,2.5
+2023-11-21,Puerto Rico S.(GPRS),,,,,16.6
+2023-11-21,Puerto Suarez,36.0,28.0,83.0,49.7,
+2023-11-21,Puerto Suarez Aeropuerto (F),36.0,28.0,83.0,49.7,
+2023-11-21,Puerto Villarroel (GPRS)_M,31.14,27.54,85.3,72.24,0.4
+2023-11-21,Putucuni Calientes (GPRS),12.57,8.05,79.35,45.49,4.5
+2023-11-21,Quila Quila_M (GPRS),21.08,19.36,55.67,35.45,
+2023-11-21,Reyes,32.0,24.0,93.3,55.1,
+2023-11-21,Riberalta,28.0,24.0,93.3,78.1,
+2023-11-21,Riberalta Aeropuerto,,,,,46.6
+2023-11-21,Riberalta_H (GPRS),,,,,2.88
+2023-11-21,Robore,36.0,27.0,82.9,46.8,
+2023-11-21,Rurrenabaque,31.0,24.0,93.3,58.3,
+2023-11-21,San Andres de Machaca_M (GPRS),21.48,17.93,15.41,8.82,
+2023-11-21,San Buenaventura_M (GPRS),,,,,8.9
+2023-11-21,San Ignacio de Moxos Aerop,,,,,0.7
+2023-11-21,San Jacinto_M (GPRS),30.14,28.24,40.36,26.71,
+2023-11-21,San Joaquin,31.0,25.0,87.9,65.8,
+2023-11-21,San Jose de Chiquitos,27.0,27.0,78.1,78.1,
+2023-11-21,San Julian - Comunidad Los Angeles (GPRS),34.12,30.99,63.35,51.55,
+2023-11-21,San Julian - Nucleo 32 (GPRS),31.71,28.97,,,1.4
+2023-11-21,San Pedro - Río Victoria (GPRS),30.63,29.07,77.7,67.13,
+2023-11-21,San Pedro - San Antonio (GPRS),32.12,28.34,77.39,62.77,
+2023-11-21,San Pedro de Buena Vista (GPRS),28.22,23.41,33.62,20.21,1.8
+2023-11-21,San Roque - El Alto (GPRS),20.19,18.28,42.81,25.41,
+2023-11-21,Santa Ana - Yacuma,33.0,25.0,93.3,58.7,
+2023-11-21,Sena_H (GPRS),,,,,0.76
+2023-11-21,Sunjani (GPRS),15.98,12.03,70.96,58.08,2.0
+2023-11-21,Tacagua_M (GPRS),22.46,19.11,14.26,9.11,
+2023-11-21,Tarija,30.0,22.0,60.0,32.8,
+2023-11-21,Templo (GPRS),14.72,9.11,80.0,44.02,0.4
+2023-11-21,Temporal - SDC (GPRS),30.06,19.81,65.97,0.15,0.7
+2023-11-21,Trinidad,31.0,24.0,99.1,61.9,
+2023-11-21,Trompillo Aeropuerto,,,,,12.4
+2023-11-21,Vacas - SDC (GPRS),12.07,6.91,75.45,57.93,
+2023-11-21,Viacha_M (GPRS),21.61,17.36,28.28,19.1,
+2023-11-21,Vila Vila - SDC (GPRS),27.28,25.43,62.31,29.36,
+2023-11-21,Villa Rivero_M (GPRS),,,,,11.3
+2023-11-21,Villa Tunari_H (GPRS),,,,,0.06
+2023-11-21,Villamontes,36.0,26.0,82.8,49.5,
+2023-11-21,Viru Viru,30.0,24.0,93.3,61.7,
+2023-11-21,Viscachas Chirage (GPRS),12.96,9.22,88.4,69.64,1.5
+2023-11-21,Vivero Chimboco - SDC (GPRS),28.09,20.89,42.79,12.91,
+2023-11-21,Vivero Viloma - SDC (GPRS),28.48,24.29,31.21,19.98,1.7
+2023-11-21,Yacuiba,35.0,25.0,68.8,38.7,
+2023-11-22, Paniagua_M (GPRS),,,,,2.7
+2023-11-22,4 Esquinas (GPRS),18.74,3.59,,,0.6
+2023-11-22,Aguadas (GPRS),19.73,11.99,68.51,29.21,2.2
+2023-11-22,Aiquile (GPRS),37.13,18.68,50.12,28.65,0.1
+2023-11-22,Alto Peñas (GPRS),17.77,14.29,43.48,29.73,
+2023-11-22,Anzaldo_M (GPRS),,,,,0.3
+2023-11-22,Aroma (GPRS),23.17,9.62,9.47,4.21,
+2023-11-22,Camiri,35.0,24.0,77.7,38.4,
+2023-11-22,Chimore Aeropuerto,,,,,3.6
+2023-11-22,Chua Cocani_M (GPRS),18.62,16.13,29.94,23.14,
+2023-11-22,Cobija,34.0,26.0,88.0,52.3,
+2023-11-22,Cochabamba,32.0,18.0,67.5,12.8,
+2023-11-22,Cochabamba Aeropuerto,,,,,6.8
+2023-11-22,Concepcion,32.0,24.0,82.6,45.8,
+2023-11-22,Cuatro Cañadas - CEA-2 (GPRS),33.96,32.59,52.81,48.67,
+2023-11-22,Cuatro Cañadas - Colonia Chihuahua (GPRS),35.26,34.26,47.29,44.7,0.4
+2023-11-22,Desaguadero_M,16.71,14.3,38.82,29.34,
+2023-11-22,El Alto,18.0,10.0,36.9,20.4,
+2023-11-22,El Alto Aeropuerto,,,,,0.2
+2023-11-22,Huarisuyo (GPRS),19.82,15.98,35.31,23.39,
+2023-11-22,Isla Suriqui_M (GPRS),18.03,14.89,35.35,28.77,
+2023-11-22,Ixiamas_M (GPRS),,,,,1.0
+2023-11-22,Jesús de Machaca_M (GPRS),21.05,17.79,17.29,14.25,
+2023-11-22,Mizque - SDC (GPRS),32.41,28.61,30.12,21.32,
+2023-11-22,Oruro (GPRS),23.0,11.0,57.4,23.3,
+2023-11-22,Pailon - Pozo del Tigre (GPRS),34.87,33.96,49.57,44.9,
+2023-11-22,Pocona - SDC (GPRS),24.63,20.71,59.01,40.47,
+2023-11-22,Pojo - SDC (GPRS),23.97,22.07,63.02,55.72,
+2023-11-22,Potolo_M (GPRS),0.0,0.0,0.0,0.0,
+2023-11-22,Potosí,14.0,5.0,66.3,24.1,
+2023-11-22,Presa Misicuni (GPRS),,,,,18.6
+2023-11-22,Puente Chiñata_H- SDC (GPRS),,,,,0.1
+2023-11-22,Puerto Suarez,39.0,31.0,65.8,44.8,
+2023-11-22,Puerto Suarez Aeropuerto (F),39.0,31.0,65.8,44.8,
+2023-11-22,Puerto Villarroel (GPRS)_M,30.54,25.99,89.1,71.66,2.2
+2023-11-22,Putucuni Calientes (GPRS),14.27,9.35,74.6,17.83,0.7
+2023-11-22,Quila Quila_M (GPRS),24.49,22.97,35.13,28.21,
+2023-11-22,Reyes,34.0,26.0,82.8,46.3,
+2023-11-22,Riberalta,33.0,26.0,82.8,55.3,
+2023-11-22,Robore,36.0,28.0,73.6,44.1,
+2023-11-22,Rurrenabaque,34.0,24.0,87.8,46.3,
+2023-11-22,San Andres de Machaca_M (GPRS),20.11,17.11,8.76,7.38,
+2023-11-22,San Buenaventura_M (GPRS),,,,,0.1
+2023-11-22,San Joaquin,34.0,26.0,82.8,49.2,
+2023-11-22,San Jose de Chiquitos,36.0,29.0,73.8,46.8,
+2023-11-22,San Julian - Comunidad Los Angeles (GPRS),35.45,34.33,48.87,44.91,
+2023-11-22,San Julian - Nucleo 32 (GPRS),34.46,32.7,,,1.0
+2023-11-22,San Pedro - Río Victoria (GPRS),33.82,31.67,63.7,58.76,0.4
+2023-11-22,San Pedro - San Antonio (GPRS),33.06,31.61,62.02,55.99,
+2023-11-22,San Pedro de Buena Vista (GPRS),30.0,27.56,26.68,9.97,
+2023-11-22,San Roque - El Alto (GPRS),20.2,18.0,30.66,22.74,
+2023-11-22,Santa Ana - Yacuma,33.0,28.0,78.2,55.3,
+2023-11-22,Sunjani (GPRS),18.34,11.26,59.33,27.66,
+2023-11-22,Tacagua_M (GPRS),21.15,17.49,8.97,6.65,
+2023-11-22,Tarata,,,,,4.0
+2023-11-22,Tarija,28.0,23.0,68.4,50.8,
+2023-11-22,Templo (GPRS),16.01,10.62,59.24,29.78,
+2023-11-22,Temporal - SDC (GPRS),29.67,28.77,31.81,4.87,2.6
+2023-11-22,Trinidad,34.0,27.0,82.9,49.2,
+2023-11-22,Vacas - SDC (GPRS),21.54,14.49,71.12,19.19,20.9
+2023-11-22,Viacha_M (GPRS),21.09,17.94,26.24,16.68,
+2023-11-22,Vila Vila - SDC (GPRS),29.48,27.66,35.59,14.39,0.2
+2023-11-22,Villa Rivero_M (GPRS),,,,,0.5
+2023-11-22,Villa Tunari_H (GPRS),,,,,0.03
+2023-11-22,Villamontes,38.0,27.0,73.5,39.5,
+2023-11-22,Viru Viru,31.0,25.0,88.0,58.3,
+2023-11-22,Viscachas Chirage (GPRS),18.9,11.06,78.62,31.5,0.4
+2023-11-22,Vivero Chimboco - SDC (GPRS),30.71,28.18,34.03,4.55,0.1
+2023-11-22,Vivero Viloma - SDC (GPRS),31.59,28.68,21.63,10.01,0.1
+2023-11-22,Yacuiba,35.0,27.0,69.1,46.3,
+2023-11-23, Paniagua_M (GPRS),,,,,1.1
+2023-11-23,4 Esquinas (GPRS),13.5,5.0,,,7.6
+2023-11-23,Aguadas (GPRS),16.08,9.58,71.17,47.58,0.1
+2023-11-23,Aiquile (GPRS),36.81,23.05,60.59,32.11,0.6
+2023-11-23,Alalay (GPRS),8.77,3.9,100.0,84.65,
+2023-11-23,Alto Peñas (GPRS),14.64,7.49,86.8,47.94,
+2023-11-23,Aroma (GPRS),23.6,10.75,21.4,9.12,
+2023-11-23,Buena Vista S.(GPRS),,,,,6.2
+2023-11-23,Charazani (GPRS),15.86,10.12,,,
+2023-11-23,Chua Cocani_M (GPRS),14.89,5.86,88.2,48.47,
+2023-11-23,Cochabamba Aeropuerto,,,,,0.3
+2023-11-23,Cuatro Cañadas - CEA-2 (GPRS),34.54,32.56,60.5,51.84,
+2023-11-23,Cuatro Cañadas - Colonia Chihuahua (GPRS),35.78,34.15,51.6,48.15,
+2023-11-23,Desaguadero_M,17.36,15.14,49.02,41.65,
+2023-11-23,El Alto Aeropuerto,,,,,13.1
+2023-11-23,Guajara-Mirim - Guayaramerín,,,,,3.0
+2023-11-23,Guayaramerin_M (GPRS),,,,,15.1
+2023-11-23,Huancane Corapata_M (GPRS),,,,,0.4
+2023-11-23,Huarisuyo (GPRS),19.78,12.5,55.62,32.59,
+2023-11-23,Isla Suriqui_M (GPRS),18.03,15.41,55.48,37.83,
+2023-11-23,Jesús de Machaca_M (GPRS),19.75,18.38,29.89,26.46,
+2023-11-23,Mizque - SDC (GPRS),30.59,26.71,34.61,27.87,
+2023-11-23,Orinoca - UTO (GPRS),21.7,8.46,69.72,10.36,
+2023-11-23,Pailon - Pozo del Tigre (GPRS),34.49,33.31,57.45,51.92,
+2023-11-23,Patacamaya (GPRS),18.0,8.92,80.13,35.21,
+2023-11-23,Pocona - SDC (GPRS),25.7,23.94,53.94,33.49,0.1
+2023-11-23,Pojo - SDC (GPRS),25.61,22.86,63.15,48.03,
+2023-11-23,Potolo_M (GPRS),0.0,0.0,0.0,0.0,
+2023-11-23,Presa Misicuni (GPRS),,,,,0.1
+2023-11-23,Puerto Villarroel (GPRS)_M,34.04,31.36,71.46,60.59,0.7
+2023-11-23,Puerto Villarroel_H (GPRS),,,,,0.01
+2023-11-23,Putucuni Calientes (GPRS),8.94,3.54,91.4,66.92,1.4
+2023-11-23,Quila Quila_M (GPRS),20.61,18.51,60.79,44.83,41.2
+2023-11-23,Quillacas (GPRS),23.35,6.38,68.45,9.71,
+2023-11-23,Riberalta_H (GPRS),,,,,0.01
+2023-11-23,Sacabamba (GPRS),21.54,8.39,100.0,45.6,
+2023-11-23,San Andres de Machaca_M (GPRS),21.35,16.45,36.39,18.33,
+2023-11-23,San Ignacio de Moxos Aerop,,,,,6.8
+2023-11-23,San Julian - Comunidad Los Angeles (GPRS),36.36,33.35,53.7,43.07,
+2023-11-23,San Julian - Nucleo 32 (GPRS),34.38,32.11,,,1.0
+2023-11-23,San Pedro - Río Victoria (GPRS),33.97,31.8,65.6,57.41,
+2023-11-23,San Pedro - San Antonio (GPRS),34.57,32.34,61.81,56.85,
+2023-11-23,San Pedro de Buena Vista (GPRS),25.0,19.52,77.96,38.11,17.8
+2023-11-23,San Roque - El Alto (GPRS),16.0,12.64,54.08,41.59,0.7
+2023-11-23,Sena_H (GPRS),,,,,0.13
+2023-11-23,Soracachi (GPRS),17.76,7.97,73.12,35.52,
+2023-11-23,Sunjani (GPRS),13.75,4.89,81.7,51.68,0.9
+2023-11-23,Tacagua_M (GPRS),22.98,19.19,19.87,12.71,
+2023-11-23,Templo (GPRS),10.8,4.51,81.4,55.65,0.3
+2023-11-23,Temporal - SDC (GPRS),28.57,25.14,20.27,0.22,0.2
+2023-11-23,Totora i_M (GPRS),,,,,0.8
+2023-11-23,Trompillo Aeropuerto,,,,,0.8
+2023-11-23,Univalle (GPRS),16.59,16.59,,,
+2023-11-23,Vacas - SDC (GPRS),17.06,14.4,72.04,48.63,0.6
+2023-11-23,Viacha_M (GPRS),18.19,10.67,61.31,32.37,
+2023-11-23,Vila Vila - SDC (GPRS),25.09,22.32,41.59,34.89,
+2023-11-23,Villa Rivero_M (GPRS),,,,,1.2
+2023-11-23,Villa Tunari_H (GPRS),,,,,1.81
+2023-11-23,Villamontes Aeropuerto,,,,,45.2
+2023-11-23,Viscachas Chirage (GPRS),13.49,8.53,81.3,53.2,0.5
+2023-11-23,Vivero Chimboco - SDC (GPRS),27.79,25.7,30.02,23.74,
+2023-11-23,Vivero Viloma - SDC (GPRS),27.65,25.13,35.26,24.63,6.3
+2023-11-24, Paniagua_M (GPRS),,,,,44.6
+2023-11-24,4 Esquinas (GPRS),8.48,7.5,,,13.6
+2023-11-24,Aguadas (GPRS),9.48,8.14,89.1,77.99,14.6
+2023-11-24,Aiquile (GPRS),22.49,15.77,92.9,71.31,6.8
+2023-11-24,Alalay (GPRS),8.29,5.49,100.0,93.01,14.8
+2023-11-24,Alto Peñas (GPRS),7.71,6.51,98.7,87.0,8.0
+2023-11-24,Anzaldo_M (GPRS),,,,,22.2
+2023-11-24,Aroma (GPRS),16.11,11.31,51.95,41.73,
+2023-11-24,Buena Vista S.(GPRS),,,,,2.6
+2023-11-24,Camiri,25.0,19.0,93.1,60.4,
+2023-11-24,Caranavi_H (GPRS),,,,,3.07
+2023-11-24,Carura_M (GPRS),,,,,18.5
+2023-11-24,Charazani (GPRS),13.03,11.27,91.55,89.07,
+2023-11-24,Chua Cocani_M (GPRS),7.95,6.64,94.3,86.0,23.0
+2023-11-24,Cobija,30.0,26.0,93.4,69.7,
+2023-11-24,Cochabamba,21.0,15.0,87.3,45.9,
+2023-11-24,Cochabamba Aeropuerto,,,,,10.9
+2023-11-24,Concepcion,21.0,20.0,99.1,99.1,
+2023-11-24,Coroico_H (GPRS),,,,,9.63
+2023-11-24,Cotagaita_H (GPRS),,,,,0.05
+2023-11-24,Covendo_M (GPRS),,,,,60.1
+2023-11-24,Cuatro Cañadas - CEA-2 (GPRS),24.5,23.25,90.6,80.8,10.2
+2023-11-24,Cuatro Cañadas - Colonia Chihuahua (GPRS),23.42,23.16,94.4,88.3,18.6
+2023-11-24,Desaguadero_M,11.34,9.85,75.26,67.51,17.2
+2023-11-24,El Alto,10.0,6.0,99.3,75.7,
+2023-11-24,El Alto Aeropuerto,,,,,4.0
+2023-11-24,El Puente_H (GPRS),,,,,0.06
+2023-11-24,Guajara-Mirim - Guayaramerín,,,,,17.5
+2023-11-24,Guanay_H (GPRS),,,,,191.0
+2023-11-24,Guayaramerin_M (GPRS),,,,,44.2
+2023-11-24,Huancane Corapata_M (GPRS),,,,,4.5
+2023-11-24,Huarisuyo (GPRS),10.09,7.84,93.4,79.1,4.7
+2023-11-24,Incapampa - Coroico_M (GPRS),,,,,76.4
+2023-11-24,Isla Suriqui_M (GPRS),9.11,8.02,89.2,78.45,2.3
+2023-11-24,Jesús de Machaca_M (GPRS),11.15,11.15,78.21,78.21,8.1
+2023-11-24,Magdalena,25.0,24.0,99.1,93.3,
+2023-11-24,Mizque - SDC (GPRS),16.0,14.02,95.3,89.0,31.7
+2023-11-24,Orinoca - UTO (GPRS),18.42,11.67,60.03,32.2,
+2023-11-24,Oruro (GPRS),18.0,14.0,54.3,42.0,
+2023-11-24,Pailon - Pozo del Tigre (GPRS),23.92,23.01,95.1,87.6,84.6
+2023-11-24,Palos Blancos S.(GPRS),,,,,12.0
+2023-11-24,Palos Blancos_M (GPRS),,,,,1.5
+2023-11-24,Pasorapa (GPRS),15.17,0.0,93.35,0.0,
+2023-11-24,Patacamaya (GPRS),12.76,7.75,93.97,60.58,
+2023-11-24,Pocona - SDC (GPRS),19.82,14.24,88.7,61.88,17.4
+2023-11-24,Pojo - SDC (GPRS),19.22,18.35,79.3,68.53,17.9
+2023-11-24,Potolo_M (GPRS),0.0,0.0,0.0,0.0,
+2023-11-24,Potosí,10.0,8.0,75.3,70.4,
+2023-11-24,Presa Misicuni (GPRS),,,,,13.0
+2023-11-24,Puente Chiñata_H- SDC (GPRS),,,,,15.9
+2023-11-24,Puerto Rico S.(GPRS),,,,,3.0
+2023-11-24,Puerto Suarez,30.0,25.0,93.4,74.0,
+2023-11-24,Puerto Suarez Aeropuerto (F),30.0,25.0,93.4,74.0,
+2023-11-24,Puerto Villarroel (GPRS)_M,24.15,22.97,91.7,89.6,0.9
+2023-11-24,Puerto Villarroel_H (GPRS),,,,,17.06
+2023-11-24,Putucuni Calientes (GPRS),5.28,4.65,95.5,85.0,11.7
+2023-11-24,Quila Quila_M (GPRS),15.82,14.51,76.46,59.96,6.4
+2023-11-24,Quillacas (GPRS),20.21,13.19,46.18,26.04,
+2023-11-24,Reyes,32.0,23.0,99.1,58.5,
+2023-11-24,Riberalta,26.0,24.0,93.3,82.8,
+2023-11-24,Riberalta Aeropuerto,,,,,31.8
+2023-11-24,Riberalta_H (GPRS),,,,,2.34
+2023-11-24,Robore,25.0,23.0,93.3,93.2,
+2023-11-24,Rurrenabaque,29.0,22.0,99.1,65.4,
+2023-11-24,Sacabamba (GPRS),14.13,8.44,100.0,74.91,18.2
+2023-11-24,Sacacani_M (GPRS),,,,,4.9
+2023-11-24,San Andres de Machaca_M (GPRS),12.33,9.61,80.3,60.85,6.9
+2023-11-24,San Ignacio de Moxos Aerop,,,,,1.6
+2023-11-24,San Joaquin,25.0,23.0,99.1,93.2,
+2023-11-24,San Jose de Chiquitos,27.0,23.0,93.2,78.1,
+2023-11-24,San Julian - Comunidad Los Angeles (GPRS),23.83,22.95,95.4,91.3,21.6
+2023-11-24,San Julian - Nucleo 32 (GPRS),23.73,23.27,,,0.8
+2023-11-24,San Pedro - Río Victoria (GPRS),23.14,22.53,91.7,86.9,27.8
+2023-11-24,San Pedro - San Antonio (GPRS),23.5,22.42,92.5,87.3,39.8
+2023-11-24,San Pedro de Buena Vista (GPRS),16.07,13.09,97.0,83.1,29.6
+2023-11-24,San Pedro de Tiquina_M (GPRS),,,,,2.3
+2023-11-24,San Roque - El Alto (GPRS),10.77,8.97,89.7,76.44,5.7
+2023-11-24,Santa Ana - Yacuma,25.0,22.0,99.1,93.2,
+2023-11-24,Sena_H (GPRS),,,,,0.62
+2023-11-24,Soracachi (GPRS),15.94,10.07,66.8,40.66,
+2023-11-24,Sunjani (GPRS),10.17,7.22,87.9,73.71,27.3
+2023-11-24,Tacagua_M (GPRS),17.69,11.74,73.94,34.85,
+2023-11-24,Tarata,,,,,13.5
+2023-11-24,Tarija,22.0,16.0,81.7,60.0,
+2023-11-24,Taruma,,,,,29.0
+2023-11-24,Templo (GPRS),7.84,5.16,93.8,80.2,19.4
+2023-11-24,Temporal - SDC (GPRS),19.12,16.64,72.36,1.29,7.5
+2023-11-24,Trinidad,25.0,22.0,99.1,77.8,
+2023-11-24,Trompillo Aeropuerto,,,,,7.8
+2023-11-24,Tupiza_2_H (GPRS),,,,,0.25
+2023-11-24,Vacas - SDC (GPRS),11.24,9.53,92.3,83.1,29.1
+2023-11-24,Viacha_M (GPRS),12.38,7.92,90.7,65.3,2.3
+2023-11-24,Vila Vila - SDC (GPRS),15.83,13.94,90.4,70.56,26.3
+2023-11-24,Villa Rivero_M (GPRS),,,,,16.8
+2023-11-24,Villa Tunari_H (GPRS),,,,,23.46
+2023-11-24,Villamontes,26.0,22.0,93.2,68.9,
+2023-11-24,Villamontes Aeropuerto,,,,,3.3
+2023-11-24,Viru Viru,27.0,22.0,93.2,65.0,
+2023-11-24,Viscachas Chirage (GPRS),10.0,8.42,83.5,75.54,12.1
+2023-11-24,Vivero Chimboco - SDC (GPRS),16.07,16.07,69.85,54.86,7.5
+2023-11-24,Vivero Viloma - SDC (GPRS),21.2,16.84,59.0,37.42,8.0
+2023-11-24,Yacuiba,22.0,19.0,93.1,77.4,
+2023-11-25,4 Esquinas (GPRS),9.81,7.35,,,4.4
+2023-11-25,Aeropueto Copacabana_M (GPRS),,,,,3.9
+2023-11-25,Aguadas (GPRS),12.24,8.24,86.9,70.17,4.8
+2023-11-25,Aiquile (GPRS),27.7,17.72,82.2,51.03,2.4
+2023-11-25,Alto Peñas (GPRS),12.92,7.66,96.0,72.01,7.8
+2023-11-25,Aroma (GPRS),21.32,10.85,69.28,24.32,
+2023-11-25,Camiri,25.0,19.0,93.1,64.6,
+2023-11-25,Chua Cocani_M (GPRS),11.01,7.49,95.2,72.11,3.7
+2023-11-25,Cobija,28.0,24.0,93.3,78.2,
+2023-11-25,Cochabamba,23.0,17.0,76.7,43.4,
+2023-11-25,Cochabamba Aeropuerto,,,,,0.7
+2023-11-25,Concepcion,27.0,21.0,93.2,73.5,
+2023-11-25,Cuatro Cañadas - CEA-2 (GPRS),28.24,26.86,67.83,63.01,
+2023-11-25,Cuatro Cañadas - Colonia Chihuahua (GPRS),27.41,26.16,78.51,71.02,0.2
+2023-11-25,Desaguadero_M,15.14,12.9,62.5,49.53,1.0
+2023-11-25,El Alto,13.0,7.0,92.7,57.9,
+2023-11-25,El Alto Aeropuerto,,,,,6.1
+2023-11-25,Guajara-Mirim - Guayaramerín,,,,,5.8
+2023-11-25,Huancane Corapata_M (GPRS),,,,,3.2
+2023-11-25,Huarisuyo (GPRS),14.86,10.08,83.5,58.35,1.7
+2023-11-25,Isla Suriqui_M (GPRS),14.31,12.28,68.31,57.43,1.9
+2023-11-25,Jesús de Machaca_M (GPRS),14.6,10.69,76.12,50.65,3.8
+2023-11-25,Mizque - SDC (GPRS),25.99,20.43,64.0,45.92,7.3
+2023-11-25,Oruro (GPRS),20.0,14.0,58.4,42.6,
+2023-11-25,Pailon - Pozo del Tigre (GPRS),27.05,23.99,82.6,72.16,
+2023-11-25,Pocona - SDC (GPRS),17.86,14.9,90.5,76.17,0.5
+2023-11-25,Pojo - SDC (GPRS),20.83,18.8,84.0,68.49,2.2
+2023-11-25,Potolo_M (GPRS),0.0,0.0,0.0,0.0,
+2023-11-25,Presa Misicuni (GPRS),,,,,1.2
+2023-11-25,Puente Chiñata_H- SDC (GPRS),,,,,0.8
+2023-11-25,Puerto Villarroel (GPRS)_M,27.59,25.06,89.1,73.73,
+2023-11-25,Putucuni Calientes (GPRS),8.76,5.4,90.9,80.4,2.0
+2023-11-25,Quila Quila_M (GPRS),19.03,17.13,67.53,58.27,1.2
+2023-11-25,Riberalta,29.0,24.0,99.1,73.8,
+2023-11-25,Rurrenabaque,29.0,24.0,93.3,65.4,
+2023-11-25,Sacacani_M (GPRS),,,,,5.1
+2023-11-25,San Andres de Machaca_M (GPRS),12.92,8.87,83.6,53.95,0.3
+2023-11-25,San Borja,27.0,27.0,78.1,78.1,
+2023-11-25,San Javier,24.0,21.0,93.2,82.6,
+2023-11-25,San Javier Aeropuerto (F),24.0,21.0,93.2,82.6,
+2023-11-25,San Julian - Comunidad Los Angeles (GPRS),29.63,27.15,73.26,66.87,1.7
+2023-11-25,San Julian - Nucleo 32 (GPRS),27.53,25.19,,,0.8
+2023-11-25,San Pedro - Río Victoria (GPRS),27.14,26.49,72.59,69.99,1.0
+2023-11-25,San Pedro - San Antonio (GPRS),26.91,26.3,75.54,71.84,0.4
+2023-11-25,San Pedro de Buena Vista (GPRS),19.21,16.85,77.43,56.28,10.9
+2023-11-25,San Pedro de Tiquina_M (GPRS),,,,,6.5
+2023-11-25,San Roque - El Alto (GPRS),17.05,11.43,76.5,53.0,2.9
+2023-11-25,Santa Ana - Yacuma,27.0,23.0,93.2,73.5,
+2023-11-25,Sunjani (GPRS),11.6,8.53,85.8,72.8,4.0
+2023-11-25,Tacagua_M (GPRS),18.86,15.01,45.99,32.5,1.1
+2023-11-25,Tarata,,,,,3.5
+2023-11-25,Tarija,54.0,17.0,76.7,12.0,
+2023-11-25,Templo (GPRS),8.44,5.68,94.0,82.3,8.6
+2023-11-25,Temporal - SDC (GPRS),21.47,18.67,69.11,0.07,
+2023-11-25,Trinidad,28.0,24.0,87.8,65.2,
+2023-11-25,Vacas - SDC (GPRS),12.15,9.28,94.5,71.99,
+2023-11-25,Viacha_M (GPRS),16.95,13.42,70.13,42.55,1.0
+2023-11-25,Vila Vila - SDC (GPRS),20.15,19.06,58.96,53.62,1.1
+2023-11-25,Viru Viru,29.0,23.0,77.5,54.4,
+2023-11-25,Viscachas Chirage (GPRS),10.1,8.74,91.4,81.9,0.7
+2023-11-25,Vivero Chimboco - SDC (GPRS),18.92,17.14,71.48,48.46,0.1
+2023-11-25,Vivero Viloma - SDC (GPRS),23.77,21.42,47.59,36.3,2.2
+2023-11-26,4 Esquinas (GPRS),13.1,11.55,,,4.0
+2023-11-26,Aeropueto Copacabana_M (GPRS),,,,,0.2
+2023-11-26,Aguadas (GPRS),15.19,12.6,74.29,61.52,8.2
+2023-11-26,Aiquile (GPRS),31.97,21.02,64.2,41.94,1.2
+2023-11-26,Alalay (GPRS),13.64,6.32,91.2,69.47,
+2023-11-26,Alto Peñas (GPRS),14.53,11.49,65.24,54.21,4.3
+2023-11-26,Aroma (GPRS),20.68,10.06,75.14,29.59,
+2023-11-26,Camiri,31.0,22.0,82.4,42.7,
+2023-11-26,Charazani (GPRS),17.39,9.77,,,
+2023-11-26,Chua Cocani_M (GPRS),17.31,15.08,58.13,45.83,12.6
+2023-11-26,Cobija,29.0,24.0,93.3,73.6,
+2023-11-26,Cochabamba,26.0,17.0,81.9,35.7,
+2023-11-26,Concepcion,30.0,22.0,99.1,65.6,
+2023-11-26,Cuatro Cañadas - CEA-2 (GPRS),32.5,30.47,62.9,56.78,
+2023-11-26,Cuatro Cañadas - Colonia Chihuahua (GPRS),31.46,28.98,80.7,57.83,23.0
+2023-11-26,Desaguadero_M,14.68,11.54,71.1,54.88,14.3
+2023-11-26,El Alto,13.0,9.0,80.9,61.6,
+2023-11-26,Guajara-Mirim - Guayaramerín,,,,,16.3
+2023-11-26,Huancane Corapata_M (GPRS),,,,,3.2
+2023-11-26,Huarisuyo (GPRS),17.31,14.95,57.48,42.02,0.2
+2023-11-26,Isla Suriqui_M (GPRS),16.0,13.45,63.74,48.77,6.1
+2023-11-26,Jesús de Machaca_M (GPRS),16.23,14.02,58.93,36.54,5.0
+2023-11-26,Mizque - SDC (GPRS),24.97,21.79,57.82,40.95,
+2023-11-26,Pailon - Pozo del Tigre (GPRS),31.46,28.46,79.66,56.13,15.0
+2023-11-26,Pocona - SDC (GPRS),21.45,20.07,63.39,51.51,3.0
+2023-11-26,Pojo - SDC (GPRS),24.14,20.37,71.03,46.46,0.7
+2023-11-26,Potolo_M (GPRS),0.0,0.0,0.0,0.0,
+2023-11-26,Presa Misicuni (GPRS),,,,,8.6
+2023-11-26,Puente Chiñata_H- SDC (GPRS),,,,,0.3
+2023-11-26,Puerto Villarroel (GPRS)_M,33.36,29.92,83.0,59.18,0.7
+2023-11-26,Putucuni Calientes (GPRS),8.29,6.42,91.4,80.1,14.6
+2023-11-26,Quila Quila_M (GPRS),18.44,16.61,71.0,59.64,
+2023-11-26,Riberalta,30.0,24.0,93.3,69.7,
+2023-11-26,Rurrenabaque,32.0,24.0,99.1,55.1,
+2023-11-26,Sacacani_M (GPRS),,,,,2.5
+2023-11-26,San Andres de Machaca_M (GPRS),16.11,12.93,54.93,44.13,3.5
+2023-11-26,San Javier,29.0,22.0,93.2,61.5,
+2023-11-26,San Javier Aeropuerto (F),29.0,22.0,93.2,61.5,
+2023-11-26,San Julian - Comunidad Los Angeles (GPRS),32.4,29.56,70.33,57.34,0.3
+2023-11-26,San Julian - Nucleo 32 (GPRS),31.72,28.06,,,0.4
+2023-11-26,San Pedro - Río Victoria (GPRS),30.93,28.93,91.6,62.17,3.6
+2023-11-26,San Pedro - San Antonio (GPRS),32.01,29.04,77.82,64.91,4.6
+2023-11-26,San Pedro de Buena Vista (GPRS),18.33,14.05,96.0,73.98,5.5
+2023-11-26,San Pedro de Tiquina_M (GPRS),,,,,3.6
+2023-11-26,San Roque - El Alto (GPRS),16.9,9.96,80.3,47.48,
+2023-11-26,Santa Ana - Yacuma,27.0,25.0,99.1,87.9,
+2023-11-26,Sunjani (GPRS),12.43,9.48,86.3,73.91,5.3
+2023-11-26,Tacagua_M (GPRS),17.59,12.98,69.06,45.2,4.2
+2023-11-26,Tarata,,,,,0.7
+2023-11-26,Tarija,22.0,16.0,99.2,68.2,
+2023-11-26,Templo (GPRS),9.46,7.09,93.5,76.74,6.1
+2023-11-26,Temporal - SDC (GPRS),20.56,15.48,79.36,0.28,6.5
+2023-11-26,Trinidad,31.0,25.0,87.9,61.9,
+2023-11-26,Vacas - SDC (GPRS),14.44,10.12,88.5,61.09,7.4
+2023-11-26,Viacha_M (GPRS),15.78,11.52,72.92,51.35,2.6
+2023-11-26,Vila Vila - SDC (GPRS),19.59,16.42,83.3,62.17,3.2
+2023-11-26,Viru Viru,33.0,25.0,87.9,52.1,
+2023-11-26,Viscachas Chirage (GPRS),11.26,8.88,91.0,77.99,3.3
+2023-11-26,Vivero Chimboco - SDC (GPRS),23.25,16.23,81.6,37.21,0.7
+2023-11-26,Vivero Viloma - SDC (GPRS),24.07,21.75,46.83,3.78,
+2023-11-27,4 Esquinas (GPRS),10.49,6.2,,,4.3
+2023-11-27,Aeropueto Copacabana_M (GPRS),,,,,10.7
+2023-11-27,Aguadas (GPRS),11.56,6.43,91.6,58.25,3.5
+2023-11-27,Aiquile (GPRS),33.45,20.18,71.99,36.13,
+2023-11-27,Alalay (GPRS),,,,,2.8
+2023-11-27,Alto Peñas (GPRS),12.26,8.41,87.1,66.12,9.8
+2023-11-27,Aroma (GPRS),21.96,7.2,97.0,11.32,0.1
+2023-11-27,Camiri,32.0,22.0,87.7,48.7,
+2023-11-27,Charazani (GPRS),14.85,10.28,,,5.8
+2023-11-27,Chua Cocani_M (GPRS),14.23,12.53,68.41,65.55,27.0
+2023-11-27,Cobija,34.0,26.0,88.0,52.3,
+2023-11-27,Cochabamba,26.0,18.0,76.9,33.6,
+2023-11-27,Cochabamba Aeropuerto,,,,,1.7
+2023-11-27,Concepcion,31.0,23.0,87.7,58.3,
+2023-11-27,Cotagaita (GPRS),,,,,0.5
+2023-11-27,Cuatro Cañadas - CEA-2 (GPRS),35.26,32.9,51.96,45.21,
+2023-11-27,Cuatro Cañadas - Colonia Chihuahua (GPRS),34.08,32.73,55.37,48.79,0.2
+2023-11-27,Desaguadero_M,13.63,11.93,67.97,63.21,10.4
+2023-11-27,El Alto,13.0,7.0,86.6,62.1,
+2023-11-27,El Alto Aeropuerto,,,,,10.3
+2023-11-27,Huancane Corapata_M (GPRS),,,,,13.8
+2023-11-27,Huarisuyo (GPRS),15.76,10.1,75.86,52.3,8.4
+2023-11-27,Isla Suriqui_M (GPRS),13.57,12.33,67.65,63.41,11.7
+2023-11-27,Jesús de Machaca_M (GPRS),17.66,13.79,58.98,48.45,5.0
+2023-11-27,Mizque - SDC (GPRS),24.66,23.12,53.75,31.84,
+2023-11-27,Oruro (GPRS),16.0,10.0,81.2,58.6,
+2023-11-27,Pailon - Pozo del Tigre (GPRS),34.16,32.33,56.01,48.47,
+2023-11-27,Pocona - SDC (GPRS),18.76,15.05,82.0,55.77,4.7
+2023-11-27,Pojo - SDC (GPRS),21.61,18.47,72.97,61.25,10.6
+2023-11-27,Potolo_M (GPRS),0.0,0.0,0.0,0.0,
+2023-11-27,Potosí,19.0,8.0,80.8,42.3,
+2023-11-27,Presa Misicuni (GPRS),,,,,2.2
+2023-11-27,Puente Chiñata_H- SDC (GPRS),,,,,0.1
+2023-11-27,Puerto Suarez,34.0,25.0,93.3,55.5,
+2023-11-27,Puerto Suarez Aeropuerto (F),34.0,25.0,93.3,55.5,
+2023-11-27,Puerto Villarroel (GPRS)_M,29.07,24.24,90.9,78.98,0.7
+2023-11-27,Putucuni Calientes (GPRS),7.75,5.6,93.8,77.64,4.5
+2023-11-27,Quila Quila_M (GPRS),20.14,18.84,67.41,54.95,2.2
+2023-11-27,Riberalta,34.0,26.0,82.8,52.3,
+2023-11-27,Robore,34.0,28.0,69.3,52.3,
+2023-11-27,Rurrenabaque,33.0,24.0,93.3,49.0,
+2023-11-27,Sacacani_M (GPRS),,,,,10.6
+2023-11-27,San Andres de Machaca_M (GPRS),13.58,13.58,79.94,44.33,9.8
+2023-11-27,San Joaquin,33.0,25.0,93.3,58.7,
+2023-11-27,San Julian - Comunidad Los Angeles (GPRS),33.42,32.56,58.99,53.44,
+2023-11-27,San Julian - Nucleo 32 (GPRS),32.57,31.52,,,0.8
+2023-11-27,San Pedro - Río Victoria (GPRS),30.01,23.85,92.6,69.28,21.6
+2023-11-27,San Pedro - San Antonio (GPRS),32.58,26.59,86.4,65.34,
+2023-11-27,San Pedro de Buena Vista (GPRS),21.93,18.12,75.15,60.82,9.5
+2023-11-27,San Pedro de Tiquina_M (GPRS),,,,,19.6
+2023-11-27,San Roque - El Alto (GPRS),17.03,12.0,78.32,53.6,11.4
+2023-11-27,Santa Ana - Yacuma,32.0,25.0,87.9,61.9,
+2023-11-27,Sunjani (GPRS),10.46,6.78,94.9,70.65,5.6
+2023-11-27,Tacagua_M (GPRS),20.04,16.65,33.93,16.82,4.5
+2023-11-27,Tarata,,,,,4.5
+2023-11-27,Tarija,29.0,19.0,87.5,39.6,
+2023-11-27,Templo (GPRS),8.83,4.13,98.0,75.93,5.9
+2023-11-27,Temporal - SDC (GPRS),25.81,20.01,54.43,0.08,0.8
+2023-11-27,Trinidad,31.0,24.0,93.3,65.8,
+2023-11-27,Vacas - SDC (GPRS),14.45,9.55,91.8,53.28,8.7
+2023-11-27,Viacha_M (GPRS),14.72,12.11,75.48,57.61,8.8
+2023-11-27,Vila Vila - SDC (GPRS),24.45,20.31,57.63,38.72,3.6
+2023-11-27,Villamontes,31.0,22.0,99.1,65.6,
+2023-11-27,Villamontes Aeropuerto,,,,,145.3
+2023-11-27,Viru Viru,33.0,24.0,93.3,55.1,
+2023-11-27,Viscachas Chirage (GPRS),10.0,7.39,93.0,78.17,3.2
+2023-11-27,Vivero Chimboco - SDC (GPRS),22.29,16.29,77.35,38.37,0.8
+2023-11-27,Vivero Viloma - SDC (GPRS),23.04,18.94,47.28,1.75,1.0
+2023-11-27,Yacuiba,29.0,22.0,87.7,61.5,
