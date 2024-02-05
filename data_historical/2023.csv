@@ -46331,6 +46331,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-30,Cabaña Forestal Oruro,,-3.2,,,
 2023-07-30,Caiza D,23.0,-3.0,,,
 2023-07-30,Calacoto,18.0,-6.0,,,
+2023-07-30,Camargo_M (GPRS),,,,,0.7
 2023-07-30,Camata,31.0,15.5,,,
 2023-07-30,Camiri,32.0,7.0,86.3,86.3,
 2023-07-30,Camiri Aeropuerto,31.7,5.4,,,
@@ -49026,6 +49027,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-12,Cabaña Forestal Oruro,,-2.3,,,
 2023-08-12,Caiza D,20.0,-5.0,,,
 2023-08-12,Calacoto,18.0,-6.0,,,
+2023-08-12,Camargo_M (GPRS),,,,,0.9
 2023-08-12,Camata,34.0,16.0,,,15.0
 2023-08-12,Camiri Aeropuerto,20.2,,,,
 2023-08-12,Campanario,21.5,-1.0,,,
@@ -57304,6 +57306,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-26,Caiza D,29.0,5.4,,,
 2023-09-26,Calacoto,24.5,-3.0,,,
 2023-09-26,Camargo_H (GPRS),,,,,0.18
+2023-09-26,Camargo_M (GPRS),,,,,1.7
 2023-09-26,Camata,35.0,19.0,,,
 2023-09-26,Camiri,34.0,18.0,67.4,43.6,
 2023-09-26,Camiri Aeropuerto,38.3,,,,
@@ -58348,9 +58351,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-01,Ayo Ayo,23.0,0.3,,,
 2023-10-01,Ayoma,30.1,7.2,,,
 2023-10-01,Azurduy,,,,,1.3
+2023-10-01,Cabaña Forestal Oruro,25.1,6.7,,,
 2023-10-01,Caiza D,21.0,3.2,,,
 2023-10-01,Calacoto,25.0,-2.0,,,
 2023-10-01,Camargo_H (GPRS),,,,,0.01
+2023-10-01,Camargo_M (GPRS),,,,,0.1
 2023-10-01,Camata,34.0,16.0,,,
 2023-10-01,Camiri,20.0,20.0,48.7,48.7,
 2023-10-01,Camiri Aeropuerto,30.5,19.3,,,
@@ -58468,6 +58473,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-01,Santa Ana del Yacuma Aerop,34.1,,,,
 2023-10-01,Santa Rosa Aeropuerto (BENI),35.0,,,,
 2023-10-01,Santiago de Huata,18.0,3.0,,,
+2023-10-01,Santiago de Machaca,,,,,2.0
 2023-10-01,Santivañez,36.7,7.8,,,
 2023-10-01,Sara Ana,34.0,19.0,,,
 2023-10-01,Sarco,33.0,17.0,,,
@@ -58489,6 +58495,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-01,Tinguipaya,26.3,7.2,,,
 2023-10-01,Tiraque,26.0,7.0,,,
 2023-10-01,Tomave,20.5,-1.5,,,
+2023-10-01,Trancas,29.0,7.0,,,
 2023-10-01,Trinidad,24.0,24.0,64.3,64.3,
 2023-10-01,Trinidad Aeropuerto,35.5,23.0,,,
 2023-10-01,Trompillo Aeropuerto,33.0,23.5,,,
@@ -58535,6 +58542,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-02,Ayo Ayo,25.0,-1.2,,,
 2023-10-02,Ayoma,29.3,4.1,,,
 2023-10-02,Azurduy,26.0,11.0,,,
+2023-10-02,Cabaña Forestal Oruro,23.1,2.3,,,
 2023-10-02,Caiza D,21.1,4.0,,,
 2023-10-02,Calacoto,26.0,-2.0,,,
 2023-10-02,Camata,35.0,17.0,,,
@@ -58695,6 +58703,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-02,Tinguipaya,26.1,7.3,,,
 2023-10-02,Tiraque,25.0,8.0,,,
 2023-10-02,Tomave,20.0,-0.5,,,
+2023-10-02,Trancas,35.0,12.0,,,
 2023-10-02,Trinidad,,,73.5,73.5,
 2023-10-02,Trinidad Aeropuerto,37.6,22.6,,,
 2023-10-02,Trompillo Aeropuerto,35.3,23.5,,,
@@ -58742,6 +58751,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-03,Ayo Ayo,24.5,-2.5,,,
 2023-10-03,Ayoma,28.2,5.3,,,
 2023-10-03,Azurduy,25.0,10.5,,,
+2023-10-03,Cabaña Forestal Oruro,25.1,1.3,,,
 2023-10-03,Caiza D,30.0,-1.0,,,
 2023-10-03,Calacoto,20.0,-1.0,,,
 2023-10-03,Camata,35.5,18.0,,,
@@ -58896,6 +58906,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-03,Tinguipaya,27.3,8.1,,,
 2023-10-03,Tiraque,27.0,8.0,,,
 2023-10-03,Tomave,21.5,3.0,,,
+2023-10-03,Trancas,40.0,22.0,,,
 2023-10-03,Trinidad,39.0,26.0,65.6,65.6,
 2023-10-03,Trinidad Aeropuerto,39.8,25.0,,,
 2023-10-03,Trompillo Aeropuerto,36.7,24.5,,,
@@ -59100,6 +59111,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-04,Tinguipaya,28.2,6.2,,,
 2023-10-04,Tiraque,24.0,6.0,,,
 2023-10-04,Tomave,18.0,-1.0,,,
+2023-10-04,Trancas,28.0,17.0,,,
 2023-10-04,Trinidad,39.0,27.0,69.5,69.5,
 2023-10-04,Trinidad Aeropuerto,39.5,25.4,,,
 2023-10-04,Trompillo Aeropuerto,30.5,27.3,,,
@@ -59148,6 +59160,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-05,Azurduy,,,,,3.0
 2023-10-05,Buena Vista S.(GPRS),,,,,7.4
 2023-10-05,Buena Vista Sc,,,,,10.3
+2023-10-05,Cabaña Forestal Oruro,24.3,1.4,,,
 2023-10-05,Caiza D,32.0,4.0,,,
 2023-10-05,Calacoto,25.0,0.0,,,
 2023-10-05,Camata,35.0,18.5,,,
@@ -59313,6 +59326,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-05,Tinguipaya,27.3,8.3,,,
 2023-10-05,Tiraque,23.0,7.0,,,
 2023-10-05,Tomave,17.0,1.5,,,
+2023-10-05,Trancas,30.0,7.0,,,
 2023-10-05,Trinidad,36.0,25.0,69.5,69.5,
 2023-10-05,Trinidad Aeropuerto,37.4,26.0,,,
 2023-10-05,Trompillo Aeropuerto,,,,,0.7
@@ -59361,6 +59375,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-06,Ayo Ayo,26.5,-1.0,,,
 2023-10-06,Ayoma,28.1,2.1,,,
 2023-10-06,Azurduy,24.0,10.0,,,
+2023-10-06,Cabaña Forestal Oruro,24.3,1.7,,,
 2023-10-06,Caiza D,31.0,5.2,,,
 2023-10-06,Calacoto,25.0,-3.5,,,4.3
 2023-10-06,Camata,34.0,19.0,,,
@@ -59521,6 +59536,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-06,Tinguipaya,26.3,7.4,,,
 2023-10-06,Tiraque,25.0,8.0,,,
 2023-10-06,Tomave,15.0,5.0,,,
+2023-10-06,Trancas,39.0,13.0,,,
 2023-10-06,Trinidad,39.0,27.0,69.5,69.5,
 2023-10-06,Trinidad Aeropuerto,39.8,24.0,,,
 2023-10-06,Trompillo Aeropuerto,36.3,23.3,,,
@@ -59565,6 +59581,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-07,Ayo Ayo,23.0,-1.5,,,
 2023-10-07,Ayoma,28.4,1.1,,,
 2023-10-07,Azurduy,,,,,2.2
+2023-10-07,Cabaña Forestal Oruro,25.7,1.8,,,
 2023-10-07,Caiza D,30.0,6.0,,,
 2023-10-07,Calacoto,24.5,-4.0,,,
 2023-10-07,Camata,35.0,20.0,,,
@@ -59715,6 +59732,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-07,Tinguipaya,27.2,9.1,,,
 2023-10-07,Tiraque,23.0,6.0,,,
 2023-10-07,Tomave,15.5,0.5,,,
+2023-10-07,Trancas,19.0,15.0,,,
 2023-10-07,Trinidad,39.0,25.0,61.9,61.9,
 2023-10-07,Trinidad Aeropuerto,39.5,25.8,,,
 2023-10-07,Trompillo Aeropuerto,26.8,26.8,,,
@@ -59758,9 +59776,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-08,Azurduy,22.5,10.0,,,
 2023-10-08,Buena Vista S.(GPRS),,,,,3.6
 2023-10-08,Buena Vista Sc,,,,,20.8
+2023-10-08,Cabaña Forestal Oruro,24.9,2.3,,,
 2023-10-08,Caiza D,22.0,5.4,,,
 2023-10-08,Calacoto,26.0,-2.0,,,
 2023-10-08,Camargo_H (GPRS),,,,,0.06
+2023-10-08,Camargo_M (GPRS),,,,,0.8
 2023-10-08,Camata,32.0,18.5,,,
 2023-10-08,Camiri,18.0,18.0,72.0,72.0,
 2023-10-08,Camiri Aeropuerto,30.5,17.3,,,
@@ -59922,6 +59942,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-08,Tinguipaya,25.3,7.1,,,
 2023-10-08,Tiraque,25.0,8.0,,,
 2023-10-08,Tomave,17.6,2.5,,,
+2023-10-08,Trancas,26.0,8.0,,,2.0
 2023-10-08,Trinidad,23.0,23.0,77.5,77.5,
 2023-10-08,Trinidad Aeropuerto,27.2,22.5,,,
 2023-10-08,Trompillo Aeropuerto,,,,,28.2
@@ -59971,6 +59992,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-09,Ayo Ayo,22.0,-2.6,,,
 2023-10-09,Ayoma,28.1,8.2,,,
 2023-10-09,Azurduy,25.0,11.0,,,
+2023-10-09,Cabaña Forestal Oruro,26.2,1.9,,,
 2023-10-09,Caiza D,23.0,6.4,,,
 2023-10-09,Calacoto,26.0,-6.0,,,
 2023-10-09,Camata,22.0,17.5,,,5.5
@@ -60139,6 +60161,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-09,Tinguipaya,25.4,6.3,,,
 2023-10-09,Tiraque,25.0,10.0,,,
 2023-10-09,Tomave,22.0,-3.5,,,
+2023-10-09,Trancas,29.0,11.0,,,
 2023-10-09,Trinidad,,,72.8,72.8,
 2023-10-09,Trinidad Aeropuerto,32.1,20.5,,,
 2023-10-09,Trompillo Aeropuerto,32.6,21.0,,,
@@ -60188,6 +60211,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-10,Ayo Ayo,23.8,5.5,,,
 2023-10-10,Ayoma,30.4,5.1,,,
 2023-10-10,Azurduy,24.0,10.0,,,
+2023-10-10,Cabaña Forestal Oruro,26.0,4.9,,,
 2023-10-10,Caiza D,24.0,6.0,,,
 2023-10-10,Calacoto,25.0,0.0,,,
 2023-10-10,Camata,32.0,17.0,,,
@@ -60359,6 +60383,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-10,Tinguipaya,29.1,6.2,,,
 2023-10-10,Tiraque,26.0,78.0,,,
 2023-10-10,Tomave,23.5,-1.5,,,
+2023-10-10,Trancas,35.0,15.0,,,
 2023-10-10,Trinidad,38.0,25.0,68.7,68.7,
 2023-10-10,Trinidad Aeropuerto,38.5,21.0,,,
 2023-10-10,Trompillo Aeropuerto,35.2,22.7,,,
@@ -60407,6 +60432,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-11,Ayo Ayo,25.5,-1.5,,,
 2023-10-11,Ayoma,31.2,5.2,,,
 2023-10-11,Azurduy,,,,,1.0
+2023-10-11,Cabaña Forestal Oruro,26.7,4.2,,,
 2023-10-11,Caiza D,30.2,5.5,,,
 2023-10-11,Calacoto,28.0,-1.0,,,
 2023-10-11,Camata,33.0,18.0,,,
@@ -60563,6 +60589,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-11,Tinguipaya,29.2,7.3,,,
 2023-10-11,Tiraque,28.0,8.0,,,
 2023-10-11,Tomave,22.0,0.5,,,
+2023-10-11,Trancas,34.0,19.0,,,
 2023-10-11,Trinidad,39.0,29.0,73.8,33.1,
 2023-10-11,Trinidad Aeropuerto,40.5,23.8,,,
 2023-10-11,Trompillo Aeropuerto,36.3,25.0,,,
@@ -60610,6 +60637,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-12,Ayo Ayo,22.0,1.2,,,
 2023-10-12,Ayoma,28.1,5.4,,,
 2023-10-12,Azurduy,25.0,10.5,,,
+2023-10-12,Cabaña Forestal Oruro,23.8,3.7,,,
 2023-10-12,Caiza D,31.0,6.4,,,
 2023-10-12,Calacoto,25.5,0.5,,,
 2023-10-12,Camata,35.0,17.5,,,
@@ -60769,6 +60797,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-12,Tinguipaya,26.2,8.4,,,
 2023-10-12,Tiraque,26.0,10.0,,,
 2023-10-12,Tomave,20.0,-1.5,,,
+2023-10-12,Trancas,28.0,12.0,,,
 2023-10-12,Trinidad,38.0,29.0,69.5,39.2,
 2023-10-12,Trinidad Aeropuerto,38.0,,,,
 2023-10-12,Trompillo Aeropuerto,,,,,12.8
@@ -60817,6 +60846,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-13,Ayo Ayo,21.8,1.2,,,
 2023-10-13,Ayoma,30.2,3.1,,,
 2023-10-13,Azurduy,26.0,11.0,,,
+2023-10-13,Cabaña Forestal Oruro,25.7,3.4,,,
 2023-10-13,Cachimayu,,,,,1.8
 2023-10-13,Caiza D,32.0,6.8,,,
 2023-10-13,Calacoto,25.5,-1.0,,,
@@ -60957,6 +60987,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-13,Santa Ana del Yacuma Aerop,33.1,,,,
 2023-10-13,Santa Rosa Aeropuerto (BENI),,,,,34.4
 2023-10-13,Santiago de Huata,20.0,2.0,,,
+2023-10-13,Santiago de Machaca,,,,,1.7
 2023-10-13,Santivañez,36.7,7.8,,,
 2023-10-13,Sara Ana,32.0,24.0,,,
 2023-10-13,Sarco,38.0,16.7,,,
@@ -60977,6 +61008,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-13,Tinguipaya,27.4,7.2,,,
 2023-10-13,Tiraque,27.0,9.0,,,
 2023-10-13,Tomave,23.5,-3.0,,,
+2023-10-13,Trancas,25.0,8.0,,,
 2023-10-13,Trinidad,28.0,23.0,77.5,47.4,
 2023-10-13,Trinidad Aeropuerto,,,,,28.2
 2023-10-13,Trompillo Aeropuerto,25.2,19.3,,,
@@ -61023,6 +61055,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-14,Ayo Ayo,22.0,0.6,,,
 2023-10-14,Ayoma,28.3,4.2,,,
 2023-10-14,Azurduy,27.0,12.0,,,
+2023-10-14,Cabaña Forestal Oruro,26.4,5.6,,,
 2023-10-14,Caiza D,31.0,5.0,,,
 2023-10-14,Calacoto,24.0,0.5,,,
 2023-10-14,Camata,33.0,17.5,,,
@@ -61160,6 +61193,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-14,Tinguipaya,28.3,6.4,,,
 2023-10-14,Tiraque,28.0,7.0,,,
 2023-10-14,Tomave,22.0,4.0,,,
+2023-10-14,Trancas,32.0,9.0,,,
 2023-10-14,Trinidad,34.0,22.0,63.9,35.8,
 2023-10-14,Trinidad Aeropuerto,34.8,18.4,,,
 2023-10-14,Trompillo Aeropuerto,32.8,21.5,,,
@@ -61201,6 +61235,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-15,Ayo Ayo,20.0,-3.8,,,
 2023-10-15,Ayoma,28.1,3.1,,,
 2023-10-15,Azurduy,26.0,11.0,,,
+2023-10-15,Cabaña Forestal Oruro,24.5,7.0,,,
 2023-10-15,Caiza D,32.0,5.6,,,
 2023-10-15,Calacoto,25.0,-2.0,,,
 2023-10-15,Camata,32.0,18.0,,,
@@ -61343,6 +61378,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-15,Tinguipaya,28.1,8.2,,,
 2023-10-15,Tiraque,27.0,8.0,,,
 2023-10-15,Tomave,20.0,1.5,,,
+2023-10-15,Trancas,34.0,15.0,,,
 2023-10-15,Trinidad,37.0,26.0,77.9,39.2,
 2023-10-15,Trinidad Aeropuerto,37.2,21.6,,,
 2023-10-15,Trompillo Aeropuerto,36.4,21.0,,,
@@ -61388,6 +61424,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-16,Ayo Ayo,20.5,-3.5,,,
 2023-10-16,Ayoma,29.4,6.3,,,
 2023-10-16,Azurduy,29.0,13.0,,,
+2023-10-16,Cabaña Forestal Oruro,22.7,4.0,,,
 2023-10-16,Caiza D,31.0,5.8,,,
 2023-10-16,Calacoto,24.5,-2.0,,,
 2023-10-16,Camata,30.0,17.5,,,
@@ -61546,6 +61583,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-16,Tinguipaya,27.1,7.3,,,
 2023-10-16,Tiraque,26.0,9.0,,,
 2023-10-16,Tomave,20.5,5.0,,,
+2023-10-16,Trancas,36.0,20.0,,,
 2023-10-16,Trinidad,37.0,27.0,73.5,41.7,
 2023-10-16,Trinidad Aeropuerto,38.0,23.9,,,
 2023-10-16,Trompillo Aeropuerto,36.5,25.3,,,
@@ -61593,6 +61631,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-17,Ayo Ayo,19.5,-1.5,,,
 2023-10-17,Ayoma,26.2,5.2,,,
 2023-10-17,Azurduy,27.0,12.0,,,
+2023-10-17,Cabaña Forestal Oruro,20.7,3.6,,,
 2023-10-17,Caiza D,29.0,5.5,,,
 2023-10-17,Calacoto,24.5,0.0,,,
 2023-10-17,Camata,32.0,18.0,,,8.5
@@ -61758,6 +61797,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-17,Tinguipaya,26.2,8.3,,,
 2023-10-17,Tiraque,24.0,7.0,,,
 2023-10-17,Tomave,18.5,2.5,,,
+2023-10-17,Trancas,30.0,22.0,,,
 2023-10-17,Trinidad,38.0,28.0,69.3,34.9,
 2023-10-17,Trinidad Aeropuerto,39.0,24.6,,,
 2023-10-17,Trompillo Aeropuerto,37.2,25.5,,,
@@ -61814,8 +61854,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-18,Ayoma,23.1,9.1,,,
 2023-10-18,Azurduy,26.0,12.0,,,
 2023-10-18,Boyuibe,,,,,2.0
+2023-10-18,Cabaña Forestal Oruro,20.1,3.7,,,
 2023-10-18,Caiza D,22.0,5.7,,,
 2023-10-18,Calacoto,20.0,0.0,,,
+2023-10-18,Camargo_M (GPRS),,,,,12.1
 2023-10-18,Camata,30.0,16.0,,,
 2023-10-18,Camiri,33.0,21.0,77.2,40.7,
 2023-10-18,Camiri Aeropuerto,,,,,2.8
@@ -61997,6 +62039,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-18,Toma Ravelo_M (GPRS),,,,,15.3
 2023-10-18,Tomave,17.0,3.5,,,1.5
 2023-10-18,Totora i_M (GPRS),,,,,28.0
+2023-10-18,Trancas,30.0,12.0,,,8.0
 2023-10-18,Trinidad,38.0,28.0,73.6,37.1,
 2023-10-18,Trinidad Aeropuerto,38.2,24.2,,,
 2023-10-18,Trompillo Aeropuerto,,,,,1.0
@@ -62048,9 +62091,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-19,Ayo Ayo,15.5,2.2,,,
 2023-10-19,Ayoma,21.3,8.3,,,7.8
 2023-10-19,Azurduy,24.0,10.0,,,
+2023-10-19,Cabaña Forestal Oruro,20.0,6.7,,,
 2023-10-19,Cachimayu,,,,,2.7
 2023-10-19,Caiza D,23.0,6.8,,,
 2023-10-19,Calacoto,17.0,2.0,,,
+2023-10-19,Camargo_M (GPRS),,,,,0.6
 2023-10-19,Camata,29.0,17.0,,,
 2023-10-19,Camiri,29.0,22.0,68.2,48.0,
 2023-10-19,Camiri Aeropuerto,29.2,21.8,,,
@@ -62233,6 +62278,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-19,Toma Ravelo_M (GPRS),,,,,1.1
 2023-10-19,Tomave,17.5,4.0,,,
 2023-10-19,Totora i_M (GPRS),,,,,0.1
+2023-10-19,Trancas,27.0,17.0,,,
 2023-10-19,Trinidad,39.0,28.0,73.6,37.4,
 2023-10-19,Trinidad Aeropuerto,39.9,24.8,,,
 2023-10-19,Trompillo Aeropuerto,36.3,25.2,,,
@@ -62292,6 +62338,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-20,Cachimayu,,,,,34.0
 2023-10-20,Caiza D,22.0,6.4,,,
 2023-10-20,Calacoto,17.0,3.0,,,19.0
+2023-10-20,Camargo_M (GPRS),,,,,2.8
 2023-10-20,Camata,30.0,17.5,,,
 2023-10-20,Camiri,31.0,20.0,72.5,42.7,
 2023-10-20,Camiri Aeropuerto,31.1,19.5,,,
@@ -62473,6 +62520,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-20,Toma Ravelo_M (GPRS),,,,,13.8
 2023-10-20,Tomave,20.0,5.1,,,
 2023-10-20,Totora i_M (GPRS),,,,,1.2
+2023-10-20,Trancas,30.0,16.0,,,4.1
 2023-10-20,Trinidad,39.0,28.0,73.6,37.1,
 2023-10-20,Trinidad Aeropuerto,,,,,0.1
 2023-10-20,Trompillo Aeropuerto,36.5,21.2,,,
@@ -62663,6 +62711,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-21,Santa Ana - Yacuma,39.0,26.0,87.9,32.8,
 2023-10-21,Santa Ana del Yacuma Aerop,39.3,,,,
 2023-10-21,Santiago de Huata,18.0,3.0,,,
+2023-10-21,Santiago de Machaca,,,,,4.5
 2023-10-21,Santivañez,36.7,10.0,,,
 2023-10-21,Sara Ana,38.0,22.0,,,
 2023-10-21,Sarco,30.5,14.2,,,0.2
@@ -62686,6 +62735,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-21,Tiraque,22.0,5.0,,,5.0
 2023-10-21,Toma Ravelo_M (GPRS),,,,,6.8
 2023-10-21,Tomave,17.0,6.5,,,
+2023-10-21,Trancas,31.0,20.0,,,
 2023-10-21,Trinidad,39.0,27.0,82.9,34.9,
 2023-10-21,Trinidad Aeropuerto,40.5,,,,
 2023-10-21,Trompillo Aeropuerto,39.7,24.6,,,
@@ -62731,6 +62781,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-22,Cabaña Forestal Oruro,,,,,2.1
 2023-10-22,Caiza D,23.2,4.0,,,
 2023-10-22,Calacoto,22.5,1.5,,,
+2023-10-22,Camargo_M (GPRS),,,,,10.6
 2023-10-22,Camata,34.0,17.0,,,7.2
 2023-10-22,Camiri,41.0,23.0,68.4,13.7,
 2023-10-22,Camiri Aeropuerto,41.6,18.9,,,
@@ -62879,6 +62930,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-22,Tinguipaya,22.4,8.1,,,
 2023-10-22,Tiraque,25.0,7.0,,,
 2023-10-22,Tomave,17.4,4.5,,,10.0
+2023-10-22,Trancas,35.0,21.0,,,20.2
 2023-10-22,Trinidad,40.0,29.0,65.4,29.5,
 2023-10-22,Trinidad Aeropuerto,41.5,24.0,,,
 2023-10-22,Trompillo Aeropuerto,40.2,28.0,,,
@@ -62927,8 +62979,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-23,Ayo Ayo,19.5,3.0,,,
 2023-10-23,Ayoma,25.2,10.4,,,
 2023-10-23,Azurduy,28.0,13.0,,,
+2023-10-23,Cabaña Forestal Oruro,22.2,9.5,,,
 2023-10-23,Caiza D,23.0,4.6,,,
 2023-10-23,Calacoto,21.0,4.5,,,1.0
+2023-10-23,Camargo_M (GPRS),,,,,3.8
 2023-10-23,Camata,30.0,18.0,,,
 2023-10-23,Camiri,40.0,23.0,60.2,20.1,
 2023-10-23,Camiri Aeropuerto,40.2,19.9,,,
@@ -63095,6 +63149,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-23,Tiraque,26.0,8.0,,,
 2023-10-23,Tomave,22.0,5.5,,,4.5
 2023-10-23,Totora i_M (GPRS),,,,,0.1
+2023-10-23,Trancas,35.0,16.0,,,2.0
 2023-10-23,Trinidad,38.0,28.0,69.3,39.5,
 2023-10-23,Trinidad Aeropuerto,39.0,24.8,,,
 2023-10-23,Trompillo Aeropuerto,39.2,26.8,,,
@@ -63152,6 +63207,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-24,Cabaña Forestal Oruro,,,,,0.4
 2023-10-24,Caiza D,28.0,5.5,,,
 2023-10-24,Calacoto,22.0,5.0,,,2.5
+2023-10-24,Camargo_M (GPRS),,,,,0.1
 2023-10-24,Camata,32.0,18.5,,,
 2023-10-24,Camiri,35.0,26.0,57.1,32.0,
 2023-10-24,Camiri Aeropuerto,35.2,25.1,,,
@@ -63308,6 +63364,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-24,Santa Ana del Yacuma Aerop,38.3,,,,
 2023-10-24,Santa Rosa Aeropuerto (BENI),,24.3,,,
 2023-10-24,Santiago de Huata,19.0,2.0,,,
+2023-10-24,Santiago de Machaca,,,,,18.2
 2023-10-24,Santivañez,35.5,13.3,,,11.7
 2023-10-24,Sara Ana,39.0,22.0,,,
 2023-10-24,Sarco,31.1,14.0,,,6.4
@@ -63332,6 +63389,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-24,Tiraque,23.0,6.0,,,21.5
 2023-10-24,Toma Ravelo_M (GPRS),,,,,3.2
 2023-10-24,Tomave,20.5,6.5,,,
+2023-10-24,Trancas,30.0,19.0,,,9.0
 2023-10-24,Trinidad,39.0,29.0,69.5,37.4,
 2023-10-24,Trinidad Aeropuerto,39.5,25.5,,,
 2023-10-24,Trompillo Aeropuerto,36.4,26.8,,,
@@ -63390,6 +63448,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-25,Ayoma,27.3,5.3,,,
 2023-10-25,Azurduy,26.0,11.0,,,
 2023-10-25,Boyuibe,,,,,1.5
+2023-10-25,Cabaña Forestal Oruro,24.2,4.2,,,
 2023-10-25,Caiza D,29.0,3.2,,,
 2023-10-25,Calacoto,23.0,0.5,,,0.2
 2023-10-25,Camata,30.0,19.0,,,7.4
@@ -63555,6 +63614,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-25,Santa Ana del Yacuma Aerop,38.8,,,,
 2023-10-25,Santa Rosa Aeropuerto (BENI),,23.1,,,
 2023-10-25,Santiago de Huata,18.0,4.0,,,
+2023-10-25,Santiago de Machaca,,,,,1.0
 2023-10-25,Santivañez,37.8,11.1,,,
 2023-10-25,Sara Ana,32.0,24.0,,,
 2023-10-25,Sarco,35.0,14.4,,,0.1
@@ -63578,6 +63638,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-25,Tiraque,25.0,8.0,,,3.0
 2023-10-25,Toma Ravelo_M (GPRS),,,,,2.4
 2023-10-25,Tomave,17.6,0.5,,,
+2023-10-25,Trancas,36.0,16.0,,,
 2023-10-25,Trinidad,38.0,29.0,73.8,39.5,
 2023-10-25,Trinidad Aeropuerto,39.7,25.5,,,
 2023-10-25,Trompillo Aeropuerto,36.0,26.6,,,
@@ -63633,6 +63694,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-26,Azurduy,24.0,10.0,,,
 2023-10-26,Buena Vista S.(GPRS),,,,,26.6
 2023-10-26,Buena Vista Sc,,,,,40.2
+2023-10-26,Cabaña Forestal Oruro,23.2,1.7,,,
 2023-10-26,Caiza D,32.0,4.4,,,
 2023-10-26,Calacoto,23.0,-0.5,,,
 2023-10-26,Camata,31.0,17.0,,,
@@ -63802,6 +63864,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-26,Tinguipaya,25.3,6.3,,,
 2023-10-26,Tiraque,24.0,9.0,,,
 2023-10-26,Tomave,20.0,2.5,,,
+2023-10-26,Trancas,35.0,18.0,,,
 2023-10-26,Trinidad,31.0,24.0,93.3,65.8,
 2023-10-26,Trinidad Aeropuerto,,,,,0.8
 2023-10-26,Trompillo Aeropuerto,,,,,3.4
@@ -63855,6 +63918,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-27,Ayoma,27.1,3.1,,,
 2023-10-27,Azurduy,26.0,11.0,,,
 2023-10-27,Boyuibe,,,,,1.5
+2023-10-27,Cabaña Forestal Oruro,25.3,2.0,,,
 2023-10-27,Caiza D,30.0,4.8,,,
 2023-10-27,Calacoto,23.0,-1.0,,,
 2023-10-27,Camata,31.5,17.5,,,
@@ -64026,6 +64090,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-27,Tinguipaya,24.2,6.1,,,
 2023-10-27,Tiraque,23.0,9.0,,,
 2023-10-27,Tomave,14.6,4.5,,,
+2023-10-27,Trancas,32.0,17.0,,,
 2023-10-27,Trinidad,33.0,26.0,82.8,55.3,
 2023-10-27,Trinidad Aeropuerto,,,,,2.2
 2023-10-27,Trompillo Aeropuerto,30.6,24.3,,,
@@ -64073,6 +64138,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-28,Ayoma,25.3,3.2,,,
 2023-10-28,Azurduy,23.5,10.0,,,
 2023-10-28,Buena Vista S.(GPRS),,,,,0.2
+2023-10-28,Cabaña Forestal Oruro,22.3,0.8,,,
 2023-10-28,Caiza D,29.9,5.0,,,
 2023-10-28,Calacoto,23.5,-3.0,,,
 2023-10-28,Camata,32.0,18.0,,,
@@ -64231,6 +64297,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-28,Tinguipaya,25.3,7.2,,,
 2023-10-28,Tiraque,27.0,6.0,,,
 2023-10-28,Tomave,17.0,2.5,,,
+2023-10-28,Trancas,35.0,19.0,,,
 2023-10-28,Trinidad,34.0,27.0,78.2,49.2,
 2023-10-28,Trinidad Aeropuerto,35.0,23.7,,,
 2023-10-28,Trompillo Aeropuerto,31.2,24.4,,,
@@ -64275,6 +64342,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-29,Ayoma,26.2,2.1,,,
 2023-10-29,Azurduy,26.0,11.0,,,
 2023-10-29,Buena Vista S.(GPRS),,,,,2.8
+2023-10-29,Cabaña Forestal Oruro,21.4,1.7,,,
 2023-10-29,Caiza D,30.0,5.2,,,
 2023-10-29,Calacoto,23.0,-6.0,,,
 2023-10-29,Camata,33.0,19.0,,,
@@ -64428,6 +64496,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-29,Tinguipaya,22.3,6.3,,,
 2023-10-29,Tiraque,24.0,7.0,,,
 2023-10-29,Tomave,19.2,1.5,,,
+2023-10-29,Trancas,36.0,23.0,,,
 2023-10-29,Trinidad,33.0,27.0,82.9,49.0,
 2023-10-29,Trinidad Aeropuerto,33.8,,,,
 2023-10-29,Trompillo Aeropuerto,,,,,2.6
@@ -64472,6 +64541,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-30,Ayo Ayo,22.5,-4.8,,,
 2023-10-30,Ayoma,27.4,1.1,,,
 2023-10-30,Azurduy,,,,,4.2
+2023-10-30,Cabaña Forestal Oruro,23.1,-0.2,,,
 2023-10-30,Caiza D,29.8,5.3,,,
 2023-10-30,Calacoto,23.0,-4.5,,,
 2023-10-30,Camata,33.5,18.0,,,
@@ -64638,6 +64708,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-30,Tinguipaya,26.3,7.2,,,
 2023-10-30,Tiraque,26.0,9.0,,,13.5
 2023-10-30,Tomave,21.0,0.5,,,
+2023-10-30,Trancas,35.0,23.0,,,
 2023-10-30,Trinidad,36.0,27.0,73.5,43.8,
 2023-10-30,Trinidad Aeropuerto,,,,,0.3
 2023-10-30,Trompillo Aeropuerto,34.4,23.6,,,
@@ -64690,6 +64761,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-31,Boyuibe,,,,,3.0
 2023-10-31,Buena Vista S.(GPRS),,,,,13.0
 2023-10-31,Buena Vista Sc,,,,,10.3
+2023-10-31,Cabaña Forestal Oruro,21.8,0.5,,,
 2023-10-31,Caiza D,29.0,6.0,,,
 2023-10-31,Calacoto,23.0,-7.0,,,
 2023-10-31,Camata,32.0,19.0,,,
@@ -64859,6 +64931,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-31,Tinguipaya,27.4,7.1,,,
 2023-10-31,Tiraque,25.0,7.0,,,
 2023-10-31,Tomave,20.0,2.5,,,
+2023-10-31,Trancas,30.0,20.0,,,
 2023-10-31,Trinidad,33.0,24.0,93.3,58.7,
 2023-10-31,Trinidad Aeropuerto,33.5,24.4,,,
 2023-10-31,Trompillo Aeropuerto,,,,,0.1
@@ -64910,6 +64983,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-01,Azurduy,,,,,1.0
 2023-11-01,Buena Vista S.(GPRS),,,,,1.0
 2023-11-01,Buena Vista Sc,,,,,18.3
+2023-11-01,Cabaña Forestal Oruro,24.1,1.8,,,
 2023-11-01,Caiza D,30.0,1.0,,,
 2023-11-01,Calacoto,22.5,-3.0,,,
 2023-11-01,Camata,32.0,18.0,,,
@@ -65075,6 +65149,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-01,Tinguipaya,25.2,6.3,,,
 2023-11-01,Tiraque,26.0,7.0,,,
 2023-11-01,Tomave,20.0,-1.5,,,
+2023-11-01,Trancas,30.0,20.0,,,
 2023-11-01,Trinidad,33.0,25.0,93.4,55.3,
 2023-11-01,Trinidad Aeropuerto,,,,,6.8
 2023-11-01,Trompillo Aeropuerto,32.3,22.0,,,
@@ -65122,6 +65197,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-02,Ayo Ayo,22.0,-1.8,,,
 2023-11-02,Ayoma,27.1,2.1,,,
 2023-11-02,Azurduy,25.0,11.0,,,
+2023-11-02,Cabaña Forestal Oruro,24.3,-0.1,,,
 2023-11-02,Caiza D,29.4,2.0,,,1.5
 2023-11-02,Calacoto,24.0,0.5,,,
 2023-11-02,Camata,31.0,17.0,,,
@@ -65173,6 +65249,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-02,Guayaramerin_M (GPRS),,,,,2.7
 2023-11-02,Hichucota,18.0,-1.0,,,
 2023-11-02,Huarisuyo (GPRS),19.89,16.22,38.35,12.92,
+2023-11-02,Huayllamarca,,,,,3.5
 2023-11-02,Huayrocondo,20.2,0.5,,,6.0
 2023-11-02,Incapampa - Coroico_M (GPRS),,,,,0.1
 2023-11-02,Isla Del Sol,18.2,4.5,,,
@@ -65270,6 +65347,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-02,Tinguipaya,23.1,5.2,,,
 2023-11-02,Tiraque,27.0,9.0,,,
 2023-11-02,Tomave,21.5,-1.6,,,
+2023-11-02,Trancas,37.0,21.0,,,
 2023-11-02,Trinidad,35.0,27.0,78.1,46.6,
 2023-11-02,Trinidad Aeropuerto,,,,,5.0
 2023-11-02,Trompillo Aeropuerto,35.3,23.8,,,
@@ -65370,6 +65448,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-03,Guajara-Mirim - Guayaramerín,37.8,,,,
 2023-11-03,Hichucota,18.0,-2.0,,,
 2023-11-03,Huarisuyo (GPRS),19.64,16.92,40.67,25.98,
+2023-11-03,Huayllamarca,,,,,2.8
 2023-11-03,Huayrocondo,20.0,-0.4,,,
 2023-11-03,Isla Del Sol,19.3,5.1,,,
 2023-11-03,Isla Suriqui_M (GPRS),18.75,15.74,48.71,30.98,
@@ -65481,6 +65560,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-03,Tinguipaya,21.3,5.3,,,
 2023-11-03,Tiraque,26.0,7.0,,,
 2023-11-03,Tomave,22.0,-5.5,,,
+2023-11-03,Trancas,25.0,19.0,,,
 2023-11-03,Trinidad,36.0,29.0,69.5,44.1,
 2023-11-03,Trinidad Aeropuerto,36.8,,,,
 2023-11-03,Trompillo Aeropuerto,23.3,18.0,,,
@@ -65526,6 +65606,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-04,Ayo Ayo,22.5,5.5,,,
 2023-11-04,Ayoma,27.4,10.3,,,
 2023-11-04,Azurduy,24.0,10.0,,,
+2023-11-04,Cabaña Forestal Oruro,24.3,5.5,,,
 2023-11-04,Caiza D,31.2,4.0,,,
 2023-11-04,Calacoto,24.0,2.0,,,
 2023-11-04,Camata,24.0,15.0,,,14.2
@@ -65682,6 +65763,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-04,Tiraque,28.0,8.0,,,
 2023-11-04,Toma Ravelo_M (GPRS),,,,,1.0
 2023-11-04,Tomave,18.2,-0.5,,,
+2023-11-04,Trancas,28.0,14.0,,,
 2023-11-04,Trinidad,30.0,24.0,60.4,35.0,
 2023-11-04,Trinidad Aeropuerto,30.6,,,,
 2023-11-04,Trompillo Aeropuerto,,,,,0.2
@@ -65729,6 +65811,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-05,Cabaña Forestal Oruro,,,,,1.1
 2023-11-05,Caiza D,29.0,5.7,,,2.0
 2023-11-05,Calacoto,25.0,2.0,,,
+2023-11-05,Camargo_M (GPRS),,,,,1.3
 2023-11-05,Camata,31.0,14.0,,,
 2023-11-05,Camiri,35.0,19.0,67.6,26.4,
 2023-11-05,Camiri Aeropuerto,35.7,14.2,,,
@@ -65876,6 +65959,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-05,Tinguipaya,23.4,7.2,,,
 2023-11-05,Tiraque,27.0,9.0,,,
 2023-11-05,Tomave,20.0,5.0,,,
+2023-11-05,Trancas,28.0,16.0,,,
 2023-11-05,Trinidad,34.0,24.0,64.3,33.0,
 2023-11-05,Trinidad Aeropuerto,35.2,,,,
 2023-11-05,Trompillo Aeropuerto,36.0,22.0,,,
@@ -65924,6 +66008,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-06,Ayo Ayo,21.8,-0.8,,,
 2023-11-06,Ayoma,28.3,9.3,,,1.1
 2023-11-06,Azurduy,25.0,10.5,,,
+2023-11-06,Cabaña Forestal Oruro,23.9,5.5,,,
 2023-11-06,Caiza D,33.0,6.8,,,
 2023-11-06,Calacoto,23.0,0.5,,,
 2023-11-06,Camata,34.0,16.0,,,
@@ -66075,6 +66160,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-06,Tinguipaya,27.3,5.4,,,
 2023-11-06,Tiraque,26.0,7.0,,,
 2023-11-06,Tomave,17.2,2.1,,,
+2023-11-06,Trancas,31.0,20.0,,,
 2023-11-06,Trinidad,37.0,28.0,69.3,36.9,
 2023-11-06,Trinidad Aeropuerto,38.3,,,,
 2023-11-06,Trompillo Aeropuerto,36.7,25.0,,,
@@ -66122,6 +66208,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-07,Ayo Ayo,23.0,0.4,,,
 2023-11-07,Ayoma,28.2,8.1,,,
 2023-11-07,Azurduy,27.0,12.0,,,
+2023-11-07,Cabaña Forestal Oruro,24.2,7.9,,,
 2023-11-07,Caiza D,21.0,5.5,,,4.2
 2023-11-07,Calacoto,23.0,0.1,,,1.2
 2023-11-07,Camata,35.0,17.0,,,
@@ -66279,6 +66366,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-07,Tiraque,25.0,8.0,,,
 2023-11-07,Tomave,20.2,1.5,,,1.5
 2023-11-07,Totora i_M (GPRS),,,,,0.1
+2023-11-07,Trancas,36.0,23.0,,,
 2023-11-07,Trinidad,37.0,29.0,69.5,39.2,
 2023-11-07,Trinidad Aeropuerto,38.9,,,,
 2023-11-07,Trompillo Aeropuerto,38.2,27.1,,,
@@ -66379,6 +66467,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-08,Hichucota,16.0,0.0,,,
 2023-11-08,Huarisuyo (GPRS),18.79,12.96,56.99,37.01,3.4
 2023-11-08,Huaylipaya,,,,,7.5
+2023-11-08,Huayllamarca,,,,,5.1
 2023-11-08,Huayrocondo,19.8,1.8,,,3.6
 2023-11-08,Ibibobo,,,,,8.5
 2023-11-08,Isla Del Sol,17.8,5.3,,,
@@ -66493,6 +66582,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-08,Tiraque,23.0,7.0,,,
 2023-11-08,Toma Ravelo_M (GPRS),,,,,5.5
 2023-11-08,Tomave,17.0,4.0,,,
+2023-11-08,Trancas,34.0,22.0,,,
 2023-11-08,Trinidad,38.0,30.0,74.0,39.5,
 2023-11-08,Trinidad Aeropuerto,39.4,,,,
 2023-11-08,Trompillo Aeropuerto,37.8,27.1,,,
@@ -66544,8 +66634,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-09,Ayo Ayo,19.5,5.0,,,
 2023-11-09,Ayoma,26.3,7.1,,,
 2023-11-09,Azurduy,24.0,10.0,,,
+2023-11-09,Cabaña Forestal Oruro,21.4,7.2,,,
 2023-11-09,Caiza D,23.0,7.1,,,9.6
 2023-11-09,Calacoto,21.0,0.0,,,1.0
+2023-11-09,Camargo_M (GPRS),,,,,17.6
 2023-11-09,Camata,28.0,16.5,,,20.0
 2023-11-09,Camiri,39.0,26.0,64.8,27.4,
 2023-11-09,Camiri Aeropuerto,39.9,24.2,,,
@@ -66602,6 +66694,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-09,Guayaramerin_M (GPRS),,,,,0.1
 2023-11-09,Hichucota,17.0,0.0,,,
 2023-11-09,Huarisuyo (GPRS),15.18,12.04,58.88,45.85,1.0
+2023-11-09,Huayllamarca,,,,,2.3
 2023-11-09,Huayrocondo,18.6,1.5,,,
 2023-11-09,Incapampa - Coroico_M (GPRS),,,,,22.4
 2023-11-09,Isla Del Sol,18.4,3.7,,,
@@ -66726,6 +66819,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-09,Tiraque,24.0,6.0,,,
 2023-11-09,Tomave,18.1,4.2,,,1.5
 2023-11-09,Totora i_M (GPRS),,,,,0.8
+2023-11-09,Trancas,30.0,20.0,,,10.0
 2023-11-09,Trinidad,37.0,28.0,78.2,41.7,
 2023-11-09,Trinidad Aeropuerto,38.2,,,,
 2023-11-09,Trompillo Aeropuerto,38.0,26.0,,,
@@ -66775,8 +66869,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-10,Ayo Ayo,21.0,-0.8,,,
 2023-11-10,Ayoma,25.2,9.3,,,
 2023-11-10,Azurduy,,,,,9.0
+2023-11-10,Cabaña Forestal Oruro,23.4,7.4,,,
 2023-11-10,Caiza D,22.1,9.0,,,1.0
 2023-11-10,Calacoto,21.0,0.0,,,1.1
+2023-11-10,Camargo_M (GPRS),,,,,4.0
 2023-11-10,Camata,27.0,17.0,,,
 2023-11-10,Camiri,39.0,26.0,64.8,24.2,
 2023-11-10,Camiri Aeropuerto,39.3,21.4,,,
@@ -66949,6 +67045,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-10,Tiraque,27.0,8.0,,,
 2023-11-10,Tomave,16.5,7.5,,,
 2023-11-10,Totora i_M (GPRS),,,,,4.1
+2023-11-10,Trancas,34.0,22.0,,,
 2023-11-10,Trinidad,38.0,30.0,69.7,37.1,
 2023-11-10,Trinidad Aeropuerto,39.2,,,,
 2023-11-10,Trompillo Aeropuerto,38.2,25.4,,,
@@ -67157,6 +67254,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-11,Tiraque,25.0,7.0,,,
 2023-11-11,Tomave,18.0,5.5,,,
 2023-11-11,Totora i_M (GPRS),,,,,0.3
+2023-11-11,Trancas,36.0,23.0,,,3.0
 2023-11-11,Trinidad,39.0,30.0,69.7,35.2,
 2023-11-11,Trinidad Aeropuerto,40.1,,,,
 2023-11-11,Trompillo Aeropuerto,37.5,26.9,,,
@@ -67355,6 +67453,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-12,Tinguipaya,22.1,7.2,,,
 2023-11-12,Tiraque,23.0,9.0,,,
 2023-11-12,Tomave,17.0,3.0,,,
+2023-11-12,Trancas,37.0,21.0,,,
 2023-11-12,Trinidad Aeropuerto,40.5,,,,
 2023-11-12,Trompillo Aeropuerto,38.0,27.2,,,
 2023-11-12,Tucumillas,29.0,13.0,,,
@@ -67587,6 +67686,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-13,Tinguipaya,23.2,6.2,,,
 2023-11-13,Tiraque,24.0,10.0,,,
 2023-11-13,Tomave,17.5,8.5,,,
+2023-11-13,Trancas,29.0,19.0,,,
 2023-11-13,Trinidad,38.0,29.0,73.8,39.5,
 2023-11-13,Trinidad Aeropuerto,39.2,,,,
 2023-11-13,Trompillo Aeropuerto,37.3,27.5,,,
@@ -67642,6 +67742,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-14,Ayoma,27.4,3.1,,,
 2023-11-14,Azurduy,,,,,3.0
 2023-11-14,Buena Vista S.(GPRS),,,,,0.6
+2023-11-14,Cabaña Forestal Oruro,23.2,3.8,,,
 2023-11-14,Caiza D,30.0,6.4,,,
 2023-11-14,Calacoto,24.5,-2.5,,,
 2023-11-14,Camata,28.5,16.5,,,
@@ -67814,6 +67915,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-14,Tiraque,26.0,9.0,,,
 2023-11-14,Toma Ravelo_M (GPRS),,,,,4.0
 2023-11-14,Tomave,18.0,4.5,,,
+2023-11-14,Trancas,37.0,21.0,,,3.0
 2023-11-14,Trinidad,38.0,30.0,69.7,39.5,
 2023-11-14,Trinidad Aeropuerto,39.5,,,,
 2023-11-14,Trompillo Aeropuerto,36.8,27.0,,,
@@ -67865,6 +67967,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-15,Ayo Ayo,20.5,-0.8,,,
 2023-11-15,Ayoma,29.2,1.1,,,
 2023-11-15,Azurduy,24.0,10.0,,,
+2023-11-15,Cabaña Forestal Oruro,24.7,2.0,,,
 2023-11-15,Caiza D,32.0,4.4,,,
 2023-11-15,Calacoto,24.8,-2.5,,,
 2023-11-15,Camata,31.0,17.0,,,
@@ -68027,6 +68130,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-15,Tinguipaya,25.1,5.2,,,
 2023-11-15,Tiraque,25.0,7.0,,,
 2023-11-15,Tomave,18.2,3.5,,,
+2023-11-15,Trancas,38.0,22.0,,,
 2023-11-15,Trinidad,38.0,29.0,69.5,39.5,
 2023-11-15,Trinidad Aeropuerto,39.8,,,,
 2023-11-15,Trompillo Aeropuerto,37.4,26.2,,,
@@ -68074,6 +68178,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-16,Ayo Ayo,20.8,2.8,,,
 2023-11-16,Ayoma,30.4,6.3,,,
 2023-11-16,Azurduy,27.0,12.0,,,
+2023-11-16,Cabaña Forestal Oruro,26.0,3.7,,,
 2023-11-16,Caiza D,29.0,6.0,,,
 2023-11-16,Calacoto,24.5,0.5,,,
 2023-11-16,Camata,30.0,15.5,,,
@@ -68244,6 +68349,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-16,Tinguipaya,25.3,5.1,,,
 2023-11-16,Tiraque,26.0,9.0,,,
 2023-11-16,Tomave,24.5,5.0,,,
+2023-11-16,Trancas,37.0,23.0,,,
 2023-11-16,Trinidad,39.0,30.0,61.7,35.2,
 2023-11-16,Trinidad Aeropuerto,40.4,,,,
 2023-11-16,Trompillo Aeropuerto,38.0,27.0,,,
@@ -68294,8 +68400,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-17,Ayo Ayo,22.5,2.0,,,
 2023-11-17,Ayoma,29.1,7.2,,,
 2023-11-17,Azurduy,26.0,11.0,,,
+2023-11-17,Cabaña Forestal Oruro,24.1,6.6,,,
 2023-11-17,Caiza D,31.0,7.6,,,
 2023-11-17,Calacoto,25.5,1.0,,,
+2023-11-17,Camargo_M (GPRS),,,,,6.4
 2023-11-17,Camata,31.0,17.5,,,
 2023-11-17,Camiri,42.0,27.0,73.5,23.4,
 2023-11-17,Camiri Aeropuerto,41.8,23.6,,,
@@ -68451,6 +68559,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-17,Tinguipaya,27.4,6.2,,,
 2023-11-17,Tiraque,27.0,10.0,,,
 2023-11-17,Tomave,18.1,6.5,,,
+2023-11-17,Trancas,39.0,24.0,,,
 2023-11-17,Trinidad,39.0,31.0,61.9,31.1,
 2023-11-17,Trinidad Aeropuerto,41.1,,,,
 2023-11-17,Trompillo Aeropuerto,37.6,27.5,,,
@@ -68497,6 +68606,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-18,Ayo Ayo,24.0,-0.6,,,
 2023-11-18,Ayoma,28.3,5.1,,,
 2023-11-18,Azurduy,24.0,10.0,,,
+2023-11-18,Cabaña Forestal Oruro,24.1,6.2,,,
 2023-11-18,Caiza D,32.0,8.8,,,
 2023-11-18,Calacoto,25.0,-1.3,,,
 2023-11-18,Camata,30.0,16.5,,,
@@ -68543,6 +68653,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-18,Guajara-Mirim - Guayaramerín,39.0,,,,
 2023-11-18,Hichucota,19.0,1.0,,,
 2023-11-18,Huarisuyo (GPRS),21.63,18.43,27.05,21.44,
+2023-11-18,Huayllamarca,,,,,5.4
 2023-11-18,Huayrocondo,22.0,1.6,,,
 2023-11-18,Isla Del Sol,14.6,4.3,,,
 2023-11-18,Isla Suriqui_M (GPRS),19.34,16.53,34.45,28.25,
@@ -68636,6 +68747,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-18,Tinguipaya,25.3,5.3,,,
 2023-11-18,Tiraque,29.0,11.0,,,
 2023-11-18,Tomave,20.1,6.0,,,
+2023-11-18,Trancas,36.0,22.0,,,
 2023-11-18,Trinidad,40.0,32.0,58.5,29.5,
 2023-11-18,Trinidad Aeropuerto,41.3,,,,
 2023-11-18,Trompillo Aeropuerto,38.0,29.2,,,
@@ -68679,6 +68791,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-19,Ayo Ayo,24.5,7.0,,,
 2023-11-19,Ayoma,28.2,6.2,,,
 2023-11-19,Azurduy,,,,,4.0
+2023-11-19,Cabaña Forestal Oruro,25.2,6.4,,,
 2023-11-19,Caiza D,33.0,10.0,,,
 2023-11-19,Calacoto,25.5,-1.0,,,
 2023-11-19,Camata,31.0,17.0,,,23.8
@@ -68847,6 +68960,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-19,Tiraque,24.0,7.0,,,
 2023-11-19,Toma Ravelo_M (GPRS),,,,,0.4
 2023-11-19,Tomave,22.0,3.5,,,
+2023-11-19,Trancas,36.0,23.0,,,
 2023-11-19,Trinidad,36.0,25.0,93.3,49.7,
 2023-11-19,Trinidad Aeropuerto,37.0,,,,
 2023-11-19,Trompillo Aeropuerto,32.5,27.2,,,
@@ -68900,6 +69014,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-20,Ayoma,28.1,8.3,,,
 2023-11-20,Azurduy,,,,,2.0
 2023-11-20,Buena Vista S.(GPRS),,,,,0.2
+2023-11-20,Cabaña Forestal Oruro,24.4,6.9,,,
 2023-11-20,Caiza D,32.0,11.0,,,
 2023-11-20,Calacoto,24.5,-0.5,,,
 2023-11-20,Camata,32.0,16.0,,,
@@ -68949,6 +69064,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-20,Huancane Corapata_M (GPRS),,,,,0.6
 2023-11-20,Huarisuyo (GPRS),20.74,17.27,33.94,26.21,
 2023-11-20,Huaylipaya,,,,,42.7
+2023-11-20,Huayllamarca,,,,,1.7
 2023-11-20,Huayrocondo,22.0,4.5,,,0.2
 2023-11-20,Incapampa,,,,,14.1
 2023-11-20,Isla Del Sol,15.6,2.3,,,
@@ -69068,6 +69184,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-20,Tiraque,26.0,7.0,,,
 2023-11-20,Toma Ravelo_M (GPRS),,,,,0.1
 2023-11-20,Tomave,22.5,2.0,,,
+2023-11-20,Trancas,35.0,20.0,,,
 2023-11-20,Trinidad,28.0,24.0,93.4,78.2,
 2023-11-20,Trinidad Aeropuerto,,,,,38.9
 2023-11-20,Trompillo Aeropuerto,25.2,23.4,,,
@@ -69118,6 +69235,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-21,Ayoma,26.3,5.4,,,0.4
 2023-11-21,Azurduy,23.5,10.0,,,
 2023-11-21,Buena Vista S.(GPRS),,,,,0.6
+2023-11-21,Cabaña Forestal Oruro,25.1,5.9,,,
 2023-11-21,Caiza D,31.8,10.9,,,
 2023-11-21,Calacoto,25.0,-2.5,,,
 2023-11-21,Camata,32.0,18.0,,,
@@ -69287,6 +69405,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-21,Tinguipaya,23.2,6.2,,,
 2023-11-21,Tiraque,25.0,6.0,,,12.5
 2023-11-21,Tomave,20.5,4.5,,,
+2023-11-21,Trancas,29.2,23.0,,,
 2023-11-21,Trinidad,31.0,24.0,99.1,61.9,
 2023-11-21,Trinidad Aeropuerto,,,,,3.4
 2023-11-21,Trompillo Aeropuerto,,,,,12.4
@@ -69339,6 +69458,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-22,Ayo Ayo,27.0,-1.8,,,
 2023-11-22,Ayoma,28.2,5.2,,,
 2023-11-22,Azurduy,25.0,11.0,,,
+2023-11-22,Cabaña Forestal Oruro,26.5,4.6,,,
 2023-11-22,Caiza D,30.4,10.0,,,
 2023-11-22,Calacoto,25.3,-1.5,,,
 2023-11-22,Camata,34.0,18.0,,,
@@ -69388,6 +69508,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-22,Hichucota,17.0,1.0,,,
 2023-11-22,Huarisuyo (GPRS),19.82,15.98,35.31,23.39,
 2023-11-22,Huaylipaya,,,,,64.5
+2023-11-22,Huayllamarca,,,,,2.6
 2023-11-22,Huayrocondo,21.0,2.5,,,
 2023-11-22,Ibibobo,,,,,3.5
 2023-11-22,Isla Del Sol,17.3,3.8,,,
@@ -69501,6 +69622,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-22,Tinguipaya,23.4,5.3,,,
 2023-11-22,Tiraque,25.0,8.0,,,1.5
 2023-11-22,Tomave,22.1,6.0,,,
+2023-11-22,Trancas,28.0,21.0,,,
 2023-11-22,Trinidad,34.0,27.0,82.9,49.2,
 2023-11-22,Trinidad Aeropuerto,,,,,32.0
 2023-11-22,Trompillo Aeropuerto,32.0,23.5,,,
@@ -69557,6 +69679,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-23,Ayoma,25.1,7.1,,,2.1
 2023-11-23,Azurduy,,,,,1.2
 2023-11-23,Buena Vista S.(GPRS),,,,,6.2
+2023-11-23,Cabaña Forestal Oruro,24.6,7.5,,,
 2023-11-23,Caiza D,21.8,14.0,,,2.0
 2023-11-23,Calacoto,24.0,0.5,,,
 2023-11-23,Camata,35.0,17.5,,,
@@ -69725,6 +69848,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-23,Toma Ravelo_M (GPRS),,,,,7.5
 2023-11-23,Tomave,21.6,5.1,,,
 2023-11-23,Totora i_M (GPRS),,,,,0.8
+2023-11-23,Trancas,25.0,15.0,,,13.3
 2023-11-23,Trinidad Aeropuerto,,,,,13.0
 2023-11-23,Trompillo Aeropuerto,,,,,0.8
 2023-11-23,Tucumillas,28.0,13.5,,,
@@ -69783,6 +69907,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-24,Cabaña Forestal Oruro,,,,,6.6
 2023-11-24,Caiza D,20.4,14.1,,,
 2023-11-24,Calacoto,18.5,6.0,,,1.0
+2023-11-24,Camargo_M (GPRS),,,,,13.4
 2023-11-24,Camata,28.0,16.0,,,
 2023-11-24,Camiri,25.0,19.0,93.1,60.4,
 2023-11-24,Camiri Aeropuerto,,,,,3.1
@@ -69991,6 +70116,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-24,Tiraque,24.0,8.0,,,28.5
 2023-11-24,Toma Ravelo_M (GPRS),,,,,24.0
 2023-11-24,Tomave,21.0,6.0,,,
+2023-11-24,Trancas,20.0,14.0,,,3.0
 2023-11-24,Trinidad,25.0,22.0,99.1,77.8,
 2023-11-24,Trinidad Aeropuerto,,,,,23.2
 2023-11-24,Trompillo Aeropuerto,,,,,7.8
@@ -70113,6 +70239,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-25,Hichucota,10.0,2.0,,,10.0
 2023-11-25,Huancane Corapata_M (GPRS),,,,,3.2
 2023-11-25,Huarisuyo (GPRS),14.86,10.08,83.5,58.35,1.7
+2023-11-25,Huayllamarca,,,,,3.4
 2023-11-25,Huayrocondo,15.4,4.7,,,3.7
 2023-11-25,Ibibobo,,,,,3.4
 2023-11-25,Incapampa - Coroico_M (GPRS),,,,,3.9
@@ -70227,6 +70354,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-25,Tiraque,22.0,6.0,,,19.0
 2023-11-25,Toma Ravelo_M (GPRS),,,,,32.3
 2023-11-25,Tomave,21.5,7.5,,,0.5
+2023-11-25,Trancas,28.0,12.0,,,
 2023-11-25,Trinidad,28.0,24.0,87.8,65.2,
 2023-11-25,Trinidad Aeropuerto,,,,,4.8
 2023-11-25,Trompillo Aeropuerto,29.0,21.0,,,
@@ -70340,6 +70468,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-26,Huancane Corapata_M (GPRS),,,,,3.2
 2023-11-26,Huarisuyo (GPRS),17.31,14.95,57.48,42.02,0.2
 2023-11-26,Huaylipaya,,,,,29.5
+2023-11-26,Huayllamarca,,,,,1.3
 2023-11-26,Huayrocondo,19.1,6.2,,,
 2023-11-26,Incapampa,,,,,6.1
 2023-11-26,Incapampa - Coroico_M (GPRS),,,,,0.8
@@ -70469,6 +70598,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-26,Tiraque,25.0,9.0,,,
 2023-11-26,Toma Ravelo_M (GPRS),,,,,7.3
 2023-11-26,Tomave,18.0,6.2,,,
+2023-11-26,Trancas,24.0,15.0,,,
 2023-11-26,Trinidad,31.0,25.0,87.9,61.9,
 2023-11-26,Trinidad Aeropuerto,32.0,,,,
 2023-11-26,Trompillo Aeropuerto,33.8,23.4,,,
@@ -70529,6 +70659,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-27,Cabaña Forestal Oruro,,,,,0.4
 2023-11-27,Caiza D,24.0,11.0,,,
 2023-11-27,Calacoto,22.0,3.8,,,4.0
+2023-11-27,Camargo_M (GPRS),,,,,5.3
 2023-11-27,Camata,27.0,16.0,,,28.0
 2023-11-27,Camiri,32.0,22.0,87.7,48.7,
 2023-11-27,Camiri Aeropuerto,,,,,13.4
@@ -70597,6 +70728,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-27,Huancane Corapata_M (GPRS),,,,,13.8
 2023-11-27,Huarisuyo (GPRS),15.76,10.1,75.86,52.3,8.4
 2023-11-27,Huaylipaya,,,,,48.9
+2023-11-27,Huayllamarca,,,,,4.2
 2023-11-27,Huayrocondo,16.0,4.0,,,8.0
 2023-11-27,Ibibobo,,,,,25.0
 2023-11-27,Incapampa,,,,,34.1
@@ -70742,6 +70874,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-27,Toma Ravelo_M (GPRS),,,,,6.7
 2023-11-27,Tomave,20.0,5.5,,,4.0
 2023-11-27,Totora i_M (GPRS),,,,,5.8
+2023-11-27,Trancas,27.0,15.0,,,10.2
 2023-11-27,Trinidad,31.0,24.0,93.3,65.8,
 2023-11-27,Trinidad Aeropuerto,,,,,1.5
 2023-11-27,Trompillo Aeropuerto,32.4,23.0,,,
@@ -70997,6 +71130,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-28,Tinguipaya,23.1,7.3,,,
 2023-11-28,Tiraque,26.0,8.0,,,
 2023-11-28,Tomave,20.5,2.5,,,
+2023-11-28,Trancas,32.0,16.0,,,
 2023-11-28,Trinidad,32.0,25.0,93.4,62.2,
 2023-11-28,Trinidad Aeropuerto,,,,,21.6
 2023-11-28,Trompillo Aeropuerto,33.1,23.2,,,
@@ -71054,6 +71188,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-29,Ayoma,27.1,6.0,,,
 2023-11-29,Azurduy,24.0,10.0,,,
 2023-11-29,Buena Vista S.(GPRS),,,,,0.6
+2023-11-29,Cabaña Forestal Oruro,24.5,6.9,,,
 2023-11-29,Caiza D,25.0,14.0,,,
 2023-11-29,Calacoto,22.5,2.0,,,
 2023-11-29,Camata,29.0,16.5,,,12.6
@@ -71231,6 +71366,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-29,Tiraque,27.0,8.0,,,
 2023-11-29,Tomave,23.1,3.5,,,
 2023-11-29,Totora i_M (GPRS),,,,,1.2
+2023-11-29,Trancas,35.0,22.0,,,
 2023-11-29,Trinidad,33.0,26.0,93.4,62.4,
 2023-11-29,Trinidad Aeropuerto,,,,,2.4
 2023-11-29,Trompillo Aeropuerto,34.5,22.9,,,
@@ -71347,6 +71483,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-30,Huancane Corapata_M (GPRS),,,,,0.7
 2023-11-30,Huarisuyo (GPRS),16.02,9.64,86.0,53.5,17.4
 2023-11-30,Huaylipaya,,,,,26.6
+2023-11-30,Huayllamarca,,,,,1.6
 2023-11-30,Huayrocondo,16.5,5.0,,,4.2
 2023-11-30,Incapampa,,,,,7.1
 2023-11-30,Incapampa - Coroico_M (GPRS),,,,,1.5
@@ -71466,6 +71603,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-30,Tinguipaya,23.2,8.2,,,
 2023-11-30,Tiraque,22.0,7.0,,,29.5
 2023-11-30,Tomave,21.0,4.0,,,
+2023-11-30,Trancas,29.0,23.0,,,34.0
 2023-11-30,Trinidad,34.0,27.0,78.1,49.2,
 2023-11-30,Trinidad Aeropuerto,34.2,,,,
 2023-11-30,Trompillo Aeropuerto,34.8,24.0,,,
@@ -71530,6 +71668,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-01,Cabaña Forestal Oruro,,,,,2.2
 2023-12-01,Caiza D,20.0,10.0,,,15.4
 2023-12-01,Calacoto,25.5,5.5,,,15.5
+2023-12-01,Camargo_M (GPRS),,,,,6.0
 2023-12-01,Camata,27.0,17.0,,,11.6
 2023-12-01,Camiri,38.0,25.0,77.8,32.6,
 2023-12-01,Camiri Aeropuerto,,21.5,,,
@@ -71714,6 +71853,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-01,Tiraque,27.0,10.0,,,
 2023-12-01,Tomave,20.0,,,,
 2023-12-01,Totora i_M (GPRS),,,,,4.3
+2023-12-01,Trancas,35.0,24.0,,,
 2023-12-01,Trinidad,34.0,27.0,82.9,52.3,
 2023-12-01,Trinidad Aeropuerto,34.8,,,,
 2023-12-01,Trompillo Aeropuerto,35.4,24.8,,,
@@ -71773,6 +71913,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-02,Cabaña Forestal Oruro,,,,,1.0
 2023-12-02,Caiza D,20.1,9.0,,,
 2023-12-02,Calacoto,22.3,2.0,,,
+2023-12-02,Camargo_M (GPRS),,,,,0.9
 2023-12-02,Camata,30.0,18.0,,,
 2023-12-02,Camiri,38.0,26.0,78.0,35.0,
 2023-12-02,Camiri Aeropuerto,,21.7,,,
@@ -71875,6 +72016,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-02,Puerto Villarroel (GPRS)_M,34.77,31.81,70.53,59.04,3.4
 2023-12-02,Puerto Villarroel_H (GPRS),,,,,0.57
 2023-12-02,Puna,16.9,7.6,,,
+2023-12-02,Punilla,,,,,8.6
 2023-12-02,Putucuni Calientes (GPRS),5.64,4.13,96.2,82.4,3.5
 2023-12-02,Quila Quila_M (GPRS),24.22,22.91,50.98,36.9,0.9
 2023-12-02,Ravelo,24.0,9.0,,,3.9
@@ -71928,6 +72070,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-02,Toma Ravelo_M (GPRS),,,,,1.7
 2023-12-02,Tomave,21.0,,,,
 2023-12-02,Totora i_M (GPRS),,,,,2.5
+2023-12-02,Trancas,28.0,19.0,,,
 2023-12-02,Trinidad,36.0,27.0,82.9,46.8,
 2023-12-02,Trinidad Aeropuerto,36.4,,,,
 2023-12-02,Trompillo Aeropuerto,35.2,24.9,,,
@@ -72038,6 +72181,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-03,El Reloj,,,,,10.5
 2023-12-03,El Tejar (Tarija),,,,,2.1
 2023-12-03,El Villar,29.5,16.0,,,
+2023-12-03,Emborozu,,,,,2.0
 2023-12-03,Guajara-Mirim - Guayaramerín,,,,,0.1
 2023-12-03,Guanay_H (GPRS),,,,,151.0
 2023-12-03,Hichucota,,,,,3.0
@@ -72166,6 +72310,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-03,Tiraque,26.0,9.0,,,8.5
 2023-12-03,Toma Ravelo_M (GPRS),,,,,12.4
 2023-12-03,Tomave,20.0,,,,
+2023-12-03,Trancas,31.0,17.0,,,
 2023-12-03,Trinidad,33.0,28.0,83.0,58.7,
 2023-12-03,Trinidad Aeropuerto,34.3,,,,
 2023-12-03,Trompillo Aeropuerto,33.4,24.8,,,
@@ -72275,6 +72420,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-04,El Común Caraparí,,,,,2.3
 2023-12-04,El Tejar (Tarija),25.7,15.1,,,3.6
 2023-12-04,El Villar,30.0,13.0,,,
+2023-12-04,Emborozu,,,,,20.0
 2023-12-04,Guajara-Mirim - Guayaramerín,,24.8,,,
 2023-12-04,Guanay_H (GPRS),,,,,4.0
 2023-12-04,Guayaramerin_M (GPRS),,,,,6.6
@@ -72299,6 +72445,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-04,Magdalena,25.0,24.0,99.1,93.3,
 2023-12-04,Magdalena Aeropuerto,,,,,11.4
 2023-12-04,Mairana_M (GPRS),-39.05,-39.06,0.93,0.92,0.2
+2023-12-04,Minero (Unagro),,,,,5.6
 2023-12-04,Mizque - SDC (GPRS),25.7,22.82,54.21,37.8,
 2023-12-04,Mojo,22.3,11.0,,,42.2
 2023-12-04,Molle Molle,21.7,11.1,,,0.8
@@ -72335,6 +72482,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-04,Puerto Villarroel (GPRS)_M,30.78,27.26,87.1,72.74,1.0
 2023-12-04,Puerto Villarroel_H (GPRS),,,,,0.02
 2023-12-04,Puna,20.0,6.0,,,5.9
+2023-12-04,Punilla,,,,,12.3
 2023-12-04,Putucuni Calientes (GPRS),8.22,4.63,97.7,79.3,4.7
 2023-12-04,Quiabaya,,,,,6.1
 2023-12-04,Quila Quila_M (GPRS),19.36,17.99,62.84,51.63,13.6
@@ -72408,6 +72556,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-04,Tiraque,24.0,6.0,,,12.0
 2023-12-04,Toma Ravelo_M (GPRS),,,,,0.7
 2023-12-04,Tomave,21.0,,,,
+2023-12-04,Trancas,27.0,14.0,,,2.0
 2023-12-04,Trinidad,28.0,24.0,93.3,82.9,
 2023-12-04,Trinidad Aeropuerto,,,,,2.6
 2023-12-04,Trompillo Aeropuerto,27.0,22.5,,,
@@ -72428,6 +72577,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-04,Villa Tunari_H (GPRS),,,,,3.02
 2023-12-04,Villamontes,26.0,20.0,93.1,68.7,
 2023-12-04,Villamontes Aeropuerto,,,,,5.2
+2023-12-04,Villamontes Bombeo,,,,,20.5
 2023-12-04,Villazon,24.1,7.1,,,
 2023-12-04,Viru Viru,28.0,21.0,93.2,57.6,
 2023-12-04,Viru Viru Aeropuerto,28.2,22.5,,,
@@ -72471,6 +72621,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-05,Cabaña Forestal Oruro,,,,,0.8
 2023-12-05,Caiza D,23.0,9.9,,,
 2023-12-05,Calacoto,21.0,4.0,,,3.0
+2023-12-05,Camargo_M (GPRS),,,,,0.3
 2023-12-05,Camata,24.0,17.0,,,19.0
 2023-12-05,Camiri,24.0,19.0,93.1,64.2,
 2023-12-05,Camiri Aeropuerto,,18.9,,,
@@ -72524,6 +72675,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-05,El Tejar (La Paz),,,,,23.8
 2023-12-05,El Tejar (Tarija),29.9,13.8,,,
 2023-12-05,El Villar,21.0,14.0,,,
+2023-12-05,Emborozu,,,,,10.0
 2023-12-05,Guajara-Mirim - Guayaramerín,,,,,24.2
 2023-12-05,Guanay_H (GPRS),,,,,779.0
 2023-12-05,Guayaramerin_M (GPRS),,,,,16.8
@@ -72551,6 +72703,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-05,Magdalena Aeropuerto,,,,,13.0
 2023-12-05,Mairana_M (GPRS),207.9,207.9,247.8,247.8,
 2023-12-05,Mecapaca,,,,,8.3
+2023-12-05,Minero (Unagro),,,,,1.2
 2023-12-05,Mizque - SDC (GPRS),29.76,26.86,36.16,28.46,
 2023-12-05,Mojo,20.0,5.3,,,
 2023-12-05,Molle Molle,22.8,11.7,,,
@@ -72659,6 +72812,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-05,Tinguipaya,22.3,7.2,,,6.0
 2023-12-05,Tiraque,25.0,7.0,,,
 2023-12-05,Tomave,20.0,,,,
+2023-12-05,Trancas,30.0,15.0,,,
 2023-12-05,Trinidad,30.0,25.0,87.9,65.6,
 2023-12-05,Trinidad Aeropuerto,,,,,1.6
 2023-12-05,Trompillo Aeropuerto,,,,,0.4
@@ -72677,6 +72831,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-05,Villa Tunari_H (GPRS),,,,,9.3
 2023-12-05,Villamontes,21.0,19.0,99.1,93.1,
 2023-12-05,Villamontes Aeropuerto,,,,,1.7
+2023-12-05,Villamontes Bombeo,,,,,2.5
 2023-12-05,Villazon,26.2,7.2,,,17.4
 2023-12-05,Vino Tinto,,,,,10.2
 2023-12-05,Viru Viru,30.0,21.0,99.1,65.4,
@@ -72759,6 +72914,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-06,El Tejar (La Paz),,,,,0.1
 2023-12-06,El Tejar (Tarija),29.4,16.3,,,
 2023-12-06,El Villar,25.0,15.0,,,
+2023-12-06,Emborozu,,,,,1.5
 2023-12-06,Guajara-Mirim - Guayaramerín,,,,,41.5
 2023-12-06,Guanay_H (GPRS),,,,,54.0
 2023-12-06,Guayaramerin_M (GPRS),,,,,28.0
@@ -72886,6 +73042,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-06,Tinguipaya,24.2,7.1,,,
 2023-12-06,Tiraque,26.0,8.0,,,
 2023-12-06,Tomave,22.1,,,,
+2023-12-06,Trancas,30.0,17.0,,,
 2023-12-06,Trinidad,34.0,27.0,73.5,52.3,
 2023-12-06,Trinidad Aeropuerto,34.6,,,,
 2023-12-06,Trompillo Aeropuerto,,,,,0.2
@@ -72903,6 +73060,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-06,Villa Tunari_H (GPRS),,,,,0.05
 2023-12-06,Villamontes,25.0,22.0,93.2,73.1,
 2023-12-06,Villamontes Aeropuerto,,,,,2.0
+2023-12-06,Villamontes Bombeo,,,,,5.0
 2023-12-06,Villazon,26.0,6.3,,,
 2023-12-06,Viru Viru,34.0,26.0,82.8,46.3,
 2023-12-06,Viru Viru Aeropuerto,34.6,22.5,,,
@@ -73107,6 +73265,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-07,Tinguipaya,23.2,8.2,,,
 2023-12-07,Tiraque,20.0,10.0,,,
 2023-12-07,Tomave,25.5,,,,
+2023-12-07,Trancas,20.0,18.0,,,
 2023-12-07,Trinidad,35.0,27.0,82.9,52.3,
 2023-12-07,Trinidad Aeropuerto,35.8,,,,
 2023-12-07,Trompillo Aeropuerto,36.0,23.4,,,
@@ -73166,6 +73325,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-08,Boyuibe,,,,,4.0
 2023-12-08,Caiza D,24.0,9.0,,,
 2023-12-08,Calacoto,20.0,2.3,,,18.8
+2023-12-08,Camargo_M (GPRS),,,,,0.4
 2023-12-08,Camata,27.0,16.0,,,28.0
 2023-12-08,Camiri,29.0,21.0,93.2,50.8,
 2023-12-08,Camiri Aeropuerto,,,,,7.2
@@ -73246,6 +73406,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-08,Mairana_M (GPRS),207.9,207.9,247.8,247.8,
 2023-12-08,Mataral,,,,,7.3
 2023-12-08,Mecapaca_M (GPRS),,,,,2.1
+2023-12-08,Minero (Unagro),,,,,3.4
 2023-12-08,Mizque - SDC (GPRS),23.27,14.63,89.5,54.66,2.2
 2023-12-08,Mojo,22.0,10.0,,,5.0
 2023-12-08,Molle Molle,18.9,12.2,,,
@@ -73282,6 +73443,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-08,Puerto Villarroel (GPRS)_M,31.04,25.08,88.1,69.96,2.3
 2023-12-08,Puerto Villarroel_H (GPRS),,,,,3.6
 2023-12-08,Puna,18.0,4.0,,,
+2023-12-08,Punilla,,,,,10.6
 2023-12-08,Putucuni Calientes (GPRS),7.31,1.65,97.8,79.32,4.5
 2023-12-08,Quila Quila_M (GPRS),18.64,14.77,71.71,48.06,3.4
 2023-12-08,Ravelo,17.0,10.0,,,35.2
@@ -73354,6 +73516,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-08,Toma Ravelo_M (GPRS),,,,,20.4
 2023-12-08,Tomave,20.5,,,,
 2023-12-08,Totora i_M (GPRS),,,,,0.6
+2023-12-08,Trancas,22.0,14.0,,,20.2
 2023-12-08,Trinidad,30.0,23.0,99.1,74.0,
 2023-12-08,Trinidad Aeropuerto,30.8,,,,
 2023-12-08,Trompillo Aeropuerto,,,,,0.1
@@ -73372,6 +73535,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-08,Villa Tunari_H (GPRS),,,,,4.2
 2023-12-08,Villamontes,33.0,25.0,87.9,49.0,
 2023-12-08,Villamontes Aeropuerto,,,,,2.2
+2023-12-08,Villamontes Bombeo,,,,,6.0
 2023-12-08,Villazon,24.2,9.2,,,
 2023-12-08,Vino Tinto,,,,,16.1
 2023-12-08,Viru Viru,34.0,28.0,65.2,46.3,
@@ -73567,6 +73731,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-09,Tiraque,26.0,8.0,,,
 2023-12-09,Tomave,20.0,,,,
 2023-12-09,Totora i_M (GPRS),,,,,0.8
+2023-12-09,Trancas,33.0,15.0,,,
 2023-12-09,Trinidad,33.0,24.0,93.3,58.7,
 2023-12-09,Trinidad Aeropuerto,,,,,16.6
 2023-12-09,Trompillo Aeropuerto,36.0,21.2,,,
@@ -73661,6 +73826,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-10,El Común Caraparí,,,,,31.4
 2023-12-10,El Puente_H (GPRS),,,,,0.03
 2023-12-10,El Villar,29.2,15.0,,,
+2023-12-10,Emborozu,,,,,40.0
 2023-12-10,Guajara-Mirim - Guayaramerín,,24.6,,,
 2023-12-10,Hichucota,,,,,6.0
 2023-12-10,Huarisuyo (GPRS),15.6,6.02,91.2,54.35,
@@ -73763,6 +73929,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-10,Tiraque,25.0,9.0,,,
 2023-12-10,Tomave,21.0,,,,
 2023-12-10,Totora i_M (GPRS),,,,,0.2
+2023-12-10,Trancas,20.0,18.0,,,
 2023-12-10,Trinidad,35.0,29.0,78.3,55.5,
 2023-12-10,Trinidad Aeropuerto,36.4,,,,
 2023-12-10,Trompillo Aeropuerto,37.3,24.6,,,
@@ -73815,6 +73982,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-11,Azurduy,24.0,10.0,,,
 2023-12-11,Caiza D,24.0,11.2,,,
 2023-12-11,Calacoto,22.3,6.0,,,2.0
+2023-12-11,Camargo_M (GPRS),,,,,0.6
 2023-12-11,Camata,28.5,17.0,,,
 2023-12-11,Camiri,34.0,22.0,82.4,36.1,
 2023-12-11,Camiri Aeropuerto,,19.8,,,
@@ -73870,6 +74038,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-11,El Tejar (La Paz),,,,,31.2
 2023-12-11,El Tejar (Tarija),29.0,15.7,,,22.4
 2023-12-11,El Villar,25.0,13.0,,,
+2023-12-11,Emborozu,,,,,33.0
 2023-12-11,Guajara-Mirim - Guayaramerín,,23.8,,,
 2023-12-11,Guanay_H (GPRS),,,,,3.0
 2023-12-11,Hichucota,,,,,21.0
@@ -73933,6 +74102,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-11,Puerto Villarroel (GPRS)_M,33.14,29.8,72.31,62.93,1.9
 2023-12-11,Puerto Villarroel_H (GPRS),,,,,2.51
 2023-12-11,Puna,20.9,7.1,,,
+2023-12-11,Punilla,,,,,19.8
 2023-12-11,Putucuni Calientes (GPRS),11.33,6.15,89.2,73.46,10.7
 2023-12-11,Quiabaya,,,,,19.0
 2023-12-11,Quila Quila_M (GPRS),21.66,20.87,58.56,50.45,20.2
@@ -74006,6 +74176,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-11,Toma Ravelo_M (GPRS),,,,,26.9
 2023-12-11,Tomave,22.0,,,,
 2023-12-11,Totora i_M (GPRS),,,,,6.7
+2023-12-11,Trancas,30.0,13.0,,,22.3
 2023-12-11,Trinidad,33.0,24.0,99.1,62.4,
 2023-12-11,Trinidad Aeropuerto,,,,,22.2
 2023-12-11,Trompillo Aeropuerto,34.7,23.3,,,
@@ -74023,6 +74194,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-11,Villa Rivero_M (GPRS),,,,,9.0
 2023-12-11,Villa Tunari_H (GPRS),,,,,2.37
 2023-12-11,Villamontes Aeropuerto,36.1,,,,
+2023-12-11,Villamontes Bombeo,,,,,13.0
 2023-12-11,Villazon,26.2,7.1,,,2.3
 2023-12-11,Vino Tinto,,,,,30.5
 2023-12-11,Viru Viru,35.0,28.0,69.3,49.2,
@@ -74220,6 +74392,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-12,Tinguipaya,21.4,8.2,,,5.0
 2023-12-12,Tiraque,24.0,8.0,,,
 2023-12-12,Tomave,21.0,,,,
+2023-12-12,Trancas,33.0,18.0,,,
 2023-12-12,Trinidad,33.0,27.0,88.0,62.4,
 2023-12-12,Trinidad Aeropuerto,,,,,17.4
 2023-12-12,Trompillo Aeropuerto,37.0,24.6,,,
@@ -74429,6 +74602,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-13,Tiraque,26.0,6.0,,,
 2023-12-13,Tomave,24.5,,,,
 2023-12-13,Totora i_M (GPRS),,,,,0.1
+2023-12-13,Trancas,35.0,20.0,,,
 2023-12-13,Trinidad,34.0,28.0,88.1,55.5,
 2023-12-13,Trinidad Aeropuerto,34.5,,,,
 2023-12-13,Trompillo Aeropuerto,35.5,25.2,,,
@@ -74649,6 +74823,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-14,Tiraque,25.0,8.0,,,
 2023-12-14,Toma Ravelo_M (GPRS),,,,,5.6
 2023-12-14,Tomave,20.5,,,,
+2023-12-14,Trancas,30.0,21.0,,,
 2023-12-14,Trinidad,33.0,27.0,93.4,66.2,
 2023-12-14,Trinidad Aeropuerto,33.9,,,,
 2023-12-14,Trompillo Aeropuerto,36.3,25.0,,,
@@ -74710,6 +74885,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-15,Cabaña Forestal Oruro,,,,,0.8
 2023-12-15,Caiza D,25.1,10.0,,,
 2023-12-15,Calacoto,22.0,7.5,,,
+2023-12-15,Camargo_M (GPRS),,,,,18.9
 2023-12-15,Camata,26.0,17.5,,,
 2023-12-15,Camiri,39.0,27.0,73.5,24.2,
 2023-12-15,Camiri Aeropuerto,,23.7,,,
@@ -74767,6 +74943,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-15,El Tejar (La Paz),,,,,31.0
 2023-12-15,El Tejar (Tarija),30.8,15.3,,,14.5
 2023-12-15,El Villar,29.0,17.0,,,
+2023-12-15,Emborozu,,,,,10.0
 2023-12-15,Guajara-Mirim - Guayaramerín,,24.8,,,
 2023-12-15,Guanay_H (GPRS),,,,,214.0
 2023-12-15,Guayaramerin_M (GPRS),,,,,0.1
@@ -74833,6 +75010,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-15,Puerto Villarroel (GPRS)_M,32.5,30.03,80.5,73.21,0.6
 2023-12-15,Puerto Villarroel_H (GPRS),,,,,1.34
 2023-12-15,Puna,19.8,6.0,,,11.8
+2023-12-15,Punilla,,,,,16.3
 2023-12-15,Putucuni Calientes (GPRS),9.83,3.36,96.4,78.02,4.0
 2023-12-15,Quila Quila_M (GPRS),21.79,19.92,64.06,51.76,11.2
 2023-12-15,Ravelo,23.0,9.0,,,
@@ -74910,6 +75088,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-15,Tiraque,23.0,6.0,,,
 2023-12-15,Toma Ravelo_M (GPRS),,,,,30.8
 2023-12-15,Tomave,24.0,,,,
+2023-12-15,Trancas,32.0,20.0,,,27.2
 2023-12-15,Trinidad,33.0,27.0,88.0,62.4,
 2023-12-15,Trinidad Aeropuerto,,,,,2.5
 2023-12-15,Trompillo Aeropuerto,35.0,25.7,,,
@@ -74928,6 +75107,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-15,Villa Tunari_H (GPRS),,,,,7.59
 2023-12-15,Villamontes,37.0,27.0,82.9,39.2,
 2023-12-15,Villamontes Aeropuerto,,,,,13.2
+2023-12-15,Villamontes Bombeo,,,,,19.0
 2023-12-15,Villazon,25.2,9.2,,,5.5
 2023-12-15,Vino Tinto,,,,,22.0
 2023-12-15,Viru Viru,35.0,27.0,78.1,49.5,
@@ -75116,6 +75296,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-16,Tinguipaya,25.3,8.1,,,
 2023-12-16,Tiraque,26.0,9.0,,,
 2023-12-16,Tomave,24.1,,,,
+2023-12-16,Trancas,31.0,23.0,,,
 2023-12-16,Trinidad,34.0,25.0,93.4,62.6,
 2023-12-16,Trinidad Aeropuerto,34.8,,,,
 2023-12-16,Trompillo Aeropuerto,36.2,24.8,,,
@@ -75329,6 +75510,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-17,Tiraque,24.0,7.0,,,10.5
 2023-12-17,Toma Ravelo_M (GPRS),,,,,0.4
 2023-12-17,Tomave,23.5,,,,
+2023-12-17,Trancas,35.0,24.0,,,2.0
 2023-12-17,Trinidad,34.0,27.0,82.9,55.5,
 2023-12-17,Trinidad Aeropuerto,,,,,7.1
 2023-12-17,Trompillo Aeropuerto,36.0,25.4,,,
@@ -75534,6 +75716,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-18,Tiraque,25.0,6.0,,,
 2023-12-18,Toma Ravelo_M (GPRS),,,,,0.4
 2023-12-18,Tomave,22.8,,,,
+2023-12-18,Trancas,36.0,23.0,,,
 2023-12-18,Trinidad,34.0,28.0,78.2,52.3,
 2023-12-18,Trinidad Aeropuerto,35.2,,,,
 2023-12-18,Trompillo Aeropuerto,35.5,25.0,,,
@@ -75593,6 +75776,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-19,Cabaña Forestal Oruro,,,,,1.4
 2023-12-19,Caiza D,24.0,10.4,,,
 2023-12-19,Calacoto,22.0,3.5,,,
+2023-12-19,Camargo_M (GPRS),,,,,0.1
 2023-12-19,Camata,30.0,16.0,,,33.0
 2023-12-19,Camiri,28.0,22.0,93.2,61.3,
 2023-12-19,Camiri Aeropuerto,,,,,13.4
@@ -75640,6 +75824,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-19,El Reloj,,,,,7.0
 2023-12-19,El Tejar (Tarija),24.8,16.4,,,3.2
 2023-12-19,El Villar,29.0,14.8,,,
+2023-12-19,Emborozu,,,,,53.0
 2023-12-19,Guajara-Mirim - Guayaramerín,,25.2,,,
 2023-12-19,Hichucota,14.0,2.0,,,
 2023-12-19,Huarisuyo (GPRS),17.05,12.92,59.67,42.75,
@@ -75665,6 +75850,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-19,Mairana_M (GPRS),207.9,207.9,247.8,247.8,0.8
 2023-12-19,Mataral,,,,,25.8
 2023-12-19,Mecapaca,,,,,0.1
+2023-12-19,Minero (Unagro),,,,,0.6
 2023-12-19,Mizque - SDC (GPRS),22.53,20.98,62.63,50.1,6.7
 2023-12-19,Mojo,22.3,9.2,,,2.0
 2023-12-19,Molle Molle,20.0,11.7,,,
@@ -75768,6 +75954,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-19,Tinguipaya,22.3,6.4,,,
 2023-12-19,Tiraque,24.0,9.0,,,
 2023-12-19,Tomave,24.5,,,,
+2023-12-19,Trancas,22.0,14.0,,,35.2
 2023-12-19,Trinidad,35.0,29.0,73.8,49.5,
 2023-12-19,Trinidad Aeropuerto,35.8,,,,
 2023-12-19,Trompillo Aeropuerto,,,,,53.7
@@ -75786,6 +75973,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-19,Villa Tunari_H (GPRS),,,,,0.05
 2023-12-19,Villamontes,28.0,24.0,87.8,65.2,
 2023-12-19,Villamontes Aeropuerto,,,,,13.6
+2023-12-19,Villamontes Bombeo,,,,,19.0
 2023-12-19,Villazon,23.2,8.1,,,1.5
 2023-12-19,Vino Tinto,,,,,1.1
 2023-12-19,Viru Viru,29.0,22.0,99.1,69.5,
@@ -75881,6 +76069,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-20,El Tejar (La Paz),,,,,7.8
 2023-12-20,El Tejar (Tarija),25.0,16.1,,,3.8
 2023-12-20,El Villar,21.8,15.0,,,
+2023-12-20,Emborozu,,,,,6.0
 2023-12-20,Guajara-Mirim - Guayaramerín,,25.6,,,
 2023-12-20,Guanay_H (GPRS),,,,,58.0
 2023-12-20,Hichucota,,,,,13.0
@@ -76007,6 +76196,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-20,Tiraque,26.0,7.0,,,
 2023-12-20,Toma Ravelo_M (GPRS),,,,,0.3
 2023-12-20,Tomave,26.6,,,,
+2023-12-20,Trancas,25.0,15.0,,,18.3
 2023-12-20,Trinidad,33.0,24.0,93.3,66.0,
 2023-12-20,Trinidad Aeropuerto,,,,,0.1
 2023-12-20,Trompillo Aeropuerto,,,,,26.2
@@ -76105,6 +76295,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-21,El Común Caraparí,,,,,1.2
 2023-12-21,El Tejar (Tarija),26.4,15.0,,,2.0
 2023-12-21,El Villar,22.0,15.0,,,
+2023-12-21,Emborozu,,,,,24.0
 2023-12-21,Guajara-Mirim - Guayaramerín,,24.2,,,
 2023-12-21,Guayaramerin_M (GPRS),,,,,3.7
 2023-12-21,Hichucota,15.0,2.0,,,
@@ -76228,6 +76419,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-21,Tiraque,25.0,8.0,,,
 2023-12-21,Toma Ravelo_M (GPRS),,,,,0.5
 2023-12-21,Tomave,26.5,,,,
+2023-12-21,Trancas,26.0,15.0,,,2.0
 2023-12-21,Trinidad,33.0,27.0,88.1,62.4,
 2023-12-21,Trinidad Aeropuerto,33.6,,,,
 2023-12-21,Trompillo Aeropuerto,33.2,24.6,,,
@@ -76243,6 +76435,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-21,Villa Serrano,,,,,2.5
 2023-12-21,Villamontes,28.0,21.0,99.1,69.3,
 2023-12-21,Villamontes Aeropuerto,,,,,9.2
+2023-12-21,Villamontes Bombeo,,,,,7.5
 2023-12-21,Villazon,26.0,6.2,,,
 2023-12-21,Viru Viru,34.0,27.0,73.5,49.2,
 2023-12-21,Viru Viru Aeropuerto,34.2,25.0,,,
@@ -76326,6 +76519,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-22,El Belen,18.2,4.4,,,
 2023-12-22,El Tejar (Tarija),34.6,17.1,,,
 2023-12-22,El Villar,23.2,15.5,,,
+2023-12-22,Emborozu,,,,,1.3
 2023-12-22,Guajara-Mirim - Guayaramerín,,,,,76.5
 2023-12-22,Guayaramerin_M (GPRS),,,,,25.9
 2023-12-22,Hichucota,12.0,1.0,,,
@@ -76447,6 +76641,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-22,Tinguipaya,23.4,8.1,,,
 2023-12-22,Tiraque,27.0,8.0,,,
 2023-12-22,Tomave,28.5,,,,
+2023-12-22,Trancas,30.0,18.0,,,
 2023-12-22,Trinidad,34.0,27.0,88.0,59.0,
 2023-12-22,Trinidad Aeropuerto,34.6,,,,2.2
 2023-12-22,Trompillo Aeropuerto,,,,,1.8
@@ -76631,6 +76826,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-23,Tinguipaya,24.2,6.4,,,
 2023-12-23,Tiraque,26.0,9.0,,,
 2023-12-23,Tomave,27.5,,,,
+2023-12-23,Trancas,28.0,21.0,,,
 2023-12-23,Trinidad,33.0,27.0,88.1,66.0,
 2023-12-23,Trinidad Aeropuerto,34.0,,,,
 2023-12-23,Trompillo Aeropuerto,34.4,25.3,,,
@@ -76716,6 +76912,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-24,El Alto Aeropuerto,,4.4,,,
 2023-12-24,El Belen,18.6,1.8,,,
 2023-12-24,El Villar,27.1,17.5,,,
+2023-12-24,Emborozu,,,,,10.0
 2023-12-24,Guajara-Mirim - Guayaramerín,,,,,36.8
 2023-12-24,Guayaramerin_M (GPRS),,,,,0.4
 2023-12-24,Hichucota,15.0,2.0,,,
@@ -76808,6 +77005,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-24,Tinguipaya,22.1,8.3,,,
 2023-12-24,Tiraque,28.0,7.0,,,12.0
 2023-12-24,Tomave,25.5,,,,
+2023-12-24,Trancas,35.0,22.0,,,
 2023-12-24,Trinidad,32.0,27.0,88.0,66.0,
 2023-12-24,Trinidad Aeropuerto,33.0,,,,
 2023-12-24,Trompillo Aeropuerto,34.5,25.0,,,
@@ -76894,6 +77092,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-25,El Puente,,,,,0.4
 2023-12-25,El Puente_H (GPRS),,,,,0.45
 2023-12-25,El Villar,33.0,17.0,,,
+2023-12-25,Emborozu,,,,,4.5
 2023-12-25,Guajara-Mirim - Guayaramerín,,24.6,,,
 2023-12-25,Guayaramerin_M (GPRS),,,,,0.5
 2023-12-25,Hichucota,16.0,0.0,,,
@@ -76995,6 +77194,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-25,Tinguipaya,21.3,7.3,,,
 2023-12-25,Tiraque,27.0,9.0,,,
 2023-12-25,Tomave,27.5,,,,
+2023-12-25,Trancas,32.0,20.0,,,
 2023-12-25,Trinidad,29.0,25.0,93.4,83.0,
 2023-12-25,Trinidad Aeropuerto,29.3,,,,0.3
 2023-12-25,Trompillo Aeropuerto,34.6,24.6,,,
@@ -77050,6 +77250,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-26,Cabaña Forestal Oruro,,,,,5.7
 2023-12-26,Caiza D,30.0,13.0,,,
 2023-12-26,Calacoto,24.5,5.2,,,4.5
+2023-12-26,Camargo_M (GPRS),,,,,7.3
 2023-12-26,Camata,30.5,18.0,,,
 2023-12-26,Camiri,28.0,22.0,93.2,54.1,
 2023-12-26,Camiri Aeropuerto,,,,,22.2
@@ -77101,6 +77302,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-26,El Puente_H (GPRS),,,,,1.18
 2023-12-26,El Tejar (Tarija),29.4,16.6,,,21.8
 2023-12-26,El Villar,32.0,15.0,,,
+2023-12-26,Emborozu,,,,,30.0
 2023-12-26,Guajara-Mirim - Guayaramerín,,,,,7.2
 2023-12-26,Guanay_H (GPRS),,,,,4.5
 2023-12-26,Guayaramerin_M (GPRS),,,,,1.8
@@ -77127,6 +77329,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-26,Magdalena Aeropuerto,,,,,4.7
 2023-12-26,Mairana_M (GPRS),207.9,207.9,247.8,247.8,0.2
 2023-12-26,Mataral,,,,,13.4
+2023-12-26,Minero (Unagro),,,,,20.4
 2023-12-26,Mizque - SDC (GPRS),25.84,21.83,53.06,36.11,13.4
 2023-12-26,Mojo,26.2,7.2,,,
 2023-12-26,Molle Molle,23.3,11.7,,,7.6
@@ -77237,6 +77440,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-26,Tiraque,25.0,7.0,,,
 2023-12-26,Toma Ravelo_M (GPRS),,,,,7.8
 2023-12-26,Tomave,22.0,,,,
+2023-12-26,Trancas,28.0,19.0,,,55.2
 2023-12-26,Trinidad,31.0,26.0,93.4,69.8,
 2023-12-26,Trinidad Aeropuerto,31.5,,,,2.8
 2023-12-26,Trompillo Aeropuerto,,,,,3.4
@@ -77256,6 +77460,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-26,Villa Tunari_H (GPRS),,,,,20.23
 2023-12-26,Villamontes,29.0,24.0,93.3,69.5,
 2023-12-26,Villamontes Aeropuerto,,,,,50.2
+2023-12-26,Villamontes Bombeo,,,,,40.0
 2023-12-26,Villazon,28.1,7.2,,,11.0
 2023-12-26,Viru Viru,28.0,22.0,99.1,69.3,
 2023-12-26,Viru Viru Aeropuerto,,,,,5.0
@@ -77460,6 +77665,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-27,Tiraque,26.0,8.0,,,
 2023-12-27,Toma Ravelo_M (GPRS),,,,,0.8
 2023-12-27,Tomave,25.5,,,,
+2023-12-27,Trancas,29.0,18.0,,,
 2023-12-27,Trinidad,34.0,25.0,93.3,55.5,
 2023-12-27,Trinidad Aeropuerto,34.8,,,,
 2023-12-27,Trompillo Aeropuerto,,,,,3.0
@@ -77511,6 +77717,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-28,Cabaña Forestal Oruro,,,,,2.8
 2023-12-28,Caiza D,30.2,18.0,,,19.1
 2023-12-28,Calacoto,20.5,5.8,,,1.5
+2023-12-28,Camargo_M (GPRS),,,,,0.1
 2023-12-28,Camata,32.0,17.5,,,
 2023-12-28,Camiri,38.0,24.0,77.7,30.6,
 2023-12-28,Camiri Aeropuerto,,20.1,,,
@@ -77675,6 +77882,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-28,Tinguipaya,23.2,7.4,,,
 2023-12-28,Tiraque,27.0,8.0,,,1.5
 2023-12-28,Tomave,25.6,,,,
+2023-12-28,Trancas,33.2,23.0,,,
 2023-12-28,Trinidad,36.0,28.0,83.0,46.8,
 2023-12-28,Trinidad Aeropuerto,36.5,,,,
 2023-12-28,Trompillo Aeropuerto,35.6,24.4,,,
@@ -77906,6 +78114,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-29,Tiraque,26.0,10.0,,,
 2023-12-29,Toma Ravelo_M (GPRS),,,,,15.3
 2023-12-29,Tomave,20.0,,,,
+2023-12-29,Trancas,28.0,21.0,,,
 2023-12-29,Trinidad,36.0,29.0,73.8,46.8,
 2023-12-29,Trinidad Aeropuerto,36.3,,,,
 2023-12-29,Trompillo Aeropuerto,35.5,25.7,,,
@@ -77962,6 +78171,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-30,Cabaña Forestal Oruro,,,,,5.3
 2023-12-30,Caiza D,20.2,9.6,,,
 2023-12-30,Calacoto,17.5,4.3,,,15.0
+2023-12-30,Camargo_M (GPRS),,,,,40.6
 2023-12-30,Camata,28.0,18.0,,,
 2023-12-30,Camiri,23.0,20.0,99.1,82.5,
 2023-12-30,Camiri Aeropuerto,,,,,84.7
@@ -78017,6 +78227,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-30,El Reloj,,,,,30.3
 2023-12-30,El Tejar (Tarija),29.6,15.6,,,35.6
 2023-12-30,El Villar,30.1,14.0,,,
+2023-12-30,Emborozu,,,,,180.0
 2023-12-30,Guajara-Mirim - Guayaramerín,,24.2,,,
 2023-12-30,Guanay_H (GPRS),,,,,178.0
 2023-12-30,Guayaramerin_M (GPRS),,,,,5.8
@@ -78042,6 +78253,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-30,Mairana_M (GPRS),207.9,207.9,247.8,247.8,2.0
 2023-12-30,Mataral,,,,,37.8
 2023-12-30,Mecapaca_M (GPRS),,,,,0.4
+2023-12-30,Minero (Unagro),,,,,83.8
 2023-12-30,Mizque - SDC (GPRS),19.96,18.01,65.87,48.88,17.5
 2023-12-30,Mojo,18.0,8.0,,,12.2
 2023-12-30,Molle Molle,18.9,11.1,,,52.3
@@ -78073,6 +78285,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-30,Puerto Villarroel (GPRS)_M,25.4,23.97,86.8,84.4,1.4
 2023-12-30,Puerto Villarroel_H (GPRS),,,,,5.36
 2023-12-30,Puna,20.9,5.5,,,1.5
+2023-12-30,Punilla,,,,,28.6
 2023-12-30,Putucuni Calientes (GPRS),7.82,5.39,86.1,77.68,14.8
 2023-12-30,Quiabaya,,,,,15.1
 2023-12-30,Quila Quila_M (GPRS),15.49,13.86,82.0,66.94,32.0
@@ -78138,6 +78351,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-30,Tiraque,18.0,6.0,,,62.5
 2023-12-30,Toma Ravelo_M (GPRS),,,,,23.1
 2023-12-30,Tomave,13.0,,,,
+2023-12-30,Trancas,20.0,13.0,,,83.2
 2023-12-30,Trinidad,32.0,24.0,99.1,66.0,
 2023-12-30,Trinidad Aeropuerto,32.9,,,,
 2023-12-30,Trompillo Aeropuerto,,,,,42.1
@@ -78155,6 +78369,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-30,Villa Rivero_M (GPRS),,,,,50.0
 2023-12-30,Villa Serrano,,,,,21.0
 2023-12-30,Villa Tunari_H (GPRS),,,,,4.86
+2023-12-30,Villamontes Bombeo,,,,,29.5
 2023-12-30,Villazon,27.2,7.2,,,3.2
 2023-12-30,Viru Viru,27.0,22.0,99.1,73.5,
 2023-12-30,Viru Viru Aeropuerto,,,,,46.3
@@ -78192,6 +78407,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-31,Cabaña Forestal Oruro,,,,,7.2
 2023-12-31,Caiza D,22.4,10.0,,,
 2023-12-31,Calacoto,22.0,3.0,,,15.2
+2023-12-31,Camargo_M (GPRS),,,,,6.8
 2023-12-31,Camata,26.0,17.0,,,17.0
 2023-12-31,Camiri,32.0,22.0,93.2,48.7,
 2023-12-31,Camiri Aeropuerto,,,,,10.7
@@ -78247,6 +78463,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-31,El Tejar (La Paz),,,,,4.4
 2023-12-31,El Tejar (Tarija),28.3,14.8,,,
 2023-12-31,El Villar,20.5,13.0,,,
+2023-12-31,Emborozu,,,,,10.0
 2023-12-31,Guajara-Mirim - Guayaramerín,,24.6,,,
 2023-12-31,Guanay_H (GPRS),,,,,410.0
 2023-12-31,Hichucota,14.0,2.0,,,
@@ -78301,6 +78518,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-31,Puente Chiñata_H- SDC (GPRS),,,,,8.8
 2023-12-31,Puerto Villarroel (GPRS)_M,32.66,27.84,80.6,64.65,0.3
 2023-12-31,Puna,19.5,5.1,,,13.5
+2023-12-31,Punilla,,,,,23.4
 2023-12-31,Putucuni Calientes (GPRS),9.39,7.71,89.1,74.25,0.1
 2023-12-31,Quiabaya,,,,,10.0
 2023-12-31,Quila Quila_M (GPRS),21.99,19.5,64.8,50.19,7.8
@@ -78365,6 +78583,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-31,Tiraque,22.0,8.0,,,18.0
 2023-12-31,Toma Ravelo_M (GPRS),,,,,1.5
 2023-12-31,Tomave,20.5,,,,
+2023-12-31,Trancas,27.0,16.0,,,
 2023-12-31,Trinidad,29.0,25.0,93.3,73.8,
 2023-12-31,Trinidad Aeropuerto,30.9,,,,31.5
 2023-12-31,Trompillo Aeropuerto,,,,,4.2
