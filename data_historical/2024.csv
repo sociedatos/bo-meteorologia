@@ -151,7 +151,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-01,Tarija,27.0,20.0,82.2,53.9,
 2024-01-01,Templo (GPRS),13.53,10.65,71.48,38.1,1.2
 2024-01-01,Temporal - SDC (GPRS),26.86,22.14,0.17,0.02,
+2024-01-01,Tinguipaya,22.3,7.3,,,
 2024-01-01,Tiraque,,,,,8.5
+2024-01-01,Toledo (GPRS),20.81,6.79,91.2,28.05,
 2024-01-01,Tomave,23.0,7.5,,,
 2024-01-01,Trinidad,32.0,26.0,87.9,62.2,
 2024-01-01,Trinidad Aeropuerto,,,,,12.5
@@ -162,7 +164,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-01,Vacas - SDC (GPRS),17.36,13.72,74.83,58.34,5.3
 2024-01-01,Viacha_M (GPRS),17.8,11.57,78.84,47.38,2.1
 2024-01-01,Vila Vila - SDC (GPRS),26.31,24.79,45.38,38.88,
+2024-01-01,Villa Charcas (GPRS),17.95,11.53,99.5,69.97,
+2024-01-01,Villa Copacabana,,,,,2.3
 2024-01-01,Villa Rivero_M (GPRS),,,,,3.9
+2024-01-01,Villa Serrano (GPRS),26.09,14.49,100.0,63.85,
 2024-01-01,Villa Tunari_H (GPRS),,,,,0.57
 2024-01-01,Villazon,26.2,9.2,,,
 2024-01-01,Vino Tinto,,,,,2.8
@@ -336,6 +341,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-02,San Pedro - San Antonio (GPRS),33.59,30.28,78.28,64.05,
 2024-01-02,San Pedro de Buena Vista (GPRS),23.61,20.74,64.2,49.75,17.0
 2024-01-02,San Pedro de Tiquina_M (GPRS),,,,,1.6
+2024-01-02,San Ramón Aeropuerto,,,,,4.7
 2024-01-02,San Roque - El Alto (GPRS),16.08,10.29,82.0,53.33,4.7
 2024-01-02,Santa Ana - Yacuma,32.0,26.0,93.4,66.0,
 2024-01-02,Santiago de Huata,19.0,4.0,,,3.2
@@ -353,21 +359,27 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-02,Tarija,24.0,20.0,77.2,60.5,
 2024-01-02,Templo (GPRS),11.89,9.23,85.0,62.93,0.1
 2024-01-02,Temporal - SDC (GPRS),25.21,20.0,12.92,0.03,
+2024-01-02,Tinguipaya,26.4,7.1,,,
 2024-01-02,Tiraque,,,,,25.0
+2024-01-02,Toledo (GPRS),21.08,5.04,97.1,29.1,
 2024-01-02,Toma Ravelo_M (GPRS),,,,,45.6
 2024-01-02,Tomave,22.0,4.0,,,2.0
 2024-01-02,Trinidad,31.0,27.0,88.0,74.1,
 2024-01-02,Tupiza,,,,,18.5
 2024-01-02,Tupiza_2_H (GPRS),,,,,3.8
 2024-01-02,Turumayo,25.0,16.0,,,
+2024-01-02,Urriolagoytia,,,,,100.0
 2024-01-02,Uyuni,22.8,10.0,,,
 2024-01-02,Vacas - SDC (GPRS),16.14,7.22,85.9,59.01,
 2024-01-02,Vallegrande Aeropuerto,,,,,0.5
 2024-01-02,Viacha_M (GPRS),19.77,15.52,57.35,34.4,0.4
 2024-01-02,Vila Vila - SDC (GPRS),24.4,22.27,47.7,43.03,
 2024-01-02,Villa Alcala,,,,,48.0
+2024-01-02,Villa Charcas (GPRS),15.1,10.61,100.0,87.6,
+2024-01-02,Villa Copacabana,,,,,20.1
 2024-01-02,Villa Rivero_M (GPRS),,,,,7.0
 2024-01-02,Villa Serrano,,,,,12.0
+2024-01-02,Villa Serrano (GPRS),25.22,14.25,100.0,66.5,
 2024-01-02,Villa Tunari_H (GPRS),,,,,0.44
 2024-01-02,Villamontes,26.0,23.0,99.1,73.6,
 2024-01-02,Villamontes Aeropuerto,,,,,30.2
@@ -582,7 +594,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-03,Tarija,23.0,19.0,87.5,68.4,
 2024-01-03,Templo (GPRS),13.05,8.41,80.5,63.48,1.8
 2024-01-03,Temporal - SDC (GPRS),24.41,21.22,3.83,0.23,11.0
+2024-01-03,Tinguipaya,21.3,3.2,,,
 2024-01-03,Tiraque,,,,,23.0
+2024-01-03,Toledo (GPRS),18.9,5.8,95.3,33.86,10.8
 2024-01-03,Toma Ravelo_M (GPRS),,,,,0.6
 2024-01-03,Tomave,22.1,6.0,,,
 2024-01-03,Trinidad,26.0,23.0,99.1,93.3,
@@ -596,7 +610,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-03,Viacha_M (GPRS),15.97,13.55,62.31,52.85,2.4
 2024-01-03,Vila Vila - SDC (GPRS),22.94,20.84,52.69,44.92,0.4
 2024-01-03,Villa Alcala,,,,,35.0
+2024-01-03,Villa Charcas (GPRS),15.62,10.13,100.0,79.76,
+2024-01-03,Villa Copacabana,,,,,2.6
 2024-01-03,Villa Rivero_M (GPRS),,,,,1.0
+2024-01-03,Villa Serrano (GPRS),23.75,13.08,100.0,65.84,
 2024-01-03,Villamontes,28.0,23.0,99.1,78.2,
 2024-01-03,Villamontes Aeropuerto,,,,,7.7
 2024-01-03,Villamontes Bombeo,,,,,11.0
@@ -786,6 +803,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-04,San Pedro - San Antonio (GPRS),33.68,31.71,71.7,60.96,
 2024-01-04,San Pedro de Buena Vista (GPRS),23.53,20.54,66.91,43.2,5.4
 2024-01-04,San Pedro de Tiquina_M (GPRS),,,,,5.7
+2024-01-04,San Ramón Aeropuerto,,,,,19.7
 2024-01-04,San Roque - El Alto (GPRS),17.19,14.43,54.86,44.3,
 2024-01-04,Santa Ana - Yacuma,32.0,25.0,87.9,58.7,
 2024-01-04,Santa Ana del Yacuma Aerop,,,,,10.5
@@ -808,7 +826,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-04,Taruma,,,,,4.0
 2024-01-04,Templo (GPRS),12.66,9.93,72.52,57.42,1.3
 2024-01-04,Temporal - SDC (GPRS),25.21,21.79,4.96,0.04,
+2024-01-04,Tinguipaya,25.2,4.1,,,
 2024-01-04,Tiraque,,,,,26.5
+2024-01-04,Toledo (GPRS),19.38,5.55,96.4,25.47,6.4
 2024-01-04,Toma Ravelo_M (GPRS),,,,,24.4
 2024-01-04,Tomave,23.5,9.0,,,
 2024-01-04,Trinidad,32.0,24.0,99.1,62.2,
@@ -823,8 +843,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-04,Viacha_M (GPRS),16.63,11.85,75.74,49.6,4.9
 2024-01-04,Vila Vila - SDC (GPRS),24.25,22.73,45.05,40.04,1.9
 2024-01-04,Villa Alcala,,,,,13.0
+2024-01-04,Villa Charcas (GPRS),15.71,11.07,100.0,85.2,
+2024-01-04,Villa Copacabana,,,,,1.9
 2024-01-04,Villa Rivero_M (GPRS),,,,,4.6
 2024-01-04,Villa Serrano,,,,,2.0
+2024-01-04,Villa Serrano (GPRS),26.02,13.41,100.0,54.49,
 2024-01-04,Villamontes,32.0,24.0,93.3,62.0,
 2024-01-04,Villamontes Bombeo,,,,,9.0
 2024-01-04,Villazon,29.3,9.0,,,
@@ -996,6 +1019,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-05,San Pedro - San Antonio (GPRS),33.1,30.77,81.1,69.36,17.8
 2024-01-05,San Pedro de Buena Vista (GPRS),24.75,22.15,49.88,31.31,
 2024-01-05,San Pedro de Tiquina_M (GPRS),,,,,15.3
+2024-01-05,San Ramón Aeropuerto,,,,,59.3
 2024-01-05,San Roque - El Alto (GPRS),18.53,14.55,59.39,35.17,7.2
 2024-01-05,Santa Ana - Yacuma,25.0,24.0,99.1,93.3,
 2024-01-05,Santa Ana del Yacuma Aerop,,,,,13.3
@@ -1013,7 +1037,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-05,Tarija,28.0,20.0,77.2,44.8,
 2024-01-05,Templo (GPRS),11.13,8.76,75.94,57.84,1.5
 2024-01-05,Temporal - SDC (GPRS),25.94,15.25,75.18,0.03,
+2024-01-05,Tinguipaya,23.2,3.2,,,
 2024-01-05,Tiraque,,,,,3.0
+2024-01-05,Toledo (GPRS),20.13,4.11,89.9,21.29,1.8
 2024-01-05,Tomave,25.0,10.5,,,
 2024-01-05,Trinidad,32.0,25.0,87.9,66.0,
 2024-01-05,Trompillo Aeropuerto,,,,,0.8
@@ -1024,7 +1050,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-05,Vallegrande Aeropuerto,,,,,4.0
 2024-01-05,Viacha_M (GPRS),17.08,14.14,56.5,37.07,4.2
 2024-01-05,Vila Vila - SDC (GPRS),25.59,22.64,40.91,26.62,0.2
+2024-01-05,Villa Charcas (GPRS),19.02,12.54,93.5,65.82,
+2024-01-05,Villa Copacabana,,,,,16.1
 2024-01-05,Villa Rivero_M (GPRS),,,,,3.6
+2024-01-05,Villa Serrano (GPRS),26.19,10.67,100.0,57.6,
 2024-01-05,Villamontes,35.0,26.0,82.8,52.6,
 2024-01-05,Villamontes Aeropuerto,,,,,3.7
 2024-01-05,Villazon,30.1,8.1,,,
@@ -1045,6 +1074,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-06,4 Esquinas (GPRS),14.44,13.57,,,
 2024-01-06,Acasio,22.1,11.0,,,8.1
 2024-01-06,Achiri,20.0,5.5,,,1.5
+2024-01-06,Achumani,23.7,6.6,,,
 2024-01-06,Aguadas (GPRS),19.22,18.19,51.97,32.9,
 2024-01-06,Aiquile (GPRS),37.55,22.66,63.1,30.22,
 2024-01-06,Alto Peñas (GPRS),16.08,13.47,60.29,46.1,0.6
@@ -1173,6 +1203,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-06,Tarija,31.0,21.0,72.5,48.2,
 2024-01-06,Templo (GPRS),12.56,11.2,54.71,38.03,0.1
 2024-01-06,Temporal - SDC (GPRS),27.15,24.53,0.15,0.02,4.6
+2024-01-06,Tinguipaya,20.3,7.3,,,
+2024-01-06,Toledo (GPRS),20.97,4.99,87.7,19.27,
 2024-01-06,Tomave,21.5,6.5,,,2.5
 2024-01-06,Trinidad,33.0,26.0,88.0,58.7,
 2024-01-06,Tupiza,28.0,13.0,,,
@@ -1181,6 +1213,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-06,Vacas - SDC (GPRS),18.41,16.74,49.43,33.04,0.6
 2024-01-06,Viacha_M (GPRS),17.42,15.98,41.29,31.79,
 2024-01-06,Vila Vila - SDC (GPRS),28.32,25.31,29.87,15.23,
+2024-01-06,Villa Charcas (GPRS),21.47,14.91,79.2,41.83,
+2024-01-06,Villa Serrano (GPRS),28.48,9.84,100.0,47.15,
 2024-01-06,Villazon,27.1,8.2,,,
 2024-01-06,Viru Viru,34.0,27.0,88.0,55.6,
 2024-01-06,Viscachas Chirage (GPRS),14.75,12.92,71.66,47.82,0.1
@@ -1195,6 +1229,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-07,4 Esquinas (GPRS),17.07,14.47,,,
 2024-01-07,Acasio,24.1,10.0,,,
 2024-01-07,Achiri,20.5,4.5,,,
+2024-01-07,Achumani,24.7,7.5,,,
 2024-01-07,Aguadas (GPRS),21.17,17.68,52.08,35.07,
 2024-01-07,Aiquile (GPRS),35.9,23.2,55.17,16.54,
 2024-01-07,Alto Peñas (GPRS),17.07,9.0,80.2,47.64,1.3
@@ -1304,6 +1339,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-07,Tarija,35.0,19.0,87.5,30.1,
 2024-01-07,Templo (GPRS),15.05,12.09,62.52,36.0,
 2024-01-07,Temporal - SDC (GPRS),28.35,25.36,1.07,0.02,
+2024-01-07,Tinguipaya,25.2,7.1,,,
+2024-01-07,Toledo (GPRS),22.58,3.36,87.4,16.53,
 2024-01-07,Tomave,25.5,8.5,,,
 2024-01-07,Trinidad,31.0,26.0,87.9,74.0,
 2024-01-07,Tupiza,29.0,11.4,,,
@@ -1314,6 +1351,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-07,Viacha_M (GPRS),18.85,17.02,42.91,29.19,
 2024-01-07,Vila Vila - SDC (GPRS),28.8,26.98,23.14,19.03,
 2024-01-07,Villa Alcala,,,,,14.5
+2024-01-07,Villa Charcas (GPRS),23.66,15.21,72.68,23.65,
+2024-01-07,Villa Serrano (GPRS),29.32,9.88,100.0,43.05,
 2024-01-07,Villa Tunari_H (GPRS),,,,,0.7
 2024-01-07,Villazon,25.2,9.1,,,
 2024-01-07,Viru Viru,34.0,27.0,88.0,55.6,
@@ -1449,6 +1488,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-08,Tarija,32.0,24.0,64.4,43.0,
 2024-01-08,Templo (GPRS),15.49,14.44,39.96,20.26,0.4
 2024-01-08,Temporal - SDC (GPRS),30.88,25.65,22.14,0.02,
+2024-01-08,Tinguipaya,25.3,7.4,,,
+2024-01-08,Toledo (GPRS),24.17,6.21,80.2,6.84,
 2024-01-08,Tomave,27.5,7.0,,,
 2024-01-08,Trinidad,34.0,28.0,83.0,59.0,
 2024-01-08,Tupiza,28.4,10.0,,,
@@ -1457,6 +1498,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-08,Vacas - SDC (GPRS),21.17,19.6,42.3,23.0,
 2024-01-08,Viacha_M (GPRS),20.82,18.98,31.34,18.82,
 2024-01-08,Vila Vila - SDC (GPRS),29.75,27.85,23.43,11.96,
+2024-01-08,Villa Charcas (GPRS),21.91,15.02,89.8,51.37,
+2024-01-08,Villa Copacabana,,,,,11.1
+2024-01-08,Villa Serrano (GPRS),30.24,15.73,100.0,50.02,
 2024-01-08,Villa Tunari_H (GPRS),,,,,6.79
 2024-01-08,Villazon,24.3,9.3,,,7.0
 2024-01-08,Vino Tinto,,,,,5.5
@@ -1589,6 +1633,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-09,Tarija,35.0,24.0,77.7,36.1,
 2024-01-09,Templo (GPRS),15.05,13.34,37.49,26.89,
 2024-01-09,Temporal - SDC (GPRS),29.91,26.15,19.84,0.04,
+2024-01-09,Tinguipaya,26.4,6.3,,,
+2024-01-09,Toledo (GPRS),23.21,6.66,68.43,12.82,
 2024-01-09,Tomave,27.8,6.5,,,
 2024-01-09,Trinidad,35.0,28.0,83.0,55.8,
 2024-01-09,Tupiza,26.7,11.4,,,
@@ -1598,6 +1644,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-09,Vacas - SDC (GPRS),21.0,17.92,49.75,22.67,
 2024-01-09,Viacha_M (GPRS),20.3,18.2,30.23,20.98,
 2024-01-09,Vila Vila - SDC (GPRS),29.04,25.43,33.85,14.64,
+2024-01-09,Villa Charcas (GPRS),22.73,13.84,92.5,54.0,
+2024-01-09,Villa Serrano (GPRS),29.32,11.37,100.0,45.92,
 2024-01-09,Villa Tunari_H (GPRS),,,,,0.14
 2024-01-09,Villamontes,38.0,30.0,78.5,35.2,
 2024-01-09,Villazon,22.3,8.1,,,
@@ -1742,6 +1790,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-10,Tarija,35.0,22.0,68.2,34.2,
 2024-01-10,Templo (GPRS),13.8,10.56,66.44,35.6,
 2024-01-10,Temporal - SDC (GPRS),28.5,25.85,0.12,0.03,
+2024-01-10,Tinguipaya,23.2,2.2,,,
+2024-01-10,Toledo (GPRS),23.24,4.88,66.83,11.25,
 2024-01-10,Tomave,25.0,6.6,,,
 2024-01-10,Trinidad,32.0,27.0,88.0,65.8,
 2024-01-10,Tupiza,,,,,0.5
@@ -1751,6 +1801,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-10,Vacas - SDC (GPRS),,,,19.63,
 2024-01-10,Viacha_M (GPRS),20.76,18.13,29.67,16.81,
 2024-01-10,Vila Vila - SDC (GPRS),28.43,26.19,21.47,10.13,
+2024-01-10,Villa Charcas (GPRS),23.38,16.3,80.9,39.17,
+2024-01-10,Villa Serrano (GPRS),30.3,13.81,100.0,33.09,
 2024-01-10,Villa Tunari_H (GPRS),,,,,0.09
 2024-01-10,Villamontes,40.0,29.0,73.8,31.4,
 2024-01-10,Villazon,27.4,9.1,,,0.4
@@ -1895,6 +1947,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-11,San Pedro - San Antonio (GPRS),30.91,28.41,86.9,77.09,0.4
 2024-01-11,San Pedro de Buena Vista (GPRS),26.43,23.97,38.27,32.15,
 2024-01-11,San Pedro de Tiquina_M (GPRS),,,,,0.6
+2024-01-11,San Ramón Aeropuerto,,,,,3.2
 2024-01-11,San Roque - El Alto (GPRS),21.87,17.28,38.72,17.5,0.3
 2024-01-11,Santa Ana - Yacuma,31.0,25.0,87.9,61.9,
 2024-01-11,Santiago de Huata,21.0,2.0,,,
@@ -1910,7 +1963,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-11,Tarija,26.0,19.0,87.5,60.7,
 2024-01-11,Templo (GPRS),14.75,11.89,59.26,32.1,
 2024-01-11,Temporal - SDC (GPRS),28.09,24.23,1.94,0.03,
+2024-01-11,Tinguipaya,22.3,8.2,,,2.4
 2024-01-11,Tiraque,,,,,1.5
+2024-01-11,Toledo (GPRS),23.09,7.36,82.0,12.93,
 2024-01-11,Tomave,24.0,7.5,,,
 2024-01-11,Trinidad,32.0,27.0,82.9,62.2,
 2024-01-11,Trinidad Aeropuerto,,,,,0.1
@@ -1922,6 +1977,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-11,Vacas - SDC (GPRS),19.44,16.69,48.56,32.0,
 2024-01-11,Viacha_M (GPRS),19.97,17.88,32.26,25.61,0.4
 2024-01-11,Vila Vila - SDC (GPRS),28.29,25.4,28.38,20.68,
+2024-01-11,Villa Charcas (GPRS),19.61,12.47,87.2,62.47,
+2024-01-11,Villa Serrano (GPRS),28.84,14.5,100.0,47.91,
 2024-01-11,Villa Tunari_H (GPRS),,,,,1.08
 2024-01-11,Villamontes,29.0,25.0,82.7,73.6,
 2024-01-11,Villazon,26.3,10.2,,,
@@ -2087,19 +2144,25 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-12,Tarija,27.0,19.0,82.1,53.4,
 2024-01-12,Templo (GPRS),9.42,6.82,88.0,73.32,0.7
 2024-01-12,Temporal - SDC (GPRS),24.61,20.9,44.06,0.04,
+2024-01-12,Tinguipaya,22.0,6.3,,,
+2024-01-12,Toledo (GPRS),20.48,5.53,82.3,29.68,0.2
 2024-01-12,Toma Ravelo_M (GPRS),,,,,1.7
 2024-01-12,Tomave,26.0,7.5,,,
 2024-01-12,Trinidad,32.0,25.0,93.3,66.0,
 2024-01-12,Trompillo Aeropuerto,,,,,0.2
 2024-01-12,Tupiza,,,,,1.5
 2024-01-12,Turumayo,28.0,16.0,,,6.2
+2024-01-12,Urriolagoytia,,,,,30.0
 2024-01-12,Uyuni,25.0,9.1,,,
 2024-01-12,Vacas - SDC (GPRS),17.04,13.46,68.99,51.74,
 2024-01-12,Vallegrande Aeropuerto,,,,,31.2
 2024-01-12,Viacha_M (GPRS),14.88,5.62,86.4,51.1,
 2024-01-12,Vila Vila - SDC (GPRS),23.22,21.54,51.23,40.81,
+2024-01-12,Villa Charcas (GPRS),15.86,11.56,98.9,79.09,
+2024-01-12,Villa Copacabana,,,,,0.1
 2024-01-12,Villa Rivero_M (GPRS),,,,,0.4
 2024-01-12,Villa Serrano,,,,,54.0
+2024-01-12,Villa Serrano (GPRS),21.15,13.41,100.0,77.67,0.3
 2024-01-12,Villa Tunari_H (GPRS),,,,,6.84
 2024-01-12,Villamontes,31.0,23.0,93.3,58.3,
 2024-01-12,Villamontes Aeropuerto,,,,,1.1
@@ -2247,6 +2310,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-13,Tarija,30.0,22.0,77.4,37.4,
 2024-01-13,Templo (GPRS),14.01,11.37,60.3,49.77,0.6
 2024-01-13,Temporal - SDC (GPRS),27.18,24.67,0.67,0.02,
+2024-01-13,Tinguipaya,22.2,7.2,,,
+2024-01-13,Toledo (GPRS),22.91,7.43,79.22,13.27,
 2024-01-13,Tomave,25.5,4.5,,,
 2024-01-13,Trinidad,32.0,25.0,93.3,62.2,
 2024-01-13,Trinidad Aeropuerto,,,,,1.5
@@ -2256,7 +2321,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-13,Vacas - SDC (GPRS),17.9,16.51,52.86,45.39,
 2024-01-13,Viacha_M (GPRS),18.93,2.94,48.95,34.61,15.2
 2024-01-13,Vila Vila - SDC (GPRS),27.14,23.26,40.15,30.99,
+2024-01-13,Villa Charcas (GPRS),20.17,12.76,90.1,57.37,
+2024-01-13,Villa Copacabana,,,,,2.8
 2024-01-13,Villa Rivero_M (GPRS),,,,,13.1
+2024-01-13,Villa Serrano (GPRS),25.32,12.13,100.0,62.68,
 2024-01-13,Villa Tunari_H (GPRS),,,,,0.3
 2024-01-13,Villazon,27.3,10.2,,,
 2024-01-13,Vino Tinto,,,,,3.2
@@ -2389,6 +2457,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-14,Tarija,31.0,19.0,87.5,35.3,
 2024-01-14,Templo (GPRS),14.93,12.97,72.11,46.03,
 2024-01-14,Temporal - SDC (GPRS),29.3,23.95,45.15,0.03,
+2024-01-14,Tinguipaya,24.3,2.2,,,
+2024-01-14,Toledo (GPRS),23.88,8.35,77.36,18.64,
 2024-01-14,Tomave,26.0,6.5,,,
 2024-01-14,Trinidad,34.0,26.0,93.4,55.5,
 2024-01-14,Tupiza,27.0,121.0,,,
@@ -2397,6 +2467,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-14,Vacas - SDC (GPRS),19.02,16.84,60.81,44.05,
 2024-01-14,Viacha_M (GPRS),18.72,16.5,49.6,35.53,
 2024-01-14,Vila Vila - SDC (GPRS),27.27,24.76,36.84,30.11,
+2024-01-14,Villa Charcas (GPRS),21.37,13.18,95.5,49.04,
+2024-01-14,Villa Serrano (GPRS),27.3,15.5,100.0,56.56,
 2024-01-14,Villa Tunari_H (GPRS),,,,,3.8
 2024-01-14,Villazon,24.3,9.2,,,
 2024-01-14,Viru Viru,34.0,27.0,83.0,55.6,
@@ -2550,6 +2622,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-15,San Pedro - San Antonio (GPRS),31.64,27.73,86.2,75.91,1.2
 2024-01-15,San Pedro de Buena Vista (GPRS),23.55,16.32,90.8,42.48,11.1
 2024-01-15,San Pedro de Tiquina_M (GPRS),,,,,1.6
+2024-01-15,San Ramón Aeropuerto,,,,,3.3
 2024-01-15,San Roque - El Alto (GPRS),15.84,12.16,80.7,44.14,2.8
 2024-01-15,Santa Ana - Yacuma,27.0,25.0,99.1,88.0,
 2024-01-15,Santa Ana del Yacuma Aerop,,,,,28.3
@@ -2567,6 +2640,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-15,Tarija,32.0,23.0,68.4,35.3,
 2024-01-15,Templo (GPRS),13.24,8.06,88.8,65.73,2.6
 2024-01-15,Temporal - SDC (GPRS),22.71,17.37,74.73,0.56,0.8
+2024-01-15,Tinguipaya,23.4,4.4,,,
+2024-01-15,Toledo (GPRS),21.1,6.24,78.87,27.67,
 2024-01-15,Toma Ravelo_M (GPRS),,,,,1.7
 2024-01-15,Tomave,26.5,7.0,,,
 2024-01-15,Trinidad,29.0,24.0,99.1,77.0,
@@ -2579,7 +2654,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-15,Vallegrande Aeropuerto,,,,,0.8
 2024-01-15,Viacha_M (GPRS),15.38,13.35,67.78,47.25,0.9
 2024-01-15,Vila Vila - SDC (GPRS),25.52,22.34,45.9,34.86,
+2024-01-15,Villa Charcas (GPRS),21.13,12.52,96.1,57.09,
+2024-01-15,Villa Copacabana,,,,,4.2
 2024-01-15,Villa Serrano,,,,,9.0
+2024-01-15,Villa Serrano (GPRS),27.88,11.74,100.0,53.02,
 2024-01-15,Villamontes,40.0,30.0,74.0,37.7,
 2024-01-15,Villazon,25.4,10.3,,,
 2024-01-15,Vino Tinto,,,,,4.3
@@ -2734,6 +2812,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-16,San Pedro - San Antonio (GPRS),31.43,29.2,76.96,70.89,
 2024-01-16,San Pedro de Buena Vista (GPRS),29.82,25.65,37.35,22.81,0.5
 2024-01-16,San Pedro de Tiquina_M (GPRS),,,,,1.3
+2024-01-16,San Ramón Aeropuerto,,,,,18.0
 2024-01-16,San Roque - El Alto (GPRS),20.15,17.95,48.21,38.14,0.3
 2024-01-16,Santa Ana - Yacuma,32.0,25.0,93.3,62.2,
 2024-01-16,Santa Ana del Yacuma Aerop,,,,,7.0
@@ -2753,6 +2832,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-16,Tarija,37.0,22.0,68.2,28.7,
 2024-01-16,Templo (GPRS),13.99,12.81,70.39,55.71,
 2024-01-16,Temporal - SDC (GPRS),27.32,24.36,0.56,0.02,
+2024-01-16,Tinguipaya,20.1,3.2,,,
+2024-01-16,Toledo (GPRS),24.21,9.15,74.06,17.26,
 2024-01-16,Tomave,28.5,9.0,,,
 2024-01-16,Trinidad,33.0,26.0,87.9,58.7,
 2024-01-16,Trinidad Aeropuerto,,,,,14.7
@@ -2762,6 +2843,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-16,Vacas - SDC (GPRS),21.75,16.89,53.76,37.74,0.1
 2024-01-16,Viacha_M (GPRS),20.16,17.16,47.97,30.69,
 2024-01-16,Vila Vila - SDC (GPRS),31.4,26.27,33.24,19.89,
+2024-01-16,Villa Charcas (GPRS),26.34,16.58,82.2,37.45,
+2024-01-16,Villa Serrano (GPRS),30.24,16.2,100.0,45.02,
 2024-01-16,Villa Tunari_H (GPRS),,,,,0.12
 2024-01-16,Villamontes,40.0,29.0,69.5,40.0,
 2024-01-16,Villazon,27.3,9.3,,,
@@ -2901,6 +2984,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-17,San Pedro - Río Victoria (GPRS),32.92,27.55,83.6,67.9,0.4
 2024-01-17,San Pedro - San Antonio (GPRS),31.39,26.64,91.4,74.68,
 2024-01-17,San Pedro de Buena Vista (GPRS),20.16,13.84,95.0,58.53,2.4
+2024-01-17,San Ramón Aeropuerto,,,,,0.4
 2024-01-17,San Roque - El Alto (GPRS),21.58,16.61,53.97,28.84,
 2024-01-17,Santa Ana - Yacuma,31.0,27.0,93.4,74.0,
 2024-01-17,Santiago de Huata,19.0,5.0,,,
@@ -2917,6 +3001,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-17,Taruma,,,,,50.0
 2024-01-17,Templo (GPRS),10.97,8.48,78.49,65.29,0.1
 2024-01-17,Temporal - SDC (GPRS),25.34,20.73,0.78,0.05,
+2024-01-17,Tinguipaya,21.2,2.2,,,
+2024-01-17,Toledo (GPRS),20.43,8.11,76.38,24.8,
 2024-01-17,Toma Ravelo_M (GPRS),,,,,0.4
 2024-01-17,Tomave,22.0,9.5,,,
 2024-01-17,Trinidad,32.0,26.0,93.4,66.0,
@@ -2929,6 +3015,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-17,Vallegrande Aeropuerto,,,,,57.7
 2024-01-17,Viacha_M (GPRS),19.12,14.42,52.75,34.09,
 2024-01-17,Vila Vila - SDC (GPRS),17.86,12.85,91.5,64.83,11.0
+2024-01-17,Villa Charcas (GPRS),18.11,10.04,100.0,73.31,
+2024-01-17,Villa Serrano (GPRS),26.76,12.69,100.0,59.05,
 2024-01-17,Villa Tunari_H (GPRS),,,,,0.44
 2024-01-17,Villamontes,32.0,25.0,73.1,48.7,
 2024-01-17,Villazon,27.4,10.1,,,
@@ -3087,6 +3175,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-18,San Pedro - Río Victoria (GPRS),31.91,27.07,89.5,68.82,35.6
 2024-01-18,San Pedro - San Antonio (GPRS),30.3,29.13,83.1,76.72,2.4
 2024-01-18,San Pedro de Buena Vista (GPRS),27.6,23.92,53.17,30.99,0.6
+2024-01-18,San Ramón Aeropuerto,,,,,12.2
 2024-01-18,San Roque - El Alto (GPRS),18.58,16.53,50.29,37.72,
 2024-01-18,Santa Ana - Yacuma,32.0,26.0,93.4,62.2,
 2024-01-18,Santa Ana del Yacuma Aerop,,,,,4.6
@@ -3104,7 +3193,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-18,Taruma,,,,,110.0
 2024-01-18,Templo (GPRS),11.38,8.11,88.9,74.25,0.4
 2024-01-18,Temporal - SDC (GPRS),30.53,24.19,25.86,0.03,
+2024-01-18,Tinguipaya,25.2,2.1,,,
 2024-01-18,Tiraque,,,,,12.0
+2024-01-18,Toledo (GPRS),21.4,8.13,95.3,20.7,
 2024-01-18,Toma Ravelo_M (GPRS),,,,,3.4
 2024-01-18,Tomave,27.8,5.5,,,
 2024-01-18,Trinidad,32.0,26.0,93.4,62.2,
@@ -3117,6 +3208,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-18,Vallegrande Aeropuerto,,,,,46.1
 2024-01-18,Viacha_M (GPRS),19.51,15.58,52.71,35.84,
 2024-01-18,Vila Vila - SDC (GPRS),27.06,23.29,51.55,37.05,5.0
+2024-01-18,Villa Charcas (GPRS),21.99,11.76,100.0,53.54,
+2024-01-18,Villa Copacabana,,,,,0.1
+2024-01-18,Villa Serrano (GPRS),27.06,16.12,100.0,56.58,1.5
 2024-01-18,Villa Tunari_H (GPRS),,,,,3.78
 2024-01-18,Villamontes,39.0,26.0,77.9,39.8,
 2024-01-18,Villazon,27.1,9.4,,,
@@ -3282,7 +3376,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-19,Tarija,29.0,22.0,72.7,42.0,
 2024-01-19,Templo (GPRS),11.55,7.45,88.5,69.69,6.0
 2024-01-19,Temporal - SDC (GPRS),24.4,19.38,17.98,0.02,3.7
+2024-01-19,Tinguipaya,21.3,1.4,,,
 2024-01-19,Tiraque,,,,,27.5
+2024-01-19,Toledo (GPRS),18.68,6.89,91.8,37.13,9.3
 2024-01-19,Toma Ravelo_M (GPRS),,,,,0.9
 2024-01-19,Tomave,26.0,6.0,,,
 2024-01-19,Trinidad,33.0,26.0,87.9,62.4,
@@ -3296,8 +3392,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-19,Viacha_M (GPRS),18.15,12.04,72.08,45.56,
 2024-01-19,Vila Vila - SDC (GPRS),24.57,20.59,54.64,42.87,3.6
 2024-01-19,Villa Alcala,,,,,1.5
+2024-01-19,Villa Charcas (GPRS),18.5,10.93,99.6,73.68,
+2024-01-19,Villa Copacabana,,,,,10.2
 2024-01-19,Villa Rivero_M (GPRS),,,,,5.6
 2024-01-19,Villa Serrano,,,,,8.0
+2024-01-19,Villa Serrano (GPRS),27.2,15.11,100.0,63.42,
 2024-01-19,Villa Tunari_H (GPRS),,,,,0.74
 2024-01-19,Villamontes,35.0,30.0,69.7,46.8,
 2024-01-19,Villazon,26.0,9.3,,,
@@ -3472,18 +3571,24 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-20,Tarija,26.0,19.0,87.5,60.9,
 2024-01-20,Templo (GPRS),11.48,9.51,81.3,64.12,4.5
 2024-01-20,Temporal - SDC (GPRS),23.61,21.34,0.94,0.14,
+2024-01-20,Tinguipaya,20.0,4.2,,,
+2024-01-20,Toledo (GPRS),21.25,7.23,85.6,29.68,
 2024-01-20,Toma Ravelo_M (GPRS),,,,,8.2
 2024-01-20,Tomave,27.5,8.5,,,
 2024-01-20,Trinidad,33.0,27.0,88.0,62.4,
 2024-01-20,Trinidad Aeropuerto,,,,,8.6
 2024-01-20,Tupiza,21.8,15.5,,,
 2024-01-20,Turumayo,26.0,19.0,,,
+2024-01-20,Urriolagoytia,,,,,40.0
 2024-01-20,Uyuni,,,,,19.0
 2024-01-20,Vacas - SDC (GPRS),17.73,15.09,70.36,52.71,
 2024-01-20,Viacha_M (GPRS),16.18,13.95,52.98,43.27,
 2024-01-20,Vila Vila - SDC (GPRS),17.14,17.14,74.16,36.8,0.1
+2024-01-20,Villa Charcas (GPRS),16.67,10.92,100.0,70.9,
+2024-01-20,Villa Copacabana,,,,,11.2
 2024-01-20,Villa Rivero_M (GPRS),,,,,2.3
 2024-01-20,Villa Serrano,,,,,20.0
+2024-01-20,Villa Serrano (GPRS),26.28,13.0,100.0,66.19,0.1
 2024-01-20,Villa Tunari_H (GPRS),,,,,3.37
 2024-01-20,Villazon,26.3,8.1,,,
 2024-01-20,Vino Tinto,,,,,20.4
@@ -3634,17 +3739,23 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-21,Tarija,28.0,16.0,93.0,53.9,
 2024-01-21,Templo (GPRS),14.28,11.62,72.02,54.76,2.9
 2024-01-21,Temporal - SDC (GPRS),28.24,20.58,26.6,0.04,
+2024-01-21,Tinguipaya,20.4,8.2,,,
+2024-01-21,Toledo (GPRS),22.62,6.99,82.7,22.78,
 2024-01-21,Tomave,28.0,6.0,,,
 2024-01-21,Trinidad,34.0,27.0,88.0,59.0,
 2024-01-21,Tupiza,26.0,12.0,,,
 2024-01-21,Tupiza_2_H (GPRS),,,,,0.1
 2024-01-21,Turumayo,30.0,18.0,,,6.4
+2024-01-21,Urriolagoytia,,,,,26.0
 2024-01-21,Uyuni,,,,,0.8
 2024-01-21,Uyuni Aeropuerto,,,,,10.2
 2024-01-21,Vacas - SDC (GPRS),18.16,15.99,59.12,49.09,
 2024-01-21,Viacha_M (GPRS),20.24,17.15,45.68,34.42,
 2024-01-21,Vila Vila - SDC (GPRS),27.4,22.97,45.48,30.54,
+2024-01-21,Villa Charcas (GPRS),18.83,9.68,100.0,77.71,
+2024-01-21,Villa Copacabana,,,,,0.1
 2024-01-21,Villa Rivero_M (GPRS),,,,,4.7
+2024-01-21,Villa Serrano (GPRS),26.54,15.6,100.0,56.26,
 2024-01-21,Villa Tunari_H (GPRS),,,,,0.01
 2024-01-21,Villazon,26.2,9.3,,,
 2024-01-21,Viru Viru,34.0,27.0,88.0,55.6,
@@ -3808,6 +3919,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-22,Taruma,,,,,30.0
 2024-01-22,Templo (GPRS),11.72,7.14,89.9,64.93,20.2
 2024-01-22,Temporal - SDC (GPRS),23.37,20.44,26.23,0.3,
+2024-01-22,Tinguipaya,21.2,7.4,,,
+2024-01-22,Toledo (GPRS),20.5,5.88,87.0,26.7,
 2024-01-22,Toma Ravelo_M (GPRS),,,,,2.6
 2024-01-22,Tomave,23.0,5.4,,,3.0
 2024-01-22,Trinidad,33.0,27.0,82.9,62.4,
@@ -3818,8 +3931,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-22,Viacha_M (GPRS),16.89,10.69,69.59,47.77,
 2024-01-22,Vila Vila - SDC (GPRS),26.12,22.11,51.72,34.15,
 2024-01-22,Villa Alcala,,,,,36.0
+2024-01-22,Villa Charcas (GPRS),14.1,9.61,100.0,92.0,
 2024-01-22,Villa Rivero_M (GPRS),,,,,0.2
 2024-01-22,Villa Serrano,,,,,13.0
+2024-01-22,Villa Serrano (GPRS),25.87,13.01,100.0,65.09,
 2024-01-22,Villa Tunari_H (GPRS),,,,,8.46
 2024-01-22,Villamontes Bombeo,,,,,44.0
 2024-01-22,Villazon,27.2,9.4,,,0.3
@@ -3983,6 +4098,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-23,San Pedro - Río Victoria (GPRS),29.58,27.74,69.42,61.01,0.2
 2024-01-23,San Pedro - San Antonio (GPRS),30.89,28.45,72.17,58.58,
 2024-01-23,San Pedro de Buena Vista (GPRS),22.06,19.1,75.69,61.99,10.1
+2024-01-23,San Ramón Aeropuerto,,,,,3.3
 2024-01-23,San Roque - El Alto (GPRS),17.78,15.03,56.16,38.15,
 2024-01-23,Santa Ana - Yacuma,22.0,22.0,99.1,99.1,
 2024-01-23,Santa Ana del Yacuma Aerop,,,,,4.8
@@ -4002,6 +4118,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-23,Taruma,,,,,61.0
 2024-01-23,Templo (GPRS),11.21,5.57,90.4,75.0,
 2024-01-23,Temporal - SDC (GPRS),25.84,24.03,0.41,0.03,
+2024-01-23,Tinguipaya,23.2,8.2,,,
+2024-01-23,Toledo (GPRS),23.03,4.37,88.5,25.32,
 2024-01-23,Toma Ravelo_M (GPRS),,,,,3.2
 2024-01-23,Tomave,24.0,6.0,,,
 2024-01-23,Trinidad,23.0,21.0,97.0,93.2,
@@ -4009,11 +4127,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-23,Tupiza,,,,,9.1
 2024-01-23,Tupiza_2_H (GPRS),,,,,0.67
 2024-01-23,Turumayo,26.0,14.0,,,8.5
+2024-01-23,Urriolagoytia,,,,,10.0
 2024-01-23,Uyuni,23.5,8.8,,,
 2024-01-23,Vacas - SDC (GPRS),16.34,13.42,81.1,67.36,
 2024-01-23,Viacha_M (GPRS),17.64,15.52,51.82,43.67,
 2024-01-23,Vila Vila - SDC (GPRS),20.3,18.07,68.1,58.88,0.5
+2024-01-23,Villa Charcas (GPRS),14.39,8.81,100.0,79.5,
 2024-01-23,Villa Serrano,,,,,4.0
+2024-01-23,Villa Serrano (GPRS),22.61,13.49,100.0,68.25,0.1
 2024-01-23,Villa Tunari_H (GPRS),,,,,0.64
 2024-01-23,Villamontes,30.0,24.0,82.6,51.3,
 2024-01-23,Villamontes Aeropuerto,,,,,77.7
@@ -4045,6 +4166,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-24,Apolo Aeropuerto,,,,,24.0
 2024-01-24,Apolo_M (GPRS),,,,,18.9
 2024-01-24,Arani,,,,,2.8
+2024-01-24,Aroma (GPRS),24.39,5.95,76.3,6.91,
 2024-01-24,Ayo Ayo,,,,,5.0
 2024-01-24,Ayoma,26.2,6.1,,,4.0
 2024-01-24,Cabaña Forestal Oruro,,,,,0.4
@@ -4160,6 +4282,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-24,San Pedro - San Antonio (GPRS),32.45,28.03,80.8,64.11,
 2024-01-24,San Pedro de Buena Vista (GPRS),22.85,19.21,74.71,57.19,
 2024-01-24,San Pedro de Tiquina_M (GPRS),,,,,0.4
+2024-01-24,San Ramón Aeropuerto,,,,,24.3
 2024-01-24,San Roque - El Alto (GPRS),18.71,16.48,74.03,39.34,
 2024-01-24,Santa Ana del Yacuma Aerop,,,,,28.8
 2024-01-24,Santiago de Huata,19.0,3.0,,,
@@ -4176,6 +4299,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-24,Tarapaya,24.0,9.8,,,5.2
 2024-01-24,Templo (GPRS),12.01,6.57,86.1,70.19,12.0
 2024-01-24,Temporal - SDC (GPRS),30.1,12.75,0.11,0.03,
+2024-01-24,Tinguipaya,21.3,6.4,,,
+2024-01-24,Toledo (GPRS),23.53,7.38,82.3,17.8,
 2024-01-24,Toma Ravelo_M (GPRS),,,,,0.1
 2024-01-24,Tomave,26.5,9.1,,,
 2024-01-24,Trinidad Aeropuerto,,,,,4.3
@@ -4187,7 +4312,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-24,Viacha_M (GPRS),20.56,17.09,66.27,32.66,
 2024-01-24,Vila Vila - SDC (GPRS),17.67,16.3,76.72,69.44,1.2
 2024-01-24,Villa Alcala,,,,,2.5
+2024-01-24,Villa Charcas (GPRS),13.67,8.35,100.0,92.1,
+2024-01-24,Villa Copacabana,,,,,7.7
 2024-01-24,Villa Serrano,,,,,2.0
+2024-01-24,Villa Serrano (GPRS),19.25,12.76,100.0,76.74,0.1
 2024-01-24,Villazon,27.4,9.3,,,
 2024-01-24,Vino Tinto,,,,,14.1
 2024-01-24,Viru Viru Aeropuerto,,,,,0.1
@@ -4215,6 +4343,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-25,Apolo Aeropuerto,,,,,23.0
 2024-01-25,Apolo_M (GPRS),,,,,51.3
 2024-01-25,Arani,,,,,2.6
+2024-01-25,Aroma (GPRS),24.05,5.97,93.3,14.62,
 2024-01-25,Ayo Ayo,,,,,6.0
 2024-01-25,Ayoma,23.1,11.4,,,
 2024-01-25,Azurduy,,,,,5.0
@@ -4335,6 +4464,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-25,San Pedro - Río Victoria (GPRS),33.45,32.31,64.14,56.35,
 2024-01-25,San Pedro - San Antonio (GPRS),35.36,33.09,58.06,42.5,
 2024-01-25,San Pedro de Buena Vista (GPRS),20.92,18.13,68.63,55.07,0.1
+2024-01-25,San Ramón Aeropuerto,,,,,20.0
 2024-01-25,San Roque - El Alto (GPRS),19.36,12.71,59.1,42.54,1.2
 2024-01-25,Santa Ana del Yacuma Aerop,,,,,0.8
 2024-01-25,Santiago de Huata,18.0,4.0,,,
@@ -4353,7 +4483,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-25,Tarata,,,,,4.0
 2024-01-25,Templo (GPRS),7.73,6.46,96.4,88.7,10.8
 2024-01-25,Temporal - SDC (GPRS),24.29,10.79,96.4,0.05,30.2
+2024-01-25,Tinguipaya,22.1,7.2,,,4.3
 2024-01-25,Tiraque,,,,,13.5
+2024-01-25,Toledo (GPRS),24.15,5.98,96.9,21.94,
 2024-01-25,Toma Ravelo_M (GPRS),,,,,4.1
 2024-01-25,Tomave,23.0,9.3,,,
 2024-01-25,Trinidad Aeropuerto,,,,,43.4
@@ -4365,7 +4497,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-25,Vallegrande Aeropuerto,,,,,0.7
 2024-01-25,Viacha_M (GPRS),19.24,16.37,61.88,42.69,9.0
 2024-01-25,Vila Vila - SDC (GPRS),21.53,16.91,68.86,44.43,1.9
+2024-01-25,Villa Charcas (GPRS),15.52,9.36,100.0,63.56,
+2024-01-25,Villa Copacabana,,,,,0.1
 2024-01-25,Villa Rivero_M (GPRS),,,,,1.6
+2024-01-25,Villa Serrano (GPRS),24.29,12.84,100.0,56.83,0.1
 2024-01-25,Villa Tunari_H (GPRS),,,,,0.02
 2024-01-25,Villazon,26.0,8.1,,,2.0
 2024-01-25,Viscachas Chirage (GPRS),11.07,8.66,91.2,77.79,0.4
@@ -4394,6 +4529,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-26,Anzaldo_M (GPRS),,,,,5.4
 2024-01-26,Apolo Aeropuerto,,,,,43.4
 2024-01-26,Apolo_M (GPRS),,,,,40.1
+2024-01-26,Aroma (GPRS),22.57,8.37,77.69,23.93,
 2024-01-26,Ayo Ayo,,,,,7.5
 2024-01-26,Ayoma,24.3,8.2,,,3.1
 2024-01-26,Cabaña Forestal Oruro,,,,,3.8
@@ -4523,7 +4659,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-26,Tarata,,,,,2.0
 2024-01-26,Templo (GPRS),12.73,10.36,77.78,38.44,22.4
 2024-01-26,Temporal - SDC (GPRS),23.75,21.7,20.18,0.02,1.8
+2024-01-26,Tinguipaya,22.2,6.3,,,
 2024-01-26,Tiraque,,,,,8.0
+2024-01-26,Toledo (GPRS),21.23,3.71,94.0,18.56,2.7
 2024-01-26,Toma Ravelo_M (GPRS),,,,,2.0
 2024-01-26,Tomave,24.5,10.5,,,15.5
 2024-01-26,Totora i_M (GPRS),,,,,0.4
@@ -4535,8 +4673,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-26,Viacha_M (GPRS),17.09,14.67,65.97,45.68,5.1
 2024-01-26,Vila Vila - SDC (GPRS),26.15,21.92,46.39,34.43,3.4
 2024-01-26,Villa Alcala,,,,,6.0
+2024-01-26,Villa Charcas (GPRS),17.17,9.11,99.0,71.24,
+2024-01-26,Villa Copacabana,,,,,20.4
 2024-01-26,Villa Rivero_M (GPRS),,,,,1.5
 2024-01-26,Villa Serrano,,,,,10.0
+2024-01-26,Villa Serrano (GPRS),23.57,11.41,100.0,67.57,
 2024-01-26,Villazon,27.1,7.1,,,0.5
 2024-01-26,Vino Tinto,,,,,43.1
 2024-01-26,Viscachas Chirage (GPRS),13.51,12.09,80.9,68.07,3.5
@@ -4558,6 +4699,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-27,Alto Peñas (GPRS),14.63,9.48,79.3,58.65,1.3
 2024-01-27,Anzaldo_M (GPRS),,,,,0.8
 2024-01-27,Arani,,,,,3.4
+2024-01-27,Aroma (GPRS),22.68,7.19,97.0,21.47,
 2024-01-27,Ayoma,23.4,10.1,,,
 2024-01-27,Azurduy,,,,,3.2
 2024-01-27,Cabaña Forestal Oruro,,,,,8.2
@@ -4661,6 +4803,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-27,Tarata,,,,,1.0
 2024-01-27,Templo (GPRS),13.69,11.4,66.81,50.6,2.8
 2024-01-27,Temporal - SDC (GPRS),23.61,23.38,0.94,0.02,
+2024-01-27,Tinguipaya,22.0,7.0,,,2.2
+2024-01-27,Toledo (GPRS),21.65,6.96,95.0,21.8,0.9
 2024-01-27,Toma Ravelo_M (GPRS),,,,,0.3
 2024-01-27,Tomave,22.0,6.5,,,
 2024-01-27,Tupiza,23.5,8.5,,,
@@ -4669,6 +4813,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-27,Vacas - SDC (GPRS),18.51,16.08,60.45,48.25,
 2024-01-27,Viacha_M (GPRS),17.81,14.41,57.95,33.23,9.4
 2024-01-27,Vila Vila - SDC (GPRS),26.28,23.49,40.58,34.17,
+2024-01-27,Villa Charcas (GPRS),18.03,9.21,98.1,67.95,
+2024-01-27,Villa Serrano (GPRS),24.72,13.91,99.9,56.28,
 2024-01-27,Villazon,26.2,6.0,,,
 2024-01-27,Viscachas Chirage (GPRS),15.75,10.51,84.9,52.67,0.2
 2024-01-27,Vitichi,27.1,9.3,,,
@@ -4691,6 +4837,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-28,Anzaldo,,,,,5.6
 2024-01-28,Anzaldo_M (GPRS),,,,,1.0
 2024-01-28,Arani,,,,,3.8
+2024-01-28,Aroma (GPRS),22.63,6.23,89.6,18.35,
 2024-01-28,Ayoma,23.1,9.3,,,1.5
 2024-01-28,Cabaña Forestal Oruro,,,,,3.2
 2024-01-28,Cachimayu,,,,,9.5
@@ -4798,7 +4945,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-28,Tarata,,,,,6.5
 2024-01-28,Templo (GPRS),12.32,10.12,72.34,61.47,0.2
 2024-01-28,Temporal - SDC (GPRS),23.9,20.27,42.88,0.07,14.7
+2024-01-28,Tinguipaya,20.1,6.4,,,3.4
 2024-01-28,Tiraque,,,,,18.5
+2024-01-28,Toledo (GPRS),17.77,4.88,96.9,39.57,4.5
 2024-01-28,Toma Ravelo_M (GPRS),,,,,3.8
 2024-01-28,Tomave,21.0,6.0,,,
 2024-01-28,Tupiza,22.0,8.0,,,
@@ -4809,8 +4958,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-28,Vacas - SDC (GPRS),15.75,12.2,71.82,56.02,0.9
 2024-01-28,Viacha_M (GPRS),17.46,14.94,55.42,45.2,
 2024-01-28,Vila Vila - SDC (GPRS),25.75,22.63,46.23,33.01,0.3
+2024-01-28,Villa Charcas (GPRS),17.97,9.62,99.7,67.14,
 2024-01-28,Villa Rivero_M (GPRS),,,,,0.5
 2024-01-28,Villa Serrano,,,,,1.5
+2024-01-28,Villa Serrano (GPRS),25.72,12.86,100.0,55.02,
 2024-01-28,Villa Tunari_H (GPRS),,,,,1.36
 2024-01-28,Villazon,27.1,7.1,,,17.0
 2024-01-28,Vino Tinto,,,,,3.9
@@ -4839,6 +4990,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-29,Anzaldo_M (GPRS),,,,,16.6
 2024-01-29,Apolo_M (GPRS),,,,,1.9
 2024-01-29,Arani,,,,,0.8
+2024-01-29,Aroma (GPRS),21.39,6.65,87.8,23.13,
 2024-01-29,Ayoma,20.3,5.2,,,41.5
 2024-01-29,Azurduy,,,,,1.0
 2024-01-29,Cabaña Forestal Oruro,,,,,3.4
@@ -4979,7 +5131,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-29,Tarata,,,,,2.5
 2024-01-29,Templo (GPRS),9.85,7.34,95.1,73.83,10.6
 2024-01-29,Temporal - SDC (GPRS),22.89,20.88,1.55,0.03,0.6
+2024-01-29,Tinguipaya,19.1,7.0,,,
 2024-01-29,Tiraque,,,,,22.0
+2024-01-29,Toledo (GPRS),22.56,6.5,91.0,16.69,1.6
 2024-01-29,Toma Ravelo_M (GPRS),,,,,7.7
 2024-01-29,Tomave,23.0,6.5,,,1.5
 2024-01-29,Totora i_M (GPRS),,,,,0.1
@@ -4992,8 +5146,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-29,Viacha_M (GPRS),15.19,13.87,73.67,49.72,4.5
 2024-01-29,Vila Vila - SDC (GPRS),24.15,21.27,53.34,40.97,17.5
 2024-01-29,Villa Alcala,,,,,19.0
+2024-01-29,Villa Charcas (GPRS),18.98,9.15,100.0,64.21,
+2024-01-29,Villa Copacabana,,,,,4.1
 2024-01-29,Villa Rivero_M (GPRS),,,,,1.1
 2024-01-29,Villa Serrano,,,,,8.5
+2024-01-29,Villa Serrano (GPRS),25.47,10.5,100.0,64.87,
 2024-01-29,Villa Tunari_H (GPRS),,,,,0.91
 2024-01-29,Villazon,28.1,6.2,,,5.1
 2024-01-29,Vino Tinto,,,,,5.6
@@ -5024,6 +5181,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-30,Anzaldo,,,,,8.1
 2024-01-30,Anzaldo_M (GPRS),,,,,5.1
 2024-01-30,Arani,,,,,0.4
+2024-01-30,Aroma (GPRS),18.03,6.15,86.4,34.89,
 2024-01-30,Ayoma,19.2,4.4,,,
 2024-01-30,Cabaña Forestal Oruro,,,,,1.0
 2024-01-30,Caiza D,23.8,9.9,,,
@@ -5152,6 +5310,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-30,San Pedro - San Antonio (GPRS),31.16,29.6,82.6,74.75,0.6
 2024-01-30,San Pedro de Buena Vista (GPRS),22.71,19.76,54.94,46.21,0.2
 2024-01-30,San Pedro de Tiquina_M (GPRS),,,,,9.6
+2024-01-30,San Ramón Aeropuerto,,,,,2.1
 2024-01-30,San Roque - El Alto (GPRS),15.98,12.02,78.72,53.07,12.7
 2024-01-30,Santa Ana del Yacuma Aerop,,,,,0.3
 2024-01-30,Santiago de Huata,18.0,2.0,,,3.0
@@ -5169,20 +5328,26 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-30,Tarata,,,,,7.5
 2024-01-30,Templo (GPRS),11.17,8.92,78.97,63.74,6.0
 2024-01-30,Temporal - SDC (GPRS),24.25,19.89,4.72,0.03,
+2024-01-30,Tinguipaya,18.2,6.4,,,4.3
 2024-01-30,Tiraque,,,,,12.0
+2024-01-30,Toledo (GPRS),17.99,5.26,86.3,32.4,1.4
 2024-01-30,Toma Ravelo_M (GPRS),,,,,2.8
 2024-01-30,Tomave,19.0,7.0,,,0.5
 2024-01-30,Totora i_M (GPRS),,,,,1.2
 2024-01-30,Tupiza,,,,,2.3
 2024-01-30,Tupiza_2_H (GPRS),,,,,0.04
 2024-01-30,Turumayo,31.0,12.0,,,32.7
+2024-01-30,Urriolagoytia,,,,,10.0
 2024-01-30,Uyuni,,,,,0.3
 2024-01-30,Vacas - SDC (GPRS),15.99,11.9,75.3,56.27,10.3
 2024-01-30,Vallegrande Aeropuerto,,,,,12.5
 2024-01-30,Viacha_M (GPRS),15.52,12.44,71.57,53.19,8.2
 2024-01-30,Vila Vila - SDC (GPRS),23.21,17.69,70.31,43.88,13.3
+2024-01-30,Villa Charcas (GPRS),17.68,10.9,97.6,63.31,
+2024-01-30,Villa Copacabana,,,,,2.2
 2024-01-30,Villa Rivero_M (GPRS),,,,,0.9
 2024-01-30,Villa Serrano,,,,,1.3
+2024-01-30,Villa Serrano (GPRS),28.42,11.07,100.0,42.86,0.1
 2024-01-30,Villa Tunari_H (GPRS),,,,,0.46
 2024-01-30,Villamontes Aeropuerto,,,,,4.7
 2024-01-30,Villamontes Bombeo,,,,,8.0
@@ -5213,6 +5378,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-31,Anzaldo,,,,,0.6
 2024-01-31,Apolo_M (GPRS),,,,,6.3
 2024-01-31,Arani,,,,,2.4
+2024-01-31,Aroma (GPRS),22.55,7.64,85.9,24.15,
 2024-01-31,Ayoma,22.4,6.1,,,1.1
 2024-01-31,Cachimayu,,,,,4.5
 2024-01-31,Caiza D,24.0,11.0,,,
@@ -5270,6 +5436,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-31,La Barranca  (Chuquisaca),23.5,9.5,,,17.5
 2024-01-31,La Merced,35.0,20.0,,,
 2024-01-31,La Torre,,,,,4.0
+2024-01-31,La Violeta,,,,,2.9
 2024-01-31,Laykacota,,,,,1.1
 2024-01-31,Llallagua,16.2,6.0,,,
 2024-01-31,Mairana_M (GPRS),208.0,207.9,247.8,247.8,0.2
@@ -5336,18 +5503,24 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-31,Tarapaya,21.0,6.2,,,0.2
 2024-01-31,Templo (GPRS),10.79,7.54,86.2,70.84,2.3
 2024-01-31,Temporal - SDC (GPRS),23.69,19.37,1.52,0.03,
+2024-01-31,Tinguipaya,21.2,7.2,,,1.2
 2024-01-31,Tiraque,,,,,8.5
+2024-01-31,Toledo (GPRS),19.96,6.89,82.7,30.75,
 2024-01-31,Toma Ravelo_M (GPRS),,,,,6.7
 2024-01-31,Tomave,20.0,5.5,,,10.0
 2024-01-31,Tupiza,23.6,11.0,,,
 2024-01-31,Tupiza_1_H (GPRS),,,,,0.01
 2024-01-31,Turumayo,31.5,12.0,,,
+2024-01-31,Urriolagoytia,,,,,6.0
 2024-01-31,Uyuni,,,,,9.8
 2024-01-31,Uyuni Aeropuerto,,,,,7.3
 2024-01-31,Vacas - SDC (GPRS),16.99,13.14,66.96,51.38,0.1
 2024-01-31,Vallegrande Aeropuerto,,,,,2.6
 2024-01-31,Viacha_M (GPRS),17.36,13.49,61.53,44.06,
 2024-01-31,Vila Vila - SDC (GPRS),24.19,21.71,47.39,35.37,1.1
+2024-01-31,Villa Charcas (GPRS),19.25,11.97,94.4,53.22,
+2024-01-31,Villa Copacabana,,,,,10.7
+2024-01-31,Villa Serrano (GPRS),27.89,12.66,100.0,42.61,
 2024-01-31,Villa Tunari_H (GPRS),,,,,0.03
 2024-01-31,Villazon,26.0,6.1,,,
 2024-01-31,Vino Tinto,,,,,2.8
@@ -5365,6 +5538,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-01,Aiquile (GPRS),32.11,16.63,89.6,41.36,2.2
 2024-02-01,Alto Peñas (GPRS),14.56,11.21,79.09,56.47,5.8
 2024-02-01,Anzaldo_M (GPRS),,,,,13.4
+2024-02-01,Aroma (GPRS),18.04,7.69,96.3,42.26,
 2024-02-01,Azurduy,,,,,6.2
 2024-02-01,Cabaña Forestal Oruro,,,,,2.2
 2024-02-01,Camargo_H (GPRS),,,,,0.53
@@ -5383,6 +5557,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-01,Cuatro Cañadas - Colonia Chihuahua (GPRS),37.78,25.13,92.9,45.83,
 2024-02-01,Desaguadero_M,15.85,13.63,69.8,53.05,
 2024-02-01,El Alto Aeropuerto,,,,,2.4
+2024-02-01,El Común Caraparí,,,,,4.5
 2024-02-01,El Puente_H (GPRS),,,,,0.02
 2024-02-01,Guayaramerin_M (GPRS),,,,,0.8
 2024-02-01,Huancane Corapata_M (GPRS),,,,,1.9
@@ -5391,6 +5566,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-01,Isla Suriqui_M (GPRS),16.2,13.05,67.74,48.19,1.1
 2024-02-01,Jesús de Machaca_M (GPRS),15.58,12.26,76.26,51.82,0.6
 2024-02-01,La Asunta_H (GPRS),,,,,2.38
+2024-02-01,La Violeta,,,,,18.8
+2024-02-01,Laykacota,,,,,2.4
 2024-02-01,Mairana_M (GPRS),207.9,207.9,247.8,247.8,1.6
 2024-02-01,Mecapaca_M (GPRS),,,,,0.1
 2024-02-01,Mizque - SDC (GPRS),26.34,22.45,51.5,34.61,2.2
@@ -5429,18 +5606,23 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-01,Tarata,,,,,3.5
 2024-02-01,Templo (GPRS),10.91,8.01,80.8,63.88,10.4
 2024-02-01,Temporal - SDC (GPRS),21.4,16.44,0.2,0.03,16.9
+2024-02-01,Toledo (GPRS),17.94,6.91,95.9,34.03,
 2024-02-01,Toma Ravelo_M (GPRS),,,,,17.2
 2024-02-01,Tupiza_1_H (GPRS),,,,,0.14
 2024-02-01,Tupiza_2_H (GPRS),,,,,0.07
 2024-02-01,Vacas - SDC (GPRS),14.74,11.36,79.35,61.64,11.0
 2024-02-01,Viacha_M (GPRS),15.85,13.81,54.87,49.65,
 2024-02-01,Vila Vila - SDC (GPRS),23.32,19.17,53.49,41.08,5.7
+2024-02-01,Villa Charcas (GPRS),17.82,9.27,96.6,59.51,
 2024-02-01,Villa Rivero_M (GPRS),,,,,3.4
 2024-02-01,Villa Serrano,,,,,11.5
+2024-02-01,Villa Serrano (GPRS),26.35,13.51,100.0,51.99,0.4
 2024-02-01,Villamontes Aeropuerto,,,,,5.3
 2024-02-01,Viscachas Chirage (GPRS),13.51,10.06,72.63,57.81,12.4
 2024-02-01,Vivero Chimboco - SDC (GPRS),18.53,17.31,61.47,55.23,8.8
 2024-02-01,Vivero Viloma - SDC (GPRS),22.34,19.99,61.88,48.53,25.6
+2024-02-01,Yocalla,,,,,0.1
+2024-02-01,Zudañez,,,,,3.1
 2024-02-01,Ñucchu,,,,,8.0
 2024-02-02, Paniagua_M (GPRS),,,,,61.4
 2024-02-02,4 Esquinas (GPRS),10.65,4.86,,,3.0
@@ -5451,6 +5633,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-02,Alto Peñas (GPRS),12.79,7.47,93.4,69.47,3.0
 2024-02-02,Anzaldo_M (GPRS),,,,,0.4
 2024-02-02,Apolo_M (GPRS),,,,,16.9
+2024-02-02,Aroma (GPRS),19.0,4.71,94.3,29.33,
 2024-02-02,Cabaña Forestal Oruro,,,,,4.3
 2024-02-02,Camargo_H (GPRS),,,,,0.01
 2024-02-02,Camargo_M (GPRS),,,,,0.1
@@ -5468,6 +5651,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-02,Cuatro Cañadas - Colonia Chihuahua (GPRS),37.82,35.28,52.99,38.74,1.6
 2024-02-02,Desaguadero_M,12.13,8.8,88.4,60.93,4.8
 2024-02-02,El Alto Aeropuerto,,,,,0.2
+2024-02-02,El Villar,,,,,16.3
 2024-02-02,Guanay_H (GPRS),,,,,240.0
 2024-02-02,Guayaramerin_M (GPRS),,,,,0.1
 2024-02-02,Huancane Corapata_M (GPRS),,,,,7.4
@@ -5478,6 +5662,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-02,Ixiamas_M (GPRS),,,,,25.1
 2024-02-02,Jesús de Machaca_M (GPRS),12.1,9.32,90.0,71.57,2.9
 2024-02-02,La Asunta_H (GPRS),,,,,1.23
+2024-02-02,La Violeta,,,,,5.6
+2024-02-02,Laykacota,,,,,0.2
 2024-02-02,Mairana_M (GPRS),207.9,207.9,247.8,247.8,0.2
 2024-02-02,Mecapaca_M (GPRS),,,,,3.5
 2024-02-02,Mizque - SDC (GPRS),27.03,20.0,62.03,34.88,0.9
@@ -5507,12 +5693,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-02,San Ignacio de Velasco Aerop,,,,,1.0
 2024-02-02,San Jacinto_M (GPRS),28.49,12.92,97.8,30.26,8.4
 2024-02-02,San Joaquin Aeropuerto,,,,,10.0
+2024-02-02,San Julian,,,,,20.5
 2024-02-02,San Julian - Comunidad Los Angeles (GPRS),37.74,35.07,53.26,43.15,16.2
 2024-02-02,San Julian - Nucleo 32 (GPRS),37.32,33.6,,,0.2
 2024-02-02,San Pedro - Río Victoria (GPRS),34.08,31.54,70.88,60.98,0.6
 2024-02-02,San Pedro - San Antonio (GPRS),33.59,31.25,74.99,65.44,25.4
 2024-02-02,San Pedro de Buena Vista (GPRS),22.16,17.66,66.93,48.66,2.7
 2024-02-02,San Pedro de Tiquina_M (GPRS),,,,,2.1
+2024-02-02,San Ramón Aeropuerto,,,,,22.3
 2024-02-02,San Roque - El Alto (GPRS),15.62,12.13,70.03,55.49,12.9
 2024-02-02,Sarco,,,,,7.9
 2024-02-02,Sopachuy,,,,,12.8
@@ -5524,6 +5712,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-02,Tarata,,,,,1.5
 2024-02-02,Templo (GPRS),10.31,7.05,84.8,72.65,9.9
 2024-02-02,Temporal - SDC (GPRS),22.56,19.72,1.5,0.12,8.1
+2024-02-02,Toledo (GPRS),18.42,4.8,90.5,30.61,1.9
 2024-02-02,Toma Ravelo_M (GPRS),,,,,6.6
 2024-02-02,Totora i_M (GPRS),,,,,0.1
 2024-02-02,Trinidad Aeropuerto,,,,,3.2
@@ -5531,12 +5720,17 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-02,Vacas - SDC (GPRS),13.71,9.93,87.9,65.1,0.8
 2024-02-02,Viacha_M (GPRS),15.03,10.61,77.1,51.61,2.5
 2024-02-02,Vila Vila - SDC (GPRS),21.79,16.48,68.09,44.2,0.7
+2024-02-02,Villa Charcas (GPRS),17.47,10.67,94.2,48.82,
 2024-02-02,Villa Rivero_M (GPRS),,,,,0.5
 2024-02-02,Villa Serrano,,,,,3.0
+2024-02-02,Villa Serrano (GPRS),28.88,10.42,100.0,42.52,0.3
 2024-02-02,Villamontes Aeropuerto,,,,,9.6
+2024-02-02,Viru Viru Aeropuerto,,,,,26.2
 2024-02-02,Viscachas Chirage (GPRS),11.82,8.23,87.9,71.55,5.9
 2024-02-02,Vivero Chimboco - SDC (GPRS),21.75,15.93,79.22,45.83,6.1
 2024-02-02,Vivero Viloma - SDC (GPRS),24.01,21.63,47.29,28.17,6.9
+2024-02-02,Yocalla,,,,,0.2
+2024-02-02,Zudañez,,,,,6.0
 2024-02-02,Ñucchu,,,,,4.0
 2024-02-03, Paniagua_M (GPRS),,,,,0.2
 2024-02-03,4 Esquinas (GPRS),12.28,9.59,,,3.0
@@ -5545,6 +5739,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-03,Aiquile (GPRS),35.99,19.61,65.67,24.61,
 2024-02-03,Alto Peñas (GPRS),16.14,13.28,53.91,42.46,4.4
 2024-02-03,Anzaldo_M (GPRS),,,,,4.8
+2024-02-03,Aroma (GPRS),21.97,4.07,84.5,11.32,
 2024-02-03,Azurduy,,,,,5.0
 2024-02-03,Buena Vista S.(GPRS),,,,,0.2
 2024-02-03,Cabaña Forestal Oruro,,,,,3.1
@@ -5562,6 +5757,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-03,Isla Suriqui_M (GPRS),17.43,13.38,61.79,31.45,2.0
 2024-02-03,Jesús de Machaca_M (GPRS),17.21,14.08,56.39,32.63,1.1
 2024-02-03,La Asunta_H (GPRS),,,,,0.81
+2024-02-03,La Violeta,,,,,4.2
+2024-02-03,Laykacota,,,,,7.8
 2024-02-03,Mairana_M (GPRS),-39.04,-39.04,0.95,0.94,
 2024-02-03,Mizque - SDC (GPRS),28.49,24.2,41.32,28.55,0.5
 2024-02-03,Pailon - Pozo del Tigre (GPRS),38.36,35.16,44.54,33.9,
@@ -5594,12 +5791,16 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-03,Tarata,,,,,5.5
 2024-02-03,Templo (GPRS),10.94,7.15,74.81,62.65,2.8
 2024-02-03,Temporal - SDC (GPRS),23.33,21.09,1.17,0.2,4.9
+2024-02-03,Toledo (GPRS),19.39,2.13,83.5,18.93,
 2024-02-03,Toma Ravelo_M (GPRS),,,,,0.1
 2024-02-03,Vacas - SDC (GPRS),14.96,12.0,60.63,51.37,0.1
 2024-02-03,Viacha_M (GPRS),17.28,13.22,57.08,38.05,1.4
 2024-02-03,Vila Vila - SDC (GPRS),23.3,20.5,46.44,35.6,3.5
+2024-02-03,Villa Charcas (GPRS),19.42,9.3,93.4,44.04,
 2024-02-03,Villa Rivero_M (GPRS),,,,,6.3
+2024-02-03,Villa Serrano (GPRS),28.74,10.97,100.0,39.36,
 2024-02-03,Villa Tunari_H (GPRS),,,,,0.05
+2024-02-03,Viru Viru Aeropuerto,,,,,0.1
 2024-02-03,Viscachas Chirage (GPRS),14.39,12.02,54.87,42.57,1.4
 2024-02-03,Vivero Chimboco - SDC (GPRS),23.71,20.49,37.38,31.45,1.0
 2024-02-03,Vivero Viloma - SDC (GPRS),25.43,21.95,41.26,20.46,
@@ -5609,6 +5810,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-04,Aguadas (GPRS),15.7,10.8,60.56,43.97,
 2024-02-04,Aiquile (GPRS),36.69,19.95,65.42,24.82,
 2024-02-04,Alto Peñas (GPRS),13.5,11.75,63.17,50.26,0.1
+2024-02-04,Aroma (GPRS),21.42,4.67,83.7,14.6,
 2024-02-04,Buena Vista S.(GPRS),,,,,0.8
 2024-02-04,Cabaña Forestal Oruro,,,,,2.4
 2024-02-04,Carura_M (GPRS),,,,,0.5
@@ -5620,6 +5822,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-04,Cuatro Cañadas - CEA-2 (GPRS),35.26,32.05,63.96,42.08,
 2024-02-04,Cuatro Cañadas - Colonia Chihuahua (GPRS),37.18,34.69,52.13,42.45,
 2024-02-04,Desaguadero_M,15.15,12.39,57.41,42.63,
+2024-02-04,El Villar,,,,,4.0
 2024-02-04,Huarisuyo (GPRS),16.67,12.99,56.72,40.93,
 2024-02-04,Incapampa - Coroico_M (GPRS),,,,,1.5
 2024-02-04,Isla Suriqui_M (GPRS),14.49,11.49,61.07,47.32,
@@ -5653,10 +5856,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-04,Tacagua_M (GPRS),18.61,16.19,28.07,24.16,
 2024-02-04,Templo (GPRS),9.88,6.91,73.92,58.44,
 2024-02-04,Temporal - SDC (GPRS),23.06,19.73,1.06,0.25,
+2024-02-04,Toledo (GPRS),19.01,4.39,82.5,24.57,
 2024-02-04,Trinidad Aeropuerto,,,,,11.8
 2024-02-04,Vacas - SDC (GPRS),14.62,11.75,60.69,46.5,
 2024-02-04,Viacha_M (GPRS),15.37,13.49,56.63,34.33,
 2024-02-04,Vila Vila - SDC (GPRS),23.05,20.23,45.58,30.29,
+2024-02-04,Villa Charcas (GPRS),19.4,9.72,86.5,39.21,
+2024-02-04,Villa Serrano (GPRS),27.88,9.82,100.0,37.88,
 2024-02-04,Villa Tunari_H (GPRS),,,,,0.03
 2024-02-04,Viscachas Chirage (GPRS),13.45,11.2,58.84,44.12,
 2024-02-04,Vivero Chimboco - SDC (GPRS),24.25,20.51,35.86,23.27,
@@ -5665,6 +5871,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-05,Aguadas (GPRS),17.35,14.0,57.5,39.25,
 2024-02-05,Aiquile (GPRS),36.22,18.56,77.38,31.86,
 2024-02-05,Alto Peñas (GPRS),13.42,12.28,60.48,52.39,
+2024-02-05,Aroma (GPRS),21.39,7.97,80.8,26.4,
 2024-02-05,Azurduy,,,,,4.9
 2024-02-05,Cabaña Forestal Oruro,,,,,1.4
 2024-02-05,Campanario,,,,,1.2
@@ -5681,6 +5888,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-05,Ixiamas_M (GPRS),,,,,2.0
 2024-02-05,Jesús de Machaca_M (GPRS),17.28,13.17,52.76,30.78,
 2024-02-05,La Asunta_H (GPRS),,,,,0.15
+2024-02-05,La Violeta,,,,,0.5
 2024-02-05,Mairana_M (GPRS),207.9,207.9,247.8,247.8,
 2024-02-05,Mizque - SDC (GPRS),28.22,24.43,42.34,27.17,0.4
 2024-02-05,Pailon - Pozo del Tigre (GPRS),36.33,25.71,87.8,45.14,
@@ -5704,9 +5912,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-05,Tacagua_M (GPRS),14.1,10.63,72.83,41.43,
 2024-02-05,Templo (GPRS),11.21,9.08,75.97,57.19,
 2024-02-05,Temporal - SDC (GPRS),22.74,15.49,1.18,0.09,
+2024-02-05,Toledo (GPRS),21.57,5.69,93.8,25.16,
 2024-02-05,Vacas - SDC (GPRS),15.24,12.7,62.18,49.78,
 2024-02-05,Viacha_M (GPRS),16.96,13.03,56.82,41.51,
 2024-02-05,Vila Vila - SDC (GPRS),24.02,20.05,48.54,30.15,
+2024-02-05,Villa Charcas (GPRS),19.16,12.06,95.1,51.91,
+2024-02-05,Villa Serrano (GPRS),26.99,13.59,100.0,46.19,
 2024-02-05,Viscachas Chirage (GPRS),12.66,10.34,72.91,52.95,
 2024-02-05,Vivero Chimboco - SDC (GPRS),23.31,20.88,41.41,31.03,
 2024-02-05,Vivero Viloma - SDC (GPRS),26.0,21.94,38.98,1.83,
@@ -5718,6 +5929,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-06,Alto Peñas (GPRS),8.97,6.61,95.6,79.42,33.6
 2024-02-06,Anzaldo_M (GPRS),,,,,0.2
 2024-02-06,Apolo_M (GPRS),,,,,0.9
+2024-02-06,Aroma (GPRS),15.38,6.27,95.2,49.47,
 2024-02-06,Cabaña Forestal Oruro,,,,,5.1
 2024-02-06,Campanario,,,,,4.0
 2024-02-06,Caranavi_H (GPRS),,,,,0.73
@@ -5731,8 +5943,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-06,Cuatro Cañadas - Colonia Chihuahua (GPRS),36.59,31.82,65.21,48.63,3.6
 2024-02-06,Desaguadero_M,12.39,9.71,73.11,66.73,7.3
 2024-02-06,El Alto Aeropuerto,,,,,16.0
+2024-02-06,El Común Caraparí,,,,,20.0
 2024-02-06,El Puente,,,,,7.5
 2024-02-06,El Puente_H (GPRS),,,,,0.63
+2024-02-06,El Villar,,,,,9.8
 2024-02-06,Guayaramerin_M (GPRS),,,,,0.2
 2024-02-06,Huancane Corapata_M (GPRS),,,,,19.8
 2024-02-06,Huarisuyo (GPRS),12.56,7.8,89.4,69.4,14.3
@@ -5741,6 +5955,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-06,Ixiamas S.(GPRS),,,,,0.4
 2024-02-06,Ixiamas_M (GPRS),,,,,40.1
 2024-02-06,Jesús de Machaca_M (GPRS),12.35,9.26,78.86,57.1,2.8
+2024-02-06,Laykacota,,,,,11.5
 2024-02-06,Mairana_M (GPRS),207.9,207.9,247.8,247.8,0.8
 2024-02-06,Mecapaca_M (GPRS),,,,,15.0
 2024-02-06,Mizque - SDC (GPRS),27.5,23.7,48.28,33.47,0.3
@@ -5777,6 +5992,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-06,Tarabuco,,,,,8.7
 2024-02-06,Templo (GPRS),7.83,3.94,96.2,67.4,1.4
 2024-02-06,Temporal - SDC (GPRS),20.49,15.4,35.68,0.06,1.5
+2024-02-06,Toledo (GPRS),16.61,5.58,96.2,39.9,10.1
 2024-02-06,Toma Ravelo_M (GPRS),,,,,14.1
 2024-02-06,Totora i_M (GPRS),,,,,3.1
 2024-02-06,Tupiza_1_H (GPRS),,,,,0.08
@@ -5784,11 +6000,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-06,Vacas - SDC (GPRS),13.45,7.7,83.3,52.27,
 2024-02-06,Viacha_M (GPRS),12.32,8.12,86.7,64.45,12.3
 2024-02-06,Vila Vila - SDC (GPRS),21.92,17.25,60.07,38.74,
+2024-02-06,Villa Charcas (GPRS),17.09,10.02,96.7,59.41,
 2024-02-06,Villa Rivero_M (GPRS),,,,,1.4
+2024-02-06,Villa Serrano (GPRS),27.59,9.54,100.0,40.1,
 2024-02-06,Villa Tunari_H (GPRS),,,,,1.23
 2024-02-06,Viscachas Chirage (GPRS),10.71,6.55,87.2,65.56,0.5
 2024-02-06,Vivero Chimboco - SDC (GPRS),18.84,16.99,63.34,51.54,
 2024-02-06,Vivero Viloma - SDC (GPRS),21.81,16.93,71.19,17.98,16.9
+2024-02-06,Yocalla,,,,,1.3
 2024-02-06,Ñucchu,,,,,16.0
 2024-02-07, Paniagua_M (GPRS),,,,,1.9
 2024-02-07,4 Esquinas (GPRS),13.34,10.16,,,0.3
@@ -5797,6 +6016,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-07,Aiquile (GPRS),39.37,21.35,61.83,25.21,1.0
 2024-02-07,Alto Peñas (GPRS),13.3,8.91,84.5,57.88,7.3
 2024-02-07,Apolo_M (GPRS),,,,,1.1
+2024-02-07,Aroma (GPRS),16.4,5.89,89.3,40.53,
 2024-02-07,Azurduy,,,,,1.0
 2024-02-07,Cabaña Forestal Oruro,,,,,3.5
 2024-02-07,Camargo_H (GPRS),,,,,0.23
@@ -5812,6 +6032,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-07,Cuatro Cañadas - Colonia Chihuahua (GPRS),35.66,33.06,60.21,49.66,3.0
 2024-02-07,Desaguadero_M,13.29,10.17,74.74,55.15,0.8
 2024-02-07,El Alto Aeropuerto,,,,,10.4
+2024-02-07,El Común Caraparí,,,,,0.3
 2024-02-07,El Puente,,,,,8.5
 2024-02-07,El Puente_H (GPRS),,,,,1.56
 2024-02-07,Guanay_H (GPRS),,,,,275.0
@@ -5822,6 +6043,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-07,Ixiamas_M (GPRS),,,,,9.5
 2024-02-07,Jesús de Machaca_M (GPRS),16.63,12.39,62.25,38.8,10.4
 2024-02-07,La Asunta_H (GPRS),,,,,4.78
+2024-02-07,Laykacota,,,,,4.8
 2024-02-07,Mairana_M (GPRS),-39.04,-39.04,0.94,0.94,0.8
 2024-02-07,Mecapaca_M (GPRS),,,,,2.2
 2024-02-07,Mizque - SDC (GPRS),30.68,26.94,36.26,26.31,0.2
@@ -5857,6 +6079,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-07,Tarata,,,,,23.5
 2024-02-07,Templo (GPRS),10.38,8.43,83.0,62.11,0.1
 2024-02-07,Temporal - SDC (GPRS),24.22,20.82,1.15,0.03,0.2
+2024-02-07,Toledo (GPRS),16.18,6.34,91.9,47.86,18.0
 2024-02-07,Totora i_M (GPRS),,,,,0.1
 2024-02-07,Trinidad Aeropuerto,,,,,30.1
 2024-02-07,Tupiza_1_H (GPRS),,,,,0.35
@@ -5864,11 +6087,15 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-07,Vacas - SDC (GPRS),18.1,14.91,58.43,45.91,0.2
 2024-02-07,Viacha_M (GPRS),13.74,9.87,76.24,57.08,3.1
 2024-02-07,Vila Vila - SDC (GPRS),26.89,22.3,45.05,32.74,3.6
+2024-02-07,Villa Charcas (GPRS),18.65,11.92,93.7,61.5,
 2024-02-07,Villa Rivero_M (GPRS),,,,,4.8
+2024-02-07,Villa Serrano (GPRS),27.26,13.14,100.0,51.25,
 2024-02-07,Viscachas Chirage (GPRS),13.23,9.45,85.4,59.46,0.1
 2024-02-07,Vivero Chimboco - SDC (GPRS),24.36,21.14,43.41,30.33,
 2024-02-07,Vivero Viloma - SDC (GPRS),26.49,23.63,46.63,9.87,
 2024-02-07,Yacuiba Aeropuerto,,,,,19.2
+2024-02-07,Yocalla,,,,,1.3
+2024-02-07,Zudañez,,,,,13.2
 2024-02-08, Paniagua_M (GPRS),,,,,57.6
 2024-02-08,4 Esquinas (GPRS),12.58,7.67,,,2.9
 2024-02-08,Achumani,,,,,3.8
@@ -5877,6 +6104,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-08,Alcantarí_Aeropuerto,,,,,11.1
 2024-02-08,Alto Peñas (GPRS),15.08,10.95,67.25,49.55,13.5
 2024-02-08,Anzaldo_M (GPRS),,,,,2.9
+2024-02-08,Aroma (GPRS),20.98,3.99,65.7,8.32,
 2024-02-08,Cabaña Forestal Oruro,,,,,2.7
 2024-02-08,Camargo_H (GPRS),,,,,1.04
 2024-02-08,Camargo_M (GPRS),,,,,10.5
@@ -5898,6 +6126,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-08,El Alto Aeropuerto,,,,,1.3
 2024-02-08,El Puente,,,,,13.8
 2024-02-08,El Puente_H (GPRS),,,,,1.54
+2024-02-08,El Villar,,,,,8.5
 2024-02-08,Guanay_H (GPRS),,,,,76.0
 2024-02-08,Guayaramerin_M (GPRS),,,,,6.2
 2024-02-08,Huancane Corapata_M (GPRS),,,,,2.0
@@ -5906,6 +6135,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-08,Isla Suriqui_M (GPRS),14.69,11.29,71.03,48.57,5.5
 2024-02-08,Jesús de Machaca_M (GPRS),17.28,13.3,50.38,32.35,0.7
 2024-02-08,La Asunta_H (GPRS),,,,,0.04
+2024-02-08,La Violeta,,,,,4.2
+2024-02-08,Laykacota,,,,,2.9
 2024-02-08,Mairana_M (GPRS),207.9,207.9,247.8,247.8,
 2024-02-08,Mizque - SDC (GPRS),27.24,22.84,56.42,42.06,0.2
 2024-02-08,Montero_Muyurina,,,,,2.8
@@ -5939,6 +6170,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-08,San Pedro - San Antonio (GPRS),31.09,28.82,81.4,74.5,0.6
 2024-02-08,San Pedro de Buena Vista (GPRS),23.73,18.43,71.14,47.76,4.4
 2024-02-08,San Pedro de Tiquina_M (GPRS),,,,,21.3
+2024-02-08,San Ramón Aeropuerto,,,,,2.4
 2024-02-08,San Roque - El Alto (GPRS),14.11,12.01,57.42,40.25,4.0
 2024-02-08,Santa Ana del Yacuma Aerop,,,,,9.6
 2024-02-08,Sarco,,,,,1.0
@@ -5951,17 +6183,21 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-08,Tarata,,,,,0.5
 2024-02-08,Templo (GPRS),10.25,6.08,85.8,68.46,0.7
 2024-02-08,Temporal - SDC (GPRS),22.18,18.4,0.57,0.04,4.7
+2024-02-08,Toledo (GPRS),19.86,3.71,72.8,24.42,0.1
 2024-02-08,Toma Ravelo_M (GPRS),,,,,8.5
 2024-02-08,Totora i_M (GPRS),,,,,4.1
 2024-02-08,Trinidad Aeropuerto,,,,,6.7
 2024-02-08,Vacas - SDC (GPRS),15.95,13.64,70.52,59.33,0.2
 2024-02-08,Viacha_M (GPRS),15.31,11.23,67.16,45.54,1.3
 2024-02-08,Vila Vila - SDC (GPRS),23.63,21.7,52.79,37.63,10.6
+2024-02-08,Villa Charcas (GPRS),18.92,10.81,98.5,66.35,
 2024-02-08,Villa Rivero_M (GPRS),,,,,3.6
+2024-02-08,Villa Serrano (GPRS),25.69,14.31,100.0,56.46,
 2024-02-08,Villa Tunari_H (GPRS),,,,,20.94
 2024-02-08,Viscachas Chirage (GPRS),13.01,8.64,82.8,54.48,1.2
 2024-02-08,Vivero Chimboco - SDC (GPRS),20.93,19.06,54.98,40.92,5.3
 2024-02-08,Vivero Viloma - SDC (GPRS),24.03,21.02,60.87,0.72,0.4
+2024-02-08,Yocalla,,,,,5.3
 2024-02-08,Ñucchu,,,,,5.5
 2024-02-09,4 Esquinas (GPRS),13.69,11.9,,,2.0
 2024-02-09,Achumani,,,,,0.4
@@ -5970,6 +6206,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-09,Alto Peñas (GPRS),14.15,12.87,61.79,54.44,0.1
 2024-02-09,Anzaldo_M (GPRS),,,,,0.1
 2024-02-09,Apolo_M (GPRS),,,,,0.3
+2024-02-09,Aroma (GPRS),21.49,4.71,54.73,8.29,
 2024-02-09,Azurduy,,,,,5.2
 2024-02-09,Buena Vista S.(GPRS),,,,,44.4
 2024-02-09,Cabaña Forestal Oruro,,,,,1.2
@@ -5982,12 +6219,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-09,Cuatro Cañadas - CEA-2 (GPRS),31.92,28.51,75.09,65.2,
 2024-02-09,Cuatro Cañadas - Colonia Chihuahua (GPRS),36.43,32.79,61.5,49.28,
 2024-02-09,Desaguadero_M,15.07,13.44,47.81,38.97,
+2024-02-09,El Común Caraparí,,,,,2.0
 2024-02-09,El Puente,,,,,4.8
 2024-02-09,Guanay_H (GPRS),,,,,17.0
 2024-02-09,Huarisuyo (GPRS),16.57,13.33,61.75,43.07,1.1
 2024-02-09,Isla Suriqui_M (GPRS),15.88,13.28,58.14,42.76,
 2024-02-09,Ixiamas_M (GPRS),,,,,6.0
 2024-02-09,Jesús de Machaca_M (GPRS),17.86,14.28,42.64,27.86,
+2024-02-09,La Violeta,,,,,3.8
 2024-02-09,Mairana_M (GPRS),207.9,207.9,247.8,247.8,
 2024-02-09,Mizque - SDC (GPRS),25.91,21.95,62.72,37.25,0.4
 2024-02-09,Montero_Muyurina,,,,,2.6
@@ -6023,12 +6262,16 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-09,Tacagua_M (GPRS),20.15,16.13,21.87,15.7,
 2024-02-09,Templo (GPRS),12.64,9.8,83.0,57.42,1.7
 2024-02-09,Temporal - SDC (GPRS),24.95,23.5,0.09,0.03,
+2024-02-09,Toledo (GPRS),19.83,4.9,75.66,22.56,
 2024-02-09,Toma Ravelo_M (GPRS),,,,,8.9
 2024-02-09,Trompillo Aeropuerto,,,,,12.2
 2024-02-09,Vacas - SDC (GPRS),17.69,14.06,73.72,43.09,
 2024-02-09,Viacha_M (GPRS),17.68,15.0,51.49,33.42,
 2024-02-09,Vila Vila - SDC (GPRS),24.15,19.9,51.65,40.82,
+2024-02-09,Villa Charcas (GPRS),19.78,11.88,97.5,66.86,
+2024-02-09,Villa Serrano (GPRS),25.94,14.51,100.0,59.24,
 2024-02-09,Villa Tunari_H (GPRS),,,,,6.37
+2024-02-09,Viru Viru Aeropuerto,,,,,4.4
 2024-02-09,Viscachas Chirage (GPRS),15.38,10.82,79.13,47.38,1.6
 2024-02-09,Vivero Chimboco - SDC (GPRS),26.05,22.73,35.46,25.29,
 2024-02-09,Vivero Viloma - SDC (GPRS),25.61,23.33,36.86,1.74,
@@ -6037,6 +6280,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-10,Aguadas (GPRS),18.71,12.88,73.11,48.17,0.6
 2024-02-10,Aiquile (GPRS),33.42,19.01,83.1,44.03,0.1
 2024-02-10,Alto Peñas (GPRS),13.01,7.4,94.4,64.83,
+2024-02-10,Aroma (GPRS),24.14,8.55,83.2,15.4,
 2024-02-10,Azurduy,,,,,6.0
 2024-02-10,Caranavi_H (GPRS),,,,,0.04
 2024-02-10,Chua Cocani_M (GPRS),16.13,10.15,81.0,55.78,
@@ -6048,6 +6292,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-10,Cuatro Cañadas - Colonia Chihuahua (GPRS),28.6,25.91,96.7,82.4,4.6
 2024-02-10,Desaguadero_M,16.71,12.46,65.23,48.5,0.6
 2024-02-10,El Puente_H (GPRS),,,,,0.13
+2024-02-10,El Villar,,,,,2.7
 2024-02-10,Huarisuyo (GPRS),15.35,7.14,90.3,62.53,
 2024-02-10,Incapampa - Coroico_M (GPRS),,,,,0.7
 2024-02-10,Isla Suriqui_M (GPRS),15.42,12.17,78.85,62.91,
@@ -6091,16 +6336,21 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-10,Tacagua_M (GPRS),17.89,13.45,58.57,33.81,
 2024-02-10,Templo (GPRS),12.68,9.05,90.8,64.39,
 2024-02-10,Temporal - SDC (GPRS),20.5,16.93,34.07,0.05,0.4
+2024-02-10,Toledo (GPRS),20.65,8.55,88.6,29.07,
 2024-02-10,Toma Ravelo_M (GPRS),,,,,3.3
 2024-02-10,Trinidad Aeropuerto,,,,,2.4
 2024-02-10,Trompillo Aeropuerto,,,,,0.8
 2024-02-10,Vacas - SDC (GPRS),207.7,9.92,95.0,63.73,
 2024-02-10,Viacha_M (GPRS),13.42,11.06,83.2,58.65,
 2024-02-10,Vila Vila - SDC (GPRS),23.81,21.61,55.05,41.08,
+2024-02-10,Villa Charcas (GPRS),18.18,11.31,97.0,67.92,
+2024-02-10,Villa Serrano (GPRS),24.84,14.63,100.0,63.18,
 2024-02-10,Villa Tunari_H (GPRS),,,,,1.02
+2024-02-10,Viru Viru Aeropuerto,,,,,2.1
 2024-02-10,Viscachas Chirage (GPRS),15.51,12.05,75.7,51.58,0.1
 2024-02-10,Vivero Chimboco - SDC (GPRS),21.54,14.8,96.9,43.98,12.7
 2024-02-10,Vivero Viloma - SDC (GPRS),23.29,20.41,70.43,54.74,5.4
+2024-02-10,Yocalla,,,,,1.0
 2024-02-11, Paniagua_M (GPRS),,,,,58.4
 2024-02-11,4 Esquinas (GPRS),11.45,7.77,,,1.8
 2024-02-11,Achumani,,,,,40.5
@@ -6110,6 +6360,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-11,Alto Peñas (GPRS),13.64,9.3,89.4,66.95,39.2
 2024-02-11,Anzaldo_M (GPRS),,,,,0.4
 2024-02-11,Apolo_M (GPRS),,,,,2.2
+2024-02-11,Aroma (GPRS),21.37,8.26,95.9,27.31,
 2024-02-11,Azurduy,,,,,5.3
 2024-02-11,Buena Vista S.(GPRS),,,,,13.6
 2024-02-11,Cabaña Forestal Oruro,,,,,7.5
@@ -6127,6 +6378,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-11,Cuatro Cañadas - Colonia Chihuahua (GPRS),33.04,24.49,97.9,66.82,0.2
 2024-02-11,Desaguadero_M,14.93,11.45,76.6,55.96,7.3
 2024-02-11,El Alto Aeropuerto,,,,,27.8
+2024-02-11,El Villar,,,,,10.6
 2024-02-11,Guanay_H (GPRS),,,,,510.0
 2024-02-11,Guayaramerin_M (GPRS),,,,,24.0
 2024-02-11,Huancane Corapata_M (GPRS),,,,,25.0
@@ -6137,6 +6389,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-11,Ixiamas_M (GPRS),,,,,18.1
 2024-02-11,Jesús de Machaca_M (GPRS),15.84,13.36,58.54,51.7,1.2
 2024-02-11,La Asunta_H (GPRS),,,,,3.44
+2024-02-11,La Violeta,,,,,1.6
+2024-02-11,Laykacota,,,,,46.0
 2024-02-11,Mairana_M (GPRS),207.9,207.9,247.8,247.8,0.6
 2024-02-11,Mecapaca_M (GPRS),,,,,26.3
 2024-02-11,Mizque - SDC (GPRS),21.11,17.55,78.86,53.23,0.3
@@ -6161,6 +6415,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-11,Salo_M (GPRS),,,,,0.3
 2024-02-11,San Ignacio de Velasco Aerop,,,,,17.2
 2024-02-11,San Jacinto_M (GPRS),27.93,22.13,72.41,43.8,
+2024-02-11,San Julian,,,,,28.0
 2024-02-11,San Julian - Comunidad Los Angeles (GPRS),31.19,28.2,87.2,73.57,8.4
 2024-02-11,San Julian - Nucleo 32 (GPRS),31.7,28.37,,,2.8
 2024-02-11,San Pedro - Río Victoria (GPRS),30.78,29.29,78.24,72.44,0.2
@@ -6178,23 +6433,29 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-11,Tarabuco,,,,,3.0
 2024-02-11,Templo (GPRS),8.54,5.82,98.1,84.4,7.0
 2024-02-11,Temporal - SDC (GPRS),20.28,13.04,65.43,0.05,
+2024-02-11,Toledo (GPRS),19.84,7.29,92.6,33.91,0.9
 2024-02-11,Toma Ravelo_M (GPRS),,,,,7.2
 2024-02-11,Trinidad Aeropuerto,,,,,0.7
 2024-02-11,Trompillo Aeropuerto,,,,,0.2
 2024-02-11,Vacas - SDC (GPRS),12.67,9.51,90.5,66.79,1.2
 2024-02-11,Viacha_M (GPRS),14.55,11.79,71.2,61.65,11.5
 2024-02-11,Vila Vila - SDC (GPRS),18.75,15.11,75.33,52.64,6.0
+2024-02-11,Villa Charcas (GPRS),18.22,11.65,99.3,68.51,
 2024-02-11,Villa Rivero_M (GPRS),,,,,4.9
 2024-02-11,Villa Serrano,,,,,23.0
+2024-02-11,Villa Serrano (GPRS),25.74,14.86,100.0,60.32,
+2024-02-11,Viru Viru Aeropuerto,,,,,8.4
 2024-02-11,Viscachas Chirage (GPRS),12.36,9.32,89.1,72.01,1.2
 2024-02-11,Vivero Chimboco - SDC (GPRS),18.67,13.53,99.4,65.26,
 2024-02-11,Vivero Viloma - SDC (GPRS),23.83,17.15,76.69,16.54,0.5
+2024-02-11,Zudañez,,,,,8.3
 2024-02-11,Ñucchu,,,,,12.0
 2024-02-12,4 Esquinas (GPRS),10.84,8.24,,,8.4
 2024-02-12,Achumani,,,,,1.6
 2024-02-12,Aguadas (GPRS),11.12,9.52,88.6,72.88,2.9
 2024-02-12,Aiquile (GPRS),26.01,15.93,94.0,58.12,11.6
 2024-02-12,Alto Peñas (GPRS),12.08,12.08,75.27,75.27,1.4
+2024-02-12,Aroma (GPRS),16.64,9.27,95.0,56.45,
 2024-02-12,Azurduy,,,,,7.0
 2024-02-12,Buena Vista S.(GPRS),,,,,4.0
 2024-02-12,Cabaña Forestal Oruro,,,,,3.7
@@ -6213,6 +6474,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-12,Cuatro Cañadas - Colonia Chihuahua (GPRS),34.04,24.22,98.5,54.22,0.2
 2024-02-12,Desaguadero_M,15.0,13.58,67.86,58.5,2.2
 2024-02-12,El Alto Aeropuerto,,,,,4.0
+2024-02-12,El Común Caraparí,,,,,25.6
+2024-02-12,El Villar,,,,,7.2
 2024-02-12,Guayaramerin_M (GPRS),,,,,23.4
 2024-02-12,Huancane Corapata_M (GPRS),,,,,0.8
 2024-02-12,Huarisuyo (GPRS),14.93,7.8,95.6,60.29,0.4
@@ -6221,6 +6484,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-12,Ixiamas_M (GPRS),,,,,63.0
 2024-02-12,Jesús de Machaca_M (GPRS),13.1,10.37,79.71,62.62,3.4
 2024-02-12,La Asunta_H (GPRS),,,,,0.2
+2024-02-12,La Violeta,,,,,2.8
+2024-02-12,Laykacota,,,,,1.1
 2024-02-12,Mairana_M (GPRS),207.9,207.9,247.8,247.8,
 2024-02-12,Mecapaca_M (GPRS),,,,,0.7
 2024-02-12,Mizque - SDC (GPRS),25.01,21.08,62.18,39.6,0.3
@@ -6264,18 +6529,23 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-12,Tarabuco,,,,,15.0
 2024-02-12,Templo (GPRS),7.91,6.93,93.3,83.4,6.0
 2024-02-12,Temporal - SDC (GPRS),20.19,17.4,0.15,0.08,10.7
+2024-02-12,Toledo (GPRS),19.66,7.97,95.7,40.04,20.1
 2024-02-12,Toma Ravelo_M (GPRS),,,,,6.1
 2024-02-12,Totora i_M (GPRS),,,,,2.2
 2024-02-12,Trinidad Aeropuerto,,,,,51.3
 2024-02-12,Vacas - SDC (GPRS),15.47,11.71,82.4,61.61,0.1
 2024-02-12,Viacha_M (GPRS),13.49,9.29,86.8,58.33,0.3
 2024-02-12,Vila Vila - SDC (GPRS),22.39,20.26,59.74,47.16,6.7
+2024-02-12,Villa Charcas (GPRS),19.85,11.07,98.7,63.11,
 2024-02-12,Villa Rivero_M (GPRS),,,,,0.1
 2024-02-12,Villa Serrano,,,,,18.0
+2024-02-12,Villa Serrano (GPRS),26.09,15.05,100.0,53.97,0.1
 2024-02-12,Villa Tunari_H (GPRS),,,,,10.17
+2024-02-12,Viru Viru Aeropuerto,,,,,0.1
 2024-02-12,Viscachas Chirage (GPRS),14.08,12.23,74.26,64.43,2.9
 2024-02-12,Vivero Chimboco - SDC (GPRS),20.07,17.4,74.83,39.49,9.9
 2024-02-12,Vivero Viloma - SDC (GPRS),25.14,21.98,53.76,2.83,
+2024-02-12,Zudañez,,,,,19.0
 2024-02-12,Ñucchu,,,,,10.0
 2024-02-13, Paniagua_M (GPRS),,,,,10.6
 2024-02-13,4 Esquinas (GPRS),10.64,8.53,,,17.6
@@ -6286,6 +6556,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-13,Alto Peñas (GPRS),9.7,7.7,95.1,84.5,5.9
 2024-02-13,Anzaldo_M (GPRS),,,,,9.4
 2024-02-13,Apolo_M (GPRS),,,,,0.2
+2024-02-13,Aroma (GPRS),15.7,7.24,97.9,54.65,
 2024-02-13,Buena Vista S.(GPRS),,,,,21.6
 2024-02-13,Cabaña Forestal Oruro,,,,,2.8
 2024-02-13,Camargo_H (GPRS),,,,,1.35
@@ -6305,8 +6576,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-13,Cuatro Cañadas - Colonia Chihuahua (GPRS),29.33,22.52,98.3,68.14,10.0
 2024-02-13,Desaguadero_M,14.81,12.98,70.12,56.57,1.9
 2024-02-13,El Alto Aeropuerto,,,,,6.8
+2024-02-13,El Común Caraparí,,,,,10.6
 2024-02-13,El Puente,,,,,21.3
 2024-02-13,El Puente_H (GPRS),,,,,1.14
+2024-02-13,El Villar,,,,,2.8
 2024-02-13,Guayaramerin_M (GPRS),,,,,22.0
 2024-02-13,Huancane Corapata_M (GPRS),,,,,35.3
 2024-02-13,Huarisuyo (GPRS),13.41,9.68,88.3,69.88,3.0
@@ -6316,6 +6589,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-13,Ixiamas_M (GPRS),,,,,0.1
 2024-02-13,Jesús de Machaca_M (GPRS),13.95,12.64,72.36,61.94,1.0
 2024-02-13,La Asunta_H (GPRS),,,,,0.49
+2024-02-13,La Violeta,,,,,6.4
+2024-02-13,Laykacota,,,,,7.4
 2024-02-13,Mairana_M (GPRS),207.9,207.9,247.8,247.8,
 2024-02-13,Mecapaca_M (GPRS),,,,,9.9
 2024-02-13,Mizque - SDC (GPRS),18.93,17.16,90.2,73.52,0.3
@@ -6361,6 +6636,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-13,Tarata,,,,,3.0
 2024-02-13,Templo (GPRS),8.17,6.76,96.1,88.0,16.0
 2024-02-13,Temporal - SDC (GPRS),17.17,13.95,88.9,66.92,5.8
+2024-02-13,Toledo (GPRS),15.1,6.74,97.3,60.73,17.8
 2024-02-13,Toma Ravelo_M (GPRS),,,,,54.5
 2024-02-13,Totora i_M (GPRS),,,,,6.6
 2024-02-13,Trinidad Aeropuerto,,,,,5.8
@@ -6370,13 +6646,18 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-13,Vacas - SDC (GPRS),10.79,9.66,97.1,80.5,2.2
 2024-02-13,Viacha_M (GPRS),15.45,12.89,72.02,62.63,7.3
 2024-02-13,Vila Vila - SDC (GPRS),15.28,14.01,91.0,79.37,16.3
+2024-02-13,Villa Charcas (GPRS),13.01,10.59,99.5,89.3,
 2024-02-13,Villa Rivero_M (GPRS),,,,,8.6
 2024-02-13,Villa Serrano,,,,,13.0
+2024-02-13,Villa Serrano (GPRS),19.06,13.8,100.0,79.16,
 2024-02-13,Villa Tunari_H (GPRS),,,,,6.05
+2024-02-13,Viru Viru Aeropuerto,,,,,1.2
 2024-02-13,Viscachas Chirage (GPRS),11.38,10.0,91.1,79.84,23.8
 2024-02-13,Vivero Chimboco - SDC (GPRS),16.75,15.13,85.0,72.23,5.2
 2024-02-13,Vivero Viloma - SDC (GPRS),18.09,13.59,97.9,64.76,31.5
 2024-02-13,Yacuiba Aeropuerto,,,,,49.8
+2024-02-13,Yocalla,,,,,5.0
+2024-02-13,Zudañez,,,,,14.1
 2024-02-13,Ñucchu,,,,,58.0
 2024-02-14, Paniagua_M (GPRS),,,,,40.5
 2024-02-14,4 Esquinas (GPRS),11.92,8.04,,,4.0
@@ -6387,6 +6668,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-14,Alto Peñas (GPRS),13.24,10.32,89.0,72.21,9.0
 2024-02-14,Anzaldo_M (GPRS),,,,,3.1
 2024-02-14,Apolo_M (GPRS),,,,,39.7
+2024-02-14,Aroma (GPRS),17.63,8.28,95.9,49.27,
 2024-02-14,Azurduy,,,,,5.0
 2024-02-14,Buena Vista S.(GPRS),,,,,0.6
 2024-02-14,Cabaña Forestal Oruro,,,,,7.4
@@ -6406,7 +6688,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-14,Cuatro Cañadas - Colonia Chihuahua (GPRS),33.05,23.18,99.8,57.67,5.8
 2024-02-14,Desaguadero_M,14.09,12.92,68.25,60.48,16.2
 2024-02-14,El Alto Aeropuerto,,,,,9.3
+2024-02-14,El Común Caraparí,,,,,0.1
 2024-02-14,El Puente_H (GPRS),,,,,0.49
+2024-02-14,El Villar,,,,,4.0
 2024-02-14,Guanay_H (GPRS),,,,,356.0
 2024-02-14,Huancane Corapata_M (GPRS),,,,,15.5
 2024-02-14,Huarisuyo (GPRS),15.55,11.76,94.6,64.66,3.5
@@ -6416,6 +6700,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-14,Ixiamas_M (GPRS),,,,,31.1
 2024-02-14,Jesús de Machaca_M (GPRS),14.71,12.13,68.7,57.9,32.2
 2024-02-14,La Asunta_H (GPRS),,,,,3.0
+2024-02-14,La Violeta,,,,,0.4
+2024-02-14,Laykacota,,,,,5.7
 2024-02-14,Mairana_M (GPRS),-39.05,-39.05,0.94,0.93,2.2
 2024-02-14,Mecapaca_M (GPRS),,,,,10.5
 2024-02-14,Mizque - SDC (GPRS),24.03,22.03,61.2,49.97,0.4
@@ -6443,12 +6729,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-14,San Ignacio de Velasco Aerop,,,,,2.8
 2024-02-14,San Jacinto_M (GPRS),23.09,17.61,73.69,55.91,0.8
 2024-02-14,San Joaquin Aeropuerto,,,,,9.2
+2024-02-14,San Julian,,,,,20.5
 2024-02-14,San Julian - Comunidad Los Angeles (GPRS),32.19,31.02,67.41,62.39,0.8
 2024-02-14,San Julian - Nucleo 32 (GPRS),31.31,28.89,,,0.4
 2024-02-14,San Pedro - Río Victoria (GPRS),30.17,28.48,73.17,68.37,20.8
 2024-02-14,San Pedro - San Antonio (GPRS),30.1,27.9,78.83,71.64,2.2
 2024-02-14,San Pedro de Buena Vista (GPRS),21.09,17.83,77.77,67.91,5.9
 2024-02-14,San Pedro de Tiquina_M (GPRS),,,,,10.4
+2024-02-14,San Ramón Aeropuerto,,,,,44.3
 2024-02-14,San Roque - El Alto (GPRS),11.71,8.42,92.5,79.88,8.7
 2024-02-14,Santa Ana del Yacuma Aerop,,,,,37.5
 2024-02-14,Sarco,,,,,4.4
@@ -6471,10 +6759,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-14,Villa Rivero_M (GPRS),,,,,3.5
 2024-02-14,Villa Tunari_H (GPRS),,,,,2.03
 2024-02-14,Villamontes Aeropuerto,,,,,58.3
+2024-02-14,Viru Viru Aeropuerto,,,,,7.4
 2024-02-14,Viscachas Chirage (GPRS),11.75,9.8,92.0,78.71,2.3
 2024-02-14,Vivero Chimboco - SDC (GPRS),22.1,20.06,67.7,52.57,5.0
 2024-02-14,Vivero Viloma - SDC (GPRS),23.37,17.35,87.2,23.76,2.2
 2024-02-14,Yacuiba Aeropuerto,,,,,4.9
+2024-02-14,Yocalla,,,,,15.0
 2024-02-14,Ñucchu,,,,,12.0
 2024-02-15, Paniagua_M (GPRS),,,,,0.1
 2024-02-15,4 Esquinas (GPRS),15.17,11.97,,,34.5
@@ -6484,6 +6774,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-15,Alto Peñas (GPRS),11.62,8.43,97.3,74.06,3.6
 2024-02-15,Anzaldo_M (GPRS),,,,,0.1
 2024-02-15,Apolo_M (GPRS),,,,,9.8
+2024-02-15,Aroma (GPRS),21.55,8.77,92.6,33.05,
 2024-02-15,Cabaña Forestal Oruro,,,,,2.1
 2024-02-15,Camargo_H (GPRS),,,,,0.03
 2024-02-15,Camargo_M (GPRS),,,,,0.4
@@ -6505,6 +6796,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-15,Ixiamas_M (GPRS),,,,,0.3
 2024-02-15,Jesús de Machaca_M (GPRS),16.23,12.97,74.95,58.41,0.3
 2024-02-15,La Asunta_H (GPRS),,,,,0.4
+2024-02-15,Laykacota,,,,,22.2
 2024-02-15,Mairana_M (GPRS),207.9,207.9,247.8,247.8,
 2024-02-15,Mecapaca_M (GPRS),,,,,6.1
 2024-02-15,Mizque - SDC (GPRS),26.24,24.73,49.84,44.37,0.3
@@ -6563,6 +6855,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-16,Cabaña Forestal Oruro,,,,,7.6
 2024-02-16,Chimore Aeropuerto,,,,,9.7
 2024-02-16,Chua Cocani_M (GPRS),13.71,10.9,79.35,66.06,9.7
+2024-02-16,Cobija Aeropuerto,,,,,0.6
 2024-02-16,Cochabamba Aeropuerto,,,,,2.1
 2024-02-16,Coroico_H (GPRS),,,,,1.17
 2024-02-16,Cotagaita (GPRS),,,,,0.5
@@ -6579,9 +6872,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-16,Incapampa - Coroico_M (GPRS),,,,,14.9
 2024-02-16,Isla Suriqui_M (GPRS),15.18,13.06,73.64,59.44,0.3
 2024-02-16,Jesús de Machaca_M (GPRS),15.58,13.24,69.88,55.48,10.1
+2024-02-16,Laykacota,,,,,1.2
 2024-02-16,Mairana_M (GPRS),207.9,207.9,247.8,247.8,
 2024-02-16,Mizque - SDC (GPRS),28.84,25.58,47.73,35.66,0.4
 2024-02-16,Pailon - Pozo del Tigre (GPRS),36.14,34.25,55.88,46.03,1.8
+2024-02-16,Pairumani,,,,,10.3
 2024-02-16,Palos Blancos_M (GPRS),,,,,9.6
 2024-02-16,Pocona - SDC (GPRS),23.3,20.13,59.52,51.94,0.3
 2024-02-16,Pojo - SDC (GPRS),25.03,23.72,63.88,56.77,0.5
@@ -6600,6 +6895,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-16,San Pedro - San Antonio (GPRS),33.41,31.64,78.81,71.02,
 2024-02-16,San Pedro de Buena Vista (GPRS),21.5,18.25,81.8,59.62,7.1
 2024-02-16,San Roque - El Alto (GPRS),16.07,14.71,66.43,52.13,1.9
+2024-02-16,Sucre SENAMHI,,,,,7.4
 2024-02-16,Sunjani (GPRS),15.35,10.34,86.6,59.5,7.5
 2024-02-16,Tacagua_M (GPRS),16.24,14.42,67.83,52.45,8.8
 2024-02-16,Templo (GPRS),12.23,8.61,86.0,65.25,4.5
@@ -6613,6 +6909,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-16,Viscachas Chirage (GPRS),14.86,11.06,82.8,61.6,
 2024-02-16,Vivero Chimboco - SDC (GPRS),25.34,22.45,52.76,41.62,
 2024-02-16,Vivero Viloma - SDC (GPRS),24.79,22.61,56.58,41.75,3.8
+2024-02-16,Yocalla,,,,,5.1
 2024-02-17, Paniagua_M (GPRS),,,,,6.2
 2024-02-17,4 Esquinas (GPRS),13.8,12.68,,,4.9
 2024-02-17,Aguadas (GPRS),14.76,13.59,70.28,59.36,0.9
@@ -6626,6 +6923,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-17,Caranavi_H (GPRS),,,,,1.06
 2024-02-17,Carura_M (GPRS),,,,,6.9
 2024-02-17,Chua Cocani_M (GPRS),16.26,14.17,65.02,54.61,
+2024-02-17,Cobija Aeropuerto,,,,,0.2
 2024-02-17,Cochabamba Aeropuerto,,,,,0.1
 2024-02-17,Coroico_H (GPRS),,,,,0.02
 2024-02-17,Cotagaita (GPRS),,,,,0.3
@@ -6634,8 +6932,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-17,Cuatro Cañadas - CEA-2 (GPRS),33.7,32.13,67.95,59.87,
 2024-02-17,Cuatro Cañadas - Colonia Chihuahua (GPRS),35.61,34.23,58.0,51.69,
 2024-02-17,Desaguadero_M,15.8,13.18,65.69,55.27,16.8
+2024-02-17,El Alto Aeropuerto,,,,,16.5
 2024-02-17,El Puente,,,,,17.6
 2024-02-17,El Puente_H (GPRS),,,,,0.49
+2024-02-17,El Villar,,,,,21.1
 2024-02-17,Guanay_H (GPRS),,,,,88.0
 2024-02-17,Guayaramerin_M (GPRS),,,,,1.3
 2024-02-17,Huancane Corapata_M (GPRS),,,,,6.9
@@ -6643,11 +6943,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-17,Incapampa - Coroico_M (GPRS),,,,,0.5
 2024-02-17,Isla Suriqui_M (GPRS),15.34,13.64,62.6,53.91,0.1
 2024-02-17,Jesús de Machaca_M (GPRS),16.94,15.39,56.72,49.85,
+2024-02-17,Laykacota,,,,,6.6
 2024-02-17,Mairana_M (GPRS),207.9,207.9,247.8,247.8,
 2024-02-17,Mecapaca_M (GPRS),,,,,2.2
 2024-02-17,Mizque - SDC (GPRS),28.22,24.13,48.44,36.62,0.3
 2024-02-17,Montero_Muyurina,,,,,4.6
 2024-02-17,Pailon - Pozo del Tigre (GPRS),35.81,34.0,56.7,48.09,
+2024-02-17,Pairumani,,,,,12.1
 2024-02-17,Palos Blancos S.(GPRS),,,,,0.2
 2024-02-17,Palos Blancos_M (GPRS),,,,,0.1
 2024-02-17,Pocona - SDC (GPRS),22.23,20.96,58.62,55.98,
@@ -6658,6 +6960,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-17,Puerto Villarroel_H (GPRS),,,,,0.26
 2024-02-17,Putucuni Calientes (GPRS),9.99,8.69,82.8,68.35,12.6
 2024-02-17,Quila Quila_M (GPRS),21.65,18.91,63.63,53.07,25.4
+2024-02-17,Riberalta Aeropuerto,,,,,1.8
 2024-02-17,Riberalta_H (GPRS),,,,,0.03
 2024-02-17,Sacacani_M (GPRS),,,,,1.2
 2024-02-17,San Jacinto_M (GPRS),27.59,17.04,62.09,54.69,
@@ -6669,22 +6972,27 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-17,San Roque - El Alto (GPRS),14.96,13.57,66.95,57.84,12.8
 2024-02-17,Santa Ana del Yacuma Aerop,,,,,0.5
 2024-02-17,Sena_H (GPRS),,,,,0.08
+2024-02-17,Sucre SENAMHI,,,,,3.6
 2024-02-17,Sultaca_M (GPRS),,,,,2.0
 2024-02-17,Sunjani (GPRS),13.84,12.65,74.5,66.41,4.1
 2024-02-17,Tacagua_M (GPRS),14.95,13.99,67.37,60.46,3.4
 2024-02-17,Tarata,,,,,0.2
 2024-02-17,Templo (GPRS),11.62,9.58,79.53,66.58,4.2
 2024-02-17,Temporal - SDC (GPRS),23.1,20.77,54.8,0.03,
+2024-02-17,Toledo (GPRS),16.39,7.32,97.8,61.46,
 2024-02-17,Toma Ravelo_M (GPRS),,,,,10.2
 2024-02-17,Totora i_M (GPRS),,,,,4.9
 2024-02-17,Trinidad Aeropuerto,,,,,3.5
 2024-02-17,Tupiza_2_H (GPRS),,,,,0.01
 2024-02-17,Viacha_M (GPRS),16.17,14.27,64.07,53.76,9.7
 2024-02-17,Vila Vila - SDC (GPRS),24.62,22.83,53.53,43.14,1.9
+2024-02-17,Villa Serrano (GPRS),25.6,13.69,100.0,71.11,
 2024-02-17,Villa Tunari_H (GPRS),,,,,4.34
 2024-02-17,Viscachas Chirage (GPRS),12.81,11.54,79.62,70.57,0.1
 2024-02-17,Vivero Chimboco - SDC (GPRS),24.31,20.22,57.43,42.32,0.1
 2024-02-17,Vivero Viloma - SDC (GPRS),24.6,22.25,61.1,18.52,
+2024-02-17,Yocalla,,,,,6.2
+2024-02-17,Zudañez,,,,,2.3
 2024-02-18, Paniagua_M (GPRS),,,,,6.4
 2024-02-18,4 Esquinas (GPRS),12.48,10.63,,,16.2
 2024-02-18,Aguadas (GPRS),18.03,14.31,74.71,52.6,15.5
@@ -6700,7 +7008,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-18,Cuatro Cañadas - CEA-2 (GPRS),33.56,32.12,67.16,59.68,
 2024-02-18,Cuatro Cañadas - Colonia Chihuahua (GPRS),35.22,33.26,62.88,54.42,
 2024-02-18,Desaguadero_M,14.62,10.89,75.72,59.64,15.5
+2024-02-18,El Común Caraparí,,,,,7.6
 2024-02-18,El Puente_H (GPRS),,,,,0.01
+2024-02-18,El Villar,,,,,8.5
 2024-02-18,Guanay_H (GPRS),,,,,167.0
 2024-02-18,Guayaramerin_M (GPRS),,,,,0.1
 2024-02-18,Huancane Corapata_M (GPRS),,,,,3.1
@@ -6712,6 +7022,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-18,Mecapaca_M (GPRS),,,,,5.1
 2024-02-18,Mizque - SDC (GPRS),24.9,21.1,59.65,38.91,0.2
 2024-02-18,Pailon - Pozo del Tigre (GPRS),35.35,34.05,60.79,54.16,
+2024-02-18,Pairumani,,,,,6.5
 2024-02-18,Palos Blancos S.(GPRS),,,,,0.2
 2024-02-18,Palos Blancos_M (GPRS),,,,,12.0
 2024-02-18,Pocona - SDC (GPRS),21.53,20.09,66.27,55.91,16.4
@@ -6731,20 +7042,25 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-18,San Pedro de Buena Vista (GPRS),21.61,15.88,82.3,51.3,37.7
 2024-02-18,San Pedro de Tiquina_M (GPRS),,,,,16.5
 2024-02-18,San Roque - El Alto (GPRS),14.56,11.79,77.98,55.37,
+2024-02-18,Sena_H (GPRS),,,,,0.2
+2024-02-18,Sucre SENAMHI,,,,,10.0
 2024-02-18,Sunjani (GPRS),16.36,12.08,83.3,55.62,9.5
 2024-02-18,Tacagua_M (GPRS),15.28,14.49,59.09,45.48,
 2024-02-18,Tarata,,,,,46.5
 2024-02-18,Templo (GPRS),12.22,9.16,82.7,67.05,13.8
 2024-02-18,Temporal - SDC (GPRS),18.93,16.89,59.16,0.03,33.4
+2024-02-18,Toledo (GPRS),17.03,7.11,95.2,53.95,5.6
 2024-02-18,Toma Ravelo_M (GPRS),,,,,29.0
 2024-02-18,Univalle (GPRS),12.25,12.25,,,
 2024-02-18,Viacha_M (GPRS),15.46,12.57,73.59,56.12,0.2
 2024-02-18,Vila Vila - SDC (GPRS),21.49,18.64,57.26,38.83,20.8
 2024-02-18,Villa Rivero_M (GPRS),,,,,33.3
+2024-02-18,Villa Serrano (GPRS),27.0,13.99,100.0,53.94,
 2024-02-18,Villa Tunari_H (GPRS),,,,,2.98
 2024-02-18,Viscachas Chirage (GPRS),14.51,11.5,80.8,57.88,12.4
 2024-02-18,Vivero Chimboco - SDC (GPRS),21.84,16.67,66.09,43.38,35.1
 2024-02-18,Vivero Viloma - SDC (GPRS),23.55,19.48,61.82,3.59,31.5
+2024-02-18,Yocalla,,,,,9.1
 2024-02-19, Paniagua_M (GPRS),,,,,3.1
 2024-02-19,4 Esquinas (GPRS),12.32,8.01,,,2.9
 2024-02-19,Aguadas (GPRS),9.99,8.11,93.6,85.0,2.2
@@ -6752,6 +7068,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-19,Alalay (GPRS),12.42,8.12,100.0,82.87,
 2024-02-19,Alto Peñas (GPRS),10.91,9.46,91.2,82.5,6.9
 2024-02-19,Buena Vista S.(GPRS),,,,,10.4
+2024-02-19,Cabaña Forestal Oruro,,,,,5.2
 2024-02-19,Camargo_H (GPRS),,,,,1.07
 2024-02-19,Camargo_M (GPRS),,,,,9.8
 2024-02-19,Campanario,,,,,18.0
@@ -6768,6 +7085,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-19,Cuatro Cañadas - CEA-2 (GPRS),27.6,24.64,92.4,77.69,13.0
 2024-02-19,Cuatro Cañadas - Colonia Chihuahua (GPRS),24.49,23.83,99.8,98.5,13.6
 2024-02-19,Desaguadero_M,13.67,10.45,80.3,66.46,24.2
+2024-02-19,El Alto Aeropuerto,,,,,12.7
 2024-02-19,El Puente,,,,,9.7
 2024-02-19,El Puente_H (GPRS),,,,,0.94
 2024-02-19,Guanay_H (GPRS),,,,,51.0
@@ -6779,11 +7097,15 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-19,Ixiamas_M (GPRS),,,,,0.1
 2024-02-19,Jesús de Machaca_M (GPRS),12.58,9.2,91.8,60.88,8.9
 2024-02-19,La Asunta_H (GPRS),,,,,0.17
+2024-02-19,Laykacota,,,,,14.2
+2024-02-19,Los Negros (GPRS),,,,,18.2
 2024-02-19,Mairana_M (GPRS),207.9,207.9,247.8,247.8,
 2024-02-19,Mecapaca_M (GPRS),,,,,2.2
 2024-02-19,Mizque - SDC (GPRS),25.01,20.05,59.15,44.4,0.2
 2024-02-19,Orinoca - UTO (GPRS),15.28,8.6,89.35,59.14,
+2024-02-19,Oruro UTO (GPRS),14.71,11.23,,,
 2024-02-19,Pailon - Pozo del Tigre (GPRS),26.62,23.23,99.8,86.0,21.4
+2024-02-19,Pairumani,,,,,7.0
 2024-02-19,Palos Blancos_M (GPRS),,,,,0.3
 2024-02-19,Pasorapa (GPRS),24.29,14.78,94.62,62.3,1.6
 2024-02-19,Patacamaya (GPRS),15.6,10.66,82.92,60.3,
@@ -6803,6 +7125,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-19,Salo_M (GPRS),,,,,8.0
 2024-02-19,San Buenaventura_M (GPRS),,,,,0.6
 2024-02-19,San Jacinto_M (GPRS),,,,,13.1
+2024-02-19,San Julian,,,,,40.2
 2024-02-19,San Julian - Comunidad Los Angeles (GPRS),24.88,23.89,100.0,93.5,0.2
 2024-02-19,San Julian - Nucleo 32 (GPRS),25.68,24.5,,,0.2
 2024-02-19,San Pedro - Río Victoria (GPRS),28.08,25.88,92.7,84.7,15.8
@@ -6811,22 +7134,576 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-19,San Pedro de Tiquina_M (GPRS),,,,,31.1
 2024-02-19,San Roque - El Alto (GPRS),11.81,10.6,87.3,71.52,9.3
 2024-02-19,Santa Ana del Yacuma Aerop,,,,,8.2
+2024-02-19,Sena_H (GPRS),,,,,2.2
 2024-02-19,Soracachi (GPRS),15.81,9.86,80.79,56.36,
+2024-02-19,Sucre SENAMHI,,,,,0.4
 2024-02-19,Sultaca_M (GPRS),,,,,5.6
 2024-02-19,Sunjani (GPRS),10.36,8.09,93.3,80.9,2.2
 2024-02-19,Tacagua_M (GPRS),17.3,13.19,74.15,46.07,0.5
 2024-02-19,Tarata,,,,,2.5
 2024-02-19,Templo (GPRS),8.92,6.08,97.4,84.2,4.1
 2024-02-19,Temporal - SDC (GPRS),20.56,15.0,80.3,0.04,2.0
+2024-02-19,Toledo (GPRS),17.74,7.38,95.4,55.23,1.6
 2024-02-19,Toma Ravelo_M (GPRS),,,,,5.9
 2024-02-19,Totora i_M (GPRS),,,,,12.9
 2024-02-19,Trinidad Aeropuerto,,,,,39.0
 2024-02-19,Tupiza_1_H (GPRS),,,,,1.77
 2024-02-19,Tupiza_2_H (GPRS),,,,,1.48
 2024-02-19,UTO Oruro (GPRS),14.71,11.23,,,
+2024-02-19,Univalle (GPRS),13.58,13.58,,,5.17
 2024-02-19,Viacha_M (GPRS),13.81,8.11,91.9,65.76,8.5
 2024-02-19,Vila Vila - SDC (GPRS),20.24,14.79,88.3,55.09,4.8
+2024-02-19,Villa Serrano (GPRS),22.83,13.75,100.0,67.5,
 2024-02-19,Villa Tunari_H (GPRS),,,,,0.42
+2024-02-19,Viru Viru Aeropuerto,,,,,7.9
 2024-02-19,Viscachas Chirage (GPRS),10.34,9.5,91.8,82.3,13.6
 2024-02-19,Vivero Chimboco - SDC (GPRS),19.93,14.69,94.4,58.99,0.1
 2024-02-19,Vivero Viloma - SDC (GPRS),24.27,16.3,78.17,0.91,1.7
+2024-02-19,Yacuiba Aeropuerto,,,,,2.9
+2024-02-19,Yocalla,,,,,5.2
+2024-02-19,Zudañez,,,,,9.0
+2024-02-20, Paniagua_M (GPRS),,,,,33.3
+2024-02-20,4 Esquinas (GPRS),11.73,8.0,,,10.6
+2024-02-20,Aguadas (GPRS),13.19,8.84,90.1,65.47,18.7
+2024-02-20,Aiquile (GPRS),31.75,16.36,94.0,46.53,3.6
+2024-02-20,Alalay (GPRS),9.73,8.17,,,1.4
+2024-02-20,Alto Peñas (GPRS),14.73,10.49,83.4,59.92,3.7
+2024-02-20,Anzaldo_M (GPRS),,,,,0.1
+2024-02-20,Apolo_M (GPRS),,,,,39.6
+2024-02-20,Cabaña Forestal Oruro,,,,,3.2
+2024-02-20,Caranavi_H (GPRS),,,,,0.8
+2024-02-20,Carura_M (GPRS),,,,,76.8
+2024-02-20,Charazani (GPRS),13.66,10.59,94.63,70.23,4.6
+2024-02-20,Chua Cocani_M (GPRS),15.09,11.49,76.43,59.55,0.2
+2024-02-20,Coroico_H (GPRS),,,,,1.43
+2024-02-20,Cotagaita (GPRS),,,,,1.4
+2024-02-20,Cotagaita_H (GPRS),,,,,0.12
+2024-02-20,Covendo_M (GPRS),,,,,25.6
+2024-02-20,Cuatro Cañadas - CEA-2 (GPRS),32.85,31.36,69.51,63.32,
+2024-02-20,Cuatro Cañadas - Colonia Chihuahua (GPRS),32.27,30.83,74.78,67.04,15.4
+2024-02-20,Desaguadero_M,15.92,11.94,74.68,53.9,1.3
+2024-02-20,El Alto Aeropuerto,,,,,11.6
+2024-02-20,Guanay_H (GPRS),,,,,741.0
+2024-02-20,Guayaramerin_M (GPRS),,,,,15.2
+2024-02-20,Huancane Corapata_M (GPRS),,,,,6.8
+2024-02-20,Huarisuyo (GPRS),15.67,9.56,85.2,62.93,5.8
+2024-02-20,Incapampa - Coroico_M (GPRS),,,,,23.5
+2024-02-20,Isla Suriqui_M (GPRS),13.97,9.26,89.5,63.42,0.9
+2024-02-20,Ixiamas S.(GPRS),,,,,58.4
+2024-02-20,Ixiamas_M (GPRS),,,,,87.7
+2024-02-20,Jesús de Machaca_M (GPRS),15.83,13.1,68.25,54.26,1.8
+2024-02-20,La Asunta_H (GPRS),,,,,1.14
+2024-02-20,Laykacota,,,,,8.8
+2024-02-20,Mairana_M (GPRS),207.9,207.9,247.8,247.8,
+2024-02-20,Mecapaca_M (GPRS),,,,,2.4
+2024-02-20,Mizque - SDC (GPRS),27.4,15.02,52.79,40.18,0.2
+2024-02-20,Orinoca - UTO (GPRS),10.81,8.78,99.03,90.47,22.0
+2024-02-20,Pailon - Pozo del Tigre (GPRS),33.33,32.62,69.3,54.71,0.2
+2024-02-20,Pairumani,,,,,6.4
+2024-02-20,Palos Blancos S.(GPRS),,,,,15.6
+2024-02-20,Palos Blancos_M (GPRS),,,,,13.9
+2024-02-20,Pasorapa (GPRS),20.09,16.29,95.23,77.45,0.2
+2024-02-20,Patacamaya (GPRS),10.22,8.48,93.42,89.17,14.2
+2024-02-20,Pocona - SDC (GPRS),23.93,22.07,63.39,48.72,0.2
+2024-02-20,Pojo - SDC (GPRS),23.92,22.8,67.65,56.51,
+2024-02-20,Potolo_M (GPRS),0.0,0.0,0.0,0.0,
+2024-02-20,Presa Misicuni (GPRS),,,,,12.3
+2024-02-20,Puente Challavito_H (GPRS),,,,,0.8
+2024-02-20,Puerto Rico S.(GPRS),,,,,0.2
+2024-02-20,Puerto Villarroel (GPRS)_M,29.65,27.78,87.4,79.27,0.2
+2024-02-20,Putucuni Calientes (GPRS),9.11,5.81,95.9,79.18,3.7
+2024-02-20,Quila Quila_M (GPRS),22.45,20.15,54.57,35.86,
+2024-02-20,Quillacas (GPRS),27.31,11.66,62.59,47.68,0.6
+2024-02-20,Riberalta Aeropuerto,,,,,24.1
+2024-02-20,Riberalta_H (GPRS),,,,,1.73
+2024-02-20,Sacabamba (GPRS),17.31,13.35,87.33,71.04,
+2024-02-20,Sacacani_M (GPRS),,,,,3.8
+2024-02-20,San Borja Aeropuerto,,,,,16.0
+2024-02-20,San Buenaventura_M (GPRS),,,,,67.3
+2024-02-20,San Jacinto_M (GPRS),26.47,23.83,66.59,49.05,
+2024-02-20,San Julian,,,,,8.0
+2024-02-20,San Julian - Comunidad Los Angeles (GPRS),31.01,29.38,82.1,74.71,0.4
+2024-02-20,San Julian - Nucleo 32 (GPRS),31.05,29.28,,,0.4
+2024-02-20,San Pedro - Río Victoria (GPRS),30.32,27.36,84.8,74.75,2.6
+2024-02-20,San Pedro - San Antonio (GPRS),30.34,22.47,96.3,79.66,1.2
+2024-02-20,San Pedro de Buena Vista (GPRS),23.32,19.93,72.64,47.29,5.9
+2024-02-20,San Pedro de Tiquina_M (GPRS),,,,,0.7
+2024-02-20,San Ramón Aeropuerto,,,,,2.1
+2024-02-20,San Roque - El Alto (GPRS),15.34,13.0,77.47,58.47,15.5
+2024-02-20,Sena_H (GPRS),,,,,0.4
+2024-02-20,Soracachi (GPRS),11.57,9.05,94.64,78.72,0.6
+2024-02-20,Sucre SENAMHI,,,,,2.4
+2024-02-20,Sultaca_M (GPRS),,,,,0.6
+2024-02-20,Sunjani (GPRS),12.52,9.28,88.0,69.26,14.3
+2024-02-20,Tacagua_M (GPRS),18.22,16.32,50.62,39.55,8.9
+2024-02-20,Templo (GPRS),10.11,6.21,96.4,83.5,5.2
+2024-02-20,Temporal - SDC (GPRS),22.81,21.02,0.27,0.03,6.8
+2024-02-20,Toledo (GPRS),18.44,5.72,95.7,36.8,8.4
+2024-02-20,Totora i_M (GPRS),,,,,6.0
+2024-02-20,Trinidad Aeropuerto,,,,,57.2
+2024-02-20,Trompillo Aeropuerto,,,,,2.4
+2024-02-20,Tupiza_2_H (GPRS),,,,,0.04
+2024-02-20,Viacha_M (GPRS),11.78,11.78,86.8,69.67,3.4
+2024-02-20,Vila Vila - SDC (GPRS),23.43,20.94,60.24,45.4,1.0
+2024-02-20,Villa Rivero_M (GPRS),,,,,12.2
+2024-02-20,Villa Serrano (GPRS),23.9,14.02,100.0,67.13,
+2024-02-20,Villa Tunari_H (GPRS),,,,,1.17
+2024-02-20,Viru Viru Aeropuerto,,,,,0.2
+2024-02-20,Viscachas Chirage (GPRS),10.92,9.77,90.1,79.39,1.3
+2024-02-20,Vivero Chimboco - SDC (GPRS),22.92,20.66,61.02,39.1,5.3
+2024-02-20,Vivero Viloma - SDC (GPRS),27.16,21.82,53.12,10.72,0.1
+2024-02-20,Zudañez,,,,,11.2
+2024-02-21, Paniagua_M (GPRS),,,,,0.6
+2024-02-21,4 Esquinas (GPRS),13.64,1.06,,,4.1
+2024-02-21,Aguadas (GPRS),18.83,2.49,92.4,46.8,5.6
+2024-02-21,Aiquile (GPRS),25.75,17.68,81.7,58.34,1.8
+2024-02-21,Alalay (GPRS),8.97,8.46,88.94,88.04,
+2024-02-21,Alto Peñas (GPRS),14.13,3.66,100.0,56.92,1.4
+2024-02-21,Apolo_M (GPRS),,,,,2.4
+2024-02-21,Cabaña Forestal Oruro,,,,,5.4
+2024-02-21,Caranavi_H (GPRS),,,,,0.08
+2024-02-21,Carura_M (GPRS),,,,,0.9
+2024-02-21,Charazani (GPRS),17.81,16.04,68.51,66.01,
+2024-02-21,Chua Cocani_M (GPRS),14.69,4.86,96.7,54.21,1.0
+2024-02-21,Cobija Aeropuerto,,,,,26.2
+2024-02-21,Coroico_H (GPRS),,,,,0.03
+2024-02-21,Cuatro Cañadas - CEA-2 (GPRS),31.23,23.46,94.7,63.96,
+2024-02-21,Cuatro Cañadas - Colonia Chihuahua (GPRS),30.7,23.05,95.4,67.87,0.2
+2024-02-21,Desaguadero_M,15.73,3.44,89.2,53.18,11.5
+2024-02-21,El Alto Aeropuerto,,,,,7.8
+2024-02-21,El Puente_H (GPRS),,,,,0.42
+2024-02-21,Guanay_H (GPRS),,,,,12.0
+2024-02-21,Guayaramerin_M (GPRS),,,,,56.0
+2024-02-21,Huancane Corapata_M (GPRS),,,,,0.6
+2024-02-21,Huarisuyo (GPRS),14.8,3.5,98.4,61.05,0.7
+2024-02-21,Incapampa - Coroico_M (GPRS),,,,,0.5
+2024-02-21,Isla Suriqui_M (GPRS),15.48,5.53,93.5,53.66,5.4
+2024-02-21,Ixiamas S.(GPRS),,,,,9.8
+2024-02-21,Ixiamas_M (GPRS),,,,,12.3
+2024-02-21,Jesús de Machaca_M (GPRS),15.84,11.93,62.51,46.8,27.6
+2024-02-21,Laykacota,,,,,11.7
+2024-02-21,Mairana_M (GPRS),207.9,207.9,247.8,247.8,
+2024-02-21,Mecapaca_M (GPRS),,,,,2.5
+2024-02-21,Mizque - SDC (GPRS),29.29,14.5,95.8,32.23,0.1
+2024-02-21,Orinoca - UTO (GPRS),7.19,6.67,91.24,90.27,
+2024-02-21,Oruro UTO (GPRS),10.26,8.08,,,0.4
+2024-02-21,Pailon - Pozo del Tigre (GPRS),31.13,23.89,93.3,64.08,
+2024-02-21,Pairumani,,,,,5.1
+2024-02-21,Palos Blancos S.(GPRS),,,,,0.2
+2024-02-21,Pasorapa (GPRS),22.69,21.52,71.45,67.62,
+2024-02-21,Patacamaya (GPRS),11.1,8.37,89.92,75.04,
+2024-02-21,Pocona - SDC (GPRS),25.63,12.59,99.1,44.71,
+2024-02-21,Pojo - SDC (GPRS),26.33,17.43,86.5,46.01,
+2024-02-21,Potolo_M (GPRS),0.0,0.0,0.0,0.0,
+2024-02-21,Presa Misicuni (GPRS),,,,,4.1
+2024-02-21,Puerto Rico S.(GPRS),,,,,50.4
+2024-02-21,Puerto Villarroel (GPRS)_M,24.77,24.77,90.4,90.4,0.2
+2024-02-21,Putucuni Calientes (GPRS),10.39,1.82,97.0,61.88,0.5
+2024-02-21,Quila Quila_M (GPRS),20.75,10.63,90.4,47.9,0.6
+2024-02-21,Quillacas (GPRS),60.0,60.0,84.84,73.6,
+2024-02-21,Riberalta Aeropuerto,,,,,46.6
+2024-02-21,Riberalta_H (GPRS),,,,,3.93
+2024-02-21,Rio Tahuamanu (GPRS),,,,,6.4
+2024-02-21,Rosario del Ingre,,,,,29.0
+2024-02-21,Sacabamba (GPRS),14.63,13.13,87.66,78.12,
+2024-02-21,Sacacani_M (GPRS),,,,,7.6
+2024-02-21,San Borja Aeropuerto,,,,,19.9
+2024-02-21,San Buenaventura_M (GPRS),,,,,8.2
+2024-02-21,San Jacinto_M (GPRS),26.44,13.11,99.2,51.93,
+2024-02-21,San Julian - Comunidad Los Angeles (GPRS),30.41,22.64,97.5,71.52,0.2
+2024-02-21,San Julian - Nucleo 32 (GPRS),30.46,22.86,,,0.4
+2024-02-21,San Pedro - Río Victoria (GPRS),28.65,22.54,93.5,76.62,
+2024-02-21,San Pedro - San Antonio (GPRS),29.34,22.27,96.0,81.8,
+2024-02-21,San Pedro de Buena Vista (GPRS),22.33,10.88,99.7,56.21,7.9
+2024-02-21,San Pedro de Tiquina_M (GPRS),,,,,7.7
+2024-02-21,San Ramón Aeropuerto,,,,,54.1
+2024-02-21,San Roque - El Alto (GPRS),16.12,5.23,96.7,52.0,4.3
+2024-02-21,Sena_H (GPRS),,,,,40.9
+2024-02-21,Soracachi (GPRS),8.42,7.79,88.9,86.05,
+2024-02-21,Sunjani (GPRS),15.55,1.73,94.0,54.96,0.7
+2024-02-21,Tacagua_M (GPRS),16.45,6.84,95.4,46.34,4.2
+2024-02-21,Templo (GPRS),12.15,0.31,97.2,62.44,0.7
+2024-02-21,Temporal - SDC (GPRS),25.58,10.8,97.8,0.03,
+2024-02-21,Toledo (GPRS),17.8,3.02,94.4,41.47,11.4
+2024-02-21,Totora i_M (GPRS),,,,,0.1
+2024-02-21,Trinidad Aeropuerto,,,,,24.1
+2024-02-21,Tupiza_1_H (GPRS),,,,,0.03
+2024-02-21,Viacha_M (GPRS),14.53,5.62,95.6,54.01,3.4
+2024-02-21,Vila Vila - SDC (GPRS),24.09,12.32,94.5,42.24,
+2024-02-21,Villa Rivero_M (GPRS),,,,,0.3
+2024-02-21,Villa Serrano (GPRS),24.54,13.07,100.0,67.39,
+2024-02-21,Viru Viru Aeropuerto,,,,,0.1
+2024-02-21,Viscachas Chirage (GPRS),13.88,3.93,95.6,60.09,0.6
+2024-02-21,Vivero Chimboco - SDC (GPRS),25.47,11.51,99.4,31.64,
+2024-02-21,Vivero Viloma - SDC (GPRS),27.4,11.93,99.0,4.09,
+2024-02-22,4 Esquinas (GPRS),13.27,9.94,,,5.5
+2024-02-22,Aguadas (GPRS),17.2,8.72,83.6,48.03,3.0
+2024-02-22,Aiquile (GPRS),33.82,16.48,90.4,38.52,14.0
+2024-02-22,Alto Peñas (GPRS),14.59,11.09,67.58,54.07,10.6
+2024-02-22,Cabaña Forestal Oruro,,,,,6.1
+2024-02-22,Chua Cocani_M (GPRS),14.56,11.61,67.81,48.93,9.9
+2024-02-22,Cobija Aeropuerto,,,,,1.5
+2024-02-22,Cotagaita (GPRS),,,,,8.4
+2024-02-22,Cuatro Cañadas - CEA-2 (GPRS),31.95,24.38,93.5,61.58,
+2024-02-22,Cuatro Cañadas - Colonia Chihuahua (GPRS),31.68,28.87,74.51,65.15,0.2
+2024-02-22,Desaguadero_M,16.06,13.31,56.11,42.43,8.9
+2024-02-22,El Villar,,,,,13.5
+2024-02-22,Huancane Corapata_M (GPRS),,,,,3.0
+2024-02-22,Huarisuyo (GPRS),16.35,12.56,65.16,53.22,0.4
+2024-02-22,Isla Suriqui_M (GPRS),13.51,11.46,65.34,54.88,4.2
+2024-02-22,Jesús de Machaca_M (GPRS),17.14,0.52,93.7,25.18,0.1
+2024-02-22,Laykacota,,,,,4.1
+2024-02-22,Mairana_M (GPRS),207.9,207.9,247.8,247.8,
+2024-02-22,Mizque - SDC (GPRS),27.81,23.53,47.56,31.12,0.2
+2024-02-22,Pailon - Pozo del Tigre (GPRS),30.47,29.88,69.34,61.4,
+2024-02-22,Pocona - SDC (GPRS),24.26,21.93,60.15,44.67,27.6
+2024-02-22,Pojo - SDC (GPRS),25.82,24.88,67.07,48.5,
+2024-02-22,Potolo_M (GPRS),0.0,0.0,0.0,0.0,
+2024-02-22,Presa Misicuni (GPRS),,,,,2.0
+2024-02-22,Putucuni Calientes (GPRS),10.87,9.18,87.7,59.27,14.2
+2024-02-22,Quila Quila_M (GPRS),21.14,18.51,61.41,51.05,0.2
+2024-02-22,Riberalta Aeropuerto,,,,,17.2
+2024-02-22,Rosario del Ingre,,,,,19.5
+2024-02-22,Sacacani_M (GPRS),,,,,0.7
+2024-02-22,San Jacinto_M (GPRS),28.85,25.34,56.94,36.41,
+2024-02-22,San Julian - Comunidad Los Angeles (GPRS),31.14,27.71,82.7,69.17,0.3
+2024-02-22,San Julian - Nucleo 32 (GPRS),29.68,29.15,,,0.4
+2024-02-22,San Pedro - Río Victoria (GPRS),28.11,25.4,89.6,75.21,0.6
+2024-02-22,San Pedro - San Antonio (GPRS),27.4,26.91,86.9,85.5,
+2024-02-22,San Pedro de Buena Vista (GPRS),23.47,19.72,70.37,56.43,10.1
+2024-02-22,San Pedro de Tiquina_M (GPRS),,,,,15.0
+2024-02-22,San Ramón Aeropuerto,,,,,19.3
+2024-02-22,San Roque - El Alto (GPRS),16.71,4.67,98.2,42.42,6.5
+2024-02-22,Sena_H (GPRS),,,,,57.1
+2024-02-22,Sunjani (GPRS),13.29,9.08,79.63,58.77,3.8
+2024-02-22,Tacagua_M (GPRS),15.53,12.59,57.91,34.98,7.5
+2024-02-22,Templo (GPRS),10.72,6.6,84.8,66.79,7.3
+2024-02-22,Temporal - SDC (GPRS),22.09,21.31,0.05,0.05,12.2
+2024-02-22,Toledo (GPRS),16.97,2.37,91.5,19.32,10.4
+2024-02-22,Trinidad Aeropuerto,,,,,22.2
+2024-02-22,Viacha_M (GPRS),15.39,11.52,75.99,46.91,5.5
+2024-02-22,Vila Vila - SDC (GPRS),25.13,22.17,52.88,39.4,3.0
+2024-02-22,Villa Serrano (GPRS),24.93,11.04,100.0,61.16,
+2024-02-22,Viscachas Chirage (GPRS),13.12,9.12,88.4,65.42,1.8
+2024-02-22,Vivero Chimboco - SDC (GPRS),26.23,12.78,54.68,26.55,16.0
+2024-02-22,Vivero Viloma - SDC (GPRS),24.71,21.52,59.59,12.75,6.2
+2024-02-22,Yacuiba Aeropuerto,,,,,2.4
+2024-02-23,4 Esquinas (GPRS),15.15,9.04,,,0.8
+2024-02-23,Aguadas (GPRS),17.71,10.46,70.44,53.36,3.8
+2024-02-23,Aiquile (GPRS),31.3,19.07,79.96,55.25,
+2024-02-23,Alto Peñas (GPRS),12.2,8.53,88.8,66.63,0.9
+2024-02-23,Camiri,34.0,23.0,87.8,46.3,
+2024-02-23,Chua Cocani_M (GPRS),13.78,11.03,71.59,53.15,
+2024-02-23,Cobija,30.0,25.0,99.1,74.0,
+2024-02-23,Cobija Aeropuerto,,,,,26.1
+2024-02-23,Cochabamba,27.0,15.0,76.9,39.1,
+2024-02-23,Concepcion,26.0,22.0,99.1,77.9,
+2024-02-23,Cuatro Cañadas - CEA-2 (GPRS),31.79,25.03,98.0,64.35,
+2024-02-23,Cuatro Cañadas - Colonia Chihuahua (GPRS),31.62,24.94,97.3,65.86,
+2024-02-23,Desaguadero_M,17.02,9.45,77.93,43.61,
+2024-02-23,El Alto,16.0,6.0,99.3,36.0,
+2024-02-23,El Villar,,,,,0.5
+2024-02-23,Huarisuyo (GPRS),15.51,9.94,79.82,53.8,0.1
+2024-02-23,Isla Suriqui_M (GPRS),15.15,8.34,86.5,52.22,
+2024-02-23,Jesús de Machaca_M (GPRS),17.27,12.97,49.64,38.73,
+2024-02-23,Magdalena,29.0,26.0,93.4,73.8,
+2024-02-23,Mizque - SDC (GPRS),28.7,26.22,42.57,30.54,
+2024-02-23,Oruro (GPRS),16.0,10.0,81.0,50.6,
+2024-02-23,Pailon - Pozo del Tigre (GPRS),31.38,25.77,93.2,63.83,
+2024-02-23,Pocona - SDC (GPRS),26.86,22.21,57.02,42.41,
+2024-02-23,Pojo - SDC (GPRS),26.68,25.36,63.94,48.89,
+2024-02-23,Potolo_M (GPRS),0.0,0.0,0.0,0.0,
+2024-02-23,Potosí,18.0,11.0,70.8,45.1,
+2024-02-23,Presa Misicuni (GPRS),,,,,4.4
+2024-02-23,Puerto Suarez,34.0,28.0,83.0,55.5,
+2024-02-23,Puerto Suarez Aeropuerto (F),34.0,28.0,83.0,55.5,
+2024-02-23,Putucuni Calientes (GPRS),11.56,6.83,83.6,63.21,
+2024-02-23,Quila Quila_M (GPRS),21.73,18.39,53.78,42.56,
+2024-02-23,Reyes,32.0,26.0,87.9,65.8,
+2024-02-23,Riberalta,26.0,23.0,99.1,82.8,
+2024-02-23,Riberalta Aeropuerto,,,,,92.0
+2024-02-23,Riberalta_H (GPRS),,,,,5.1
+2024-02-23,Robore,32.0,29.0,73.8,58.5,
+2024-02-23,Rurrenabaque,30.0,25.0,93.3,74.0,
+2024-02-23,San Jacinto_M (GPRS),27.83,15.4,98.8,46.93,
+2024-02-23,San Javier,29.0,27.0,82.9,73.8,
+2024-02-23,San Javier Aeropuerto (F),29.0,27.0,82.9,73.8,
+2024-02-23,San Joaquin,27.0,25.0,93.3,82.9,
+2024-02-23,San Jose de Chiquitos,30.0,26.0,82.8,65.6,
+2024-02-23,San Julian - Comunidad Los Angeles (GPRS),31.59,24.94,97.5,67.15,0.2
+2024-02-23,San Julian - Nucleo 32 (GPRS),31.77,25.03,,,0.2
+2024-02-23,San Pedro - Río Victoria (GPRS),30.66,27.77,79.5,70.86,1.2
+2024-02-23,San Pedro - San Antonio (GPRS),30.07,24.25,95.9,79.67,
+2024-02-23,San Pedro de Buena Vista (GPRS),22.71,15.76,73.13,56.55,0.4
+2024-02-23,San Roque - El Alto (GPRS),18.47,15.29,54.52,40.64,
+2024-02-23,Santa Ana - Yacuma,27.0,23.0,99.1,78.1,
+2024-02-23,Sena_H (GPRS),,,,,4.8
+2024-02-23,Sunjani (GPRS),16.47,10.37,76.92,52.23,0.3
+2024-02-23,Tacagua_M (GPRS),20.27,16.32,35.63,23.66,
+2024-02-23,Tarija,28.0,18.0,93.2,39.3,
+2024-02-23,Templo (GPRS),12.77,7.97,81.2,58.27,0.1
+2024-02-23,Temporal - SDC (GPRS),24.83,15.56,0.56,0.02,
+2024-02-23,Toledo (GPRS),11.86,7.4,68.18,48.35,
+2024-02-23,Trinidad,30.0,24.0,93.3,69.7,
+2024-02-23,Trinidad Aeropuerto,,,,,1.5
+2024-02-23,Viacha_M (GPRS),16.56,14.99,55.4,40.07,0.1
+2024-02-23,Vila Vila - SDC (GPRS),25.16,22.59,45.19,33.88,
+2024-02-23,Villa Serrano (GPRS),27.67,14.21,100.0,52.8,
+2024-02-23,Villamontes,38.0,30.0,65.6,34.9,
+2024-02-23,Viru Viru,30.0,24.0,99.1,69.7,
+2024-02-23,Viru Viru Aeropuerto,,,,,0.7
+2024-02-23,Viscachas Chirage (GPRS),14.42,10.24,74.86,57.66,4.4
+2024-02-23,Vivero Chimboco - SDC (GPRS),25.52,18.49,67.82,37.91,
+2024-02-23,Vivero Viloma - SDC (GPRS),27.0,14.28,53.48,34.04,
+2024-02-23,Yacuiba,35.0,31.0,58.5,52.3,
+2024-02-24, Paniagua_M (GPRS),,,,,4.1
+2024-02-24,4 Esquinas (GPRS),9.61,7.32,,,5.9
+2024-02-24,Aguadas (GPRS),11.73,8.99,88.2,70.86,4.1
+2024-02-24,Aiquile (GPRS),32.02,19.21,67.39,48.97,
+2024-02-24,Alto Peñas (GPRS),13.34,10.64,71.02,57.26,5.4
+2024-02-24,Apolo_M (GPRS),,,,,39.2
+2024-02-24,Buena Vista S.(GPRS),,,,,6.0
+2024-02-24,Camiri,31.0,23.0,87.8,54.8,
+2024-02-24,Caranavi_H (GPRS),,,,,8.4
+2024-02-24,Carura_M (GPRS),,,,,11.5
+2024-02-24,Chua Cocani_M (GPRS),14.43,12.14,71.6,60.33,0.9
+2024-02-24,Cobija,30.0,23.0,99.1,69.7,
+2024-02-24,Cobija Aeropuerto,,,,,8.2
+2024-02-24,Cochabamba,23.0,17.0,62.9,43.4,
+2024-02-24,Concepcion,24.0,22.0,99.1,87.9,
+2024-02-24,Coroico_H (GPRS),,,,,11.9
+2024-02-24,Cotagaita_H (GPRS),,,,,0.1
+2024-02-24,Covendo_M (GPRS),,,,,13.1
+2024-02-24,Cuatro Cañadas - CEA-2 (GPRS),29.77,26.02,93.3,75.37,1.8
+2024-02-24,Cuatro Cañadas - Colonia Chihuahua (GPRS),30.38,28.41,75.22,68.38,
+2024-02-24,Desaguadero_M,15.72,12.98,63.73,54.55,
+2024-02-24,El Alto,12.0,7.0,92.8,61.8,
+2024-02-24,El Puente_H (GPRS),,,,,3.1
+2024-02-24,El Villar,,,,,7.3
+2024-02-24,Guanay_H (GPRS),,,,,57.0
+2024-02-24,Guayaramerin_M (GPRS),,,,,15.7
+2024-02-24,Huancane Corapata_M (GPRS),,,,,5.2
+2024-02-24,Huarisuyo (GPRS),14.61,10.19,79.5,53.56,0.9
+2024-02-24,Isla Suriqui_M (GPRS),15.02,11.09,73.2,48.84,
+2024-02-24,Ixiamas S.(GPRS),,,,,1.8
+2024-02-24,Ixiamas_M (GPRS),,,,,0.4
+2024-02-24,Jesús de Machaca_M (GPRS),16.17,9.72,84.6,47.2,
+2024-02-24,La Asunta_H (GPRS),,,,,19.7
+2024-02-24,Magdalena,29.0,28.0,78.2,73.8,
+2024-02-24,Mecapaca_M (GPRS),,,,,3.6
+2024-02-24,Mizque - SDC (GPRS),26.11,22.93,53.42,39.34,0.1
+2024-02-24,Oruro (GPRS),14.0,9.0,86.7,54.3,
+2024-02-24,Pailon - Pozo del Tigre (GPRS),29.94,28.6,76.81,69.8,
+2024-02-24,Palos Blancos S.(GPRS),,,,,5.8
+2024-02-24,Pocona - SDC (GPRS),20.32,15.62,90.6,57.57,
+2024-02-24,Pojo - SDC (GPRS),25.94,23.91,54.61,46.08,
+2024-02-24,Potolo_M (GPRS),0.0,0.0,0.0,0.0,
+2024-02-24,Presa Misicuni (GPRS),,,,,3.0
+2024-02-24,Puerto Rico S.(GPRS),,,,,34.6
+2024-02-24,Puerto Villarroel_H (GPRS),,,,,5.4
+2024-02-24,Putucuni Calientes (GPRS),8.49,6.36,94.7,78.18,1.7
+2024-02-24,Quila Quila_M (GPRS),19.96,16.68,62.78,50.46,
+2024-02-24,Reyes,26.0,25.0,93.3,87.9,
+2024-02-24,Riberalta,27.0,24.0,93.3,82.9,
+2024-02-24,Riberalta_H (GPRS),,,,,1.6
+2024-02-24,Sacacani_M (GPRS),,,,,0.5
+2024-02-24,Salo_M (GPRS),,,,,3.1
+2024-02-24,San Jacinto_M (GPRS),25.24,14.78,98.2,54.67,6.6
+2024-02-24,San Jose de Chiquitos,29.0,26.0,93.4,73.8,
+2024-02-24,San Julian - Comunidad Los Angeles (GPRS),30.56,28.01,77.65,70.15,0.2
+2024-02-24,San Julian - Nucleo 32 (GPRS),28.17,27.12,,,0.4
+2024-02-24,San Pedro - Río Victoria (GPRS),27.37,25.17,91.3,82.8,5.4
+2024-02-24,San Pedro - San Antonio (GPRS),25.23,25.13,94.3,92.6,2.8
+2024-02-24,San Pedro de Buena Vista (GPRS),20.72,16.73,74.88,55.83,14.7
+2024-02-24,San Pedro de Tiquina_M (GPRS),,,,,0.1
+2024-02-24,San Roque - El Alto (GPRS),16.42,12.94,61.68,50.82,0.6
+2024-02-24,Santa Ana - Yacuma,27.0,23.0,99.1,82.9,
+2024-02-24,Sena_H (GPRS),,,,,30.7
+2024-02-24,Sultaca_M (GPRS),,,,,2.3
+2024-02-24,Sunjani (GPRS),11.04,8.09,85.9,68.89,2.9
+2024-02-24,Tacagua_M (GPRS),17.3,13.38,53.74,38.27,1.6
+2024-02-24,Tarija,25.0,18.0,87.4,60.5,
+2024-02-24,Templo (GPRS),8.3,6.06,94.9,83.1,4.5
+2024-02-24,Temporal - SDC (GPRS),19.64,18.39,0.82,0.62,1.3
+2024-02-24,Toledo (GPRS),17.97,9.79,68.26,37.89,
+2024-02-24,Trinidad,28.0,24.0,99.1,73.6,
+2024-02-24,Tupiza_1_H (GPRS),,,,,3.0
+2024-02-24,Tupiza_2_H (GPRS),,,,,0.2
+2024-02-24,Viacha_M (GPRS),14.41,11.31,70.92,56.29,0.3
+2024-02-24,Vila Vila - SDC (GPRS),22.27,19.4,56.02,42.72,
+2024-02-24,Villa Rivero_M (GPRS),,,,,9.6
+2024-02-24,Villa Serrano (GPRS),23.93,16.49,99.4,64.42,
+2024-02-24,Villa Tunari_H (GPRS),,,,,4.2
+2024-02-24,Viru Viru,29.0,23.0,99.1,78.4,
+2024-02-24,Viscachas Chirage (GPRS),12.32,8.61,88.5,69.54,1.4
+2024-02-24,Vivero Chimboco - SDC (GPRS),22.35,18.85,53.61,38.62,
+2024-02-24,Vivero Viloma - SDC (GPRS),22.07,18.98,57.48,22.58,
+2024-02-25, Paniagua_M (GPRS),,,,,10.0
+2024-02-25,4 Esquinas (GPRS),11.43,6.84,,,34.8
+2024-02-25,Aguadas (GPRS),10.66,6.96,89.2,56.61,30.4
+2024-02-25,Aiquile (GPRS),18.01,16.22,94.5,87.3,8.4
+2024-02-25,Alto Peñas (GPRS),15.94,10.34,89.2,53.86,0.9
+2024-02-25,Anzaldo_M (GPRS),,,,,3.1
+2024-02-25,Apolo_M (GPRS),,,,,80.8
+2024-02-25,Buena Vista S.(GPRS),,,,,48.2
+2024-02-25,Camargo_H (GPRS),,,,,4.2
+2024-02-25,Camargo_M (GPRS),,,,,4.2
+2024-02-25,Camiri,28.0,22.0,88.1,65.2,
+2024-02-25,Caranavi_H (GPRS),,,,,31.1
+2024-02-25,Carura_M (GPRS),,,,,25.2
+2024-02-25,Chua Cocani_M (GPRS),14.76,9.59,81.4,56.55,
+2024-02-25,Cobija,28.0,24.0,99.1,78.2,
+2024-02-25,Cochabamba,20.0,14.0,99.2,63.6,
+2024-02-25,Concepcion,29.0,22.0,99.1,73.6,
+2024-02-25,Coroico_H (GPRS),,,,,25.1
+2024-02-25,Cotagaita (GPRS),,,,,1.6
+2024-02-25,Cotagaita_H (GPRS),,,,,0.7
+2024-02-25,Covendo_M (GPRS),,,,,16.6
+2024-02-25,Cuatro Cañadas - CEA-2 (GPRS),28.32,26.74,86.1,77.76,43.8
+2024-02-25,Cuatro Cañadas - Colonia Chihuahua (GPRS),27.17,26.25,87.3,73.46,51.6
+2024-02-25,Desaguadero_M,15.01,13.48,61.51,53.1,
+2024-02-25,El Alto,14.0,6.0,99.3,47.2,
+2024-02-25,El Villar,,,,,2.2
+2024-02-25,Guanay_H (GPRS),,,,,180.0
+2024-02-25,Guayaramerin_M (GPRS),,,,,6.3
+2024-02-25,Huancane Corapata_M (GPRS),,,,,0.3
+2024-02-25,Huarisuyo (GPRS),17.45,12.75,76.5,52.58,0.1
+2024-02-25,Isla Suriqui_M (GPRS),14.76,12.6,69.87,56.26,
+2024-02-25,Ixiamas S.(GPRS),,,,,8.6
+2024-02-25,Ixiamas_M (GPRS),,,,,8.9
+2024-02-25,Jesús de Machaca_M (GPRS),15.45,13.11,65.32,51.18,0.7
+2024-02-25,La Asunta_H (GPRS),,,,,22.8
+2024-02-25,Mecapaca_M (GPRS),,,,,0.7
+2024-02-25,Mizque - SDC (GPRS),18.98,15.81,91.3,61.61,0.1
+2024-02-25,Oruro (GPRS),13.0,10.0,92.8,71.0,
+2024-02-25,Pailon - Pozo del Tigre (GPRS),26.89,25.26,97.1,77.83,79.8
+2024-02-25,Palos Blancos S.(GPRS),,,,,23.6
+2024-02-25,Palos Blancos_M (GPRS),,,,,8.6
+2024-02-25,Pocona - SDC (GPRS),16.46,14.11,96.4,69.92,20.2
+2024-02-25,Pojo - SDC (GPRS),18.34,17.17,93.8,83.4,19.5
+2024-02-25,Potolo_M (GPRS),0.0,0.0,0.0,0.0,
+2024-02-25,Presa Misicuni (GPRS),,,,,28.1
+2024-02-25,Puerto Rico S.(GPRS),,,,,0.8
+2024-02-25,Puerto Villarroel_H (GPRS),,,,,9.7
+2024-02-25,Putucuni Calientes (GPRS),6.15,4.24,98.6,87.2,23.4
+2024-02-25,Quila Quila_M (GPRS),18.64,15.36,71.38,60.16,1.7
+2024-02-25,Riberalta,30.0,24.0,99.1,65.6,
+2024-02-25,Riberalta_H (GPRS),,,,,12.1
+2024-02-25,Sacacani_M (GPRS),,,,,0.3
+2024-02-25,Salo_M (GPRS),,,,,2.0
+2024-02-25,San Buenaventura_M (GPRS),,,,,5.6
+2024-02-25,San Jacinto_M (GPRS),27.25,14.7,97.5,48.43,
+2024-02-25,San Joaquin,29.0,26.0,93.4,78.3,
+2024-02-25,San Julian,,,,,10.2
+2024-02-25,San Julian - Comunidad Los Angeles (GPRS),27.56,26.31,87.2,68.39,0.2
+2024-02-25,San Julian - Nucleo 32 (GPRS),27.74,27.52,,,0.2
+2024-02-25,San Pedro - Río Victoria (GPRS),28.12,25.74,89.4,78.75,1.0
+2024-02-25,San Pedro - San Antonio (GPRS),28.45,24.54,90.7,80.4,7.0
+2024-02-25,San Pedro de Buena Vista (GPRS),14.87,12.91,99.3,87.8,5.4
+2024-02-25,San Pedro de Tiquina_M (GPRS),,,,,0.2
+2024-02-25,San Roque - El Alto (GPRS),,,,,0.1
+2024-02-25,Santa Ana - Yacuma,31.0,24.0,99.1,65.8,
+2024-02-25,Sunjani (GPRS),10.16,6.96,91.1,67.94,26.2
+2024-02-25,Tacagua_M (GPRS),18.28,14.11,72.14,38.18,
+2024-02-25,Tarija,28.0,17.0,93.1,39.3,
+2024-02-25,Templo (GPRS),7.25,4.49,97.8,74.35,26.5
+2024-02-25,Temporal - SDC (GPRS),17.12,14.48,93.2,0.03,22.0
+2024-02-25,Toledo (GPRS),16.26,8.75,86.8,49.03,0.3
+2024-02-25,Totora i_M (GPRS),,,,,0.6
+2024-02-25,Trinidad,31.0,26.0,93.4,65.8,
+2024-02-25,Trinidad Aeropuerto,,,,,0.1
+2024-02-25,Tupiza_2_H (GPRS),,,,,0.1
+2024-02-25,Viacha_M (GPRS),13.74,12.31,69.37,55.66,0.4
+2024-02-25,Vila Vila - SDC (GPRS),15.53,13.66,90.0,74.02,31.3
+2024-02-25,Villa Rivero_M (GPRS),,,,,4.2
+2024-02-25,Villa Serrano (GPRS),18.17,14.92,100.0,93.3,0.1
+2024-02-25,Villa Tunari_H (GPRS),,,,,21.4
+2024-02-25,Villamontes,25.0,23.0,87.8,77.8,
+2024-02-25,Viru Viru,29.0,22.0,99.1,73.8,
+2024-02-25,Viscachas Chirage (GPRS),9.89,7.39,91.0,76.28,40.6
+2024-02-25,Vivero Chimboco - SDC (GPRS),19.2,14.91,94.8,63.41,29.3
+2024-02-25,Vivero Viloma - SDC (GPRS),21.56,16.41,93.1,9.18,9.3
+2024-02-26, Paniagua_M (GPRS),,,,,9.9
+2024-02-26,4 Esquinas (GPRS),11.55,9.03,,,2.9
+2024-02-26,Aguadas (GPRS),13.94,9.37,85.9,62.28,3.0
+2024-02-26,Aiquile (GPRS),30.99,16.36,92.5,47.27,5.2
+2024-02-26,Alto Peñas (GPRS),11.27,8.02,98.2,74.73,1.3
+2024-02-26,Anzaldo_M (GPRS),,,,,5.8
+2024-02-26,Apolo_M (GPRS),,,,,32.1
+2024-02-26,Buena Vista S.(GPRS),,,,,0.4
+2024-02-26,Camargo_H (GPRS),,,,,9.3
+2024-02-26,Camargo_M (GPRS),,,,,9.0
+2024-02-26,Camiri,33.0,20.0,99.1,43.3,
+2024-02-26,Carura_M (GPRS),,,,,10.9
+2024-02-26,Chua Cocani_M (GPRS),13.24,8.34,91.8,62.61,4.2
+2024-02-26,Cobija,29.0,23.0,99.1,73.8,
+2024-02-26,Cobija Aeropuerto,,,,,15.9
+2024-02-26,Cochabamba,24.0,16.0,87.3,43.7,
+2024-02-26,Concepcion,31.0,23.0,93.3,65.8,
+2024-02-26,Coroico_H (GPRS),,,,,7.3
+2024-02-26,Covendo_M (GPRS),,,,,6.0
+2024-02-26,Cuatro Cañadas - CEA-2 (GPRS),31.14,29.23,80.2,69.64,7.6
+2024-02-26,Cuatro Cañadas - Colonia Chihuahua (GPRS),32.73,30.97,76.48,64.05,
+2024-02-26,Desaguadero_M,13.96,11.09,70.97,56.63,1.0
+2024-02-26,El Alto,14.0,8.0,86.9,62.1,
+2024-02-26,Guanay_H (GPRS),,,,,12.0
+2024-02-26,Guayaramerin_M (GPRS),,,,,7.0
+2024-02-26,Huarisuyo (GPRS),14.03,6.25,95.8,60.67,
+2024-02-26,Isla Suriqui_M (GPRS),12.66,11.42,76.77,65.26,3.1
+2024-02-26,Ixiamas S.(GPRS),,,,,0.8
+2024-02-26,Ixiamas_M (GPRS),,,,,3.6
+2024-02-26,Jesús de Machaca_M (GPRS),14.8,11.6,74.96,57.88,0.4
+2024-02-26,La Asunta_H (GPRS),,,,,2.8
+2024-02-26,Magdalena,31.0,24.0,99.1,65.8,
+2024-02-26,Mizque - SDC (GPRS),25.28,21.09,60.65,45.19,0.1
+2024-02-26,Oruro (GPRS),16.0,10.0,75.7,54.8,
+2024-02-26,Pailon - Pozo del Tigre (GPRS),32.8,30.53,74.75,64.69,1.0
+2024-02-26,Palos Blancos_M (GPRS),,,,,1.0
+2024-02-26,Pocona - SDC (GPRS),22.44,20.19,73.0,54.61,7.4
+2024-02-26,Pojo - SDC (GPRS),24.5,21.75,68.04,59.32,1.0
+2024-02-26,Potolo_M (GPRS),0.0,0.0,0.0,0.0,
+2024-02-26,Potosí,16.0,8.0,86.6,47.7,
+2024-02-26,Presa Misicuni (GPRS),,,,,2.6
+2024-02-26,Puerto Rico S.(GPRS),,,,,4.2
+2024-02-26,Puerto Suarez,37.0,27.0,82.9,47.1,
+2024-02-26,Puerto Suarez Aeropuerto (F),37.0,27.0,82.9,47.1,
+2024-02-26,Putucuni Calientes (GPRS),6.75,4.88,94.1,84.7,2.0
+2024-02-26,Quila Quila_M (GPRS),20.42,17.99,61.86,55.61,0.1
+2024-02-26,Reyes,31.0,23.0,99.1,74.1,
+2024-02-26,Riberalta,28.0,25.0,93.4,73.6,
+2024-02-26,Riberalta_H (GPRS),,,,,16.3
+2024-02-26,Robore,33.0,25.0,93.3,58.8,
+2024-02-26,Rurrenabaque,29.0,23.0,99.1,78.3,
+2024-02-26,Salo_M (GPRS),,,,,0.6
+2024-02-26,San Buenaventura_M (GPRS),,,,,4.4
+2024-02-26,San Joaquin,29.0,23.0,99.1,73.8,
+2024-02-26,San Jose de Chiquitos,34.0,27.0,88.0,52.3,
+2024-02-26,San Julian,,,,,3.2
+2024-02-26,San Julian - Comunidad Los Angeles (GPRS),32.05,30.17,75.89,66.91,0.3
+2024-02-26,San Julian - Nucleo 32 (GPRS),31.91,30.19,,,0.4
+2024-02-26,San Pedro - Río Victoria (GPRS),32.41,28.97,78.64,63.2,0.2
+2024-02-26,San Pedro - San Antonio (GPRS),30.88,26.47,90.3,75.09,4.2
+2024-02-26,San Pedro de Buena Vista (GPRS),20.45,17.15,78.78,60.58,8.1
+2024-02-26,San Pedro de Tiquina_M (GPRS),,,,,34.4
+2024-02-26,Santa Ana - Yacuma,27.0,23.0,99.1,87.9,
+2024-02-26,Sunjani (GPRS),13.81,8.94,88.0,64.26,2.4
+2024-02-26,Tacagua_M (GPRS),18.67,15.47,50.49,40.37,0.1
+2024-02-26,Tarija,29.0,18.0,87.4,42.2,
+2024-02-26,Templo (GPRS),10.87,6.72,91.9,71.16,3.2
+2024-02-26,Temporal - SDC (GPRS),20.48,14.57,84.6,0.04,0.9
+2024-02-26,Toledo (GPRS),18.16,9.4,82.5,39.99,
+2024-02-26,Totora i_M (GPRS),,,,,0.1
+2024-02-26,Trinidad,28.0,25.0,93.4,78.1,
+2024-02-26,Trinidad Aeropuerto,,,,,1.9
+2024-02-26,Tupiza_2_H (GPRS),,,,,0.1
+2024-02-26,Viacha_M (GPRS),17.34,12.96,84.6,50.71,
+2024-02-26,Vila Vila - SDC (GPRS),21.78,18.68,60.72,51.4,0.3
+2024-02-26,Villa Rivero_M (GPRS),,,,,1.3
+2024-02-26,Villa Serrano (GPRS),24.81,12.37,100.0,65.37,0.1
+2024-02-26,Villa Tunari_H (GPRS),,,,,0.3
+2024-02-26,Villamontes,38.0,25.0,93.3,34.9,
+2024-02-26,Viru Viru,32.0,25.0,93.3,58.5,
+2024-02-26,Viscachas Chirage (GPRS),12.06,9.28,88.8,72.52,2.0
+2024-02-26,Vivero Chimboco - SDC (GPRS),22.46,13.73,99.3,50.83,1.4
+2024-02-26,Vivero Viloma - SDC (GPRS),24.15,18.17,71.08,16.92,0.4
+2024-02-26,Yacuiba,35.0,27.0,78.1,49.5,
