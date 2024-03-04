@@ -73211,6 +73211,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-03,El Tejar (Tarija),,,,,2.1
 2023-12-03,El Villar,29.5,16.0,,,
 2023-12-03,Emborozu,,,,,2.0
+2023-12-03,Entre Rios (TJA),,,,,15.0
 2023-12-03,Guajara-Mirim - Guayaramerín,,,,,0.1
 2023-12-03,Guanay_H (GPRS),,,,,151.0
 2023-12-03,Hichucota,,,,,3.0
@@ -73459,6 +73460,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-04,El Tejar (Tarija),25.7,15.1,,,3.6
 2023-12-04,El Villar,30.0,13.0,,,
 2023-12-04,Emborozu,,,,,20.0
+2023-12-04,Entre Rios (TJA),,,,,23.0
 2023-12-04,Guajara-Mirim - Guayaramerín,,24.8,,,
 2023-12-04,Guanay_H (GPRS),,,,,4.0
 2023-12-04,Guayaramerin_M (GPRS),,,,,6.6
@@ -73722,6 +73724,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-05,El Tejar (Tarija),29.9,13.8,,,
 2023-12-05,El Villar,21.0,14.0,,,
 2023-12-05,Emborozu,,,,,10.0
+2023-12-05,Entre Rios (TJA),,,,,3.0
 2023-12-05,Guajara-Mirim - Guayaramerín,,,,,24.2
 2023-12-05,Guanay_H (GPRS),,,,,779.0
 2023-12-05,Guayaramerin_M (GPRS),,,,,16.8
@@ -73969,6 +73972,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-06,El Tejar (Tarija),29.4,16.3,,,
 2023-12-06,El Villar,25.0,15.0,,,
 2023-12-06,Emborozu,,,,,1.5
+2023-12-06,Entre Rios (TJA),,,,,7.0
 2023-12-06,Guajara-Mirim - Guayaramerín,,,,,41.5
 2023-12-06,Guanay_H (GPRS),,,,,54.0
 2023-12-06,Guayaramerin_M (GPRS),,,,,28.0
@@ -74202,6 +74206,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-07,El Común Caraparí,,,,,6.4
 2023-12-07,El Tejar (Tarija),22.1,18.8,,,
 2023-12-07,El Villar,25.0,16.0,,,
+2023-12-07,Entre Rios (TJA),,,,,11.0
 2023-12-07,Guajara-Mirim - Guayaramerín,,,,,1.0
 2023-12-07,Guayaramerin_M (GPRS),,,,,0.1
 2023-12-07,Hichucota,,,,,3.0
@@ -74448,6 +74453,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-08,El Tejar (La Paz),,,,,12.8
 2023-12-08,El Tejar (Tarija),,14.3,,,8.5
 2023-12-08,El Villar,19.0,14.0,,,
+2023-12-08,Entre Rios (TJA),,,,,2.0
 2023-12-08,Guajara-Mirim - Guayaramerín,,23.0,,,
 2023-12-08,Guayaramerin_M (GPRS),,,,,5.6
 2023-12-08,Hichucota,,,,,10.0
@@ -74907,6 +74913,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-10,El Puente_H (GPRS),,,,,0.03
 2023-12-10,El Villar,29.2,15.0,,,
 2023-12-10,Emborozu,,,,,40.0
+2023-12-10,Entre Rios (TJA),,,,,15.5
 2023-12-10,Guajara-Mirim - Guayaramerín,,24.6,,,
 2023-12-10,Hichucota,,,,,6.0
 2023-12-10,Huarisuyo (GPRS),15.6,6.02,91.2,54.35,
@@ -75802,6 +75809,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-14,El Común Caraparí,,,,,15.9
 2023-12-14,El Tejar (Tarija),30.3,18.8,,,
 2023-12-14,El Villar,30.5,18.0,,,
+2023-12-14,Entre Rios (TJA),,,,,42.0
 2023-12-14,Guajara-Mirim - Guayaramerín,,25.0,,,
 2023-12-14,Guanay_H (GPRS),,,,,3.0
 2023-12-14,Hichucota,13.0,2.0,,,
@@ -76733,6 +76741,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-18,El Común Caraparí,,,,,14.9
 2023-12-18,El Tejar (Tarija),31.6,16.1,,,
 2023-12-18,El Villar,24.0,16.0,,,
+2023-12-18,Entre Rios (TJA),,,,,20.0
 2023-12-18,Guajara-Mirim - Guayaramerín,,23.4,,,
 2023-12-18,Hichucota,14.0,3.0,,,
 2023-12-18,Huancane Corapata_M (GPRS),,,,,0.3
@@ -77214,6 +77223,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-20,El Tejar (Tarija),25.0,16.1,,,3.8
 2023-12-20,El Villar,21.8,15.0,,,
 2023-12-20,Emborozu,,,,,6.0
+2023-12-20,Entre Rios (TJA),,,,,9.0
 2023-12-20,Guajara-Mirim - Guayaramerín,,25.6,,,
 2023-12-20,Guanay_H (GPRS),,,,,58.0
 2023-12-20,Hichucota,,,,,13.0
@@ -77446,6 +77456,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-21,El Tejar (Tarija),26.4,15.0,,,2.0
 2023-12-21,El Villar,22.0,15.0,,,
 2023-12-21,Emborozu,,,,,24.0
+2023-12-21,Entre Rios (TJA),,,,,5.0
 2023-12-21,Guajara-Mirim - Guayaramerín,,24.2,,,
 2023-12-21,Guayaramerin_M (GPRS),,,,,3.7
 2023-12-21,Hichucota,15.0,2.0,,,
@@ -78269,6 +78280,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-25,El Puente_H (GPRS),,,,,0.45
 2023-12-25,El Villar,33.0,17.0,,,
 2023-12-25,Emborozu,,,,,4.5
+2023-12-25,Entre Rios (TJA),,,,,59.0
 2023-12-25,Guajara-Mirim - Guayaramerín,,24.6,,,
 2023-12-25,Guayaramerin_M (GPRS),,,,,0.5
 2023-12-25,Hichucota,16.0,0.0,,,
@@ -79187,6 +79199,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-29,El Tejar (La Paz),,,,,7.9
 2023-12-29,El Tejar (Tarija),30.4,19.3,,,
 2023-12-29,El Villar,32.0,16.5,,,
+2023-12-29,Entre Rios (TJA),,,,,77.0
 2023-12-29,Guajara-Mirim - Guayaramerín,,24.8,,,
 2023-12-29,Guayaramerin_M (GPRS),,,,,0.6
 2023-12-29,Hichucota,15.0,2.0,,,
