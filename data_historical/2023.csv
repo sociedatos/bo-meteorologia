@@ -56228,6 +56228,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-16,Capinota,30.0,8.2,,,
 2023-09-16,Carabuco,,1.0,,,
 2023-09-16,Caranavi,34.5,18.5,,,
+2023-09-16,Carmen Pampa,29.7,16.4,,,0.1
 2023-09-16,Catacora,15.0,-7.5,,,
 2023-09-16,Cañas,38.0,7.0,,,
 2023-09-16,Chaqui,24.7,3.2,,,
@@ -56393,6 +56394,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-17,Capinota,31.0,8.5,,,
 2023-09-17,Carabuco,,0.0,,,
 2023-09-17,Caranavi,35.0,19.0,,,
+2023-09-17,Carmen Pampa,27.4,15.1,,,
 2023-09-17,Catacora,14.0,-7.0,,,
 2023-09-17,Cañas,38.5,12.0,,,
 2023-09-17,Chaqui,25.6,5.2,,,
@@ -56572,6 +56574,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-18,Capinota,29.0,9.0,,,
 2023-09-18,Carabuco,,0.0,,,
 2023-09-18,Caranavi,36.5,20.5,,,
+2023-09-18,Carmen Pampa,23.7,17.1,,,
 2023-09-18,Catacora,13.0,-5.0,,,
 2023-09-18,Cañas,30.0,14.5,,,
 2023-09-18,Chaqui,22.8,3.1,,,
@@ -56764,6 +56767,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-19,Carabuco,,6.0,,,3.5
 2023-09-19,Caranavi,30.0,21.5,,,14.0
 2023-09-19,Caranavi_H (GPRS),,,,,0.31
+2023-09-19,Carmen Pampa,22.4,16.5,,,3.4
 2023-09-19,Catacora,14.0,-5.0,,,
 2023-09-19,Cayarani,,,,,0.5
 2023-09-19,Cañas,31.0,8.0,,,
@@ -56970,6 +56974,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-20,Carabuco,,5.0,,,
 2023-09-20,Caranavi,31.5,20.0,,,
 2023-09-20,Caranavi_H (GPRS),,,,,0.2
+2023-09-20,Carmen Pampa,20.3,15.2,,,2.6
 2023-09-20,Catacora,14.5,-6.5,,,
 2023-09-20,Cañas,30.0,7.5,,,
 2023-09-20,Chaqui,22.3,4.7,,,
@@ -57166,6 +57171,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-21,Capinota,31.2,111.5,,,
 2023-09-21,Carabuco,,4.0,,,
 2023-09-21,Caranavi,32.0,20.5,,,
+2023-09-21,Carmen Pampa,24.6,15.0,,,0.8
 2023-09-21,Catacora,13.0,-6.0,,,
 2023-09-21,Cañas,37.0,11.0,,,
 2023-09-21,Chaqui,24.1,3.9,,,
@@ -57352,6 +57358,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-22,Capinota,31.0,12.5,,,
 2023-09-22,Carabuco,,3.0,,,
 2023-09-22,Caranavi,33.5,21.0,,,
+2023-09-22,Carmen Pampa,23.5,16.7,,,
 2023-09-22,Catacora,12.5,-7.5,,,
 2023-09-22,Cañas,36.0,12.0,,,
 2023-09-22,Chaqui,24.7,4.1,,,
@@ -57529,6 +57536,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-23,Capinota,30.5,12.0,,,
 2023-09-23,Carabuco,,7.1,,,
 2023-09-23,Caranavi,36.0,21.5,,,
+2023-09-23,Carmen Pampa,26.2,17.4,,,
 2023-09-23,Catacora,14.0,-7.5,,,
 2023-09-23,Cañas,36.0,15.0,,,
 2023-09-23,Chaqui,24.3,4.0,,,
@@ -57691,6 +57699,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-24,Capinota,31.0,12.5,,,
 2023-09-24,Carabuco,,6.0,,,
 2023-09-24,Caranavi,31.5,22.0,,,11.0
+2023-09-24,Carmen Pampa,27.0,16.0,,,
 2023-09-24,Catacora,14.0,-7.0,,,
 2023-09-24,Cañas,33.5,18.0,,,
 2023-09-24,Chaqui,24.5,5.7,,,
@@ -57865,6 +57874,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-25,Capinota,31.2,12.0,,,
 2023-09-25,Carabuco,,4.5,,,
 2023-09-25,Caranavi,32.0,22.5,,,9.5
+2023-09-25,Carmen Pampa,29.4,17.4,,,
 2023-09-25,Catacora,15.0,-6.5,,,
 2023-09-25,Cayarani,,,,,0.4
 2023-09-25,Cañas,35.0,16.0,,,
@@ -58052,6 +58062,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-26,Capinota,30.5,13.5,,,
 2023-09-26,Carabuco,,2.0,,,
 2023-09-26,Caranavi,35.5,20.0,,,
+2023-09-26,Carmen Pampa,22.1,17.3,,,
 2023-09-26,Catacora,14.5,-6.5,,,
 2023-09-26,Cayarani,,,,,0.3
 2023-09-26,Cañas,37.0,15.5,,,
@@ -58264,6 +58275,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-27,Carabuco,,4.5,,,
 2023-09-27,Caranavi,36.0,19.5,,,
 2023-09-27,Caranavi_H (GPRS),,,,,0.14
+2023-09-27,Carmen Pampa,21.5,16.5,,,
 2023-09-27,Catacora,14.0,-7.0,,,
 2023-09-27,Cayarani,,,,,0.1
 2023-09-27,Cañas,,,,,0.6
@@ -58491,6 +58503,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-28,Carabuco,,4.3,,,
 2023-09-28,Caranavi,34.5,21.0,,,6.0
 2023-09-28,Caranavi_H (GPRS),,,,,0.29
+2023-09-28,Carmen Pampa,26.4,15.3,,,
 2023-09-28,Catacora,14.5,-7.0,,,
 2023-09-28,Cayarani,,,,,8.9
 2023-09-28,Cañas,,,,,0.2
@@ -58725,6 +58738,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-29,Campanario,23.0,1.5,,,
 2023-09-29,Capinota,31.0,14.2,,,
 2023-09-29,Caranavi,33.5,20.5,,,
+2023-09-29,Carmen Pampa,29.5,14.6,,,4.2
 2023-09-29,Catacora,15.0,-7.5,,,
 2023-09-29,Cañas,20.0,10.0,,,
 2023-09-29,Chaqui,21.4,6.8,,,
@@ -58926,6 +58940,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-30,Capinota,32.0,13.5,,,
 2023-09-30,Caranavi,35.5,21.0,,,
 2023-09-30,Caranavi_H (GPRS),,,,,0.21
+2023-09-30,Carmen Pampa,27.5,16.0,,,7.0
 2023-09-30,Carura_M (GPRS),,,,,0.6
 2023-09-30,Catacora,14.0,-6.0,,,
 2023-09-30,Cañas,,,,,0.2
@@ -65858,6 +65873,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-01,Capinota,30.5,14.2,,,
 2023-11-01,Carabuco,,4.0,,,
 2023-11-01,Caranavi,33.0,20.0,,,
+2023-11-01,Carmen Pampa,29.6,15.6,,,4.0
 2023-11-01,Catacora,13.0,-7.0,,,
 2023-11-01,Cayarani,,,,,4.0
 2023-11-01,Cañas,28.0,15.5,,,0.8
@@ -66076,6 +66092,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-02,Carabuco,,4.9,,,
 2023-11-02,Caranavi,35.5,20.5,,,
 2023-11-02,Caranavi_H (GPRS),,,,,2.2
+2023-11-02,Carmen Pampa,31.4,17.4,,,1.5
 2023-11-02,Catacora,14.5,-7.0,,,
 2023-11-02,Cayarani,,,,,8.4
 2023-11-02,Cañas,31.5,16.0,,,
@@ -66280,6 +66297,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-03,Capinota,29.2,13.5,,,
 2023-11-03,Carabuco,,3.0,,,
 2023-11-03,Caranavi,37.0,18.5,,,
+2023-11-03,Carmen Pampa,30.2,15.7,,,1.7
 2023-11-03,Catacora,14.5,-7.5,,,
 2023-11-03,Cayarani,,,,,3.1
 2023-11-03,Cañas,23.0,11.0,,,0.2
@@ -66495,6 +66513,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-04,Carabuco,,6.5,,,
 2023-11-04,Caranavi,36.0,19.0,,,
 2023-11-04,Caranavi_H (GPRS),,,,,0.71
+2023-11-04,Carmen Pampa,28.7,14.8,,,40.0
 2023-11-04,Catacora,13.0,-4.0,,,
 2023-11-04,Cayarani,,,,,3.2
 2023-11-04,Cañas,20.0,11.5,,,
@@ -66701,6 +66720,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-05,Capinota,29.5,13.5,,,1.5
 2023-11-05,Carabuco,,7.3,,,
 2023-11-05,Caranavi,36.5,19.5,,,
+2023-11-05,Carmen Pampa,29.2,15.3,,,0.9
 2023-11-05,Catacora,14.0,-3.0,,,
 2023-11-05,Cayarani,,,,,2.8
 2023-11-05,Cañas,31.0,13.5,,,
@@ -66904,6 +66924,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-06,Capinota,31.2,14.2,,,
 2023-11-06,Carabuco,,7.0,,,
 2023-11-06,Caranavi,35.5,20.5,,,4.0
+2023-11-06,Carmen Pampa,29.4,14.1,,,1.1
 2023-11-06,Catacora,14.5,-2.0,,,2.5
 2023-11-06,Cañas,30.0,12.5,,,
 2023-11-06,Chaqui,22.8,5.9,,,
@@ -67108,6 +67129,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-07,Capinota,30.5,14.0,,,
 2023-11-07,Carabuco,,5.9,,,
 2023-11-07,Caranavi,35.0,20.0,,,
+2023-11-07,Carmen Pampa,31.4,16.8,,,
 2023-11-07,Catacora,14.0,-1.5,,,2.0
 2023-11-07,Cayarani,,,,,10.5
 2023-11-07,Cañas,33.5,15.0,,,
@@ -67322,6 +67344,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-08,Capinota,29.2,13.5,,,
 2023-11-08,Carabuco,,5.1,,,
 2023-11-08,Caranavi,36.5,19.0,,,
+2023-11-08,Carmen Pampa,31.2,17.6,,,
 2023-11-08,Catacora,13.5,-2.0,,,0.1
 2023-11-08,Cañas,30.0,15.5,,,
 2023-11-08,Chaqui,23.4,7.7,,,
@@ -67545,6 +67568,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-09,Carabuco,,7.5,,,
 2023-11-09,Caranavi,30.5,21.5,,,14.5
 2023-11-09,Caranavi_H (GPRS),,,,,0.87
+2023-11-09,Carmen Pampa,30.7,12.5,,,29.6
 2023-11-09,Catacora,14.0,2.0,,,1.5
 2023-11-09,Cañas,24.5,15.5,,,16.8
 2023-11-09,Chaqui,20.1,8.1,,,10.6
@@ -67663,6 +67687,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-09,Roboré Aeropuerto,42.6,27.2,,,
 2023-11-09,Rurrenabaque,35.0,24.0,87.8,46.6,
 2023-11-09,Rurrenabaque Aeropuerto,35.8,,,,
+2023-11-09,Sacabaya,,,,,10.6
 2023-11-09,Sacaca,24.5,6.1,,,
 2023-11-09,Sachapera,,,,,3.8
 2023-11-09,Salla,,,,,0.4
@@ -67785,6 +67810,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-10,Carabuco,,4.9,,,
 2023-11-10,Caranavi,34.0,20.0,,,
 2023-11-10,Caranavi_H (GPRS),,,,,0.33
+2023-11-10,Carmen Pampa,30.9,15.0,,,16.3
 2023-11-10,Carura_M (GPRS),,,,,15.1
 2023-11-10,Catacora,13.5,2.0,,,3.5
 2023-11-10,Cayarani,,,,,3.2
@@ -67895,6 +67921,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-10,Roboré Aeropuerto,42.1,27.1,,,
 2023-11-10,Rurrenabaque,38.0,28.0,69.3,32.8,
 2023-11-10,Rurrenabaque Aeropuerto,,22.8,,,
+2023-11-10,Sacabaya,,,,,6.5
 2023-11-10,Sacaca,22.2,4.9,,,2.8
 2023-11-10,Sacacani_M (GPRS),,,,,3.4
 2023-11-10,Salla,,,,,0.1
@@ -68014,6 +68041,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-11,Capinota,31.0,15.2,,,
 2023-11-11,Carabuco,,5.5,,,9.5
 2023-11-11,Caranavi,36.5,21.0,,,9.0
+2023-11-11,Carmen Pampa,30.3,17.8,,,0.4
 2023-11-11,Catacora,13.0,3.0,,,2.2
 2023-11-11,Cayarani,,,,,0.3
 2023-11-11,Cañas,34.5,15.0,,,
@@ -68228,6 +68256,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-12,Carabuco,,6.0,,,4.0
 2023-11-12,Caranavi,37.0,22.0,,,
 2023-11-12,Caranavi_H (GPRS),,,,,0.11
+2023-11-12,Carmen Pampa,24.2,16.0,,,
 2023-11-12,Catacora,12.5,2.0,,,0.1
 2023-11-12,Cañas,31.5,15.0,,,
 2023-11-12,Chaqui,24.6,7.5,,,
@@ -68434,6 +68463,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-13,Carabuco,,6.5,,,2.3
 2023-11-13,Caranavi,34.0,21.5,,,18.0
 2023-11-13,Caranavi_H (GPRS),,,,,0.1
+2023-11-13,Carmen Pampa,28.1,16.3,,,27.5
 2023-11-13,Catacora,13.5,1.0,,,5.2
 2023-11-13,Cayarani,,,,,4.0
 2023-11-13,Cañas,28.0,15.5,,,7.4
@@ -68677,6 +68707,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-14,Carabuco,,5.3,,,
 2023-11-14,Caranavi,35.5,20.5,,,6.5
 2023-11-14,Caranavi_H (GPRS),,,,,5.12
+2023-11-14,Carmen Pampa,25.5,14.9,,,4.7
 2023-11-14,Carura_M (GPRS),,,,,21.3
 2023-11-14,Catacora,14.0,-4.5,,,
 2023-11-14,Cañas,29.0,15.5,,,
@@ -68907,6 +68938,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-15,Carabuco,,5.0,,,
 2023-11-15,Caranavi,36.0,19.0,,,
 2023-11-15,Caranavi_H (GPRS),,,,,0.01
+2023-11-15,Carmen Pampa,27.7,14.6,,,3.3
 2023-11-15,Catacora,14.0,-6.5,,,
 2023-11-15,Cañas,34.0,14.0,,,
 2023-11-15,Chaqui,26.4,5.2,,,
@@ -69121,6 +69153,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-16,Capinota,31.0,14.0,,,
 2023-11-16,Carabuco,,4.5,,,
 2023-11-16,Caranavi,36.5,20.0,,,
+2023-11-16,Carmen Pampa,29.4,15.7,,,4.6
 2023-11-16,Catacora,14.5,-4.0,,,
 2023-11-16,Cayarani,,,,,14.2
 2023-11-16,Cañas,28.5,14.5,,,
@@ -69349,6 +69382,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-17,Capinota,32.5,15.5,,,2.0
 2023-11-17,Carabuco,,6.0,,,
 2023-11-17,Caranavi,30.0,22.5,,,10.0
+2023-11-17,Carmen Pampa,31.9,16.8,,,
 2023-11-17,Catacora,13.5,-5.0,,,2.0
 2023-11-17,Cayarani,,,,,3.1
 2023-11-17,Cañas,35.0,18.5,,,
@@ -69558,6 +69592,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-18,Capinota,30.2,14.0,,,1.0
 2023-11-18,Carabuco,,5.5,,,
 2023-11-18,Caranavi,32.5,21.0,,,
+2023-11-18,Carmen Pampa,30.7,17.8,,,
 2023-11-18,Catacora,14.0,-6.0,,,
 2023-11-18,Cayarani,,,,,0.9
 2023-11-18,Cañas,30.5,18.0,,,
@@ -69751,6 +69786,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-19,Carabuco,,6.1,,,
 2023-11-19,Caranavi,33.0,21.5,,,
 2023-11-19,Caranavi_H (GPRS),,,,,0.95
+2023-11-19,Carmen Pampa,24.9,17.0,,,23.0
 2023-11-19,Carura_M (GPRS),,,,,0.1
 2023-11-19,Catacora,14.5,-6.0,,,
 2023-11-19,Cayarani,,,,,5.3
@@ -69979,6 +70015,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-20,Carabuco,,6.5,,,4.1
 2023-11-20,Caranavi,35.0,20.0,,,
 2023-11-20,Caranavi_H (GPRS),,,,,0.01
+2023-11-20,Carmen Pampa,28.8,17.2,,,
 2023-11-20,Catacora,15.0,-5.5,,,
 2023-11-20,Cañas,16.5,16.5,,,39.6
 2023-11-20,Chaqui,23.4,5.3,,,
@@ -70204,6 +70241,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-21,Capinota,28.2,14.0,,,
 2023-11-21,Carabuco,,6.0,,,
 2023-11-21,Caranavi,36.0,20.5,,,
+2023-11-21,Carmen Pampa,30.6,15.1,,,15.4
 2023-11-21,Catacora,15.5,-6.0,,,
 2023-11-21,Cañas,29.5,16.0,,,
 2023-11-21,Chaqui,21.8,7.6,,,
@@ -70432,6 +70470,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-22,Capinota,30.0,13.5,,,0.9
 2023-11-22,Carabuco,,6.0,,,
 2023-11-22,Caranavi,36.5,19.5,,,
+2023-11-22,Carmen Pampa,29.4,16.3,,,
 2023-11-22,Catacora,14.5,-5.0,,,
 2023-11-22,Cayarani,,,,,0.5
 2023-11-22,Cañas,24.0,18.0,,,
@@ -70657,6 +70696,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-23,Capinota,29.0,14.2,,,2.0
 2023-11-23,Carabuco,,3.3,,,
 2023-11-23,Caranavi,28.0,21.5,,,29.5
+2023-11-23,Carmen Pampa,28.3,16.4,,,
 2023-11-23,Catacora,15.5,-4.0,,,
 2023-11-23,Cayarani,,,,,3.4
 2023-11-23,Cañas,22.5,15.0,,,25.2
@@ -70892,6 +70932,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-24,Carabuco,,7.3,,,
 2023-11-24,Caranavi,30.0,21.0,,,7.0
 2023-11-24,Caranavi_H (GPRS),,,,,3.07
+2023-11-24,Carmen Pampa,28.5,14.1,,,27.7
 2023-11-24,Carura_M (GPRS),,,,,18.5
 2023-11-24,Catacora,15.5,-4.0,,,
 2023-11-24,Cayarani,,,,,15.2
@@ -71170,6 +71211,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-25,Carabuco,,7.0,,,2.4
 2023-11-25,Caranavi,33.5,20.0,,,
 2023-11-25,Caranavi_H (GPRS),,,,,0.5
+2023-11-25,Carmen Pampa,28.6,15.2,,,2.8
 2023-11-25,Carura_M (GPRS),,,,,0.5
 2023-11-25,Catacora,14.5,-1.0,,,2.5
 2023-11-25,Cayarani,,,,,9.2
@@ -71405,6 +71447,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-26,Carabuco,,5.7,,,
 2023-11-26,Caranavi,34.5,20.5,,,
 2023-11-26,Caranavi_H (GPRS),,,,,0.07
+2023-11-26,Carmen Pampa,29.2,15.8,,,8.5
 2023-11-26,Catacora,13.0,1.0,,,3.7
 2023-11-26,Cayarani,,,,,8.0
 2023-11-26,Cañas,17.5,14.5,,,2.0
@@ -71525,6 +71568,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-26,Rurrenabaque,32.0,24.0,99.1,55.1,
 2023-11-26,Rurrenabaque Aeropuerto,,,,,3.4
 2023-11-26,Sacabamba (GPRS),13.38,11.36,94.42,83.44,
+2023-11-26,Sacabaya,,,,,1.5
 2023-11-26,Sacaca,20.6,4.8,,,20.2
 2023-11-26,Sacacani_M (GPRS),,,,,2.5
 2023-11-26,Samasa,18.4,7.2,,,
@@ -71663,6 +71707,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-27,Carabuco,,6.3,,,13.4
 2023-11-27,Caranavi,28.0,22.0,,,26.5
 2023-11-27,Caranavi_H (GPRS),,,,,4.34
+2023-11-27,Carmen Pampa,28.6,15.2,,,20.4
 2023-11-27,Carura_M (GPRS),,,,,29.9
 2023-11-27,Catacora,14.0,2.0,,,
 2023-11-27,Cayarani,,,,,16.4
@@ -71951,6 +71996,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-28,Carabuco,,5.5,,,
 2023-11-28,Caranavi,30.5,21.5,,,12.0
 2023-11-28,Caranavi_H (GPRS),,,,,0.1
+2023-11-28,Carmen Pampa,27.9,15.1,,,2.5
 2023-11-28,Carura_M (GPRS),,,,,1.5
 2023-11-28,Catacora,14.5,-6.0,,,
 2023-11-28,Cayarani,,,,,13.5
@@ -72204,6 +72250,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-29,Capinota,29.0,13.2,,,
 2023-11-29,Carabuco,,5.0,,,
 2023-11-29,Caranavi,32.0,20.0,,,6.5
+2023-11-29,Carmen Pampa,29.8,17.1,,,5.5
 2023-11-29,Catacora,15.0,-4.0,,,
 2023-11-29,Cayarani,,,,,0.5
 2023-11-29,Cañas,30.5,16.0,,,4.8
@@ -72441,6 +72488,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-30,Carabuco,,7.8,,,
 2023-11-30,Caranavi,30.5,21.5,,,14.0
 2023-11-30,Caranavi_H (GPRS),,,,,0.01
+2023-11-30,Carmen Pampa,28.7,16.8,,,0.3
 2023-11-30,Carura_M (GPRS),,,,,0.4
 2023-11-30,Catacora,14.0,2.0,,,1.6
 2023-11-30,Cayarani,,,,,16.9
@@ -72560,6 +72608,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-30,Roboré Aeropuerto,37.4,,,,
 2023-11-30,Rurrenabaque,34.0,24.0,87.8,43.5,
 2023-11-30,Rurrenabaque Aeropuerto,33.7,,,,
+2023-11-30,Sacabaya,,,,,1.6
 2023-11-30,Sacaca,21.6,1.4,,,1.6
 2023-11-30,Samasa,21.2,9.2,,,
 2023-11-30,San Andres,30.0,14.0,,,24.2
@@ -72687,6 +72736,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-01,Camata,27.0,17.0,,,11.6
 2023-12-01,Camiri,38.0,25.0,77.8,32.6,
 2023-12-01,Camiri Aeropuerto,,21.5,,,
+2023-12-01,Campamento Ocorani,,,,,29.0
 2023-12-01,Campamento Villa Tunari,,,,,30.0
 2023-12-01,Capinota,,,,,4.2
 2023-12-01,Carabuco,,5.0,,,26.3
@@ -72939,6 +72989,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-02,Camata,30.0,18.0,,,
 2023-12-02,Camiri,38.0,26.0,78.0,35.0,
 2023-12-02,Camiri Aeropuerto,,21.7,,,
+2023-12-02,Campamento Ocorani,,,,,26.0
 2023-12-02,Campamento Villa Tunari,,,,,30.0
 2023-12-02,Capinota,,,,,4.5
 2023-12-02,Carabuco,,5.9,,,18.2
@@ -73924,6 +73975,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-06,Ayoma,25.3,8.1,,,
 2023-12-06,Azurduy,,,,,6.2
 2023-12-06,Buena Vista S.(GPRS),,,,,0.8
+2023-12-06,Cabaña Forestal Oruro,23.7,6.3,,,
 2023-12-06,Caiza D,31.0,10.0,,,
 2023-12-06,Calacoto,22.5,2.0,,,
 2023-12-06,Camata,30.0,16.5,,,
@@ -74397,12 +74449,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-08,Ayoma,26.1,9.4,,,2.0
 2023-12-08,Azurduy,24.0,10.0,,,
 2023-12-08,Boyuibe,,,,,4.0
+2023-12-08,Cabaña Forestal Oruro,21.7,7.4,,,
 2023-12-08,Caiza D,24.0,9.0,,,
 2023-12-08,Calacoto,20.0,2.3,,,18.8
 2023-12-08,Camargo_M (GPRS),,,,,0.4
 2023-12-08,Camata,27.0,16.0,,,28.0
 2023-12-08,Camiri,29.0,21.0,93.2,50.8,
 2023-12-08,Camiri Aeropuerto,,,,,7.2
+2023-12-08,Campamento Ocorani,,,,,36.0
 2023-12-08,Campamento Villa Tunari,,,,,60.0
 2023-12-08,Capinota,,,,,2.3
 2023-12-08,Carabuco,,6.0,,,
@@ -74863,6 +74917,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-10,Aroma (GPRS),22.99,14.17,56.79,23.14,
 2023-12-10,Ayoma,26.1,10.5,,,
 2023-12-10,Azurduy,,,,,3.0
+2023-12-10,Cabaña Forestal Oruro,23.4,9.8,,,
 2023-12-10,Caiza D,21.0,11.0,,,14.8
 2023-12-10,Calacoto,18.2,4.5,,,6.5
 2023-12-10,Camata,31.0,16.5,,,12.0
@@ -75075,6 +75130,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-11,Ayo Ayo,,,,,4.0
 2023-12-11,Ayoma,27.3,7.2,,,4.5
 2023-12-11,Azurduy,24.0,10.0,,,
+2023-12-11,Cabaña Forestal Oruro,22.3,7.2,,,
 2023-12-11,Cachimayu,,,,,13.5
 2023-12-11,Caiza D,24.0,11.2,,,
 2023-12-11,Calacoto,22.3,6.0,,,2.0
@@ -75082,6 +75138,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-11,Camata,28.5,17.0,,,
 2023-12-11,Camiri,34.0,22.0,82.4,36.1,
 2023-12-11,Camiri Aeropuerto,,19.8,,,
+2023-12-11,Campamento Ocorani,,,,,24.0
 2023-12-11,Campamento Villa Tunari,,,,,22.0
 2023-12-11,Campo Grande Bermejo,,,,,6.8
 2023-12-11,Capinota,,,,,13.7
@@ -75337,6 +75394,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-12,Camata,30.0,16.5,,,20.0
 2023-12-12,Camiri,38.0,27.0,61.1,23.6,
 2023-12-12,Camiri Aeropuerto,,20.4,,,
+2023-12-12,Campamento Ocorani,,,,,22.0
 2023-12-12,Capinota,30.0,14.0,,,
 2023-12-12,Carabuco,,5.7,,,6.9
 2023-12-12,Caranavi,32.5,21.0,,,14.5
@@ -75445,6 +75503,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-12,Roboré Aeropuerto,,27.3,,,
 2023-12-12,Rurrenabaque,31.0,26.0,88.0,69.5,
 2023-12-12,Rurrenabaque Aeropuerto,,23.7,,,
+2023-12-12,Sacabaya,,,,,4.1
 2023-12-12,Sacaca,24.6,2.8,,,
 2023-12-12,Samasa,23.4,6.2,,,
 2023-12-12,San Andres,27.0,15.0,,,
@@ -75548,11 +75607,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-13,Ascensión de Guarayos Aerop,,25.0,,,
 2023-12-13,Ayoma,29.1,10.1,,,2.0
 2023-12-13,Azurduy,27.0,12.0,,,
+2023-12-13,Cabaña Forestal Oruro,23.0,7.1,,,
 2023-12-13,Caiza D,21.0,11.0,,,
 2023-12-13,Calacoto,21.5,5.6,,,
 2023-12-13,Camata,31.0,17.0,,,22.2
 2023-12-13,Camiri,37.0,26.0,73.3,30.6,
 2023-12-13,Camiri Aeropuerto,,21.6,,,
+2023-12-13,Campamento Ocorani,,,,,48.0
 2023-12-13,Capinota,,,,,2.3
 2023-12-13,Carabuco,,7.7,,,
 2023-12-13,Caranavi,34.0,20.5,,,
@@ -75658,6 +75719,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-13,Roboré Aeropuerto,,27.7,,,
 2023-12-13,Rurrenabaque,34.0,23.0,99.1,49.2,
 2023-12-13,Rurrenabaque Aeropuerto,,22.4,,,
+2023-12-13,Sacabaya,,,,,6.8
 2023-12-13,Sacaca,26.2,1.5,,,
 2023-12-13,Samasa,24.2,7.4,,,
 2023-12-13,San Andres,28.0,22.0,,,
@@ -75769,6 +75831,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-14,Camata,28.0,18.0,,,12.5
 2023-12-14,Camiri,36.0,27.0,65.0,38.7,
 2023-12-14,Camiri Aeropuerto,,23.8,,,
+2023-12-14,Campamento Ocorani,,,,,39.0
 2023-12-14,Capinota,30.2,15.0,,,
 2023-12-14,Carabuco,,6.5,,,
 2023-12-14,Caranavi,36.0,19.0,,,
@@ -75880,6 +75943,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-14,Roboré Aeropuerto,,27.7,,,
 2023-12-14,Rurrenabaque,35.0,27.0,82.9,52.3,
 2023-12-14,Rurrenabaque Aeropuerto,,23.7,,,
+2023-12-14,Sacabaya,,,,,6.7
 2023-12-14,Sacaca,20.2,4.8,,,4.1
 2023-12-14,Sacacani_M (GPRS),,,,,0.8
 2023-12-14,Samasa,23.3,5.6,,,
@@ -76009,6 +76073,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-15,Camata,26.0,17.5,,,
 2023-12-15,Camiri,39.0,27.0,73.5,24.2,
 2023-12-15,Camiri Aeropuerto,,23.7,,,
+2023-12-15,Campamento Ocorani,,,,,30.0
 2023-12-15,Campamento Villa Tunari,,,,,25.0
 2023-12-15,Campanario,,,,,17.6
 2023-12-15,Capinota,29.5,15.0,,,
@@ -76703,6 +76768,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-18,Camata,31.0,17.0,,,
 2023-12-18,Camiri,38.0,22.0,93.2,30.6,
 2023-12-18,Camiri Aeropuerto,,22.8,,,
+2023-12-18,Campamento Ocorani,,,,,27.0
 2023-12-18,Capinota,30.0,15.0,,,
 2023-12-18,Carabuco,,7.5,,,
 2023-12-18,Caranavi,36.5,18.0,,,
@@ -76927,6 +76993,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-19,Camata,30.0,16.0,,,33.0
 2023-12-19,Camiri,28.0,22.0,93.2,61.3,
 2023-12-19,Camiri Aeropuerto,,,,,13.4
+2023-12-19,Campamento Ocorani,,,,,24.0
 2023-12-19,Campamento Villa Tunari,,,,,5.0
 2023-12-19,Campanario,,,,,12.9
 2023-12-19,Campo Grande Bermejo,,,,,17.4
@@ -77174,6 +77241,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-20,Camata,30.5,18.0,,,
 2023-12-20,Camiri,29.0,23.0,77.5,48.0,
 2023-12-20,Camiri Aeropuerto,,20.8,,,
+2023-12-20,Campamento Ocorani,,,,,33.0
 2023-12-20,Campanario,,,,,4.9
 2023-12-20,Capinota,30.0,15.0,,,
 2023-12-20,Carabuco,,6.1,,,
@@ -77409,6 +77477,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-21,Ayoma,28.1,11.2,,,
 2023-12-21,Azurduy,,,,,3.4
 2023-12-21,Boyuibe,,,,,6.0
+2023-12-21,Cabaña Forestal Oruro,20.2,7.9,,,
 2023-12-21,Caiza D,27.0,12.0,,,
 2023-12-21,Calacoto,22.5,2.0,,,
 2023-12-21,Camata,30.0,17.5,,,
@@ -77640,11 +77709,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-22,Ayoma,22.4,8.1,,,17.7
 2023-12-22,Azurduy,24.0,10.0,,,
 2023-12-22,Boyuibe,,,,,4.4
+2023-12-22,Cabaña Forestal Oruro,24.2,7.3,,,
 2023-12-22,Caiza D,30.2,10.1,,,
 2023-12-22,Calacoto,23.0,3.3,,,5.3
 2023-12-22,Camata,31.0,18.5,,,
 2023-12-22,Camiri,36.0,25.0,68.8,34.4,
 2023-12-22,Camiri Aeropuerto,,20.4,,,
+2023-12-22,Campamento Ocorani,,,,,25.0
 2023-12-22,Campo Grande Bermejo,,,,,6.1
 2023-12-22,Capinota,28.0,13.5,,,
 2023-12-22,Carabuco,,7.0,,,
@@ -77865,6 +77936,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-23,Aroma (GPRS),25.52,14.13,44.09,11.45,
 2023-12-23,Ayoma,26.2,5.2,,,15.4
 2023-12-23,Azurduy,24.0,11.0,,,
+2023-12-23,Cabaña Forestal Oruro,25.5,6.7,,,
 2023-12-23,Caiza D,31.0,9.9,,,
 2023-12-23,Calacoto,25.5,3.0,,,
 2023-12-23,Camata,32.0,17.5,,,
@@ -78050,6 +78122,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-24,Aroma (GPRS),24.88,14.79,54.76,18.14,
 2023-12-24,Ayoma,25.3,5.1,,,
 2023-12-24,Azurduy,26.0,11.5,,,
+2023-12-24,Cabaña Forestal Oruro,25.2,9.8,,,
 2023-12-24,Caiza D,29.9,8.8,,,4.3
 2023-12-24,Calacoto,25.0,2.5,,,0.3
 2023-12-24,Camata,30.5,18.0,,,
@@ -78237,6 +78310,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-25,Aroma (GPRS),25.5,14.11,43.81,8.38,
 2023-12-25,Ayoma,29.1,6.3,,,
 2023-12-25,Azurduy,24.5,10.0,,,
+2023-12-25,Cabaña Forestal Oruro,26.0,7.5,,,
 2023-12-25,Caiza D,29.0,10.0,,,
 2023-12-25,Calacoto,24.5,5.0,,,
 2023-12-25,Camata,31.0,19.0,,,
@@ -78450,6 +78524,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-26,Camata,30.5,18.0,,,
 2023-12-26,Camiri,28.0,22.0,93.2,54.1,
 2023-12-26,Camiri Aeropuerto,,,,,22.2
+2023-12-26,Campamento Ocorani,,,,,28.0
 2023-12-26,Campamento Villa Tunari,,,,,168.5
 2023-12-26,Campanario,,,,,14.6
 2023-12-26,Campo Grande Bermejo,,,,,42.2
@@ -78703,6 +78778,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-27,Camata,32.0,19.0,,,
 2023-12-27,Camiri,35.0,25.0,73.2,34.1,
 2023-12-27,Camiri Aeropuerto,,21.3,,,
+2023-12-27,Campamento Ocorani,,,,,20.0
 2023-12-27,Capinota,,,,,4.5
 2023-12-27,Carabuco,,6.7,,,
 2023-12-27,Caranavi,32.5,20.5,,,
@@ -78811,6 +78887,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-27,Roboré Aeropuerto,,26.6,,,
 2023-12-27,Rurrenabaque,33.0,25.0,87.9,58.5,
 2023-12-27,Rurrenabaque Aeropuerto,,,,,7.2
+2023-12-27,Sacabaya,,,,,1.8
 2023-12-27,Sacaca,21.6,2.3,,,10.2
 2023-12-27,Samasa,25.2,7.2,,,4.6
 2023-12-27,San Andres,30.0,18.0,,,
@@ -79034,6 +79111,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-28,Roboré Aeropuerto,,27.2,,,
 2023-12-28,Rurrenabaque,35.0,27.0,88.0,46.6,
 2023-12-28,Rurrenabaque Aeropuerto,,23.8,,,
+2023-12-28,Sacabaya,,,,,2.9
 2023-12-28,Sacaca,20.2,4.8,,,16.2
 2023-12-28,Sacacani_M (GPRS),,,,,0.1
 2023-12-28,Samaipata,,,,,0.6
@@ -79276,6 +79354,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-29,Roboré Aeropuerto,,27.7,,,
 2023-12-29,Rurrenabaque,34.0,26.0,88.0,55.3,
 2023-12-29,Rurrenabaque Aeropuerto,,24.5,,,
+2023-12-29,Sacabaya,,,,,3.8
 2023-12-29,Sacaca,22.6,2.6,,,20.7
 2023-12-29,Sacacani_M (GPRS),,,,,0.6
 2023-12-29,Salla,,,,,0.4
@@ -79520,6 +79599,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-30,Riberalta Aeropuerto,,24.1,,,
 2023-12-30,Riberalta_H (GPRS),,,,,1.41
 2023-12-30,Rurrenabaque,30.0,27.0,82.9,73.8,
+2023-12-30,Sacabaya,,,,,4.2
 2023-12-30,Sacaca,21.2,3.5,,,10.2
 2023-12-30,Sacacani_M (GPRS),,,,,0.7
 2023-12-30,Sachapera,,,,,30.2
