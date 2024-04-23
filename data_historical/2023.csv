@@ -60862,6 +60862,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-08,Mizque - SDC (GPRS),28.28,14.95,71.87,35.42,
 2023-10-08,Mojo,25.1,0.0,,,
 2023-10-08,Molle Molle,,13.3,,,23.9
+2023-10-08,Nuevo Mundo,,,,,5.6
 2023-10-08,Okinawa I,,,,,8.3
 2023-10-08,Omereque - SDC (GPRS),27.58,17.38,69.93,38.73,
 2023-10-08,Oronkota PTI,20.1,14.0,,,
@@ -63000,6 +63001,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-18,Mojo,24.3,7.1,,,6.1
 2023-10-18,Molle Molle,,10.5,,,25.5
 2023-10-18,Muyuquiri,,,,,19.0
+2023-10-18,Nuevo Mundo,,,,,5.3
 2023-10-18,Omereque - SDC (GPRS),33.93,20.06,59.51,19.76,
 2023-10-18,Oronkota PTI,33.0,17.0,,,0.5
 2023-10-18,Oruro,21.0,9.0,70.4,39.8,
@@ -63242,6 +63244,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-19,Molle Molle,,12.2,,,23.3
 2023-10-19,Muyuquiri,,,,,10.0
 2023-10-19,Narvaez,,,,,22.0
+2023-10-19,Nuevo Mundo,,,,,12.6
 2023-10-19,Omereque - SDC (GPRS),32.44,19.55,56.7,25.06,
 2023-10-19,Oronkota PTI,31.0,18.2,,,0.5
 2023-10-19,Oruro,19.0,10.0,81.0,42.3,
@@ -63668,6 +63671,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-21,Cañas,31.0,15.0,,,
 2023-10-21,Challapata Aut,,,,,7.2
 2023-10-21,Chaqui,20.2,6.1,,,
+2023-10-21,Chillca,,,,,1.0
 2023-10-21,Chimore Aeropuerto,41.1,22.5,,,
 2023-10-21,Chinoli,22.1,,,,
 2023-10-21,Chirapaca,17.3,5.6,,,7.0
@@ -64314,6 +64318,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-24,Catacora,15.0,-1.5,,,5.5
 2023-10-24,Cañas,27.5,13.5,,,51.4
 2023-10-24,Chaqui,21.9,6.8,,,
+2023-10-24,Chillca,,,,,2.1
 2023-10-24,Chimore Aeropuerto,37.3,26.2,,,
 2023-10-24,Chinoli,25.3,,,,
 2023-10-24,Chirapaca,20.7,5.3,,,
@@ -64380,6 +64385,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-24,Mojo,23.1,5.2,,,
 2023-10-24,Molle Molle,,14.4,,,26.1
 2023-10-24,Narvaez,,,,,24.6
+2023-10-24,Nuevo Mundo,,,,,3.6
 2023-10-24,Omereque - SDC (GPRS),35.7,19.8,78.55,21.73,
 2023-10-24,Oronkota PTI,33.7,19.2,,,4.3
 2023-10-24,Oruro,21.0,11.0,75.8,34.9,
@@ -64639,6 +64645,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-25,Mojo,25.3,0.1,,,
 2023-10-25,Molle Molle,,13.3,,,27.8
 2023-10-25,Narvaez,,,,,13.3
+2023-10-25,Nuevo Mundo,,,,,5.0
 2023-10-25,Omereque - SDC (GPRS),33.88,19.75,68.23,27.21,0.1
 2023-10-25,Oronkota PTI,33.2,20.1,,,
 2023-10-25,Oruro,23.0,10.0,70.6,28.8,
@@ -65486,6 +65493,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-29,Cañas,33.0,13.0,,,
 2023-10-29,Chaqui,23.2,3.0,,,
 2023-10-29,Charazani (GPRS),18.92,10.01,97.59,40.08,
+2023-10-29,Chillca,,,,,2.5
 2023-10-29,Chinoli,25.2,,,,
 2023-10-29,Chirapaca,19.3,1.9,,,
 2023-10-29,Chua Cocani_M (GPRS),16.84,14.82,22.01,13.5,
@@ -69457,6 +69465,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-16,Cañas,28.5,14.5,,,
 2023-11-16,Chaqui,26.3,7.1,,,
 2023-11-16,Charazani (GPRS),21.66,10.23,99.01,48.78,
+2023-11-16,Chillca,,,,,2.0
 2023-11-16,Chimore Aeropuerto,,,,,7.4
 2023-11-16,Chinoli,29.1,8.1,,,
 2023-11-16,Chirapaca,23.6,3.1,,,5.0
@@ -70325,6 +70334,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-20,Catacora,15.0,-5.5,,,
 2023-11-20,Cañas,16.5,16.5,,,39.6
 2023-11-20,Chaqui,23.4,5.3,,,
+2023-11-20,Chillca,,,,,3.4
 2023-11-20,Chimore Aeropuerto,26.7,23.7,,,
 2023-11-20,Chinoli,26.4,7.2,,,
 2023-11-20,Chirapaca,23.2,6.1,,,
@@ -70553,6 +70563,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-21,Catacora,15.5,-6.0,,,
 2023-11-21,Cañas,29.5,16.0,,,
 2023-11-21,Chaqui,21.8,7.6,,,
+2023-11-21,Chillca,,,,,2.2
 2023-11-21,Chimore Aeropuerto,,,,,17.6
 2023-11-21,Chinoli,26.1,6.2,,,
 2023-11-21,Chirapaca,24.1,5.4,,,
@@ -71772,6 +71783,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-26,Challapata Aut,,,,,4.2
 2023-11-26,Chaqui,16.3,6.9,,,3.4
 2023-11-26,Charazani (GPRS),17.39,9.77,,,
+2023-11-26,Chillca,,,,,4.1
 2023-11-26,Chimore Aeropuerto,33.0,,,,
 2023-11-26,Chinoli,25.3,6.0,,,
 2023-11-26,Chirapaca,19.0,5.3,,,2.3
@@ -72581,6 +72593,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-29,Challapata Aut,,,,,2.7
 2023-11-29,Chaqui,23.2,4.9,,,5.5
 2023-11-29,Charazani (GPRS),19.17,16.23,71.4,56.36,
+2023-11-29,Chillca,,,,,2.1
 2023-11-29,Chimore Aeropuerto,,,,,0.2
 2023-11-29,Chinoli,25.4,7.1,,,
 2023-11-29,Chirapaca,18.4,5.1,,,3.8
@@ -73041,6 +73054,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-01,Aeropuerto Copacabana_M (GPRS),,,,,9.5
 2023-12-01,Aeropueto Copacabana_M (GPRS),,,,,9.5
 2023-12-01,Aguadas (GPRS),16.77,10.94,76.76,57.51,1.9
+2023-12-01,Aguaraycito,40.0,25.0,,,
 2023-12-01,Aiquile (GPRS),35.92,23.54,54.81,31.75,11.3
 2023-12-01,Alcantarí_Aeropuerto,,11.3,,,
 2023-12-01,Alto Obrajes_Barrio Magisterio,,,,,12.3
@@ -73076,6 +73090,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-01,Cañas,31.0,17.0,,,
 2023-12-01,Challapata Aut,,,,,5.1
 2023-12-01,Chaqui,20.6,7.9,,,1.0
+2023-12-01,Chillca,,,,,14.0
 2023-12-01,Chimore Aeropuerto,,24.0,,,
 2023-12-01,Chinoli,25.1,6.2,,,
 2023-12-01,Chirapaca,,,,,44.4
@@ -73228,6 +73243,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-01,Santa Rosa Aeropuerto (BENI),32.4,23.5,,,
 2023-12-01,Santiago de Huata,17.0,4.0,,,
 2023-12-01,Santiago de Machaca,,,,,11.5
+2023-12-01,Santivañez,36.7,10.0,,,
 2023-12-01,Sara Ana,35.0,24.0,,,0.1
 2023-12-01,Sarco,30.5,15.0,,,5.9
 2023-12-01,Sauce Pilata - SDC (GPRS),24.05,14.65,76.87,45.04,
@@ -73256,6 +73272,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-01,Trinidad,34.0,27.0,82.9,52.3,
 2023-12-01,Trinidad Aeropuerto,34.8,,,,
 2023-12-01,Trompillo Aeropuerto,35.4,24.8,,,
+2023-12-01,Tucumillas,29.0,11.0,,,
 2023-12-01,Tupiza,27.0,10.0,,,13.8
 2023-12-01,Tupiza_2_H (GPRS),,,,,0.35
 2023-12-01,Turumayo,35.0,18.0,,,1.3
@@ -73298,6 +73315,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-02,Aeropuerto Copacabana_M (GPRS),,,,,2.0
 2023-12-02,Aeropueto Copacabana_M (GPRS),,,,,2.0
 2023-12-02,Aguadas (GPRS),10.84,7.13,94.1,67.35,1.1
+2023-12-02,Aguaraycito,38.0,25.0,,,
 2023-12-02,Aiquile (GPRS),34.52,14.7,92.4,33.42,0.7
 2023-12-02,Alalay (GPRS),10.04,6.84,100.0,76.74,
 2023-12-02,Alcantarí_Aeropuerto,,,,,0.4
@@ -73329,6 +73347,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-02,Challapata Aut,,,,,0.7
 2023-12-02,Chaqui,22.2,7.2,,,5.5
 2023-12-02,Charazani (GPRS),11.3,10.35,99.97,95.29,
+2023-12-02,Chillca,,,,,10.0
 2023-12-02,Chinoli,24.1,6.1,,,1.1
 2023-12-02,Chirapaca,,,,,5.1
 2023-12-02,Chorocona,,,,,19.3
@@ -73483,6 +73502,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-02,Trinidad,36.0,27.0,82.9,46.8,
 2023-12-02,Trinidad Aeropuerto,36.4,,,,
 2023-12-02,Trompillo Aeropuerto,35.2,24.9,,,
+2023-12-02,Tucumillas,30.0,10.0,,,
 2023-12-02,Tupiza,29.0,12.0,,,
 2023-12-02,Turumayo,31.0,15.0,,,
 2023-12-02,Uyuni,19.0,6.2,,,
@@ -73519,6 +73539,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-03,Aeropuerto Copacabana_M (GPRS),,,,,2.4
 2023-12-03,Aeropueto Copacabana_M (GPRS),,,,,2.4
 2023-12-03,Aguadas (GPRS),14.72,9.61,84.4,59.24,8.6
+2023-12-03,Aguaraycito,38.0,25.0,,,3.0
 2023-12-03,Aiquile (GPRS),21.05,15.41,93.2,39.74,15.4
 2023-12-03,Alalay (GPRS),9.77,8.18,100.0,93.64,3.2
 2023-12-03,Alcantarí_Aeropuerto,,,,,27.2
@@ -73706,6 +73727,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-03,Santa Ana del Yacuma Aerop,34.6,23.9,,,
 2023-12-03,Santa Rosa Aeropuerto (BENI),33.0,,,,
 2023-12-03,Santiago de Huata,20.0,2.0,,,
+2023-12-03,Santivañez,34.4,13.3,,,
 2023-12-03,Sara Ana,33.0,22.0,,,4.5
 2023-12-03,Sarco,32.2,16.7,,,
 2023-12-03,Sauce Pilata - SDC (GPRS),21.97,12.26,99.3,50.87,27.6
@@ -73735,6 +73757,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-03,Trinidad,33.0,28.0,83.0,58.7,
 2023-12-03,Trinidad Aeropuerto,34.3,,,,
 2023-12-03,Trompillo Aeropuerto,33.4,24.8,,,
+2023-12-03,Tucumillas,23.0,12.0,,,
 2023-12-03,Tupiza,27.8,12.2,,,3.3
 2023-12-03,Tupiza_2_H (GPRS),,,,,0.41
 2023-12-03,Turumayo,30.0,14.0,,,12.3
@@ -73778,6 +73801,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-04,Aeropuerto Copacabana_M (GPRS),,,,,0.4
 2023-12-04,Aeropueto Copacabana_M (GPRS),,,,,0.4
 2023-12-04,Aguadas (GPRS),12.54,8.91,89.2,62.43,3.2
+2023-12-04,Aguaraycito,40.0,28.0,,,11.0
 2023-12-04,Aiquile (GPRS),31.25,18.44,79.02,47.19,0.1
 2023-12-04,Alalay (GPRS),12.08,11.4,87.49,84.44,4.8
 2023-12-04,Alcantarí_Aeropuerto,,,,,12.4
@@ -73812,6 +73836,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-04,Cañas,21.0,14.5,,,1.0
 2023-12-04,Chaqui,18.9,8.8,,,0.2
 2023-12-04,Charazani (GPRS),19.18,17.65,65.12,59.74,2.6
+2023-12-04,Chillca,,,,,8.0
 2023-12-04,Chimore Aeropuerto,,,,,63.3
 2023-12-04,Chinoli,25.1,7.4,,,5.1
 2023-12-04,Chirapaca,19.9,5.2,,,
@@ -73964,6 +73989,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-04,Santa Ana del Yacuma Aerop,,,,,1.3
 2023-12-04,Santa Rosa Aeropuerto (BENI),35.1,24.0,,,
 2023-12-04,Santiago de Huata,21.0,3.0,,,2.4
+2023-12-04,Santivañez,37.8,12.2,,,
 2023-12-04,Sara Ana,33.0,23.5,,,0.3
 2023-12-04,Sarco,26.1,17.8,,,10.1
 2023-12-04,Sauce Pilata - SDC (GPRS),20.85,11.64,100.0,56.12,2.5
@@ -73993,6 +74019,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-04,Trinidad,28.0,24.0,93.3,82.9,
 2023-12-04,Trinidad Aeropuerto,,,,,2.6
 2023-12-04,Trompillo Aeropuerto,27.0,22.5,,,
+2023-12-04,Tucumillas,24.0,13.0,,,
 2023-12-04,Tupiza,26.8,14.0,,,2.0
 2023-12-04,Tupiza_2_H (GPRS),,,,,0.01
 2023-12-04,Turumayo,24.0,13.0,,,3.2
@@ -74039,6 +74066,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-05,Aeropuerto Copacabana_M (GPRS),,,,,2.3
 2023-12-05,Aeropueto Copacabana_M (GPRS),,,,,2.3
 2023-12-05,Aguadas (GPRS),16.72,13.82,69.29,59.33,1.5
+2023-12-05,Aguaraycito,30.0,24.0,,,
 2023-12-05,Aiquile (GPRS),33.84,19.22,73.67,37.79,0.1
 2023-12-05,Alalay (GPRS),12.13,12.13,72.36,72.36,
 2023-12-05,Alcantarí_Aeropuerto,,11.3,,,
@@ -74260,6 +74288,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-05,Trinidad,30.0,25.0,87.9,65.6,
 2023-12-05,Trinidad Aeropuerto,,,,,1.6
 2023-12-05,Trompillo Aeropuerto,,,,,0.4
+2023-12-05,Tucumillas,28.0,12.5,,,
 2023-12-05,Tupiza,29.8,9.0,,,
 2023-12-05,Turumayo,29.0,12.0,,,
 2023-12-05,Uyuni,23.5,6.5,,,
@@ -74302,6 +74331,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-06,Aeropuerto Copacabana_M (GPRS),,,,,1.6
 2023-12-06,Aeropueto Copacabana_M (GPRS),,,,,1.6
 2023-12-06,Aguadas (GPRS),16.69,11.73,80.3,56.5,
+2023-12-06,Aguaraycito,20.0,18.0,,,1.0
 2023-12-06,Aiquile (GPRS),38.49,23.94,56.7,31.65,
 2023-12-06,Alcantarí_Aeropuerto,,11.0,,,
 2023-12-06,Alto Peñas (GPRS),14.25,10.63,70.35,58.09,1.6
@@ -74502,6 +74532,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-06,Trinidad,34.0,27.0,73.5,52.3,
 2023-12-06,Trinidad Aeropuerto,34.6,,,,
 2023-12-06,Trompillo Aeropuerto,,,,,0.2
+2023-12-06,Tucumillas,29.0,11.0,,,
 2023-12-06,Tupiza,30.2,10.0,,,
 2023-12-06,Turumayo,31.0,15.0,,,
 2023-12-06,Urriolagoytia,,,,,5.0
@@ -74542,6 +74573,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-07,Aeropuerto Copacabana_M (GPRS),,,,,6.5
 2023-12-07,Aeropueto Copacabana_M (GPRS),,,,,6.5
 2023-12-07,Aguadas (GPRS),11.04,9.48,85.5,77.71,0.2
+2023-12-07,Aguaraycito,31.0,25.0,,,
 2023-12-07,Aiquile (GPRS),36.98,23.78,62.8,39.34,
 2023-12-07,Alcantarí_Aeropuerto,,,,,0.2
 2023-12-07,Alto Peñas (GPRS),13.35,11.5,77.28,62.19,0.3
@@ -74567,6 +74599,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-07,Cayarani,,,,,10.5
 2023-12-07,Cañas,20.5,17.0,,,
 2023-12-07,Chaqui,19.8,8.8,,,1.9
+2023-12-07,Chillca,,,,,12.0
 2023-12-07,Chimore Aeropuerto,,24.5,,,
 2023-12-07,Chinoli,25.1,8.2,,,
 2023-12-07,Chirapaca,18.4,5.1,,,
@@ -74708,6 +74741,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-07,Santa Rosa Aeropuerto (BENI),34.9,23.1,,,
 2023-12-07,Santiago de Huata,20.0,5.0,,,
 2023-12-07,Santiago de Machaca,,,,,1.5
+2023-12-07,Santivañez,34.4,13.3,,,
 2023-12-07,Sara Ana,34.5,24.5,,,
 2023-12-07,Sarco,30.5,17.2,,,1.1
 2023-12-07,Sauce Pilata - SDC (GPRS),20.88,11.91,100.0,57.26,
@@ -74735,6 +74769,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-07,Trinidad,35.0,27.0,82.9,52.3,
 2023-12-07,Trinidad Aeropuerto,35.8,,,,
 2023-12-07,Trompillo Aeropuerto,36.0,23.4,,,
+2023-12-07,Tucumillas,34.0,11.0,,,
 2023-12-07,Tupiza,26.7,14.0,,,
 2023-12-07,Turumayo,21.0,17.0,,,
 2023-12-07,Uyuni,24.5,7.2,,,
@@ -74775,6 +74810,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-08,Achocalla,,,,,7.2
 2023-12-08,Achumani,22.1,3.2,,,0.5
 2023-12-08,Aguadas (GPRS),13.74,5.56,88.9,59.0,6.8
+2023-12-08,Aguaraycito,34.0,23.0,,,
 2023-12-08,Aiquile (GPRS),28.65,19.6,74.2,53.08,
 2023-12-08,Alcantarí_Aeropuerto,,,,,5.8
 2023-12-08,Alto Obrajes_Barrio Magisterio,,,,,8.3
@@ -74810,6 +74846,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-08,Cañas,20.0,14.0,,,5.0
 2023-12-08,Challapata Aut,,,,,2.5
 2023-12-08,Chaqui,18.6,8.7,,,4.4
+2023-12-08,Chillca,,,,,10.0
 2023-12-08,Chimore Aeropuerto,,,,,87.7
 2023-12-08,Chinoli,24.2,8.1,,,
 2023-12-08,Chirapaca,17.0,3.4,,,
@@ -74967,6 +75004,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-08,Santa Rosa Aeropuerto (BENI),33.4,22.1,,,
 2023-12-08,Santiago de Huata,18.0,2.0,,,
 2023-12-08,Santiago de Machaca,,,,,4.0
+2023-12-08,Santivañez,31.1,8.9,,,
 2023-12-08,Sara Ana,32.0,23.0,,,21.3
 2023-12-08,Sarco,30.5,16.0,,,
 2023-12-08,Sauce Pilata - SDC (GPRS),22.09,10.81,99.8,47.87,6.2
@@ -74996,6 +75034,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-08,Trinidad,30.0,23.0,99.1,74.0,
 2023-12-08,Trinidad Aeropuerto,30.8,,,,
 2023-12-08,Trompillo Aeropuerto,,,,,0.1
+2023-12-08,Tucumillas,33.0,12.0,,,
 2023-12-08,Tupiza,25.8,15.0,,,
 2023-12-08,Turumayo,24.0,13.0,,,23.5
 2023-12-08,Uyuni,25.0,7.0,,,
@@ -75036,6 +75075,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-09,Achiri,19.0,4.0,,,10.0
 2023-12-09,Achumani,18.2,6.3,,,0.7
 2023-12-09,Aguadas (GPRS),14.76,10.55,88.8,62.68,4.7
+2023-12-09,Aguaraycito,40.0,24.0,,,
 2023-12-09,Aiquile (GPRS),39.85,21.16,64.49,25.48,
 2023-12-09,Alcantarí_Aeropuerto,,,,,0.8
 2023-12-09,Alto Peñas (GPRS),15.95,12.21,69.05,57.52,3.7
@@ -75193,6 +75233,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-09,Santa Ana del Yacuma Aerop,,,,,10.3
 2023-12-09,Santiago de Huata,20.0,3.0,,,1.4
 2023-12-09,Santiago de Machaca,,,,,4.5
+2023-12-09,Santivañez,35.5,10.0,,,
 2023-12-09,Sara Ana,34.5,23.5,,,
 2023-12-09,Sarco,33.3,13.0,,,
 2023-12-09,Sauce Pilata - SDC (GPRS),23.85,13.03,89.9,46.37,12.2
@@ -75220,6 +75261,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-09,Trinidad,33.0,24.0,93.3,58.7,
 2023-12-09,Trinidad Aeropuerto,,,,,16.6
 2023-12-09,Trompillo Aeropuerto,36.0,21.2,,,
+2023-12-09,Tucumillas,35.0,14.0,,,
 2023-12-09,Tupiza,30.2,10.2,,,2.5
 2023-12-09,Tupiza_2_H (GPRS),,,,,0.24
 2023-12-09,Turumayo,31.0,13.0,,,
@@ -75253,6 +75295,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-10,Achiri,19.5,3.0,,,
 2023-12-10,Achumani,17.1,5.2,,,
 2023-12-10,Aguadas (GPRS),17.73,11.86,71.06,57.65,1.5
+2023-12-10,Aguaraycito,26.0,23.0,,,2.0
 2023-12-10,Aiquile (GPRS),37.25,24.87,55.13,40.58,
 2023-12-10,Alcantarí_Aeropuerto,,9.6,,,
 2023-12-10,Alto Peñas (GPRS),11.51,7.84,88.2,77.53,1.0
@@ -75402,6 +75445,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-10,Santa Ana del Yacuma Aerop,35.7,23.5,,,
 2023-12-10,Santa Rosa Aeropuerto (BENI),35.0,,,,
 2023-12-10,Santiago de Huata,19.0,5.0,,,1.0
+2023-12-10,Santivañez,34.4,11.1,,,
 2023-12-10,Sara Ana,37.5,23.0,,,
 2023-12-10,Sarco,31.1,18.9,,,
 2023-12-10,Sauce Pilata - SDC (GPRS),22.3,11.0,100.0,49.35,0.1
@@ -75428,6 +75472,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-10,Trinidad,35.0,29.0,78.3,55.5,
 2023-12-10,Trinidad Aeropuerto,36.4,,,,
 2023-12-10,Trompillo Aeropuerto,37.3,24.6,,,
+2023-12-10,Tucumillas,32.0,12.0,,,
 2023-12-10,Tupiza,23.4,10.0,,,7.5
 2023-12-10,Tupiza_2_H (GPRS),,,,,0.01
 2023-12-10,Turumayo,23.5,16.0,,,
@@ -75462,6 +75507,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-11,Achocalla,,,,,27.0
 2023-12-11,Achumani,24.2,3.1,,,23.5
 2023-12-11,Aguadas (GPRS),17.26,13.5,66.52,57.27,1.6
+2023-12-11,Aguaraycito,40.0,20.0,,,4.0
 2023-12-11,Aiquile (GPRS),33.37,17.42,91.5,38.18,22.8
 2023-12-11,Alalay (GPRS),8.44,7.96,100.0,100.0,
 2023-12-11,Alcantarí_Aeropuerto,,,,,3.7
@@ -75499,6 +75545,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-11,Cañas,30.0,14.5,,,10.0
 2023-12-11,Chaqui,21.8,5.3,,,3.1
 2023-12-11,Charazani (GPRS),14.6,10.74,99.95,79.86,
+2023-12-11,Chillca,,,,,5.4
 2023-12-11,Chimore Aeropuerto,,,,,6.2
 2023-12-11,Chinoli,25.4,7.2,,,
 2023-12-11,Chirapaca,,,,,12.1
@@ -75685,6 +75732,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-11,Trinidad,33.0,24.0,99.1,62.4,
 2023-12-11,Trinidad Aeropuerto,,,,,22.2
 2023-12-11,Trompillo Aeropuerto,34.7,23.3,,,
+2023-12-11,Tucumillas,31.0,12.0,,,
 2023-12-11,Tupiza,27.0,8.0,,,4.2
 2023-12-11,Tupiza_2_H (GPRS),,,,,1.0
 2023-12-11,Turumayo,30.0,15.0,,,13.2
@@ -75724,6 +75772,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-12,Achiri,19.5,6.5,,,
 2023-12-12,Achumani,23.1,6.3,,,0.7
 2023-12-12,Aguadas (GPRS),14.74,9.45,89.8,63.85,
+2023-12-12,Aguaraycito,39.0,22.0,,,
 2023-12-12,Aiquile (GPRS),36.99,22.79,64.9,37.57,
 2023-12-12,Alcantarí_Aeropuerto,,11.2,,,
 2023-12-12,Alto Obrajes_Barrio Magisterio,,,,,2.2
@@ -75887,6 +75936,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-12,Santa Rosa Aeropuerto (BENI),33.2,21.5,,,
 2023-12-12,Santiago de Huata,20.0,4.0,,,1.5
 2023-12-12,Santiago de Machaca,,,,,1.5
+2023-12-12,Santivañez,34.4,10.0,,,
 2023-12-12,Sara Ana,32.5,23.5,,,
 2023-12-12,Sarco,33.1,15.0,,,
 2023-12-12,Sauce Pilata - SDC (GPRS),23.34,13.73,90.8,50.78,
@@ -75911,6 +75961,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-12,Trinidad,33.0,27.0,88.0,62.4,
 2023-12-12,Trinidad Aeropuerto,,,,,17.4
 2023-12-12,Trompillo Aeropuerto,37.0,24.6,,,
+2023-12-12,Tucumillas,29.0,13.0,,,
 2023-12-12,Tupiza,28.0,11.5,,,
 2023-12-12,Turumayo,33.0,15.0,,,
 2023-12-12,Uyuni,26.5,8.8,,,
@@ -75946,6 +75997,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-13,Achiri,20.0,6.5,,,3.0
 2023-12-13,Achumani,24.2,7.2,,,
 2023-12-13,Aguadas (GPRS),16.15,7.91,91.9,65.74,15.9
+2023-12-13,Aguaraycito,44.0,24.0,,,
 2023-12-13,Aiquile (GPRS),39.19,19.36,76.22,34.61,
 2023-12-13,Alalay (GPRS),10.78,10.57,,,
 2023-12-13,Alcantarí_Aeropuerto,,11.5,,,
@@ -75974,6 +76026,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-13,Cayarani,,,,,6.4
 2023-12-13,Cañas,30.0,16.0,,,
 2023-12-13,Chaqui,23.4,7.4,,,
+2023-12-13,Chillca,,,,,10.2
 2023-12-13,Chimore Aeropuerto,,,,,1.6
 2023-12-13,Chinoli,26.1,8.1,,,
 2023-12-13,Chirapaca,,,,,6.0
@@ -76131,6 +76184,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-13,Trinidad,34.0,28.0,88.1,55.5,
 2023-12-13,Trinidad Aeropuerto,34.5,,,,
 2023-12-13,Trompillo Aeropuerto,35.5,25.2,,,
+2023-12-13,Tucumillas,31.0,12.0,,,
 2023-12-13,Tupiza,28.6,14.0,,,2.8
 2023-12-13,Turumayo,34.0,17.0,,,
 2023-12-13,Uyuni,25.7,11.3,,,
@@ -76167,6 +76221,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-14,Achocalla,,,,,1.8
 2023-12-14,Achumani,23.1,6.1,,,
 2023-12-14,Aguadas (GPRS),17.69,13.4,80.1,54.53,10.5
+2023-12-14,Aguaraycito,40.0,25.0,,,
 2023-12-14,Aiquile (GPRS),38.08,21.48,72.85,36.24,
 2023-12-14,Alcantarí_Aeropuerto,,13.0,,,
 2023-12-14,Alto Peñas (GPRS),15.96,12.98,66.54,49.05,4.7
@@ -76337,6 +76392,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-14,Santa Rosa Aeropuerto (BENI),37.7,22.1,,,
 2023-12-14,Santiago de Huata,18.0,5.0,,,
 2023-12-14,Santiago de Machaca,,,,,6.5
+2023-12-14,Santivañez,36.7,10.0,,,
 2023-12-14,Sara Ana,32.0,24.0,,,
 2023-12-14,Sarco,32.2,17.3,,,0.1
 2023-12-14,Sauce Pilata - SDC (GPRS),22.22,14.21,83.7,51.05,
@@ -76363,6 +76419,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-14,Trinidad,33.0,27.0,93.4,66.2,
 2023-12-14,Trinidad Aeropuerto,33.9,,,,
 2023-12-14,Trompillo Aeropuerto,36.3,25.0,,,
+2023-12-14,Tucumillas,30.5,14.0,,,
 2023-12-14,Tupiza,26.0,11.5,,,8.4
 2023-12-14,Tupiza_2_H (GPRS),,,,,0.22
 2023-12-14,Turumayo,32.0,18.0,,,
@@ -76403,6 +76460,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-15,Achocalla,,,,,53.6
 2023-12-15,Achumani,20.2,5.2,,,15.7
 2023-12-15,Aguadas (GPRS),13.66,7.9,91.5,68.47,0.6
+2023-12-15,Aguaraycito,40.0,22.0,,,14.0
 2023-12-15,Aiquile (GPRS),38.3,20.9,73.32,33.97,0.1
 2023-12-15,Alcantarí_Aeropuerto,,,,,14.1
 2023-12-15,Alto Obrajes_Barrio Magisterio,,,,,16.3
@@ -76611,6 +76669,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-15,Santa Rosa Aeropuerto (BENI),33.0,21.8,,,
 2023-12-15,Santiago de Huata,17.0,3.0,,,15.3
 2023-12-15,Santiago de Machaca,,,,,1.5
+2023-12-15,Santivañez,31.1,11.1,,,
 2023-12-15,Sara Ana,26.5,23.0,,,8.0
 2023-12-15,Sarco,29.3,18.0,,,
 2023-12-15,Sauce Pilata - SDC (GPRS),23.46,14.48,75.63,46.1,
@@ -76639,6 +76698,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-15,Trinidad,33.0,27.0,88.0,62.4,
 2023-12-15,Trinidad Aeropuerto,,,,,2.5
 2023-12-15,Trompillo Aeropuerto,35.0,25.7,,,
+2023-12-15,Tucumillas,34.0,14.0,,,
 2023-12-15,Tupiza,28.0,10.0,,,
 2023-12-15,Tupiza_2_H (GPRS),,,,,0.19
 2023-12-15,Turumayo,31.0,14.0,,,15.1
@@ -76682,6 +76742,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-16,Achiri,23.0,4.5,,,4.0
 2023-12-16,Achumani,23.2,4.3,,,
 2023-12-16,Aguadas (GPRS),17.88,13.26,68.69,52.09,16.5
+2023-12-16,Aguaraycito,34.0,21.0,,,
 2023-12-16,Aiquile (GPRS),37.91,18.16,58.81,31.25,4.9
 2023-12-16,Alcantarí_Aeropuerto,,11.7,,,
 2023-12-16,Alto Peñas (GPRS),14.79,11.98,75.25,56.23,5.8
@@ -76830,6 +76891,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-16,Santa Ana del Yacuma Aerop,,,,,15.8
 2023-12-16,Santiago de Huata,18.0,2.0,,,
 2023-12-16,Santiago de Machaca,,,,,8.0
+2023-12-16,Santivañez,31.1,8.9,,,
 2023-12-16,Sara Ana,34.0,23.0,,,23.5
 2023-12-16,Sarco,33.3,14.4,,,
 2023-12-16,Sauce Pilata - SDC (GPRS),22.9,14.5,78.83,49.36,
@@ -76855,6 +76917,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-16,Trinidad,34.0,25.0,93.4,62.6,
 2023-12-16,Trinidad Aeropuerto,34.8,,,,
 2023-12-16,Trompillo Aeropuerto,36.2,24.8,,,
+2023-12-16,Tucumillas,33.0,13.5,,,
 2023-12-16,Tupiza,26.0,14.0,,,
 2023-12-16,Turumayo,32.0,15.5,,,
 2023-12-16,Uyuni,24.0,10.0,,,
@@ -76885,6 +76948,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-17,Achocalla,,,,,4.5
 2023-12-17,Achumani,24.3,5.2,,,1.3
 2023-12-17,Aguadas (GPRS),19.01,14.69,66.14,43.52,
+2023-12-17,Aguaraycito,43.0,23.0,,,
 2023-12-17,Aiquile (GPRS),38.59,26.55,50.92,26.96,
 2023-12-17,Alcantarí_Aeropuerto,,12.4,,,
 2023-12-17,Alto Obrajes_Barrio Magisterio,,,,,2.4
@@ -77051,6 +77115,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-17,Santa Ana del Yacuma Aerop,,,,,31.3
 2023-12-17,Santa Rosa Aeropuerto (BENI),34.0,,,,
 2023-12-17,Santiago de Huata,19.0,4.0,,,
+2023-12-17,Santivañez,33.3,10.0,,,
 2023-12-17,Sara Ana,32.0,22.0,,,
 2023-12-17,Sarco,34.4,14.4,,,4.3
 2023-12-17,Sauce Pilata - SDC (GPRS),23.77,13.47,87.9,46.99,
@@ -77077,6 +77142,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-17,Trinidad,34.0,27.0,82.9,55.5,
 2023-12-17,Trinidad Aeropuerto,,,,,7.1
 2023-12-17,Trompillo Aeropuerto,36.0,25.4,,,
+2023-12-17,Tucumillas,32.0,14.5,,,
 2023-12-17,Tupiza,30.0,12.0,,,
 2023-12-17,Turumayo,35.0,15.0,,,
 2023-12-17,Uyuni,23.8,8.5,,,
@@ -77114,6 +77180,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-18,Achocalla,,,,,0.5
 2023-12-18,Achumani,21.2,6.3,,,
 2023-12-18,Aguadas (GPRS),16.18,11.89,76.56,51.26,
+2023-12-18,Aguaraycito,40.0,26.0,,,
 2023-12-18,Aiquile (GPRS),39.25,23.27,64.72,32.7,0.1
 2023-12-18,Alcantarí_Aeropuerto,,13.1,,,
 2023-12-18,Alto Peñas (GPRS),12.84,5.67,93.8,65.66,0.4
@@ -77137,6 +77204,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-18,Cayarani,,,,,0.5
 2023-12-18,Cañas,28.0,15.0,,,
 2023-12-18,Chaqui,17.8,7.8,,,5.4
+2023-12-18,Chillca,,,,,12.0
 2023-12-18,Chimore Aeropuerto,,,,,4.2
 2023-12-18,Chinoli,25.1,7.2,,,
 2023-12-18,Chirapaca,17.2,6.4,,,
@@ -77267,6 +77335,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-18,Santa Rosa Aeropuerto (BENI),36.3,19.5,,,
 2023-12-18,Santiago de Huata,20.0,5.0,,,
 2023-12-18,Santiago de Machaca,,,,,5.0
+2023-12-18,Santivañez,32.2,11.1,,,
 2023-12-18,Sara Ana,31.0,24.0,,,
 2023-12-18,Sarco,33.3,16.0,,,
 2023-12-18,Sauce Pilata - SDC (GPRS),20.21,11.25,100.0,58.53,3.4
@@ -77293,6 +77362,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-18,Trinidad,34.0,28.0,78.2,52.3,
 2023-12-18,Trinidad Aeropuerto,35.2,,,,
 2023-12-18,Trompillo Aeropuerto,35.5,25.0,,,
+2023-12-18,Tucumillas,34.5,15.0,,,
 2023-12-18,Tupiza,27.8,11.8,,,0.5
 2023-12-18,Turumayo,31.0,16.0,,,
 2023-12-18,Uyuni,24.0,7.0,,,
@@ -77333,6 +77403,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-19,Achocalla,,,,,3.8
 2023-12-19,Achumani,20.1,5.2,,,1.6
 2023-12-19,Aguadas (GPRS),16.77,7.8,89.3,46.62,0.8
+2023-12-19,Aguaraycito,27.0,21.0,,,
 2023-12-19,Aiquile (GPRS),26.55,15.88,94.4,55.82,17.6
 2023-12-19,Alcantarí_Aeropuerto,,,,,3.5
 2023-12-19,Alto Obrajes_Barrio Magisterio,,,,,3.2
@@ -77542,6 +77613,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-19,Trinidad,35.0,29.0,73.8,49.5,
 2023-12-19,Trinidad Aeropuerto,35.8,,,,
 2023-12-19,Trompillo Aeropuerto,,,,,53.7
+2023-12-19,Tucumillas,38.0,13.0,,,
 2023-12-19,Tupiza,24.6,11.5,,,
 2023-12-19,Turumayo,23.0,16.0,,,23.5
 2023-12-19,Urriolagoytia,,,,,22.0
@@ -77586,6 +77658,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-20,Achocalla,,,,,6.1
 2023-12-20,Achumani,23.2,6.3,,,0.7
 2023-12-20,Aguadas (GPRS),20.06,12.53,74.81,40.15,1.8
+2023-12-20,Aguaraycito,32.0,20.0,,,
 2023-12-20,Aiquile (GPRS),36.71,19.63,78.13,39.3,0.2
 2023-12-20,Alcantarí_Aeropuerto,,10.2,,,
 2023-12-20,Alto Peñas (GPRS),16.0,13.15,75.94,49.74,2.6
@@ -77768,6 +77841,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-20,Santa Ana del Yacuma Aerop,33.5,23.7,,,
 2023-12-20,Santa Rosa Aeropuerto (BENI),33.6,21.4,,,
 2023-12-20,Santiago de Huata,20.0,5.0,,,6.3
+2023-12-20,Santivañez,34.4,7.8,,,
 2023-12-20,Sara Ana,29.0,24.0,,,3.3
 2023-12-20,Sarco,32.2,13.9,,,
 2023-12-20,Sauce Pilata - SDC (GPRS),22.35,12.32,100.0,50.47,0.1
@@ -77795,6 +77869,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-20,Trinidad,33.0,24.0,93.3,66.0,
 2023-12-20,Trinidad Aeropuerto,,,,,0.1
 2023-12-20,Trompillo Aeropuerto,,,,,26.2
+2023-12-20,Tucumillas,36.0,13.0,,,2.0
 2023-12-20,Tupiza,27.5,13.0,,,
 2023-12-20,Tupiza_2_H (GPRS),,,,,0.01
 2023-12-20,Turumayo,25.0,15.0,,,4.6
@@ -77833,6 +77908,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-21,Achiri,22.0,5.0,,,
 2023-12-21,Achumani,25.3,7.2,,,
 2023-12-21,Aguadas (GPRS),16.32,11.18,77.75,56.44,
+2023-12-21,Aguaraycito,30.0,21.0,,,5.5
 2023-12-21,Aiquile (GPRS),37.53,20.61,73.3,34.31,
 2023-12-21,Alcantarí_Aeropuerto,,11.7,,,
 2023-12-21,Alto Peñas (GPRS),14.07,8.66,90.3,67.68,0.1
@@ -78000,6 +78076,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-21,Santa Ana del Yacuma Aerop,31.8,24.1,,,
 2023-12-21,Santa Rosa Aeropuerto (BENI),,,,,1.6
 2023-12-21,Santiago de Huata,21.0,4.0,,,
+2023-12-21,Santivañez,32.2,5.5,,,
 2023-12-21,Sara Ana,33.0,24.0,,,2.0
 2023-12-21,Sarco,35.5,17.8,,,
 2023-12-21,Sauce Pilata - SDC (GPRS),22.6,11.06,100.0,55.03,
@@ -78029,6 +78106,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-21,Trinidad,33.0,27.0,88.1,62.4,
 2023-12-21,Trinidad Aeropuerto,33.6,,,,
 2023-12-21,Trompillo Aeropuerto,33.2,24.6,,,
+2023-12-21,Tucumillas,34.0,13.5,,,
 2023-12-21,Tupiza,32.0,14.0,,,
 2023-12-21,Turumayo,26.0,16.0,,,1.1
 2023-12-21,Uyuni,24.2,4.0,,,
@@ -78066,6 +78144,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-22,Achocalla,,,,,3.4
 2023-12-22,Achumani,23.2,6.1,,,
 2023-12-22,Aguadas (GPRS),16.79,11.18,83.1,61.92,0.1
+2023-12-22,Aguaraycito,35.0,22.0,,,
 2023-12-22,Aiquile (GPRS),39.5,24.69,54.62,31.91,
 2023-12-22,Alalay (GPRS),13.75,12.43,76.67,76.67,
 2023-12-22,Alcantarí_Aeropuerto,,11.4,,,
@@ -78095,6 +78174,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-22,Cañas,23.5,16.5,,,
 2023-12-22,Chaqui,22.8,6.6,,,
 2023-12-22,Charazani (GPRS),16.43,13.89,83.49,72.61,
+2023-12-22,Chillca,,,,,5.0
 2023-12-22,Chimore Aeropuerto,,25.0,,,
 2023-12-22,Chinoli,25.1,7.2,,,
 2023-12-22,Chirapaca,19.5,4.2,,,
@@ -78236,6 +78316,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-22,Santa Ana del Yacuma Aerop,,,,,0.9
 2023-12-22,Santa Rosa Aeropuerto (BENI),36.0,22.3,,,
 2023-12-22,Santiago de Huata,20.0,5.0,,,
+2023-12-22,Santivañez,34.4,3.3,,,
 2023-12-22,Sara Ana,35.0,25.0,,,
 2023-12-22,Sarco,35.5,17.8,,,
 2023-12-22,Sauce Pilata - SDC (GPRS),24.24,12.95,100.0,48.99,
@@ -78262,6 +78343,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-22,Trinidad,34.0,27.0,88.0,59.0,
 2023-12-22,Trinidad Aeropuerto,34.6,,,,2.2
 2023-12-22,Trompillo Aeropuerto,,,,,1.8
+2023-12-22,Tucumillas,32.5,12.0,,,
 2023-12-22,Tupiza,31.8,14.1,,,
 2023-12-22,Turumayo,28.0,16.5,,,
 2023-12-22,Uyuni,24.8,6.7,,,
@@ -78300,6 +78382,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-23,Achiri,23.0,3.0,,,
 2023-12-23,Achumani,24.1,8.3,,,
 2023-12-23,Aguadas (GPRS),20.04,13.46,70.66,46.29,1.9
+2023-12-23,Aguaraycito,41.0,25.0,,,
 2023-12-23,Aiquile (GPRS),38.31,22.54,69.0,30.55,
 2023-12-23,Alcantarí_Aeropuerto,,11.4,,,
 2023-12-23,Alto Peñas (GPRS),18.37,10.28,81.2,39.54,4.9
@@ -78431,6 +78514,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-23,Santa Ana del Yacuma Aerop,,,,,1.6
 2023-12-23,Santiago de Huata,18.0,2.0,,,
 2023-12-23,Santiago de Machaca,,,,,6.5
+2023-12-23,Santivañez,31.1,5.5,,,
 2023-12-23,Sara Ana,35.0,22.0,,,
 2023-12-23,Sarco,36.0,17.8,,,
 2023-12-23,Sauce Pilata - SDC (GPRS),25.54,13.74,88.3,37.15,
@@ -78456,6 +78540,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-23,Trinidad,33.0,27.0,88.1,66.0,
 2023-12-23,Trinidad Aeropuerto,34.0,,,,
 2023-12-23,Trompillo Aeropuerto,34.4,25.3,,,
+2023-12-23,Tucumillas,30.0,12.0,,,
 2023-12-23,Tupiza,29.7,12.8,,,
 2023-12-23,Turumayo,30.0,16.0,,,
 2023-12-23,Uyuni,28.0,7.0,,,
@@ -78486,6 +78571,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-24,Achiri,22.0,3.5,,,4.0
 2023-12-24,Achumani,25.2,7.2,,,
 2023-12-24,Aguadas (GPRS),21.39,19.72,47.94,34.34,
+2023-12-24,Aguaraycito,44.0,28.0,,,
 2023-12-24,Aiquile (GPRS),41.9,24.33,63.68,20.14,
 2023-12-24,Alcantarí_Aeropuerto,,13.1,,,
 2023-12-24,Alto Peñas (GPRS),17.46,13.77,70.43,48.81,3.7
@@ -78619,6 +78705,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-24,Santa Ana - Yacuma,34.0,28.0,83.0,58.7,
 2023-12-24,Santa Ana del Yacuma Aerop,,,,,7.5
 2023-12-24,Santiago de Huata,19.0,4.0,,,
+2023-12-24,Santivañez,33.3,7.8,,,
 2023-12-24,Sara Ana,35.0,25.0,,,
 2023-12-24,Sarco,38.3,19.4,,,
 2023-12-24,Sauce Pilata - SDC (GPRS),28.31,14.62,73.28,26.08,
@@ -78644,6 +78731,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-24,Trinidad,32.0,27.0,88.0,66.0,
 2023-12-24,Trinidad Aeropuerto,33.0,,,,
 2023-12-24,Trompillo Aeropuerto,34.5,25.0,,,
+2023-12-24,Tucumillas,34.0,13.0,,,
 2023-12-24,Tupiza,28.4,12.0,,,
 2023-12-24,Tupiza_2_H (GPRS),,,,,0.48
 2023-12-24,Turumayo,35.0,16.5,,,
@@ -78678,6 +78766,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-25,Achocalla,,,,,1.3
 2023-12-25,Achumani,28.3,8.4,,,
 2023-12-25,Aguadas (GPRS),20.87,15.6,52.91,30.63,
+2023-12-25,Aguaraycito,37.0,27.0,,,
 2023-12-25,Aiquile (GPRS),40.38,24.38,48.24,23.53,
 2023-12-25,Alcantarí_Aeropuerto,,13.2,,,
 2023-12-25,Alto Peñas (GPRS),18.01,15.28,54.11,40.89,
@@ -78817,6 +78906,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-25,Santa Ana del Yacuma Aerop,29.3,,,,
 2023-12-25,Santa Rosa Aeropuerto (BENI),32.0,,,,
 2023-12-25,Santiago de Huata,20.0,5.0,,,
+2023-12-25,Santivañez,36.7,6.7,,,
 2023-12-25,Sara Ana,37.0,25.0,,,
 2023-12-25,Sarco,37.8,16.1,,,
 2023-12-25,Sauce Pilata - SDC (GPRS),26.78,10.99,100.0,34.28,
@@ -78843,6 +78933,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-25,Trinidad,29.0,25.0,93.4,83.0,
 2023-12-25,Trinidad Aeropuerto,29.3,,,,0.3
 2023-12-25,Trompillo Aeropuerto,34.6,24.6,,,
+2023-12-25,Tucumillas,38.0,14.0,,,
 2023-12-25,Tupiza,31.2,16.2,,,
 2023-12-25,Turumayo,32.0,15.0,,,1.4
 2023-12-25,Uyuni,26.0,8.0,,,
@@ -78878,6 +78969,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-26,Achiri,19.5,5.0,,,
 2023-12-26,Achumani,24.2,6.2,,,
 2023-12-26,Aguadas (GPRS),11.66,8.53,85.1,54.84,4.2
+2023-12-26,Aguaraycito,30.0,21.0,,,97.5
 2023-12-26,Aiquile (GPRS),30.7,15.57,92.5,38.55,15.3
 2023-12-26,Alcantarí_Aeropuerto,,11.0,,,
 2023-12-26,Alto Peñas (GPRS),12.03,8.55,73.86,56.05,0.1
@@ -79099,6 +79191,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-26,Trinidad,31.0,26.0,93.4,69.8,
 2023-12-26,Trinidad Aeropuerto,31.5,,,,2.8
 2023-12-26,Trompillo Aeropuerto,,,,,3.4
+2023-12-26,Tucumillas,37.0,13.0,,,42.0
 2023-12-26,Tupiza,26.4,13.2,,,5.4
 2023-12-26,Tupiza_2_H (GPRS),,,,,0.19
 2023-12-26,Turumayo,29.0,15.5,,,17.4
@@ -79139,6 +79232,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-27,Achiri,18.0,4.5,,,12.0
 2023-12-27,Achumani,24.3,7.3,,,
 2023-12-27,Aguadas (GPRS),13.54,9.07,87.4,63.91,1.3
+2023-12-27,Aguaraycito,37.0,22.0,,,
 2023-12-27,Aiquile (GPRS),32.96,18.6,74.13,42.98,2.3
 2023-12-27,Alcantarí_Aeropuerto,,10.7,,,
 2023-12-27,Alto Peñas (GPRS),15.24,12.41,63.91,54.27,
@@ -79169,6 +79263,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-27,Cañas,29.5,18.5,,,
 2023-12-27,Challapata Aut,,,,,5.7
 2023-12-27,Chaqui,20.9,8.9,,,
+2023-12-27,Chillca,,,,,5.6
 2023-12-27,Chimore Aeropuerto,,,,,14.6
 2023-12-27,Chinoli,25.1,8.1,,,
 2023-12-27,Chirapaca,19.1,3.2,,,
@@ -79304,6 +79399,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-27,Santa Rosa Aeropuerto (BENI),,,,,5.2
 2023-12-27,Santiago de Huata,18.0,4.0,,,
 2023-12-27,Santiago de Machaca,,,,,10.0
+2023-12-27,Santivañez,31.1,8.9,,,
 2023-12-27,Sara Ana,33.0,23.0,,,7.2
 2023-12-27,Sarco,29.4,13.3,,,0.8
 2023-12-27,Sauce Pilata - SDC (GPRS),23.0,13.34,91.8,48.12,0.9
@@ -79333,6 +79429,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-27,Trinidad,34.0,25.0,93.3,55.5,
 2023-12-27,Trinidad Aeropuerto,34.8,,,,
 2023-12-27,Trompillo Aeropuerto,,,,,3.0
+2023-12-27,Tucumillas,35.0,12.0,,,
 2023-12-27,Tupiza,29.4,13.0,,,
 2023-12-27,Turumayo,31.0,15.0,,,
 2023-12-27,Uyuni,26.5,6.0,,,
@@ -79367,6 +79464,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-28,Achiri,18.5,7.5,,,18.0
 2023-12-28,Achumani,23.2,8.2,,,
 2023-12-28,Aguadas (GPRS),14.01,5.96,90.7,68.83,2.5
+2023-12-28,Aguaraycito,41.0,23.0,,,
 2023-12-28,Aiquile (GPRS),39.59,22.32,58.33,32.41,
 2023-12-28,Alcantarí_Aeropuerto,,10.4,,,
 2023-12-28,Alto Peñas (GPRS),14.6,14.6,58.38,58.38,
@@ -79532,6 +79630,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-28,Santa Rosa Aeropuerto (BENI),,,,,5.2
 2023-12-28,Santiago de Huata,19.0,2.0,,,
 2023-12-28,Santiago de Machaca,,,,,1.5
+2023-12-28,Santivañez,32.2,7.8,,,
 2023-12-28,Sara Ana,37.0,22.0,,,
 2023-12-28,Sarco,34.4,15.0,,,
 2023-12-28,Sauce Pilata - SDC (GPRS),23.88,14.97,82.7,48.23,0.3
@@ -79559,6 +79658,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-28,Trinidad,36.0,28.0,83.0,46.8,
 2023-12-28,Trinidad Aeropuerto,36.5,,,,
 2023-12-28,Trompillo Aeropuerto,35.6,24.4,,,
+2023-12-28,Tucumillas,34.0,13.5,,,
 2023-12-28,Tupiza,32.0,15.0,,,
 2023-12-28,Turumayo,34.0,14.0,,,
 2023-12-28,Uyuni,24.5,4.8,,,
@@ -79595,6 +79695,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-29,Achocalla,,,,,1.0
 2023-12-29,Achumani,22.7,9.6,,,
 2023-12-29,Aguadas (GPRS),17.2,11.35,81.6,62.22,12.4
+2023-12-29,Aguaraycito,38.0,20.0,,,
 2023-12-29,Aiquile (GPRS),39.79,23.83,62.65,31.41,
 2023-12-29,Alcantarí_Aeropuerto,,,,,2.0
 2023-12-29,Alto Peñas (GPRS),15.16,10.46,75.21,61.82,11.7
@@ -79803,6 +79904,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-29,Trinidad,36.0,29.0,73.8,46.8,
 2023-12-29,Trinidad Aeropuerto,36.3,,,,
 2023-12-29,Trompillo Aeropuerto,35.5,25.7,,,
+2023-12-29,Tucumillas,36.0,14.0,,,
 2023-12-29,Tupiza,25.0,13.2,,,11.0
 2023-12-29,Tupiza_2_H (GPRS),,,,,1.65
 2023-12-29,Turumayo,30.0,18.0,,,
@@ -79844,6 +79946,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-30,Achiri,17.0,5.1,,,3.0
 2023-12-30,Achumani,20.2,9.3,,,
 2023-12-30,Aguadas (GPRS),14.0,8.09,82.7,65.06,19.5
+2023-12-30,Aguaraycito,29.0,20.0,,,16.5
 2023-12-30,Aiquile (GPRS),19.25,14.44,94.2,58.71,21.2
 2023-12-30,Alcantarí_Aeropuerto,,,,,41.8
 2023-12-30,Alto Peñas (GPRS),11.86,11.01,74.36,60.69,
@@ -79877,6 +79980,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-30,Cañas,20.0,15.0,,,34.6
 2023-12-30,Challapata Aut,,,,,5.7
 2023-12-30,Chaqui,15.6,7.5,,,13.8
+2023-12-30,Chillca,,,,,2.0
 2023-12-30,Chinoli,25.0,7.1,,,20.4
 2023-12-30,Chirapaca,17.0,5.2,,,
 2023-12-30,Chua Cocani_M (GPRS),14.69,7.23,92.1,55.71,
@@ -80050,6 +80154,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-30,Trinidad,32.0,24.0,99.1,66.0,
 2023-12-30,Trinidad Aeropuerto,32.9,,,,
 2023-12-30,Trompillo Aeropuerto,,,,,42.1
+2023-12-30,Tucumillas,20.0,12.5,,,48.0
 2023-12-30,Tupiza,21.2,11.4,,,53.4
 2023-12-30,Tupiza_2_H (GPRS),,,,,24.89
 2023-12-30,Turumayo,30.0,14.0,,,76.4
@@ -80090,6 +80195,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-31,Achocalla,,,,,5.5
 2023-12-31,Achumani,24.0,7.9,,,2.5
 2023-12-31,Aguadas (GPRS),15.91,12.84,69.26,58.76,0.1
+2023-12-31,Aguaraycito,34.0,22.0,,,1.5
 2023-12-31,Aiquile (GPRS),30.59,16.49,85.2,48.72,4.0
 2023-12-31,Alcantarí_Aeropuerto,,,,,5.2
 2023-12-31,Alto Obrajes_Barrio Magisterio,,,,,4.2
@@ -80123,6 +80229,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-31,Cañas,27.5,13.5,,,14.6
 2023-12-31,Challapata Aut,,,,,0.7
 2023-12-31,Chaqui,20.7,8.1,,,5.4
+2023-12-31,Chillca,,,,,4.6
 2023-12-31,Chinoli,24.1,6.4,,,4.2
 2023-12-31,Chirapaca,,,,,3.0
 2023-12-31,Chorocona,,,,,7.2
@@ -80291,6 +80398,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-31,Trinidad,29.0,25.0,93.3,73.8,
 2023-12-31,Trinidad Aeropuerto,30.9,,,,31.5
 2023-12-31,Trompillo Aeropuerto,,,,,4.2
+2023-12-31,Tucumillas,22.0,13.0,,,13.0
 2023-12-31,Tupiza,28.0,12.4,,,18.5
 2023-12-31,Tupiza_2_H (GPRS),,,,,2.21
 2023-12-31,Turumayo,30.0,15.0,,,1.2
