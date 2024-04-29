@@ -59337,6 +59337,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-01,Capinota,32.0,14.0,,,
 2023-10-01,Carabuco,,3.0,,,
 2023-10-01,Caranavi,36.5,22.5,,,
+2023-10-01,Carmen Pampa,27.5,10.2,,,32.5
 2023-10-01,Catacora,13.0,-6.0,,,
 2023-10-01,Cañas,28.5,4.5,,,
 2023-10-01,Chaqui,24.3,4.8,,,
@@ -59531,6 +59532,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-02,Capinota,31.5,13.5,,,
 2023-10-02,Carabuco,,3.3,,,
 2023-10-02,Caranavi,37.0,22.0,,,
+2023-10-02,Carmen Pampa,22.3,11.4,,,4.3
 2023-10-02,Catacora,14.0,-7.0,,,
 2023-10-02,Cañas,31.5,7.5,,,
 2023-10-02,Challapata Aut,,,,,1.9
@@ -59745,6 +59747,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-03,Capinota,31.0,14.2,,,
 2023-10-03,Carabuco,,5.0,,,
 2023-10-03,Caranavi,38.0,23.0,,,
+2023-10-03,Carmen Pampa,25.6,11.2,,,7.8
 2023-10-03,Catacora,14.5,-7.0,,,
 2023-10-03,Cayarani,,,,,0.5
 2023-10-03,Cañas,38.5,12.5,,,
@@ -59953,6 +59956,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-04,Capinota,32.0,14.5,,,
 2023-10-04,Carabuco,,3.0,,,
 2023-10-04,Caranavi,38.5,24.5,,,
+2023-10-04,Carmen Pampa,24.5,10.3,,,9.4
 2023-10-04,Catacora,13.5,-6.5,,,
 2023-10-04,Cayarani,,,,,0.3
 2023-10-04,Cañas,23.0,14.0,,,
@@ -60166,6 +60170,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-05,Carabuco,,5.5,,,
 2023-10-05,Caranavi,36.5,23.0,,,7.0
 2023-10-05,Caranavi_H (GPRS),,,,,0.11
+2023-10-05,Carmen Pampa,22.5,8.7,,,8.3
 2023-10-05,Carura_M (GPRS),,,,,17.4
 2023-10-05,Catacora,14.0,-7.0,,,
 2023-10-05,Cayarani,,,,,10.2
@@ -60384,6 +60389,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-06,Capinota,33.5,14.5,,,
 2023-10-06,Carabuco,,3.7,,,
 2023-10-06,Caranavi,37.0,24.5,,,
+2023-10-06,Carmen Pampa,20.5,9.8,,,13.2
 2023-10-06,Catacora,14.5,-7.5,,,
 2023-10-06,Cayarani,,,,,0.5
 2023-10-06,Cañas,37.5,7.0,,,
@@ -60596,6 +60602,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-07,Capinota,33.0,15.0,,,
 2023-10-07,Carabuco,,6.0,,,
 2023-10-07,Caranavi,36.0,23.0,,,
+2023-10-07,Carmen Pampa,30.1,12.3,,,24.8
 2023-10-07,Catacora,15.0,-7.5,,,
 2023-10-07,Cayarani,,,,,5.0
 2023-10-07,Cañas,19.5,12.0,,,
@@ -60797,6 +60804,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-08,Capinota,32.5,14.2,,,
 2023-10-08,Carabuco,,7.5,,,
 2023-10-08,Caranavi,36.5,23.5,,,
+2023-10-08,Carmen Pampa,29.4,11.4,,,53.6
 2023-10-08,Catacora,15.0,-6.0,,,
 2023-10-08,Cayarani,,,,,18.2
 2023-10-08,Cañas,24.0,11.5,,,3.0
@@ -61018,6 +61026,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-09,Carabuco,,7.5,,,
 2023-10-09,Caranavi,37.0,24.0,,,
 2023-10-09,Caranavi_H (GPRS),,,,,0.03
+2023-10-09,Carmen Pampa,24.3,9.5,,,49.8
 2023-10-09,Catacora,15.0,-6.5,,,
 2023-10-09,Cayarani,,,,,6.1
 2023-10-09,Cañas,28.5,7.5,,,
@@ -61242,6 +61251,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-10,Carabuco,,6.3,,,
 2023-10-10,Caranavi,37.5,24.5,,,
 2023-10-10,Caranavi_H (GPRS),,,,,0.08
+2023-10-10,Carmen Pampa,30.1,12.7,,,30.0
 2023-10-10,Catacora,15.0,-7.0,,,
 2023-10-10,Cayarani,,,,,0.9
 2023-10-10,Cañas,36.5,8.0,,,
@@ -61467,6 +61477,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-11,Capinota,32.2,14.5,,,
 2023-10-11,Carabuco,,5.0,,,
 2023-10-11,Caranavi,36.0,22.5,,,
+2023-10-11,Carmen Pampa,29.3,8.9,,,
 2023-10-11,Catacora,15.5,-6.5,,,
 2023-10-11,Cañas,33.5,11.5,,,
 2023-10-11,Chaqui,27.7,6.0,,,
@@ -61677,6 +61688,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-12,Capinota,32.5,15.0,,,
 2023-10-12,Carabuco,,6.5,,,
 2023-10-12,Caranavi,35.5,21.0,,,
+2023-10-12,Carmen Pampa,29.8,12.2,,,
 2023-10-12,Catacora,14.0,-6.0,,,
 2023-10-12,Cayarani,,,,,2.7
 2023-10-12,Cañas,24.0,12.0,,,
@@ -61893,6 +61905,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-13,Carabuco,,7.3,,,
 2023-10-13,Caranavi,36.0,21.5,,,
 2023-10-13,Caranavi_H (GPRS),,,,,0.03
+2023-10-13,Carmen Pampa,28.2,9.3,,,1.3
 2023-10-13,Catacora,15.5,-5.5,,,
 2023-10-13,Cayarani,,,,,6.9
 2023-10-13,Cañas,24.0,7.5,,,
@@ -62106,6 +62119,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-14,Capinota,31.0,14.2,,,
 2023-10-14,Carabuco,,5.0,,,
 2023-10-14,Caranavi,36.5,22.0,,,
+2023-10-14,Carmen Pampa,29.7,7.5,,,1.2
 2023-10-14,Catacora,16.0,-6.0,,,
 2023-10-14,Cañas,30.0,5.0,,,
 2023-10-14,Chaqui,25.4,4.6,,,
@@ -62291,6 +62305,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-15,Capinota,31.5,14.0,,,
 2023-10-15,Carabuco,,3.5,,,
 2023-10-15,Caranavi,37.0,22.5,,,
+2023-10-15,Carmen Pampa,28.0,7.0,,,3.5
 2023-10-15,Catacora,16.0,-6.0,,,
 2023-10-15,Cañas,34.0,8.0,,,
 2023-10-15,Chaqui,25.3,5.6,,,
@@ -62485,6 +62500,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-16,Capinota,30.0,13.5,,,
 2023-10-16,Carabuco,,5.0,,,
 2023-10-16,Caranavi,38.0,23.0,,,
+2023-10-16,Carmen Pampa,26.9,8.3,,,26.5
 2023-10-16,Catacora,15.5,-6.0,,,
 2023-10-16,Cañas,37.0,14.0,,,
 2023-10-16,Chaqui,25.6,7.1,,,
@@ -62697,6 +62713,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-17,Capinota,30.2,14.0,,,
 2023-10-17,Carabuco,,6.1,,,
 2023-10-17,Caranavi,39.5,23.5,,,
+2023-10-17,Carmen Pampa,24.7,7.0,,,6.2
 2023-10-17,Catacora,15.0,-5.5,,,
 2023-10-17,Cañas,29.5,15.5,,,
 2023-10-17,Chaqui,22.2,6.1,,,
@@ -62927,6 +62944,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-18,Carabuco,,6.0,,,
 2023-10-18,Caranavi,37.5,22.5,,,
 2023-10-18,Caranavi_H (GPRS),,,,,0.01
+2023-10-18,Carmen Pampa,23.4,7.2,,,12.5
 2023-10-18,Catacora,16.0,-5.0,,,
 2023-10-18,Cayarani,,,,,8.1
 2023-10-18,Cañas,29.5,14.5,,,5.8
@@ -63171,6 +63189,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-19,Capinota,31.0,13.5,,,
 2023-10-19,Carabuco,,6.0,,,2.7
 2023-10-19,Caranavi,38.0,23.0,,,
+2023-10-19,Carmen Pampa,27.8,8.6,,,8.5
 2023-10-19,Catacora,14.0,-3.0,,,3.2
 2023-10-19,Cayarani,,,,,0.3
 2023-10-19,Cañas,21.5,12.0,,,36.2
@@ -63422,6 +63441,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-20,Carabuco,,6.7,,,
 2023-10-20,Caranavi,38.5,23.5,,,4.5
 2023-10-20,Caranavi_H (GPRS),,,,,0.81
+2023-10-20,Carmen Pampa,29.7,7.5,,,
 2023-10-20,Catacora,14.0,-3.0,,,2.4
 2023-10-20,Cayarani,,,,,6.8
 2023-10-20,Cañas,30.0,13.5,,,1.4
@@ -63666,6 +63686,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-21,Capinota,29.5,14.0,,,1.8
 2023-10-21,Carabuco,,6.3,,,
 2023-10-21,Caranavi,38.0,23.0,,,
+2023-10-21,Carmen Pampa,24.8,9.0,,,23.5
 2023-10-21,Catacora,15.0,-2.0,,,3.2
 2023-10-21,Cayarani,,,,,3.2
 2023-10-21,Cañas,31.0,15.0,,,
@@ -63876,6 +63897,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-22,Capinota,30.5,12.5,,,
 2023-10-22,Carabuco,,7.0,,,
 2023-10-22,Caranavi,39.0,23.5,,,
+2023-10-22,Carmen Pampa,25.1,7.0,,,13.5
 2023-10-22,Catacora,15.0,-2.0,,,3.7
 2023-10-22,Cayarani,,,,,8.1
 2023-10-22,Cañas,32.5,14.5,,,7.8
@@ -64083,6 +64105,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-23,Capinota,30.0,13.2,,,
 2023-10-23,Carabuco,,6.3,,,
 2023-10-23,Caranavi,38.5,23.0,,,
+2023-10-23,Carmen Pampa,23.4,8.1,,,
 2023-10-23,Catacora,14.0,-2.0,,,4.2
 2023-10-23,Cañas,30.5,14.0,,,20.6
 2023-10-23,Chaqui,,,,,10.4
@@ -64315,6 +64338,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-24,Capinota,29.0,14.5,,,
 2023-10-24,Carabuco,,6.0,,,3.2
 2023-10-24,Caranavi,37.5,22.5,,,
+2023-10-24,Carmen Pampa,27.4,7.0,,,
 2023-10-24,Catacora,15.0,-1.5,,,5.5
 2023-10-24,Cañas,27.5,13.5,,,51.4
 2023-10-24,Chaqui,21.9,6.8,,,
@@ -64570,6 +64594,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-25,Carabuco,,7.3,,,
 2023-10-25,Caranavi,36.0,22.0,,,9.0
 2023-10-25,Caranavi_H (GPRS),,,,,2.37
+2023-10-25,Carmen Pampa,30.4,7.2,,,1.5
 2023-10-25,Carura_M (GPRS),,,,,8.5
 2023-10-25,Catacora,16.0,-6.0,,,1.0
 2023-10-25,Cayarani,,,,,2.1
@@ -64822,6 +64847,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-26,Capinota,30.2,13.2,,,
 2023-10-26,Carabuco,,4.9,,,1.7
 2023-10-26,Caranavi,36.5,21.5,,,
+2023-10-26,Carmen Pampa,30.1,7.0,,,
 2023-10-26,Catacora,16.0,-7.0,,,
 2023-10-26,Cañas,30.5,15.0,,,0.4
 2023-10-26,Chaqui,23.2,4.1,,,
@@ -65053,6 +65079,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-27,Carabuco,,5.0,,,
 2023-10-27,Caranavi,37.0,22.5,,,
 2023-10-27,Caranavi_H (GPRS),,,,,0.22
+2023-10-27,Carmen Pampa,30.7,7.4,,,30.0
 2023-10-27,Catacora,15.5,-7.0,,,
 2023-10-27,Cañas,29.0,15.0,,,
 2023-10-27,Chaqui,25.6,6.4,,,
@@ -65279,6 +65306,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-28,Carabuco,,6.5,,,
 2023-10-28,Caranavi,35.0,22.0,,,11.5
 2023-10-28,Caranavi_H (GPRS),,,,,0.02
+2023-10-28,Carmen Pampa,30.4,7.1,,,58.0
 2023-10-28,Carura_M (GPRS),,,,,7.2
 2023-10-28,Catacora,14.0,-6.5,,,
 2023-10-28,Cayarani,,,,,5.8
@@ -65488,6 +65516,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-29,Carabuco,,6.0,,,
 2023-10-29,Caranavi,36.0,21.5,,,
 2023-10-29,Caranavi_H (GPRS),,,,,1.58
+2023-10-29,Carmen Pampa,30.6,7.0,,,2.1
 2023-10-29,Catacora,15.0,-7.0,,,
 2023-10-29,Cayarani,,,,,2.1
 2023-10-29,Cañas,33.0,13.0,,,
@@ -65694,6 +65723,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-30,Capinota,31.0,15.2,,,
 2023-10-30,Carabuco,,2.0,,,
 2023-10-30,Caranavi,36.5,21.0,,,
+2023-10-30,Carmen Pampa,32.7,7.5,,,
 2023-10-30,Catacora,15.0,-7.5,,,
 2023-10-30,Cayarani,,,,,2.3
 2023-10-30,Cañas,29.5,15.5,,,
@@ -65922,6 +65952,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-31,Capinota,31.2,14.5,,,
 2023-10-31,Carabuco,,3.5,,,
 2023-10-31,Caranavi,35.0,20.0,,,
+2023-10-31,Carmen Pampa,34.4,7.0,,,2.0
 2023-10-31,Carura_M (GPRS),,,,,17.6
 2023-10-31,Catacora,14.0,-7.0,,,
 2023-10-31,Cañas,27.5,15.0,,,
@@ -73305,6 +73336,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-01,Yesera Norte,30.0,17.0,,,
 2023-12-01,Yesera Sur,31.0,15.0,,,
 2023-12-01,Yocalla,26.1,5.2,,,2.0
+2023-12-01,Yotala,34.0,9.0,,,
 2023-12-01,Zudañez,28.0,11.0,,,
 2023-12-01,Ñoquejza,15.2,7.3,,,3.0
 2023-12-02,4 Esquinas (GPRS),10.03,7.26,,,3.1
@@ -73528,6 +73560,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-02,Yesera Norte,25.0,16.0,,,
 2023-12-02,Yesera Sur,28.0,16.0,,,
 2023-12-02,Yocalla,27.4,7.3,,,10.1
+2023-12-02,Yotala,27.0,13.0,,,
 2023-12-02,Zudañez,30.0,12.0,,,
 2023-12-02,Ñoquejza,16.9,6.3,,,2.8
 2023-12-03, Paniagua_M (GPRS),,,,,3.0
@@ -73789,6 +73822,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-03,Yesera Norte,28.0,15.0,,,
 2023-12-03,Yesera Sur,29.0,14.0,,,
 2023-12-03,Yocalla,28.3,10.1,,,5.3
+2023-12-03,Yotala,26.0,15.4,,,10.0
 2023-12-03,Zudañez,,,,,14.3
 2023-12-03,Ñoquejza,19.2,5.1,,,
 2023-12-03,Ñucchu,,,,,7.0
@@ -74053,6 +74087,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-04,Yesera Norte,31.0,14.0,,,2.0
 2023-12-04,Yesera Sur,22.0,13.0,,,
 2023-12-04,Yocalla,30.1,10.4,,,1.0
+2023-12-04,Yotala,20.0,14.3,,,
 2023-12-04,Zudañez,29.0,10.0,,,
 2023-12-04,Ñoquejza,16.9,6.2,,,8.0
 2023-12-04,Ñucchu,,,,,3.0
@@ -74321,6 +74356,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-05,Yesera Norte,27.0,12.0,,,
 2023-12-05,Yesera Sur,23.0,11.0,,,
 2023-12-05,Yocalla,27.4,9.3,,,
+2023-12-05,Yotala,24.0,14.0,,,13.5
 2023-12-05,Zudañez,31.0,13.0,,,
 2023-12-05,Ñoquejza,19.2,7.1,,,
 2023-12-06, Paniagua_M (GPRS),,,,,2.7
@@ -74563,6 +74599,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-06,Yesera Norte,26.0,14.0,,,
 2023-12-06,Yesera Sur,27.0,14.0,,,
 2023-12-06,Yocalla,28.1,8.2,,,
+2023-12-06,Yotala,28.0,14.0,,,
 2023-12-06,Zudañez,27.0,10.0,,,
 2023-12-06,Ñoquejza,19.4,6.1,,,
 2023-12-07, Paniagua_M (GPRS),,,,,12.8
@@ -74801,6 +74838,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-07,Yesera Norte,18.0,16.5,,,2.5
 2023-12-07,Yesera Sur,22.0,12.0,,,
 2023-12-07,Yocalla,27.2,6.3,,,
+2023-12-07,Yotala,26.0,17.0,,,
 2023-12-07,Zudañez,24.0,9.0,,,
 2023-12-07,Ñoquejza,19.9,7.1,,,
 2023-12-08, Paniagua_M (GPRS),,,,,5.9
@@ -75067,6 +75105,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-08,Yesera Norte,20.0,14.0,,,11.0
 2023-12-08,Yesera Sur,26.0,14.0,,,3.0
 2023-12-08,Yocalla,30.1,11.4,,,5.2
+2023-12-08,Yotala,22.0,16.0,,,
 2023-12-08,Zudañez,26.0,11.0,,,
 2023-12-08,Ñoquejza,18.4,5.1,,,
 2023-12-09, Paniagua_M (GPRS),,,,,25.4
@@ -75287,6 +75326,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-09,Yesera Norte,28.0,12.0,,,
 2023-12-09,Yesera Sur,28.0,12.0,,,
 2023-12-09,Yocalla,32.4,12.3,,,21.0
+2023-12-09,Yotala,27.0,11.0,,,
 2023-12-09,Zudañez,,,,,28.1
 2023-12-09,Ñoquejza,16.8,6.1,,,
 2023-12-10, Paniagua_M (GPRS),,,,,23.7
@@ -75497,6 +75537,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-10,Yesera Norte,19.0,14.0,,,
 2023-12-10,Yesera Sur,22.0,14.0,,,
 2023-12-10,Yocalla,31.0,9.4,,,0.2
+2023-12-10,Yotala,26.4,11.0,,,
 2023-12-10,Zudañez,31.0,16.0,,,
 2023-12-10,Ñoquejza,17.1,7.2,,,
 2023-12-11, Paniagua_M (GPRS),,,,,46.4
@@ -75764,6 +75805,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-11,Yesera Norte,23.0,14.0,,,7.0
 2023-12-11,Yesera Sur,25.0,12.0,,,
 2023-12-11,Yocalla,30.1,7.0,,,
+2023-12-11,Yotala,25.0,14.0,,,7.5
 2023-12-11,Zudañez,30.0,13.0,,,
 2023-12-11,Ñoquejza,18.2,8.7,,,
 2023-12-11,Ñucchu,,,,,48.0
@@ -75990,6 +76032,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-12,Yesera Norte,28.0,13.0,,,
 2023-12-12,Yesera Sur,28.0,14.0,,,9.0
 2023-12-12,Yocalla,28.2,9.1,,,
+2023-12-12,Yotala,27.0,14.0,,,
 2023-12-12,Zudañez,31.0,15.0,,,
 2023-12-12,Ñoquejza,17.4,6.1,,,
 2023-12-13,4 Esquinas (GPRS),13.68,8.45,,,
@@ -76212,6 +76255,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-13,Yesera Norte,29.0,15.0,,,
 2023-12-13,Yesera Sur,31.0,13.0,,,
 2023-12-13,Yocalla,29.4,11.2,,,
+2023-12-13,Yotala,27.0,14.0,,,
 2023-12-13,Zudañez,26.0,13.0,,,
 2023-12-13,Ñoquejza,19.1,5.8,,,14.0
 2023-12-14, Paniagua_M (GPRS),,,,,1.5
@@ -76450,6 +76494,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-14,Yesera Norte,30.0,18.0,,,1.7
 2023-12-14,Yesera Sur,28.0,15.0,,,
 2023-12-14,Yocalla,30.1,12.1,,,
+2023-12-14,Yotala,27.4,16.0,,,
 2023-12-14,Zudañez,27.0,13.0,,,
 2023-12-14,Ñoquejza,18.2,5.0,,,
 2023-12-15, Paniagua_M (GPRS),,,,,51.7
@@ -76732,6 +76777,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-15,Yesera Norte,30.0,15.0,,,
 2023-12-15,Yesera Sur,27.0,14.0,,,18.0
 2023-12-15,Yocalla,31.2,15.0,,,
+2023-12-15,Yotala,26.0,14.0,,,18.0
 2023-12-15,Zudañez,,,,,2.1
 2023-12-15,Ñoquejza,17.4,6.1,,,15.0
 2023-12-15,Ñucchu,,,,,19.0
@@ -76939,6 +76985,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-16,Yesera Norte,28.0,15.0,,,
 2023-12-16,Yesera Sur,29.0,13.0,,,
 2023-12-16,Yocalla,28.1,9.1,,,
+2023-12-16,Yotala,27.0,14.0,,,
 2023-12-16,Zudañez,26.0,14.0,,,
 2023-12-16,Ñoquejza,17.8,6.4,,,
 2023-12-17, Paniagua_M (GPRS),,,,,0.6
@@ -77171,6 +77218,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-17,Yesera Norte,28.0,15.0,,,
 2023-12-17,Yesera Sur,25.0,15.0,,,
 2023-12-17,Yocalla,27.4,10.4,,,4.1
+2023-12-17,Yotala,30.4,9.0,,,
 2023-12-17,Zudañez,28.0,11.0,,,
 2023-12-17,Ñoquejza,19.1,6.2,,,3.0
 2023-12-18, Paniagua_M (GPRS),,,,,0.1
@@ -77393,6 +77441,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-18,Yesera Norte,31.0,16.0,,,9.5
 2023-12-18,Yesera Sur,31.0,14.0,,,
 2023-12-18,Yocalla,28.1,12.0,,,1.2
+2023-12-18,Yotala,24.0,14.0,,,
 2023-12-18,Zudañez,24.0,15.0,,,
 2023-12-18,Ñoquejza,18.1,7.0,,,
 2023-12-19, Paniagua_M (GPRS),,,,,1.7
@@ -77647,6 +77696,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-19,Yesera Norte,16.0,15.0,,,17.0
 2023-12-19,Yesera Sur,25.0,15.0,,,4.0
 2023-12-19,Yocalla,30.2,14.1,,,
+2023-12-19,Yotala,23.0,14.0,,,9.0
 2023-12-19,Zudañez,29.0,13.0,,,
 2023-12-19,Ñoquejza,20.1,6.7,,,
 2023-12-19,Ñucchu,,,,,6.0
@@ -77901,6 +77951,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-20,Yesera Norte,20.0,14.0,,,2.0
 2023-12-20,Yesera Sur,20.0,14.0,,,6.0
 2023-12-20,Yocalla,28.1,13.2,,,
+2023-12-20,Yotala,27.0,13.0,,,
 2023-12-20,Zudañez,32.0,15.0,,,
 2023-12-20,Ñoquejza,19.1,5.1,,,
 2023-12-21,4 Esquinas (GPRS),13.38,10.83,,,
@@ -78135,6 +78186,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-21,Yesera Norte,23.5,15.0,,,1.0
 2023-12-21,Yesera Sur,22.0,15.0,,,
 2023-12-21,Yocalla,27.1,10.1,,,
+2023-12-21,Yotala,27.4,14.0,,,
 2023-12-21,Zudañez,26.0,15.0,,,
 2023-12-21,Ñoquejza,20.2,8.2,,,
 2023-12-22, Paniagua_M (GPRS),,,,,0.1
@@ -78375,6 +78427,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-22,Yesera Norte,28.0,14.5,,,
 2023-12-22,Yesera Sur,25.0,16.0,,,
 2023-12-22,Yocalla,29.3,12.4,,,
+2023-12-22,Yotala,29.0,16.0,,,
 2023-12-22,Zudañez,25.0,15.0,,,
 2023-12-22,Ñoquejza,22.2,6.0,,,
 2023-12-23,4 Esquinas (GPRS),16.24,12.37,,,0.1
@@ -78563,6 +78616,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-23,Yesera Norte,27.0,15.0,,,
 2023-12-23,Yesera Sur,26.0,15.0,,,
 2023-12-23,Yocalla,30.1,14.1,,,
+2023-12-23,Yotala,28.0,15.0,,,
 2023-12-23,Zudañez,27.0,14.0,,,
 2023-12-23,Ñoquejza,25.3,7.3,,,
 2023-12-24, Paniagua_M (GPRS),,,,,0.2
@@ -78758,6 +78812,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-24,Yesera Norte,31.0,15.0,,,
 2023-12-24,Yesera Sur,32.0,16.0,,,
 2023-12-24,Yocalla,31.4,12.2,,,1.1
+2023-12-24,Yotala,27.0,17.0,,,
 2023-12-24,Zudañez,27.0,15.0,,,
 2023-12-24,Ñoquejza,20.2,6.2,,,
 2023-12-25,4 Esquinas (GPRS),16.64,15.14,,,
@@ -78960,6 +79015,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-25,Yesera Norte,28.0,16.0,,,49.5
 2023-12-25,Yesera Sur,31.0,14.0,,,1.0
 2023-12-25,Yocalla,28.1,13.2,,,
+2023-12-25,Yotala,29.0,14.0,,,
 2023-12-25,Zudañez,29.0,16.0,,,
 2023-12-25,Ñoquejza,19.4,7.1,,,
 2023-12-26, Paniagua_M (GPRS),,,,,6.8
@@ -79224,6 +79280,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-26,Yesera Norte,28.0,16.0,,,
 2023-12-26,Yesera Sur,30.0,15.0,,,35.0
 2023-12-26,Yocalla,29.4,10.2,,,2.0
+2023-12-26,Yotala,24.0,17.0,,,
 2023-12-26,Zudañez,26.0,14.0,,,
 2023-12-26,Ñoquejza,18.1,6.0,,,
 2023-12-27, Paniagua_M (GPRS),,,,,0.8
@@ -79457,6 +79514,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-27,Yesera Norte,25.0,15.0,,,
 2023-12-27,Yesera Sur,25.0,14.0,,,
 2023-12-27,Yocalla,29.1,12.0,,,
+2023-12-27,Yotala,26.0,14.0,,,
 2023-12-27,Zudañez,28.0,14.0,,,
 2023-12-27,Ñoquejza,20.2,8.2,,,
 2023-12-28,4 Esquinas (GPRS),12.37,8.05,,,5.0
@@ -79686,6 +79744,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-28,Yesera Norte,31.0,15.0,,,
 2023-12-28,Yesera Sur,30.0,13.0,,,
 2023-12-28,Yocalla,30.2,13.1,,,
+2023-12-28,Yotala,30.0,12.0,,,
 2023-12-28,Zudañez,25.0,14.5,,,
 2023-12-28,Ñoquejza,23.1,7.2,,,
 2023-12-29, Paniagua_M (GPRS),,,,,13.9
@@ -79936,6 +79995,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-29,Yesera Norte,24.0,17.0,,,
 2023-12-29,Yesera Sur,25.0,12.0,,,
 2023-12-29,Yocalla,29.1,9.2,,,
+2023-12-29,Yotala,28.3,10.0,,,
 2023-12-29,Zudañez,27.0,14.5,,,
 2023-12-29,Ñoquejza,20.2,6.2,,,4.0
 2023-12-29,Ñucchu,,,,,8.5
@@ -80184,6 +80244,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-30,Yesera Norte,19.0,14.0,,,34.0
 2023-12-30,Yesera Sur,27.0,14.0,,,35.0
 2023-12-30,Yocalla,29.0,11.1,,,
+2023-12-30,Yotala,20.2,13.0,,,32.6
 2023-12-30,Zudañez,25.0,14.0,,,32.1
 2023-12-30,Ñoquejza,18.1,7.8,,,3.5
 2023-12-30,Ñucchu,,,,,24.0
@@ -80426,6 +80487,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-31,Yesera Norte,24.2,12.0,,,3.5
 2023-12-31,Yesera Sur,25.0,12.0,,,
 2023-12-31,Yocalla,28.2,14.1,,,
+2023-12-31,Yotala,21.0,15.0,,,3.0
 2023-12-31,Zudañez,19.0,12.0,,,11.2
 2023-12-31,Ñoquejza,16.2,8.2,,,
 2023-12-31,Ñucchu,,,,,6.0
