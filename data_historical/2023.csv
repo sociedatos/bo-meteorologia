@@ -53611,6 +53611,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-01,La Asunta,27.5,19.0,,,
 2023-09-01,La Asunta_H (GPRS),,,,,0.33
 2023-09-01,La Barranca  (Chuquisaca),26.0,6.0,,,
+2023-09-01,La Mamora,28.0,11.0,,,
 2023-09-01,La Merced,38.0,12.0,,,
 2023-09-01,La Torre,30.0,12.0,,,
 2023-09-01,La Violeta,28.0,10.0,,,
@@ -53800,6 +53801,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-02,Jesús de Machaca_M (GPRS),17.98,0.14,43.09,17.3,
 2023-09-02,La Asunta,29.0,20.0,,,6.4
 2023-09-02,La Barranca  (Chuquisaca),26.0,7.0,,,
+2023-09-02,La Mamora,28.0,12.0,,,
 2023-09-02,La Merced,30.0,14.0,,,
 2023-09-02,La Torre,30.5,10.1,,,
 2023-09-02,La Violeta,31.6,10.0,,,
@@ -53984,6 +53986,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-03,Jesús de Machaca_M (GPRS),17.99,-12.3,54.46,5.49,
 2023-09-03,La Asunta,28.0,18.0,,,12.8
 2023-09-03,La Asunta_H (GPRS),,,,,1.27
+2023-09-03,La Mamora,25.0,14.0,,,
 2023-09-03,La Merced,28.0,14.0,,,
 2023-09-03,La Torre,30.0,12.0,,,
 2023-09-03,La Violeta,25.0,11.0,,,
@@ -54182,6 +54185,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-04,Jesús de Machaca_M (GPRS),17.85,-5.53,71.87,4.48,
 2023-09-04,La Asunta,29.5,16.0,,,
 2023-09-04,La Barranca  (Chuquisaca),24.5,6.0,,,
+2023-09-04,La Mamora,10.0,12.0,,,
 2023-09-04,La Merced,20.0,12.0,,,
 2023-09-04,La Torre,30.0,11.0,,,
 2023-09-04,La Violeta,28.0,8.0,,,
@@ -54372,6 +54376,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-05,Jesús de Machaca_M (GPRS),17.08,3.92,81.8,14.23,
 2023-09-05,La Asunta,30.0,18.0,,,
 2023-09-05,La Barranca  (Chuquisaca),24.5,6.5,,,
+2023-09-05,La Mamora,15.0,10.0,,,
 2023-09-05,La Merced,19.0,10.0,,,
 2023-09-05,La Torre,30.2,12.0,,,
 2023-09-05,La Violeta,26.0,10.0,,,
@@ -54567,6 +54572,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-06,La Asunta,32.0,17.5,,,
 2023-09-06,La Asunta_H (GPRS),,,,,0.05
 2023-09-06,La Barranca  (Chuquisaca),23.0,7.0,,,
+2023-09-06,La Mamora,15.0,8.0,,,
 2023-09-06,La Merced,23.0,10.0,,,
 2023-09-06,La Torre,31.0,13.0,,,
 2023-09-06,La Violeta,25.0,10.0,,,
@@ -54765,6 +54771,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-07,Jesús de Machaca_M (GPRS),16.3,-11.0,74.25,17.42,
 2023-09-07,La Asunta,31.0,19.5,,,
 2023-09-07,La Barranca  (Chuquisaca),22.5,9.5,,,
+2023-09-07,La Mamora,23.0,8.0,,,
 2023-09-07,La Merced,29.0,9.0,,,
 2023-09-07,La Torre,27.0,12.0,,,
 2023-09-07,La Violeta,24.0,12.0,,,
@@ -54957,6 +54964,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-08,Jesús de Machaca_M (GPRS),16.82,13.36,12.06,6.33,
 2023-09-08,La Asunta,32.0,18.0,,,
 2023-09-08,La Barranca  (Chuquisaca),24.5,6.5,,,
+2023-09-08,La Mamora,15.0,12.0,,,
 2023-09-08,La Merced,23.0,13.0,,,
 2023-09-08,La Torre,27.2,10.0,,,
 2023-09-08,La Violeta,28.0,11.0,,,
@@ -55141,6 +55149,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-09,Jesús de Machaca_M (GPRS),17.15,-10.08,62.99,4.26,
 2023-09-09,La Asunta,32.5,18.5,,,
 2023-09-09,La Barranca  (Chuquisaca),24.0,4.5,,,
+2023-09-09,La Mamora,16.0,12.0,,,
 2023-09-09,La Merced,33.0,13.0,,,
 2023-09-09,La Torre,28.1,10.0,,,
 2023-09-09,La Violeta,31.0,12.0,,,
@@ -55308,6 +55317,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-10,Isla Suriqui_M (GPRS),15.68,2.62,85.2,27.07,
 2023-09-10,Jesús de Machaca_M (GPRS),18.79,-6.25,78.33,7.93,
 2023-09-10,La Asunta,33.5,20.0,,,
+2023-09-10,La Mamora,28.0,13.0,,,
 2023-09-10,La Merced,33.0,10.0,,,
 2023-09-10,La Torre,32.0,13.0,,,
 2023-09-10,La Violeta,29.0,13.0,,,
@@ -55486,6 +55496,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-11,Jesús de Machaca_M (GPRS),19.42,-8.2,64.32,10.71,
 2023-09-11,La Asunta,33.0,19.0,,,
 2023-09-11,La Barranca  (Chuquisaca),27.5,6.5,,,
+2023-09-11,La Mamora,35.0,11.0,,,
 2023-09-11,La Merced,40.0,10.0,,,
 2023-09-11,La Torre,35.0,15.0,,,
 2023-09-11,La Violeta,30.0,10.0,,,
@@ -55674,6 +55685,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-12,Jesús de Machaca_M (GPRS),18.71,-4.68,30.68,13.81,
 2023-09-12,La Asunta,32.0,20.0,,,
 2023-09-12,La Barranca  (Chuquisaca),23.0,7.3,,,
+2023-09-12,La Mamora,20.0,15.0,,,
 2023-09-12,La Merced,40.0,11.0,,,
 2023-09-12,La Torre,31.0,14.0,,,
 2023-09-12,La Violeta,26.0,11.0,,,
@@ -55873,6 +55885,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-13,La Asunta,30.0,19.0,,,18.6
 2023-09-13,La Asunta_H (GPRS),,,,,1.83
 2023-09-13,La Barranca  (Chuquisaca),24.0,6.5,,,
+2023-09-13,La Mamora,18.0,,,,
 2023-09-13,La Merced,21.0,6.0,,,
 2023-09-13,La Torre,28.0,15.0,,,
 2023-09-13,La Violeta,30.0,14.0,,,
@@ -56073,6 +56086,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-14,Jesús de Machaca_M (GPRS),18.31,-10.51,42.59,4.25,
 2023-09-14,La Asunta,31.0,20.0,,,
 2023-09-14,La Barranca  (Chuquisaca),25.0,2.5,,,
+2023-09-14,La Mamora,23.0,3.0,,,
 2023-09-14,La Merced,26.0,4.0,,,
 2023-09-14,La Torre,29.0,14.0,,,
 2023-09-14,La Violeta,31.0,10.0,,,
@@ -56263,6 +56277,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-15,Jesús de Machaca_M (GPRS),20.21,-9.76,59.28,4.44,
 2023-09-15,La Asunta,29.0,17.0,,,
 2023-09-15,La Barranca  (Chuquisaca),24.0,2.5,,,
+2023-09-15,La Mamora,28.0,4.0,,,
 2023-09-15,La Merced,33.0,5.0,,,
 2023-09-15,La Torre,29.0,12.0,,,
 2023-09-15,La Violeta,30.0,11.0,,,
@@ -56444,6 +56459,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-16,Isla Suriqui_M (GPRS),17.31,3.23,86.0,17.29,
 2023-09-16,Jesús de Machaca_M (GPRS),20.21,-5.05,77.95,7.27,
 2023-09-16,La Asunta,32.0,18.0,,,
+2023-09-16,La Mamora,36.0,8.0,,,
 2023-09-16,La Merced,40.0,13.0,,,
 2023-09-16,La Torre,32.0,14.0,,,
 2023-09-16,La Violeta,31.0,14.0,,,
@@ -56613,6 +56629,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-17,Isla Suriqui_M (GPRS),17.24,2.51,96.5,12.61,
 2023-09-17,Jesús de Machaca_M (GPRS),19.23,-7.55,37.6,6.48,
 2023-09-17,La Asunta,32.0,19.0,,,
+2023-09-17,La Mamora,33.0,8.0,,,
 2023-09-17,La Merced,35.0,17.0,,,
 2023-09-17,La Torre,33.0,16.0,,,
 2023-09-17,La Violeta,31.0,13.0,,,
@@ -56797,6 +56814,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-18,Jesús de Machaca_M (GPRS),19.32,0.47,57.41,12.4,
 2023-09-18,La Asunta,33.0,20.0,,,
 2023-09-18,La Barranca  (Chuquisaca),24.0,6.0,,,
+2023-09-18,La Mamora,24.0,19.0,,,
 2023-09-18,La Merced,28.0,19.0,,,
 2023-09-18,La Torre,32.0,15.0,,,
 2023-09-18,La Violeta,29.0,12.0,,,
@@ -57002,6 +57020,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-19,La Asunta,32.0,20.5,,,19.6
 2023-09-19,La Asunta_H (GPRS),,,,,6.74
 2023-09-19,La Barranca  (Chuquisaca),20.0,8.5,,,16.0
+2023-09-19,La Mamora,24.0,8.0,,,
 2023-09-19,La Merced,27.0,10.0,,,
 2023-09-19,La Torre,30.0,13.0,,,
 2023-09-19,La Violeta,27.0,12.0,,,
@@ -57206,6 +57225,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-20,Jesús de Machaca_M (GPRS),19.37,-1.02,83.0,19.45,
 2023-09-20,La Asunta,33.0,21.0,,,
 2023-09-20,La Barranca  (Chuquisaca),22.5,9.0,,,
+2023-09-20,La Mamora,28.0,8.0,,,
 2023-09-20,La Merced,35.0,10.0,,,
 2023-09-20,La Torre,32.0,14.0,,,
 2023-09-20,La Violeta,27.0,9.0,,,
@@ -57402,6 +57422,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-21,Jesús de Machaca_M (GPRS),20.14,-2.6,88.2,19.84,
 2023-09-21,La Asunta,34.0,20.0,,,
 2023-09-21,La Barranca  (Chuquisaca),25.5,8.0,,,
+2023-09-21,La Mamora,37.0,10.0,,,
 2023-09-21,La Merced,35.0,14.0,,,
 2023-09-21,La Torre,33.0,15.0,,,
 2023-09-21,La Violeta,30.0,11.0,,,
@@ -57588,6 +57609,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-22,Jesús de Machaca_M (GPRS),21.51,-1.29,91.0,12.35,
 2023-09-22,La Asunta,33.0,21.0,,,
 2023-09-22,La Barranca  (Chuquisaca),28.0,9.0,,,
+2023-09-22,La Mamora,34.0,15.0,,,
 2023-09-22,La Merced,37.0,13.0,,,
 2023-09-22,La Torre,33.1,17.2,,,
 2023-09-22,La Violeta,31.0,13.0,,,
@@ -57767,6 +57789,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-23,Jesús de Machaca_M (GPRS),19.43,-1.99,91.3,20.37,
 2023-09-23,La Asunta,34.0,20.0,,,
 2023-09-23,La Barranca  (Chuquisaca),26.5,10.5,,,
+2023-09-23,La Mamora,29.0,17.0,,,
 2023-09-23,La Merced,35.0,19.0,,,
 2023-09-23,La Torre,34.0,18.0,,,
 2023-09-23,La Violeta,31.0,14.0,,,
@@ -57932,6 +57955,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-24,Isla Suriqui_M (GPRS),17.59,5.26,87.7,36.59,
 2023-09-24,Jesús de Machaca_M (GPRS),19.29,0.2,84.7,26.03,
 2023-09-24,La Asunta,35.0,21.0,,,
+2023-09-24,La Mamora,28.0,21.0,,,
 2023-09-24,La Merced,32.0,20.0,,,
 2023-09-24,La Torre,34.0,16.0,,,
 2023-09-24,La Violeta,28.0,15.0,,,
@@ -58112,6 +58136,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-25,Jesús de Machaca_M (GPRS),20.4,-2.67,62.76,14.05,
 2023-09-25,La Asunta,34.0,20.0,,,
 2023-09-25,La Barranca  (Chuquisaca),27.5,10.0,,,
+2023-09-25,La Mamora,19.0,20.0,,,
 2023-09-25,La Merced,27.0,21.0,,,
 2023-09-25,La Torre,33.0,17.0,,,
 2023-09-25,La Violeta,27.0,15.0,,,
@@ -58307,6 +58332,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-26,Juntas,,,,,4.1
 2023-09-26,La Asunta,35.0,23.0,,,
 2023-09-26,La Barranca  (Chuquisaca),30.0,4.0,,,
+2023-09-26,La Mamora,19.0,18.0,,,
 2023-09-26,La Merced,26.0,21.0,,,
 2023-09-26,La Torre,35.0,17.0,,,
 2023-09-26,La Violeta,31.0,13.0,,,
@@ -58526,6 +58552,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-27,Jihuacuta,,,,,0.1
 2023-09-27,La Asunta,28.0,22.0,,,
 2023-09-27,La Barranca  (Chuquisaca),21.0,10.0,,,
+2023-09-27,La Mamora,12.0,11.0,,,2.5
 2023-09-27,La Merced,15.0,10.0,,,
 2023-09-27,La Torre,29.0,16.0,,,
 2023-09-27,La Violeta,26.0,12.6,,,
@@ -58763,6 +58790,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-28,La Asunta,29.0,21.5,,,5.5
 2023-09-28,La Asunta_H (GPRS),,,,,1.66
 2023-09-28,La Barranca  (Chuquisaca),27.0,8.5,,,
+2023-09-28,La Mamora,23.0,11.0,,,
 2023-09-28,La Merced,25.0,11.0,,,1.3
 2023-09-28,La Torre,34.0,12.0,,,
 2023-09-28,La Violeta,32.0,13.6,,,
@@ -58987,6 +59015,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-29,Jesús de Machaca_M (GPRS),20.92,-1.68,89.0,20.24,
 2023-09-29,La Asunta,31.0,23.0,,,
 2023-09-29,La Barranca  (Chuquisaca),22.0,9.5,,,
+2023-09-29,La Mamora,23.0,16.0,,,
 2023-09-29,La Merced,25.0,10.0,,,
 2023-09-29,La Torre,29.0,13.0,,,
 2023-09-29,La Violeta,31.0,14.0,,,
@@ -59197,6 +59226,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-30,Jesús de Machaca_M (GPRS),18.24,-2.4,82.5,32.23,
 2023-09-30,La Asunta,30.5,20.5,,,
 2023-09-30,La Barranca  (Chuquisaca),22.5,9.0,,,
+2023-09-30,La Mamora,19.0,15.0,,,
 2023-09-30,La Merced,27.0,15.0,,,
 2023-09-30,La Torre,30.0,14.0,,,
 2023-09-30,La Violeta,32.0,15.0,,,
@@ -59383,6 +59413,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-01,Jesús de Machaca_M (GPRS),20.4,-4.16,69.23,23.76,
 2023-10-01,Jihuacuta,,,,,0.2
 2023-10-01,La Asunta,33.0,21.5,,,
+2023-10-01,La Mamora,,7.0,,,
 2023-10-01,La Merced,28.0,8.0,,,
 2023-10-01,La Torre,29.2,14.1,,,
 2023-10-01,La Violeta,31.0,11.4,,,
@@ -59582,6 +59613,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-02,Jihuacuta,,,,,0.1
 2023-10-02,La Asunta,32.0,19.0,,,
 2023-10-02,La Barranca  (Chuquisaca),28.0,7.5,,,
+2023-10-02,La Mamora,,9.0,,,
 2023-10-02,La Merced,31.0,8.0,,,
 2023-10-02,La Torre,30.0,15.0,,,
 2023-10-02,La Violeta,32.0,10.0,,,
@@ -59793,6 +59825,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-03,Jesús de Machaca_M (GPRS),22.29,-2.99,43.21,12.22,
 2023-10-03,La Asunta,31.0,20.0,,,
 2023-10-03,La Barranca  (Chuquisaca),30.0,9.0,,,
+2023-10-03,La Mamora,,12.0,,,
 2023-10-03,La Merced,37.0,11.0,,,
 2023-10-03,La Torre,35.0,17.0,,,
 2023-10-03,La Violeta,31.0,12.0,,,
@@ -60002,6 +60035,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-04,Jesús de Machaca_M (GPRS),21.91,-0.26,91.5,14.36,
 2023-10-04,La Asunta,32.0,22.0,,,
 2023-10-04,La Barranca  (Chuquisaca),24.0,11.5,,,
+2023-10-04,La Mamora,,16.0,,,
 2023-10-04,La Merced,20.0,16.0,,,
 2023-10-04,La Torre,34.0,16.0,,,
 2023-10-04,La Violeta,30.0,11.0,,,
@@ -60222,6 +60256,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-05,Jesús de Machaca_M (GPRS),22.03,-3.83,48.61,16.86,
 2023-10-05,La Asunta,31.0,23.0,,,
 2023-10-05,La Barranca  (Chuquisaca),27.5,9.5,,,
+2023-10-05,La Mamora,,9.0,,,
 2023-10-05,La Merced,25.0,16.0,,,
 2023-10-05,La Torre,35.0,18.0,,,
 2023-10-05,La Violeta,30.0,13.0,,,
@@ -60441,6 +60476,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-06,Jihuacuta,,,,,0.1
 2023-10-06,La Asunta,32.0,22.5,,,
 2023-10-06,La Barranca  (Chuquisaca),30.0,10.0,,,
+2023-10-06,La Mamora,,8.0,,,
 2023-10-06,La Merced,32.0,7.0,,,
 2023-10-06,La Torre,34.0,14.0,,,
 2023-10-06,La Violeta,32.0,15.0,,,
@@ -60657,6 +60693,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-07,Juntas,,,,,2.8
 2023-10-07,La Asunta,30.5,19.0,,,32.0
 2023-10-07,La Barranca  (Chuquisaca),24.5,10.0,,,
+2023-10-07,La Mamora,,15.0,,,
 2023-10-07,La Merced,22.0,8.0,,,
 2023-10-07,La Torre,28.0,14.0,,,
 2023-10-07,La Violeta,26.0,14.0,,,
@@ -60859,6 +60896,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-08,Jesús de Machaca_M (GPRS),22.87,-4.03,51.61,15.75,
 2023-10-08,Jihuacuta,,,,,1.0
 2023-10-08,La Asunta,29.0,18.0,,,
+2023-10-08,La Mamora,,12.0,,,3.5
 2023-10-08,La Merced,28.0,15.0,,,
 2023-10-08,La Torre,32.0,14.2,,,
 2023-10-08,La Violeta,31.0,13.0,,,
@@ -61083,6 +61121,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-09,Jesús de Machaca_M (GPRS),21.31,0.27,92.8,15.94,
 2023-10-09,La Asunta,28.0,17.0,,,
 2023-10-09,La Barranca  (Chuquisaca),24.0,7.0,,,
+2023-10-09,La Mamora,,12.0,,,
 2023-10-09,La Merced,30.0,13.0,,,0.3
 2023-10-09,La Torre,32.1,14.6,,,
 2023-10-09,La Violeta,29.0,14.0,,,
@@ -61307,6 +61346,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-10,Jesús de Machaca_M (GPRS),22.87,-2.67,90.5,17.77,
 2023-10-10,La Asunta,29.5,18.0,,,
 2023-10-10,La Barranca  (Chuquisaca),29.5,7.5,,,
+2023-10-10,La Mamora,,12.0,,,
 2023-10-10,La Merced,35.0,12.0,,,
 2023-10-10,La Torre,35.0,19.0,,,
 2023-10-10,La Violeta,32.0,16.0,,,
@@ -61522,6 +61562,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-11,Jihuacuta,,,,,0.1
 2023-10-11,La Asunta,31.0,22.0,,,
 2023-10-11,La Barranca  (Chuquisaca),30.5,9.5,,,
+2023-10-11,La Mamora,,15.0,,,
 2023-10-11,La Merced,35.0,14.0,,,
 2023-10-11,La Torre,35.0,18.0,,,
 2023-10-11,La Violeta,31.0,16.0,,,
@@ -61736,6 +61777,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-12,Jihuacuta,,,,,0.2
 2023-10-12,La Asunta,33.0,21.5,,,
 2023-10-12,La Barranca  (Chuquisaca),26.5,13.5,,,
+2023-10-12,La Mamora,,15.0,,,
 2023-10-12,La Merced,35.0,16.0,,,
 2023-10-12,La Torre,36.0,20.0,,,
 2023-10-12,La Violeta,32.0,15.0,,,
@@ -61953,6 +61995,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-13,Jihuacuta,,,,,2.2
 2023-10-13,La Asunta,33.0,22.0,,,
 2023-10-13,La Barranca  (Chuquisaca),28.0,11.5,,,
+2023-10-13,La Mamora,,11.0,,,
 2023-10-13,La Merced,23.0,11.0,,,
 2023-10-13,La Torre,34.0,15.0,,,
 2023-10-13,La Violeta,33.0,16.0,,,
@@ -62165,6 +62208,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-14,Jihuacuta,,,,,1.3
 2023-10-14,La Asunta,30.0,21.5,,,
 2023-10-14,La Barranca  (Chuquisaca),27.0,8.0,,,
+2023-10-14,La Mamora,,12.0,,,
 2023-10-14,La Merced,25.0,11.0,,,
 2023-10-14,La Torre,35.0,15.2,,,
 2023-10-14,La Violeta,31.0,12.0,,,
@@ -62350,6 +62394,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-15,Jesús de Machaca_M (GPRS),20.23,18.31,27.47,18.99,4.8
 2023-10-15,Jihuacuta,,,,,0.2
 2023-10-15,La Asunta,31.0,21.0,,,
+2023-10-15,La Mamora,,9.0,,,
 2023-10-15,La Merced,30.0,9.0,,,
 2023-10-15,La Torre,33.0,13.0,,,
 2023-10-15,La Violeta,33.0,15.0,,,
@@ -62548,6 +62593,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-16,Jihuacuta,,,,,3.2
 2023-10-16,La Asunta,33.0,21.0,,,
 2023-10-16,La Barranca  (Chuquisaca),29.0,9.0,,,
+2023-10-16,La Mamora,,15.0,,,
 2023-10-16,La Merced,34.0,12.0,,,
 2023-10-16,La Torre,34.0,18.0,,,
 2023-10-16,La Violeta,32.0,14.0,,,
@@ -62766,6 +62812,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-17,Jihuacuta,,,,,2.1
 2023-10-17,La Asunta,32.0,20.0,,,
 2023-10-17,La Barranca  (Chuquisaca),26.0,8.5,,,
+2023-10-17,La Mamora,,21.0,,,
 2023-10-17,La Merced,36.0,16.0,,,
 2023-10-17,La Torre,30.0,18.0,,,
 2023-10-17,La Violeta,27.0,15.0,,,
@@ -63006,6 +63053,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-18,Juntas,,,,,29.7
 2023-10-18,La Asunta,32.0,20.0,,,
 2023-10-18,La Barranca  (Chuquisaca),,,,,0.5
+2023-10-18,La Mamora,,16.0,,,1.0
 2023-10-18,La Merced,32.0,17.0,,,
 2023-10-18,La Torre,,,,,15.0
 2023-10-18,La Violeta,28.0,11.0,,,
@@ -63249,6 +63297,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-19,Jihuacuta,,,,,1.1
 2023-10-19,La Asunta,31.0,21.0,,,
 2023-10-19,La Barranca  (Chuquisaca),,,,,2.0
+2023-10-19,La Mamora,,13.0,,,1.0
 2023-10-19,La Merced,26.0,15.0,,,3.0
 2023-10-19,La Torre,,,,,3.0
 2023-10-19,La Violeta,27.0,10.0,,,
@@ -63499,6 +63548,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-20,Jihuacuta,,,,,1.1
 2023-10-20,La Asunta,32.0,22.5,,,
 2023-10-20,La Barranca  (Chuquisaca),,,,,11.0
+2023-10-20,La Mamora,,16.0,,,
 2023-10-20,La Merced,19.0,19.0,,,23.8
 2023-10-20,La Torre,,,,,2.0
 2023-10-20,La Violeta,26.0,12.0,,,
@@ -63744,6 +63794,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-21,Juntas,,,,,6.2
 2023-10-21,La Asunta,31.0,21.0,,,
 2023-10-21,La Barranca  (Chuquisaca),26.0,9.0,,,
+2023-10-21,La Mamora,,16.0,,,
 2023-10-21,La Merced,26.0,16.0,,,
 2023-10-21,La Torre,,,,,12.0
 2023-10-21,La Violeta,26.0,15.0,,,6.8
@@ -63945,6 +63996,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-22,Jesús de Machaca_M (GPRS),19.81,16.69,39.39,24.99,
 2023-10-22,Juntas,,,,,5.1
 2023-10-22,La Asunta,35.0,21.0,,,
+2023-10-22,La Mamora,,17.0,,,1.0
 2023-10-22,La Merced,33.0,16.0,,,
 2023-10-22,La Torre,,,,,7.0
 2023-10-22,La Violeta,28.0,9.0,,,
@@ -64158,6 +64210,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-23,Juntas,,,,,13.5
 2023-10-23,La Asunta,33.5,22.0,,,
 2023-10-23,La Barranca  (Chuquisaca),29.0,9.5,,,
+2023-10-23,La Mamora,,17.0,,,3.0
 2023-10-23,La Merced,35.0,16.0,,,14.9
 2023-10-23,La Torre,,,,,2.0
 2023-10-23,La Violeta,27.0,12.0,,,
@@ -64395,6 +64448,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-24,Juntas,,,,,28.0
 2023-10-24,La Asunta,34.0,21.0,,,
 2023-10-24,La Barranca  (Chuquisaca),25.5,11.5,,,
+2023-10-24,La Mamora,,16.0,,,12.0
 2023-10-24,La Merced,28.0,15.0,,,2.4
 2023-10-24,La Torre,30.0,15.2,,,
 2023-10-24,La Violeta,26.0,14.0,,,5.6
@@ -64654,6 +64708,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-25,Jihuacuta,,,,,0.2
 2023-10-25,La Asunta,33.0,23.0,,,48.6
 2023-10-25,La Barranca  (Chuquisaca),,,,,28.0
+2023-10-25,La Mamora,,16.0,,,2.5
 2023-10-25,La Merced,29.0,15.0,,,13.5
 2023-10-25,La Torre,32.0,15.0,,,
 2023-10-25,La Violeta,28.0,11.0,,,
@@ -64897,6 +64952,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-26,Jesús de Machaca_M (GPRS),19.95,16.82,33.33,22.96,
 2023-10-26,La Asunta,30.0,22.0,,,
 2023-10-26,La Barranca  (Chuquisaca),25.0,12.0,,,
+2023-10-26,La Mamora,,16.0,,,
 2023-10-26,La Merced,25.0,16.0,,,5.0
 2023-10-26,La Torre,33.0,16.0,,,
 2023-10-26,La Violeta,31.0,15.0,,,
@@ -65134,6 +65190,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-27,Jesús de Machaca_M (GPRS),19.42,17.79,30.33,27.02,
 2023-10-27,La Asunta,29.5,22.5,,,
 2023-10-27,La Barranca  (Chuquisaca),28.0,10.0,,,
+2023-10-27,La Mamora,,16.0,,,
 2023-10-27,La Merced,25.0,16.0,,,
 2023-10-27,La Torre,35.0,16.0,,,
 2023-10-27,La Violeta,32.0,16.0,,,
@@ -65363,6 +65420,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-28,Jesús de Machaca_M (GPRS),19.82,17.73,17.03,14.82,
 2023-10-28,La Asunta,28.0,22.0,,,
 2023-10-28,La Barranca  (Chuquisaca),25.0,9.5,,,
+2023-10-28,La Mamora,,13.0,,,
 2023-10-28,La Merced,27.0,17.0,,,
 2023-10-28,La Torre,31.0,16.0,,,
 2023-10-28,La Violeta,30.0,14.0,,,
@@ -65569,6 +65627,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-29,Ixiamas_M (GPRS),,,,,6.7
 2023-10-29,Jesús de Machaca_M (GPRS),17.46,14.47,7.51,6.08,
 2023-10-29,La Asunta,30.0,20.5,,,10.8
+2023-10-29,La Mamora,,15.0,,,
 2023-10-29,La Merced,32.0,15.0,,,
 2023-10-29,La Torre,31.0,15.0,,,
 2023-10-29,La Violeta,31.0,11.0,,,
@@ -65773,6 +65832,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-30,Jesús de Machaca_M (GPRS),20.53,16.95,16.26,13.52,
 2023-10-30,La Asunta,32.0,22.0,,,
 2023-10-30,La Barranca  (Chuquisaca),27.5,8.5,,,
+2023-10-30,La Mamora,,16.0,,,
 2023-10-30,La Merced,35.0,16.0,,,
 2023-10-30,La Torre,32.0,15.0,,,
 2023-10-30,La Violeta,30.0,9.0,,,
@@ -66003,6 +66063,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-31,Ixiamas_M (GPRS),,,,,0.8
 2023-10-31,Jesús de Machaca_M (GPRS),20.09,16.79,18.86,11.96,
 2023-10-31,La Asunta,33.0,20.5,,,
+2023-10-31,La Mamora,,16.0,,,
 2023-10-31,La Merced,26.0,18.0,,,
 2023-10-31,La Torre,32.0,17.0,,,
 2023-10-31,La Violeta,30.0,17.0,,,
@@ -66231,6 +66292,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-01,Jesús de Machaca_M (GPRS),20.6,17.86,22.9,11.8,
 2023-11-01,Jihuacuta,,,,,3.1
 2023-11-01,La Asunta,31.0,19.0,,,
+2023-11-01,La Mamora,,16.0,,,
 2023-11-01,La Merced,26.0,18.0,,,
 2023-11-01,La Torre,33.2,17.0,,,
 2023-11-01,La Violeta,31.0,17.0,,,
@@ -66454,6 +66516,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-02,Jesús de Machaca_M (GPRS),20.34,17.6,27.79,17.01,
 2023-11-02,Jihuacuta,,,,,1.2
 2023-11-02,La Asunta,32.0,20.0,,,
+2023-11-02,La Mamora,,16.0,,,
 2023-11-02,La Merced,27.0,19.0,,,
 2023-11-02,La Torre,34.0,18.1,,,
 2023-11-02,La Violeta,32.0,12.0,,,
@@ -66658,6 +66721,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-03,Jesús de Machaca_M (GPRS),21.64,18.32,31.31,15.28,
 2023-11-03,Jihuacuta,,,,,0.2
 2023-11-03,La Asunta,30.0,22.0,,,
+2023-11-03,La Mamora,,12.0,,,
 2023-11-03,La Merced,27.0,17.0,,,
 2023-11-03,La Torre,32.0,16.0,,,
 2023-11-03,La Violeta,30.0,10.0,,,
@@ -66882,6 +66946,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-04,Jesús de Machaca_M (GPRS),20.46,18.38,34.7,19.72,
 2023-11-04,Jihuacuta,,,,,0.1
 2023-11-04,La Asunta,27.0,19.0,,,25.6
+2023-11-04,La Mamora,,12.0,,,
 2023-11-04,La Merced,23.0,12.0,,,
 2023-11-04,La Torre,31.0,15.0,,,
 2023-11-04,La Violeta,31.0,13.0,,,
@@ -67086,6 +67151,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-05,Isla Suriqui_M (GPRS),18.03,16.2,43.43,30.7,
 2023-11-05,Jesús de Machaca_M (GPRS),22.02,18.38,31.18,18.55,
 2023-11-05,La Asunta,29.0,18.5,,,
+2023-11-05,La Mamora,,9.0,,,
 2023-11-05,La Merced,25.0,13.0,,,
 2023-11-05,La Torre,35.0,17.0,,,
 2023-11-05,La Violeta,32.0,11.0,,,
@@ -67285,6 +67351,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-06,Jesús de Machaca_M (GPRS),20.26,17.41,36.4,25.91,
 2023-11-06,La Asunta,31.0,19.0,,,
 2023-11-06,La Barranca  (Chuquisaca),25.5,6.0,,,
+2023-11-06,La Mamora,,12.0,,,
 2023-11-06,La Merced,30.0,10.0,,,
 2023-11-06,La Torre,32.0,15.0,,,
 2023-11-06,La Violeta,30.0,14.0,,,
@@ -67497,6 +67564,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-07,Jesús de Machaca_M (GPRS),19.62,16.88,42.06,25.44,
 2023-11-07,La Asunta,32.0,20.0,,,
 2023-11-07,La Barranca  (Chuquisaca),28.0,11.0,,,
+2023-11-07,La Mamora,,17.0,,,
 2023-11-07,La Merced,38.0,14.0,,,
 2023-11-07,La Torre,32.0,16.0,,,
 2023-11-07,La Violeta,29.0,12.0,,,
@@ -67715,6 +67783,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-08,Juntas,,,,,12.5
 2023-11-08,La Asunta,33.0,21.5,,,
 2023-11-08,La Barranca  (Chuquisaca),28.0,11.5,,,3.0
+2023-11-08,La Mamora,,20.0,,,
 2023-11-08,La Merced,34.0,19.0,,,
 2023-11-08,La Torre,,,,,24.0
 2023-11-08,La Violeta,31.0,12.0,,,
@@ -67952,6 +68021,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-09,Juntas,,,,,0.5
 2023-11-09,La Asunta,32.0,22.0,,,
 2023-11-09,La Barranca  (Chuquisaca),25.0,12.0,,,9.0
+2023-11-09,La Mamora,,17.0,,,
 2023-11-09,La Merced,39.0,19.0,,,
 2023-11-09,La Torre,,,,,9.0
 2023-11-09,La Violeta,28.0,11.0,,,
@@ -68191,6 +68261,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-10,Jihuacuta,,,,,1.1
 2023-11-10,La Asunta,33.0,21.5,,,
 2023-11-10,La Barranca  (Chuquisaca),27.5,11.0,,,
+2023-11-10,La Mamora,,17.0,,,
 2023-11-10,La Merced,39.0,18.0,,,
 2023-11-10,La Torre,31.0,15.0,,,
 2023-11-10,La Violeta,31.0,10.0,,,
@@ -68422,6 +68493,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-11,Jesús de Machaca_M (GPRS),18.44,14.47,42.05,32.55,0.6
 2023-11-11,La Asunta,32.0,22.0,,,
 2023-11-11,La Barranca  (Chuquisaca),28.0,11.5,,,0.5
+2023-11-11,La Mamora,,17.0,,,16.5
 2023-11-11,La Merced,40.0,20.0,,,
 2023-11-11,La Torre,32.0,15.1,,,
 2023-11-11,La Violeta,31.0,16.0,,,
@@ -68631,6 +68703,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-12,Juntas,,,,,2.0
 2023-11-12,La Asunta,31.0,20.5,,,
 2023-11-12,La Barranca  (Chuquisaca),,,,,3.0
+2023-11-12,La Mamora,,17.0,,,9.5
 2023-11-12,La Merced,27.0,19.0,,,
 2023-11-12,La Torre,32.2,16.0,,,
 2023-11-12,La Violeta,30.0,178.0,,,
@@ -68851,6 +68924,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-13,Jesús de Machaca_M (GPRS),18.63,15.87,45.85,35.1,10.5
 2023-11-13,La Asunta,30.5,20.5,,,
 2023-11-13,La Barranca  (Chuquisaca),25.0,13.0,,,
+2023-11-13,La Mamora,,19.0,,,
 2023-11-13,La Merced,33.0,15.0,,,
 2023-11-13,La Torre,31.0,16.0,,,
 2023-11-13,La Violeta,32.0,15.0,,,
@@ -69096,6 +69170,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-14,Jihuacuta,,,,,1.1
 2023-11-14,La Asunta,29.0,22.0,,,12.6
 2023-11-14,La Barranca  (Chuquisaca),28.5,9.5,,,2.5
+2023-11-14,La Mamora,,16.0,,,
 2023-11-14,La Merced,33.0,16.0,,,
 2023-11-14,La Torre,34.0,16.2,,,
 2023-11-14,La Violeta,31.0,10.0,,,
@@ -69321,6 +69396,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-15,Jihuacuta,,,,,1.2
 2023-11-15,La Asunta,30.0,21.5,,,
 2023-11-15,La Barranca  (Chuquisaca),29.0,10.0,,,
+2023-11-15,La Mamora,,16.0,,,
 2023-11-15,La Merced,33.0,18.0,,,
 2023-11-15,La Torre,35.0,16.6,,,
 2023-11-15,La Violeta,31.0,11.0,,,
@@ -69544,6 +69620,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-16,Jihuacuta,,,,,3.1
 2023-11-16,La Asunta,31.5,22.0,,,
 2023-11-16,La Barranca  (Chuquisaca),30.0,9.5,,,
+2023-11-16,La Mamora,,17.0,,,
 2023-11-16,La Merced,35.0,18.0,,,
 2023-11-16,La Torre,,,,,9.0
 2023-11-16,La Violeta,32.0,15.0,,,
@@ -69770,6 +69847,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-17,Jihuacuta,,,,,3.4
 2023-11-17,La Asunta,30.0,21.5,,,
 2023-11-17,La Barranca  (Chuquisaca),30.5,10.0,,,
+2023-11-17,La Mamora,,20.0,,,
 2023-11-17,La Merced,33.0,19.0,,,
 2023-11-17,La Torre,34.0,16.0,,,
 2023-11-17,La Violeta,31.0,15.0,,,
@@ -69982,6 +70060,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-18,Jihuacuta,,,,,2.1
 2023-11-18,La Asunta,29.5,20.5,,,
 2023-11-18,La Barranca  (Chuquisaca),30.5,12.5,,,
+2023-11-18,La Mamora,,17.0,,,
 2023-11-18,La Merced,34.0,18.0,,,
 2023-11-18,La Torre,34.0,17.0,,,
 2023-11-18,La Violeta,33.0,16.0,,,
@@ -70186,6 +70265,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-19,Juntas,,,,,15.0
 2023-11-19,La Asunta,30.5,19.5,,,
 2023-11-19,La Barranca  (Chuquisaca),,,,,22.0
+2023-11-19,La Mamora,,20.0,,,
 2023-11-19,La Merced,34.0,19.0,,,
 2023-11-19,La Torre,30.0,17.2,,,
 2023-11-19,La Violeta,29.0,15.0,,,0.1
@@ -70410,6 +70490,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-20,Jesús de Machaca_M (GPRS),20.65,17.6,25.48,16.65,
 2023-11-20,La Asunta,31.0,18.5,,,8.5
 2023-11-20,La Barranca  (Chuquisaca),23.0,11.5,,,
+2023-11-20,La Mamora,,20.0,,,1.5
 2023-11-20,La Merced,31.0,19.0,,,
 2023-11-20,La Torre,33.0,16.1,,,
 2023-11-20,La Violeta,31.0,13.0,,,
@@ -70644,6 +70725,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-21,Jihuacuta,,,,,0.2
 2023-11-21,La Asunta,30.0,19.0,,,
 2023-11-21,La Barranca  (Chuquisaca),20.0,11.0,,,
+2023-11-21,La Mamora,,20.0,,,
 2023-11-21,La Merced,25.0,18.0,,,
 2023-11-21,La Torre,30.0,15.0,,,
 2023-11-21,La Violeta,31.0,14.0,,,
@@ -70873,6 +70955,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-22,Juntas,,,,,22.5
 2023-11-22,La Asunta,29.5,22.0,,,
 2023-11-22,La Barranca  (Chuquisaca),25.0,9.0,,,
+2023-11-22,La Mamora,,21.0,,,
 2023-11-22,La Merced,24.0,15.0,,,
 2023-11-22,La Torre,30.0,15.1,,,
 2023-11-22,La Violeta,29.0,15.0,,,0.4
@@ -71104,6 +71187,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-23,Jihuacuta,,,,,0.1
 2023-11-23,La Asunta,29.0,21.0,,,
 2023-11-23,La Barranca  (Chuquisaca),22.5,9.0,,,2.0
+2023-11-23,La Mamora,,17.0,,,20.0
 2023-11-23,La Merced,25.0,15.0,,,
 2023-11-23,La Torre,31.0,16.0,,,
 2023-11-23,La Violeta,28.0,15.0,,,1.6
@@ -71356,6 +71440,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-24,Jihuacuta,,,,,0.2
 2023-11-24,La Asunta,28.0,22.0,,,27.6
 2023-11-24,La Barranca  (Chuquisaca),15.5,10.0,,,4.5
+2023-11-24,La Mamora,,16.0,,,
 2023-11-24,La Merced,20.0,15.0,,,
 2023-11-24,La Torre,32.0,17.0,,,
 2023-11-24,La Violeta,21.0,13.0,,,18.6
@@ -71634,6 +71719,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-25,Juntas,,,,,4.5
 2023-11-25,La Asunta,28.5,21.0,,,
 2023-11-25,La Barranca  (Chuquisaca),18.0,9.5,,,8.5
+2023-11-25,La Mamora,,15.0,,,2.0
 2023-11-25,La Merced,30.0,17.0,,,
 2023-11-25,La Torre,31.0,16.6,,,
 2023-11-25,La Violeta,24.0,14.0,,,2.4
@@ -71872,6 +71958,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-26,Juntas,,,,,2.0
 2023-11-26,La Asunta,28.0,21.5,,,5.6
 2023-11-26,La Barranca  (Chuquisaca),,,,,5.0
+2023-11-26,La Mamora,,17.0,,,
 2023-11-26,La Merced,24.0,17.0,,,
 2023-11-26,La Torre,30.0,15.0,,,
 2023-11-26,La Violeta,26.0,14.0,,,4.2
@@ -72142,6 +72229,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-27,Jihuacuta,,,,,2.3
 2023-11-27,La Asunta,30.0,21.5,,,4.2
 2023-11-27,La Barranca  (Chuquisaca),20.5,9.0,,,3.0
+2023-11-27,La Mamora,,16.0,,,3.5
 2023-11-27,La Merced,35.0,18.0,,,
 2023-11-27,La Torre,,,,,7.0
 2023-11-27,La Violeta,28.0,16.0,,,1.2
@@ -72422,6 +72510,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-28,Jihuacuta,,,,,3.4
 2023-11-28,La Asunta,29.0,22.0,,,
 2023-11-28,La Barranca  (Chuquisaca),25.0,11.0,,,1.0
+2023-11-28,La Mamora,,16.0,,,
 2023-11-28,La Merced,33.0,17.0,,,
 2023-11-28,La Torre,30.0,16.0,,,
 2023-11-28,La Violeta,27.0,14.0,,,
@@ -72674,6 +72763,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-29,Juntas,,,,,8.7
 2023-11-29,La Asunta,27.0,21.0,,,
 2023-11-29,La Barranca  (Chuquisaca),28.0,9.5,,,
+2023-11-29,La Mamora,,20.0,,,
 2023-11-29,La Merced,31.0,18.0,,,
 2023-11-29,La Torre,34.0,17.0,,,
 2023-11-29,La Violeta,28.0,15.0,,,
@@ -72924,6 +73014,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-30,Jihuacuta,,,,,1.3
 2023-11-30,La Asunta,28.0,21.0,,,
 2023-11-30,La Barranca  (Chuquisaca),25.0,11.0,,,
+2023-11-30,La Mamora,,21.0,,,3.5
 2023-11-30,La Merced,30.0,19.0,,,
 2023-11-30,La Torre,32.0,18.0,,,
 2023-11-30,La Violeta,25.0,16.0,,,
@@ -73670,6 +73761,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-03,La Asunta,28.5,19.0,,,
 2023-12-03,La Asunta_H (GPRS),,,,,0.37
 2023-12-03,La Barranca  (Chuquisaca),,,,,9.0
+2023-12-03,La Mamora,,,,,3.5
 2023-12-03,La Merced,30.0,17.0,,,1.6
 2023-12-03,La Torre,31.0,17.0,,,
 2023-12-03,La Violeta,31.0,16.0,,,
@@ -74195,6 +74287,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-05,La Asunta,28.0,21.0,,,
 2023-12-05,La Asunta_H (GPRS),,,,,2.57
 2023-12-05,La Barranca  (Chuquisaca),21.5,9.0,,,
+2023-12-05,La Mamora,,,,,6.5
 2023-12-05,La Merced,26.0,16.0,,,
 2023-12-05,La Torre,33.0,16.0,,,
 2023-12-05,La Violeta,26.0,14.0,,,
@@ -74942,6 +75035,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-08,La Asunta,,,,,12.2
 2023-12-08,La Asunta_H (GPRS),,,,,1.53
 2023-12-08,La Barranca  (Chuquisaca),21.5,9.5,,,
+2023-12-08,La Mamora,,,,,4.0
 2023-12-08,La Merced,26.0,15.0,,,1.5
 2023-12-08,La Torre,28.0,17.0,,,
 2023-12-08,La Violeta,30.0,16.0,,,
@@ -75414,6 +75508,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-10,Juntas,,,,,11.0
 2023-12-10,La Asunta,30.0,21.0,,,
 2023-12-10,La Barranca  (Chuquisaca),,,,,7.0
+2023-12-10,La Mamora,,,,,111.0
 2023-12-10,La Merced,30.0,17.0,,,0.3
 2023-12-10,La Torre,29.0,15.0,,,
 2023-12-10,La Violeta,29.0,17.0,,,1.1
@@ -76609,6 +76704,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-15,La Asunta,,,,,12.6
 2023-12-15,La Asunta_H (GPRS),,,,,0.03
 2023-12-15,La Barranca  (Chuquisaca),20.0,9.5,,,
+2023-12-15,La Mamora,,,,,12.0
 2023-12-15,La Merced,33.0,16.0,,,20.0
 2023-12-15,La Torre,,,,,3.0
 2023-12-15,La Violeta,30.0,15.0,,,
@@ -77300,6 +77396,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-18,Jesús de Machaca_M (GPRS),19.23,15.64,50.34,34.38,11.7
 2023-12-18,La Asunta,32.0,22.0,,,
 2023-12-18,La Barranca  (Chuquisaca),25.5,9.5,,,
+2023-12-18,La Mamora,,,,,5.0
 2023-12-18,La Merced,33.0,20.0,,,38.6
 2023-12-18,La Torre,31.0,17.0,,,
 2023-12-18,La Violeta,31.0,9.0,,,
@@ -77538,6 +77635,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-19,La Asunta,31.0,21.0,,,
 2023-12-19,La Asunta_H (GPRS),,,,,0.01
 2023-12-19,La Barranca  (Chuquisaca),21.0,12.5,,,
+2023-12-19,La Mamora,,,,,35.0
 2023-12-19,La Merced,25.0,17.0,,,0.2
 2023-12-19,La Torre,28.0,15.0,,,
 2023-12-19,La Violeta,26.0,10.0,,,
@@ -77799,6 +77897,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-20,La Asunta,,,,,6.8
 2023-12-20,La Asunta_H (GPRS),,,,,2.25
 2023-12-20,La Barranca  (Chuquisaca),,12.0,,,
+2023-12-20,La Mamora,,,,,0.5
 2023-12-20,La Merced,25.0,16.0,,,1.5
 2023-12-20,La Torre,34.0,18.0,,,
 2023-12-20,La Violeta,31.0,14.0,,,
@@ -78278,6 +78377,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-22,La Asunta,31.0,19.5,,,
 2023-12-22,La Asunta_H (GPRS),,,,,1.99
 2023-12-22,La Barranca  (Chuquisaca),,11.5,,,
+2023-12-22,La Mamora,,,,,2.5
 2023-12-22,La Merced,29.0,17.0,,,1.8
 2023-12-22,La Torre,35.0,18.0,,,
 2023-12-22,La Violeta,32.0,17.0,,,
@@ -78695,6 +78795,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-24,Jihuacuta,,,,,1.2
 2023-12-24,Juntas,,,,,9.3
 2023-12-24,La Asunta,32.0,21.0,,,
+2023-12-24,La Mamora,,,,,1.0
 2023-12-24,La Merced,30.0,20.0,,,
 2023-12-24,La Torre,33.2,18.1,,,
 2023-12-24,La Violeta,28.0,10.0,,,
@@ -79117,6 +79218,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-26,La Asunta,30.5,21.5,,,
 2023-12-26,La Asunta_H (GPRS),,,,,2.78
 2023-12-26,La Barranca  (Chuquisaca),,,,,2.5
+2023-12-26,La Mamora,,,,,118.0
 2023-12-26,La Merced,33.0,18.0,,,61.5
 2023-12-26,La Torre,30.0,15.0,,,
 2023-12-26,La Violeta,26.0,11.0,,,5.2
@@ -79367,6 +79469,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-27,La Asunta,31.5,19.0,,,
 2023-12-27,La Asunta_H (GPRS),,,,,0.01
 2023-12-27,La Barranca  (Chuquisaca),,10.0,,,
+2023-12-27,La Mamora,,,,,4.0
 2023-12-27,La Merced,33.0,19.0,,,
 2023-12-27,La Torre,34.0,16.2,,,
 2023-12-27,La Violeta,25.0,10.0,,,1.4
@@ -79841,6 +79944,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-29,Juntas,,,,,29.5
 2023-12-29,La Asunta,31.5,21.0,,,
 2023-12-29,La Barranca  (Chuquisaca),,,,,1.0
+2023-12-29,La Mamora,,,,,145.0
 2023-12-29,La Merced,28.0,20.0,,,0.2
 2023-12-29,La Torre,,,,,6.0
 2023-12-29,La Violeta,32.0,14.0,,,
@@ -80098,6 +80202,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-30,La Asunta,32.0,19.5,,,
 2023-12-30,La Asunta_H (GPRS),,,,,2.31
 2023-12-30,La Barranca  (Chuquisaca),,,,,26.0
+2023-12-30,La Mamora,,,,,57.0
 2023-12-30,La Merced,26.0,17.0,,,63.5
 2023-12-30,La Torre,27.0,12.0,,,
 2023-12-30,La Violeta,23.0,12.0,,,13.6
@@ -80347,6 +80452,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-31,Jihuacuta,,,,,2.3
 2023-12-31,La Asunta,31.0,22.0,,,
 2023-12-31,La Asunta_H (GPRS),,,,,3.75
+2023-12-31,La Mamora,,,,,2.0
 2023-12-31,La Merced,28.0,15.0,,,
 2023-12-31,La Torre,32.0,15.0,,,
 2023-12-31,La Violeta,,,,,3.8
