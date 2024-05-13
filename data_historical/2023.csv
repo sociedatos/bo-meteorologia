@@ -30696,6 +30696,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-13,Hichucota,12.0,-2.0,,,18.0
 2023-05-13,Huancane Corapata_M (GPRS),,,,,0.1
 2023-05-13,Huarisuyo (GPRS),15.08,-2.51,98.1,43.26,2.4
+2023-05-13,Huayllamarca,20.0,1.5,,,
 2023-05-13,Huayrocondo,15.4,-0.5,,,2.6
 2023-05-13,Incahuasi (GPRS),20.26,-3.95,88.5,12.18,
 2023-05-13,Isla Del Sol,17.3,3.5,,,
@@ -30884,6 +30885,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-14,Hichucota,14.0,-3.0,,,
 2023-05-14,Huancane Corapata_M (GPRS),,,,,0.1
 2023-05-14,Huarisuyo (GPRS),15.71,-3.03,97.9,30.69,
+2023-05-14,Huayllamarca,19.2,0.2,,,
 2023-05-14,Huayrocondo,17.0,-0.2,,,
 2023-05-14,Incahuasi (GPRS),21.34,-3.05,87.9,10.37,
 2023-05-14,Isla Del Sol,18.4,2.6,,,
@@ -31079,6 +31081,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-15,Guajara-Mirim - Guayaramerín,33.4,21.8,,,
 2023-05-15,Hichucota,13.0,-1.0,,,
 2023-05-15,Huarisuyo (GPRS),15.91,-3.32,95.7,29.08,
+2023-05-15,Huayllamarca,19.0,0.2,,,
 2023-05-15,Huayrocondo,16.8,-2.0,,,
 2023-05-15,Incahuasi (GPRS),21.49,-0.81,87.7,15.17,
 2023-05-15,Isla Del Sol,16.3,4.2,,,
@@ -31289,6 +31292,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-16,Guajara-Mirim - Guayaramerín,33.0,22.2,,,
 2023-05-16,Hichucota,14.0,0.0,,,
 2023-05-16,Huarisuyo (GPRS),16.01,-4.39,91.1,22.2,
+2023-05-16,Huayllamarca,19.1,0.0,,,
 2023-05-16,Huayrocondo,17.3,2.4,,,
 2023-05-16,Incahuasi (GPRS),23.42,-1.43,95.5,11.32,
 2023-05-16,Isla Del Sol,15.9,1.2,,,
@@ -31500,6 +31504,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-17,Guajara-Mirim - Guayaramerín,34.6,23.0,,,
 2023-05-17,Hichucota,14.0,-1.0,,,
 2023-05-17,Huarisuyo (GPRS),15.98,-7.09,86.9,15.1,
+2023-05-17,Huayllamarca,20.0,-0.5,,,
 2023-05-17,Huayrocondo,17.1,-3.8,,,
 2023-05-17,Incahuasi (GPRS),23.07,-2.04,79.13,5.67,
 2023-05-17,Isla Del Sol,14.2,0.2,,,
@@ -31713,6 +31718,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-18,Guajara-Mirim - Guayaramerín,34.6,23.2,,,
 2023-05-18,Hichucota,15.0,-2.0,,,
 2023-05-18,Huarisuyo (GPRS),15.92,-6.16,95.3,18.79,
+2023-05-18,Huayllamarca,20.0,-1.1,,,
 2023-05-18,Huayrocondo,17.0,-6.0,,,
 2023-05-18,Incahuasi (GPRS),16.95,0.26,99.3,10.48,
 2023-05-18,Isla Del Sol,16.4,2.6,,,
@@ -31926,6 +31932,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-19,Hichucota,14.0,-2.0,,,
 2023-05-19,Huarisuyo (GPRS),16.02,-3.56,99.9,29.76,
 2023-05-19,Huaylipaya,,,,,6.0
+2023-05-19,Huayllamarca,19.1,-1.2,,,
 2023-05-19,Huayrocondo,16.9,-5.2,,,
 2023-05-19,Incahuasi (GPRS),24.17,4.13,99.8,10.57,
 2023-05-19,Isla Del Sol,17.6,3.5,,,
@@ -32138,6 +32145,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-20,Hichucota,16.0,-2.0,,,
 2023-05-20,Huarisuyo (GPRS),15.88,-3.62,89.4,29.38,
 2023-05-20,Huaylipaya,,,,,7.9
+2023-05-20,Huayllamarca,18.0,-1.3,,,
 2023-05-20,Huayrocondo,17.0,-2.0,,,
 2023-05-20,Incahuasi (GPRS),17.29,4.99,99.4,22.56,
 2023-05-20,Isla Del Sol,15.8,4.7,,,
@@ -32333,6 +32341,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-21,Hichucota,15.0,-1.0,,,
 2023-05-21,Huarisuyo (GPRS),14.73,-8.23,77.0,13.17,
 2023-05-21,Huaylipaya,,,,,8.5
+2023-05-21,Huayllamarca,18.2,-2.0,,,
 2023-05-21,Huayrocondo,15.5,-3.8,,,
 2023-05-21,Incahuasi (GPRS),21.51,-1.5,81.8,7.24,
 2023-05-21,Isla Del Sol,18.3,2.4,,,
@@ -32527,6 +32536,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-22,Guajara-Mirim - Guayaramerín,31.0,23.8,,,
 2023-05-22,Hichucota,14.0,-3.0,,,
 2023-05-22,Huarisuyo (GPRS),14.7,-7.0,85.1,15.26,
+2023-05-22,Huayllamarca,19.2,-2.1,,,
 2023-05-22,Huayrocondo,15.4,-5.7,,,
 2023-05-22,Incahuasi (GPRS),21.75,-3.3,80.9,6.05,
 2023-05-22,Isla Del Sol,16.3,3.6,,,
@@ -32744,6 +32754,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-23,Guajara-Mirim - Guayaramerín,,,,,16.6
 2023-05-23,Hichucota,14.0,-4.0,,,
 2023-05-23,Huarisuyo (GPRS),14.31,-4.84,94.8,38.06,
+2023-05-23,Huayllamarca,19.3,-3.0,,,
 2023-05-23,Huayrocondo,15.1,-6.2,,,
 2023-05-23,Incahuasi (GPRS),21.73,-1.99,98.0,12.31,
 2023-05-23,Isla Del Sol,15.2,2.8,,,
@@ -32962,6 +32973,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-24,Guajara-Mirim - Guayaramerín,,,,,2.5
 2023-05-24,Hichucota,14.0,-4.0,,,
 2023-05-24,Huarisuyo (GPRS),15.19,-6.74,66.55,13.37,
+2023-05-24,Huayllamarca,19.0,-2.5,,,
 2023-05-24,Huayrocondo,15.8,-4.0,,,
 2023-05-24,Incahuasi (GPRS),20.61,-3.13,89.5,3.95,
 2023-05-24,Isla Del Sol,14.2,1.6,,,
@@ -33179,6 +33191,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-25,Guajara-Mirim - Guayaramerín,,,,,2.3
 2023-05-25,Hichucota,15.0,-3.0,,,
 2023-05-25,Huarisuyo (GPRS),15.62,-4.04,92.6,15.93,
+2023-05-25,Huayllamarca,19.1,-2.0,,,
 2023-05-25,Huayrocondo,17.2,-5.0,,,
 2023-05-25,Incahuasi (GPRS),22.03,9.58,15.47,4.56,
 2023-05-25,Isla Del Sol,16.5,3.1,,,
@@ -33393,6 +33406,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-26,Guajara-Mirim - Guayaramerín,,,,,6.6
 2023-05-26,Hichucota,12.0,1.0,,,
 2023-05-26,Huarisuyo (GPRS),15.82,-1.68,99.5,20.78,
+2023-05-26,Huayllamarca,19.2,-3.1,,,
 2023-05-26,Huayrocondo,16.4,-3.7,,,
 2023-05-26,Incahuasi (GPRS),22.26,-1.1,65.23,8.01,
 2023-05-26,Isla Del Sol,17.4,4.2,,,
@@ -33601,6 +33615,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-27,Hichucota,11.0,-1.0,,,
 2023-05-27,Huarisuyo (GPRS),15.55,4.07,93.1,46.31,
 2023-05-27,Huaylipaya,,,,,8.0
+2023-05-27,Huayllamarca,18.0,-3.2,,,
 2023-05-27,Huayrocondo,16.2,-0.5,,,0.4
 2023-05-27,Incahuasi (GPRS),18.55,1.22,98.6,10.05,
 2023-05-27,Isla Del Sol,15.4,2.6,,,
@@ -33807,6 +33822,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-28,Hichucota,14.0,0.0,,,
 2023-05-28,Huarisuyo (GPRS),15.89,-0.02,97.6,36.78,
 2023-05-28,Huaylipaya,,,,,6.8
+2023-05-28,Huayllamarca,17.1,-3.0,,,
 2023-05-28,Huayrocondo,15.9,-0.8,,,
 2023-05-28,Incahuasi (GPRS),15.26,1.62,100.0,54.25,
 2023-05-28,Incapampa,,,,,18.2
@@ -34030,6 +34046,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-29,Hichucota,13.0,-2.0,,,8.0
 2023-05-29,Huancane Corapata_M (GPRS),,,,,0.3
 2023-05-29,Huarisuyo (GPRS),,,,,1.0
+2023-05-29,Huayllamarca,19.2,-4.1,,,
 2023-05-29,Huayrocondo,16.1,-1.5,,,
 2023-05-29,Incahuasi (GPRS),20.94,2.37,100.0,9.39,
 2023-05-29,Incapampa,,,,,20.1
@@ -34257,6 +34274,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-30,Guajara-Mirim - Guayaramerín,25.0,,,,
 2023-05-30,Hichucota,12.0,-3.0,,,
 2023-05-30,Huarisuyo (GPRS),14.26,-7.98,77.61,14.82,
+2023-05-30,Huayllamarca,19.0,-4.0,,,
 2023-05-30,Huayrocondo,15.3,-8.8,,,
 2023-05-30,Incahuasi (GPRS),18.57,-4.77,87.9,8.76,
 2023-05-30,Incapampa,,,,,6.2
@@ -34473,6 +34491,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-31,Guajara-Mirim - Guayaramerín,26.0,20.8,,,
 2023-05-31,Hichucota,13.0,-4.0,,,
 2023-05-31,Huarisuyo (GPRS),16.79,-6.11,81.7,9.58,
+2023-05-31,Huayllamarca,18.0,-3.0,,,
 2023-05-31,Huayrocondo,17.5,-6.4,,,
 2023-05-31,Incahuasi (GPRS),22.55,-3.03,79.21,5.72,
 2023-05-31,Isla Del Sol,16.6,1.2,,,
@@ -40958,6 +40977,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-01,Hichucota,,-4.0,,,
 2023-07-01,Huarisuyo (GPRS),15.18,-7.58,59.91,15.39,
 2023-07-01,Huaylipaya,,,,,6.8
+2023-07-01,Huayllamarca,17.0,-4.0,,,
 2023-07-01,Huayrocondo,16.5,-8.5,,,
 2023-07-01,Incahuasi (GPRS),21.55,-2.36,95.9,9.48,
 2023-07-01,Isla Del Sol,14.4,2.6,,,
@@ -41143,6 +41163,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-02,Hichucota,,-5.0,,,
 2023-07-02,Huarisuyo (GPRS),16.48,-7.61,48.29,11.16,
 2023-07-02,Huaylipaya,,,,,9.4
+2023-07-02,Huayllamarca,18.1,-4.1,,,
 2023-07-02,Huayrocondo,18.5,-7.5,,,
 2023-07-02,Incahuasi (GPRS),22.69,-2.09,59.1,3.7,
 2023-07-02,Isla Del Sol,16.3,3.4,,,
@@ -41330,6 +41351,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-03,Guajara-Mirim - Guayaramerín,34.0,16.0,,,
 2023-07-03,Hichucota,,-3.0,,,
 2023-07-03,Huarisuyo (GPRS),16.71,-7.19,74.5,16.26,
+2023-07-03,Huayllamarca,18.0,-4.0,,,
 2023-07-03,Huayrocondo,18.3,-7.6,,,
 2023-07-03,Incahuasi (GPRS),23.03,-1.19,97.6,5.89,
 2023-07-03,Isla Del Sol,15.3,1.5,,,
@@ -41542,6 +41564,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-04,Guajara-Mirim - Guayaramerín,34.4,17.4,,,
 2023-07-04,Hichucota,,-3.0,,,
 2023-07-04,Huarisuyo (GPRS),17.72,-7.31,52.26,16.9,
+2023-07-04,Huayllamarca,18.1,-3.1,,,
 2023-07-04,Huayrocondo,19.2,-6.5,,,
 2023-07-04,Incahuasi (GPRS),25.15,-3.95,88.2,1.82,
 2023-07-04,Isla Del Sol,17.3,2.7,,,
@@ -41750,6 +41773,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-05,Guajara-Mirim - Guayaramerín,35.2,18.4,,,
 2023-07-05,Hichucota,,-3.0,,,
 2023-07-05,Huarisuyo (GPRS),16.35,-7.94,60.88,17.66,
+2023-07-05,Huayllamarca,17.2,-3.0,,,
 2023-07-05,Huayrocondo,19.0,-7.5,,,
 2023-07-05,Incahuasi (GPRS),23.7,-0.83,71.68,2.21,
 2023-07-05,Isla Del Sol,16.7,4.2,,,
@@ -41960,6 +41984,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-06,Guajara-Mirim - Guayaramerín,35.2,19.0,,,
 2023-07-06,Hichucota,,-3.0,,,
 2023-07-06,Huarisuyo (GPRS),18.18,-7.66,50.07,9.2,
+2023-07-06,Huayllamarca,17.1,-2.0,,,
 2023-07-06,Huayrocondo,19.1,-7.2,,,
 2023-07-06,Incahuasi (GPRS),24.14,-5.2,99.4,1.56,
 2023-07-06,Isla Del Sol,14.5,3.5,,,
@@ -42170,6 +42195,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-07,Hichucota,,-3.0,,,
 2023-07-07,Huarisuyo (GPRS),17.68,-8.46,57.64,10.45,
 2023-07-07,Huaylipaya,,,,,9.7
+2023-07-07,Huayllamarca,19.0,-2.1,,,
 2023-07-07,Huayrocondo,18.7,-5.6,,,
 2023-07-07,Incahuasi (GPRS),25.09,-3.52,98.4,1.87,
 2023-07-07,Isla Del Sol,13.3,4.3,,,
@@ -42378,6 +42404,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-08,Guajara-Mirim - Guayaramerín,35.2,19.6,,,
 2023-07-08,Hichucota,,-2.0,,,
 2023-07-08,Huarisuyo (GPRS),17.45,-9.02,50.79,8.7,
+2023-07-08,Huayllamarca,19.1,-2.0,,,
 2023-07-08,Huayrocondo,18.5,-7.5,,,
 2023-07-08,Incahuasi (GPRS),23.29,-3.99,80.0,0.76,
 2023-07-08,Isla Del Sol,12.8,2.3,,,
@@ -42566,6 +42593,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-09,Guajara-Mirim - Guayaramerín,34.6,21.0,,,
 2023-07-09,Hichucota,,-3.0,,,
 2023-07-09,Huarisuyo (GPRS),16.87,-6.38,70.79,14.59,
+2023-07-09,Huayllamarca,18.1,-4.3,,,
 2023-07-09,Huayrocondo,18.0,-9.5,,,
 2023-07-09,Incahuasi (GPRS),23.84,-6.78,68.8,0.18,
 2023-07-09,Isla Del Sol,14.3,0.1,,,
@@ -42760,6 +42788,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-10,Guajara-Mirim - Guayaramerín,35.4,20.2,,,
 2023-07-10,Hichucota,,-3.0,,,
 2023-07-10,Huarisuyo (GPRS),17.36,-6.56,88.4,10.93,
+2023-07-10,Huayllamarca,19.0,-4.6,,,
 2023-07-10,Huayrocondo,17.9,-4.2,,,
 2023-07-10,Incahuasi (GPRS),22.41,-3.38,58.75,1.02,
 2023-07-10,Isla Del Sol,15.3,0.3,,,
@@ -42978,6 +43007,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-11,Hichucota,,-2.0,,,
 2023-07-11,Huarisuyo (GPRS),16.34,-5.51,89.1,19.07,
 2023-07-11,Huaylipaya,,,,,28.9
+2023-07-11,Huayllamarca,19.3,-5.0,,,
 2023-07-11,Huayrocondo,17.4,-6.9,,,
 2023-07-11,Incahuasi (GPRS),24.23,-0.34,37.41,6.07,
 2023-07-11,Isla Del Sol,14.5,0.1,,,
@@ -43200,6 +43230,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-12,Hichucota,,-3.0,,,
 2023-07-12,Huarisuyo (GPRS),15.6,-7.68,76.73,18.95,
 2023-07-12,Huaylipaya,,,,,11.7
+2023-07-12,Huayllamarca,19.1,-5.1,,,
 2023-07-12,Huayrocondo,17.3,-6.4,,,
 2023-07-12,Incahuasi (GPRS),21.06,-1.61,86.1,2.01,
 2023-07-12,Isla Del Sol,13.2,1.2,,,
@@ -43419,6 +43450,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-13,Guajara-Mirim - Guayaramerín,35.4,20.2,,,
 2023-07-13,Hichucota,,-3.0,,,
 2023-07-13,Huarisuyo (GPRS),16.62,-6.58,97.0,14.07,
+2023-07-13,Huayllamarca,18.1,-5.0,,,
 2023-07-13,Huayrocondo,17.2,-6.7,,,
 2023-07-13,Incahuasi (GPRS),19.64,-2.03,100.0,1.51,
 2023-07-13,Isla Del Sol,12.6,2.3,,,
@@ -43652,6 +43684,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-14,Guajara-Mirim - Guayaramerín,,,,,7.3
 2023-07-14,Hichucota,,-2.0,,,
 2023-07-14,Huarisuyo (GPRS),15.27,,59.81,18.71,
+2023-07-14,Huayllamarca,18.0,-6.0,,,
 2023-07-14,Huayrocondo,17.0,-5.5,,,
 2023-07-14,Incahuasi (GPRS),20.09,-3.56,100.0,2.95,
 2023-07-14,Incapampa,,,,,8.1
@@ -43872,6 +43905,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-15,Guajara-Mirim - Guayaramerín,29.8,14.8,,,
 2023-07-15,Hichucota,,-5.0,,,
 2023-07-15,Huarisuyo (GPRS),16.22,-8.41,66.58,15.47,
+2023-07-15,Huayllamarca,17.0,-6.1,,,
 2023-07-15,Huayrocondo,17.1,-7.4,,,
 2023-07-15,Incahuasi (GPRS),21.34,-6.89,53.68,1.68,
 2023-07-15,Incapampa - Coroico_M (GPRS),,,,,0.2
@@ -44062,6 +44096,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-16,Guajara-Mirim - Guayaramerín,32.2,17.8,,,
 2023-07-16,Hichucota,,-1.0,,,
 2023-07-16,Huarisuyo (GPRS),16.65,-7.33,94.9,14.38,
+2023-07-16,Huayllamarca,17.1,-7.0,,,
 2023-07-16,Huayrocondo,17.9,-7.6,,,
 2023-07-16,Incahuasi (GPRS),22.88,-5.54,82.5,2.91,
 2023-07-16,Isla Del Sol,16.3,2.3,,,
@@ -44257,6 +44292,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-17,Hichucota,,-2.0,,,
 2023-07-17,Huarisuyo (GPRS),15.94,-4.05,98.1,19.27,
 2023-07-17,Huaylipaya,,,,,16.8
+2023-07-17,Huayllamarca,17.0,-7.6,,,
 2023-07-17,Huayrocondo,16.0,-6.0,,,
 2023-07-17,Incahuasi (GPRS),22.35,-4.96,95.9,7.16,
 2023-07-17,Isla Del Sol,15.5,1.5,,,
@@ -44478,6 +44514,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-18,Hichucota,,-2.0,,,
 2023-07-18,Huarisuyo (GPRS),16.38,-6.03,99.2,14.09,
 2023-07-18,Huaylipaya,,,,,0.9
+2023-07-18,Huayllamarca,18.0,-5.1,,,
 2023-07-18,Huayrocondo,17.0,-3.5,,,
 2023-07-18,Incahuasi (GPRS),20.1,-5.0,65.62,3.37,
 2023-07-18,Incapampa - Coroico_M (GPRS),,,,,1.2
@@ -44704,6 +44741,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-19,Guanay_H (GPRS),,,,,7.0
 2023-07-19,Hichucota,,-3.0,,,
 2023-07-19,Huarisuyo (GPRS),16.41,-8.39,82.7,11.03,
+2023-07-19,Huayllamarca,19.2,-5.0,,,
 2023-07-19,Huayrocondo,18.0,-7.0,,,
 2023-07-19,Incahuasi (GPRS),22.85,-3.64,55.81,4.72,
 2023-07-19,Incapampa - Coroico_M (GPRS),,,,,2.1
@@ -44928,6 +44966,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-20,Guajara-Mirim - Guayaramerín,32.0,17.2,,,
 2023-07-20,Hichucota,,-5.0,,,
 2023-07-20,Huarisuyo (GPRS),17.58,-7.23,88.0,18.5,
+2023-07-20,Huayllamarca,19.0,-4.1,,,
 2023-07-20,Huayrocondo,19.2,-6.3,,,
 2023-07-20,Incahuasi (GPRS),24.76,-1.45,49.64,4.56,
 2023-07-20,Isla Del Sol,12.7,0.2,,,
@@ -45140,6 +45179,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-21,Guajara-Mirim - Guayaramerín,34.6,18.4,,,
 2023-07-21,Hichucota,,-1.0,,,
 2023-07-21,Huarisuyo (GPRS),17.19,-8.42,84.9,13.0,
+2023-07-21,Huayllamarca,19.1,-4.0,,,
 2023-07-21,Huayrocondo,18.0,-6.8,,,
 2023-07-21,Incahuasi (GPRS),25.74,-2.0,53.88,5.16,
 2023-07-21,Isla Del Sol,13.2,0.1,,,
@@ -45349,6 +45389,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-22,Hichucota,,-3.0,,,
 2023-07-22,Huarisuyo (GPRS),16.69,-5.58,52.3,11.52,
 2023-07-22,Huaylipaya,,,,,37.0
+2023-07-22,Huayllamarca,18.0,-3.0,,,
 2023-07-22,Huayrocondo,18.3,-6.5,,,
 2023-07-22,Incahuasi (GPRS),24.21,-1.2,38.88,5.77,
 2023-07-22,Isla Del Sol,11.4,1.7,,,
@@ -45536,6 +45577,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-23,Guajara-Mirim - Guayaramerín,34.8,18.6,,,
 2023-07-23,Hichucota,,-5.0,,,
 2023-07-23,Huarisuyo (GPRS),17.63,-5.87,78.65,9.46,
+2023-07-23,Huayllamarca,19.2,-3.2,,,
 2023-07-23,Huayrocondo,18.9,-5.8,,,
 2023-07-23,Incahuasi (GPRS),21.3,1.99,100.0,5.78,
 2023-07-23,Isla Del Sol,12.8,2.8,,,
@@ -45728,6 +45770,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-24,Guajara-Mirim - Guayaramerín,35.6,17.6,,,
 2023-07-24,Hichucota,,-5.0,,,
 2023-07-24,Huarisuyo (GPRS),16.52,-9.95,51.84,14.1,
+2023-07-24,Huayllamarca,20.1,-2.0,,,
 2023-07-24,Huayrocondo,17.6,-5.5,,,
 2023-07-24,Incahuasi (GPRS),23.03,-0.68,100.0,3.59,
 2023-07-24,Isla Del Sol,14.6,3.5,,,
@@ -45943,6 +45986,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-25,Guajara-Mirim - Guayaramerín,35.8,17.0,,,
 2023-07-25,Hichucota,,-5.0,,,
 2023-07-25,Huarisuyo (GPRS),15.08,-10.34,65.87,10.63,
+2023-07-25,Huayllamarca,20.0,-4.5,,,
 2023-07-25,Huayrocondo,16.2,-7.8,,,
 2023-07-25,Incahuasi (GPRS),22.59,2.41,40.68,4.65,
 2023-07-25,Isla Del Sol,12.4,4.6,,,
@@ -46158,6 +46202,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-26,Guajara-Mirim - Guayaramerín,35.8,18.4,,,
 2023-07-26,Hichucota,,-7.0,,,
 2023-07-26,Huarisuyo (GPRS),15.2,-7.62,94.8,6.42,
+2023-07-26,Huayllamarca,20.2,-5.6,,,
 2023-07-26,Huayrocondo,16.0,-8.1,,,
 2023-07-26,Incahuasi (GPRS),17.36,-3.97,98.0,9.14,
 2023-07-26,Isla Del Sol,13.8,2.4,,,
@@ -46382,6 +46427,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-27,Guajara-Mirim - Guayaramerín,36.0,19.0,,,
 2023-07-27,Hichucota,,-8.0,,,
 2023-07-27,Huarisuyo (GPRS),13.75,-8.56,90.7,8.84,
+2023-07-27,Huayllamarca,19.0,-6.3,,,
 2023-07-27,Huayrocondo,15.0,-5.5,,,
 2023-07-27,Incahuasi (GPRS),20.71,-3.18,98.0,7.21,
 2023-07-27,Incapampa - Coroico_M (GPRS),,,,,6.1
@@ -46614,6 +46660,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-28,Guanay_H (GPRS),,,,,33.0
 2023-07-28,Hichucota,10.0,-2.0,,,
 2023-07-28,Huarisuyo (GPRS),13.45,-3.09,98.5,31.27,
+2023-07-28,Huayllamarca,19.1,-6.0,,,
 2023-07-28,Huayrocondo,15.1,-6.9,,,
 2023-07-28,Incahuasi (GPRS),16.08,-4.78,84.6,13.26,
 2023-07-28,Incapampa,,,,,37.1
@@ -46838,6 +46885,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-29,Guanay_H (GPRS),,,,,78.0
 2023-07-29,Hichucota,11.0,-3.0,,,
 2023-07-29,Huarisuyo (GPRS),13.25,-1.55,88.8,32.16,
+2023-07-29,Huayllamarca,19.2,-3.1,,,
 2023-07-29,Huayrocondo,15.2,-2.1,,,
 2023-07-29,Incahuasi (GPRS),19.56,-5.06,64.13,9.16,
 2023-07-29,Incapampa,,,,,6.2
@@ -47049,6 +47097,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-30,Hichucota,10.0,-1.0,,,
 2023-07-30,Huarisuyo (GPRS),14.06,-7.27,88.8,33.75,
 2023-07-30,Huaylipaya,,,,,11.9
+2023-07-30,Huayllamarca,20.1,-2.0,,,
 2023-07-30,Huayrocondo,15.5,-1.3,,,
 2023-07-30,Incahuasi (GPRS),22.32,-5.83,70.99,4.87,
 2023-07-30,Isla Del Sol,12.3,1.5,,,
@@ -47250,6 +47299,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-31,Hichucota,15.0,-7.0,,,
 2023-07-31,Huarisuyo (GPRS),16.24,-8.77,87.0,10.49,
 2023-07-31,Huaylipaya,,,,,7.3
+2023-07-31,Huayllamarca,20.0,-2.1,,,
 2023-07-31,Huayrocondo,17.0,-5.9,,,
 2023-07-31,Incahuasi (GPRS),21.72,-4.8,73.58,6.04,
 2023-07-31,Isla Del Sol,13.6,0.2,,,
