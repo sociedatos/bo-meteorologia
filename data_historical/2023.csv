@@ -33558,6 +33558,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-27,Abapo,32.0,18.0,,,
 2023-05-27,Acasio,23.1,2.0,,,
 2023-05-27,Achumani,19.2,1.2,,,
+2023-05-27,Achumani - Franco Boliviano,,,,,0.2
 2023-05-27,Aguadas (GPRS),16.42,2.32,92.2,43.51,
 2023-05-27,Aguaraycito,26.0,24.0,,,
 2023-05-27,Aiquile (GPRS),32.3,12.7,94.8,36.19,
@@ -33598,6 +33599,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-27,Concepcion,27.0,21.0,99.1,82.8,
 2023-05-27,Concepcion Aeropuerto SCZ,27.8,,,,
 2023-05-27,Coripata,28.5,16.5,,,
+2023-05-27,Cosapa,,5.5,,,
 2023-05-27,Cotagaita Mosoj Llajta,22.1,1.0,,,
 2023-05-27,Cristal Mayu,26.0,19.0,,,4.0
 2023-05-27,Cuatro Cañadas - CEA-2 (GPRS),30.34,19.84,99.8,70.37,
@@ -33801,6 +33803,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-28,Concepcion,19.0,13.0,99.1,87.3,
 2023-05-28,Concepcion Aeropuerto SCZ,21.8,,,,
 2023-05-28,Coripata,25.0,14.5,,,17.0
+2023-05-28,Cosapa,,4.6,,,
 2023-05-28,Cotagaita Mosoj Llajta,23.2,4.0,,,
 2023-05-28,Cristal Mayu,20.0,17.0,,,29.0
 2023-05-28,Cuatro Cañadas - CEA-2 (GPRS),18.35,14.87,87.5,77.5,39.0
@@ -34027,6 +34030,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-29,Concepcion,,,87.0,87.0,
 2023-05-29,Concepcion Aeropuerto SCZ,,,,,19.0
 2023-05-29,Coripata,25.5,14.0,,,9.0
+2023-05-29,Cosapa,,3.3,,,
 2023-05-29,Cotagaita Mosoj Llajta,24.6,3.8,,,
 2023-05-29,Cristal Mayu,23.0,18.0,,,
 2023-05-29,Cuatro Cañadas - CEA-2 (GPRS),19.86,15.0,99.0,78.1,
@@ -34256,6 +34260,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-30,Concepcion,21.0,16.0,99.1,99.1,
 2023-05-30,Concepcion Aeropuerto SCZ,,,,,1.2
 2023-05-30,Coripata,26.5,14.5,,,
+2023-05-30,Cosapa,,5.2,,,
 2023-05-30,Cotagaita Mosoj Llajta,24.1,0.0,,,
 2023-05-30,Cristal Mayu,23.0,16.0,,,
 2023-05-30,Cuatro Cañadas - CEA-2 (GPRS),21.83,17.69,99.4,78.6,1.2
@@ -34476,6 +34481,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-05-31,Concepcion,22.0,16.0,99.1,99.1,
 2023-05-31,Concepcion Aeropuerto SCZ,22.6,15.6,,,
 2023-05-31,Coripata,26.0,13.0,,,
+2023-05-31,Cosapa,,8.9,,,
 2023-05-31,Cotagaita Mosoj Llajta,23.6,-3.0,,,
 2023-05-31,Cristal Mayu,26.0,17.0,,,4.0
 2023-05-31,Cuatro Cañadas - CEA-2 (GPRS),23.74,20.25,99.2,74.87,
@@ -34688,6 +34694,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-01,Concepcion,27.0,18.0,99.1,99.1,
 2023-06-01,Concepcion Aeropuerto SCZ,27.8,19.0,,,
 2023-06-01,Coripata,25.0,11.0,,,
+2023-06-01,Cosapa,,-3.5,,,
 2023-06-01,Cotagaita Mosoj Llajta,27.0,-2.0,,,
 2023-06-01,Cristal Mayu,25.0,19.0,,,
 2023-06-01,Cuatro Cañadas - CEA-2 (GPRS),27.68,18.28,100.0,64.28,
@@ -34902,6 +34909,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-02,Concepcion,28.0,18.0,99.1,69.3,
 2023-06-02,Concepcion Aeropuerto SCZ,28.7,17.3,,,
 2023-06-02,Coripata,26.5,12.5,,,
+2023-06-02,Cosapa,,-4.5,,,
 2023-06-02,Cotagaita Mosoj Llajta,26.1,-2.1,,,
 2023-06-02,Cristal Mayu,26.0,18.0,,,
 2023-06-02,Cuatro Cañadas - CEA-2 (GPRS),28.13,19.86,99.2,66.43,
@@ -35112,6 +35120,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-03,Concepcion,29.0,19.0,99.1,99.1,
 2023-06-03,Concepcion Aeropuerto SCZ,29.0,17.8,,,
 2023-06-03,Coripata,26.0,13.0,,,
+2023-06-03,Cosapa,,-3.5,,,
 2023-06-03,Cotagaita Mosoj Llajta,27.0,-3.0,,,
 2023-06-03,Cristal Mayu,24.0,17.0,,,
 2023-06-03,Cuatro Cañadas - CEA-2 (GPRS),29.55,21.11,99.3,65.53,
@@ -35301,6 +35310,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-04,Concepcion,29.0,20.0,99.1,99.1,
 2023-06-04,Concepcion Aeropuerto SCZ,29.5,18.5,,,
 2023-06-04,Coripata,27.0,14.0,,,
+2023-06-04,Cosapa,,-4.0,,,
 2023-06-04,Cotagaita Mosoj Llajta,26.0,-4.0,,,
 2023-06-04,Cristal Mayu,26.0,16.0,,,
 2023-06-04,Cuatro Cañadas - CEA-2 (GPRS),30.17,20.12,100.0,67.11,
@@ -35496,6 +35506,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-05,Concepcion,,,93.1,93.1,
 2023-06-05,Concepcion Aeropuerto SCZ,28.5,19.0,,,
 2023-06-05,Coripata,28.0,13.5,,,
+2023-06-05,Cosapa,,-3.0,,,
 2023-06-05,Cotagaita Mosoj Llajta,26.1,-2.0,,,
 2023-06-05,Cristal Mayu,27.0,19.0,,,
 2023-06-05,Cuatro Cañadas - CEA-2 (GPRS),29.26,17.76,100.0,63.32,
@@ -35713,6 +35724,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-06,Concepcion,29.0,19.0,99.1,65.2,
 2023-06-06,Concepcion Aeropuerto SCZ,29.8,18.4,,,
 2023-06-06,Coripata,27.5,14.0,,,
+2023-06-06,Cosapa,,-5.3,,,
 2023-06-06,Cotagaita Mosoj Llajta,27.0,-3.1,,,
 2023-06-06,Cristal Mayu,26.0,18.0,,,
 2023-06-06,Cuatro Cañadas - CEA-2 (GPRS),29.71,20.85,97.2,62.01,
@@ -35926,6 +35938,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-07,Concepcion,30.0,19.0,99.1,61.7,
 2023-06-07,Concepcion Aeropuerto SCZ,30.2,18.2,,,
 2023-06-07,Coripata,27.0,13.5,,,
+2023-06-07,Cosapa,,-6.3,,,
 2023-06-07,Cotagaita Mosoj Llajta,24.0,-4.0,,,
 2023-06-07,Cristal Mayu,28.0,19.0,,,
 2023-06-07,Cuatro Cañadas - CEA-2 (GPRS),30.01,20.45,98.8,63.63,
@@ -36140,6 +36153,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-08,Concepcion,30.0,19.0,93.1,93.1,
 2023-06-08,Concepcion Aeropuerto SCZ,30.4,18.6,,,
 2023-06-08,Coripata,28.0,14.0,,,
+2023-06-08,Cosapa,,-4.2,,,
 2023-06-08,Cotagaita Mosoj Llajta,23.9,-3.0,,,
 2023-06-08,Cristal Mayu,31.0,20.0,,,
 2023-06-08,Cuatro Cañadas - CEA-2 (GPRS),30.04,21.83,94.6,66.06,
@@ -36343,6 +36357,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-09,Concepcion,31.0,20.0,93.1,93.1,
 2023-06-09,Concepcion Aeropuerto SCZ,31.0,18.7,,,
 2023-06-09,Coripata,28.5,14.5,,,
+2023-06-09,Cosapa,,-2.3,,,
 2023-06-09,Cotagaita Mosoj Llajta,22.0,-4.0,,,
 2023-06-09,Cristal Mayu,30.0,22.0,,,
 2023-06-09,Cuatro Cañadas - CEA-2 (GPRS),30.24,23.54,96.5,64.63,
@@ -36554,6 +36569,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-10,Concepcion,29.0,21.0,99.1,99.1,
 2023-06-10,Concepcion Aeropuerto SCZ,29.8,20.0,,,
 2023-06-10,Coripata,28.0,14.0,,,
+2023-06-10,Cosapa,,-1.5,,,
 2023-06-10,Cotagaita Mosoj Llajta,23.2,-4.1,,,
 2023-06-10,Cristal Mayu,30.0,21.0,,,
 2023-06-10,Cuatro Cañadas - CEA-2 (GPRS),30.5,22.16,100.0,63.39,0.2
@@ -36746,6 +36762,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-11,Concepcion,29.0,9.0,99.1,99.1,
 2023-06-11,Concepcion Aeropuerto SCZ,29.5,20.0,,,
 2023-06-11,Coripata,28.5,13.5,,,
+2023-06-11,Cosapa,,-4.8,,,
 2023-06-11,Cotagaita Mosoj Llajta,21.9,-3.0,,,
 2023-06-11,Cristal Mayu,31.0,20.0,,,
 2023-06-11,Cuatro Cañadas - CEA-2 (GPRS),16.25,11.06,98.2,79.53,79.2
@@ -36952,6 +36969,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-12,Concepcion,,,86.5,86.5,
 2023-06-12,Concepcion Aeropuerto SCZ,,,,,21.6
 2023-06-12,Coripata,27.5,15.0,,,
+2023-06-12,Cosapa,,-3.9,,,
 2023-06-12,Cotagaita Mosoj Llajta,25.0,-3.1,,,
 2023-06-12,Cristal Mayu,20.0,15.0,,,
 2023-06-12,Cuatro Cañadas - CEA-2 (GPRS),,,,,10.4
@@ -37178,6 +37196,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-13,Concepcion,10.0,7.0,70.3,70.3,
 2023-06-13,Concepcion Aeropuerto SCZ,10.8,8.2,,,
 2023-06-13,Coripata,19.0,14.0,,,7.2
+2023-06-13,Cosapa,,-2.8,,,
 2023-06-13,Cotagaita Mosoj Llajta,24.1,-1.0,,,
 2023-06-13,Cristal Mayu,15.0,14.0,,,
 2023-06-13,Cuatro Cañadas - CEA-2 (GPRS),11.58,9.21,87.2,54.29,1.2
@@ -37396,6 +37415,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-14,Concepcion,11.0,7.0,92.5,92.5,
 2023-06-14,Concepcion Aeropuerto SCZ,,,,,6.8
 2023-06-14,Coripata,23.0,11.5,,,
+2023-06-14,Cosapa,,-4.5,,,
 2023-06-14,Cotagaita Mosoj Llajta,24.0,-3.0,,,
 2023-06-14,Cristal Mayu,13.0,12.0,,,
 2023-06-14,Cuatro Cañadas - CEA-2 (GPRS),16.31,10.52,95.9,44.68,1.4
@@ -37614,6 +37634,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-15,Concepcion,19.0,10.0,86.6,86.6,
 2023-06-15,Concepcion Aeropuerto SCZ,19.3,9.3,,,
 2023-06-15,Coripata,23.5,10.0,,,
+2023-06-15,Cosapa,,-4.5,,,
 2023-06-15,Cotagaita Mosoj Llajta,23.0,-8.1,,,
 2023-06-15,Cristal Mayu,20.0,11.0,,,
 2023-06-15,Cuatro Cañadas - CEA-2 (GPRS),20.72,13.82,93.7,41.79,
@@ -37832,6 +37853,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-16,Concepcion,13.0,13.0,86.9,86.9,
 2023-06-16,Concepcion Aeropuerto SCZ,24.0,12.2,,,
 2023-06-16,Coripata,26.0,11.5,,,
+2023-06-16,Cosapa,,-3.3,,,
 2023-06-16,Cotagaita Mosoj Llajta,24.0,-7.0,,,
 2023-06-16,Cristal Mayu,22.0,13.0,,,
 2023-06-16,Cuatro Cañadas - CEA-2 (GPRS),22.42,9.09,94.5,41.02,
@@ -38048,6 +38070,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-17,Concepcion,12.0,12.0,86.8,86.8,
 2023-06-17,Concepcion Aeropuerto SCZ,23.5,10.0,,,
 2023-06-17,Coripata,24.5,11.0,,,
+2023-06-17,Cosapa,,-2.2,,,
 2023-06-17,Cotagaita Mosoj Llajta,23.1,-6.0,,,
 2023-06-17,Cristal Mayu,25.0,13.0,,,
 2023-06-17,Cuatro Cañadas - CEA-2 (GPRS),22.42,9.29,94.8,44.6,
@@ -38239,6 +38262,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-18,Concepcion,25.0,12.0,99.1,64.6,
 2023-06-18,Concepcion Aeropuerto SCZ,25.3,10.4,,,
 2023-06-18,Coripata,25.0,10.5,,,
+2023-06-18,Cosapa,,-3.5,,,
 2023-06-18,Cotagaita Mosoj Llajta,24.0,-3.0,,,
 2023-06-18,Cristal Mayu,25.0,13.0,,,
 2023-06-18,Cuatro Cañadas - CEA-2 (GPRS),24.64,11.92,99.4,52.97,
@@ -38430,6 +38454,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-19,Concepcion,26.0,14.0,93.0,57.1,
 2023-06-19,Concepcion Aeropuerto SCZ,26.7,11.8,,,
 2023-06-19,Coripata,26.0,11.0,,,
+2023-06-19,Cosapa,,-4.0,,,
 2023-06-19,Cotagaita Mosoj Llajta,25.1,-2.0,,,
 2023-06-19,Cristal Mayu,22.0,12.0,,,
 2023-06-19,Cuatro Cañadas - CEA-2 (GPRS),25.9,14.54,99.8,58.26,
@@ -38645,6 +38670,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-20,Concepcion,17.0,17.0,93.0,93.0,
 2023-06-20,Concepcion Aeropuerto SCZ,28.4,15.4,,,
 2023-06-20,Coripata,27.5,10.5,,,
+2023-06-20,Cosapa,,-5.5,,,
 2023-06-20,Cotagaita Mosoj Llajta,26.0,-4.1,,,
 2023-06-20,Cristal Mayu,27.0,19.0,,,
 2023-06-20,Cuatro Cañadas - CEA-2 (GPRS),27.44,17.22,100.0,56.7,
@@ -38858,6 +38884,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-21,Concepcion,20.0,20.0,93.1,93.1,
 2023-06-21,Concepcion Aeropuerto SCZ,29.5,18.0,,,
 2023-06-21,Coripata,28.0,12.0,,,
+2023-06-21,Cosapa,,-3.0,,,
 2023-06-21,Cotagaita Mosoj Llajta,25.9,-6.0,,,
 2023-06-21,Cristal Mayu,29.0,17.0,,,
 2023-06-21,Cuatro Cañadas - CEA-2 (GPRS),28.73,19.86,100.0,64.68,
@@ -39060,6 +39087,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-22,Concepcion,30.0,19.0,93.1,93.1,
 2023-06-22,Concepcion Aeropuerto SCZ,30.0,17.8,,,
 2023-06-22,Coripata,26.5,12.5,,,
+2023-06-22,Cosapa,,-2.7,,,
 2023-06-22,Cotagaita Mosoj Llajta,26.0,-5.1,,,
 2023-06-22,Cristal Mayu,22.0,19.0,,,
 2023-06-22,Cuatro Cañadas - CEA-2 (GPRS),29.13,22.23,97.5,68.79,
@@ -39272,6 +39300,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-23,Concepcion,20.0,20.0,99.1,99.1,
 2023-06-23,Concepcion Aeropuerto SCZ,28.8,18.5,,,
 2023-06-23,Coripata,29.0,11.5,,,
+2023-06-23,Cosapa,,-3.3,,,
 2023-06-23,Cotagaita Mosoj Llajta,25.0,-4.0,,,
 2023-06-23,Cristal Mayu,29.0,19.0,,,
 2023-06-23,Cuatro Cañadas - CEA-2 (GPRS),30.04,23.22,94.6,67.5,
@@ -39480,6 +39509,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-24,Concepcion,22.0,22.0,87.6,87.6,
 2023-06-24,Concepcion Aeropuerto SCZ,29.2,19.4,,,
 2023-06-24,Coripata,28.5,12.0,,,
+2023-06-24,Cosapa,,-7.2,,,
 2023-06-24,Cotagaita Mosoj Llajta,24.9,-5.1,,,
 2023-06-24,Cristal Mayu,29.0,19.0,,,
 2023-06-24,Cuatro Cañadas - CEA-2 (GPRS),29.72,21.77,97.3,69.66,
@@ -39669,6 +39699,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-25,Concepcion,23.0,23.0,82.5,82.5,
 2023-06-25,Concepcion Aeropuerto SCZ,29.6,19.3,,,
 2023-06-25,Coripata,28.0,13.0,,,
+2023-06-25,Cosapa,,-6.1,,,
 2023-06-25,Cotagaita Mosoj Llajta,26.0,-4.1,,,
 2023-06-25,Cristal Mayu,30.0,19.0,,,
 2023-06-25,Cuatro Cañadas - CEA-2 (GPRS),29.72,20.79,97.2,65.02,
@@ -39868,6 +39899,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-26,Concepcion,,,93.1,93.1,
 2023-06-26,Concepcion Aeropuerto SCZ,30.2,18.0,,,
 2023-06-26,Coripata,28.5,13.5,,,
+2023-06-26,Cosapa,,-5.2,,,
 2023-06-26,Cotagaita Mosoj Llajta,25.1,-5.0,,,
 2023-06-26,Cristal Mayu,30.0,20.0,,,
 2023-06-26,Cuatro Cañadas - CEA-2 (GPRS),30.9,20.47,94.8,61.57,
@@ -40092,6 +40124,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-27,Concepcion,18.0,18.0,93.0,93.0,
 2023-06-27,Concepcion Aeropuerto SCZ,29.5,16.7,,,
 2023-06-27,Coripata,29.0,15.5,,,
+2023-06-27,Cosapa,,-7.3,,,
 2023-06-27,Cotagaita Mosoj Llajta,27.0,-6.0,,,
 2023-06-27,Cristal Mayu,30.0,21.0,,,
 2023-06-27,Cuatro Cañadas - CEA-2 (GPRS),30.85,20.72,97.3,53.29,
@@ -40315,6 +40348,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-28,Concepcion,20.0,20.0,93.1,93.1,
 2023-06-28,Concepcion Aeropuerto SCZ,29.2,18.7,,,
 2023-06-28,Coripata,29.5,14.5,,,
+2023-06-28,Cosapa,,-6.3,,,
 2023-06-28,Cotagaita Mosoj Llajta,26.0,-5.1,,,
 2023-06-28,Cristal Mayu,25.0,20.0,,,
 2023-06-28,Cuatro Cañadas - CEA-2 (GPRS),27.03,16.65,93.7,74.91,
@@ -40537,6 +40571,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-29,Concepcion,20.0,20.0,87.5,87.5,
 2023-06-29,Concepcion Aeropuerto SCZ,25.0,18.5,,,
 2023-06-29,Coripata,28.0,15.0,,,
+2023-06-29,Cosapa,,-8.2,,,
 2023-06-29,Cotagaita Mosoj Llajta,26.1,-4.0,,,
 2023-06-29,Cristal Mayu,27.0,20.0,,,
 2023-06-29,Cuatro Cañadas - CEA-2 (GPRS),24.66,13.96,99.7,65.89,
@@ -40753,6 +40788,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-06-30,Concepcion,28.0,17.0,99.1,99.1,
 2023-06-30,Concepcion Aeropuerto SCZ,28.2,15.4,,,
 2023-06-30,Coripata,26.0,15.5,,,
+2023-06-30,Cosapa,,-9.5,,,
 2023-06-30,Cotagaita Mosoj Llajta,26.0,-3.0,,,
 2023-06-30,Cristal Mayu,28.0,20.0,,,
 2023-06-30,Cuatro Cañadas - CEA-2 (GPRS),28.34,16.33,100.0,57.38,
@@ -40963,6 +40999,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-01,Concepcion,18.0,18.0,99.1,99.1,
 2023-07-01,Concepcion Aeropuerto SCZ,27.9,,,,
 2023-07-01,Coripata,27.5,13.0,,,
+2023-07-01,Cosapa,,-2.2,,,
 2023-07-01,Cotagaita Mosoj Llajta,27.0,-4.0,,,
 2023-07-01,Cristal Mayu,27.0,21.0,,,
 2023-07-01,Cuatro Cañadas - CEA-2 (GPRS),29.78,17.24,98.4,49.83,
@@ -41148,6 +41185,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-02,Concepcion,16.0,16.0,93.0,93.0,
 2023-07-02,Concepcion Aeropuerto SCZ,28.2,14.9,,,
 2023-07-02,Coripata,27.0,14.0,,,
+2023-07-02,Cosapa,,-3.3,,,
 2023-07-02,Cotagaita Mosoj Llajta,27.2,-4.1,,,
 2023-07-02,Cristal Mayu,27.0,20.0,,,
 2023-07-02,Cuatro Cañadas - CEA-2 (GPRS),29.59,19.48,88.5,47.74,
@@ -41337,6 +41375,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-03,Concepcion,,,93.0,93.0,
 2023-07-03,Concepcion Aeropuerto SCZ,30.1,,,,
 2023-07-03,Coripata,27.5,14.5,,,
+2023-07-03,Cosapa,,-2.5,,,
 2023-07-03,Cotagaita Mosoj Llajta,28.0,-3.0,,,
 2023-07-03,Cristal Mayu,27.0,20.0,,,
 2023-07-03,Cuatro Cañadas - CEA-2 (GPRS),30.05,19.81,87.7,53.54,
@@ -41550,6 +41589,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-04,Concepcion,17.0,17.0,93.0,93.0,
 2023-07-04,Concepcion Aeropuerto SCZ,29.5,16.0,,,
 2023-07-04,Coripata,28.5,15.0,,,
+2023-07-04,Cosapa,,-1.6,,,
 2023-07-04,Cotagaita Mosoj Llajta,27.9,-4.0,,,
 2023-07-04,Cristal Mayu,28.0,21.0,,,
 2023-07-04,Cuatro Cañadas - CEA-2 (GPRS),30.08,20.73,92.3,51.19,
@@ -41759,6 +41799,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-05,Concepcion,19.0,19.0,87.4,87.4,
 2023-07-05,Concepcion Aeropuerto SCZ,30.0,17.7,,,
 2023-07-05,Coripata,27.5,14.5,,,
+2023-07-05,Cosapa,,-2.8,,,
 2023-07-05,Cotagaita Mosoj Llajta,27.0,-3.0,,,
 2023-07-05,Cristal Mayu,28.0,21.0,,,
 2023-07-05,Cuatro Cañadas - CEA-2 (GPRS),30.31,22.76,90.9,56.74,
@@ -41970,6 +42011,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-06,Concepcion,29.0,19.0,93.1,93.1,
 2023-07-06,Concepcion Aeropuerto SCZ,29.4,18.6,,,
 2023-07-06,Coripata,29.0,13.5,,,
+2023-07-06,Cosapa,,-3.0,,,
 2023-07-06,Cotagaita Mosoj Llajta,29.0,-4.0,,,
 2023-07-06,Cristal Mayu,28.0,20.0,,,
 2023-07-06,Cuatro Cañadas - CEA-2 (GPRS),30.05,22.76,91.2,60.72,
@@ -42181,6 +42223,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-07,Concepcion,29.0,20.0,93.1,54.4,
 2023-07-07,Concepcion Aeropuerto SCZ,29.7,18.3,,,
 2023-07-07,Coripata,29.5,14.0,,,
+2023-07-07,Cosapa,,-4.5,,,
 2023-07-07,Cotagaita Mosoj Llajta,28.0,-5.0,,,
 2023-07-07,Cristal Mayu,29.0,21.0,,,
 2023-07-07,Cuatro Cañadas - CEA-2 (GPRS),30.83,23.69,95.2,56.03,
@@ -42390,6 +42433,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-08,Concepcion,21.0,21.0,87.6,87.6,
 2023-07-08,Concepcion Aeropuerto SCZ,29.6,19.5,,,
 2023-07-08,Coripata,30.5,13.5,,,
+2023-07-08,Cosapa,,-5.3,,,
 2023-07-08,Cotagaita Mosoj Llajta,27.0,-2.0,,,
 2023-07-08,Cristal Mayu,24.0,21.0,,,
 2023-07-08,Cuatro Cañadas - CEA-2 (GPRS),30.11,23.68,95.9,64.57,
@@ -42580,6 +42624,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-09,Concepcion,21.0,21.0,93.2,93.2,
 2023-07-09,Concepcion Aeropuerto SCZ,29.7,20.0,,,
 2023-07-09,Coripata,30.0,15.0,,,
+2023-07-09,Cosapa,,-6.2,,,
 2023-07-09,Cotagaita Mosoj Llajta,27.1,-4.0,,,
 2023-07-09,Cristal Mayu,29.0,20.0,,,
 2023-07-09,Cuatro Cañadas - CEA-2 (GPRS),29.06,23.35,97.8,70.1,2.0
@@ -42775,6 +42820,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-10,Concepcion,21.0,21.0,99.1,99.1,
 2023-07-10,Concepcion Aeropuerto SCZ,30.3,20.0,,,
 2023-07-10,Coripata,29.5,15.5,,,
+2023-07-10,Cosapa,,-3.0,,,
 2023-07-10,Cotagaita Mosoj Llajta,27.0,-5.0,,,
 2023-07-10,Cristal Mayu,29.0,21.0,,,
 2023-07-10,Cuatro Cañadas - CEA-2 (GPRS),,,,,5.6
@@ -42993,6 +43039,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-11,Concepcion,30.0,21.0,93.2,93.2,
 2023-07-11,Concepcion Aeropuerto SCZ,30.5,20.7,,,
 2023-07-11,Coripata,30.0,15.0,,,
+2023-07-11,Cosapa,,-4.5,,,
 2023-07-11,Cotagaita Mosoj Llajta,28.0,-3.0,,,
 2023-07-11,Cristal Mayu,28.0,22.0,,,0.2
 2023-07-11,Cuatro Cañadas - CEA-2 (GPRS),31.62,23.09,94.0,54.54,
@@ -43215,6 +43262,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-12,Concepcion,23.0,23.0,82.5,82.5,
 2023-07-12,Concepcion Aeropuerto SCZ,30.6,20.4,,,
 2023-07-12,Coripata,29.0,15.5,,,
+2023-07-12,Cosapa,,-3.2,,,
 2023-07-12,Cotagaita Mosoj Llajta,27.0,-5.0,,,
 2023-07-12,Cristal Mayu,28.0,21.0,,,
 2023-07-12,Cuatro Cañadas - CEA-2 (GPRS),31.42,18.77,95.1,57.02,
@@ -43435,6 +43483,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-13,Concepcion,21.0,21.0,93.2,93.2,
 2023-07-13,Concepcion Aeropuerto SCZ,21.4,20.1,,,
 2023-07-13,Coripata,28.5,16.0,,,
+2023-07-13,Cosapa,,-3.3,,,
 2023-07-13,Cotagaita Mosoj Llajta,26.0,-5.0,,,
 2023-07-13,Covendo_M (GPRS),,,,,1.1
 2023-07-13,Cristal Mayu,26.0,21.0,,,26.0
@@ -43668,6 +43717,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-14,Concepcion Aeropuerto SCZ,20.1,13.2,,,
 2023-07-14,Coripata,25.5,15.0,,,4.2
 2023-07-14,Coroico_H (GPRS),,,,,1.09
+2023-07-14,Cosapa,,-3.1,,,
 2023-07-14,Cotagaita Mosoj Llajta,26.2,-4.0,,,
 2023-07-14,Covendo_M (GPRS),,,,,1.0
 2023-07-14,Cristal Mayu,22.0,16.0,,,
@@ -43892,6 +43942,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-15,Concepcion,14.0,,92.9,92.9,
 2023-07-15,Concepcion Aeropuerto SCZ,28.0,12.8,,,
 2023-07-15,Coripata,26.0,13.0,,,
+2023-07-15,Cosapa,,-2.0,,,
 2023-07-15,Cotagaita Mosoj Llajta,27.0,-4.0,,,
 2023-07-15,Cristal Mayu,24.0,19.0,,,
 2023-07-15,Cuatro Cañadas - CEA-2 (GPRS),24.34,16.46,97.0,57.4,
@@ -44084,6 +44135,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-16,Concepcion,29.0,16.0,93.1,54.4,
 2023-07-16,Concepcion Aeropuerto SCZ,29.2,15.3,,,
 2023-07-16,Coripata,27.0,13.5,,,
+2023-07-16,Cosapa,,-1.1,,,
 2023-07-16,Cotagaita Mosoj Llajta,26.0,-3.0,,,
 2023-07-16,Cristal Mayu,23.0,17.0,,,
 2023-07-16,Cuatro Cañadas - CEA-2 (GPRS),24.6,17.9,83.3,51.53,
@@ -44277,6 +44329,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-17,Concepcion,26.0,15.0,93.0,57.1,
 2023-07-17,Concepcion Aeropuerto SCZ,26.7,15.5,,,
 2023-07-17,Coripata,27.5,14.0,,,
+2023-07-17,Cosapa,,-3.2,,,
 2023-07-17,Cotagaita Mosoj Llajta,27.0,-4.0,,,
 2023-07-17,Cristal Mayu,21.0,14.0,,,
 2023-07-17,Cuatro Cañadas - CEA-2 (GPRS),23.79,15.08,83.3,50.95,
@@ -44497,6 +44550,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-18,Concepcion Aeropuerto SCZ,23.6,14.2,,,
 2023-07-18,Coripata,25.0,15.5,,,
 2023-07-18,Coroico_H (GPRS),,,,,0.03
+2023-07-18,Cosapa,,-5.3,,,
 2023-07-18,Cotagaita Mosoj Llajta,28.0,-2.0,,,
 2023-07-18,Covendo_M (GPRS),,,,,1.4
 2023-07-18,Cristal Mayu,22.0,16.0,,,
@@ -44724,6 +44778,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-19,Concepcion Aeropuerto SCZ,23.9,11.4,,,
 2023-07-19,Coripata,27.5,15.0,,,1.0
 2023-07-19,Coroico_H (GPRS),,,,,0.14
+2023-07-19,Cosapa,,-6.3,,,
 2023-07-19,Cotagaita Mosoj Llajta,27.0,-4.0,,,
 2023-07-19,Covendo_M (GPRS),,,,,0.5
 2023-07-19,Cristal Mayu,18.0,15.0,,,2.0
@@ -44952,6 +45007,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-20,Concepcion,15.0,15.0,87.1,87.1,
 2023-07-20,Concepcion Aeropuerto SCZ,30.4,12.9,,,
 2023-07-20,Coripata,27.0,14.0,,,
+2023-07-20,Cosapa,,-7.4,,,
 2023-07-20,Cotagaita Mosoj Llajta,27.2,-3.0,,,
 2023-07-20,Covendo_M (GPRS),,,,,0.1
 2023-07-20,Cristal Mayu,25.0,16.0,,,
@@ -45166,6 +45222,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-21,Concepcion,18.0,18.0,93.0,93.0,
 2023-07-21,Concepcion Aeropuerto SCZ,31.0,17.0,,,
 2023-07-21,Coripata,28.0,12.5,,,
+2023-07-21,Cosapa,,-6.5,,,
 2023-07-21,Cotagaita Mosoj Llajta,28.0,-2.0,,,
 2023-07-21,Cristal Mayu,29.0,19.0,,,
 2023-07-21,Cuatro Cañadas - CEA-2 (GPRS),31.45,20.27,88.8,48.27,
@@ -45376,6 +45433,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-22,Concepcion,19.0,19.0,93.1,93.1,
 2023-07-22,Concepcion Aeropuerto SCZ,30.5,17.0,,,
 2023-07-22,Coripata,28.5,13.0,,,
+2023-07-22,Cosapa,,-7.6,,,
 2023-07-22,Cotagaita Mosoj Llajta,28.2,-3.0,,,
 2023-07-22,Cristal Mayu,30.0,19.0,,,
 2023-07-22,Cuatro Cañadas - CEA-2 (GPRS),31.36,19.02,89.7,48.54,
@@ -45564,6 +45622,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-23,Concepcion,29.0,16.0,93.0,45.0,
 2023-07-23,Concepcion Aeropuerto SCZ,29.5,16.2,,,
 2023-07-23,Coripata,28.0,11.5,,,
+2023-07-23,Cosapa,,-6.7,,,
 2023-07-23,Cotagaita Mosoj Llajta,27.0,-2.0,,,
 2023-07-23,Cristal Mayu,28.0,20.0,,,
 2023-07-23,Cuatro Cañadas - CEA-2 (GPRS),30.84,17.84,95.7,48.03,
@@ -45757,6 +45816,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-24,Concepcion,17.0,17.0,87.2,87.2,
 2023-07-24,Concepcion Aeropuerto SCZ,30.6,15.6,,,
 2023-07-24,Coripata,29.0,13.0,,,
+2023-07-24,Cosapa,,-3.3,,,
 2023-07-24,Cotagaita Mosoj Llajta,28.0,0.0,,,
 2023-07-24,Cristal Mayu,27.0,20.0,,,
 2023-07-24,Cuatro Cañadas - CEA-2 (GPRS),30.39,17.78,85.3,47.66,
@@ -45971,6 +46031,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-25,Concepcion,17.0,17.0,76.6,76.6,
 2023-07-25,Concepcion Aeropuerto SCZ,30.1,16.3,,,
 2023-07-25,Coripata,29.5,14.5,,,
+2023-07-25,Cosapa,,-4.8,,,
 2023-07-25,Cotagaita Mosoj Llajta,27.0,-2.0,,,
 2023-07-25,Covendo_M (GPRS),,,,,2.8
 2023-07-25,Cristal Mayu,24.0,19.0,,,
@@ -46189,6 +46250,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-26,Concepcion,30.0,16.0,87.1,45.2,
 2023-07-26,Concepcion Aeropuerto SCZ,30.2,18.4,,,
 2023-07-26,Coripata,30.5,13.0,,,
+2023-07-26,Cosapa,,-3.9,,,
 2023-07-26,Cotagaita Mosoj Llajta,27.1,2.0,,,
 2023-07-26,Cristal Mayu,28.0,20.0,,,
 2023-07-26,Cuatro Cañadas - CEA-2 (GPRS),24.14,15.21,94.4,50.75,
@@ -46412,6 +46474,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-27,Concepcion Aeropuerto SCZ,25.0,15.7,,,
 2023-07-27,Coripata,22.5,15.5,,,
 2023-07-27,Coroico_H (GPRS),,,,,0.79
+2023-07-27,Cosapa,,-5.0,,,
 2023-07-27,Cotagaita Mosoj Llajta,28.0,0.0,,,
 2023-07-27,Covendo_M (GPRS),,,,,55.4
 2023-07-27,Cristal Mayu,29.0,16.0,,,16.0
@@ -46644,6 +46707,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-28,Concepcion Aeropuerto SCZ,28.5,15.5,,,
 2023-07-28,Coripata,24.0,14.5,,,1.8
 2023-07-28,Coroico_H (GPRS),,,,,1.61
+2023-07-28,Cosapa,,-3.5,,,
 2023-07-28,Cotagaita Mosoj Llajta,28.0,-2.0,,,
 2023-07-28,Covendo_M (GPRS),,,,,10.1
 2023-07-28,Cristal Mayu,26.0,17.0,,,8.0
@@ -46820,6 +46884,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-29,Acasio,24.1,8.1,,,
 2023-07-29,Achiri,14.0,4.0,,,4.0
 2023-07-29,Achumani,,,,,0.3
+2023-07-29,Achumani - Franco Boliviano,,,,,0.1
 2023-07-29,Aguadas (GPRS),13.5,-4.92,86.8,40.14,1.1
 2023-07-29,Aguaraycito,26.0,17.0,,,
 2023-07-29,Aiquile (GPRS),32.52,1.47,91.5,21.34,
@@ -46870,6 +46935,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-29,Concepcion Aeropuerto SCZ,29.0,15.3,,,
 2023-07-29,Coripata,24.5,12.0,,,9.7
 2023-07-29,Coroico_H (GPRS),,,,,1.6
+2023-07-29,Cosapa,,-2.2,,,
 2023-07-29,Cotagaita Mosoj Llajta,27.9,-3.0,,,
 2023-07-29,Covendo_M (GPRS),,,,,17.2
 2023-07-29,Cristal Mayu,27.0,18.0,,,
@@ -47084,6 +47150,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-30,Concepcion Aeropuerto SCZ,31.3,15.7,,,
 2023-07-30,Conchamarca,,,,,1.1
 2023-07-30,Coripata,28.0,12.5,,,
+2023-07-30,Cosapa,,-1.2,,,
 2023-07-30,Cotagaita Mosoj Llajta,27.8,-3.0,,,
 2023-07-30,Cristal Mayu,28.0,17.0,,,
 2023-07-30,Cuatro Cañadas - CEA-2 (GPRS),31.3,17.97,97.7,47.82,
@@ -47285,6 +47352,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-07-31,Concepcion,18.0,18.0,87.3,87.3,
 2023-07-31,Concepcion Aeropuerto SCZ,32.2,16.4,,,
 2023-07-31,Coripata,29.0,13.5,,,
+2023-07-31,Cosapa,,-2.3,,,
 2023-07-31,Cotagaita Mosoj Llajta,27.6,-2.0,,,
 2023-07-31,Covendo_M (GPRS),,,,,0.1
 2023-07-31,Cristal Mayu,30.0,20.0,,,
@@ -47502,6 +47570,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-01,Concepcion,32.0,18.0,93.1,45.8,
 2023-08-01,Concepcion Aeropuerto SCZ,32.4,,,,
 2023-08-01,Coripata,29.5,14.5,,,
+2023-08-01,Cosapa,,-6.5,,,
 2023-08-01,Cotagaita Mosoj Llajta,27.0,-2.0,,,
 2023-08-01,Cristal Mayu,31.0,21.0,,,
 2023-08-01,Cuatro Cañadas - CEA-2 (GPRS),33.66,19.24,95.9,42.44,
@@ -47717,6 +47786,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-02,Concepcion,19.0,19.0,93.1,93.1,
 2023-08-02,Concepcion Aeropuerto SCZ,32.6,,,,
 2023-08-02,Coripata,29.0,13.0,,,
+2023-08-02,Cosapa,,-7.3,,,
 2023-08-02,Cotagaita Mosoj Llajta,27.1,-2.1,,,
 2023-08-02,Cristal Mayu,32.0,20.0,,,
 2023-08-02,Cuatro Cañadas - CEA-2 (GPRS),34.58,18.69,96.0,35.52,
@@ -47931,6 +48001,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-03,Concepcion,33.0,18.0,93.0,93.0,
 2023-08-03,Concepcion Aeropuerto SCZ,33.2,,,,
 2023-08-03,Coripata,30.0,12.0,,,
+2023-08-03,Cosapa,,-6.2,,,
 2023-08-03,Cotagaita Mosoj Llajta,27.0,-2.0,,,
 2023-08-03,Cristal Mayu,32.0,20.0,,,
 2023-08-03,Cuatro Cañadas - CEA-2 (GPRS),34.38,17.45,97.4,33.37,
@@ -48144,6 +48215,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-04,Concepcion,33.0,18.0,93.0,38.2,
 2023-08-04,Concepcion Aeropuerto SCZ,33.0,,,,
 2023-08-04,Coripata,29.5,14.0,,,
+2023-08-04,Cosapa,,-6.3,,,
 2023-08-04,Cotagaita Mosoj Llajta,28.0,-1.0,,,
 2023-08-04,Cristal Mayu,31.0,20.0,,,
 2023-08-04,Cuatro Cañadas - CEA-2 (GPRS),33.6,17.25,96.5,39.1,
@@ -48355,6 +48427,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-05,Concepcion,33.0,20.0,87.5,87.5,
 2023-08-05,Concepcion Aeropuerto SCZ,33.0,,,,
 2023-08-05,Coripata,29.0,15.0,,,
+2023-08-05,Cosapa,,-5.5,,,
 2023-08-05,Cotagaita Mosoj Llajta,27.0,0.0,,,
 2023-08-05,Cristal Mayu,32.0,21.0,,,
 2023-08-05,Cuatro Cañadas - CEA-2 (GPRS),33.73,21.71,93.2,36.88,
@@ -48550,6 +48623,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-06,Concepcion,32.0,20.0,77.4,77.4,
 2023-08-06,Concepcion Aeropuerto SCZ,32.5,,,,
 2023-08-06,Coripata,30.0,16.0,,,
+2023-08-06,Cosapa,,-5.6,,,
 2023-08-06,Cotagaita Mosoj Llajta,27.1,1.0,,,
 2023-08-06,Cristal Mayu,32.0,19.0,,,
 2023-08-06,Cuatro Cañadas - CEA-2 (GPRS),34.25,23.82,86.9,44.28,
@@ -48742,6 +48816,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-07,Concepcion,,,87.7,87.7,
 2023-08-07,Concepcion Aeropuerto SCZ,31.6,,,,
 2023-08-07,Coripata,31.0,13.0,,,
+2023-08-07,Cosapa,,-6.7,,,
 2023-08-07,Cotagaita Mosoj Llajta,26.0,0.1,,,
 2023-08-07,Cristal Mayu,32.0,22.0,,,
 2023-08-07,Cuatro Cañadas - CEA-2 (GPRS),33.93,21.91,64.17,31.5,
@@ -48956,6 +49031,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-08,Copacabana,,,,,2.7
 2023-08-08,Coripata,28.0,14.0,,,5.2
 2023-08-08,Coroico_H (GPRS),,,,,1.08
+2023-08-08,Cosapa,,-6.5,,,
 2023-08-08,Cotagaita Mosoj Llajta,27.0,0.0,,,
 2023-08-08,Covendo_M (GPRS),,,,,19.2
 2023-08-08,Cristal Mayu,28.0,20.0,,,30.0
@@ -49183,6 +49259,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-09,Concepcion,33.0,20.0,77.1,77.1,
 2023-08-09,Concepcion Aeropuerto SCZ,33.4,,,,
 2023-08-09,Coripata,29.5,13.0,,,
+2023-08-09,Cosapa,,-7.5,,,
 2023-08-09,Cotagaita Mosoj Llajta,27.0,0.5,,,
 2023-08-09,Covendo_M (GPRS),,,,,0.4
 2023-08-09,Cristal Mayu,29.0,20.0,,,
@@ -49403,6 +49480,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-10,Concepcion,33.0,21.0,82.2,82.2,
 2023-08-10,Concepcion Aeropuerto SCZ,33.3,,,,
 2023-08-10,Coripata,31.0,13.5,,,
+2023-08-10,Cosapa,,-6.3,,,
 2023-08-10,Cotagaita Mosoj Llajta,28.0,0.1,,,
 2023-08-10,Cristal Mayu,30.0,21.0,,,
 2023-08-10,Cuatro Cañadas - CEA-2 (GPRS),33.54,24.35,86.3,47.87,
@@ -49621,6 +49699,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-11,Concepcion,32.0,22.0,93.3,93.3,
 2023-08-11,Concepcion Aeropuerto SCZ,32.5,,,,
 2023-08-11,Coripata,30.0,16.0,,,
+2023-08-11,Cosapa,,-7.2,,,
 2023-08-11,Cotagaita (GPRS),,,,,1.1
 2023-08-11,Cotagaita Mosoj Llajta,27.0,-1.0,,,
 2023-08-11,Cristal Mayu,31.0,22.0,,,
@@ -49839,6 +49918,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-12,Copacabana,,,,,24.6
 2023-08-12,Coripata,23.5,16.5,,,
 2023-08-12,Coroico_H (GPRS),,,,,0.11
+2023-08-12,Cosapa,,-6.5,,,
 2023-08-12,Cotagaita Mosoj Llajta,25.0,0.0,,,
 2023-08-12,Cristal Mayu,31.0,20.0,,,23.0
 2023-08-12,Cuatro Cañadas - CEA-2 (GPRS),23.95,15.67,95.9,55.47,
@@ -49994,6 +50074,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-13,Achiri,15.0,-3.0,,,
 2023-08-13,Achocalla,,,,,1.7
 2023-08-13,Achumani,18.1,-2.1,,,6.2
+2023-08-13,Achumani - Franco Boliviano,,,,,3.5
 2023-08-13,Aeropuerto Copacabana_M (GPRS),,,,,7.4
 2023-08-13,Aeropueto Copacabana_M (GPRS),,,,,7.4
 2023-08-13,Aguadas (GPRS),10.7,-3.41,92.3,46.71,4.9
@@ -50051,6 +50132,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-13,Concepcion Aeropuerto SCZ,18.1,,,,
 2023-08-13,Coripata,24.0,12.0,,,12.2
 2023-08-13,Coroico_H (GPRS),,,,,0.99
+2023-08-13,Cosapa,,-5.3,,,
 2023-08-13,Cotagaita (GPRS),,,,,0.5
 2023-08-13,Cotagaita Mosoj Llajta,24.0,3.0,,,
 2023-08-13,Cotagaita_H (GPRS),,,,,0.18
@@ -50272,6 +50354,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-14,Concepcion Aeropuerto SCZ,26.4,,,,
 2023-08-14,Conchamarca,,,,,0.5
 2023-08-14,Coripata,27.0,12.5,,,1.7
+2023-08-14,Cosapa,,-3.4,,,
 2023-08-14,Cotagaita Mosoj Llajta,27.0,-2.0,,,
 2023-08-14,Covendo_M (GPRS),,,,,0.1
 2023-08-14,Cristal Mayu,25.0,17.0,,,
@@ -50473,6 +50556,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-15,Comarapa,24.0,12.0,,,
 2023-08-15,Concepcion Aeropuerto SCZ,31.6,,,,
 2023-08-15,Coripata,28.0,11.5,,,
+2023-08-15,Cosapa,,-2.2,,,
 2023-08-15,Cotagaita Mosoj Llajta,28.9,3.0,,,
 2023-08-15,Cristal Mayu,29.0,18.0,,,
 2023-08-15,Cuatro Cañadas - CEA-2 (GPRS),31.23,17.91,96.9,45.01,
@@ -50663,6 +50747,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-16,Comarapa,25.0,11.0,,,
 2023-08-16,Concepcion Aeropuerto SCZ,32.5,,,,
 2023-08-16,Coripata,29.0,12.0,,,
+2023-08-16,Cosapa,,-1.3,,,
 2023-08-16,Cotagaita Mosoj Llajta,29.0,2.0,,,
 2023-08-16,Cristal Mayu,31.0,20.0,,,
 2023-08-16,Cuatro Cañadas - CEA-2 (GPRS),32.55,21.25,86.7,42.03,
@@ -50852,6 +50937,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-17,Comarapa,24.0,12.0,,,
 2023-08-17,Concepcion Aeropuerto SCZ,31.5,,,,
 2023-08-17,Coripata,30.0,14.5,,,
+2023-08-17,Cosapa,,-2.9,,,
 2023-08-17,Cotagaita Mosoj Llajta,30.0,0.0,,,
 2023-08-17,Cristal Mayu,30.0,21.0,,,
 2023-08-17,Cuatro Cañadas - CEA-2 (GPRS),33.2,23.5,84.4,45.81,
@@ -51043,6 +51129,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-18,Comarapa,24.0,12.0,,,
 2023-08-18,Concepcion Aeropuerto SCZ,32.2,,,,
 2023-08-18,Coripata,31.0,14.0,,,
+2023-08-18,Cosapa,,-3.2,,,
 2023-08-18,Cotagaita Mosoj Llajta,27.0,-1.0,,,
 2023-08-18,Cristal Mayu,30.0,22.0,,,
 2023-08-18,Cuatro Cañadas - CEA-2 (GPRS),33.27,19.09,95.1,49.4,
@@ -51228,6 +51315,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-19,Comarapa,25.0,13.0,,,
 2023-08-19,Concepcion Aeropuerto SCZ,25.8,,,,
 2023-08-19,Coripata,30.5,13.5,,,
+2023-08-19,Cosapa,,-2.3,,,
 2023-08-19,Cotagaita Mosoj Llajta,27.1,0.0,,,
 2023-08-19,Cristal Mayu,25.0,21.0,,,
 2023-08-19,Cuatro Cañadas - CEA-2 (GPRS),22.24,18.17,96.6,74.48,5.8
@@ -51405,6 +51493,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-20,Comarapa,24.0,12.0,,,
 2023-08-20,Concepcion Aeropuerto SCZ,31.2,,,,
 2023-08-20,Coripata,32.0,14.0,,,
+2023-08-20,Cosapa,,-1.2,,,
 2023-08-20,Cotagaita Mosoj Llajta,27.0,2.0,,,
 2023-08-20,Cristal Mayu,30.0,19.0,,,
 2023-08-20,Cuatro Cañadas - CEA-2 (GPRS),32.68,22.7,97.3,56.11,
@@ -51587,6 +51676,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-21,Comarapa,25.0,13.0,,,
 2023-08-21,Concepcion Aeropuerto SCZ,32.6,,,,
 2023-08-21,Coripata,31.0,14.5,,,
+2023-08-21,Cosapa,,-2.4,,,
 2023-08-21,Cotagaita Mosoj Llajta,28.0,-1.0,,,
 2023-08-21,Cristal Mayu,31.0,21.0,,,
 2023-08-21,Cuatro Cañadas - CEA-2 (GPRS),34.19,23.95,89.8,50.7,
@@ -51777,6 +51867,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-22,Comarapa,26.0,12.0,,,
 2023-08-22,Concepcion Aeropuerto SCZ,34.2,,,,
 2023-08-22,Coripata,31.5,15.0,,,
+2023-08-22,Cosapa,,-3.2,,,
 2023-08-22,Cotagaita Mosoj Llajta,29.0,-2.0,,,
 2023-08-22,Cristal Mayu,33.0,21.0,,,
 2023-08-22,Cuatro Cañadas - CEA-2 (GPRS),34.98,25.06,81.7,48.85,
@@ -51967,6 +52058,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-23,Comarapa,25.0,14.0,,,
 2023-08-23,Concepcion Aeropuerto SCZ,33.2,,,,
 2023-08-23,Coripata,31.0,16.0,,,
+2023-08-23,Cosapa,,-1.4,,,
 2023-08-23,Cotagaita Mosoj Llajta,27.0,-3.2,,,
 2023-08-23,Cristal Mayu,33.0,23.0,,,
 2023-08-23,Cuatro Cañadas - CEA-2 (GPRS),34.91,24.74,79.78,44.46,
@@ -52157,6 +52249,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-24,Comarapa,26.0,13.0,,,
 2023-08-24,Concepcion Aeropuerto SCZ,34.1,,,,
 2023-08-24,Coripata,31.5,15.5,,,
+2023-08-24,Cosapa,,-2.2,,,
 2023-08-24,Cotagaita Mosoj Llajta,28.0,-3.0,,,
 2023-08-24,Cristal Mayu,33.0,23.0,,,
 2023-08-24,Cuatro Cañadas - CEA-2 (GPRS),35.23,23.36,75.75,47.0,
@@ -52344,6 +52437,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-25,Comarapa,25.0,14.0,,,
 2023-08-25,Concepcion Aeropuerto SCZ,33.6,,,,
 2023-08-25,Coripata,32.0,18.0,,,
+2023-08-25,Cosapa,,-5.5,,,
 2023-08-25,Cotagaita Mosoj Llajta,28.1,-2.2,,,
 2023-08-25,Cristal Mayu,32.0,23.0,,,0.2
 2023-08-25,Cuatro Cañadas - CEA-2 (GPRS),31.24,22.05,49.65,34.24,
@@ -52528,6 +52622,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-26,Comarapa,24.0,15.0,,,
 2023-08-26,Concepcion Aeropuerto SCZ,26.6,,,,
 2023-08-26,Coripata,25.5,17.5,,,
+2023-08-26,Cosapa,,-4.0,,,
 2023-08-26,Cotagaita Mosoj Llajta,27.0,-2.0,,,
 2023-08-26,Cristal Mayu,28.0,20.0,,,2.0
 2023-08-26,Cuatro Cañadas - CEA-2 (GPRS),25.0,19.03,42.82,27.61,
@@ -52703,6 +52798,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-27,Comarapa,25.0,14.0,,,
 2023-08-27,Concepcion Aeropuerto SCZ,26.5,,,,
 2023-08-27,Coripata,25.0,15.0,,,
+2023-08-27,Cosapa,,-3.3,,,
 2023-08-27,Cotagaita Mosoj Llajta,28.0,-1.0,,,
 2023-08-27,Cristal Mayu,27.0,18.0,,,0.1
 2023-08-27,Cuatro Cañadas - CEA-2 (GPRS),28.48,19.29,52.16,23.47,
@@ -52888,6 +52984,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-28,Comarapa,26.0,15.0,,,
 2023-08-28,Concepcion Aeropuerto SCZ,30.5,,,,
 2023-08-28,Coripata,24.5,13.0,,,6.3
+2023-08-28,Cosapa,,-2.2,,,
 2023-08-28,Cotagaita Mosoj Llajta,28.1,0.0,,,
 2023-08-28,Cristal Mayu,27.0,17.0,,,
 2023-08-28,Cuatro Cañadas - CEA-2 (GPRS),30.45,15.94,89.0,25.12,
@@ -53077,6 +53174,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-29,Comarapa,27.0,16.0,,,
 2023-08-29,Concepcion Aeropuerto SCZ,32.7,,,,
 2023-08-29,Coripata,31.0,12.5,,,
+2023-08-29,Cosapa,,-3.2,,,
 2023-08-29,Cotagaita Mosoj Llajta,28.0,4.0,,,
 2023-08-29,Cristal Mayu,29.0,16.0,,,
 2023-08-29,Cuatro Cañadas - CEA-2 (GPRS),32.89,30.41,85.7,40.57,
@@ -53263,6 +53361,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-30,Comarapa,26.0,15.0,,,
 2023-08-30,Concepcion Aeropuerto SCZ,34.0,,,,
 2023-08-30,Coripata,32.0,17.0,,,
+2023-08-30,Cosapa,,-2.0,,,
 2023-08-30,Cotagaita Mosoj Llajta,30.0,3.0,,,
 2023-08-30,Cristal Mayu,30.0,21.0,,,
 2023-08-30,Cuatro Cañadas - CEA-2 (GPRS),34.65,24.6,84.3,43.88,
@@ -53450,6 +53549,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-31,Comarapa,25.0,14.0,,,
 2023-08-31,Concepcion Aeropuerto SCZ,33.6,,,,
 2023-08-31,Coripata,30.5,16.5,,,
+2023-08-31,Cosapa,,-3.1,,,
 2023-08-31,Cotagaita Mosoj Llajta,28.0,3.0,,,
 2023-08-31,Cristal Mayu,32.0,22.0,,,
 2023-08-31,Cuatro Cañadas - CEA-2 (GPRS),34.91,25.07,84.0,49.67,
@@ -53641,6 +53741,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-01,Concepcion Aeropuerto SCZ,33.7,,,,
 2023-09-01,Coripata,31.0,16.0,,,
 2023-09-01,Coroico_H (GPRS),,,,,1.77
+2023-09-01,Cosapa,,6.2,,,
 2023-09-01,Cotagaita Mosoj Llajta,27.0,5.0,,,
 2023-09-01,Cristal Mayu,31.0,22.0,,,
 2023-09-01,Cuatro Cañadas - CEA-2 (GPRS),34.58,25.53,80.8,53.32,
@@ -53756,6 +53857,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-01,Tiahuanaco_M (GPRS),16.76,-3.87,82.3,18.51,
 2023-09-01,Tinguipaya,21.4,3.2,,,
 2023-09-01,Tiraque,22.0,7.0,,,
+2023-09-01,Todos Santos_Or,,,,,6.0
 2023-09-01,Toledo (GPRS),19.6,-5.65,65.96,11.21,
 2023-09-01,Tomave,13.8,-2.0,,,
 2023-09-01,Trancas,35.0,8.0,,,
@@ -53832,6 +53934,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-02,Concepcion Aeropuerto SCZ,33.2,,,,
 2023-09-02,Coripata,30.5,15.0,,,
 2023-09-02,Coroico_H (GPRS),,,,,0.18
+2023-09-02,Cosapa,,7.3,,,
 2023-09-02,Cotagaita Mosoj Llajta,26.0,5.0,,,
 2023-09-02,Cristal Mayu,,,,,6.0
 2023-09-02,Cuatro Cañadas - CEA-2 (GPRS),34.26,24.61,83.5,48.82,
@@ -54014,6 +54117,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-03,Concepcion Aeropuerto SCZ,32.7,,,,
 2023-09-03,Coripata,22.5,16.0,,,1.0
 2023-09-03,Coroico_H (GPRS),,,,,2.78
+2023-09-03,Cosapa,,6.1,,,
 2023-09-03,Cotagaita Mosoj Llajta,25.0,7.0,,,
 2023-09-03,Covendo_M (GPRS),,,,,2.5
 2023-09-03,Cristal Mayu,,,,,35.0
@@ -54215,6 +54319,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-04,Conchamarca,,,,,0.9
 2023-09-04,Coripata,31.0,15.0,,,5.7
 2023-09-04,Coroico_H (GPRS),,,,,0.1
+2023-09-04,Cosapa,,7.2,,,
 2023-09-04,Cotagaita Mosoj Llajta,29.0,10.0,,,
 2023-09-04,Covendo_M (GPRS),,,,,0.4
 2023-09-04,Cristal Mayu,,,,,32.0
@@ -54365,6 +54470,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-05,Acasio,28.1,9.1,,,
 2023-09-05,Achiri,18.5,,,,
 2023-09-05,Achumani,22.1,3.1,,,
+2023-09-05,Achumani - Franco Boliviano,,,,,0.1
 2023-09-05,Aguadas (GPRS),17.98,1.8,90.8,26.26,
 2023-09-05,Aguaraycito,23.0,17.0,,,
 2023-09-05,Aiquile (GPRS),36.24,8.63,88.0,24.01,
@@ -54407,6 +54513,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-05,Concepcion Aeropuerto SCZ,30.8,,,,
 2023-09-05,Conchamarca,,,,,1.1
 2023-09-05,Coripata,30.5,15.5,,,
+2023-09-05,Cosapa,,6.3,,,
 2023-09-05,Cotagaita Mosoj Llajta,30.0,3.0,,,
 2023-09-05,Cristal Mayu,28.0,22.0,,,
 2023-09-05,Cuatro Cañadas - CEA-2 (GPRS),26.64,18.5,74.52,47.65,0.6
@@ -54554,6 +54661,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-06,Acasio,28.0,10.1,,,
 2023-09-06,Achiri,20.0,2.0,,,
 2023-09-06,Achumani,19.2,4.2,,,0.3
+2023-09-06,Achumani - Franco Boliviano,,,,,0.7
 2023-09-06,Aguadas (GPRS),14.72,2.52,87.2,40.49,
 2023-09-06,Aguaraycito,29.0,18.0,,,
 2023-09-06,Aiquile (GPRS),32.44,10.17,74.1,26.93,
@@ -54599,6 +54707,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-06,Concepcion Aeropuerto SCZ,33.2,,,,
 2023-09-06,Coripata,28.5,14.0,,,4.0
 2023-09-06,Coroico_H (GPRS),,,,,0.01
+2023-09-06,Cosapa,,5.4,,,
 2023-09-06,Cotagaita Mosoj Llajta,30.5,4.0,,,
 2023-09-06,Cristal Mayu,29.0,20.0,,,
 2023-09-06,Cuatro Cañadas - CEA-2 (GPRS),32.58,22.83,89.0,47.43,
@@ -54756,6 +54865,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-07,Acasio,24.1,7.1,,,
 2023-09-07,Achiri,19.0,1.0,,,
 2023-09-07,Achumani,23.1,3.1,,,1.2
+2023-09-07,Achumani - Franco Boliviano,,,,,0.1
 2023-09-07,Aeropuerto Copacabana_M (GPRS),,,,,3.4
 2023-09-07,Aeropueto Copacabana_M (GPRS),,,,,3.4
 2023-09-07,Aguadas (GPRS),13.46,-3.86,86.9,41.89,1.0
@@ -54803,6 +54913,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-07,Comarapa,26.0,15.0,,,
 2023-09-07,Concepcion Aeropuerto SCZ,34.6,,,,
 2023-09-07,Coripata,30.0,15.5,,,
+2023-09-07,Cosapa,,5.5,,,
 2023-09-07,Cotagaita Mosoj Llajta,29.0,8.0,,,
 2023-09-07,Cristal Mayu,29.0,21.0,,,
 2023-09-07,Cuatro Cañadas - CEA-2 (GPRS),35.17,22.84,86.6,38.34,
@@ -54999,6 +55110,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-08,Comarapa,25.0,14.0,,,
 2023-09-08,Concepcion Aeropuerto SCZ,32.4,,,,
 2023-09-08,Coripata,31.5,14.0,,,
+2023-09-08,Cosapa,,4.6,,,
 2023-09-08,Cotagaita Mosoj Llajta,27.0,10.0,,,
 2023-09-08,Cristal Mayu,34.0,20.0,,,
 2023-09-08,Cuatro Cañadas - CEA-2 (GPRS),34.85,33.73,48.31,43.81,
@@ -55184,6 +55296,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-09,Comarapa,24.0,15.0,,,
 2023-09-09,Concepcion Aeropuerto SCZ,33.0,,,,
 2023-09-09,Coripata,32.5,15.5,,,
+2023-09-09,Cosapa,,5.3,,,
 2023-09-09,Cotagaita Mosoj Llajta,29.0,1.0,,,
 2023-09-09,Cristal Mayu,31.0,22.0,,,
 2023-09-09,Cuatro Cañadas - CEA-2 (GPRS),30.92,20.46,92.2,50.15,
@@ -55352,6 +55465,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-10,Concepcion Aeropuerto SCZ,34.5,,,,
 2023-09-10,Coripata,31.5,16.5,,,
 2023-09-10,Coroico_H (GPRS),,,,,0.1
+2023-09-10,Cosapa,,3.8,,,
 2023-09-10,Cotagaita Mosoj Llajta,29.0,5.0,,,
 2023-09-10,Cristal Mayu,32.0,22.0,,,
 2023-09-10,Cuatro Cañadas - CEA-2 (GPRS),36.1,25.07,87.3,43.1,
@@ -55531,6 +55645,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-11,Comarapa,24.0,15.0,,,
 2023-09-11,Concepcion Aeropuerto SCZ,35.2,,,,
 2023-09-11,Coripata,33.0,17.0,,,
+2023-09-11,Cosapa,,4.9,,,
 2023-09-11,Cotagaita Mosoj Llajta,30.0,10.0,,,
 2023-09-11,Cristal Mayu,34.0,23.0,,,
 2023-09-11,Cuatro Cañadas - CEA-2 (GPRS),36.16,26.71,76.67,42.38,
@@ -55720,6 +55835,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-12,Comarapa,25.0,14.0,,,
 2023-09-12,Concepcion Aeropuerto SCZ,34.6,,,,
 2023-09-12,Coripata,32.5,18.0,,,
+2023-09-12,Cosapa,,4.3,,,
 2023-09-12,Cotagaita Mosoj Llajta,28.0,3.0,,,
 2023-09-12,Cristal Mayu,33.0,22.0,,,
 2023-09-12,Cuatro Cañadas - CEA-2 (GPRS),35.83,16.17,96.9,44.6,
@@ -55916,6 +56032,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-13,Concepcion Aeropuerto SCZ,25.6,,,,
 2023-09-13,Coripata,28.0,13.5,,,31.0
 2023-09-13,Coroico_H (GPRS),,,,,2.29
+2023-09-13,Cosapa,,3.2,,,
 2023-09-13,Cotagaita Mosoj Llajta,26.0,2.0,,,
 2023-09-13,Covendo_M (GPRS),,,,,80.5
 2023-09-13,Cristal Mayu,,,,,15.0
@@ -56121,6 +56238,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-14,Comarapa,26.0,16.0,,,
 2023-09-14,Concepcion Aeropuerto SCZ,28.0,,,,
 2023-09-14,Coripata,27.5,16.0,,,
+2023-09-14,Cosapa,,3.1,,,
 2023-09-14,Cotagaita Mosoj Llajta,29.0,3.0,,,
 2023-09-14,Covendo_M (GPRS),,,,,0.2
 2023-09-14,Cristal Mayu,21.0,16.0,,,
@@ -56313,6 +56431,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-15,Comarapa,25.0,15.0,,,
 2023-09-15,Concepcion Aeropuerto SCZ,32.0,,,,
 2023-09-15,Coripata,30.0,15.5,,,
+2023-09-15,Cosapa,,2.5,,,
 2023-09-15,Cotagaita Mosoj Llajta,30.0,4.0,,,
 2023-09-15,Cristal Mayu,28.0,18.0,,,
 2023-09-15,Cuatro Cañadas - CEA-2 (GPRS),31.17,21.13,85.6,43.32,
@@ -56496,6 +56615,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-16,Comarapa,24.0,14.0,,,
 2023-09-16,Concepcion Aeropuerto SCZ,34.0,,,,
 2023-09-16,Coripata,31.0,14.5,,,
+2023-09-16,Cosapa,,5.0,,,
 2023-09-16,Cotagaita Mosoj Llajta,30.0,6.0,,,
 2023-09-16,Cristal Mayu,32.0,18.0,,,
 2023-09-16,Cuatro Cañadas - CEA-2 (GPRS),33.8,25.33,77.25,44.26,
@@ -56666,6 +56786,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-17,Comarapa,25.0,13.0,,,
 2023-09-17,Concepcion Aeropuerto SCZ,35.0,,,,
 2023-09-17,Coripata,31.5,16.5,,,
+2023-09-17,Cosapa,,6.3,,,
 2023-09-17,Cotagaita Mosoj Llajta,27.0,10.0,,,
 2023-09-17,Cristal Mayu,34.0,21.0,,,
 2023-09-17,Cuatro Cañadas - CEA-2 (GPRS),35.57,25.0,78.56,39.57,
@@ -56849,6 +56970,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-18,Comarapa,24.0,14.0,,,
 2023-09-18,Concepcion Aeropuerto SCZ,35.3,,,,
 2023-09-18,Coripata,31.0,17.0,,,0.7
+2023-09-18,Cosapa,,7.2,,,
 2023-09-18,Cotagaita Mosoj Llajta,29.0,11.0,,,
 2023-09-18,Cristal Mayu,31.0,23.0,,,
 2023-09-18,Cuatro Cañadas - CEA-2 (GPRS),35.37,19.29,98.3,47.33,
@@ -57049,6 +57171,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-19,Copacabana,,,,,3.4
 2023-09-19,Coripata,27.5,16.5,,,7.8
 2023-09-19,Coroico_H (GPRS),,,,,1.15
+2023-09-19,Cosapa,,5.3,,,
 2023-09-19,Cotagaita Mosoj Llajta,31.0,10.0,,,
 2023-09-19,Covendo_M (GPRS),,,,,23.5
 2023-09-19,Cristal Mayu,,,,,70.0
@@ -57213,6 +57336,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-20,Acasio,32.1,12.1,,,
 2023-09-20,Achiri,20.5,1.0,,,
 2023-09-20,Achumani,22.2,4.2,,,
+2023-09-20,Achumani - Franco Boliviano,,,,,0.2
 2023-09-20,Aguadas (GPRS),14.44,1.53,93.6,52.82,0.1
 2023-09-20,Aguaraycito,36.0,21.0,,,
 2023-09-20,Aiquile (GPRS),35.44,8.65,88.1,32.99,
@@ -57259,6 +57383,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-20,Concepcion Aeropuerto SCZ,33.8,,,,
 2023-09-20,Coripata,26.5,14.0,,,
 2023-09-20,Coroico_H (GPRS),,,,,0.01
+2023-09-20,Cosapa,,2.9,,,
 2023-09-20,Cotagaita Mosoj Llajta,31.5,8.0,,,
 2023-09-20,Covendo_M (GPRS),,,,,5.6
 2023-09-20,Cristal Mayu,29.0,22.0,,,
@@ -57413,6 +57538,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-21,Acasio,34.1,11.0,,,
 2023-09-21,Achiri,20.5,-2.0,,,
 2023-09-21,Achumani,25.2,3.1,,,1.3
+2023-09-21,Achumani - Franco Boliviano,,,,,0.2
 2023-09-21,Aguadas (GPRS),19.45,-2.35,93.5,36.17,
 2023-09-21,Aguaraycito,42.0,21.0,,,
 2023-09-21,Aiquile (GPRS),39.05,10.41,79.07,24.21,
@@ -57458,6 +57584,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-21,Comarapa,25.0,15.0,,,
 2023-09-21,Concepcion Aeropuerto SCZ,34.2,,,,
 2023-09-21,Coripata,31.0,16.0,,,
+2023-09-21,Cosapa,,4.3,,,
 2023-09-21,Cotagaita Mosoj Llajta,32.0,7.0,,,
 2023-09-21,Covendo_M (GPRS),,,,,0.1
 2023-09-21,Cristal Mayu,32.0,21.0,,,
@@ -57647,6 +57774,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-22,Comarapa,24.0,14.0,,,
 2023-09-22,Concepcion Aeropuerto SCZ,35.4,,,,
 2023-09-22,Coripata,32.0,16.5,,,
+2023-09-22,Cosapa,,3.8,,,
 2023-09-22,Cotagaita Mosoj Llajta,31.0,8.0,,,
 2023-09-22,Cristal Mayu,35.0,22.0,,,
 2023-09-22,Cuatro Cañadas - CEA-2 (GPRS),35.63,23.49,93.0,47.6,
@@ -57828,6 +57956,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-23,Comarapa,25.0,15.0,,,
 2023-09-23,Concepcion Aeropuerto SCZ,35.5,,,,
 2023-09-23,Coripata,31.5,19.5,,,
+2023-09-23,Cosapa,,4.7,,,
 2023-09-23,Cotagaita Mosoj Llajta,31.5,10.0,,,
 2023-09-23,Cristal Mayu,34.0,23.0,,,
 2023-09-23,Cuatro Cañadas - CEA-2 (GPRS),36.65,24.48,89.8,41.81,
@@ -57994,6 +58123,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-24,Comarapa,26.0,16.0,,,
 2023-09-24,Concepcion Aeropuerto SCZ,36.6,,,,
 2023-09-24,Coripata,32.0,18.0,,,
+2023-09-24,Cosapa,,3.8,,,
 2023-09-24,Cotagaita Mosoj Llajta,31.0,11.0,,,
 2023-09-24,Cristal Mayu,34.0,23.0,,,
 2023-09-24,Cuatro Cañadas - CEA-2 (GPRS),36.62,23.23,85.6,41.15,
@@ -58174,6 +58304,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-25,Comarapa,25.0,15.0,,,
 2023-09-25,Concepcion Aeropuerto SCZ,36.7,,,,
 2023-09-25,Coripata,32.5,18.5,,,
+2023-09-25,Cosapa,,2.9,,,
 2023-09-25,Cotagaita Mosoj Llajta,29.0,12.0,,,
 2023-09-25,Cristal Mayu,35.0,22.0,,,
 2023-09-25,Cuatro Cañadas - CEA-2 (GPRS),36.56,26.45,74.72,40.95,
@@ -58368,6 +58499,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-26,Concepcion,34.0,24.0,82.6,46.0,
 2023-09-26,Concepcion Aeropuerto SCZ,35.6,,,,
 2023-09-26,Coripata,33.5,17.0,,,
+2023-09-26,Cosapa,,2.2,,,
 2023-09-26,Cotagaita Mosoj Llajta,30.0,11.0,,,
 2023-09-26,Cristal Mayu,35.0,23.0,,,
 2023-09-26,Cuatro Cañadas - CEA-2 (GPRS),36.75,23.43,74.86,40.56,
@@ -58533,6 +58665,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-27,Acasio,29.0,15.1,,,
 2023-09-27,Achiri,21.5,-0.5,,,
 2023-09-27,Achumani,22.1,6.2,,,
+2023-09-27,Achumani - Franco Boliviano,,,,,0.1
 2023-09-27,Aguadas (GPRS),14.37,0.98,91.3,53.11,
 2023-09-27,Aguaraycito,25.0,20.0,,,
 2023-09-27,Aiquile (GPRS),32.46,12.65,92.6,28.17,0.6
@@ -58584,6 +58717,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-27,Concepcion,25.0,25.0,73.2,73.2,
 2023-09-27,Concepcion Aeropuerto SCZ,29.5,,,,
 2023-09-27,Coripata,28.5,20.0,,,
+2023-09-27,Cosapa,,4.3,,,
 2023-09-27,Cotagaita Mosoj Llajta,32.0,12.0,,,
 2023-09-27,Cristal Mayu,28.0,21.0,,,18.0
 2023-09-27,Cuatro Cañadas - CEA-2 (GPRS),27.37,19.82,54.28,33.98,
@@ -58816,6 +58950,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-28,Concepcion,20.0,20.0,59.5,59.5,
 2023-09-28,Concepcion Aeropuerto SCZ,28.8,,,,
 2023-09-28,Coripata,30.5,15.5,,,3.5
+2023-09-28,Cosapa,,3.9,,,
 2023-09-28,Cotagaita Mosoj Llajta,32.0,10.0,,,
 2023-09-28,Covendo_M (GPRS),,,,,12.5
 2023-09-28,Cristal Mayu,24.0,20.0,,,20.0
@@ -59052,6 +59187,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-29,Concepcion,33.0,22.0,82.4,48.7,
 2023-09-29,Concepcion Aeropuerto SCZ,33.8,,,,
 2023-09-29,Coripata,31.0,17.5,,,
+2023-09-29,Cosapa,,4.5,,,
 2023-09-29,Cotagaita Mosoj Llajta,30.0,9.0,,,
 2023-09-29,Cristal Mayu,30.0,20.0,,,
 2023-09-29,Cuatro Cañadas - CEA-2 (GPRS),32.95,21.26,85.1,41.45,
@@ -59258,6 +59394,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-30,Concepcion Aeropuerto SCZ,28.6,,,,
 2023-09-30,Coripata,24.0,18.0,,,
 2023-09-30,Coroico_H (GPRS),,,,,0.03
+2023-09-30,Cosapa,,2.3,,,
 2023-09-30,Cotagaita Mosoj Llajta,32.0,10.0,,,
 2023-09-30,Cristal Mayu,26.0,21.0,,,
 2023-09-30,Cuatro Cañadas - CEA-2 (GPRS),29.93,19.52,79.39,38.94,0.8
@@ -59452,6 +59589,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-01,Concepcion Aeropuerto SCZ,33.6,20.0,,,
 2023-10-01,Coripata,21.0,16.5,,,18.0
 2023-10-01,Coroico_H (GPRS),,,,,0.04
+2023-10-01,Cosapa,,7.3,,,
 2023-10-01,Cotagaita Mosoj Llajta,29.0,7.0,,,
 2023-10-01,Cristal Mayu,31.0,20.0,,,
 2023-10-01,Cuatro Cañadas - CEA-2 (GPRS),33.34,20.87,87.7,31.88,
@@ -59650,6 +59788,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-02,Concepcion,25.0,25.0,82.7,82.7,
 2023-10-02,Concepcion Aeropuerto SCZ,35.2,22.1,,,
 2023-10-02,Coripata,30.0,15.5,,,2.6
+2023-10-02,Cosapa,,6.2,,,
 2023-10-02,Cotagaita Mosoj Llajta,30.0,9.0,,,
 2023-10-02,Cristal Mayu,32.0,21.0,,,
 2023-10-02,Cuatro Cañadas - CEA-2 (GPRS),35.52,27.37,76.49,45.06,
@@ -59867,6 +60006,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-03,Concepcion,35.0,24.0,77.9,77.9,
 2023-10-03,Concepcion Aeropuerto SCZ,35.0,23.8,,,
 2023-10-03,Coripata,31.5,18.5,,,
+2023-10-03,Cosapa,,7.3,,,
 2023-10-03,Cotagaita Mosoj Llajta,30.1,10.0,,,
 2023-10-03,Cristal Mayu,33.0,24.0,,,
 2023-10-03,Cuatro Cañadas - CEA-2 (GPRS),37.21,27.76,69.37,44.18,
@@ -60076,6 +60216,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-04,Concepcion,34.0,22.0,73.5,73.5,
 2023-10-04,Concepcion Aeropuerto SCZ,34.8,23.3,,,
 2023-10-04,Coripata,33.0,17.0,,,
+2023-10-04,Cosapa,,6.2,,,
 2023-10-04,Cotagaita Mosoj Llajta,29.0,9.0,,,
 2023-10-04,Cristal Mayu,33.0,25.0,,,
 2023-10-04,Cuatro Cañadas - CEA-2 (GPRS),32.29,23.43,53.85,35.18,
@@ -60294,6 +60435,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-05,Concepcion Aeropuerto SCZ,34.0,21.1,,,
 2023-10-05,Coripata,28.0,16.0,,,1.6
 2023-10-05,Coroico_H (GPRS),,,,,1.56
+2023-10-05,Cosapa,,5.3,,,
 2023-10-05,Cotagaita Mosoj Llajta,31.0,8.0,,,
 2023-10-05,Cristal Mayu,29.0,21.0,,,20.0
 2023-10-05,Cuatro Cañadas - CEA-2 (GPRS),32.42,22.97,75.42,36.33,
@@ -60515,6 +60657,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-06,Conchamarca,,,,,2.1
 2023-10-06,Coripata,32.0,18.0,,,2.4
 2023-10-06,Coroico_H (GPRS),,,,,0.32
+2023-10-06,Cosapa,,5.2,,,
 2023-10-06,Cotagaita Mosoj Llajta,32.0,8.2,,,
 2023-10-06,Cristal Mayu,31.0,20.0,,,1.0
 2023-10-06,Cuatro Cañadas - CEA-2 (GPRS),37.41,28.53,71.11,40.57,
@@ -60681,6 +60824,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-07,Acasio,34.1,14.1,,,
 2023-10-07,Achiri,24.0,-1.5,,,
 2023-10-07,Achumani,26.2,8.3,,,
+2023-10-07,Achumani - Franco Boliviano,,,,,0.1
 2023-10-07,Aguadas (GPRS),20.57,6.23,88.4,27.25,
 2023-10-07,Aguaraycito,26.0,16.0,,,
 2023-10-07,Aiquile (GPRS),34.86,14.61,85.7,40.89,
@@ -60730,6 +60874,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-07,Concepcion Aeropuerto SCZ,,,,,4.2
 2023-10-07,Coripata,32.5,19.5,,,
 2023-10-07,Coroico_H (GPRS),,,,,0.03
+2023-10-07,Cosapa,,3.1,,,
 2023-10-07,Cotagaita Mosoj Llajta,30.0,11.0,,,
 2023-10-07,Cristal Mayu,30.0,23.0,,,
 2023-10-07,Cuatro Cañadas - CEA-2 (GPRS),30.0,20.94,93.2,54.36,
@@ -60932,6 +61077,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-08,Concepcion Aeropuerto SCZ,21.9,19.0,,,
 2023-10-08,Coripata,24.5,17.0,,,29.0
 2023-10-08,Coroico_H (GPRS),,,,,6.77
+2023-10-08,Cosapa,,2.2,,,
 2023-10-08,Cotagaita Mosoj Llajta,29.0,10.0,,,
 2023-10-08,Covendo_M (GPRS),,,,,5.1
 2023-10-08,Cristal Mayu,31.0,21.0,,,20.0
@@ -61155,6 +61301,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-09,Concepcion Aeropuerto SCZ,31.5,18.0,,,
 2023-10-09,Coripata,21.0,16.5,,,28.2
 2023-10-09,Coroico_H (GPRS),,,,,2.11
+2023-10-09,Cosapa,,4.3,,,
 2023-10-09,Cotagaita Mosoj Llajta,31.0,9.9,,,
 2023-10-09,Cristal Mayu,29.0,20.0,,,
 2023-10-09,Cuatro Cañadas - CEA-2 (GPRS),33.83,21.46,89.0,38.21,
@@ -61382,6 +61529,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-10,Concepcion Aeropuerto SCZ,34.5,21.7,,,
 2023-10-10,Coripata,32.0,17.0,,,12.9
 2023-10-10,Coroico_H (GPRS),,,,,0.14
+2023-10-10,Cosapa,,5.5,,,
 2023-10-10,Cotagaita Mosoj Llajta,31.2,14.0,,,
 2023-10-10,Cristal Mayu,33.0,21.0,,,
 2023-10-10,Cuatro Cañadas - CEA-2 (GPRS),36.03,26.72,76.62,42.26,
@@ -61605,6 +61753,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-11,Concepcion,34.0,27.0,78.1,49.2,
 2023-10-11,Concepcion Aeropuerto SCZ,34.8,23.5,,,
 2023-10-11,Coripata,32.5,16.0,,,
+2023-10-11,Cosapa,,5.3,,,
 2023-10-11,Cotagaita Mosoj Llajta,31.0,8.0,,,
 2023-10-11,Cristal Mayu,35.0,23.0,,,
 2023-10-11,Cuatro Cañadas - CEA-2 (GPRS),36.98,35.71,47.86,41.61,
@@ -61818,6 +61967,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-12,Concepcion,32.0,28.0,69.3,55.1,
 2023-10-12,Concepcion Aeropuerto SCZ,32.6,24.6,,,
 2023-10-12,Coripata,33.0,19.0,,,
+2023-10-12,Cosapa,,6.6,,,
 2023-10-12,Cotagaita Mosoj Llajta,30.0,8.1,,,
 2023-10-12,Cristal Mayu,31.0,25.0,,,7.0
 2023-10-12,Cuatro Cañadas - CEA-2 (GPRS),32.85,30.06,44.39,40.6,
@@ -62035,6 +62185,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-13,Concepcion,23.0,19.0,59.2,52.4,
 2023-10-13,Concepcion Aeropuerto SCZ,23.6,18.4,,,
 2023-10-13,Coripata,27.5,19.5,,,
+2023-10-13,Cosapa,,7.5,,,
 2023-10-13,Cotagaita Mosoj Llajta,29.9,10.0,,,
 2023-10-13,Cristal Mayu,27.0,21.0,,,4.0
 2023-10-13,Cuatro Cañadas - CEA-2 (GPRS),26.03,24.35,39.63,36.83,
@@ -62248,6 +62399,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-14,Concepcion,34.0,22.0,59.9,43.5,
 2023-10-14,Concepcion Aeropuerto SCZ,34.5,17.7,,,
 2023-10-14,Coripata,30.5,18.0,,,
+2023-10-14,Cosapa,,6.7,,,
 2023-10-14,Cotagaita Mosoj Llajta,31.0,11.0,,,
 2023-10-14,Cristal Mayu,31.0,18.0,,,
 2023-10-14,Cuatro Cañadas - CEA-2 (GPRS),34.27,32.23,39.5,34.27,
@@ -62436,6 +62588,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-15,Concepcion,35.0,26.0,73.3,43.8,
 2023-10-15,Concepcion Aeropuerto SCZ,,,,,1.3
 2023-10-15,Coripata,31.0,16.0,,,
+2023-10-15,Cosapa,,7.9,,,
 2023-10-15,Cotagaita Mosoj Llajta,29.9,10.1,,,
 2023-10-15,Cristal Mayu,34.0,21.0,,,
 2023-10-15,Cuatro Cañadas - CEA-2 (GPRS),37.28,34.92,42.38,36.2,
@@ -62632,6 +62785,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-16,Concepcion,35.0,25.0,73.3,41.2,
 2023-10-16,Concepcion Aeropuerto SCZ,35.5,22.5,,,
 2023-10-16,Coripata,32.0,17.0,,,
+2023-10-16,Cosapa,,7.2,,,
 2023-10-16,Cotagaita Mosoj Llajta,29.0,11.0,,,
 2023-10-16,Cristal Mayu,34.0,23.0,,,
 2023-10-16,Cuatro Cañadas - CEA-2 (GPRS),36.83,35.45,45.27,41.23,
@@ -62849,6 +63003,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-17,Concepcion Aeropuerto SCZ,35.5,22.8,,,
 2023-10-17,Coripata,31.5,18.5,,,
 2023-10-17,Coroico_H (GPRS),,,,,0.05
+2023-10-17,Cosapa,,6.6,,,
 2023-10-17,Cotagaita Mosoj Llajta,28.8,10.4,,,
 2023-10-17,Cristal Mayu,33.0,23.0,,,
 2023-10-17,Cuatro Cañadas - CEA-2 (GPRS),37.61,35.93,44.68,36.66,
@@ -63083,6 +63238,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-18,Concepcion Aeropuerto SCZ,,,,,6.0
 2023-10-18,Coripata,30.5,16.5,,,2.3
 2023-10-18,Coroico_H (GPRS),,,,,0.17
+2023-10-18,Cosapa,,6.7,,,
 2023-10-18,Cotagaita (GPRS),,,,,11.2
 2023-10-18,Cotagaita Mosoj Llajta,26.0,9.9,,,11.0
 2023-10-18,Cotagaita_H (GPRS),,,,,0.98
@@ -63274,6 +63430,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-19,Acasio,23.1,13.1,,,6.4
 2023-10-19,Achiri,18.0,0.5,,,
 2023-10-19,Achumani,18.2,4.2,,,
+2023-10-19,Achumani - Franco Boliviano,,,,,0.3
 2023-10-19,Aeropuerto Copacabana_M (GPRS),,,,,3.0
 2023-10-19,Aeropueto Copacabana_M (GPRS),,,,,3.0
 2023-10-19,Aguadas (GPRS),15.44,11.15,71.23,46.97,
@@ -63330,6 +63487,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-19,Copacabana,,,,,8.7
 2023-10-19,Coripata,28.5,17.0,,,
 2023-10-19,Coroico_H (GPRS),,,,,0.18
+2023-10-19,Cosapa,,7.0,,,
 2023-10-19,Cotagaita Mosoj Llajta,25.8,10.0,,,
 2023-10-19,Covendo_M (GPRS),,,,,4.4
 2023-10-19,Cristal Mayu,34.0,24.0,,,
@@ -63526,6 +63684,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-20,Achiri,16.5,0.1,,,7.5
 2023-10-20,Achocalla,,,,,5.0
 2023-10-20,Achumani,22.1,5.1,,,0.4
+2023-10-20,Achumani - Franco Boliviano,,,,,0.1
 2023-10-20,Aeropuerto Copacabana_M (GPRS),,,,,2.5
 2023-10-20,Aeropueto Copacabana_M (GPRS),,,,,2.5
 2023-10-20,Aguadas (GPRS),18.95,13.66,56.26,32.83,
@@ -63582,6 +63741,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-20,Concepcion,36.0,25.0,77.8,41.4,
 2023-10-20,Concepcion Aeropuerto SCZ,36.2,23.4,,,
 2023-10-20,Coripata,31.0,16.0,,,
+2023-10-20,Cosapa,,2.5,,,
 2023-10-20,Cotagaita (GPRS),,,,,1.7
 2023-10-20,Cotagaita Mosoj Llajta,29.0,9.8,,,2.0
 2023-10-20,Cotagaita_H (GPRS),,,,,0.46
@@ -63829,6 +63989,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-21,Concepcion Aeropuerto SCZ,37.0,24.0,,,
 2023-10-21,Coripata,30.5,15.0,,,
 2023-10-21,Coroico_H (GPRS),,,,,0.86
+2023-10-21,Cosapa,,3.7,,,
 2023-10-21,Cotagaita Mosoj Llajta,28.9,10.2,,,
 2023-10-21,Cristal Mayu,36.0,21.0,,,18.0
 2023-10-21,Cuatro Cañadas - CEA-2 (GPRS),39.58,38.6,32.49,30.81,
@@ -63992,6 +64153,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-22,Acasio,31.0,11.0,,,
 2023-10-22,Achiri,19.0,3.0,,,
 2023-10-22,Achumani,21.1,5.2,,,
+2023-10-22,Achumani - Franco Boliviano,,,,,4.7
 2023-10-22,Aguadas (GPRS),18.37,17.13,43.3,35.93,2.9
 2023-10-22,Aguaraycito,46.0,28.0,,,
 2023-10-22,Aiquile (GPRS),41.26,26.49,32.81,15.79,
@@ -64038,6 +64200,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-22,Concepcion,38.0,28.0,69.3,32.8,
 2023-10-22,Concepcion Aeropuerto SCZ,38.2,24.1,,,
 2023-10-22,Coripata,33.0,14.5,,,
+2023-10-22,Cosapa,,5.9,,,
 2023-10-22,Cotagaita Mosoj Llajta,28.6,11.0,,,
 2023-10-22,Cristal Mayu,36.0,22.0,,,
 2023-10-22,Cuatro Cañadas - CEA-2 (GPRS),40.23,39.45,26.77,23.51,
@@ -64196,6 +64359,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-23,Acasio,34.1,10.0,,,
 2023-10-23,Achiri,20.5,2.0,,,
 2023-10-23,Achumani,20.2,7.3,,,4.6
+2023-10-23,Achumani - Franco Boliviano,,,,,0.1
 2023-10-23,Aeropuerto Copacabana_M (GPRS),,,,,1.0
 2023-10-23,Aeropueto Copacabana_M (GPRS),,,,,1.0
 2023-10-23,Aguadas (GPRS),17.85,9.09,75.09,40.41,
@@ -64250,6 +64414,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-23,Concepcion Aeropuerto SCZ,37.2,24.5,,,
 2023-10-23,Copacabana,,,,,9.3
 2023-10-23,Coripata,33.5,16.5,,,
+2023-10-23,Cosapa,,6.7,,,
 2023-10-23,Cotagaita Mosoj Llajta,28.5,11.4,,,
 2023-10-23,Cristal Mayu,34.0,22.0,,,
 2023-10-23,Cuatro Cañadas - CEA-2 (GPRS),39.12,37.88,37.65,31.4,
@@ -64485,6 +64650,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-24,Conchamarca,,,,,2.8
 2023-10-24,Copacabana,,,,,18.5
 2023-10-24,Coripata,31.5,17.0,,,
+2023-10-24,Cosapa,,7.6,,,
 2023-10-24,Cotagaita Mosoj Llajta,29.0,14.0,,,
 2023-10-24,Cristal Mayu,32.0,25.0,,,
 2023-10-24,Cuatro Cañadas - CEA-2 (GPRS),37.61,35.97,48.25,38.88,
@@ -64743,6 +64909,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-25,Concepcion Aeropuerto SCZ,33.8,25.1,,,
 2023-10-25,Coripata,31.0,17.5,,,1.0
 2023-10-25,Coroico_H (GPRS),,,,,0.07
+2023-10-25,Cosapa,,6.7,,,
 2023-10-25,Cotagaita Mosoj Llajta,28.9,13.9,,,
 2023-10-25,Covendo_M (GPRS),,,,,11.5
 2023-10-25,Cristal Mayu,34.0,23.0,,,
@@ -64995,6 +65162,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-26,Concepcion,31.0,25.0,87.9,62.0,
 2023-10-26,Concepcion Aeropuerto SCZ,31.8,23.6,,,
 2023-10-26,Coripata,30.5,17.0,,,
+2023-10-26,Cosapa,,7.8,,,
 2023-10-26,Cotagaita Mosoj Llajta,29.0,12.0,,,
 2023-10-26,Cristal Mayu,31.0,23.0,,,18.0
 2023-10-26,Cuatro Cañadas - CEA-2 (GPRS),30.13,28.79,69.28,64.51,
@@ -65229,6 +65397,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-27,Concepcion Aeropuerto SCZ,,,,,0.3
 2023-10-27,Coripata,28.0,18.5,,,
 2023-10-27,Coroico_H (GPRS),,,,,2.8
+2023-10-27,Cosapa,,6.3,,,
 2023-10-27,Cotagaita Mosoj Llajta,28.8,11.0,,,
 2023-10-27,Cristal Mayu,27.0,24.0,,,
 2023-10-27,Cuatro Cañadas - CEA-2 (GPRS),34.33,32.7,56.91,53.53,
@@ -65460,6 +65629,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-28,Concepcion Aeropuerto SCZ,32.3,21.8,,,
 2023-10-28,Coripata,23.0,17.5,,,15.0
 2023-10-28,Coroico_H (GPRS),,,,,1.82
+2023-10-28,Cosapa,,7.0,,,
 2023-10-28,Cotagaita Mosoj Llajta,29.0,9.0,,,
 2023-10-28,Cristal Mayu,30.0,24.0,,,1.0
 2023-10-28,Cuatro Cañadas - CEA-2 (GPRS),33.71,31.91,59.51,54.83,
@@ -65670,6 +65840,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-29,Concepcion Aeropuerto SCZ,,,,,16.3
 2023-10-29,Coripata,28.5,17.0,,,6.3
 2023-10-29,Coroico_H (GPRS),,,,,2.56
+2023-10-29,Cosapa,,6.5,,,
 2023-10-29,Cotagaita Mosoj Llajta,28.8,7.0,,,
 2023-10-29,Covendo_M (GPRS),,,,,0.2
 2023-10-29,Cristal Mayu,31.0,24.0,,,8.3
@@ -65877,6 +66048,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-30,Concepcion,30.0,25.0,82.8,61.5,
 2023-10-30,Concepcion Aeropuerto SCZ,30.6,21.4,,,
 2023-10-30,Coripata,31.0,18.0,,,
+2023-10-30,Cosapa,,7.6,,,
 2023-10-30,Cotagaita Mosoj Llajta,29.0,5.6,,,
 2023-10-30,Cristal Mayu,28.0,24.0,,,11.0
 2023-10-30,Cuatro Cañadas - CEA-2 (GPRS),35.94,34.46,46.75,41.67,
@@ -66107,6 +66279,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-31,Concepcion Aeropuerto SCZ,31.2,22.4,,,
 2023-10-31,Coripata,30.0,17.5,,,1.5
 2023-10-31,Coroico_H (GPRS),,,,,0.02
+2023-10-31,Cosapa,,6.7,,,
 2023-10-31,Cotagaita Mosoj Llajta,28.9,6.8,,,
 2023-10-31,Covendo_M (GPRS),,,,,0.1
 2023-10-31,Cristal Mayu,26.0,22.0,,,20.0
@@ -66336,6 +66509,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-01,Concepcion Aeropuerto SCZ,30.6,,,,
 2023-11-01,Coripata,30.5,17.5,,,
 2023-11-01,Coroico_H (GPRS),,,,,0.12
+2023-11-01,Cosapa,,6.2,,,
 2023-11-01,Cotagaita Mosoj Llajta,32.0,13.0,,,
 2023-11-01,Covendo_M (GPRS),,,,,0.6
 2023-11-01,Cristal Mayu,28.0,23.0,,,7.1
@@ -66557,6 +66731,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-02,Concepcion,35.0,24.0,82.6,43.8,
 2023-11-02,Concepcion Aeropuerto SCZ,35.5,,,,
 2023-11-02,Coripata,33.0,17.0,,,
+2023-11-02,Cosapa,,5.3,,,
 2023-11-02,Cotagaita Mosoj Llajta,29.8,7.8,,,
 2023-11-02,Cristal Mayu,26.0,23.0,,,1.0
 2023-11-02,Cuatro Cañadas - CEA-2 (GPRS),36.63,34.73,46.76,42.0,
@@ -66766,6 +66941,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-03,Concepcion,27.0,24.0,82.8,57.1,
 2023-11-03,Concepcion Aeropuerto SCZ,27.4,,,,
 2023-11-03,Coripata,32.0,17.5,,,
+2023-11-03,Cosapa,,3.2,,,
 2023-11-03,Cotagaita Mosoj Llajta,29.6,6.0,,,
 2023-11-03,Cristal Mayu,27.0,23.0,,,
 2023-11-03,Cuatro Cañadas - CEA-2 (GPRS),27.04,23.37,53.32,45.0,
@@ -66986,6 +67162,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-04,Concepcion Aeropuerto SCZ,30.0,,,,
 2023-11-04,Coripata,27.0,15.0,,,18.0
 2023-11-04,Coroico_H (GPRS),,,,,7.16
+2023-11-04,Cosapa,,2.4,,,
 2023-11-04,Cotagaita Mosoj Llajta,28.8,7.4,,,
 2023-11-04,Cristal Mayu,24.0,19.0,,,7.0
 2023-11-04,Cuatro Cañadas - CEA-2 (GPRS),31.58,29.15,26.37,23.97,
@@ -67195,6 +67372,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-05,Concepcion,33.0,23.0,64.2,40.6,
 2023-11-05,Concepcion Aeropuerto SCZ,33.6,,,,
 2023-11-05,Coripata,30.0,13.5,,,
+2023-11-05,Cosapa,,4.2,,,
 2023-11-05,Cotagaita (GPRS),,,,,0.1
 2023-11-05,Cotagaita Mosoj Llajta,30.0,12.0,,,
 2023-11-05,Cotagaita_H (GPRS),,,,,0.03
@@ -67354,6 +67532,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-06,Acasio,29.0,10.1,,,
 2023-11-06,Achiri,21.5,-0.5,,,
 2023-11-06,Achumani,25.2,6.3,,,
+2023-11-06,Achumani - Franco Boliviano,,,,,5.2
 2023-11-06,Aguadas (GPRS),21.42,15.09,64.13,39.35,
 2023-11-06,Aguaraycito,42.0,24.0,,,
 2023-11-06,Aiquile (GPRS),39.47,26.59,56.93,24.67,
@@ -67400,6 +67579,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-06,Concepcion,34.0,30.0,58.1,46.3,
 2023-11-06,Concepcion Aeropuerto SCZ,34.4,,,,
 2023-11-06,Coripata,32.5,17.0,,,
+2023-11-06,Cosapa,,4.3,,,
 2023-11-06,Cotagaita Mosoj Llajta,29.0,9.9,,,
 2023-11-06,Cristal Mayu,32.0,22.0,,,
 2023-11-06,Cuatro Cañadas - CEA-2 (GPRS),37.88,35.97,39.72,34.31,
@@ -67611,6 +67791,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-07,Concepcion Aeropuerto SCZ,35.6,,,,
 2023-11-07,Copacabana,,,,,4.3
 2023-11-07,Coripata,31.5,19.5,,,
+2023-11-07,Cosapa,,5.3,,,
 2023-11-07,Cotagaita (GPRS),,,,,6.8
 2023-11-07,Cotagaita Mosoj Llajta,30.0,12.0,,,6.0
 2023-11-07,Cotagaita_H (GPRS),,,,,0.34
@@ -67827,6 +68008,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-08,Concepcion,36.0,27.0,78.1,44.1,
 2023-11-08,Concepcion Aeropuerto SCZ,36.5,,,,
 2023-11-08,Coripata,31.0,18.0,,,
+2023-11-08,Cosapa,,5.2,,,
 2023-11-08,Cotagaita Mosoj Llajta,31.0,10.0,,,
 2023-11-08,Cristal Mayu,34.0,24.0,,,
 2023-11-08,Cuatro Cañadas - CEA-2 (GPRS),39.56,37.94,40.06,35.18,
@@ -68005,6 +68187,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-09,Achiri,18.0,1.5,,,
 2023-11-09,Achocalla,,,,,2.2
 2023-11-09,Achumani,20.3,4.2,,,2.6
+2023-11-09,Achumani - Franco Boliviano,,,,,2.6
 2023-11-09,Aguadas (GPRS),16.63,7.34,85.9,39.86,
 2023-11-09,Aguaraycito,37.0,26.0,,,
 2023-11-09,Aiquile (GPRS),38.27,25.0,51.37,27.07,
@@ -68056,6 +68239,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-09,Concepcion Aeropuerto SCZ,36.2,,,,
 2023-11-09,Coripata,25.5,14.0,,,14.5
 2023-11-09,Coroico_H (GPRS),,,,,0.79
+2023-11-09,Cosapa,,6.3,,,
 2023-11-09,Cotagaita (GPRS),,,,,0.4
 2023-11-09,Cotagaita Mosoj Llajta,27.0,11.2,,,1.0
 2023-11-09,Cotagaita_H (GPRS),,,,,0.02
@@ -68252,6 +68436,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-10,Acasio,32.0,11.1,,,
 2023-11-10,Achiri,19.0,2.0,,,
 2023-11-10,Achumani,19.1,6.3,,,
+2023-11-10,Achumani - Franco Boliviano,,,,,2.2
 2023-11-10,Aguadas (GPRS),17.72,13.78,56.96,38.35,0.3
 2023-11-10,Aguaraycito,44.0,23.0,,,
 2023-11-10,Aiquile (GPRS),39.06,27.18,40.93,26.01,
@@ -68306,6 +68491,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-10,Concepcion Aeropuerto SCZ,34.5,,,,
 2023-11-10,Coripata,30.0,14.5,,,7.7
 2023-11-10,Coroico_H (GPRS),,,,,0.51
+2023-11-10,Cosapa,,7.0,,,
 2023-11-10,Cotagaita Mosoj Llajta,26.8,12.8,,,
 2023-11-10,Covendo_M (GPRS),,,,,6.9
 2023-11-10,Cristal Mayu,33.0,22.0,,,
@@ -68489,6 +68675,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-11,Achiri,21.0,1.5,,,
 2023-11-11,Achocalla,,,,,4.3
 2023-11-11,Achumani,25.2,7.2,,,2.3
+2023-11-11,Achumani - Franco Boliviano,,,,,7.7
 2023-11-11,Aeropuerto Copacabana_M (GPRS),,,,,1.6
 2023-11-11,Aeropueto Copacabana_M (GPRS),,,,,1.6
 2023-11-11,Aguadas (GPRS),16.43,10.2,79.02,53.78,
@@ -68539,6 +68726,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-11,Concepcion Aeropuerto SCZ,36.6,,,,
 2023-11-11,Conchamarca,,,,,4.8
 2023-11-11,Coripata,31.5,16.5,,,
+2023-11-11,Cosapa,,6.5,,,
 2023-11-11,Cotagaita (GPRS),,,,,0.1
 2023-11-11,Cotagaita Mosoj Llajta,27.8,13.6,,,
 2023-11-11,Cotagaita_H (GPRS),,,,,0.02
@@ -68706,6 +68894,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-12,Achiri,19.0,1.0,,,
 2023-11-12,Achocalla,,,,,2.9
 2023-11-12,Achumani,24.3,6.1,,,7.5
+2023-11-12,Achumani - Franco Boliviano,,,,,0.3
 2023-11-12,Aguadas (GPRS),15.41,3.95,92.6,54.25,1.7
 2023-11-12,Aguaraycito,45.0,28.0,,,
 2023-11-12,Aiquile (GPRS),43.28,16.47,85.7,23.97,
@@ -68754,6 +68943,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-12,Concepcion Aeropuerto SCZ,35.6,,,,
 2023-11-12,Conchamarca,,,,,3.2
 2023-11-12,Coripata,32.0,17.5,,,
+2023-11-12,Cosapa,,7.0,,,
 2023-11-12,Cotagaita Mosoj Llajta,29.6,13.2,,,
 2023-11-12,Cristal Mayu,35.0,23.0,,,
 2023-11-12,Cuatro Cañadas - CEA-2 (GPRS),39.19,28.69,71.35,36.23,
@@ -68915,6 +69105,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-13,Achiri,21.5,2.0,,,2.0
 2023-11-13,Achocalla,,,,,3.2
 2023-11-13,Achumani,26.2,5.2,,,3.4
+2023-11-13,Achumani - Franco Boliviano,,,,,2.8
 2023-11-13,Aeropuerto Copacabana_M (GPRS),,,,,8.7
 2023-11-13,Aeropueto Copacabana_M (GPRS),,,,,8.7
 2023-11-13,Aguadas (GPRS),18.4,15.73,54.54,43.69,3.1
@@ -68970,6 +69161,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-13,Concepcion,36.0,28.0,73.6,39.0,
 2023-11-13,Concepcion Aeropuerto SCZ,36.7,,,,
 2023-11-13,Coripata,28.5,15.5,,,36.2
+2023-11-13,Cosapa,,6.5,,,
 2023-11-13,Cotagaita Mosoj Llajta,29.0,9.0,,,
 2023-11-13,Cristal Mayu,35.0,23.0,,,
 2023-11-13,Cuatro Cañadas - CEA-2 (GPRS),39.85,37.42,41.56,33.1,
@@ -69220,6 +69412,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-14,Copacabana,,,,,8.4
 2023-11-14,Coripata,26.5,18.0,,,
 2023-11-14,Coroico_H (GPRS),,,,,0.09
+2023-11-14,Cosapa,,7.6,,,
 2023-11-14,Cotagaita Mosoj Llajta,28.8,9.6,,,
 2023-11-14,Covendo_M (GPRS),,,,,36.6
 2023-11-14,Cristal Mayu,33.0,24.0,,,
@@ -69448,6 +69641,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-15,Concepcion Aeropuerto SCZ,36.7,,,,
 2023-11-15,Coripata,31.5,16.0,,,1.2
 2023-11-15,Coroico_H (GPRS),,,,,0.02
+2023-11-15,Cosapa,,6.3,,,
 2023-11-15,Cotagaita Mosoj Llajta,29.0,9.0,,,
 2023-11-15,Cristal Mayu,33.0,23.0,,,
 2023-11-15,Cuatro Cañadas - CEA-2 (GPRS),38.86,36.9,42.73,37.07,
@@ -69671,6 +69865,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-16,Concepcion Aeropuerto SCZ,36.2,,,,
 2023-11-16,Coripata,32.0,17.0,,,
 2023-11-16,Coroico_H (GPRS),,,,,0.03
+2023-11-16,Cosapa,,7.0,,,
 2023-11-16,Cotagaita Mosoj Llajta,29.6,10.0,,,
 2023-11-16,Cristal Mayu,34.0,24.0,,,
 2023-11-16,Cuatro Cañadas - CEA-2 (GPRS),38.54,36.97,42.8,35.05,
@@ -69901,6 +70096,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-17,Concepcion,37.0,28.0,69.3,32.6,
 2023-11-17,Concepcion Aeropuerto SCZ,37.2,,,,
 2023-11-17,Coripata,32.5,19.5,,,
+2023-11-17,Cosapa,,6.2,,,
 2023-11-17,Cotagaita Mosoj Llajta,29.8,9.7,,,
 2023-11-17,Covendo_M (GPRS),,,,,1.1
 2023-11-17,Cristal Mayu,32.0,24.0,,,0.3
@@ -70071,6 +70267,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-18,Acasio,32.0,14.0,,,
 2023-11-18,Achiri,23.5,2.0,,,
 2023-11-18,Achumani,30.3,9.3,,,
+2023-11-18,Achumani - Franco Boliviano,,,,,0.5
 2023-11-18,Aguadas (GPRS),23.73,17.58,63.06,26.87,
 2023-11-18,Aguaraycito,43.0,28.0,,,
 2023-11-18,Aiquile (GPRS),38.88,21.52,50.29,17.85,
@@ -70114,6 +70311,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-18,Concepcion Aeropuerto SCZ,35.8,,,,
 2023-11-18,Coripata,33.0,19.0,,,
 2023-11-18,Coroico_H (GPRS),,,,,0.2
+2023-11-18,Cosapa,,7.9,,,
 2023-11-18,Cotagaita Mosoj Llajta,30.0,10.0,,,
 2023-11-18,Cristal Mayu,35.0,25.0,,,
 2023-11-18,Cuatro Cañadas - CEA-2 (GPRS),39.26,37.36,40.98,34.86,
@@ -70315,6 +70513,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-19,Copacabana,,,,,10.6
 2023-11-19,Coripata,27.0,17.5,,,
 2023-11-19,Coroico_H (GPRS),,,,,0.74
+2023-11-19,Cosapa,,7.7,,,
 2023-11-19,Cotagaita Mosoj Llajta,29.8,9.8,,,
 2023-11-19,Covendo_M (GPRS),,,,,30.9
 2023-11-19,Cristal Mayu,30.0,23.0,,,18.0
@@ -70545,6 +70744,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-20,Concepcion,28.0,24.0,87.8,69.3,
 2023-11-20,Concepcion Aeropuerto SCZ,28.5,,,,
 2023-11-20,Coripata,29.5,16.5,,,
+2023-11-20,Cosapa,,6.9,,,
 2023-11-20,Cotagaita Mosoj Llajta,29.9,10.0,,,
 2023-11-20,Covendo_M (GPRS),,,,,8.9
 2023-11-20,Cristal Mayu,26.0,23.0,,,16.0
@@ -70777,6 +70977,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-21,Concepcion,30.0,22.0,87.6,58.1,
 2023-11-21,Concepcion Aeropuerto SCZ,30.5,,,,
 2023-11-21,Coripata,27.5,16.0,,,
+2023-11-21,Cosapa,,7.7,,,
 2023-11-21,Cotagaita Mosoj Llajta,30.0,15.2,,,
 2023-11-21,Covendo_M (GPRS),,,,,14.1
 2023-11-21,Cristal Mayu,24.0,23.0,,,6.0
@@ -71010,6 +71211,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-22,Concepcion,32.0,24.0,82.6,45.8,
 2023-11-22,Concepcion Aeropuerto SCZ,33.0,,,,
 2023-11-22,Coripata,31.0,16.5,,,
+2023-11-22,Cosapa,,8.9,,,
 2023-11-22,Cotagaita Mosoj Llajta,29.8,12.4,,,
 2023-11-22,Cristal Mayu,27.0,23.0,,,0.1
 2023-11-22,Cuatro Cañadas - CEA-2 (GPRS),33.96,32.59,52.81,48.67,
@@ -71187,6 +71389,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-23,Acasio,,,,,10.0
 2023-11-23,Achiri,23.0,-0.5,,,
 2023-11-23,Achumani,27.2,8.3,,,0.5
+2023-11-23,Achumani - Franco Boliviano,,,,,4.5
 2023-11-23,Aguadas (GPRS),16.08,9.58,71.17,47.58,0.1
 2023-11-23,Aguaraycito,35.0,21.0,,,47.0
 2023-11-23,Aiquile (GPRS),36.81,23.05,60.59,32.11,0.6
@@ -71238,6 +71441,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-23,Colomi,17.0,9.0,,,0.1
 2023-11-23,Concepcion Aeropuerto SCZ,,,,,19.2
 2023-11-23,Coripata,32.5,18.5,,,
+2023-11-23,Cosapa,,7.8,,,
 2023-11-23,Cotagaita Mosoj Llajta,28.0,11.8,,,
 2023-11-23,Cristal Mayu,33.0,22.0,,,
 2023-11-23,Cuatro Cañadas - CEA-2 (GPRS),34.54,32.56,60.5,51.84,
@@ -71423,6 +71627,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-24,Acasio,,,,,19.8
 2023-11-24,Achiri,18.5,7.0,,,
 2023-11-24,Achumani,20.1,5.2,,,3.7
+2023-11-24,Achumani - Franco Boliviano,,,,,2.1
 2023-11-24,Aguadas (GPRS),9.48,8.14,89.1,77.99,14.6
 2023-11-24,Aguaraycito,26.0,21.0,,,1.5
 2023-11-24,Aiquile (GPRS),22.49,15.77,92.9,71.31,6.8
@@ -71485,6 +71690,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-24,Coripata,24.5,16.0,,,20.8
 2023-11-24,Coroico_H (GPRS),,,,,9.63
 2023-11-24,Corpaputo (As.Ac.Peñas),,,,,10.0
+2023-11-24,Cosapa,,6.0,,,
 2023-11-24,Cotagaita Mosoj Llajta,27.2,12.2,,,
 2023-11-24,Cotagaita_H (GPRS),,,,,0.05
 2023-11-24,Covendo_M (GPRS),,,,,60.1
@@ -71620,6 +71826,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-24,San Julian - Comunidad Los Angeles (GPRS),23.83,22.95,95.4,91.3,21.6
 2023-11-24,San Julian - Nucleo 32 (GPRS),23.73,23.27,,,0.8
 2023-11-24,San Lucas,22.0,12.0,,,
+2023-11-24,San Martin,,,,,2.0
 2023-11-24,San Matias Aeropuerto,,,,,12.1
 2023-11-24,San Pablo de Lipez,14.2,0.0,,,
 2023-11-24,San Pedro (SCZ),,,,,80.0
@@ -71710,6 +71917,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-25,Achiri,18.0,3.0,,,8.5
 2023-11-25,Achocalla,,,,,0.7
 2023-11-25,Achumani,19.2,4.1,,,1.2
+2023-11-25,Achumani - Franco Boliviano,,,,,6.8
 2023-11-25,Aeropuerto Copacabana_M (GPRS),,,,,3.9
 2023-11-25,Aeropueto Copacabana_M (GPRS),,,,,3.9
 2023-11-25,Aguadas (GPRS),12.24,8.24,86.9,70.17,4.8
@@ -71769,6 +71977,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-25,Coripata,24.0,16.5,,,5.0
 2023-11-25,Coroico_H (GPRS),,,,,0.38
 2023-11-25,Corpaputo (As.Ac.Peñas),,,,,15.0
+2023-11-25,Cosapa,,7.5,,,
 2023-11-25,Cotagaita Mosoj Llajta,30.0,13.6,,,
 2023-11-25,Cristal Mayu,34.0,25.0,,,5.0
 2023-11-25,Cuatro Cañadas - CEA-2 (GPRS),28.24,26.86,67.83,63.01,
@@ -71875,6 +72084,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-25,San Julian - Comunidad Los Angeles (GPRS),29.63,27.15,73.26,66.87,1.7
 2023-11-25,San Julian - Nucleo 32 (GPRS),27.53,25.19,,,0.8
 2023-11-25,San Lucas,24.0,11.0,,,
+2023-11-25,San Martin,,,,,0.1
 2023-11-25,San Pablo de Lipez,15.2,2.2,,,
 2023-11-25,San Pedro - Río Victoria (GPRS),27.14,26.49,72.59,69.99,1.0
 2023-11-25,San Pedro - San Antonio (GPRS),26.91,26.3,75.54,71.84,0.4
@@ -71950,6 +72160,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-26,Achiri,18.0,3.0,,,44.0
 2023-11-26,Achocalla,,,,,1.9
 2023-11-26,Achumani,20.1,5.3,,,6.4
+2023-11-26,Achumani - Franco Boliviano,,,,,4.0
 2023-11-26,Aeropuerto Copacabana_M (GPRS),,,,,0.2
 2023-11-26,Aeropueto Copacabana_M (GPRS),,,,,0.2
 2023-11-26,Aguadas (GPRS),15.19,12.6,74.29,61.52,8.2
@@ -72009,6 +72220,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-26,Coripata,27.0,16.0,,,2.1
 2023-11-26,Coroico_H (GPRS),,,,,0.03
 2023-11-26,Corpaputo (As.Ac.Peñas),,,,,12.0
+2023-11-26,Cosapa,,6.0,,,
 2023-11-26,Cotagaita Mosoj Llajta,29.0,17.0,,,
 2023-11-26,Covendo_M (GPRS),,,,,1.6
 2023-11-26,Cristal Mayu,31.0,24.0,,,
@@ -72163,6 +72375,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-26,Temporal - SDC (GPRS),20.56,15.48,79.36,0.28,6.5
 2023-11-26,Tinguipaya,19.1,7.2,,,
 2023-11-26,Tiraque,25.0,9.0,,,
+2023-11-26,Todos Santos_Or,,,,,0.1
 2023-11-26,Toledo (GPRS),16.84,6.29,97.1,48.99,20.8
 2023-11-26,Toma Ravelo_M (GPRS),,,,,7.3
 2023-11-26,Tomave,18.0,6.2,,,
@@ -72208,6 +72421,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-27,Achiri,18.5,4.0,,,7.0
 2023-11-27,Achocalla,,,,,5.8
 2023-11-27,Achumani,19.3,4.2,,,5.3
+2023-11-27,Achumani - Franco Boliviano,,,,,5.3
 2023-11-27,Aeropuerto Copacabana_M (GPRS),,,,,10.7
 2023-11-27,Aeropueto Copacabana_M (GPRS),,,,,10.7
 2023-11-27,Aguadas (GPRS),11.56,6.43,91.6,58.25,3.5
@@ -72275,6 +72489,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-27,Coripata,25.0,16.5,,,19.4
 2023-11-27,Coroico_H (GPRS),,,,,2.01
 2023-11-27,Corpaputo (As.Ac.Peñas),,,,,14.0
+2023-11-27,Cosapa,,3.7,,,
 2023-11-27,Cotagaita (GPRS),,,,,0.5
 2023-11-27,Cotagaita Mosoj Llajta,30.0,13.6,,,1.0
 2023-11-27,Cotagaita_H (GPRS),,,,,0.05
@@ -72504,6 +72719,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-28,Achiri,19.5,1.0,,,
 2023-11-28,Achocalla,,,,,1.1
 2023-11-28,Achumani,24.2,5.2,,,1.8
+2023-11-28,Achumani - Franco Boliviano,,,,,4.4
 2023-11-28,Aeropuerto Copacabana_M (GPRS),,,,,0.2
 2023-11-28,Aeropueto Copacabana_M (GPRS),,,,,0.2
 2023-11-28,Aguadas (GPRS),13.49,8.67,88.3,62.33,6.3
@@ -72565,6 +72781,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-28,Coripata,29.0,17.0,,,0.7
 2023-11-28,Coroico_H (GPRS),,,,,0.03
 2023-11-28,Corpaputo (As.Ac.Peñas),,,,,2.0
+2023-11-28,Cosapa,,4.6,,,
 2023-11-28,Cotagaita Mosoj Llajta,31.0,12.2,,,
 2023-11-28,Covendo_M (GPRS),,,,,0.5
 2023-11-28,Cristal Mayu,30.0,21.0,,,16.0
@@ -72766,6 +72983,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-29,Acasio,,,,,8.9
 2023-11-29,Achiri,21.0,0.5,,,
 2023-11-29,Achumani,22.3,6.3,,,3.2
+2023-11-29,Achumani - Franco Boliviano,,,,,0.5
 2023-11-29,Aguadas (GPRS),17.88,11.37,74.17,55.72,2.5
 2023-11-29,Aguaraycito,43.0,24.0,,,
 2023-11-29,Aiquile (GPRS),40.86,26.59,52.37,22.5,
@@ -72823,6 +73041,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-29,Conchamarca,,,,,2.5
 2023-11-29,Coripata,29.5,17.5,,,
 2023-11-29,Corpaputo (As.Ac.Peñas),,,,,1.5
+2023-11-29,Cosapa,,5.7,,,
 2023-11-29,Cotagaita Mosoj Llajta,31.8,12.0,,,
 2023-11-29,Cristal Mayu,31.0,22.0,,,
 2023-11-29,Cuatro Cañadas - CEA-2 (GPRS),35.45,34.01,52.7,47.77,
@@ -73006,6 +73225,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-30,Acasio,,,,,15.6
 2023-11-30,Achiri,20.5,2.5,,,34.0
 2023-11-30,Achumani,21.2,5.2,,,0.5
+2023-11-30,Achumani - Franco Boliviano,,,,,0.8
 2023-11-30,Aeropuerto Copacabana_M (GPRS),,,,,0.9
 2023-11-30,Aeropueto Copacabana_M (GPRS),,,,,0.9
 2023-11-30,Aguadas (GPRS),11.27,8.8,89.9,71.36,1.6
@@ -73065,6 +73285,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-30,Coripata,30.0,17.0,,,
 2023-11-30,Coroico_H (GPRS),,,,,0.04
 2023-11-30,Corpaputo (As.Ac.Peñas),,,,,1.8
+2023-11-30,Cosapa,,6.7,,,
 2023-11-30,Cotagaita Mosoj Llajta,32.6,13.2,,,
 2023-11-30,Covendo_M (GPRS),,,,,9.6
 2023-11-30,Cristal Mayu,32.0,23.0,,,4.0
@@ -73261,6 +73482,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-01,Achiri,15.0,6.5,,,6.0
 2023-12-01,Achocalla,,,,,11.5
 2023-12-01,Achumani,18.2,5.3,,,8.3
+2023-12-01,Achumani - Franco Boliviano,,,,,10.9
 2023-12-01,Aeropuerto Copacabana_M (GPRS),,,,,9.5
 2023-12-01,Aeropueto Copacabana_M (GPRS),,,,,9.5
 2023-12-01,Aguadas (GPRS),16.77,10.94,76.76,57.51,1.9
@@ -73325,6 +73547,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-01,Coripata,26.0,16.0,,,31.7
 2023-12-01,Coroico_H (GPRS),,,,,3.35
 2023-12-01,Corpaputo (As.Ac.Peñas),,,,,9.0
+2023-12-01,Cosapa,,6.2,,,
 2023-12-01,Cotagaita (GPRS),,,,,19.5
 2023-12-01,Cotagaita Mosoj Llajta,28.0,12.0,,,19.0
 2023-12-01,Cotagaita_H (GPRS),,,,,2.23
@@ -73372,6 +73595,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-01,Magdalena,33.0,26.0,87.9,58.7,
 2023-12-01,Magdalena Aeropuerto,,24.2,,,
 2023-12-01,Mecapaca,,,,,5.1
+2023-12-01,Misicuni,,,,,0.8
 2023-12-01,Mizque - SDC (GPRS),30.27,27.31,35.07,29.19,
 2023-12-01,Mojo,27.2,7.2,,,
 2023-12-01,Molle Molle,24.4,13.9,,,1.3
@@ -73524,6 +73748,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-02,Achiri,20.5,3.0,,,
 2023-12-02,Achocalla,,,,,16.2
 2023-12-02,Achumani,22.1,4.2,,,10.2
+2023-12-02,Achumani - Franco Boliviano,,,,,7.5
 2023-12-02,Aeropuerto Copacabana_M (GPRS),,,,,2.0
 2023-12-02,Aeropueto Copacabana_M (GPRS),,,,,2.0
 2023-12-02,Aguadas (GPRS),10.84,7.13,94.1,67.35,1.1
@@ -73583,6 +73808,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-02,Copacabana,,,,,20.3
 2023-12-02,Coripata,30.5,16.5,,,3.6
 2023-12-02,Corpaputo (As.Ac.Peñas),,,,,1.5
+2023-12-02,Cosapa,,7.3,,,
 2023-12-02,Cotagaita Mosoj Llajta,29.0,13.0,,,
 2023-12-02,Cristal Mayu,30.0,22.0,,,8.0
 2023-12-02,Cuatro Cañadas - CEA-2 (GPRS),36.69,34.93,45.66,42.79,
@@ -73622,6 +73848,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-02,Luribay,24.0,14.0,,,
 2023-12-02,Mairana_M (GPRS),207.9,26.53,247.8,48.95,
 2023-12-02,Mecapaca,,,,,4.3
+2023-12-02,Misicuni,,,,,8.4
 2023-12-02,Mizque - SDC (GPRS),30.3,24.53,45.94,27.97,3.4
 2023-12-02,Mojo,22.1,8.1,,,0.5
 2023-12-02,Molle Molle,23.9,13.9,,,
@@ -73815,6 +74042,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-03,Coripata,27.0,17.0,,,0.6
 2023-12-03,Coroico_H (GPRS),,,,,0.63
 2023-12-03,Corpaputo (As.Ac.Peñas),,,,,6.2
+2023-12-03,Cosapa,,5.2,,,
 2023-12-03,Cotagaita Mosoj Llajta,28.0,14.0,,,
 2023-12-03,Cotagaita_H (GPRS),,,,,0.02
 2023-12-03,Covendo_M (GPRS),,,,,14.1
@@ -73861,6 +74089,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-03,Magdalena Aeropuerto,34.5,,,,
 2023-12-03,Mairana_M (GPRS),207.9,207.9,247.8,247.8,0.4
 2023-12-03,Mataral,,,,,5.2
+2023-12-03,Misicuni,,,,,1.0
 2023-12-03,Mizque - SDC (GPRS),28.19,23.09,47.76,34.16,0.4
 2023-12-03,Mojo,17.3,9.0,,,
 2023-12-03,Molle Molle,23.3,11.1,,,16.3
@@ -74076,6 +74305,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-04,Coripata,29.5,15.5,,,
 2023-12-04,Coroico_H (GPRS),,,,,0.11
 2023-12-04,Corpaputo (As.Ac.Peñas),,,,,2.0
+2023-12-04,Cosapa,,3.5,,,
 2023-12-04,Cotagaita Mosoj Llajta,28.0,15.0,,,
 2023-12-04,Cristal Mayu,31.0,22.0,,,20.0
 2023-12-04,Cuatro Cañadas - CEA-2 (GPRS),29.53,27.45,59.55,55.19,0.2
@@ -74116,6 +74346,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-04,Magdalena Aeropuerto,,,,,11.4
 2023-12-04,Mairana_M (GPRS),-39.05,-39.06,0.93,0.92,0.2
 2023-12-04,Minero (Unagro),,,,,5.6
+2023-12-04,Misicuni,,,,,1.0
 2023-12-04,Mizque - SDC (GPRS),25.7,22.82,54.21,37.8,
 2023-12-04,Mojo,22.3,11.0,,,42.2
 2023-12-04,Molle Molle,21.7,11.1,,,0.8
@@ -74282,6 +74513,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-05,Achiri,19.0,3.0,,,2.0
 2023-12-05,Achocalla,,,,,29.9
 2023-12-05,Achumani,20.2,4.1,,,6.2
+2023-12-05,Achumani - Franco Boliviano,,,,,6.4
 2023-12-05,Aeropuerto Copacabana_M (GPRS),,,,,2.3
 2023-12-05,Aeropueto Copacabana_M (GPRS),,,,,2.3
 2023-12-05,Aguadas (GPRS),16.72,13.82,69.29,59.33,1.5
@@ -74344,6 +74576,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-05,Coripata,24.5,15.0,,,36.3
 2023-12-05,Coroico_H (GPRS),,,,,7.17
 2023-12-05,Corpaputo (As.Ac.Peñas),,,,,4.8
+2023-12-05,Cosapa,,2.3,,,
 2023-12-05,Cotagaita Mosoj Llajta,30.0,14.9,,,
 2023-12-05,Covendo_M (GPRS),,,,,25.6
 2023-12-05,Cristal Mayu,28.0,21.0,,,18.0
@@ -74550,6 +74783,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-06,Acasio,20.0,4.0,,,
 2023-12-06,Achiri,23.0,2.0,,,
 2023-12-06,Achumani,23.1,5.2,,,0.7
+2023-12-06,Achumani - Franco Boliviano,,,,,0.1
 2023-12-06,Aeropuerto Copacabana_M (GPRS),,,,,1.6
 2023-12-06,Aeropueto Copacabana_M (GPRS),,,,,1.6
 2023-12-06,Aguadas (GPRS),16.69,11.73,80.3,56.5,
@@ -74601,6 +74835,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-06,Copacabana,,,,,20.5
 2023-12-06,Coripata,29.0,15.5,,,1.3
 2023-12-06,Corpaputo (As.Ac.Peñas),,,,,1.0
+2023-12-06,Cosapa,,5.2,,,
 2023-12-06,Cotagaita Mosoj Llajta,33.0,17.0,,,
 2023-12-06,Cristal Mayu,28.0,21.0,,,8.0
 2023-12-06,Cuatro Cañadas - CEA-2 (GPRS),34.01,32.57,54.18,50.21,
@@ -74645,6 +74880,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-06,Magdalena,32.0,25.0,93.3,66.0,
 2023-12-06,Magdalena Aeropuerto,,,,,3.9
 2023-12-06,Mairana_M (GPRS),207.9,207.9,247.8,247.8,
+2023-12-06,Misicuni,,,,,0.5
 2023-12-06,Mizque - SDC (GPRS),33.48,30.19,32.14,26.07,
 2023-12-06,Mojo,23.3,7.2,,,
 2023-12-06,Molle Molle,24.4,13.3,,,6.1
@@ -74844,6 +75080,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-07,Copacabana,,,,,11.6
 2023-12-07,Coripata,24.0,17.5,,,2.5
 2023-12-07,Coroico_H (GPRS),,,,,0.1
+2023-12-07,Cosapa,,6.3,,,
 2023-12-07,Cotagaita Mosoj Llajta,30.0,16.0,,,
 2023-12-07,Cristal Mayu,26.0,22.0,,,20.0
 2023-12-07,Cuatro Cañadas - CEA-2 (GPRS),36.64,33.69,53.73,44.36,
@@ -74884,6 +75121,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-07,Magdalena Aeropuerto,,,,,1.4
 2023-12-07,Mairana_M (GPRS),-39.04,-39.04,0.94,0.94,
 2023-12-07,Mecapaca_M (GPRS),,,,,0.5
+2023-12-07,Misicuni,,,,,4.8
 2023-12-07,Mizque - SDC (GPRS),28.34,23.87,45.84,32.51,
 2023-12-07,Mojo,24.1,6.3,,,
 2023-12-07,Molle Molle,25.5,13.3,,,
@@ -75035,6 +75273,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-08,Achiri,19.0,3.0,,,13.0
 2023-12-08,Achocalla,,,,,7.2
 2023-12-08,Achumani,22.1,3.2,,,0.5
+2023-12-08,Achumani - Franco Boliviano,,,,,1.0
 2023-12-08,Aguadas (GPRS),13.74,5.56,88.9,59.0,6.8
 2023-12-08,Aguaraycito,34.0,23.0,,,
 2023-12-08,Aiquile (GPRS),28.65,19.6,74.2,53.08,
@@ -75098,6 +75337,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-08,Coripata,29.0,16.0,,,13.2
 2023-12-08,Coroico_H (GPRS),,,,,1.43
 2023-12-08,Corpaputo (As.Ac.Peñas),,,,,2.0
+2023-12-08,Cosapa,,7.2,,,
 2023-12-08,Cotagaita (GPRS),,,,,1.2
 2023-12-08,Cotagaita Mosoj Llajta,26.0,17.0,,,2.0
 2023-12-08,Cotagaita_H (GPRS),,,,,0.3
@@ -75143,6 +75383,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-08,Mataral,,,,,7.3
 2023-12-08,Mecapaca_M (GPRS),,,,,2.1
 2023-12-08,Minero (Unagro),,,,,3.4
+2023-12-08,Misicuni,,,,,8.8
 2023-12-08,Mizque - SDC (GPRS),23.27,14.63,89.5,54.66,2.2
 2023-12-08,Mojo,22.0,10.0,,,5.0
 2023-12-08,Molle Molle,18.9,12.2,,,
@@ -75254,6 +75495,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-08,Temporal - SDC (GPRS),25.32,20.88,31.21,0.08,
 2023-12-08,Tinguipaya,24.4,6.4,,,
 2023-12-08,Tiraque,27.0,8.0,,,
+2023-12-08,Todos Santos_Or,,,,,1.1
 2023-12-08,Toledo (GPRS),19.4,3.62,87.5,27.83,
 2023-12-08,Toma Ravelo_M (GPRS),,,,,20.4
 2023-12-08,Tomave,20.5,,,,
@@ -75355,6 +75597,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-09,Copacabana,,,,,19.5
 2023-12-09,Coripata,30.0,15.5,,,3.6
 2023-12-09,Coroico_H (GPRS),,,,,0.66
+2023-12-09,Cosapa,,7.5,,,
 2023-12-09,Cotagaita Mosoj Llajta,30.0,16.1,,,
 2023-12-09,Covendo_M (GPRS),,,,,0.2
 2023-12-09,Cristal Mayu,27.0,21.0,,,8.0
@@ -75525,6 +75768,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-10,Acasio,21.0,9.1,,,36.3
 2023-12-10,Achiri,19.5,3.0,,,
 2023-12-10,Achumani,17.1,5.2,,,
+2023-12-10,Achumani - Franco Boliviano,,,,,0.4
 2023-12-10,Aguadas (GPRS),17.73,11.86,71.06,57.65,1.5
 2023-12-10,Aguaraycito,26.0,23.0,,,2.0
 2023-12-10,Aiquile (GPRS),37.25,24.87,55.13,40.58,
@@ -75573,6 +75817,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-10,Concepcion Aeropuerto SCZ,,22.8,,,
 2023-12-10,Coripata,29.5,17.0,,,
 2023-12-10,Corpaputo (As.Ac.Peñas),,,,,3.3
+2023-12-10,Cosapa,,6.3,,,
 2023-12-10,Cotagaita (GPRS),,,,,0.1
 2023-12-10,Cotagaita Mosoj Llajta,31.0,17.0,,,
 2023-12-10,Cotagaita_H (GPRS),,,,,0.01
@@ -75614,6 +75859,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-10,Luribay,26.0,13.0,,,
 2023-12-10,Magdalena Aeropuerto,34.2,,,,
 2023-12-10,Mairana_M (GPRS),208.0,207.9,247.8,247.8,
+2023-12-10,Misicuni,,,,,0.1
 2023-12-10,Mizque - SDC (GPRS),30.58,22.41,35.37,35.37,
 2023-12-10,Mojo,17.1,7.0,,,1.0
 2023-12-10,Molle Molle,26.7,13.3,,,
@@ -75698,6 +75944,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-10,Temporal - SDC (GPRS),27.74,22.29,96.8,0.04,0.5
 2023-12-10,Tinguipaya,19.2,9.2,,,
 2023-12-10,Tiraque,25.0,9.0,,,
+2023-12-10,Todos Santos_Or,,,,,0.3
 2023-12-10,Toledo (GPRS),21.75,6.52,93.5,28.83,
 2023-12-10,Tomave,21.0,,,,
 2023-12-10,Totora i_M (GPRS),,,,,0.2
@@ -75740,6 +75987,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-11,Achiri,19.5,6.5,,,
 2023-12-11,Achocalla,,,,,27.0
 2023-12-11,Achumani,24.2,3.1,,,23.5
+2023-12-11,Achumani - Franco Boliviano,,,,,20.6
 2023-12-11,Aguadas (GPRS),17.26,13.5,66.52,57.27,1.6
 2023-12-11,Aguaraycito,40.0,20.0,,,4.0
 2023-12-11,Aiquile (GPRS),33.37,17.42,91.5,38.18,22.8
@@ -75803,6 +76051,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-11,Coripata,27.0,15.5,,,39.5
 2023-12-11,Coroico_H (GPRS),,,,,10.51
 2023-12-11,Corpaputo (As.Ac.Peñas),,,,,48.9
+2023-12-11,Cosapa,,7.0,,,
 2023-12-11,Cotagaita (GPRS),,,,,4.0
 2023-12-11,Cotagaita Mosoj Llajta,33.0,12.0,,,4.0
 2023-12-11,Cotagaita_H (GPRS),,,,,0.38
@@ -76057,6 +76306,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-12,Conchamarca,,,,,3.5
 2023-12-12,Coripata,30.0,16.5,,,
 2023-12-12,Corpaputo (As.Ac.Peñas),,,,,2.0
+2023-12-12,Cosapa,,3.2,,,
 2023-12-12,Cotagaita Mosoj Llajta,34.0,15.0,,,
 2023-12-12,Covendo_M (GPRS),,,,,0.6
 2023-12-12,Cristal Mayu,32.0,23.0,,,
@@ -76285,6 +76535,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-13,Copacabana,,,,,8.3
 2023-12-13,Coripata,30.5,17.5,,,
 2023-12-13,Coroico_H (GPRS),,,,,1.76
+2023-12-13,Cosapa,,2.0,,,
 2023-12-13,Cotagaita (GPRS),,,,,9.0
 2023-12-13,Cotagaita Mosoj Llajta,33.2,15.0,,,9.0
 2023-12-13,Cotagaita_H (GPRS),,,,,1.1
@@ -76416,6 +76667,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-13,Temporal - SDC (GPRS),26.07,17.59,82.8,0.08,
 2023-12-13,Tinguipaya,22.2,6.4,,,
 2023-12-13,Tiraque,26.0,6.0,,,
+2023-12-13,Todos Santos_Or,,,,,2.3
 2023-12-13,Toledo (GPRS),22.66,8.41,84.6,23.73,1.4
 2023-12-13,Tomave,24.5,,,,
 2023-12-13,Totora i_M (GPRS),,,,,0.1
@@ -76460,6 +76712,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-14,Achiri,17.0,6.5,,,9.0
 2023-12-14,Achocalla,,,,,1.8
 2023-12-14,Achumani,23.1,6.1,,,
+2023-12-14,Achumani - Franco Boliviano,,,,,5.8
 2023-12-14,Aguadas (GPRS),17.69,13.4,80.1,54.53,10.5
 2023-12-14,Aguaraycito,40.0,25.0,,,
 2023-12-14,Aiquile (GPRS),38.08,21.48,72.85,36.24,
@@ -76511,6 +76764,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-14,Coripata,29.0,18.5,,,
 2023-12-14,Coroico_H (GPRS),,,,,0.03
 2023-12-14,Corpaputo (As.Ac.Peñas),,,,,2.6
+2023-12-14,Cosapa,,5.2,,,
 2023-12-14,Cotagaita Mosoj Llajta,31.0,16.0,,,
 2023-12-14,Cristal Mayu,30.0,23.0,,,18.0
 2023-12-14,Cuatro Cañadas - CEA-2 (GPRS),37.27,35.39,49.12,43.35,
@@ -76550,6 +76804,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-14,Magdalena,33.0,28.0,88.1,66.2,
 2023-12-14,Magdalena Aeropuerto,,,,,3.3
 2023-12-14,Mairana_M (GPRS),207.9,207.9,247.8,247.8,
+2023-12-14,Misicuni,,,,,0.1
 2023-12-14,Mizque - SDC (GPRS),30.74,28.89,34.65,30.39,
 2023-12-14,Mojo,23.0,8.0,,,2.1
 2023-12-14,Molle Molle,24.4,15.5,,,
@@ -76653,6 +76908,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-14,Temporal - SDC (GPRS),27.86,24.03,37.09,0.03,4.5
 2023-12-14,Tinguipaya,20.3,7.1,,,
 2023-12-14,Tiraque,25.0,8.0,,,
+2023-12-14,Todos Santos_Or,,,,,4.7
 2023-12-14,Toledo (GPRS),20.61,8.19,95.1,29.73,
 2023-12-14,Toma Ravelo_M (GPRS),,,,,5.6
 2023-12-14,Tomave,20.5,,,,
@@ -76701,6 +76957,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-15,Achiri,20.5,7.0,,,
 2023-12-15,Achocalla,,,,,53.6
 2023-12-15,Achumani,20.2,5.2,,,15.7
+2023-12-15,Achumani - Franco Boliviano,,,,,8.7
 2023-12-15,Aguadas (GPRS),13.66,7.9,91.5,68.47,0.6
 2023-12-15,Aguaraycito,40.0,22.0,,,14.0
 2023-12-15,Aiquile (GPRS),38.3,20.9,73.32,33.97,0.1
@@ -76767,6 +77024,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-15,Coripata,26.0,17.0,,,5.6
 2023-12-15,Coroico_H (GPRS),,,,,1.85
 2023-12-15,Corpaputo (As.Ac.Peñas),,,,,25.5
+2023-12-15,Cosapa,,6.3,,,
 2023-12-15,Cotagaita (GPRS),,,,,7.0
 2023-12-15,Cotagaita Mosoj Llajta,30.0,15.0,,,7.0
 2023-12-15,Cotagaita_H (GPRS),,,,,2.14
@@ -76819,6 +77077,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-15,Mataral,,,,,31.5
 2023-12-15,Mecapaca,,,,,19.0
 2023-12-15,Mecapaca_M (GPRS),,,,,16.0
+2023-12-15,Misicuni,,,,,7.7
 2023-12-15,Mizque - SDC (GPRS),29.98,27.02,40.24,30.83,
 2023-12-15,Mojo,20.2,10.1,,,3.2
 2023-12-15,Molle Molle,24.4,15.0,,,
@@ -76986,6 +77245,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-16,Acasio,29.0,13.1,,,
 2023-12-16,Achiri,23.0,4.5,,,4.0
 2023-12-16,Achumani,23.2,4.3,,,
+2023-12-16,Achumani - Franco Boliviano,,,,,0.3
 2023-12-16,Aguadas (GPRS),17.88,13.26,68.69,52.09,16.5
 2023-12-16,Aguaraycito,34.0,21.0,,,
 2023-12-16,Aiquile (GPRS),37.91,18.16,58.81,31.25,4.9
@@ -77035,6 +77295,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-16,Copacabana,,,,,12.3
 2023-12-16,Coripata,27.5,15.5,,,13.7
 2023-12-16,Coroico_H (GPRS),,,,,0.93
+2023-12-16,Cosapa,,7.9,,,
 2023-12-16,Cotagaita Mosoj Llajta,31.0,16.0,,,
 2023-12-16,Covendo_M (GPRS),,,,,0.7
 2023-12-16,Cristal Mayu,29.0,23.0,,,1.0
@@ -77194,6 +77455,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-17,Achiri,21.0,6.5,,,2.0
 2023-12-17,Achocalla,,,,,4.5
 2023-12-17,Achumani,24.3,5.2,,,1.3
+2023-12-17,Achumani - Franco Boliviano,,,,,0.1
 2023-12-17,Aguadas (GPRS),19.01,14.69,66.14,43.52,
 2023-12-17,Aguaraycito,43.0,23.0,,,
 2023-12-17,Aiquile (GPRS),38.59,26.55,50.92,26.96,
@@ -77251,6 +77513,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-17,Coripata,29.0,17.5,,,2.3
 2023-12-17,Coroico_H (GPRS),,,,,1.46
 2023-12-17,Corpaputo (As.Ac.Peñas),,,,,15.0
+2023-12-17,Cosapa,,6.3,,,
 2023-12-17,Cotagaita Mosoj Llajta,30.2,17.0,,,
 2023-12-17,Cotagaita_H (GPRS),,,,,0.04
 2023-12-17,Covendo_M (GPRS),,,,,9.6
@@ -77428,6 +77691,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-18,Achiri,21.0,3.5,,,
 2023-12-18,Achocalla,,,,,0.5
 2023-12-18,Achumani,21.2,6.3,,,
+2023-12-18,Achumani - Franco Boliviano,,,,,2.2
 2023-12-18,Aguadas (GPRS),16.18,11.89,76.56,51.26,
 2023-12-18,Aguaraycito,40.0,26.0,,,
 2023-12-18,Aiquile (GPRS),39.25,23.27,64.72,32.7,0.1
@@ -77475,6 +77739,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-18,Concepcion Aeropuerto SCZ,,22.8,,,
 2023-12-18,Coripata,30.5,18.0,,,
 2023-12-18,Corpaputo (As.Ac.Peñas),,,,,27.0
+2023-12-18,Cosapa,,7.0,,,
 2023-12-18,Cotagaita Mosoj Llajta,28.0,16.0,,,
 2023-12-18,Cristal Mayu,27.0,23.0,,,1.0
 2023-12-18,Cuatro Cañadas - CEA-2 (GPRS),36.97,34.76,48.64,40.59,
@@ -77511,6 +77776,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-18,Magdalena,34.0,27.0,88.0,55.5,
 2023-12-18,Magdalena Aeropuerto,,23.2,,,
 2023-12-18,Mairana_M (GPRS),207.9,207.9,247.8,247.8,
+2023-12-18,Misicuni,,,,,1.0
 2023-12-18,Mizque - SDC (GPRS),30.17,23.68,47.31,32.05,
 2023-12-18,Mojo,24.7,10.0,,,2.1
 2023-12-18,Molle Molle,26.1,14.4,,,
@@ -77654,6 +77920,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-19,Achiri,21.0,3.5,,,
 2023-12-19,Achocalla,,,,,3.8
 2023-12-19,Achumani,20.1,5.2,,,1.6
+2023-12-19,Achumani - Franco Boliviano,,,,,1.5
 2023-12-19,Aguadas (GPRS),16.77,7.8,89.3,46.62,0.8
 2023-12-19,Aguaraycito,27.0,21.0,,,
 2023-12-19,Aiquile (GPRS),26.55,15.88,94.4,55.82,17.6
@@ -77711,6 +77978,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-19,Coripata,28.5,17.0,,,
 2023-12-19,Coroico_H (GPRS),,,,,0.9
 2023-12-19,Corpaputo (As.Ac.Peñas),,,,,1.5
+2023-12-19,Cosapa,,6.5,,,
 2023-12-19,Cotagaita Mosoj Llajta,31.0,15.8,,,
 2023-12-19,Covendo_M (GPRS),,,,,0.5
 2023-12-19,Cristal Mayu,28.0,23.0,,,2.0
@@ -77970,6 +78238,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-20,Coripata,27.5,16.5,,,4.5
 2023-12-20,Coroico_H (GPRS),,,,,1.09
 2023-12-20,Corpaputo (As.Ac.Peñas),,,,,0.1
+2023-12-20,Cosapa,,7.3,,,
 2023-12-20,Cotagaita (GPRS),,,,,0.2
 2023-12-20,Cotagaita Mosoj Llajta,33.0,17.0,,,
 2023-12-20,Cotagaita_H (GPRS),,,,,0.05
@@ -78014,6 +78283,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-20,Magdalena,35.0,29.0,78.3,52.5,
 2023-12-20,Magdalena Aeropuerto,,23.6,,,
 2023-12-20,Mairana_M (GPRS),207.9,207.9,247.8,247.8,0.2
+2023-12-20,Misicuni,,,,,1.0
 2023-12-20,Mizque - SDC (GPRS),24.9,24.9,46.04,35.12,0.6
 2023-12-20,Mojo,19.1,6.3,,,
 2023-12-20,Molle Molle,25.5,12.2,,,16.8
@@ -78215,6 +78485,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-21,Copacabana,,,,,19.8
 2023-12-21,Coripata,28.5,18.0,,,
 2023-12-21,Coroico_H (GPRS),,,,,0.07
+2023-12-21,Cosapa,,6.2,,,
 2023-12-21,Cotagaita Mosoj Llajta,32.0,16.8,,,
 2023-12-21,Cristal Mayu,30.0,23.0,,,
 2023-12-21,Cuatro Cañadas - CEA-2 (GPRS),34.94,32.84,54.31,46.45,0.8
@@ -78456,6 +78727,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-22,Copacabana,,,,,21.5
 2023-12-22,Coripata,27.5,18.5,,,
 2023-12-22,Coroico_H (GPRS),,,,,1.1
+2023-12-22,Cosapa,,7.0,,,
 2023-12-22,Cotagaita Mosoj Llajta,31.3,16.0,,,
 2023-12-22,Covendo_M (GPRS),,,,,3.7
 2023-12-22,Cristal Mayu,34.0,23.0,,,
@@ -78495,6 +78767,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-22,Magdalena,31.0,26.0,93.4,74.1,
 2023-12-22,Magdalena Aeropuerto,,,,,21.7
 2023-12-22,Mairana_M (GPRS),207.9,207.9,247.8,247.8,
+2023-12-22,Misicuni,,,,,2.1
 2023-12-22,Mizque - SDC (GPRS),30.28,28.83,37.99,28.24,
 2023-12-22,Mojo,24.2,9.2,,,
 2023-12-22,Molle Molle,25.5,12.2,,,
@@ -78684,6 +78957,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-23,Concepcion,31.0,25.0,93.4,65.8,
 2023-12-23,Concepcion Aeropuerto SCZ,,23.1,,,
 2023-12-23,Coripata,30.5,17.5,,,
+2023-12-23,Cosapa,,6.3,,,
 2023-12-23,Cotagaita Mosoj Llajta,32.0,15.0,,,
 2023-12-23,Covendo_M (GPRS),,,,,37.5
 2023-12-23,Cristal Mayu,31.0,23.0,,,15.0
@@ -78879,6 +79153,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-24,Concepcion Aeropuerto SCZ,,24.3,,,
 2023-12-24,Copacabana,,,,,24.3
 2023-12-24,Coripata,31.5,19.0,,,
+2023-12-24,Cosapa,,7.5,,,
 2023-12-24,Cotagaita Mosoj Llajta,33.0,17.0,,,
 2023-12-24,Covendo_M (GPRS),,,,,12.4
 2023-12-24,Cristal Mayu,23.0,23.0,,,34.0
@@ -79071,6 +79346,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-25,Concepcion Aeropuerto SCZ,,23.4,,,
 2023-12-25,Copacabana,,,,,15.9
 2023-12-25,Coripata,33.0,19.5,,,
+2023-12-25,Cosapa,,3.7,,,
 2023-12-25,Cotagaita Mosoj Llajta,32.0,16.0,,,
 2023-12-25,Cristal Mayu,33.0,24.0,,,
 2023-12-25,Cuatro Cañadas - CEA-2 (GPRS),35.26,34.54,56.35,54.01,
@@ -79291,6 +79567,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-26,Concepcion Aeropuerto SCZ,,24.3,,,
 2023-12-26,Coripata,27.0,15.5,,,12.3
 2023-12-26,Coroico_H (GPRS),,,,,2.74
+2023-12-26,Cosapa,,2.6,,,
 2023-12-26,Cotagaita (GPRS),,,,,6.7
 2023-12-26,Cotagaita Mosoj Llajta,26.0,15.8,,,7.0
 2023-12-26,Cotagaita_H (GPRS),,,,,0.78
@@ -79338,6 +79615,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-26,Mairana_M (GPRS),207.9,207.9,247.8,247.8,0.2
 2023-12-26,Mataral,,,,,13.4
 2023-12-26,Minero (Unagro),,,,,20.4
+2023-12-26,Misicuni,,,,,2.4
 2023-12-26,Mizque - SDC (GPRS),25.84,21.83,53.06,36.11,13.4
 2023-12-26,Mojo,26.2,7.2,,,
 2023-12-26,Molle Molle,23.3,11.7,,,7.6
@@ -79450,6 +79728,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-26,Temporal - SDC (GPRS),21.0,18.23,28.14,0.03,1.7
 2023-12-26,Tinguipaya,20.3,9.1,,,
 2023-12-26,Tiraque,25.0,7.0,,,
+2023-12-26,Todos Santos_Or,,,,,0.8
 2023-12-26,Toledo (GPRS),19.36,6.37,94.7,32.97,
 2023-12-26,Toma Ravelo_M (GPRS),,,,,7.8
 2023-12-26,Tomave,22.0,,,,
@@ -79550,6 +79829,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-27,Concepcion Aeropuerto SCZ,,,,,2.3
 2023-12-27,Copacabana,,,,,6.9
 2023-12-27,Coripata,29.0,16.0,,,4.7
+2023-12-27,Cosapa,,5.7,,,
 2023-12-27,Cotagaita Mosoj Llajta,32.0,15.2,,,
 2023-12-27,Covendo_M (GPRS),,,,,2.1
 2023-12-27,Cristal Mayu,32.0,21.0,,,
@@ -79587,6 +79867,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-27,Magdalena,33.0,26.0,93.4,62.4,
 2023-12-27,Magdalena Aeropuerto,,24.6,,,
 2023-12-27,Mairana_M (GPRS),207.9,207.9,247.8,247.8,
+2023-12-27,Misicuni,,,,,2.5
 2023-12-27,Mizque - SDC (GPRS),26.64,23.79,50.27,42.37,2.5
 2023-12-27,Mojo,26.0,8.0,,,
 2023-12-27,Molle Molle,25.5,11.1,,,0.5
@@ -79782,6 +80063,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-28,Concepcion Aeropuerto SCZ,,22.0,,,
 2023-12-28,Copacabana,,,,,18.4
 2023-12-28,Coripata,30.5,16.5,,,
+2023-12-28,Cosapa,,6.6,,,
 2023-12-28,Cotagaita Mosoj Llajta,33.0,16.0,,,
 2023-12-28,Covendo_M (GPRS),,,,,0.2
 2023-12-28,Cristal Mayu,34.0,23.0,,,
@@ -79887,6 +80169,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-28,San Julian - Comunidad Los Angeles (GPRS),37.37,35.38,50.84,40.47,
 2023-12-28,San Julian - Nucleo 32 (GPRS),36.38,34.29,,,
 2023-12-28,San Lucas,29.0,10.0,,,
+2023-12-28,San Martin,,,,,4.1
 2023-12-28,San Matias Aeropuerto,37.8,24.0,,,
 2023-12-28,San Pablo de Lipez,19.2,2.0,,,3.5
 2023-12-28,San Pedro - Río Victoria (GPRS),35.85,34.52,61.84,50.64,
@@ -79922,6 +80205,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-28,Temporal - SDC (GPRS),30.13,26.04,24.93,0.03,
 2023-12-28,Tinguipaya,23.2,7.4,,,
 2023-12-28,Tiraque,27.0,8.0,,,1.5
+2023-12-28,Todos Santos_Or,,,,,0.5
 2023-12-28,Toledo (GPRS),22.08,5.24,98.7,30.26,
 2023-12-28,Tomave,25.6,,,,
 2023-12-28,Trancas,33.2,23.0,,,
@@ -80018,6 +80302,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-29,Conchamarca,,,,,1.8
 2023-12-29,Coripata,31.5,18.0,,,
 2023-12-29,Coroico_H (GPRS),,,,,0.62
+2023-12-29,Cosapa,,3.7,,,
 2023-12-29,Cotagaita (GPRS),,,,,1.8
 2023-12-29,Cotagaita Mosoj Llajta,28.0,15.8,,,2.0
 2023-12-29,Cotagaita_H (GPRS),,,,,0.57
@@ -80135,6 +80420,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-29,San Julian - Comunidad Los Angeles (GPRS),38.03,35.52,53.71,45.1,
 2023-12-29,San Julian - Nucleo 32 (GPRS),36.5,34.71,,,
 2023-12-29,San Lucas,,,,,0.5
+2023-12-29,San Martin,,,,,5.1
 2023-12-29,San Matias Aeropuerto,37.0,25.0,,,
 2023-12-29,San Pablo de Lipez,18.2,0.0,,,8.0
 2023-12-29,San Pedro - Río Victoria (GPRS),35.69,33.29,66.07,57.12,
@@ -80169,6 +80455,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-29,Temporal - SDC (GPRS),29.73,24.73,28.52,0.18,
 2023-12-29,Tinguipaya,21.2,8.2,,,
 2023-12-29,Tiraque,26.0,10.0,,,
+2023-12-29,Todos Santos_Or,,,,,0.3
 2023-12-29,Toledo (GPRS),18.96,7.11,96.2,39.86,8.5
 2023-12-29,Toma Ravelo_M (GPRS),,,,,15.3
 2023-12-29,Tomave,20.0,,,,
@@ -80218,6 +80505,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-30,Acasio,17.1,11.1,,,36.3
 2023-12-30,Achiri,17.0,5.1,,,3.0
 2023-12-30,Achumani,20.2,9.3,,,
+2023-12-30,Achumani - Franco Boliviano,,,,,0.7
 2023-12-30,Aguadas (GPRS),14.0,8.09,82.7,65.06,19.5
 2023-12-30,Aguaraycito,29.0,20.0,,,16.5
 2023-12-30,Aiquile (GPRS),19.25,14.44,94.2,58.71,21.2
@@ -80276,6 +80564,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-30,Conchamarca,,,,,2.9
 2023-12-30,Coripata,24.0,18.5,,,
 2023-12-30,Coroico_H (GPRS),,,,,1.58
+2023-12-30,Cosapa,,2.6,,,
 2023-12-30,Cotagaita (GPRS),,,,,22.1
 2023-12-30,Cotagaita Mosoj Llajta,24.0,12.0,,,19.0
 2023-12-30,Cotagaita_H (GPRS),,,,,3.78
@@ -80322,6 +80611,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-30,Mataral,,,,,37.8
 2023-12-30,Mecapaca_M (GPRS),,,,,0.4
 2023-12-30,Minero (Unagro),,,,,83.8
+2023-12-30,Misicuni,,,,,22.8
 2023-12-30,Mizque - SDC (GPRS),19.96,18.01,65.87,48.88,17.5
 2023-12-30,Mojo,18.0,8.0,,,12.2
 2023-12-30,Molle Molle,18.9,11.1,,,52.3
@@ -80389,6 +80679,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-30,San Julian - Comunidad Los Angeles (GPRS),28.05,26.66,83.4,76.92,7.8
 2023-12-30,San Julian - Nucleo 32 (GPRS),26.44,25.33,,,18.8
 2023-12-30,San Lucas,,,,,11.0
+2023-12-30,San Martin,,,,,3.0
 2023-12-30,San Pablo de Lipez,19.1,1.0,,,6.0
 2023-12-30,San Pedro (SCZ),,,,,90.0
 2023-12-30,San Pedro - Río Victoria (GPRS),26.05,23.87,90.4,81.3,39.8
@@ -80422,6 +80713,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-30,Temporal - SDC (GPRS),19.89,15.78,74.34,18.71,18.6
 2023-12-30,Tinguipaya,20.2,8.3,,,
 2023-12-30,Tiraque,18.0,6.0,,,62.5
+2023-12-30,Todos Santos_Or,,,,,5.2
 2023-12-30,Toledo (GPRS),15.85,7.08,98.2,50.75,5.3
 2023-12-30,Toma Ravelo_M (GPRS),,,,,23.1
 2023-12-30,Tomave,13.0,,,,
@@ -80470,6 +80762,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-31,Achiri,19.5,4.5,,,13.0
 2023-12-31,Achocalla,,,,,5.5
 2023-12-31,Achumani,24.0,7.9,,,2.5
+2023-12-31,Achumani - Franco Boliviano,,,,,2.6
 2023-12-31,Aguadas (GPRS),15.91,12.84,69.26,58.76,0.1
 2023-12-31,Aguaraycito,34.0,22.0,,,1.5
 2023-12-31,Aiquile (GPRS),30.59,16.49,85.2,48.72,4.0
@@ -80529,6 +80822,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-31,Conchamarca,,,,,4.2
 2023-12-31,Coripata,27.5,16.5,,,11.0
 2023-12-31,Coroico_H (GPRS),,,,,0.52
+2023-12-31,Cosapa,,1.7,,,
 2023-12-31,Cotagaita (GPRS),,,,,0.2
 2023-12-31,Cotagaita Mosoj Llajta,29.0,12.2,,,4.0
 2023-12-31,Cotagaita_H (GPRS),,,,,0.05
@@ -80572,6 +80866,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-31,Mairana_M (GPRS),207.9,207.9,247.8,247.8,0.6
 2023-12-31,Mecapaca,,,,,4.0
 2023-12-31,Mecapaca_M (GPRS),,,,,2.9
+2023-12-31,Misicuni,,,,,3.8
 2023-12-31,Mizque - SDC (GPRS),27.13,21.59,61.21,39.14,13.5
 2023-12-31,Mojo,17.2,7.5,,,
 2023-12-31,Molle Molle,23.3,13.3,,,3.8
