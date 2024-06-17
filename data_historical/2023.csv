@@ -59760,6 +59760,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-01,Rurrenabaque,24.0,24.0,77.6,77.6,
 2023-10-01,Rurrenabaque Aeropuerto,,21.2,,,
 2023-10-01,Río Seco Julian Apaza-D5,,,,,0.1
+2023-10-01,Sacabaya,24.2,-2.4,,,
 2023-10-01,Sacaca,26.2,2.6,,,
 2023-10-01,Samasa,25.2,5.2,,,
 2023-10-01,San Andres,29.0,10.0,,,
@@ -59976,6 +59977,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-02,Rurrenabaque,27.0,27.0,73.5,73.5,
 2023-10-02,Rurrenabaque Aeropuerto,,21.3,,,
 2023-10-02,Río Seco Julian Apaza-D5,,,,,3.0
+2023-10-02,Sacabaya,25.0,2.4,,,
 2023-10-02,Sacaca,23.7,4.8,,,
 2023-10-02,Samasa,25.0,4.0,,,
 2023-10-02,San Andres,33.0,11.0,,,
@@ -60188,6 +60190,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-03,Roboré Aeropuerto,40.3,25.7,,,
 2023-10-03,Rurrenabaque,37.0,26.0,78.2,78.2,
 2023-10-03,Rurrenabaque Aeropuerto,,24.1,,,
+2023-10-03,Sacabaya,24.2,-2.6,,,
 2023-10-03,Sacaca,25.1,1.7,,,
 2023-10-03,Samasa,24.2,0.2,,,
 2023-10-03,San Andres,13.0,13.0,,,
@@ -60401,6 +60404,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-04,Rurrenabaque,38.0,28.0,78.2,78.2,
 2023-10-04,Rurrenabaque Aeropuerto,,24.0,,,
 2023-10-04,Río Seco Julian Apaza-D5,,,,,1.1
+2023-10-04,Sacabaya,25.0,-3.2,,,
 2023-10-04,Sacaca,26.7,3.2,,,
 2023-10-04,Samasa,25.4,6.4,,,
 2023-10-04,San Andres,26.0,18.0,,,
@@ -60625,6 +60629,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-05,Roboré Aeropuerto,37.9,21.1,,,
 2023-10-05,Rurrenabaque,37.0,25.0,73.8,73.8,
 2023-10-05,Rurrenabaque Aeropuerto,,24.8,,,
+2023-10-05,Sacabaya,25.0,1.2,,,
 2023-10-05,Sacaca,23.2,4.7,,,
 2023-10-05,Samaipata,,,,,0.1
 2023-10-05,Samasa,24.2,7.2,,,
@@ -60846,6 +60851,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-06,Roboré Aeropuerto,39.8,25.5,,,
 2023-10-06,Rurrenabaque,38.0,28.0,73.6,73.6,
 2023-10-06,Rurrenabaque Aeropuerto,,24.1,,,
+2023-10-06,Sacabaya,21.0,3.2,,,
 2023-10-06,Sacaca,25.8,5.8,,,
 2023-10-06,Samasa,24.0,8.4,,,
 2023-10-06,San Andres,39.0,8.0,,,
@@ -61053,6 +61059,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-07,Riberalta,37.0,26.0,78.2,78.2,
 2023-10-07,Riberalta Aeropuerto,38.8,26.6,,,
 2023-10-07,Rurrenabaque Aeropuerto,38.6,,,,
+2023-10-07,Sacabaya,22.0,-0.5,,,
 2023-10-07,Sacaca,26.7,1.6,,,
 2023-10-07,Samasa,20.2,4.2,,,
 2023-10-07,San Andres,24.0,6.0,,,
@@ -61268,6 +61275,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-08,Rosario del Ingre,,,,,1.0
 2023-10-08,Rurrenabaque,27.0,27.0,73.5,73.5,
 2023-10-08,Rurrenabaque Aeropuerto,,25.9,,,
+2023-10-08,Sacabaya,21.5,2.6,,,
 2023-10-08,Sacaca,23.1,3.6,,,
 2023-10-08,Samaipata,,,,,82.0
 2023-10-08,Samasa,22.0,7.4,,,
@@ -61497,6 +61505,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-09,Roboré Aeropuerto,,,,,20.0
 2023-10-09,Rurrenabaque,,,82.4,82.4,
 2023-10-09,Rurrenabaque Aeropuerto,,19.8,,,
+2023-10-09,Sacabaya,22.0,-2.5,,,
 2023-10-09,Sacaca,24.6,2.8,,,
 2023-10-09,Samasa,26.2,3.2,,,
 2023-10-09,San Andres,29.0,7.0,,,
@@ -61729,6 +61738,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-10,Rurrenabaque,24.0,24.0,77.6,77.6,
 2023-10-10,Rurrenabaque Aeropuerto,,20.5,,,
 2023-10-10,Sacabamba (GPRS),28.13,8.74,67.02,15.04,
+2023-10-10,Sacabaya,17.0,-4.2,,,
 2023-10-10,Sacaca,25.7,1.6,,,
 2023-10-10,Samasa,25.0,4.0,,,
 2023-10-10,San Andres,37.0,9.0,,,
@@ -61945,6 +61955,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-11,Rurrenabaque,37.0,27.0,73.5,34.7,
 2023-10-11,Rurrenabaque Aeropuerto,,22.0,,,
 2023-10-11,Sacabamba (GPRS),29.91,17.47,44.1,11.01,
+2023-10-11,Sacabaya,26.0,-3.5,,,
 2023-10-11,Sacaca,25.1,2.9,,,
 2023-10-11,Samasa,25.2,6.4,,,
 2023-10-11,San Andres,35.0,15.0,,,
@@ -62158,6 +62169,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-12,Roboré Aeropuerto,33.6,24.6,,,
 2023-10-12,Rurrenabaque,38.0,27.0,73.5,37.2,
 2023-10-12,Rurrenabaque Aeropuerto,,22.7,,,
+2023-10-12,Sacabaya,25.5,-6.0,,,
 2023-10-12,Sacaca,23.5,4.3,,,
 2023-10-12,Samaipata,,,,,0.5
 2023-10-12,Samasa,24.0,7.2,,,8.2
@@ -62380,6 +62392,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-13,Roboré Aeropuerto,30.6,18.1,,,
 2023-10-13,Rurrenabaque,28.0,24.0,82.6,50.8,
 2023-10-13,Rurrenabaque Aeropuerto,,24.5,,,
+2023-10-13,Sacabaya,24.0,-4.6,,,
 2023-10-13,Sacaca,26.7,1.7,,,
 2023-10-13,Samasa,25.2,3.0,,,1.0
 2023-10-13,San Andres,25.0,10.0,,,
@@ -62583,6 +62596,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-14,Riberalta,33.0,25.0,77.8,52.0,
 2023-10-14,Riberalta Aeropuerto,,,,,16.2
 2023-10-14,Riberalta_H (GPRS),,,,,2.03
+2023-10-14,Sacabaya,25.1,-2.2,,,
 2023-10-14,Sacaca,24.6,2.5,,,
 2023-10-14,Samasa,23.2,5.2,,,
 2023-10-14,San Andres,32.0,7.0,,,
@@ -62774,6 +62788,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-15,Robore,38.0,36.0,44.1,39.5,
 2023-10-15,Rurrenabaque,34.0,24.0,82.6,43.5,
 2023-10-15,Rurrenabaque Aeropuerto,36.2,,,,
+2023-10-15,Sacabaya,25.0,-1.2,,,
 2023-10-15,Sacaca,23.8,4.7,,,
 2023-10-15,Samasa,24.0,4.0,,,
 2023-10-15,San Andres,34.0,10.0,,,
@@ -62983,6 +62998,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-16,Roboré Aeropuerto,40.4,28.2,,,
 2023-10-16,Rurrenabaque,36.0,24.0,82.6,46.8,
 2023-10-16,Rurrenabaque Aeropuerto,,22.6,,,
+2023-10-16,Sacabaya,25.3,0.0,,,
 2023-10-16,Sacaca,20.1,1.9,,,
 2023-10-16,Samasa,24.2,7.0,,,
 2023-10-16,San Andres,39.0,16.0,,,
@@ -63206,6 +63222,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-17,Roboré Aeropuerto,40.5,28.0,,,
 2023-10-17,Rurrenabaque,37.0,25.0,82.7,32.6,
 2023-10-17,Rurrenabaque Aeropuerto,,22.1,,,
+2023-10-17,Sacabaya,25.0,-1.5,,,
 2023-10-17,Sacaca,22.6,5.2,,,
 2023-10-17,Sacacani_M (GPRS),,,,,0.1
 2023-10-17,Samasa,20.0,4.2,,,
@@ -63457,6 +63474,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-18,Rosario del Ingre,,,,,4.5
 2023-10-18,Rurrenabaque,37.0,26.0,73.3,39.2,
 2023-10-18,Rurrenabaque Aeropuerto,,21.9,,,
+2023-10-18,Sacabaya,25.0,1.4,,,
 2023-10-18,Sacaca,21.3,4.7,,,
 2023-10-18,Samasa,22.0,7.4,,,
 2023-10-18,San Andres,32.0,15.0,,,
@@ -63705,6 +63723,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-19,Rurrenabaque,38.0,28.0,73.6,37.2,
 2023-10-19,Rurrenabaque Aeropuerto,,23.7,,,
 2023-10-19,Río Seco Julian Apaza-D5,,,,,14.0
+2023-10-19,Sacabaya,21.2,0.0,,,
 2023-10-19,Sacaca,22.5,2.8,,,
 2023-10-19,Sacacani_M (GPRS),,,,,0.1
 2023-10-19,Samasa,17.4,6.2,,,
@@ -63955,6 +63974,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-20,Roboré Aeropuerto,,,,,2.3
 2023-10-20,Rurrenabaque,37.0,25.0,82.7,34.7,
 2023-10-20,Rurrenabaque Aeropuerto,,22.8,,,
+2023-10-20,Sacabaya,21.0,2.5,,,
 2023-10-20,Sacaca,20.1,3.6,,,2.5
 2023-10-20,Sacacani_M (GPRS),,,,,1.7
 2023-10-20,Samasa,19.2,5.2,,,10.2
@@ -64193,6 +64213,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-21,Rurrenabaque,39.0,27.0,73.5,25.7,
 2023-10-21,Rurrenabaque Aeropuerto,,22.1,,,
 2023-10-21,Río Seco Julian Apaza-D5,,,,,0.8
+2023-10-21,Sacabaya,18.0,1.2,,,
 2023-10-21,Sacaca,20.3,5.1,,,
 2023-10-21,Sacacani_M (GPRS),,,,,1.0
 2023-10-21,Samasa,22.4,7.2,,,8.4
@@ -64396,6 +64417,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-22,Rurrenabaque,39.0,28.0,69.3,29.2,
 2023-10-22,Rurrenabaque Aeropuerto,,21.8,,,
 2023-10-22,Río Seco Julian Apaza-D5,,,,,8.3
+2023-10-22,Sacabaya,20.2,4.0,,,
 2023-10-22,Sacaca,21.6,1.7,,,1.6
 2023-10-22,Sacacani_M (GPRS),,,,,3.2
 2023-10-22,Samasa,21.2,6.4,,,3.2
@@ -64621,6 +64643,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-23,Roboré Aeropuerto,40.3,28.2,,,
 2023-10-23,Rurrenabaque,39.0,27.0,73.5,34.9,
 2023-10-23,Rurrenabaque Aeropuerto,,22.8,,,
+2023-10-23,Sacabaya,20.2,3.2,,,
 2023-10-23,Sacaca,22.7,3.2,,,
 2023-10-23,Sacacani_M (GPRS),,,,,0.8
 2023-10-23,Samasa,22.4,7.2,,,2.4
@@ -64866,6 +64889,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-24,Rurrenabaque,38.0,29.0,69.5,39.5,
 2023-10-24,Rurrenabaque Aeropuerto,,24.2,,,
 2023-10-24,Río Seco Julian Apaza-D5,,,,,0.1
+2023-10-24,Sacabaya,22.5,2.6,,,
 2023-10-24,Sacaca,20.1,4.1,,,2.4
 2023-10-24,Sacacani_M (GPRS),,,,,1.2
 2023-10-24,Sachapera,,,,,10.5
@@ -65132,6 +65156,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-25,Rurrenabaque,37.0,28.0,73.6,44.3,
 2023-10-25,Rurrenabaque Aeropuerto,,24.7,,,
 2023-10-25,Río Seco Julian Apaza-D5,,,,,0.1
+2023-10-25,Sacabaya,23.6,-2.4,,,
 2023-10-25,Sacaca,26.2,5.2,,,
 2023-10-25,Sacacani_M (GPRS),,,,,1.6
 2023-10-25,Sachapera,,,,,2.0
@@ -65373,6 +65398,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-26,Rurrenabaque,37.0,28.0,78.2,44.3,
 2023-10-26,Rurrenabaque Aeropuerto,,24.7,,,
 2023-10-26,Río Seco Julian Apaza-D5,,,,,11.2
+2023-10-26,Sacabaya,23.4,-3.1,,,
 2023-10-26,Sacaca,28.4,1.8,,,
 2023-10-26,Sachapera,,,,,1.7
 2023-10-26,Samasa,23.2,4.0,,,
@@ -65610,6 +65636,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-27,Rosario del Ingre,,,,,4.5
 2023-10-27,Rurrenabaque,32.0,25.0,87.9,58.5,
 2023-10-27,Rurrenabaque Aeropuerto,,24.2,,,
+2023-10-27,Sacabaya,20.0,-2.0,,,
 2023-10-27,Sacaca,26.7,2.6,,,
 2023-10-27,Sachapera,,,,,0.2
 2023-10-27,Samasa,25.4,5.2,,,
@@ -65832,6 +65859,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-28,Riberalta Aeropuerto,,,,,6.4
 2023-10-28,Riberalta_H (GPRS),,,,,0.37
 2023-10-28,Rurrenabaque Aeropuerto,29.5,,,,
+2023-10-28,Sacabaya,17.5,2.5,,,
 2023-10-28,Sacaca,25.1,4.1,,,
 2023-10-28,Sachapera,,,,,0.5
 2023-10-28,Samasa,26.2,7.4,,,
@@ -66042,6 +66070,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-29,Rurrenabaque,26.0,25.0,87.9,82.8,
 2023-10-29,Rurrenabaque Aeropuerto,,23.4,,,
 2023-10-29,Sacabamba (GPRS),26.29,7.34,86.74,7.61,
+2023-10-29,Sacabaya,23.0,1.6,,,
 2023-10-29,Sacaca,23.2,2.6,,,
 2023-10-29,Samaipata,,,,,1.0
 2023-10-29,Samasa,20.0,5.2,,,
@@ -66262,6 +66291,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-30,Rurrenabaque,36.0,25.0,82.7,41.4,
 2023-10-30,Rurrenabaque Aeropuerto,,23.7,,,
 2023-10-30,Sacabamba (GPRS),23.73,15.62,48.07,18.61,
+2023-10-30,Sacabaya,20.1,1.0,,,
 2023-10-30,Sacaca,22.7,1.6,,,
 2023-10-30,Samasa,24.2,7.4,,,
 2023-10-30,San Andres,28.0,20.0,,,
@@ -66491,6 +66521,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-31,Roboré Aeropuerto,37.4,26.4,,,
 2023-10-31,Rurrenabaque,36.0,26.0,88.0,41.4,
 2023-10-31,Rurrenabaque Aeropuerto,,24.8,,,
+2023-10-31,Sacabaya,21.1,2.3,,,
 2023-10-31,Sacaca,26.1,2.5,,,
 2023-10-31,Sachapera,,,,,24.6
 2023-10-31,Samaipata,,,,,6.0
@@ -66660,6 +66691,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-01,Hichucota,16.0,-2.0,,,
 2023-11-01,Huarisuyo (GPRS),20.22,16.79,41.33,19.6,
 2023-11-01,Huaylipaya,,,,,8.7
+2023-11-01,Huayllamarca,,5.0,,,
 2023-11-01,Huayrocondo,21.0,2.0,,,
 2023-11-01,Incahuasi (GPRS),21.49,8.9,95.6,11.9,
 2023-11-01,Incapampa - Coroico_M (GPRS),,,,,1.4
@@ -66722,6 +66754,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-01,Roboré Aeropuerto,35.5,25.5,,,
 2023-11-01,Rurrenabaque,36.0,25.0,87.9,39.0,
 2023-11-01,Rurrenabaque Aeropuerto,35.9,,,,
+2023-11-01,Sacabaya,22.0,-5.2,,,
 2023-11-01,Sacaca,26.2,2.6,,,
 2023-11-01,Samasa,23.2,7.2,,,
 2023-11-01,San Andres,29.0,18.0,,,
@@ -66938,6 +66971,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-02,Riberalta Aeropuerto,36.4,,,,
 2023-11-02,Rurrenabaque,36.0,24.0,82.6,36.6,
 2023-11-02,Rurrenabaque Aeropuerto,36.8,,,,
+2023-11-02,Sacabaya,22.6,-8.6,,,
 2023-11-02,Sacaca,28.6,4.8,,,
 2023-11-02,Samasa,24.0,6.4,,,
 2023-11-02,San Andres,36.0,18.0,,,
@@ -67153,6 +67187,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-03,Roboré Aeropuerto,27.2,22.5,,,
 2023-11-03,Rurrenabaque,37.0,27.0,78.1,34.7,
 2023-11-03,Rurrenabaque Aeropuerto,,24.0,,,
+2023-11-03,Sacabaya,22.0,-11.0,,,
 2023-11-03,Sacaca,26.2,1.6,,,
 2023-11-03,Samaipata,,,,,1.0
 2023-11-03,Samasa,24.2,5.2,,,
@@ -67316,6 +67351,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-04,Huancane Corapata_M (GPRS),,,,,3.5
 2023-11-04,Huarisuyo (GPRS),18.51,16.06,45.62,38.56,0.1
 2023-11-04,Huaylipaya,,,,,36.5
+2023-11-04,Huayllamarca,,5.0,,,
 2023-11-04,Huayrocondo,18.8,4.0,,,
 2023-11-04,Ibibobo,,,,,10.3
 2023-11-04,Incahuasi (GPRS),16.49,5.95,90.0,51.17,
@@ -67374,6 +67410,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-04,Riberalta_H (GPRS),,,,,5.94
 2023-11-04,Rurrenabaque Aeropuerto,27.6,,,,
 2023-11-04,Río Seco Julian Apaza-D5,,,,,10.2
+2023-11-04,Sacabaya,22.6,-2.8,,,
 2023-11-04,Sacaca,25.7,2.5,,,
 2023-11-04,Samaipata,,,,,4.0
 2023-11-04,Samasa,20.0,4.0,,,
@@ -67528,6 +67565,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-05,Hichucota,17.0,-2.0,,,
 2023-11-05,Huarisuyo (GPRS),21.0,17.49,31.82,23.73,
 2023-11-05,Huaylipaya,,,,,19.9
+2023-11-05,Huayllamarca,,5.1,,,
 2023-11-05,Huayrocondo,21.6,-0.9,,,
 2023-11-05,Incahuasi (GPRS),26.89,9.09,81.8,14.07,
 2023-11-05,Incapampa,,,,,4.1
@@ -67580,6 +67618,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-05,Riberalta_H (GPRS),,,,,0.19
 2023-11-05,Rurrenabaque,32.0,25.0,56.9,37.9,
 2023-11-05,Rurrenabaque Aeropuerto,35.4,,,,
+2023-11-05,Sacabaya,24.8,1.4,,,
 2023-11-05,Sacaca,26.2,3.7,,,
 2023-11-05,Samasa,25.2,7.2,,,1.2
 2023-11-05,San Andres,32.0,19.0,,,
@@ -67731,6 +67770,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-06,Hichucota,15.0,-3.0,,,
 2023-11-06,Huarisuyo (GPRS),19.47,15.88,41.29,33.88,
 2023-11-06,Huaylipaya,,,,,42.7
+2023-11-06,Huayllamarca,,4.0,,,
 2023-11-06,Huayrocondo,20.0,-0.2,,,
 2023-11-06,Incahuasi (GPRS),23.21,9.8,84.7,35.8,
 2023-11-06,Isla Del Sol,15.3,2.4,,,
@@ -67788,6 +67828,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-06,Rurrenabaque,38.0,28.0,65.2,37.2,
 2023-11-06,Rurrenabaque Aeropuerto,38.3,,,,
 2023-11-06,Río Seco Julian Apaza-D5,,,,,0.1
+2023-11-06,Sacabaya,25.0,-0.7,,,
 2023-11-06,Sacaca,25.1,1.3,,,
 2023-11-06,Samasa,24.0,4.0,,,
 2023-11-06,San Andres,34.0,18.0,,,
@@ -67947,6 +67988,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-07,Hichucota,17.0,-3.0,,,
 2023-11-07,Huarisuyo (GPRS),18.74,9.32,61.79,41.23,
 2023-11-07,Huaylipaya,,,,,39.6
+2023-11-07,Huayllamarca,,4.2,,,
 2023-11-07,Huayrocondo,17.5,1.1,,,
 2023-11-07,Incahuasi (GPRS),25.22,13.35,65.25,27.47,
 2023-11-07,Isla Del Sol,14.6,4.6,,,
@@ -68005,6 +68047,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-07,Roboré Aeropuerto,39.1,24.2,,,
 2023-11-07,Rurrenabaque,38.0,29.0,69.5,39.5,
 2023-11-07,Rurrenabaque Aeropuerto,38.7,,,,
+2023-11-07,Sacabaya,25.5,4.1,,,
 2023-11-07,Sacaca,22.6,2.6,,,1.2
 2023-11-07,Sacacani_M (GPRS),,,,,0.2
 2023-11-07,Samasa,25.2,5.2,,,
@@ -68228,6 +68271,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-08,Rosario del Ingre,,,,,21.5
 2023-11-08,Rurrenabaque,39.0,28.0,78.2,31.1,
 2023-11-08,Rurrenabaque Aeropuerto,39.1,,,,
+2023-11-08,Sacabaya,25.0,5.0,,,
 2023-11-08,Sacaca,23.4,4.8,,,
 2023-11-08,Samasa,23.0,3.2,,,
 2023-11-08,San Andres,35.5,22.0,,,
@@ -68649,6 +68693,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-10,Guanay_H (GPRS),,,,,235.0
 2023-11-10,Hichucota,17.0,0.0,,,
 2023-11-10,Huarisuyo (GPRS),18.49,15.92,42.06,29.75,0.1
+2023-11-10,Huayllamarca,,6.0,,,
 2023-11-10,Huayrocondo,19.8,1.0,,,1.0
 2023-11-10,Incahuasi (GPRS),24.5,13.13,85.7,37.47,
 2023-11-10,Incapampa - Coroico_M (GPRS),,,,,5.0
@@ -68886,6 +68931,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-11,Huancane Corapata_M (GPRS),,,,,0.2
 2023-11-11,Huarisuyo (GPRS),18.37,15.03,47.02,36.14,0.6
 2023-11-11,Huaylipaya,,,,,27.9
+2023-11-11,Huayllamarca,,7.0,,,
 2023-11-11,Huayrocondo,18.4,4.9,,,0.2
 2023-11-11,Incahuasi (GPRS),27.61,12.78,78.36,18.68,
 2023-11-11,Isla Del Sol,14.4,3.6,,,8.6
@@ -68942,6 +68988,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-11,Rurrenabaque,39.0,37.0,34.7,31.1,
 2023-11-11,Rurrenabaque Aeropuerto,39.2,,,,
 2023-11-11,Río Seco Julian Apaza-D5,,,,,5.9
+2023-11-11,Sacabaya,20.5,-0.5,,,
 2023-11-11,Sacaca,21.6,2.4,,,
 2023-11-11,Sacacani_M (GPRS),,,,,0.1
 2023-11-11,Salla,,,,,5.1
@@ -69097,6 +69144,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-12,Hichucota,14.0,2.0,,,
 2023-11-12,Huarisuyo (GPRS),17.79,3.18,97.6,39.45,1.3
 2023-11-12,Huaylipaya,,,,,39.4
+2023-11-12,Huayllamarca,,5.0,,,
 2023-11-12,Huayrocondo,19.1,5.0,,,1.6
 2023-11-12,Incahuasi (GPRS),25.27,11.25,81.1,15.74,
 2023-11-12,Isla Del Sol,16.2,5.6,,,4.5
@@ -69157,6 +69205,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-12,Riberalta Aeropuerto,35.1,,,,
 2023-11-12,Rurrenabaque Aeropuerto,39.0,,,,
 2023-11-12,Río Seco Julian Apaza-D5,,,,,2.8
+2023-11-12,Sacabaya,17.6,4.7,,,
 2023-11-12,Sacaca,20.1,3.1,,,
 2023-11-12,Sacacani_M (GPRS),,,,,0.1
 2023-11-12,Samasa,24.2,7.4,,,
@@ -69322,6 +69371,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-13,Huancane Corapata_M (GPRS),,,,,6.8
 2023-11-13,Huarisuyo (GPRS),17.85,14.68,59.63,39.16,6.4
 2023-11-13,Huaylipaya,,,,,16.8
+2023-11-13,Huayllamarca,,4.1,,,
 2023-11-13,Huayrocondo,19.0,3.8,,,6.8
 2023-11-13,Incahuasi (GPRS),21.91,8.82,98.6,46.21,
 2023-11-13,Incapampa,,,,,8.1
@@ -69391,6 +69441,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-13,Rurrenabaque,37.0,30.0,69.7,41.7,
 2023-11-13,Rurrenabaque Aeropuerto,37.7,,,,
 2023-11-13,Río Seco Julian Apaza-D5,,,,,1.8
+2023-11-13,Sacabaya,22.5,4.5,,,
 2023-11-13,Sacaca,26.2,4.7,,,
 2023-11-13,Sacacani_M (GPRS),,,,,3.7
 2023-11-13,Salla,,,,,0.3
@@ -69570,6 +69621,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-14,Guanay_H (GPRS),,,,,27.0
 2023-11-14,Hichucota,15.0,1.0,,,
 2023-11-14,Huarisuyo (GPRS),19.79,16.03,43.88,26.4,
+2023-11-14,Huayllamarca,,4.0,,,
 2023-11-14,Huayrocondo,20.4,2.0,,,
 2023-11-14,Incahuasi (GPRS),26.94,8.68,96.6,6.24,
 2023-11-14,Incapampa - Coroico_M (GPRS),,,,,8.3
@@ -69639,6 +69691,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-14,Rurrenabaque,38.0,29.0,73.8,32.8,
 2023-11-14,Rurrenabaque Aeropuerto,38.4,,,,
 2023-11-14,Sacabamba (GPRS),24.3,10.14,69.77,19.46,
+2023-11-14,Sacabaya,21.5,-2.4,,,
 2023-11-14,Sacaca,25.2,2.9,,,
 2023-11-14,Samasa,22.0,4.2,,,
 2023-11-14,San Andres,35.0,20.0,,,
@@ -69797,6 +69850,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-15,Hichucota,16.0,3.0,,,
 2023-11-15,Huarisuyo (GPRS),20.17,15.86,49.45,29.13,0.5
 2023-11-15,Huaylipaya,,,,,7.5
+2023-11-15,Huayllamarca,,5.0,,,
 2023-11-15,Huayrocondo,18.9,5.0,,,1.8
 2023-11-15,Incahuasi (GPRS),28.68,10.51,96.0,4.28,
 2023-11-15,Incapampa,,,,,10.2
@@ -69862,6 +69916,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-15,Rurrenabaque,38.0,27.0,78.1,34.9,
 2023-11-15,Rurrenabaque Aeropuerto,38.7,,,,
 2023-11-15,Río Seco Julian Apaza-D5,,,,,1.5
+2023-11-15,Sacabaya,24.0,-0.6,,,
 2023-11-15,Sacaca,26.2,1.3,,,
 2023-11-15,Sacacani_M (GPRS),,,,,0.6
 2023-11-15,Samasa,25.2,5.0,,,
@@ -70025,6 +70080,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-16,Huancane Corapata_M (GPRS),,,,,0.1
 2023-11-16,Huarisuyo (GPRS),19.56,16.98,45.06,38.89,
 2023-11-16,Huaylipaya,,,,,63.7
+2023-11-16,Huayllamarca,,5.1,,,
 2023-11-16,Huayrocondo,20.7,2.2,,,
 2023-11-16,Incahuasi (GPRS),27.4,12.52,95.7,6.51,
 2023-11-16,Incapampa - Coroico_M (GPRS),,,,,0.4
@@ -70094,6 +70150,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-16,Rurrenabaque Aeropuerto,39.1,,,,
 2023-11-16,Río Seco Julian Apaza-D5,,,,,5.1
 2023-11-16,Sacabamba (GPRS),27.84,10.47,85.66,23.48,
+2023-11-16,Sacabaya,23.0,-1.0,,,
 2023-11-16,Sacaca,22.3,2.8,,,3.1
 2023-11-16,Samasa,24.0,6.2,,,
 2023-11-16,San Andres,35.0,19.0,,,
@@ -70255,6 +70312,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-17,Hichucota,18.0,1.0,,,6.0
 2023-11-17,Huarisuyo (GPRS),20.86,17.58,45.71,28.17,
 2023-11-17,Huaylipaya,,,,,8.9
+2023-11-17,Huayllamarca,,5.0,,,
 2023-11-17,Huayrocondo,21.5,4.0,,,
 2023-11-17,Incahuasi (GPRS),29.54,16.24,62.24,8.86,
 2023-11-17,Incapampa - Coroico_M (GPRS),,,,,1.4
@@ -70314,6 +70372,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-17,Roboré Aeropuerto,42.6,28.3,,,
 2023-11-17,Rurrenabaque,38.0,29.0,69.5,32.8,
 2023-11-17,Rurrenabaque Aeropuerto,38.5,,,,
+2023-11-17,Sacabaya,21.0,-2.0,,,
 2023-11-17,Sacaca,26.1,1.6,,,
 2023-11-17,Sacacani_M (GPRS),,,,,0.3
 2023-11-17,Samasa,22.4,8.4,,,
@@ -70521,6 +70580,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-18,Rurrenabaque,37.0,30.0,61.7,39.2,
 2023-11-18,Rurrenabaque Aeropuerto,38.4,,,,
 2023-11-18,Río Seco Julian Apaza-D5,,,,,0.4
+2023-11-18,Sacabaya,20.0,-0.5,,,
 2023-11-18,Sacaca,22.0,2.8,,,
 2023-11-18,Samasa,24.2,7.2,,,
 2023-11-18,San Andres,34.0,23.0,,,
@@ -70677,6 +70737,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-19,Guanay_H (GPRS),,,,,6.0
 2023-11-19,Hichucota,15.0,1.0,,,
 2023-11-19,Huarisuyo (GPRS),20.68,16.67,25.34,20.07,
+2023-11-19,Huayllamarca,,4.1,,,
 2023-11-19,Huayrocondo,21.8,2.5,,,
 2023-11-19,Incahuasi (GPRS),20.91,9.98,93.0,42.78,
 2023-11-19,Incapampa,,,,,20.2
@@ -70743,6 +70804,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-19,Riberalta Aeropuerto,38.8,,,,
 2023-11-19,Rurrenabaque,35.0,29.0,73.8,46.6,
 2023-11-19,Rurrenabaque Aeropuerto,35.7,,,,
+2023-11-19,Sacabaya,23.6,1.5,,,
 2023-11-19,Sacaca,20.2,4.6,,,
 2023-11-19,Samasa,23.2,9.4,,,
 2023-11-19,San Andres,32.0,20.0,,,4.5
@@ -70975,6 +71037,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-20,Roboré Aeropuerto,,22.6,,,3.4
 2023-11-20,Rurrenabaque,33.0,27.0,83.0,55.1,
 2023-11-20,Rurrenabaque Aeropuerto,33.2,,,,
+2023-11-20,Sacabaya,24.0,2.0,,,
 2023-11-20,Sacaca,21.6,2.9,,,3.5
 2023-11-20,Sacacani_M (GPRS),,,,,0.5
 2023-11-20,Samaipata,,,,,3.0
@@ -71141,6 +71204,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-21,Hichucota,17.0,1.0,,,
 2023-11-21,Huarisuyo (GPRS),20.74,16.26,34.54,23.97,
 2023-11-21,Huaylipaya,,,,,19.9
+2023-11-21,Huayllamarca,,4.1,,,
 2023-11-21,Huayrocondo,21.9,2.4,,,
 2023-11-21,Incahuasi (GPRS),23.07,8.38,96.3,26.4,
 2023-11-21,Incapampa,,,,,5.2
@@ -71210,6 +71274,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-21,Roboré Aeropuerto,,,,,2.1
 2023-11-21,Rurrenabaque,31.0,24.0,93.3,58.3,
 2023-11-21,Rurrenabaque Aeropuerto,,,,,9.4
+2023-11-21,Sacabaya,24.1,3.6,,,
 2023-11-21,Sacaca,22.5,1.6,,,
 2023-11-21,Samasa,23.0,8.4,,,
 2023-11-21,San Andres,32.0,19.0,,,
@@ -71439,6 +71504,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-22,Roboré Aeropuerto,37.6,,,,
 2023-11-22,Rurrenabaque,34.0,24.0,87.8,46.3,
 2023-11-22,Rurrenabaque Aeropuerto,,,,,3.4
+2023-11-22,Sacabaya,24.0,3.5,,,
 2023-11-22,Sacaca,20.2,2.4,,,
 2023-11-22,Samasa,22.4,9.2,,,
 2023-11-22,San Andres,29.0,18.0,,,
@@ -71609,6 +71675,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-23,Huancane Corapata_M (GPRS),,,,,0.4
 2023-11-23,Huarisuyo (GPRS),19.78,12.5,55.62,32.59,
 2023-11-23,Huaylipaya,,,,,16.9
+2023-11-23,Huayllamarca,,4.1,,,
 2023-11-23,Huayrocondo,20.5,6.1,,,
 2023-11-23,Ibibobo,,,,,18.2
 2023-11-23,Incahuasi (GPRS),16.67,9.11,99.2,64.7,
@@ -71674,6 +71741,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-23,Rurrenabaque Aeropuerto,36.4,,,,
 2023-11-23,Río Seco Julian Apaza-D5,,,,,19.5
 2023-11-23,Sacabamba (GPRS),21.54,8.39,100.0,45.6,
+2023-11-23,Sacabaya,24.8,0.0,,,
 2023-11-23,Sacaca,21.2,4.1,,,1.8
 2023-11-23,Sachapera,,,,,17.7
 2023-11-23,Samasa,20.2,6.2,,,9.2
@@ -71863,6 +71931,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-24,Hichucota,13.0,2.0,,,18.0
 2023-11-24,Huancane Corapata_M (GPRS),,,,,4.5
 2023-11-24,Huarisuyo (GPRS),10.09,7.84,93.4,79.1,4.7
+2023-11-24,Huayllamarca,,4.2,,,
 2023-11-24,Huayrocondo,14.9,8.0,,,1.0
 2023-11-24,Ibibobo,,,,,8.3
 2023-11-24,Incahuasi (GPRS),13.87,9.29,96.2,71.05,
@@ -71946,6 +72015,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-24,Rurrenabaque Aeropuerto,30.6,,,,
 2023-11-24,Río Seco Julian Apaza-D5,,,,,8.1
 2023-11-24,Sacabamba (GPRS),14.13,8.44,100.0,74.91,18.2
+2023-11-24,Sacabaya,24.0,-1.2,,,
 2023-11-24,Sacaca,20.6,1.6,,,1.5
 2023-11-24,Sacacani_M (GPRS),,,,,4.9
 2023-11-24,Sachapera,,,,,20.2
@@ -72211,6 +72281,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-25,Riberalta_H (GPRS),,,,,0.54
 2023-11-25,Rurrenabaque,29.0,24.0,93.3,65.4,
 2023-11-25,Rurrenabaque Aeropuerto,,,,,89.7
+2023-11-25,Sacabaya,25.3,2.6,,,
 2023-11-25,Sacaca,22.2,2.3,,,2.6
 2023-11-25,Sacacani_M (GPRS),,,,,5.1
 2023-11-25,Samasa,20.0,8.2,,,3.2
@@ -72751,6 +72822,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-27,Rurrenabaque Aeropuerto,33.4,,,,
 2023-11-27,Río Seco Julian Apaza-D5,,,,,6.8
 2023-11-27,Sacabamba (GPRS),19.74,12.11,94.19,51.5,
+2023-11-27,Sacabaya,23.2,2.5,,,
 2023-11-27,Sacaca,22.3,2.7,,,16.2
 2023-11-27,Sacacani_M (GPRS),,,,,10.6
 2023-11-27,Sachapera,,,,,11.8
@@ -72949,6 +73021,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-28,Huancane Corapata_M (GPRS),,,,,7.0
 2023-11-28,Huarisuyo (GPRS),17.76,13.78,49.33,34.6,2.3
 2023-11-28,Huaylipaya,,,,,36.7
+2023-11-28,Huayllamarca,,5.0,,,
 2023-11-28,Huayrocondo,18.9,1.8,,,2.3
 2023-11-28,Incahuasi (GPRS),22.38,8.21,100.0,47.53,
 2023-11-28,Incapampa - Coroico_M (GPRS),,,,,0.3
@@ -73028,6 +73101,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-28,Roboré Aeropuerto,37.5,,,,
 2023-11-28,Rurrenabaque,27.0,23.0,99.1,82.8,
 2023-11-28,Rurrenabaque Aeropuerto,,,,,42.3
+2023-11-28,Sacabaya,23.5,3.4,,,
 2023-11-28,Sacaca,20.6,3.4,,,4.1
 2023-11-28,Sacacani_M (GPRS),,,,,3.4
 2023-11-28,Salla,,,,,1.2
@@ -73205,6 +73279,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-29,Hichucota,14.0,2.0,,,
 2023-11-29,Huarisuyo (GPRS),18.68,7.55,82.5,43.84,2.2
 2023-11-29,Huaylipaya,,,,,43.5
+2023-11-29,Huayllamarca,,6.0,,,
 2023-11-29,Huayrocondo,19.3,3.5,,,2.2
 2023-11-29,Incahuasi (GPRS),24.91,11.35,94.1,37.99,
 2023-11-29,Isla Del Sol,15.3,4.3,,,18.8
@@ -73276,6 +73351,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-29,Roboré Aeropuerto,37.5,,,,
 2023-11-29,Rurrenabaque,34.0,26.0,82.9,52.3,
 2023-11-29,Rurrenabaque Aeropuerto,,,,,7.2
+2023-11-29,Sacabaya,24.6,-1.5,,,
 2023-11-29,Sacaca,20.2,2.8,,,
 2023-11-29,Salla,,,,,0.1
 2023-11-29,Samasa,24.0,5.2,,,
@@ -73719,6 +73795,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-01,Huancane Corapata_M (GPRS),,,,,18.1
 2023-12-01,Huarisuyo (GPRS),13.39,8.67,89.2,70.2,26.9
 2023-12-01,Huaylipaya,,,,,28.7
+2023-12-01,Huayllamarca,,6.1,,,
 2023-12-01,Huayrocondo,13.0,5.2,,,28.6
 2023-12-01,Incahuasi (GPRS),25.54,11.35,88.5,26.37,
 2023-12-01,Incapampa,,,,,4.1
@@ -73787,6 +73864,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-01,Rurrenabaque,33.0,26.0,82.8,52.0,
 2023-12-01,Rurrenabaque Aeropuerto,,24.7,,,
 2023-12-01,Río Seco Julian Apaza-D5,,,,,30.2
+2023-12-01,Sacabaya,20.6,1.2,,,
 2023-12-01,Sacaca,20.2,2.6,,,2.8
 2023-12-01,Sacacani_M (GPRS),,,,,10.0
 2023-12-01,Salla,,,,,0.4
@@ -73975,6 +74053,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-02,Huancane Corapata_M (GPRS),,,,,17.3
 2023-12-02,Huarisuyo (GPRS),17.62,13.87,65.39,45.05,10.1
 2023-12-02,Huaylipaya,,,,,19.2
+2023-12-02,Huayllamarca,,6.3,,,
 2023-12-02,Huayrocondo,17.5,6.5,,,12.6
 2023-12-02,Ibibobo,,,,,8.0
 2023-12-02,Incahuasi (GPRS),21.08,10.04,97.3,51.74,
@@ -74035,6 +74114,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-02,Riberalta Aeropuerto,,,,,4.2
 2023-12-02,Rurrenabaque Aeropuerto,34.5,,,,
 2023-12-02,Río Seco Julian Apaza-D5,,,,,2.3
+2023-12-02,Sacabaya,24.4,-2.7,,,
 2023-12-02,Sacaca,22.6,4.8,,,8.4
 2023-12-02,Sacacani_M (GPRS),,,,,4.4
 2023-12-02,Samasa,21.0,6.4,,,21.2
@@ -74213,6 +74293,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-03,Huancane Corapata_M (GPRS),,,,,14.4
 2023-12-03,Huarisuyo (GPRS),15.68,12.26,74.88,54.32,2.6
 2023-12-03,Huaylipaya,,,,,8.9
+2023-12-03,Huayllamarca,,5.3,,,
 2023-12-03,Huayrocondo,16.5,6.6,,,5.2
 2023-12-03,Ibibobo,,,,,13.0
 2023-12-03,Incahuasi (GPRS),21.92,16.96,63.19,46.38,
@@ -74290,6 +74371,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-03,Rurrenabaque Aeropuerto,,24.2,,,
 2023-12-03,Río Seco Julian Apaza-D5,,,,,1.9
 2023-12-03,Sacabamba (GPRS),17.61,15.26,79.47,64.74,
+2023-12-03,Sacabaya,25.4,0.6,,,
 2023-12-03,Sacaca,21.2,1.5,,,
 2023-12-03,Sacacani_M (GPRS),,,,,0.1
 2023-12-03,Sachapera,,,,,3.1
@@ -74473,6 +74555,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-04,Guayaramerin_M (GPRS),,,,,6.6
 2023-12-04,Hichucota,11.0,2.0,,,
 2023-12-04,Huarisuyo (GPRS),19.62,15.24,54.89,41.32,
+2023-12-04,Huayllamarca,,5.4,,,
 2023-12-04,Huayrocondo,20.2,5.5,,,
 2023-12-04,Incapampa,,,,,24.1
 2023-12-04,Incapampa - Coroico_M (GPRS),,,,,1.9
@@ -74551,6 +74634,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-04,Rurrenabaque Aeropuerto,,22.7,,,
 2023-12-04,Río Seco Julian Apaza-D5,,,,,4.4
 2023-12-04,Sacabamba (GPRS),18.52,17.86,,,
+2023-12-04,Sacabaya,25.1,0.0,,,
 2023-12-04,Sacaca,20.6,2.7,,,
 2023-12-04,Sachapera,,,,,3.4
 2023-12-04,Samaipata,,,,,1.8
@@ -74748,6 +74832,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-05,Hichucota,,,,,2.0
 2023-12-05,Huancane Corapata_M (GPRS),,,,,0.5
 2023-12-05,Huarisuyo (GPRS),15.28,11.22,73.25,54.12,7.0
+2023-12-05,Huayllamarca,,4.2,,,
 2023-12-05,Huayrocondo,15.8,7.5,,,3.3
 2023-12-05,Incapampa,,,,,31.1
 2023-12-05,Incapampa - Coroico_M (GPRS),,,,,49.3
@@ -74824,6 +74909,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-05,Rurrenabaque Aeropuerto,,,,,67.8
 2023-12-05,Río Seco Julian Apaza-D5,,,,,8.1
 2023-12-05,Sacabamba (GPRS),18.53,17.75,57.82,55.25,
+2023-12-05,Sacabaya,24.0,1.0,,,
 2023-12-05,Sacaca,21.8,4.5,,,4.2
 2023-12-05,Sachapera,,,,,1.3
 2023-12-05,Salla,,,,,7.6
@@ -75007,6 +75093,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-06,Huancane Corapata_M (GPRS),,,,,0.1
 2023-12-06,Huarisuyo (GPRS),19.72,15.53,55.77,34.68,0.2
 2023-12-06,Huaylipaya,,,,,46.7
+2023-12-06,Huayllamarca,,5.0,,,
 2023-12-06,Huayrocondo,20.5,3.5,,,
 2023-12-06,Incapampa,,,,,19.2
 2023-12-06,Incapampa - Coroico_M (GPRS),,,,,0.2
@@ -75076,6 +75163,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-06,Rurrenabaque,33.0,22.0,93.2,51.8,
 2023-12-06,Rurrenabaque Aeropuerto,,,,,8.8
 2023-12-06,Río Seco Julian Apaza-D5,,,,,0.1
+2023-12-06,Sacabaya,24.5,2.1,,,
 2023-12-06,Sacaca,20.2,4.6,,,20.2
 2023-12-06,Salla,,,,,1.4
 2023-12-06,Samasa,25.0,5.4,,,
@@ -75250,6 +75338,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-07,Huancane Corapata_M (GPRS),,,,,5.2
 2023-12-07,Huarisuyo (GPRS),15.33,12.1,73.0,55.57,
 2023-12-07,Huaylipaya,,,,,16.9
+2023-12-07,Huayllamarca,,6.3,,,
 2023-12-07,Huayrocondo,16.6,4.5,,,
 2023-12-07,Incapampa,,,,,10.1
 2023-12-07,Incapampa - Coroico_M (GPRS),,,,,2.4
@@ -75318,6 +75407,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-07,Rurrenabaque,33.0,24.0,93.3,55.3,
 2023-12-07,Rurrenabaque Aeropuerto,,22.8,,,
 2023-12-07,Río Seco Julian Apaza-D5,,,,,10.6
+2023-12-07,Sacabaya,25.1,1.6,,,
 2023-12-07,Sacaca,21.2,2.8,,,4.5
 2023-12-07,Sachapera,,,,,1.7
 2023-12-07,Samasa,22.2,7.2,,,
@@ -75510,6 +75600,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-08,Huancane Corapata_M (GPRS),,,,,0.2
 2023-12-08,Huarisuyo (GPRS),13.23,11.55,79.0,66.85,0.3
 2023-12-08,Huaylipaya,,,,,11.7
+2023-12-08,Huayllamarca,,6.4,,,
 2023-12-08,Huayrocondo,17.0,3.5,,,1.5
 2023-12-08,Incapampa - Coroico_M (GPRS),,,,,19.1
 2023-12-08,Isla Del Sol,13.7,5.2,,,8.3
@@ -75585,6 +75676,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-08,Rurrenabaque,32.0,25.0,93.4,62.2,
 2023-12-08,Rurrenabaque Aeropuerto,,23.7,,,
 2023-12-08,Río Seco Julian Apaza-D5,,,,,0.6
+2023-12-08,Sacabaya,24.0,1.8,,,
 2023-12-08,Sacaca,20.6,4.2,,,2.1
 2023-12-08,Sachapera,,,,,5.9
 2023-12-08,Samaipata,,,,,1.5
@@ -75769,6 +75861,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-09,Hichucota,,,,,10.0
 2023-12-09,Huarisuyo (GPRS),16.73,15.52,51.04,47.12,1.3
 2023-12-09,Huaylipaya,,,,,62.7
+2023-12-09,Huayllamarca,,5.4,,,
 2023-12-09,Huayrocondo,18.5,3.2,,,2.6
 2023-12-09,Incapampa - Coroico_M (GPRS),,,,,1.9
 2023-12-09,Isla Del Sol,16.8,6.2,,,12.6
@@ -75827,6 +75920,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-09,Riberalta,32.0,25.0,87.9,62.2,
 2023-12-09,Riberalta Aeropuerto,,22.4,,,
 2023-12-09,Río Seco Julian Apaza-D5,,,,,0.1
+2023-12-09,Sacabaya,25.6,1.0,,,
 2023-12-09,Sacaca,23.1,2.7,,,
 2023-12-09,Salla,,,,,5.3
 2023-12-09,Samasa,22.6,6.0,,,
@@ -75990,6 +76084,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-10,Hichucota,,,,,6.0
 2023-12-10,Huarisuyo (GPRS),15.6,6.02,91.2,54.35,
 2023-12-10,Huaylipaya,,,,,22.4
+2023-12-10,Huayllamarca,,4.3,,,
 2023-12-10,Huayrocondo,16.4,7.0,,,
 2023-12-10,Incapampa,,,,,29.2
 2023-12-10,Isla Del Sol,15.4,4.6,,,14.6
@@ -76044,6 +76139,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-10,Riberalta Aeropuerto,,23.4,,,
 2023-12-10,Rurrenabaque Aeropuerto,34.7,,,,
 2023-12-10,Río Seco Julian Apaza-D5,,,,,7.1
+2023-12-10,Sacabaya,22.0,2.6,,,
 2023-12-10,Sacaca,20.6,1.6,,,10.2
 2023-12-10,Samasa,23.2,7.2,,,
 2023-12-10,San Andres,22.5,14.0,,,3.0
@@ -76226,6 +76322,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-11,Huancane Corapata_M (GPRS),,,,,11.2
 2023-12-11,Huarisuyo (GPRS),15.92,10.81,72.47,51.64,29.5
 2023-12-11,Huaylipaya,,,,,32.9
+2023-12-11,Huayllamarca,,3.5,,,
 2023-12-11,Huayrocondo,17.4,5.2,,,29.2
 2023-12-11,Incapampa,,,,,6.1
 2023-12-11,Incapampa - Coroico_M (GPRS),,,,,75.8
@@ -76300,6 +76397,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-11,Rurrenabaque,31.0,26.0,88.0,65.8,
 2023-12-11,Rurrenabaque Aeropuerto,,24.0,,,
 2023-12-11,Río Seco Julian Apaza-D5,,,,,22.5
+2023-12-11,Sacabaya,22.2,2.6,,,
 2023-12-11,Sacaca,21.2,4.7,,,
 2023-12-11,Sacacani_M (GPRS),,,,,11.9
 2023-12-11,Sachapera,,,,,13.2
@@ -76477,6 +76575,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-12,Huancane Corapata_M (GPRS),,,,,1.2
 2023-12-12,Huarisuyo (GPRS),15.92,10.06,83.3,56.12,1.4
 2023-12-12,Huaylipaya,,,,,27.5
+2023-12-12,Huayllamarca,,4.2,,,
 2023-12-12,Huayrocondo,16.3,7.2,,,3.4
 2023-12-12,Isla Del Sol,16.1,2.8,,,8.4
 2023-12-12,Isla Suriqui_M (GPRS),15.34,10.83,79.89,65.58,1.9
@@ -76708,6 +76807,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-13,Hichucota,14.0,3.0,,,
 2023-12-13,Huancane Corapata_M (GPRS),,,,,1.4
 2023-12-13,Huarisuyo (GPRS),17.09,13.33,65.03,46.0,0.5
+2023-12-13,Huayllamarca,,5.0,,,
 2023-12-13,Huayrocondo,18.4,5.5,,,1.1
 2023-12-13,Incapampa,,,,,18.1
 2023-12-13,Incapampa - Coroico_M (GPRS),,,,,1.4
@@ -76935,6 +77035,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-14,Hichucota,13.0,2.0,,,
 2023-12-14,Huancane Corapata_M (GPRS),,,,,0.1
 2023-12-14,Huarisuyo (GPRS),18.74,15.65,54.31,44.91,
+2023-12-14,Huayllamarca,,6.3,,,
 2023-12-14,Huayrocondo,19.5,6.2,,,
 2023-12-14,Incapampa,,,,,16.2
 2023-12-14,Incapampa - Coroico_M (GPRS),,,,,0.8
@@ -77203,6 +77304,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-15,Huancane Corapata_M (GPRS),,,,,19.0
 2023-12-15,Huarisuyo (GPRS),15.39,12.76,70.84,60.92,18.5
 2023-12-15,Huaylipaya,,,,,68.9
+2023-12-15,Huayllamarca,,6.0,,,
 2023-12-15,Huayrocondo,16.0,5.5,,,18.7
 2023-12-15,Incapampa,,,,,20.1
 2023-12-15,Incapampa - Coroico_M (GPRS),,,,,21.8
@@ -77281,6 +77383,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-15,Rurrenabaque,30.0,25.0,99.1,78.1,
 2023-12-15,Rurrenabaque Aeropuerto,,24.4,,,
 2023-12-15,Río Seco Julian Apaza-D5,,,,,11.8
+2023-12-15,Sacabaya,24.0,1.8,,,
 2023-12-15,Sacaca,21.6,3.1,,,2.6
 2023-12-15,Sacacani_M (GPRS),,,,,2.8
 2023-12-15,Sachapera,,,,,26.1
@@ -77466,6 +77569,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-16,Hichucota,,,,,2.0
 2023-12-16,Huarisuyo (GPRS),17.22,14.65,64.72,53.96,
 2023-12-16,Huaylipaya,,,,,8.7
+2023-12-16,Huayllamarca,,5.4,,,
 2023-12-16,Huayrocondo,17.5,6.5,,,
 2023-12-16,Incapampa,,,,,11.2
 2023-12-16,Incapampa - Coroico_M (GPRS),,,,,3.4
@@ -77520,6 +77624,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-16,Riberalta,35.0,26.0,93.4,52.5,
 2023-12-16,Riberalta Aeropuerto,,24.6,,,
 2023-12-16,Río Seco Julian Apaza-D5,,,,,10.3
+2023-12-16,Sacabaya,23.0,3.0,,,
 2023-12-16,Sacaca,22.5,4.2,,,1.5
 2023-12-16,Sacacani_M (GPRS),,,,,1.6
 2023-12-16,Samasa,22.4,8.2,,,
@@ -77685,6 +77790,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-17,Hichucota,,,,,27.0
 2023-12-17,Huancane Corapata_M (GPRS),,,,,11.2
 2023-12-17,Huarisuyo (GPRS),17.47,14.53,64.55,41.32,9.9
+2023-12-17,Huayllamarca,,6.5,,,
 2023-12-17,Huayrocondo,17.8,3.1,,,17.0
 2023-12-17,Incapampa,,,,,17.1
 2023-12-17,Incapampa - Coroico_M (GPRS),,,,,22.0
@@ -77745,6 +77851,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-17,Riberalta_H (GPRS),,,,,0.69
 2023-12-17,Rurrenabaque Aeropuerto,33.8,,,,
 2023-12-17,Río Seco Julian Apaza-D5,,,,,1.9
+2023-12-17,Sacabaya,25.2,2.6,,,
 2023-12-17,Sacaca,20.2,2.6,,,1.5
 2023-12-17,Sacacani_M (GPRS),,,,,5.9
 2023-12-17,Salla,,,,,0.6
@@ -77911,6 +78018,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-18,Huancane Corapata_M (GPRS),,,,,0.3
 2023-12-18,Huarisuyo (GPRS),17.03,10.92,83.3,51.38,
 2023-12-18,Huaylipaya,,,,,29.7
+2023-12-18,Huayllamarca,,6.0,,,
 2023-12-18,Huayrocondo,16.5,7.0,,,
 2023-12-18,Ibibobo,,,,,18.0
 2023-12-18,Isla Del Sol,17.3,4.6,,,
@@ -77973,6 +78081,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-18,Rurrenabaque,35.0,25.0,87.9,46.3,
 2023-12-18,Rurrenabaque Aeropuerto,,24.4,,,
 2023-12-18,Río Seco Julian Apaza-D5,,,,,5.1
+2023-12-18,Sacabaya,24.0,6.0,,,
 2023-12-18,Sacaca,20.7,3.8,,,
 2023-12-18,Samasa,23.0,6.0,,,
 2023-12-18,San Andres,26.0,18.0,,,
@@ -78150,6 +78259,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-19,Guajara-Mirim - Guayaramerín,,25.2,,,
 2023-12-19,Hichucota,14.0,2.0,,,
 2023-12-19,Huarisuyo (GPRS),17.05,12.92,59.67,42.75,
+2023-12-19,Huayllamarca,,4.1,,,
 2023-12-19,Huayrocondo,18.5,6.5,,,
 2023-12-19,Ibibobo,,,,,11.0
 2023-12-19,Incapampa - Coroico_M (GPRS),,,,,11.4
@@ -78220,6 +78330,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-19,Rurrenabaque,33.0,27.0,82.9,58.7,
 2023-12-19,Rurrenabaque Aeropuerto,34.5,,,,
 2023-12-19,Río Seco Julian Apaza-D5,,,,,8.1
+2023-12-19,Sacabaya,23.0,2.0,,,
 2023-12-19,Sacaca,23.2,4.2,,,
 2023-12-19,Sacacani_M (GPRS),,,,,1.7
 2023-12-19,Sachapera,,,,,4.8
@@ -78415,6 +78526,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-20,Hichucota,,,,,13.0
 2023-12-20,Huancane Corapata_M (GPRS),,,,,25.9
 2023-12-20,Huarisuyo (GPRS),17.93,14.27,70.73,42.93,2.6
+2023-12-20,Huayllamarca,,4.0,,,
 2023-12-20,Huayrocondo,18.6,5.5,,,2.8
 2023-12-20,Incapampa,,,,,39.2
 2023-12-20,Incapampa - Coroico_M (GPRS),,,,,5.3
@@ -78485,6 +78597,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-20,Rurrenabaque,26.0,24.0,99.1,82.8,
 2023-12-20,Rurrenabaque Aeropuerto,,,,,0.4
 2023-12-20,Río Seco Julian Apaza-D5,,,,,0.1
+2023-12-20,Sacabaya,25.6,-1.6,,,
 2023-12-20,Sacaca,28.2,1.2,,,
 2023-12-20,Sacacani_M (GPRS),,,,,2.3
 2023-12-20,Salla,,,,,0.4
@@ -78660,6 +78773,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-21,Hichucota,15.0,2.0,,,
 2023-12-21,Huarisuyo (GPRS),19.12,12.26,71.26,42.52,
 2023-12-21,Huaylipaya,,,,,47.9
+2023-12-21,Huayllamarca,,5.0,,,
 2023-12-21,Huayrocondo,18.8,5.8,,,
 2023-12-21,Incapampa,,,,,8.2
 2023-12-21,Incapampa - Coroico_M (GPRS),,,,,2.4
@@ -78726,6 +78840,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-21,Roboré Aeropuerto,,25.1,,,
 2023-12-21,Rurrenabaque,35.0,27.0,82.9,52.5,
 2023-12-21,Rurrenabaque Aeropuerto,,,,,62.4
+2023-12-21,Sacabaya,24.9,3.4,,,
 2023-12-21,Sacaca,26.3,2.7,,,2.8
 2023-12-21,Sachapera,,,,,13.3
 2023-12-21,Samaipata,,,,,0.7
@@ -78902,6 +79017,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-22,Hichucota,12.0,1.0,,,
 2023-12-22,Huarisuyo (GPRS),18.27,12.66,75.19,45.32,3.1
 2023-12-22,Huaylipaya,,,,,19.2
+2023-12-22,Huayllamarca,,5.2,,,
 2023-12-22,Huayrocondo,18.0,2.8,,,4.3
 2023-12-22,Incapampa - Coroico_M (GPRS),,,,,8.4
 2023-12-22,Isla Del Sol,16.4,6.7,,,
@@ -78970,6 +79086,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-22,Rurrenabaque,34.0,26.0,93.4,55.6,
 2023-12-22,Rurrenabaque Aeropuerto,,24.6,,,
 2023-12-22,Sacabamba (GPRS),20.49,18.36,60.47,51.42,
+2023-12-22,Sacabaya,25.8,2.6,,,
 2023-12-22,Sacaca,20.2,2.6,,,4.1
 2023-12-22,Sacacani_M (GPRS),,,,,0.2
 2023-12-22,Samasa,21.0,6.4,,,
@@ -79132,6 +79249,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-23,Hichucota,,,,,22.0
 2023-12-23,Huarisuyo (GPRS),19.96,16.35,51.43,34.07,2.2
 2023-12-23,Huaylipaya,,,,,17.9
+2023-12-23,Huayllamarca,,5.3,,,
 2023-12-23,Huayrocondo,20.5,4.5,,,2.0
 2023-12-23,Isla Del Sol,18.6,4.6,,,
 2023-12-23,Isla Suriqui_M (GPRS),19.1,16.13,52.81,33.15,
@@ -79179,6 +79297,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-23,Riberalta,30.0,26.0,99.1,74.0,
 2023-12-23,Riberalta Aeropuerto,,24.4,,,
 2023-12-23,Riberalta_H (GPRS),,,,,0.19
+2023-12-23,Sacabaya,25.6,1.6,,,
 2023-12-23,Sacaca,21.6,3.7,,,10.2
 2023-12-23,Samaipata,,,,,0.5
 2023-12-23,Samasa,23.2,8.2,,,
@@ -79326,6 +79445,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-24,Guayaramerin_M (GPRS),,,,,0.4
 2023-12-24,Hichucota,15.0,2.0,,,
 2023-12-24,Huarisuyo (GPRS),20.82,11.76,74.81,33.61,0.1
+2023-12-24,Huayllamarca,,6.0,,,
 2023-12-24,Huayrocondo,20.7,2.3,,,
 2023-12-24,Isla Del Sol,17.6,5.2,,,
 2023-12-24,Isla Suriqui_M (GPRS),18.62,16.39,50.21,37.96,
@@ -79375,6 +79495,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-24,Riberalta Aeropuerto,,,,,4.3
 2023-12-24,Riberalta_H (GPRS),,,,,0.23
 2023-12-24,Rurrenabaque Aeropuerto,34.1,,,,
+2023-12-24,Sacabaya,24.9,1.8,,,
 2023-12-24,Sacaca,22.2,2.6,,,20.5
 2023-12-24,Samasa,24.0,6.2,,,
 2023-12-24,San Andres,36.0,26.0,,,4.5
@@ -79523,6 +79644,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-25,Guayaramerin_M (GPRS),,,,,0.5
 2023-12-25,Hichucota,16.0,0.0,,,
 2023-12-25,Huarisuyo (GPRS),18.87,15.73,53.52,33.24,5.3
+2023-12-25,Huayllamarca,,6.3,,,
 2023-12-25,Huayrocondo,19.9,1.0,,,8.1
 2023-12-25,Ibibobo,,,,,6.3
 2023-12-25,Incapampa,,,,,16.2
@@ -79576,6 +79698,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-25,Riberalta_H (GPRS),,,,,3.13
 2023-12-25,Rurrenabaque,28.0,26.0,93.4,83.0,
 2023-12-25,Rurrenabaque Aeropuerto,,25.5,,,
+2023-12-25,Sacabaya,26.0,2.4,,,
 2023-12-25,Sacaca,20.6,4.3,,,8.4
 2023-12-25,Samasa,23.2,7.2,,,
 2023-12-25,San Andres,32.0,21.0,,,3.3
@@ -79750,6 +79873,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-26,Hichucota,12.0,2.0,,,
 2023-12-26,Huarisuyo (GPRS),14.03,11.34,63.34,51.4,
 2023-12-26,Huaylipaya,,,,,36.9
+2023-12-26,Huayllamarca,,6.2,,,
 2023-12-26,Huayrocondo,19.7,1.5,,,
 2023-12-26,Incapampa - Coroico_M (GPRS),,,,,26.9
 2023-12-26,Isla Del Sol,18.5,5.6,,,
@@ -79826,6 +79950,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-26,Rosario del Ingre,,,,,26.0
 2023-12-26,Rurrenabaque,30.0,24.0,88.0,61.5,
 2023-12-26,Rurrenabaque Aeropuerto,,25.6,,,
+2023-12-26,Sacabaya,22.0,8.0,,,
 2023-12-26,Sacaca,20.2,4.6,,,4.1
 2023-12-26,Sachapera,,,,,45.8
 2023-12-26,Salo_M (GPRS),,,,,22.0
@@ -80006,6 +80131,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-27,Hichucota,13.0,0.0,,,
 2023-12-27,Huarisuyo (GPRS),17.31,12.56,63.56,45.3,
 2023-12-27,Huaylipaya,,,,,26.7
+2023-12-27,Huayllamarca,,6.5,,,
 2023-12-27,Huayrocondo,16.0,1.4,,,
 2023-12-27,Isla Del Sol,16.7,3.8,,,
 2023-12-27,Isla Suriqui_M (GPRS),16.66,14.04,57.89,45.32,
@@ -80242,6 +80368,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-28,Huancane Corapata_M (GPRS),,,,,3.2
 2023-12-28,Huarisuyo (GPRS),17.79,15.67,85.2,45.07,
 2023-12-28,Huaylipaya,,,,,28.5
+2023-12-28,Huayllamarca,,5.2,,,
 2023-12-28,Huayrocondo,15.8,4.5,,,
 2023-12-28,Ibibobo,,,,,33.0
 2023-12-28,Incapampa,,,,,6.1
@@ -80487,6 +80614,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-29,Hichucota,15.0,2.0,,,
 2023-12-29,Huarisuyo (GPRS),18.0,12.64,68.76,48.09,9.1
 2023-12-29,Huaylipaya,,,,,9.7
+2023-12-29,Huayllamarca,,5.0,,,
 2023-12-29,Huayrocondo,18.6,6.5,,,9.0
 2023-12-29,Ibibobo,,,,,2.5
 2023-12-29,Incapampa,,,,,19.1
@@ -80750,6 +80878,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-30,Guayaramerin_M (GPRS),,,,,5.8
 2023-12-30,Hichucota,15.0,1.0,,,
 2023-12-30,Huarisuyo (GPRS),14.51,12.43,68.98,50.91,
+2023-12-30,Huayllamarca,,4.3,,,
 2023-12-30,Huayrocondo,16.8,4.8,,,
 2023-12-30,Incapampa,,,,,16.2
 2023-12-30,Incapampa - Coroico_M (GPRS),,,,,15.4
@@ -81007,6 +81136,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-31,Hichucota,14.0,2.0,,,
 2023-12-31,Huancane Corapata_M (GPRS),,,,,2.9
 2023-12-31,Huarisuyo (GPRS),18.34,12.06,69.88,44.36,0.6
+2023-12-31,Huayllamarca,,5.0,,,
 2023-12-31,Huayrocondo,18.5,6.8,,,0.9
 2023-12-31,Incapampa - Coroico_M (GPRS),,,,,3.4
 2023-12-31,Isla Del Sol,14.8,6.2,,,5.7
@@ -81070,6 +81200,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-31,Riberalta_H (GPRS),,,,,0.12
 2023-12-31,Rurrenabaque,28.0,26.0,88.0,78.2,
 2023-12-31,Río Seco Julian Apaza-D5,,,,,6.8
+2023-12-31,Sacabaya,24.1,2.0,,,
 2023-12-31,Sacaca,20.3,1.2,,,4.2
 2023-12-31,Sacacani_M (GPRS),,,,,0.8
 2023-12-31,Salla,,,,,3.1
