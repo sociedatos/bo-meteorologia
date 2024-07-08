@@ -47750,6 +47750,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-01,Tiahuanaco_M (GPRS),14.41,-11.06,78.61,14.77,
 2023-08-01,Tinguipaya,22.3,1.2,,,
 2023-08-01,Tiraque,24.0,4.0,,,
+2023-08-01,Todos Santos_Or,14.0,-4.0,,,
 2023-08-01,Toledo (GPRS),16.95,-12.46,40.47,3.15,
 2023-08-01,Toma Ravelo_H (GPRS),20.71,-4.43,70.28,7.86,
 2023-08-01,Tomave,18.0,-8.5,,,
@@ -47966,6 +47967,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-02,Tiahuanaco_M (GPRS),15.13,-9.04,70.4,14.97,
 2023-08-02,Tinguipaya,20.2,-1.3,,,
 2023-08-02,Tiraque,25.0,2.0,,,
+2023-08-02,Todos Santos_Or,16.5,-3.0,,,
 2023-08-02,Toledo (GPRS),16.99,-13.94,38.73,3.38,
 2023-08-02,Toma Ravelo_H (GPRS),21.87,-5.28,60.68,3.01,
 2023-08-02,Tomave,18.2,-10.0,,,
@@ -48182,6 +48184,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-03,Tiahuanaco_M (GPRS),16.31,-6.36,80.5,10.61,
 2023-08-03,Tinguipaya,22.3,2.3,,,
 2023-08-03,Tiraque,23.0,3.0,,,
+2023-08-03,Todos Santos_Or,15.5,-5.5,,,
 2023-08-03,Toledo (GPRS),17.41,-9.06,44.75,1.9,
 2023-08-03,Toma Ravelo_H (GPRS),20.46,-3.09,72.35,3.93,
 2023-08-03,Tomave,17.5,-9.5,,,
@@ -48398,6 +48401,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-04,Tiahuanaco_M (GPRS),15.97,-5.97,80.3,16.34,
 2023-08-04,Tinguipaya,22.1,-2.1,,,
 2023-08-04,Tiraque,26.0,4.0,,,
+2023-08-04,Todos Santos_Or,14.0,-7.5,,,
 2023-08-04,Toledo (GPRS),16.26,-8.63,64.42,7.46,
 2023-08-04,Toma Ravelo_H (GPRS),19.28,-0.92,71.05,12.65,
 2023-08-04,Tomave,18.0,-9.6,,,
@@ -48595,6 +48599,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-05,Tiahuanaco_M (GPRS),15.2,-4.53,91.5,13.86,
 2023-08-05,Tinguipaya,18.4,-2.3,,,
 2023-08-05,Tiraque,25.0,2.0,,,
+2023-08-05,Todos Santos_Or,16.0,-4.5,,,
 2023-08-05,Toledo (GPRS),16.93,-6.66,78.79,8.26,
 2023-08-05,Toma Ravelo_H (GPRS),17.21,-0.92,78.25,19.36,
 2023-08-05,Tomave,17.0,-6.6,,,
@@ -48788,6 +48793,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-06,Tiahuanaco_M (GPRS),15.71,-5.77,62.93,19.08,
 2023-08-06,Tinguipaya,21.3,-1.2,,,
 2023-08-06,Tiraque,26.0,3.0,,,
+2023-08-06,Todos Santos_Or,17.0,-4.0,,,
 2023-08-06,Toledo (GPRS),16.48,-7.37,67.21,12.84,
 2023-08-06,Toma Ravelo_H (GPRS),21.75,-0.57,68.42,8.85,
 2023-08-06,Tomave,18.0,-5.5,,,
@@ -48994,6 +49000,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-07,Tiahuanaco_M (GPRS),15.78,-4.4,92.9,20.13,
 2023-08-07,Tinguipaya,22.3,2.3,,,
 2023-08-07,Tiraque,23.0,2.0,,,
+2023-08-07,Todos Santos_Or,14.5,-2.5,,,
 2023-08-07,Toledo (GPRS),16.44,-6.44,78.59,11.74,
 2023-08-07,Toma Ravelo_H (GPRS),17.67,6.08,89.8,27.0,
 2023-08-07,Tomave,14.0,1.5,,,
@@ -49227,6 +49234,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-08,Tiahuanaco_M (GPRS),15.92,-6.88,74.0,21.63,
 2023-08-08,Tinguipaya,21.2,4.1,,,
 2023-08-08,Tiraque,24.0,3.0,,,
+2023-08-08,Todos Santos_Or,15.5,-3.5,,,
 2023-08-08,Toledo (GPRS),18.57,-8.14,66.59,10.6,
 2023-08-08,Toma Ravelo_H (GPRS),19.42,1.09,93.2,31.18,
 2023-08-08,Tomave,13.8,-0.5,,,
@@ -49452,6 +49460,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-09,Tiahuanaco_M (GPRS),15.78,-7.53,87.8,19.61,
 2023-08-09,Tinguipaya,21.0,4.5,,,
 2023-08-09,Tiraque,23.0,3.0,,,
+2023-08-09,Todos Santos_Or,14.0,-4.0,,,
 2023-08-09,Toledo (GPRS),16.93,-8.92,58.35,13.68,
 2023-08-09,Toma Ravelo_H (GPRS),21.78,1.95,88.1,9.75,
 2023-08-09,Tomave,14.0,-3.0,,,
@@ -49670,6 +49679,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-10,Tiahuanaco_M (GPRS),16.5,-9.82,70.53,11.2,
 2023-08-10,Tinguipaya,21.4,5.1,,,
 2023-08-10,Tiraque,25.0,4.0,,,
+2023-08-10,Todos Santos_Or,16.5,-2.5,,,
 2023-08-10,Toledo (GPRS),16.08,-10.52,42.56,5.19,
 2023-08-10,Toma Ravelo_H (GPRS),22.59,-0.38,77.58,5.39,
 2023-08-10,Tomave,13.2,-2.5,,,
@@ -49890,6 +49900,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-11,Tiahuanaco_M (GPRS),15.98,-0.22,75.84,15.11,
 2023-08-11,Tinguipaya,20.1,4.2,,,
 2023-08-11,Tiraque,26.0,4.0,,,
+2023-08-11,Todos Santos_Or,14.5,-1.0,,,
 2023-08-11,Toledo (GPRS),18.39,-3.12,76.89,4.76,
 2023-08-11,Toma Ravelo_H (GPRS),21.61,7.48,92.4,6.51,
 2023-08-11,Tomave,14.0,-8.5,,,
@@ -50099,6 +50110,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-12,Tiahuanaco_M (GPRS),13.11,0.31,96.1,26.37,
 2023-08-12,Tinguipaya,21.0,5.1,,,
 2023-08-12,Tiraque,20.0,1.0,,,
+2023-08-12,Todos Santos_Or,15.5,-5.0,,,
 2023-08-12,Toledo (GPRS),14.64,0.13,80.2,23.92,
 2023-08-12,Toma Ravelo_H (GPRS),13.78,6.3,91.2,45.94,1.1
 2023-08-12,Toma Ravelo_M (GPRS),,,,,1.1
@@ -50331,6 +50343,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-13,Tiahuanaco_M (GPRS),12.59,-5.97,94.6,28.45,0.4
 2023-08-13,Tinguipaya,20.3,5.2,,,
 2023-08-13,Tiraque,18.0,3.0,,,12.0
+2023-08-13,Todos Santos_Or,16.0,-6.5,,,
 2023-08-13,Toledo (GPRS),12.06,-7.86,91.1,30.06,0.2
 2023-08-13,Toma Ravelo_H (GPRS),12.53,0.45,96.0,58.1,1.4
 2023-08-13,Toma Ravelo_M (GPRS),,,,,1.4
@@ -50538,6 +50551,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-14,Tiahuanaco_M (GPRS),13.89,-7.4,95.0,21.41,
 2023-08-14,Tinguipaya,21.3,5.2,,,
 2023-08-14,Tiraque,20.0,2.0,,,
+2023-08-14,Todos Santos_Or,17.5,-4.5,,,
 2023-08-14,Toledo (GPRS),15.5,-8.08,80.4,8.88,
 2023-08-14,Toma Ravelo_H (GPRS),18.4,-0.54,95.0,24.39,
 2023-08-14,Tomave,14.4,-5.0,,,
@@ -50733,6 +50747,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-15,Tiahuanaco_M (GPRS),14.74,-8.12,85.3,20.84,
 2023-08-15,Tinguipaya,20.0,3.4,,,
 2023-08-15,Tiraque,22.0,3.0,,,
+2023-08-15,Todos Santos_Or,15.5,-2.5,,,
 2023-08-15,Toledo (GPRS),16.19,-8.63,69.46,10.76,
 2023-08-15,Tomave,15.6,-2.5,,,
 2023-08-15,Trancas,31.0,6.0,,,
@@ -50924,6 +50939,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-16,Tiahuanaco_M (GPRS),17.15,-7.4,79.29,14.08,
 2023-08-16,Tinguipaya,23.1,2.3,,,
 2023-08-16,Tiraque,25.0,2.0,,,
+2023-08-16,Todos Santos_Or,15.0,-3.0,,,
 2023-08-16,Toledo (GPRS),18.06,-10.48,37.63,4.68,
 2023-08-16,Tomave,17.6,-1.0,,,
 2023-08-16,Trancas,35.0,11.0,,,
@@ -51116,6 +51132,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-17,Tiahuanaco_M (GPRS),18.14,-11.64,66.4,10.24,
 2023-08-17,Tinguipaya,22.2,2.0,,,
 2023-08-17,Tiraque,26.0,3.0,,,
+2023-08-17,Todos Santos_Or,16.5,-3.5,,,
 2023-08-17,Toledo (GPRS),18.17,-10.14,25.94,1.84,
 2023-08-17,Tomave,16.2,0.5,,,
 2023-08-17,Trancas,35.0,9.0,,,
@@ -51307,6 +51324,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-18,Tiahuanaco_M (GPRS),17.42,-15.17,43.27,5.63,
 2023-08-18,Tinguipaya,20.0,2.2,,,
 2023-08-18,Tiraque,26.0,5.0,,,
+2023-08-18,Todos Santos_Or,14.0,-2.5,,,
 2023-08-18,Toledo (GPRS),18.67,-13.41,29.51,1.56,
 2023-08-18,Tomave,13.0,1.0,,,
 2023-08-18,Trancas,29.0,8.0,,,
@@ -51486,6 +51504,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-19,Tiahuanaco_M (GPRS),15.98,-12.83,53.92,5.6,
 2023-08-19,Tinguipaya,21.9,2.1,,,
 2023-08-19,Tiraque,25.0,1.0,,,
+2023-08-19,Todos Santos_Or,16.0,-1.0,,,
 2023-08-19,Toledo (GPRS),17.39,-11.21,28.82,2.95,
 2023-08-19,Tomave,12.6,-4.5,,,
 2023-08-19,Trancas,31.0,13.0,,,
@@ -51668,6 +51687,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-20,Tiahuanaco_M (GPRS),17.68,-12.17,43.79,3.18,
 2023-08-20,Tinguipaya,21.6,2.2,,,
 2023-08-20,Tiraque,23.0,4.0,,,
+2023-08-20,Todos Santos_Or,15.5,-6.0,,,
 2023-08-20,Toledo (GPRS),16.59,-13.35,23.78,1.3,
 2023-08-20,Tomave,13.6,-1.5,,,
 2023-08-20,Trancas,34.0,7.0,,,
@@ -51859,6 +51879,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-21,Tiahuanaco_M (GPRS),16.83,-11.06,53.68,5.89,
 2023-08-21,Tinguipaya,21.4,1.3,,,
 2023-08-21,Tiraque,26.0,2.0,,,
+2023-08-21,Todos Santos_Or,17.0,-3.0,,,
 2023-08-21,Toledo (GPRS),16.38,-12.01,16.88,1.59,
 2023-08-21,Tomave,14.6,-6.5,,,
 2023-08-21,Trancas,35.0,6.0,,,
@@ -52051,6 +52072,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-22,Tiahuanaco_M (GPRS),17.03,-9.56,52.71,5.45,
 2023-08-22,Tinguipaya,22.3,2.3,,,
 2023-08-22,Tiraque,25.0,4.0,,,
+2023-08-22,Todos Santos_Or,16.5,-4.0,,,
 2023-08-22,Toledo (GPRS),16.32,-14.44,24.12,1.35,
 2023-08-22,Tomave,18.0,-8.0,,,
 2023-08-22,Trancas,35.0,8.0,,,
@@ -52242,6 +52264,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-23,Tiahuanaco_M (GPRS),17.74,-8.3,54.05,7.62,
 2023-08-23,Tinguipaya,23.0,2.1,,,
 2023-08-23,Tiraque,27.0,5.0,,,
+2023-08-23,Todos Santos_Or,17.5,-2.0,,,
 2023-08-23,Toledo (GPRS),17.24,-10.39,16.71,2.44,
 2023-08-23,Tomave,17.5,-9.5,,,
 2023-08-23,Trancas,35.0,12.0,,,
@@ -52434,6 +52457,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-24,Tiahuanaco_M (GPRS),18.27,-8.25,53.05,6.45,
 2023-08-24,Tinguipaya,21.6,1.2,,,
 2023-08-24,Tiraque,26.0,4.0,,,
+2023-08-24,Todos Santos_Or,18.5,-4.5,,,
 2023-08-24,Toledo (GPRS),18.71,-8.54,19.77,3.7,
 2023-08-24,Tomave,14.5,-2.0,,,
 2023-08-24,Trancas,36.0,4.0,,,
@@ -52622,6 +52646,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-25,Tiahuanaco_M (GPRS),16.9,-7.99,62.28,10.16,
 2023-08-25,Tinguipaya,22.0,-1.3,,,
 2023-08-25,Tiraque,27.0,4.0,,,
+2023-08-25,Todos Santos_Or,15.0,-0.5,,,
 2023-08-25,Toledo (GPRS),16.73,-11.96,25.13,1.8,
 2023-08-25,Tomave,14.0,-1.6,,,
 2023-08-25,Trancas,28.0,6.0,,,
@@ -52799,6 +52824,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-26,Tiahuanaco_M (GPRS),17.15,-10.03,83.0,14.54,
 2023-08-26,Tinguipaya,23.2,-1.2,,,
 2023-08-26,Tiraque,25.0,3.0,,,
+2023-08-26,Todos Santos_Or,16.5,-2.0,,,
 2023-08-26,Toledo (GPRS),18.74,-8.34,38.22,3.78,
 2023-08-26,Tomave,13.0,2.0,,,
 2023-08-26,Trancas,19.0,5.0,,,
@@ -52986,6 +53012,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-27,Tiahuanaco_M (GPRS),17.75,-7.07,68.53,9.19,
 2023-08-27,Tinguipaya,22.2,-1.4,,,
 2023-08-27,Tiraque,26.0,5.0,,,
+2023-08-27,Todos Santos_Or,17.0,-1.0,,,
 2023-08-27,Toledo (GPRS),16.13,-9.85,30.71,5.84,
 2023-08-27,Tomave,16.0,-0.5,,,
 2023-08-27,Trancas,20.0,1.0,,,
@@ -53173,6 +53200,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-28,Tiahuanaco_M (GPRS),18.76,-7.86,59.18,8.08,
 2023-08-28,Tinguipaya,23.0,-1.6,,,
 2023-08-28,Tiraque,27.0,5.0,,,
+2023-08-28,Todos Santos_Or,19.0,-4.5,,,
 2023-08-28,Toledo (GPRS),20.16,-7.94,38.16,4.2,
 2023-08-28,Tomave,14.0,-0.5,,,
 2023-08-28,Trancas,32.0,2.0,,,
@@ -53363,6 +53391,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-29,Tiahuanaco_M (GPRS),19.38,15.07,81.6,7.83,
 2023-08-29,Tinguipaya,22.4,1.2,,,
 2023-08-29,Tiraque,25.0,4.0,,,
+2023-08-29,Todos Santos_Or,17.5,-5.6,,,
 2023-08-29,Toledo (GPRS),19.33,-6.97,35.64,5.6,
 2023-08-29,Tomave,15.5,1.0,,,
 2023-08-29,Trancas,28.0,7.0,,,
@@ -53552,6 +53581,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-30,Tiahuanaco_M (GPRS),18.46,-5.67,72.73,14.01,
 2023-08-30,Tinguipaya,22.6,2.3,,,
 2023-08-30,Tiraque,26.0,6.0,,,
+2023-08-30,Todos Santos_Or,18.0,-3.0,,,
 2023-08-30,Toledo (GPRS),19.35,-8.61,61.27,7.03,
 2023-08-30,Tomave,18.1,1.5,,,
 2023-08-30,Trancas,33.0,5.0,,,
@@ -53741,6 +53771,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-08-31,Tiahuanaco_M (GPRS),17.81,2.39,89.2,19.8,
 2023-08-31,Tinguipaya,22.5,2.2,,,
 2023-08-31,Tiraque,27.0,6.0,,,
+2023-08-31,Todos Santos_Or,16.0,-5.0,,,
 2023-08-31,Toledo (GPRS),18.96,1.04,83.2,9.2,
 2023-08-31,Tomave,18.5,-5.5,,,
 2023-08-31,Trancas,28.0,7.0,,,
@@ -54123,6 +54154,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-02,Tiahuanaco_M (GPRS),17.09,2.92,82.9,21.39,
 2023-09-02,Tinguipaya,22.3,5.3,,,
 2023-09-02,Tiraque,20.0,7.0,,,
+2023-09-02,Todos Santos_Or,13.0,-4.0,,,
 2023-09-02,Toledo (GPRS),20.66,-5.81,41.57,2.98,
 2023-09-02,Tomave,14.0,-1.0,,,
 2023-09-02,Trancas,34.0,15.0,,,
@@ -54322,6 +54354,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-03,Tiahuanaco_M (GPRS),16.7,-10.47,71.18,25.56,
 2023-09-03,Tinguipaya,22.1,5.2,,,
 2023-09-03,Tiraque,18.0,8.0,,,
+2023-09-03,Todos Santos_Or,15.0,-3.0,,,
 2023-09-03,Toledo (GPRS),19.55,-11.33,42.94,7.34,
 2023-09-03,Tomave,13.9,-3.1,,,
 2023-09-03,Trancas,34.0,10.0,,,
@@ -54521,6 +54554,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-04,Tiahuanaco_M (GPRS),17.16,-2.89,92.0,8.14,
 2023-09-04,Tinguipaya,21.4,4.2,,,
 2023-09-04,Tiraque,21.0,5.0,,,
+2023-09-04,Todos Santos_Or,16.0,-2.0,,,
 2023-09-04,Toledo (GPRS),18.25,-5.36,67.36,3.13,
 2023-09-04,Tomave,13.7,-4.5,,,
 2023-09-04,Trancas,29.0,12.0,,,
@@ -54713,6 +54747,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-05,Tiahuanaco_M (GPRS),16.31,2.85,90.4,23.85,
 2023-09-05,Tinguipaya,24.2,2.3,,,
 2023-09-05,Tiraque,26.0,6.0,,,
+2023-09-05,Todos Santos_Or,15.5,-1.0,,,
 2023-09-05,Toledo (GPRS),18.62,1.4,75.24,9.41,
 2023-09-05,Tomave,14.6,-3.5,,,
 2023-09-05,Trancas,28.0,8.0,,,
@@ -54917,6 +54952,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-06,Tiahuanaco_M (GPRS),15.92,3.77,88.7,31.48,
 2023-09-06,Tinguipaya,25.1,5.2,,,
 2023-09-06,Tiraque,22.0,4.0,,,
+2023-09-06,Todos Santos_Or,14.5,-4.0,,,
 2023-09-06,Toledo (GPRS),17.9,-0.89,77.13,19.91,
 2023-09-06,Tomave,14.5,-5.0,,,
 2023-09-06,Trancas,36.0,6.0,,,
@@ -55119,6 +55155,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-07,Tiahuanaco_M (GPRS),14.93,-5.38,92.2,16.92,0.5
 2023-09-07,Tinguipaya,24.3,4.3,,,
 2023-09-07,Tiraque,25.0,6.0,,,
+2023-09-07,Todos Santos_Or,16.0,-3.0,,,
 2023-09-07,Toledo (GPRS),18.41,-8.49,63.18,3.33,
 2023-09-07,Tomave,13.8,-0.5,,,
 2023-09-07,Trancas,30.0,12.0,,,
@@ -55308,6 +55345,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-08,Tiahuanaco_M (GPRS),16.37,13.23,28.07,6.95,
 2023-09-08,Tinguipaya,22.2,5.1,,,
 2023-09-08,Tiraque,27.0,7.0,,,
+2023-09-08,Todos Santos_Or,13.5,-3.5,,,
 2023-09-08,Toledo (GPRS),17.95,-9.81,41.34,1.54,
 2023-09-08,Tomave,14.4,-4.5,,,
 2023-09-08,Trancas,33.0,9.0,,,
@@ -55482,6 +55520,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-09,Tiahuanaco_M (GPRS),16.7,-4.9,91.0,7.5,
 2023-09-09,Tinguipaya,24.3,4.3,,,
 2023-09-09,Tiraque,25.0,4.0,,,
+2023-09-09,Todos Santos_Or,15.0,-4.5,,,
 2023-09-09,Toledo (GPRS),17.41,-10.46,41.03,3.17,
 2023-09-09,Tomave,16.8,-2.0,,,
 2023-09-09,Trancas,32.0,7.0,,,
@@ -55661,6 +55700,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-10,Tiahuanaco_M (GPRS),18.86,-5.38,72.86,9.75,
 2023-09-10,Tinguipaya,25.4,5.3,,,
 2023-09-10,Tiraque,26.0,6.0,,,
+2023-09-10,Todos Santos_Or,14.0,-2.0,,,
 2023-09-10,Toledo (GPRS),19.76,-3.51,72.82,7.07,
 2023-09-10,Tomave,18.5,-7.0,,,
 2023-09-10,Trancas,36.0,8.0,,,
@@ -55846,6 +55886,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-11,Tiahuanaco_M (GPRS),18.67,-3.16,87.9,12.44,
 2023-09-11,Tinguipaya,24.3,6.2,,,
 2023-09-11,Tiraque,27.0,6.0,,,
+2023-09-11,Todos Santos_Or,15.5,-3.0,,,
 2023-09-11,Toledo (GPRS),19.96,-3.43,56.15,5.72,
 2023-09-11,Tomave,16.0,3.0,,,
 2023-09-11,Trancas,36.0,16.0,,,
@@ -56041,6 +56082,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-12,Tiahuanaco_M (GPRS),17.88,-2.69,79.92,16.67,
 2023-09-12,Tinguipaya,22.3,4.4,,,
 2023-09-12,Tiraque,24.0,5.0,,,
+2023-09-12,Todos Santos_Or,16.0,-2.5,,,
 2023-09-12,Toledo (GPRS),18.99,-5.08,40.32,6.05,
 2023-09-12,Tomave,17.0,0.5,,,
 2023-09-12,Trancas,32.0,15.0,,,
@@ -56252,6 +56294,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-13,Tiahuanaco_M (GPRS),16.96,-9.1,47.83,6.79,
 2023-09-13,Tinguipaya,19.3,4.1,,,
 2023-09-13,Tiraque,25.0,7.0,,,18.0
+2023-09-13,Todos Santos_Or,17.0,-2.0,,,
 2023-09-13,Toledo (GPRS),18.26,-11.96,28.33,1.39,
 2023-09-13,Tomave,14.1,-0.5,,,
 2023-09-13,Trancas,22.0,7.0,,,
@@ -56448,6 +56491,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-14,Tiahuanaco_M (GPRS),17.48,-6.81,62.99,7.42,
 2023-09-14,Tinguipaya,23.4,-1.0,,,
 2023-09-14,Tiraque,27.0,6.0,,,
+2023-09-14,Todos Santos_Or,15.0,-3.0,,,
 2023-09-14,Toledo (GPRS),18.51,-8.19,42.89,1.39,
 2023-09-14,Tomave,19.0,1.5,,,
 2023-09-14,Trancas,26.0,1.0,,,
@@ -56636,6 +56680,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-15,Tiahuanaco_M (GPRS),18.6,-4.86,83.9,9.45,
 2023-09-15,Tinguipaya,23.1,3.4,,,
 2023-09-15,Tiraque,26.0,4.0,,,
+2023-09-15,Todos Santos_Or,18.5,-2.5,,,
 2023-09-15,Toledo (GPRS),19.83,-9.0,45.63,4.5,
 2023-09-15,Tomave,20.2,-4.5,,,
 2023-09-15,Trancas,30.0,7.0,,,
@@ -56808,6 +56853,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-16,Tiahuanaco_M (GPRS),19.25,-4.85,88.7,9.97,
 2023-09-16,Tinguipaya,25.3,5.3,,,
 2023-09-16,Tiraque,25.0,4.0,,,
+2023-09-16,Todos Santos_Or,17.5,-4.0,,,
 2023-09-16,Toledo (GPRS),20.66,-2.83,71.32,7.18,
 2023-09-16,Tomave,22.0,-6.0,,,
 2023-09-16,Trancas,37.0,8.0,,,
@@ -56990,6 +57036,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-17,Tiahuanaco_M (GPRS),18.66,-5.25,80.6,12.26,
 2023-09-17,Tinguipaya,26.4,6.3,,,
 2023-09-17,Tiraque,26.0,6.0,,,
+2023-09-17,Todos Santos_Or,16.0,-3.5,,,
 2023-09-17,Toledo (GPRS),20.42,-4.17,48.87,6.14,
 2023-09-17,Tomave,22.5,3.0,,,
 2023-09-17,Trancas,38.0,20.0,,,
@@ -57181,6 +57228,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-18,Tiahuanaco_M (GPRS),18.46,4.11,83.8,14.54,
 2023-09-18,Tinguipaya,25.3,5.4,,,
 2023-09-18,Tiraque,25.0,8.0,,,
+2023-09-18,Todos Santos_Or,17.0,-2.0,,,
 2023-09-18,Toledo (GPRS),19.67,-3.12,30.26,8.35,
 2023-09-18,Tomave,20.0,2.5,,,
 2023-09-18,Trancas,30.0,19.0,,,
@@ -57397,6 +57445,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-19,Temporal - SDC (GPRS),26.04,11.46,55.63,0.08,
 2023-09-19,Tinguipaya,27.2,5.2,,,
 2023-09-19,Tiraque,23.0,8.0,,,
+2023-09-19,Todos Santos_Or,19.5,-0.5,,,
 2023-09-19,Toledo (GPRS),18.33,-3.69,28.9,9.94,
 2023-09-19,Toma Ravelo_M (GPRS),,,,,0.1
 2023-09-19,Tomave,20.2,-2.5,,,
@@ -57601,6 +57650,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-20,Temporal - SDC (GPRS),28.98,12.08,51.09,0.07,
 2023-09-20,Tinguipaya,25.4,6.1,,,
 2023-09-20,Tiraque,25.0,5.0,,,
+2023-09-20,Todos Santos_Or,18.0,-1.5,,,
 2023-09-20,Toledo (GPRS),19.13,-5.1,33.02,11.6,
 2023-09-20,Tomave,17.4,-2.0,,,
 2023-09-20,Trancas,30.0,8.0,,,
@@ -57794,6 +57844,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-21,Temporal - SDC (GPRS),29.13,13.02,49.57,1.54,
 2023-09-21,Tinguipaya,25.3,6.3,,,
 2023-09-21,Tiraque,27.0,7.0,,,
+2023-09-21,Todos Santos_Or,15.5,-2.0,,,
 2023-09-21,Toledo (GPRS),20.53,-3.43,71.18,12.03,
 2023-09-21,Tomave,18.5,-3.5,,,
 2023-09-21,Trancas,37.0,14.0,,,
@@ -57981,6 +58032,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-22,Temporal - SDC (GPRS),30.26,13.46,44.4,11.35,
 2023-09-22,Tinguipaya,25.2,5.4,,,
 2023-09-22,Tiraque,25.0,5.0,,,
+2023-09-22,Todos Santos_Or,17.0,-0.5,,,
 2023-09-22,Toledo (GPRS),21.68,-0.67,73.11,10.29,
 2023-09-22,Tomave,20.0,-3.0,,,
 2023-09-22,Trancas,37.0,18.0,,,
@@ -58152,6 +58204,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-23,Temporal - SDC (GPRS),28.72,13.37,45.2,0.44,
 2023-09-23,Tinguipaya,26.3,6.2,,,
 2023-09-23,Tiraque,27.0,6.0,,,
+2023-09-23,Todos Santos_Or,19.0,-1.0,,,
 2023-09-23,Toledo (GPRS),21.93,4.51,81.9,16.08,
 2023-09-23,Tomave,22.4,-1.5,,,
 2023-09-23,Trancas,36.0,21.0,,,
@@ -58326,6 +58379,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-24,Temporal - SDC (GPRS),29.49,14.03,51.71,0.67,
 2023-09-24,Tinguipaya,27.4,8.2,,,
 2023-09-24,Tiraque,24.0,7.0,,,
+2023-09-24,Todos Santos_Or,17.5,-2.0,,,
 2023-09-24,Toledo (GPRS),21.88,2.29,81.3,16.4,
 2023-09-24,Tomave,18.6,0.5,,,
 2023-09-24,Trancas,35.0,17.0,,,
@@ -58515,6 +58569,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-25,Temporal - SDC (GPRS),28.8,13.38,49.82,0.04,
 2023-09-25,Tinguipaya,27.3,7.2,,,
 2023-09-25,Tiraque,26.0,7.0,,,
+2023-09-25,Todos Santos_Or,18.0,1.0,,,
 2023-09-25,Toledo (GPRS),22.02,-1.98,59.38,10.7,
 2023-09-25,Tomave,22.5,1.5,,,
 2023-09-25,Trancas,32.0,19.0,,,
@@ -58730,6 +58785,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-26,Temporal - SDC (GPRS),31.57,15.1,56.1,1.65,
 2023-09-26,Tinguipaya,28.3,6.3,,,
 2023-09-26,Tiraque,27.0,8.0,,,
+2023-09-26,Todos Santos_Or,17.5,1.5,,,
 2023-09-26,Toledo (GPRS),20.95,-1.19,36.68,13.72,
 2023-09-26,Tomave,18.2,-0.5,,,
 2023-09-26,Trancas,39.0,23.0,,,
@@ -58963,6 +59019,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-27,Temporal - SDC (GPRS),25.67,12.47,48.38,0.09,
 2023-09-27,Tinguipaya,31.2,8.2,,,
 2023-09-27,Tiraque,20.0,8.0,,,
+2023-09-27,Todos Santos_Or,19.0,0.0,,,
 2023-09-27,Toledo (GPRS),22.0,-1.76,84.1,15.34,
 2023-09-27,Tomave,19.2,0.5,,,
 2023-09-27,Trancas,13.0,9.0,,,3.0
@@ -59207,6 +59264,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-28,Temporal - SDC (GPRS),31.6,14.99,46.88,0.08,
 2023-09-28,Tinguipaya,28.2,5.3,,,
 2023-09-28,Tiraque,28.0,6.0,,,
+2023-09-28,Todos Santos_Or,18.0,0.0,,,
 2023-09-28,Toledo (GPRS),22.33,-1.89,56.57,7.6,
 2023-09-28,Tomave,21.0,-4.5,,,
 2023-09-28,Trancas,23.0,6.0,,,
@@ -59418,6 +59476,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-29,Temporal - SDC (GPRS),29.01,13.32,62.07,0.19,
 2023-09-29,Tinguipaya,25.3,8.2,,,
 2023-09-29,Tiraque,23.0,8.0,,,
+2023-09-29,Todos Santos_Or,20.0,2.0,,,
 2023-09-29,Toledo (GPRS),21.89,2.31,79.31,19.01,
 2023-09-29,Tomave,21.5,-2.0,,,
 2023-09-29,Trancas,20.0,10.0,,,
@@ -59615,6 +59674,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-30,Temporal - SDC (GPRS),28.61,14.1,50.61,0.04,
 2023-09-30,Tinguipaya,26.2,7.1,,,
 2023-09-30,Tiraque,25.0,5.0,,,
+2023-09-30,Todos Santos_Or,21.0,1.5,,,
 2023-09-30,Toledo (GPRS),21.29,5.33,62.33,16.98,
 2023-09-30,Tomave,20.0,-1.5,,,
 2023-09-30,Trancas,24.0,12.0,,,
@@ -59810,6 +59870,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-01,Temporal - SDC (GPRS),30.07,13.53,50.96,0.93,
 2023-10-01,Tinguipaya,26.3,7.2,,,
 2023-10-01,Tiraque,26.0,7.0,,,
+2023-10-01,Todos Santos_Or,18.0,0.0,,,
 2023-10-01,Toledo (GPRS),22.19,-0.89,40.69,9.97,
 2023-10-01,Tomave,20.5,-1.5,,,
 2023-10-01,Trancas,29.0,7.0,,,
@@ -60029,6 +60090,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-02,Temporal - SDC (GPRS),32.0,14.13,51.66,1.02,
 2023-10-02,Tinguipaya,26.1,7.3,,,
 2023-10-02,Tiraque,25.0,8.0,,,
+2023-10-02,Todos Santos_Or,19.5,1.0,,,
 2023-10-02,Toledo (GPRS),22.27,0.08,42.83,12.43,
 2023-10-02,Tomave,20.0,-0.5,,,
 2023-10-02,Trancas,35.0,12.0,,,
@@ -60242,6 +60304,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-03,Temporal - SDC (GPRS),31.89,15.4,50.49,0.62,
 2023-10-03,Tinguipaya,27.3,8.1,,,
 2023-10-03,Tiraque,27.0,8.0,,,
+2023-10-03,Todos Santos_Or,20.0,0.5,,,
 2023-10-03,Toledo (GPRS),21.27,-1.52,39.52,13.58,
 2023-10-03,Tomave,21.5,3.0,,,
 2023-10-03,Trancas,40.0,22.0,,,
@@ -60458,6 +60521,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-04,Temporal - SDC (GPRS),30.47,14.88,51.09,0.98,
 2023-10-04,Tinguipaya,28.2,6.2,,,
 2023-10-04,Tiraque,24.0,6.0,,,
+2023-10-04,Todos Santos_Or,20.5,1.0,,,
 2023-10-04,Toledo (GPRS),22.74,-1.38,80.3,6.67,
 2023-10-04,Tomave,18.0,-1.0,,,
 2023-10-04,Trancas,28.0,17.0,,,
@@ -60683,6 +60747,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-05,Temporal - SDC (GPRS),32.5,14.88,40.57,1.49,
 2023-10-05,Tinguipaya,27.3,8.3,,,
 2023-10-05,Tiraque,23.0,7.0,,,
+2023-10-05,Todos Santos_Or,21.0,2.5,,,
 2023-10-05,Toledo (GPRS),25.35,-0.79,65.85,5.42,
 2023-10-05,Tomave,17.0,1.5,,,
 2023-10-05,Trancas,30.0,7.0,,,
@@ -60903,6 +60968,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-06,Temporal - SDC (GPRS),31.7,14.94,44.89,1.69,
 2023-10-06,Tinguipaya,26.3,7.4,,,
 2023-10-06,Tiraque,25.0,8.0,,,
+2023-10-06,Todos Santos_Or,18.5,1.5,,,
 2023-10-06,Toledo (GPRS),22.47,-3.13,43.84,6.68,
 2023-10-06,Tomave,15.0,5.0,,,
 2023-10-06,Trancas,39.0,13.0,,,
@@ -61109,6 +61175,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-07,Temporal - SDC (GPRS),29.71,16.03,55.34,0.67,
 2023-10-07,Tinguipaya,27.2,9.1,,,
 2023-10-07,Tiraque,23.0,6.0,,,
+2023-10-07,Todos Santos_Or,17.0,2.0,,,
 2023-10-07,Toledo (GPRS),23.45,0.96,51.31,11.41,
 2023-10-07,Tomave,15.5,0.5,,,
 2023-10-07,Trancas,19.0,15.0,,,
@@ -61330,6 +61397,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-08,Temporal - SDC (GPRS),30.67,13.52,65.93,11.78,
 2023-10-08,Tinguipaya,25.3,7.1,,,
 2023-10-08,Tiraque,25.0,8.0,,,
+2023-10-08,Todos Santos_Or,19.5,1.0,,,
 2023-10-08,Toledo (GPRS),22.7,-3.29,54.3,2.35,
 2023-10-08,Tomave,17.6,2.5,,,
 2023-10-08,Trancas,26.0,8.0,,,2.0
@@ -61559,6 +61627,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-09,Temporal - SDC (GPRS),28.7,13.52,56.04,0.12,
 2023-10-09,Tinguipaya,25.4,6.3,,,
 2023-10-09,Tiraque,25.0,10.0,,,
+2023-10-09,Todos Santos_Or,17.5,2.5,,,
 2023-10-09,Toledo (GPRS),23.01,3.19,82.8,10.42,
 2023-10-09,Tomave,22.0,-3.5,,,
 2023-10-09,Trancas,29.0,11.0,,,
@@ -61791,6 +61860,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-10,Temporal - SDC (GPRS),32.04,14.25,42.68,0.17,
 2023-10-10,Tinguipaya,29.1,6.2,,,
 2023-10-10,Tiraque,26.0,78.0,,,
+2023-10-10,Todos Santos_Or,20.0,0.5,,,
 2023-10-10,Toledo (GPRS),24.31,-3.22,66.91,7.74,
 2023-10-10,Tomave,23.5,-1.5,,,
 2023-10-10,Trancas,35.0,15.0,,,
@@ -62007,6 +62077,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-11,Temporal - SDC (GPRS),33.15,30.0,18.93,6.91,
 2023-10-11,Tinguipaya,29.2,7.3,,,
 2023-10-11,Tiraque,28.0,8.0,,,
+2023-10-11,Todos Santos_Or,19.0,1.5,,,
 2023-10-11,Toledo (GPRS),23.89,5.1,73.59,3.15,
 2023-10-11,Tomave,22.0,0.5,,,
 2023-10-11,Trancas,34.0,19.0,,,
@@ -62225,6 +62296,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-12,Temporal - SDC (GPRS),29.31,24.85,25.58,0.81,
 2023-10-12,Tinguipaya,26.2,8.4,,,
 2023-10-12,Tiraque,26.0,10.0,,,
+2023-10-12,Todos Santos_Or,17.0,1.0,,,
 2023-10-12,Toledo (GPRS),22.99,2.47,75.43,14.66,
 2023-10-12,Tomave,20.0,-1.5,,,
 2023-10-12,Trancas,28.0,12.0,,,
@@ -62446,6 +62518,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-13,Temporal - SDC (GPRS),31.71,14.25,41.73,0.44,
 2023-10-13,Tinguipaya,27.4,7.2,,,
 2023-10-13,Tiraque,27.0,9.0,,,
+2023-10-13,Todos Santos_Or,19.5,2.0,,,
 2023-10-13,Toledo (GPRS),23.11,4.67,80.6,9.27,
 2023-10-13,Tomave,23.5,-3.0,,,
 2023-10-13,Trancas,25.0,8.0,,,
@@ -62642,6 +62715,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-14,Temporal - SDC (GPRS),30.08,27.23,21.32,16.05,
 2023-10-14,Tinguipaya,28.3,6.4,,,
 2023-10-14,Tiraque,28.0,7.0,,,
+2023-10-14,Todos Santos_Or,20.0,3.0,,,
 2023-10-14,Toledo (GPRS),21.84,2.17,72.53,13.49,
 2023-10-14,Tomave,22.0,4.0,,,
 2023-10-14,Trancas,32.0,9.0,,,
@@ -62837,6 +62911,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-15,Temporal - SDC (GPRS),29.49,26.7,20.89,5.38,
 2023-10-15,Tinguipaya,28.1,8.2,,,
 2023-10-15,Tiraque,27.0,8.0,,,
+2023-10-15,Todos Santos_Or,17.5,1.5,,,
 2023-10-15,Toledo (GPRS),22.49,1.71,80.3,10.23,
 2023-10-15,Tomave,20.0,1.5,,,
 2023-10-15,Trancas,34.0,15.0,,,
@@ -63052,6 +63127,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-16,Temporal - SDC (GPRS),29.09,27.04,21.87,7.51,
 2023-10-16,Tinguipaya,27.1,7.3,,,
 2023-10-16,Tiraque,26.0,9.0,,,
+2023-10-16,Todos Santos_Or,17.5,2.5,,,
 2023-10-16,Toledo (GPRS),21.79,2.13,77.68,9.89,
 2023-10-16,Tomave,20.5,5.0,,,
 2023-10-16,Trancas,36.0,20.0,,,
@@ -63276,6 +63352,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-17,Temporal - SDC (GPRS),29.06,20.17,22.68,1.06,
 2023-10-17,Tinguipaya,26.2,8.3,,,
 2023-10-17,Tiraque,24.0,7.0,,,
+2023-10-17,Todos Santos_Or,18.5,2.0,,,
 2023-10-17,Toledo (GPRS),21.06,4.47,77.86,13.98,
 2023-10-17,Tomave,18.5,2.5,,,
 2023-10-17,Trancas,30.0,22.0,,,
@@ -63527,6 +63604,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-18,Temporal - SDC (GPRS),26.12,23.01,28.49,1.1,
 2023-10-18,Tinguipaya,20.3,8.2,,,
 2023-10-18,Tiraque,23.0,7.0,,,10.5
+2023-10-18,Todos Santos_Or,17.0,1.0,,,
 2023-10-18,Toledo (GPRS),19.66,4.63,90.1,26.23,
 2023-10-18,Toma Ravelo_M (GPRS),,,,,15.3
 2023-10-18,Tomave,17.0,3.5,,,1.5
@@ -63779,6 +63857,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-19,Temporal - SDC (GPRS),26.0,20.21,27.54,1.33,
 2023-10-19,Tinguipaya,,,,,6.0
 2023-10-19,Tiraque,22.0,6.0,,,
+2023-10-19,Todos Santos_Or,15.5,0.5,,,
 2023-10-19,Toledo (GPRS),16.77,3.0,97.8,35.68,2.2
 2023-10-19,Toma Ravelo_M (GPRS),,,,,1.1
 2023-10-19,Tomave,17.5,4.0,,,
@@ -64032,6 +64111,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-20,Temporal - SDC (GPRS),26.12,23.24,23.05,0.04,
 2023-10-20,Tinguipaya,20.1,6.2,,,
 2023-10-20,Tiraque,25.0,8.0,,,
+2023-10-20,Todos Santos_Or,16.5,1.0,,,
 2023-10-20,Toledo (GPRS),18.75,5.84,91.4,33.22,2.4
 2023-10-20,Toma Ravelo_M (GPRS),,,,,13.8
 2023-10-20,Tomave,20.0,5.1,,,
@@ -64261,6 +64341,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-21,Temporal - SDC (GPRS),25.88,22.68,3.73,0.05,
 2023-10-21,Tinguipaya,19.3,7.0,,,
 2023-10-21,Tiraque,22.0,5.0,,,5.0
+2023-10-21,Todos Santos_Or,14.0,1.5,,,
 2023-10-21,Toledo (GPRS),19.17,3.52,91.4,29.01,
 2023-10-21,Toma Ravelo_M (GPRS),,,,,6.8
 2023-10-21,Tomave,17.0,6.5,,,
@@ -64468,6 +64549,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-22,Temporal - SDC (GPRS),28.93,26.78,5.77,0.33,
 2023-10-22,Tinguipaya,22.4,8.1,,,
 2023-10-22,Tiraque,25.0,7.0,,,
+2023-10-22,Todos Santos_Or,13.5,0.0,,,
 2023-10-22,Toledo (GPRS),21.99,6.81,92.4,16.93,
 2023-10-22,Tomave,17.4,4.5,,,10.0
 2023-10-22,Trancas,35.0,21.0,,,20.2
@@ -64697,6 +64779,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-23,Temporal - SDC (GPRS),29.38,25.23,25.35,2.6,
 2023-10-23,Tinguipaya,21.4,6.2,,,
 2023-10-23,Tiraque,26.0,8.0,,,
+2023-10-23,Todos Santos_Or,15.0,0.5,,,
 2023-10-23,Toledo (GPRS),21.72,6.67,92.9,24.4,2.3
 2023-10-23,Tomave,22.0,5.5,,,4.5
 2023-10-23,Totora i_M (GPRS),,,,,0.1
@@ -64952,6 +65035,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-24,Temporal - SDC (GPRS),27.53,23.7,27.41,0.55,5.8
 2023-10-24,Tinguipaya,22.3,8.3,,,
 2023-10-24,Tiraque,23.0,6.0,,,21.5
+2023-10-24,Todos Santos_Or,16.5,-2.5,,,
 2023-10-24,Toledo (GPRS),20.59,1.56,92.1,23.63,1.9
 2023-10-24,Toma Ravelo_M (GPRS),,,,,3.2
 2023-10-24,Tomave,20.5,6.5,,,
@@ -65215,6 +65299,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-25,Temporal - SDC (GPRS),28.86,25.18,25.02,0.23,0.1
 2023-10-25,Tinguipaya,24.4,7.2,,,
 2023-10-25,Tiraque,25.0,8.0,,,3.0
+2023-10-25,Todos Santos_Or,19.0,-1.0,,,
 2023-10-25,Toledo (GPRS),21.59,-3.79,69.38,8.6,
 2023-10-25,Toma Ravelo_M (GPRS),,,,,2.4
 2023-10-25,Tomave,17.6,0.5,,,
@@ -65455,6 +65540,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-26,Temporal - SDC (GPRS),28.18,26.16,18.03,1.36,
 2023-10-26,Tinguipaya,25.3,6.3,,,
 2023-10-26,Tiraque,24.0,9.0,,,
+2023-10-26,Todos Santos_Or,17.5,-2.0,,,
 2023-10-26,Toledo (GPRS),21.77,-1.51,41.07,7.02,
 2023-10-26,Tomave,20.0,2.5,,,
 2023-10-26,Trancas,35.0,18.0,,,
@@ -65692,6 +65778,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-27,Temporal - SDC (GPRS),27.0,22.31,33.07,0.12,
 2023-10-27,Tinguipaya,24.2,6.1,,,
 2023-10-27,Tiraque,23.0,9.0,,,
+2023-10-27,Todos Santos_Or,16.5,-5.0,,,
 2023-10-27,Toledo (GPRS),23.38,-2.67,43.43,7.84,
 2023-10-27,Tomave,14.6,4.5,,,
 2023-10-27,Trancas,32.0,17.0,,,
@@ -65910,6 +65997,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-28,Temporal - SDC (GPRS),27.99,24.1,12.37,0.06,
 2023-10-28,Tinguipaya,25.3,7.2,,,
 2023-10-28,Tiraque,27.0,6.0,,,
+2023-10-28,Todos Santos_Or,15.0,-6.0,,,
 2023-10-28,Toledo (GPRS),20.54,-6.01,38.42,4.74,
 2023-10-28,Tomave,17.0,2.5,,,
 2023-10-28,Trancas,35.0,19.0,,,
@@ -66121,6 +66209,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-29,Temporal - SDC (GPRS),31.16,14.31,44.28,0.04,
 2023-10-29,Tinguipaya,22.3,6.3,,,
 2023-10-29,Tiraque,24.0,7.0,,,
+2023-10-29,Todos Santos_Or,14.5,-6.5,,,
 2023-10-29,Toledo (GPRS),18.26,-4.29,61.91,3.99,
 2023-10-29,Tomave,19.2,1.5,,,
 2023-10-29,Trancas,36.0,23.0,,,
@@ -66344,6 +66433,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-30,Temporal - SDC (GPRS),30.2,27.42,16.18,7.04,
 2023-10-30,Tinguipaya,26.3,7.2,,,
 2023-10-30,Tiraque,26.0,9.0,,,13.5
+2023-10-30,Todos Santos_Or,16.0,-7.5,,,
 2023-10-30,Toledo (GPRS),19.7,-5.41,39.97,3.21,
 2023-10-30,Tomave,21.0,0.5,,,
 2023-10-30,Trancas,35.0,23.0,,,
@@ -66579,6 +66669,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-31,Temporal - SDC (GPRS),28.94,27.06,25.98,0.26,0.2
 2023-10-31,Tinguipaya,27.4,7.1,,,
 2023-10-31,Tiraque,25.0,7.0,,,
+2023-10-31,Todos Santos_Or,18.0,-3.0,,,
 2023-10-31,Toledo (GPRS),19.85,-4.51,33.01,2.87,
 2023-10-31,Tomave,20.0,2.5,,,
 2023-10-31,Trancas,30.0,20.0,,,
@@ -66809,6 +66900,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-01,Temporal - SDC (GPRS),29.34,25.29,24.62,11.89,0.6
 2023-11-01,Tinguipaya,25.2,6.3,,,
 2023-11-01,Tiraque,26.0,7.0,,,
+2023-11-01,Todos Santos_Or,17.5,2.0,,,
 2023-11-01,Toledo (GPRS),20.81,-3.88,28.67,4.78,
 2023-11-01,Tomave,20.0,-1.5,,,
 2023-11-01,Trancas,30.0,20.0,,,
@@ -67019,6 +67111,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-02,Temporal - SDC (GPRS),30.76,27.97,23.72,11.22,
 2023-11-02,Tinguipaya,23.1,5.2,,,
 2023-11-02,Tiraque,27.0,9.0,,,
+2023-11-02,Todos Santos_Or,19.5,1.5,,,
 2023-11-02,Toledo (GPRS),22.25,-6.58,23.38,3.2,
 2023-11-02,Tomave,21.5,-1.6,,,
 2023-11-02,Trancas,37.0,21.0,,,
@@ -67244,6 +67337,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-03,Temporal - SDC (GPRS),28.94,26.13,23.0,2.1,
 2023-11-03,Tinguipaya,21.3,5.3,,,
 2023-11-03,Tiraque,26.0,7.0,,,
+2023-11-03,Todos Santos_Or,20.0,1.0,,,
 2023-11-03,Toledo (GPRS),21.75,3.42,81.4,0.67,
 2023-11-03,Tomave,22.0,-5.5,,,
 2023-11-03,Trancas,25.0,19.0,,,
@@ -67459,6 +67553,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-04,Temporal - SDC (GPRS),28.61,14.5,35.24,0.56,
 2023-11-04,Tinguipaya,24.1,6.2,,,
 2023-11-04,Tiraque,28.0,8.0,,,
+2023-11-04,Todos Santos_Or,18.0,2.0,,,
 2023-11-04,Toledo (GPRS),23.03,2.47,97.4,12.11,
 2023-11-04,Toma Ravelo_M (GPRS),,,,,1.0
 2023-11-04,Tomave,18.2,-0.5,,,
@@ -67668,6 +67763,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-05,Temporal - SDC (GPRS),31.75,27.97,13.2,0.6,
 2023-11-05,Tinguipaya,23.4,7.2,,,
 2023-11-05,Tiraque,27.0,9.0,,,
+2023-11-05,Todos Santos_Or,19.0,1.5,,,
 2023-11-05,Toledo (GPRS),21.83,4.45,76.52,15.88,43.5
 2023-11-05,Tomave,20.0,5.0,,,
 2023-11-05,Trancas,28.0,16.0,,,
@@ -67882,6 +67978,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-06,Temporal - SDC (GPRS),28.59,26.16,19.82,0.12,
 2023-11-06,Tinguipaya,27.3,5.4,,,
 2023-11-06,Tiraque,26.0,7.0,,,
+2023-11-06,Todos Santos_Or,13.5,2.5,,,
 2023-11-06,Toledo (GPRS),21.02,5.87,76.24,19.17,
 2023-11-06,Tomave,17.2,2.1,,,
 2023-11-06,Trancas,31.0,20.0,,,
@@ -68099,6 +68196,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-07,Temporal - SDC (GPRS),29.56,23.93,34.04,6.71,
 2023-11-07,Tinguipaya,25.2,6.3,,,
 2023-11-07,Tiraque,25.0,8.0,,,
+2023-11-07,Todos Santos_Or,18.5,3.5,,,
 2023-11-07,Toledo (GPRS),20.76,5.91,80.9,22.5,
 2023-11-07,Tomave,20.2,1.5,,,1.5
 2023-11-07,Totora i_M (GPRS),,,,,0.1
@@ -68326,6 +68424,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-08,Temporal - SDC (GPRS),30.44,27.42,21.3,12.58,
 2023-11-08,Tinguipaya,23.4,6.1,,,
 2023-11-08,Tiraque,23.0,7.0,,,
+2023-11-08,Todos Santos_Or,17.5,3.0,,,
 2023-11-08,Toledo (GPRS),22.22,3.14,84.8,19.68,
 2023-11-08,Toma Ravelo_M (GPRS),,,,,5.5
 2023-11-08,Tomave,17.0,4.0,,,
@@ -68576,6 +68675,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-09,Temporal - SDC (GPRS),27.15,17.83,25.79,0.08,
 2023-11-09,Tinguipaya,22.1,7.2,,,6.0
 2023-11-09,Tiraque,24.0,6.0,,,
+2023-11-09,Todos Santos_Or,19.0,3.5,,,
 2023-11-09,Toledo (GPRS),19.36,4.8,80.5,26.85,
 2023-11-09,Tomave,18.1,4.2,,,1.5
 2023-11-09,Totora i_M (GPRS),,,,,0.8
@@ -68815,6 +68915,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-10,Temporal - SDC (GPRS),26.7,25.47,28.08,22.36,
 2023-11-10,Tinguipaya,20.4,6.3,,,
 2023-11-10,Tiraque,27.0,8.0,,,
+2023-11-10,Todos Santos_Or,13.0,0.0,,,
 2023-11-10,Toledo (GPRS),19.97,5.4,96.6,26.46,
 2023-11-10,Tomave,16.5,7.5,,,
 2023-11-10,Totora i_M (GPRS),,,,,4.1
@@ -69039,6 +69140,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-11,Temporal - SDC (GPRS),30.08,23.18,25.5,0.05,
 2023-11-11,Tinguipaya,21.3,8.2,,,3.0
 2023-11-11,Tiraque,25.0,7.0,,,
+2023-11-11,Todos Santos_Or,15.0,1.0,,,
 2023-11-11,Toledo (GPRS),19.24,3.25,75.82,26.38,6.6
 2023-11-11,Tomave,18.0,5.5,,,
 2023-11-11,Totora i_M (GPRS),,,,,0.3
@@ -69253,6 +69355,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-12,Temporal - SDC (GPRS),29.05,14.6,61.44,0.87,1.3
 2023-11-12,Tinguipaya,22.1,7.2,,,
 2023-11-12,Tiraque,23.0,9.0,,,
+2023-11-12,Todos Santos_Or,13.5,0.5,,,
 2023-11-12,Toledo (GPRS),21.45,5.78,96.9,20.29,
 2023-11-12,Tomave,17.0,3.0,,,
 2023-11-12,Trancas,37.0,21.0,,,
@@ -69501,6 +69604,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-13,Temporal - SDC (GPRS),30.15,24.46,20.88,0.8,
 2023-11-13,Tinguipaya,23.2,6.2,,,
 2023-11-13,Tiraque,24.0,10.0,,,
+2023-11-13,Todos Santos_Or,14.5,1.0,,,
 2023-11-13,Toledo (GPRS),18.13,0.71,83.8,26.42,17.7
 2023-11-13,Tomave,17.5,8.5,,,
 2023-11-13,Trancas,29.0,19.0,,,
@@ -69742,6 +69846,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-14,Temporal - SDC (GPRS),31.49,27.46,22.42,12.89,
 2023-11-14,Tinguipaya,23.4,7.4,,,
 2023-11-14,Tiraque,26.0,9.0,,,
+2023-11-14,Todos Santos_Or,16.0,0.0,,,
 2023-11-14,Toledo (GPRS),20.95,0.89,55.07,12.13,0.1
 2023-11-14,Toma Ravelo_M (GPRS),,,,,4.0
 2023-11-14,Tomave,18.0,4.5,,,
@@ -69971,6 +70076,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-15,Temporal - SDC (GPRS),26.61,21.45,40.26,0.13,
 2023-11-15,Tinguipaya,25.1,5.2,,,
 2023-11-15,Tiraque,25.0,7.0,,,
+2023-11-15,Todos Santos_Or,17.5,1.0,,,
 2023-11-15,Toledo (GPRS),22.32,1.26,63.39,12.51,
 2023-11-15,Tomave,18.2,3.5,,,
 2023-11-15,Trancas,38.0,22.0,,,
@@ -70204,6 +70310,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-16,Temporal - SDC (GPRS),31.79,28.4,29.82,10.34,
 2023-11-16,Tinguipaya,25.3,5.1,,,
 2023-11-16,Tiraque,26.0,9.0,,,
+2023-11-16,Todos Santos_Or,19.0,2.0,,,
 2023-11-16,Toledo (GPRS),22.36,3.64,67.79,16.26,3.8
 2023-11-16,Tomave,24.5,5.0,,,
 2023-11-16,Trancas,37.0,23.0,,,
@@ -70427,6 +70534,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-17,Temporal - SDC (GPRS),32.79,29.35,20.28,10.4,
 2023-11-17,Tinguipaya,27.4,6.2,,,
 2023-11-17,Tiraque,27.0,10.0,,,
+2023-11-17,Todos Santos_Or,17.0,0.0,,,
 2023-11-17,Toledo (GPRS),22.97,1.73,39.21,15.35,
 2023-11-17,Tomave,18.1,6.5,,,
 2023-11-17,Trancas,39.0,24.0,,,
@@ -70627,6 +70735,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-18,Temporal - SDC (GPRS),33.06,30.76,18.16,6.84,
 2023-11-18,Tinguipaya,25.3,5.3,,,
 2023-11-18,Tiraque,29.0,11.0,,,
+2023-11-18,Todos Santos_Or,19.5,2.5,,,
 2023-11-18,Toledo (GPRS),21.97,4.45,29.81,11.12,
 2023-11-18,Tomave,20.1,6.0,,,
 2023-11-18,Trancas,36.0,22.0,,,
@@ -70854,6 +70963,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-19,Temporal - SDC (GPRS),25.28,23.15,31.51,0.6,
 2023-11-19,Tinguipaya,28.0,6.1,,,
 2023-11-19,Tiraque,24.0,7.0,,,
+2023-11-19,Todos Santos_Or,21.0,1.0,,,
 2023-11-19,Toledo (GPRS),22.92,0.17,41.49,7.84,
 2023-11-19,Toma Ravelo_M (GPRS),,,,,0.4
 2023-11-19,Tomave,22.0,3.5,,,
@@ -71093,6 +71203,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-20,Temporal - SDC (GPRS),30.9,27.23,23.69,12.12,0.2
 2023-11-20,Tinguipaya,21.2,7.3,,,6.0
 2023-11-20,Tiraque,26.0,7.0,,,
+2023-11-20,Todos Santos_Or,19.0,3.5,,,
 2023-11-20,Toledo (GPRS),22.63,1.38,71.26,6.83,
 2023-11-20,Toma Ravelo_M (GPRS),,,,,0.1
 2023-11-20,Tomave,22.5,2.0,,,
@@ -71328,6 +71439,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-21,Temporal - SDC (GPRS),30.06,19.81,65.97,0.15,0.7
 2023-11-21,Tinguipaya,23.2,6.2,,,
 2023-11-21,Tiraque,25.0,6.0,,,12.5
+2023-11-21,Todos Santos_Or,20.0,3.0,,,
 2023-11-21,Toledo (GPRS),23.03,0.85,73.35,7.01,
 2023-11-21,Tomave,20.5,4.5,,,
 2023-11-21,Trancas,29.2,23.0,,,
@@ -71556,6 +71668,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-22,Temporal - SDC (GPRS),29.67,28.77,31.81,4.87,2.6
 2023-11-22,Tinguipaya,23.4,5.3,,,
 2023-11-22,Tiraque,25.0,8.0,,,1.5
+2023-11-22,Todos Santos_Or,21.5,4.5,,,
 2023-11-22,Toledo (GPRS),22.07,3.2,72.16,7.44,
 2023-11-22,Tomave,22.1,6.0,,,
 2023-11-22,Trancas,28.0,21.0,,,
@@ -71795,6 +71908,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-23,Temporal - SDC (GPRS),28.57,25.14,20.27,0.22,0.2
 2023-11-23,Tinguipaya,24.2,7.1,,,
 2023-11-23,Tiraque,23.0,10.0,,,
+2023-11-23,Todos Santos_Or,19.5,2.5,,,
 2023-11-23,Toledo (GPRS),22.47,7.42,72.23,17.52,
 2023-11-23,Toma Ravelo_M (GPRS),,,,,7.5
 2023-11-23,Tomave,21.6,5.1,,,
@@ -72081,6 +72195,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-24,Temporal - SDC (GPRS),19.12,16.64,72.36,1.29,7.5
 2023-11-24,Tinguipaya,21.3,6.3,,,
 2023-11-24,Tiraque,24.0,8.0,,,28.5
+2023-11-24,Todos Santos_Or,17.0,3.5,,,
 2023-11-24,Toledo (GPRS),18.44,6.53,94.8,31.18,
 2023-11-24,Toma Ravelo_M (GPRS),,,,,24.0
 2023-11-24,Tomave,21.0,6.0,,,
@@ -72334,6 +72449,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-25,Temporal - SDC (GPRS),21.47,18.67,69.11,0.07,
 2023-11-25,Tinguipaya,17.2,8.2,,,
 2023-11-25,Tiraque,22.0,6.0,,,19.0
+2023-11-25,Todos Santos_Or,18.5,2.0,,,
 2023-11-25,Toledo (GPRS),19.67,6.43,98.0,32.53,8.1
 2023-11-25,Toma Ravelo_M (GPRS),,,,,32.3
 2023-11-25,Tomave,21.5,7.5,,,0.5
@@ -72884,6 +73000,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-27,Temporal - SDC (GPRS),25.81,20.01,54.43,0.08,0.8
 2023-11-27,Tinguipaya,21.3,6.3,,,
 2023-11-27,Tiraque,27.0,10.0,,,2.5
+2023-11-27,Todos Santos_Or,16.5,1.5,,,
 2023-11-27,Toledo (GPRS),19.74,3.95,92.8,29.97,2.1
 2023-11-27,Toma Ravelo_M (GPRS),,,,,6.7
 2023-11-27,Tomave,20.0,5.5,,,4.0
@@ -73157,6 +73274,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-28,Temporal - SDC (GPRS),25.65,21.5,37.08,0.05,0.1
 2023-11-28,Tinguipaya,23.1,7.3,,,
 2023-11-28,Tiraque,26.0,8.0,,,
+2023-11-28,Todos Santos_Or,19.0,2.5,,,
 2023-11-28,Toledo (GPRS),21.06,5.57,81.7,22.87,
 2023-11-28,Tomave,20.5,2.5,,,
 2023-11-28,Trancas,32.0,16.0,,,
@@ -73405,6 +73523,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-29,Temporal - SDC (GPRS),27.06,24.18,23.74,0.23,
 2023-11-29,Tinguipaya,22.3,6.3,,,
 2023-11-29,Tiraque,27.0,8.0,,,
+2023-11-29,Todos Santos_Or,21.5,4.0,,,
 2023-11-29,Toledo (GPRS),21.67,6.35,86.0,22.63,
 2023-11-29,Tomave,23.1,3.5,,,
 2023-11-29,Totora i_M (GPRS),,,,,1.2
@@ -73656,6 +73775,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-30,Temporal - SDC (GPRS),18.79,13.79,89.6,0.69,7.5
 2023-11-30,Tinguipaya,23.2,8.2,,,
 2023-11-30,Tiraque,22.0,7.0,,,29.5
+2023-11-30,Todos Santos_Or,20.5,4.5,,,
 2023-11-30,Toledo (GPRS),20.12,6.7,97.7,33.04,
 2023-11-30,Tomave,21.0,4.0,,,
 2023-11-30,Trancas,29.0,23.0,,,34.0
@@ -73924,6 +74044,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-01,Temporal - SDC (GPRS),23.97,17.45,63.05,0.06,4.1
 2023-12-01,Tinguipaya,19.2,8.3,,,
 2023-12-01,Tiraque,27.0,10.0,,,
+2023-12-01,Todos Santos_Or,15.0,,,,
 2023-12-01,Toledo (GPRS),13.79,5.56,95.5,65.84,25.4
 2023-12-01,Tomave,20.0,,,,
 2023-12-01,Totora i_M (GPRS),,,,,4.3
@@ -74160,6 +74281,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-02,Temporal - SDC (GPRS),27.52,22.3,37.0,0.03,2.7
 2023-12-02,Tinguipaya,17.3,7.2,,,
 2023-12-02,Tiraque,25.0,8.0,,,
+2023-12-02,Todos Santos_Or,17.5,,,,
 2023-12-02,Toledo (GPRS),20.6,7.26,84.4,25.81,2.1
 2023-12-02,Toma Ravelo_M (GPRS),,,,,1.7
 2023-12-02,Tomave,21.0,,,,
@@ -74424,6 +74546,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-03,Temporal - SDC (GPRS),26.23,23.67,36.13,0.02,
 2023-12-03,Tinguipaya,21.2,6.3,,,
 2023-12-03,Tiraque,26.0,9.0,,,8.5
+2023-12-03,Todos Santos_Or,19.5,,,,
 2023-12-03,Toledo (GPRS),20.66,7.62,85.6,29.52,
 2023-12-03,Toma Ravelo_M (GPRS),,,,,12.4
 2023-12-03,Tomave,20.0,,,,
@@ -74693,6 +74816,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-04,Temporal - SDC (GPRS),22.03,16.98,72.39,0.9,0.6
 2023-12-04,Tinguipaya,20.2,8.3,,,
 2023-12-04,Tiraque,24.0,6.0,,,12.0
+2023-12-04,Todos Santos_Or,20.0,,,,
 2023-12-04,Toledo (GPRS),22.24,6.24,91.7,20.89,
 2023-12-04,Toma Ravelo_M (GPRS),,,,,0.7
 2023-12-04,Tomave,21.0,,,,
@@ -74970,6 +75094,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-05,Temporal - SDC (GPRS),23.62,22.74,43.32,0.05,0.3
 2023-12-05,Tinguipaya,22.3,7.2,,,6.0
 2023-12-05,Tiraque,25.0,7.0,,,
+2023-12-05,Todos Santos_Or,19.0,,,,
 2023-12-05,Toledo (GPRS),18.27,5.9,88.2,35.34,2.5
 2023-12-05,Tomave,20.0,,,,
 2023-12-05,Trancas,30.0,15.0,,,
@@ -75221,6 +75346,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-06,Temporal - SDC (GPRS),31.02,28.67,35.69,0.72,
 2023-12-06,Tinguipaya,24.2,7.1,,,
 2023-12-06,Tiraque,26.0,8.0,,,
+2023-12-06,Todos Santos_Or,21.0,,,,
 2023-12-06,Toledo (GPRS),22.98,5.96,88.3,15.29,
 2023-12-06,Tomave,22.1,,,,
 2023-12-06,Trancas,30.0,17.0,,,
@@ -75465,6 +75591,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-07,Temporal - SDC (GPRS),27.63,21.1,41.9,0.12,
 2023-12-07,Tinguipaya,23.2,8.2,,,
 2023-12-07,Tiraque,20.0,10.0,,,
+2023-12-07,Todos Santos_Or,20.5,,,,
 2023-12-07,Toledo (GPRS),21.96,4.7,82.5,25.52,
 2023-12-07,Tomave,25.5,,,,
 2023-12-07,Trancas,20.0,18.0,,,
@@ -75971,6 +76098,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-09,Temporal - SDC (GPRS),29.81,25.96,23.62,0.03,
 2023-12-09,Tinguipaya,23.2,7.2,,,8.0
 2023-12-09,Tiraque,26.0,8.0,,,
+2023-12-09,Todos Santos_Or,19.5,,,,
 2023-12-09,Toledo (GPRS),21.61,7.08,80.2,23.86,
 2023-12-09,Tomave,20.0,,,,
 2023-12-09,Totora i_M (GPRS),,,,,0.8
@@ -76456,6 +76584,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-11,Temporal - SDC (GPRS),24.57,20.76,44.82,1.58,31.7
 2023-12-11,Tinguipaya,23.2,7.3,,,
 2023-12-11,Tiraque,26.0,6.0,,,8.5
+2023-12-11,Todos Santos_Or,21.0,,,,
 2023-12-11,Toledo (GPRS),20.92,7.77,82.5,27.13,5.8
 2023-12-11,Toma Ravelo_M (GPRS),,,,,26.9
 2023-12-11,Tomave,22.0,,,,
@@ -76692,6 +76821,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-12,Temporal - SDC (GPRS),28.59,25.36,32.09,0.05,
 2023-12-12,Tinguipaya,21.4,8.2,,,5.0
 2023-12-12,Tiraque,24.0,8.0,,,
+2023-12-12,Todos Santos_Or,18.5,,,,
 2023-12-12,Toledo (GPRS),22.56,6.89,96.1,25.76,0.6
 2023-12-12,Tomave,21.0,,,,
 2023-12-12,Trancas,33.0,18.0,,,
@@ -77449,6 +77579,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-15,Temporal - SDC (GPRS),21.96,20.65,53.27,42.09,
 2023-12-15,Tinguipaya,22.1,5.3,,,
 2023-12-15,Tiraque,23.0,6.0,,,
+2023-12-15,Todos Santos_Or,21.5,,,,
 2023-12-15,Toledo (GPRS),18.19,6.58,88.7,41.74,7.2
 2023-12-15,Toma Ravelo_M (GPRS),,,,,30.8
 2023-12-15,Tomave,24.0,,,,
@@ -77675,6 +77806,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-16,Temporal - SDC (GPRS),27.06,25.15,1.67,0.03,
 2023-12-16,Tinguipaya,25.3,8.1,,,
 2023-12-16,Tiraque,26.0,9.0,,,
+2023-12-16,Todos Santos_Or,22.5,,,,
 2023-12-16,Toledo (GPRS),21.57,6.01,89.7,28.74,
 2023-12-16,Tomave,24.1,,,,
 2023-12-16,Trancas,31.0,23.0,,,
@@ -77905,6 +78037,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-17,Temporal - SDC (GPRS),28.28,25.97,20.72,0.06,13.1
 2023-12-17,Tinguipaya,24.2,7.3,,,
 2023-12-17,Tiraque,24.0,7.0,,,10.5
+2023-12-17,Todos Santos_Or,18.5,,,,
 2023-12-17,Toledo (GPRS),22.15,9.56,74.86,20.36,5.1
 2023-12-17,Toma Ravelo_M (GPRS),,,,,0.4
 2023-12-17,Tomave,23.5,,,,
@@ -78133,6 +78266,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-18,Temporal - SDC (GPRS),29.3,24.22,44.63,0.12,
 2023-12-18,Tinguipaya,20.4,6.1,,,
 2023-12-18,Tiraque,25.0,6.0,,,
+2023-12-18,Todos Santos_Or,19.5,,,,
 2023-12-18,Toledo (GPRS),21.71,7.86,89.0,26.12,
 2023-12-18,Toma Ravelo_M (GPRS),,,,,0.4
 2023-12-18,Tomave,22.8,,,,
@@ -78392,6 +78526,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-19,Temporal - SDC (GPRS),22.71,18.2,54.44,0.12,
 2023-12-19,Tinguipaya,22.3,6.4,,,
 2023-12-19,Tiraque,24.0,9.0,,,
+2023-12-19,Todos Santos_Or,17.0,,,,
 2023-12-19,Toledo (GPRS),21.06,2.76,70.37,20.37,0.3
 2023-12-19,Tomave,24.5,,,,
 2023-12-19,Trancas,22.0,14.0,,,35.2
@@ -78655,6 +78790,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-20,Temporal - SDC (GPRS),26.98,24.72,32.26,0.07,
 2023-12-20,Tinguipaya,25.4,8.1,,,7.0
 2023-12-20,Tiraque,26.0,7.0,,,
+2023-12-20,Todos Santos_Or,20.0,,,,
 2023-12-20,Toledo (GPRS),21.79,7.31,80.8,14.74,
 2023-12-20,Toma Ravelo_M (GPRS),,,,,0.3
 2023-12-20,Tomave,26.6,,,,
@@ -78897,6 +79033,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-21,Temporal - SDC (GPRS),28.52,24.65,34.24,0.04,
 2023-12-21,Tinguipaya,23.1,7.3,,,
 2023-12-21,Tiraque,25.0,8.0,,,
+2023-12-21,Todos Santos_Or,21.0,,,,
 2023-12-21,Toledo (GPRS),23.85,8.0,73.25,20.13,
 2023-12-21,Toma Ravelo_M (GPRS),,,,,0.5
 2023-12-21,Tomave,26.5,,,,
@@ -79142,6 +79279,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-22,Temporal - SDC (GPRS),28.48,25.7,28.32,0.03,
 2023-12-22,Tinguipaya,23.4,8.1,,,
 2023-12-22,Tiraque,27.0,8.0,,,
+2023-12-22,Todos Santos_Or,20.5,,,,
 2023-12-22,Toledo (GPRS),24.3,5.32,78.6,17.31,
 2023-12-22,Tomave,28.5,,,,
 2023-12-22,Trancas,30.0,18.0,,,
@@ -79344,6 +79482,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-23,Temporal - SDC (GPRS),30.13,25.76,25.96,0.03,
 2023-12-23,Tinguipaya,24.2,6.4,,,
 2023-12-23,Tiraque,26.0,9.0,,,
+2023-12-23,Todos Santos_Or,22.0,,,,
 2023-12-23,Toledo (GPRS),24.14,5.18,86.1,17.11,
 2023-12-23,Tomave,27.5,,,,
 2023-12-23,Trancas,28.0,21.0,,,
@@ -79540,6 +79679,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-24,Temporal - SDC (GPRS),31.96,27.03,20.32,0.08,
 2023-12-24,Tinguipaya,22.1,8.3,,,
 2023-12-24,Tiraque,28.0,7.0,,,12.0
+2023-12-24,Todos Santos_Or,21.5,,,,
 2023-12-24,Toledo (GPRS),23.59,5.97,80.4,17.87,
 2023-12-24,Tomave,25.5,,,,
 2023-12-24,Trancas,35.0,22.0,,,
@@ -79747,6 +79887,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-25,Temporal - SDC (GPRS),30.06,27.07,22.57,13.95,
 2023-12-25,Tinguipaya,21.3,7.3,,,
 2023-12-25,Tiraque,27.0,9.0,,,
+2023-12-25,Todos Santos_Or,22.5,,,,
 2023-12-25,Toledo (GPRS),25.09,9.09,69.91,11.52,
 2023-12-25,Tomave,27.5,,,,
 2023-12-25,Trancas,32.0,20.0,,,
@@ -80256,6 +80397,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-27,Temporal - SDC (GPRS),26.32,19.88,2.31,0.03,
 2023-12-27,Tinguipaya,22.3,8.2,,,
 2023-12-27,Tiraque,26.0,8.0,,,
+2023-12-27,Todos Santos_Or,17.0,,,,
 2023-12-27,Toledo (GPRS),19.72,9.51,82.4,29.75,10.2
 2023-12-27,Toma Ravelo_M (GPRS),,,,,0.8
 2023-12-27,Tomave,25.5,,,,
@@ -81256,6 +81398,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-31,Temporal - SDC (GPRS),22.57,20.49,1.08,0.14,
 2023-12-31,Tinguipaya,19.3,7.2,,,10.0
 2023-12-31,Tiraque,22.0,8.0,,,18.0
+2023-12-31,Todos Santos_Or,19.0,,,,
 2023-12-31,Toledo (GPRS),17.83,5.36,94.9,43.65,21.9
 2023-12-31,Toma Ravelo_M (GPRS),,,,,1.5
 2023-12-31,Tomave,20.5,,,,
