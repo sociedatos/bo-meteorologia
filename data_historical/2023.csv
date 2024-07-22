@@ -53814,6 +53814,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-01,Aiquile (GPRS),35.97,7.97,81.9,23.52,
 2023-09-01,Alcantarí_Aeropuerto,23.2,,,,
 2023-09-01,Alto Peñas (GPRS),15.72,3.14,92.4,29.65,
+2023-09-01,Andamarca,20.1,4.0,,,
 2023-09-01,Anzaldo,5.0,,,,0.5
 2023-09-01,Arani,26.0,11.0,,,
 2023-09-01,Aroma (GPRS),7.29,7.29,55.05,55.05,
@@ -54009,6 +54010,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-02,Alcantarí_Aeropuerto,23.5,,,,
 2023-09-02,Alto Peñas (GPRS),16.0,3.65,87.8,27.36,
 2023-09-02,Ancoraimes,,,,,1.2
+2023-09-02,Andamarca,20.0,3.2,,,
 2023-09-02,Anzaldo,4.0,,,,1.2
 2023-09-02,Anzaldo_M (GPRS),,,,,0.5
 2023-09-02,Arani,26.0,13.0,,,
@@ -54192,6 +54194,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-03,Alcantarí_Aeropuerto,21.2,,,,
 2023-09-03,Alto Peñas (GPRS),15.78,-0.02,85.4,28.37,
 2023-09-03,Ancoraimes,,,,,1.0
+2023-09-03,Andamarca,18.0,4.1,,,
 2023-09-03,Anzaldo,1.0,,,,
 2023-09-03,Anzaldo_M (GPRS),,,,,2.8
 2023-09-03,Apolo Aeropuerto,28.1,,,,
@@ -54396,6 +54399,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-04,Aiquile (GPRS),38.3,9.69,88.4,9.81,
 2023-09-04,Alcantarí_Aeropuerto,22.2,,,,
 2023-09-04,Alto Peñas (GPRS),16.83,0.14,93.6,6.85,
+2023-09-04,Andamarca,19.9,3.0,,,
 2023-09-04,Anzaldo,1.0,,,,
 2023-09-04,Apolo Aeropuerto,24.6,,,,
 2023-09-04,Arani,32.0,14.0,,,
@@ -54595,6 +54599,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-05,Aiquile (GPRS),36.24,8.63,88.0,24.01,
 2023-09-05,Alcantarí_Aeropuerto,22.8,,,,
 2023-09-05,Alto Peñas (GPRS),16.07,0.81,98.8,29.54,
+2023-09-05,Andamarca,20.0,2.0,,,
 2023-09-05,Anzaldo,3.0,,,,
 2023-09-05,Apolo Aeropuerto,30.5,,,,
 2023-09-05,Arani,30.0,13.0,,,
@@ -54789,6 +54794,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-06,Alto Obrajes_Barrio Magisterio,,,,,0.2
 2023-09-06,Alto Peñas (GPRS),13.74,0.23,99.8,38.79,0.4
 2023-09-06,Ancoraimes,,,,,0.1
+2023-09-06,Andamarca,20.1,2.0,,,
 2023-09-06,Anzaldo,3.0,,,,
 2023-09-06,Apolo Aeropuerto,30.0,,,,
 2023-09-06,Arani,24.0,15.0,,,
@@ -54996,6 +55002,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-07,Alto Obrajes_Barrio Magisterio,,,,,0.7
 2023-09-07,Alto Peñas (GPRS),14.28,-0.12,87.1,17.43,0.2
 2023-09-07,Ancoraimes,,,,,3.5
+2023-09-07,Andamarca,20.0,3.2,,,
 2023-09-07,Anzaldo,2.0,,,,
 2023-09-07,Apolo Aeropuerto,30.6,,,,
 2023-09-07,Arani,29.0,16.0,,,
@@ -55197,6 +55204,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-08,Aiquile (GPRS),35.59,20.0,42.44,17.1,
 2023-09-08,Alcantarí_Aeropuerto,22.2,,,,
 2023-09-08,Alto Peñas (GPRS),14.87,12.58,28.93,13.54,
+2023-09-08,Andamarca,21.2,3.1,,,
 2023-09-08,Anzaldo,2.0,,,,
 2023-09-08,Apolo Aeropuerto,,17.3,,,
 2023-09-08,Arani,29.0,14.0,,,
@@ -55385,6 +55393,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-09,Aiquile (GPRS),35.37,6.46,88.2,22.64,
 2023-09-09,Alcantarí_Aeropuerto,23.1,,,,
 2023-09-09,Alto Peñas (GPRS),16.2,1.6,82.0,7.97,
+2023-09-09,Andamarca,20.1,2.2,,,
 2023-09-09,Anzaldo,2.0,,,,
 2023-09-09,Arani,32.0,13.0,,,
 2023-09-09,Aroma (GPRS),17.31,-8.59,18.93,2.19,
@@ -55557,6 +55566,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-10,Aiquile (GPRS),38.78,5.42,85.0,10.1,
 2023-09-10,Alcantarí_Aeropuerto,23.8,,,,
 2023-09-10,Alto Peñas (GPRS),16.5,0.14,81.0,7.39,
+2023-09-10,Andamarca,19.5,1.3,,,
 2023-09-10,Anzaldo,1.0,,,,
 2023-09-10,Arani,22.0,14.0,,,
 2023-09-10,Aroma (GPRS),0.57,0.57,7.92,7.92,
@@ -55739,6 +55749,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-11,Aiquile (GPRS),39.24,8.68,82.2,10.8,
 2023-09-11,Alcantarí_Aeropuerto,25.5,,,,
 2023-09-11,Alto Peñas (GPRS),17.19,1.0,84.3,23.36,
+2023-09-11,Andamarca,18.5,3.5,,,
 2023-09-11,Anzaldo,2.0,,,,
 2023-09-11,Arani,31.0,14.0,,,
 2023-09-11,Aroma (GPRS),5.59,5.59,27.06,27.06,
@@ -55926,6 +55937,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-12,Aiquile (GPRS),33.42,8.1,76.53,27.47,
 2023-09-12,Alcantarí_Aeropuerto,22.0,,,,
 2023-09-12,Alto Peñas (GPRS),17.0,2.23,90.5,18.63,
+2023-09-12,Andamarca,18.3,3.4,,,
 2023-09-12,Anzaldo,3.0,,,,
 2023-09-12,Apolo Aeropuerto,33.0,,,,
 2023-09-12,Arani,27.0,19.0,,,2.0
@@ -56123,6 +56135,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-13,Alcantarí_Aeropuerto,22.3,,,,
 2023-09-13,Alto Peñas (GPRS),15.74,0.29,62.19,7.84,1.8
 2023-09-13,Ancoraimes,,,,,1.5
+2023-09-13,Andamarca,19.9,2.2,,,
 2023-09-13,Anzaldo,4.0,,,,
 2023-09-13,Anzaldo_M (GPRS),,,,,1.3
 2023-09-13,Apolo Aeropuerto,30.0,,,,
@@ -56336,6 +56349,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-14,Aiquile (GPRS),35.89,4.75,89.4,23.58,
 2023-09-14,Alcantarí_Aeropuerto,24.1,,,,
 2023-09-14,Alto Peñas (GPRS),16.37,1.34,85.9,7.03,
+2023-09-14,Andamarca,20.4,2.0,,,
 2023-09-14,Anzaldo,3.0,,,,
 2023-09-14,Apolo Aeropuerto,28.3,,,,
 2023-09-14,Arani,31.0,14.0,,,
@@ -56531,6 +56545,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-15,Aiquile (GPRS),34.51,6.52,86.6,21.09,
 2023-09-15,Alcantarí_Aeropuerto,23.9,,,,
 2023-09-15,Alto Peñas (GPRS),17.55,3.35,85.2,12.66,
+2023-09-15,Andamarca,19.6,3.0,,,
 2023-09-15,Anzaldo,2.0,,,,
 2023-09-15,Apolo Aeropuerto,,16.0,,,
 2023-09-15,Arani,28.0,12.0,,,
@@ -56720,6 +56735,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-16,Aiquile (GPRS),40.65,6.22,78.48,12.69,
 2023-09-16,Alcantarí_Aeropuerto,25.8,,,,
 2023-09-16,Alto Peñas (GPRS),18.04,0.93,88.9,10.22,
+2023-09-16,Andamarca,19.3,3.2,,,
 2023-09-16,Anzaldo,0.0,,,,
 2023-09-16,Arani,31.0,18.0,,,
 2023-09-16,Aroma (GPRS),5.08,5.08,8.41,8.41,
@@ -56890,6 +56906,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-17,Aiquile (GPRS),38.54,9.32,82.4,14.7,
 2023-09-17,Alcantarí_Aeropuerto,26.0,,,,
 2023-09-17,Alto Peñas (GPRS),17.27,2.45,82.2,17.63,
+2023-09-17,Andamarca,18.8,2.6,,,
 2023-09-17,Anzaldo,3.0,,,,
 2023-09-17,Apolo Aeropuerto,31.2,,,,
 2023-09-17,Arani,26.0,21.0,,,
@@ -57075,6 +57092,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-18,Aiquile (GPRS),35.61,10.19,87.2,26.59,
 2023-09-18,Alcantarí_Aeropuerto,22.6,,,,
 2023-09-18,Alto Peñas (GPRS),17.86,2.25,95.6,17.08,
+2023-09-18,Andamarca,18.1,4.0,,,
 2023-09-18,Anzaldo,3.0,,,,
 2023-09-18,Apolo Aeropuerto,32.1,,,,
 2023-09-18,Arani,30.0,14.0,,,
@@ -57272,6 +57290,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-19,Aiquile (GPRS),33.78,7.8,86.8,36.31,
 2023-09-19,Alcantarí_Aeropuerto,21.1,,,,0.2
 2023-09-19,Alto Peñas (GPRS),14.33,2.31,94.1,37.11,
+2023-09-19,Andamarca,19.9,4.2,,,
 2023-09-19,Anzaldo,2.0,,,,
 2023-09-19,Apolo Aeropuerto,30.3,,,,
 2023-09-19,Arani,29.0,16.0,,,
@@ -57488,6 +57507,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-20,Aiquile (GPRS),35.44,8.65,88.1,32.99,
 2023-09-20,Alcantarí_Aeropuerto,22.4,,,,
 2023-09-20,Alto Peñas (GPRS),18.03,2.86,97.1,27.92,0.9
+2023-09-20,Andamarca,20.4,3.0,,,
 2023-09-20,Anzaldo,2.0,,,,
 2023-09-20,Apolo Aeropuerto,27.8,,,,
 2023-09-20,Arani,29.0,17.0,,,
@@ -57692,6 +57712,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-21,Alcantarí_Aeropuerto,24.9,,,,
 2023-09-21,Alto Obrajes_Barrio Magisterio,,,,,3.1
 2023-09-21,Alto Peñas (GPRS),17.06,4.07,91.6,33.06,
+2023-09-21,Andamarca,20.1,2.2,,,
 2023-09-21,Anzaldo,3.0,,,,
 2023-09-21,Apolo Aeropuerto,32.0,,,,
 2023-09-21,Apolo_M (GPRS),,,,,1.8
@@ -57886,6 +57907,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-22,Aiquile (GPRS),38.74,8.39,87.1,18.99,
 2023-09-22,Alcantarí_Aeropuerto,25.1,,,,
 2023-09-22,Alto Peñas (GPRS),18.99,3.42,94.7,21.05,
+2023-09-22,Andamarca,19.5,2.3,,,
 2023-09-22,Anzaldo,2.0,,,,
 2023-09-22,Apolo Aeropuerto,,16.9,,,
 2023-09-22,Arani,31.0,17.0,,,
@@ -58072,6 +58094,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-23,Aiquile (GPRS),39.4,8.89,85.1,18.49,
 2023-09-23,Alcantarí_Aeropuerto,25.3,,,,
 2023-09-23,Alto Peñas (GPRS),16.86,1.18,99.9,37.44,0.2
+2023-09-23,Andamarca,19.9,3.5,,,
 2023-09-23,Anzaldo,1.0,,,,
 2023-09-23,Arani,31.0,16.0,,,
 2023-09-23,Aroma (GPRS),6.68,6.68,18.6,18.6,
@@ -58241,6 +58264,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-24,Aiquile (GPRS),39.53,10.44,80.7,20.57,
 2023-09-24,Alcantarí_Aeropuerto,25.6,,,,
 2023-09-24,Alto Peñas (GPRS),16.2,1.62,96.0,37.34,
+2023-09-24,Andamarca,18.9,3.4,,,
 2023-09-24,Anzaldo,1.0,,,,
 2023-09-24,Arani,30.0,19.0,,,
 2023-09-24,Aroma (GPRS),10.65,10.65,49.51,49.51,
@@ -58420,6 +58444,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-25,Alcantarí_Aeropuerto,25.4,,,,
 2023-09-25,Alto Obrajes_Barrio Magisterio,,,,,1.1
 2023-09-25,Alto Peñas (GPRS),18.27,4.39,91.5,34.34,
+2023-09-25,Andamarca,19.5,2.0,,,
 2023-09-25,Anzaldo,0.0,,,,
 2023-09-25,Apolo_M (GPRS),,,,,4.8
 2023-09-25,Arani,28.0,20.0,,,
@@ -58611,6 +58636,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-26,Alalay (GPRS),22.22,9.25,69.94,16.49,
 2023-09-26,Alcantarí_Aeropuerto,29.3,,,,
 2023-09-26,Alto Peñas (GPRS),20.88,3.5,94.5,20.04,
+2023-09-26,Andamarca,20.1,2.2,,,
 2023-09-26,Anzaldo,2.0,,,,
 2023-09-26,Arani,33.0,16.0,,,
 2023-09-26,Aroma (GPRS),11.27,11.27,15.63,15.63,
@@ -58829,6 +58855,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-27,Aiquile (GPRS),32.46,12.65,92.6,28.17,0.6
 2023-09-27,Alcantarí_Aeropuerto,18.8,,,,
 2023-09-27,Alto Peñas (GPRS),17.89,4.19,86.1,31.27,
+2023-09-27,Andamarca,18.3,1.5,,,
 2023-09-27,Anzaldo,6.0,,,,
 2023-09-27,Arani,24.0,15.0,,,
 2023-09-27,Aroma (GPRS),22.53,-1.16,17.94,17.94,
@@ -59066,6 +59093,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-28,Alcantarí_Aeropuerto,27.2,,,,
 2023-09-28,Alto Obrajes_Barrio Magisterio,,,,,1.1
 2023-09-28,Alto Peñas (GPRS),19.28,3.04,94.0,17.76,
+2023-09-28,Andamarca,18.6,1.8,,,
 2023-09-28,Anzaldo,3.0,,,,
 2023-09-28,Apolo_M (GPRS),,,,,3.5
 2023-09-28,Arani,34.0,16.0,,,
@@ -59310,6 +59338,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-29,Aiquile (GPRS),34.45,14.76,70.72,35.32,
 2023-09-29,Alcantarí_Aeropuerto,21.0,,,,
 2023-09-29,Alto Peñas (GPRS),16.93,0.54,97.2,38.71,
+2023-09-29,Andamarca,19.4,2.4,,,
 2023-09-29,Anzaldo,4.0,,,,
 2023-09-29,Arani,29.0,18.0,,,
 2023-09-29,Aroma (GPRS),23.27,6.08,16.5,16.5,
@@ -59518,6 +59547,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-09-30,Aiquile (GPRS),34.26,13.74,77.91,36.7,
 2023-09-30,Alcantarí_Aeropuerto,20.8,,,,
 2023-09-30,Alto Peñas (GPRS),15.39,3.77,93.1,43.33,1.2
+2023-09-30,Andamarca,19.0,2.9,,,
 2023-09-30,Anzaldo,2.0,,,,
 2023-09-30,Arani,30.0,17.0,,,
 2023-09-30,Aroma (GPRS),23.13,0.87,59.66,59.66,
@@ -59713,6 +59743,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-01,Aiquile (GPRS),34.15,10.05,89.3,34.95,
 2023-10-01,Alcantarí_Aeropuerto,24.8,10.1,,,
 2023-10-01,Alto Peñas (GPRS),15.94,5.5,90.1,41.81,
+2023-10-01,Andamarca,20.0,3.0,,,
 2023-10-01,Apolo Aeropuerto,28.3,,,,
 2023-10-01,Arani,30.0,16.0,,,
 2023-10-01,Aroma (GPRS),22.76,1.72,14.89,14.89,
@@ -60135,6 +60166,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-03,Aiquile (GPRS),40.65,12.71,81.0,18.13,
 2023-10-03,Alcantarí_Aeropuerto,28.8,10.8,,,
 2023-10-03,Alto Peñas (GPRS),20.07,3.91,91.6,23.91,
+2023-10-03,Andamarca,20.0,2.2,,,
 2023-10-03,Apolo Aeropuerto,31.2,,,,
 2023-10-03,Arani,29.0,17.0,,,
 2023-10-03,Aroma (GPRS),21.57,-1.27,25.56,25.56,
@@ -60349,6 +60381,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-04,Aiquile (GPRS),36.94,12.11,87.9,37.1,
 2023-10-04,Alcantarí_Aeropuerto,23.7,12.3,,,
 2023-10-04,Alto Peñas (GPRS),20.61,5.48,92.5,22.08,
+2023-10-04,Andamarca,21.4,2.0,,,
 2023-10-04,Apolo Aeropuerto,33.8,,,,
 2023-10-04,Arani,34.0,18.0,,,
 2023-10-04,Aroma (GPRS),23.12,-1.92,24.67,24.67,
@@ -60566,6 +60599,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-05,Aiquile (GPRS),38.26,10.89,87.1,28.97,
 2023-10-05,Alcantarí_Aeropuerto,27.3,10.8,,,
 2023-10-05,Alto Peñas (GPRS),18.96,6.53,89.1,35.31,
+2023-10-05,Andamarca,18.9,3.5,,,
 2023-10-05,Apolo Aeropuerto,33.0,,,,
 2023-10-05,Arani,29.0,20.0,,,
 2023-10-05,Aroma (GPRS),23.1,-2.63,7.08,7.08,
@@ -60793,6 +60827,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-06,Aiquile (GPRS),42.07,13.5,84.3,20.48,
 2023-10-06,Alcantarí_Aeropuerto,28.2,9.9,,,
 2023-10-06,Alto Peñas (GPRS),21.42,5.26,88.0,22.28,
+2023-10-06,Andamarca,18.1,3.3,,,
 2023-10-06,Apolo,24.0,24.0,68.6,68.6,
 2023-10-06,Apolo Aeropuerto,,18.8,,,
 2023-10-06,Arani,34.0,20.0,,,
@@ -61013,6 +61048,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-07,Aiquile (GPRS),34.86,14.61,85.7,40.89,
 2023-10-07,Alcantarí_Aeropuerto,22.4,11.3,,,
 2023-10-07,Alto Peñas (GPRS),20.48,5.42,100.0,15.11,
+2023-10-07,Andamarca,17.5,2.5,,,
 2023-10-07,Arani,33.0,21.0,,,
 2023-10-07,Aroma (GPRS),8.09,8.09,29.15,29.15,
 2023-10-07,Ayo Ayo,23.0,-1.5,,,
@@ -61215,6 +61251,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-08,Aiquile (GPRS),31.76,14.77,83.6,43.21,0.1
 2023-10-08,Alcantarí_Aeropuerto,22.6,10.5,,,
 2023-10-08,Alto Peñas (GPRS),20.43,3.71,95.9,19.04,0.1
+2023-10-08,Andamarca,17.0,2.4,,,
 2023-10-08,Apolo Aeropuerto,33.3,,,,
 2023-10-08,Arani,29.0,17.0,,,
 2023-10-08,Aroma (GPRS),7.46,7.46,16.84,16.84,
@@ -61444,6 +61481,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-09,Aiquile (GPRS),36.36,10.53,91.2,34.68,
 2023-10-09,Alcantarí_Aeropuerto,23.0,8.7,,,
 2023-10-09,Alto Peñas (GPRS),18.13,3.44,100.0,38.49,
+2023-10-09,Andamarca,18.0,1.0,,,
 2023-10-09,Apolo Aeropuerto,26.0,,,,
 2023-10-09,Apolo_M (GPRS),,,,,0.1
 2023-10-09,Arani,28.0,16.0,,,
@@ -61673,6 +61711,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-10,Alalay (GPRS),20.83,10.85,64.53,20.67,
 2023-10-10,Alcantarí_Aeropuerto,27.8,8.1,,,
 2023-10-10,Alto Peñas (GPRS),19.08,4.41,89.0,24.26,
+2023-10-10,Andamarca,18.2,2.0,,,
 2023-10-10,Apolo Aeropuerto,33.5,,,,
 2023-10-10,Apolo_M (GPRS),,,,,0.2
 2023-10-10,Arani,32.0,21.0,,,
@@ -61906,6 +61945,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-11,Alalay (GPRS),22.85,10.2,77.58,15.87,
 2023-10-11,Alcantarí_Aeropuerto,30.2,11.4,,,
 2023-10-11,Alto Peñas (GPRS),20.66,18.54,28.9,24.33,
+2023-10-11,Andamarca,18.5,2.4,,,
 2023-10-11,Apolo Aeropuerto,34.5,,,,
 2023-10-11,Arani,34.0,20.0,,,
 2023-10-11,Aroma (GPRS),24.67,8.59,8.05,2.55,
@@ -62122,6 +62162,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-12,Aiquile (GPRS),37.85,25.25,60.41,27.91,
 2023-10-12,Alcantarí_Aeropuerto,24.6,13.4,,,
 2023-10-12,Alto Peñas (GPRS),17.49,8.81,76.14,39.25,2.1
+2023-10-12,Andamarca,19.3,2.2,,,
 2023-10-12,Apolo,25.0,25.0,56.9,56.9,
 2023-10-12,Apolo Aeropuerto,31.3,,,,
 2023-10-12,Arani,28.0,19.0,,,
@@ -62341,6 +62382,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-13,Aiquile (GPRS),36.86,21.13,71.48,35.26,
 2023-10-13,Alcantarí_Aeropuerto,27.4,11.0,,,
 2023-10-13,Alto Peñas (GPRS),17.73,15.08,51.02,41.24,3.2
+2023-10-13,Andamarca,19.9,3.6,,,
 2023-10-13,Apolo Aeropuerto,,18.6,,,
 2023-10-13,Apolo_M (GPRS),,,,,17.7
 2023-10-13,Arani,33.0,22.0,,,
@@ -62566,6 +62608,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-14,Aiquile (GPRS),38.1,21.33,67.31,27.98,
 2023-10-14,Alcantarí_Aeropuerto,25.7,8.9,,,
 2023-10-14,Alto Peñas (GPRS),17.04,14.09,47.38,38.44,
+2023-10-14,Andamarca,20.1,2.2,,,
 2023-10-14,Arani,33.0,19.0,,,
 2023-10-14,Aroma (GPRS),23.43,10.46,53.05,13.21,
 2023-10-14,Ayo Ayo,22.0,0.6,,,
@@ -62756,6 +62799,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-15,Aiquile (GPRS),38.75,24.68,49.64,23.33,
 2023-10-15,Alcantarí_Aeropuerto,25.3,10.1,,,
 2023-10-15,Alto Peñas (GPRS),17.93,15.85,37.48,31.3,
+2023-10-15,Andamarca,20.5,2.9,,,
 2023-10-15,Apolo Aeropuerto,34.3,,,,
 2023-10-15,Arani,29.0,20.0,,,
 2023-10-15,Aroma (GPRS),24.23,11.82,44.41,9.86,
@@ -62954,6 +62998,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-16,Aiquile (GPRS),40.77,25.58,40.64,15.59,
 2023-10-16,Alcantarí_Aeropuerto,25.8,10.3,,,
 2023-10-16,Alto Peñas (GPRS),17.07,14.13,40.06,33.2,
+2023-10-16,Andamarca,21.3,3.6,,,
 2023-10-16,Apolo,28.0,28.0,50.8,50.8,
 2023-10-16,Apolo Aeropuerto,32.0,,,,
 2023-10-16,Arani,29.0,14.0,,,
@@ -63172,6 +63217,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-17,Aiquile (GPRS),36.23,22.6,54.23,25.57,
 2023-10-17,Alcantarí_Aeropuerto,24.0,10.2,,,
 2023-10-17,Alto Peñas (GPRS),13.6,9.05,73.23,44.91,
+2023-10-17,Andamarca,22.0,4.0,,,
 2023-10-17,Apolo Aeropuerto,33.0,,,,
 2023-10-17,Apolo_M (GPRS),,,,,0.2
 2023-10-17,Arani,29.0,14.0,,,
@@ -64384,6 +64430,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-22,Aiquile (GPRS),41.26,26.49,32.81,15.79,
 2023-10-22,Alcantarí_Aeropuerto,25.1,10.5,,,
 2023-10-22,Alto Peñas (GPRS),16.09,14.92,39.91,36.91,
+2023-10-22,Andamarca,18.3,2.0,,,
 2023-10-22,Apolo Aeropuerto,34.5,,,,
 2023-10-22,Arani,28.0,17.0,,,
 2023-10-22,Aroma (GPRS),21.62,9.15,85.2,26.06,
@@ -64833,6 +64880,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-24,Alcantarí_Aeropuerto,,,,,18.7
 2023-10-24,Alto Peñas (GPRS),14.64,7.26,84.6,48.41,0.3
 2023-10-24,Ancoraimes,,,,,12.2
+2023-10-24,Andamarca,18.7,3.7,,,
 2023-10-24,Anzaldo,,,,,1.1
 2023-10-24,Anzaldo_M (GPRS),,,,,0.9
 2023-10-24,Apolo Aeropuerto,35.3,,,,
@@ -65092,6 +65140,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-25,Alcantarí_Aeropuerto,,,,,1.2
 2023-10-25,Alto Obrajes_Barrio Magisterio,,,,,1.1
 2023-10-25,Alto Peñas (GPRS),17.39,14.62,50.48,38.74,3.9
+2023-10-25,Andamarca,19.6,4.9,,,
 2023-10-25,Anzaldo,,,,,2.3
 2023-10-25,Anzaldo_M (GPRS),,,,,3.2
 2023-10-25,Apolo Aeropuerto,27.0,,,,
@@ -65354,6 +65403,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-26,Aiquile (GPRS),37.0,21.38,67.2,30.94,
 2023-10-26,Alcantarí_Aeropuerto,24.0,10.2,,,
 2023-10-26,Alto Peñas (GPRS),15.59,13.48,57.94,43.13,4.4
+2023-10-26,Andamarca,20.2,4.0,,,
 2023-10-26,Apolo Aeropuerto,31.6,,,,
 2023-10-26,Arani,29.0,19.0,,,
 2023-10-26,Aroma (GPRS),21.68,9.32,15.8,5.38,
@@ -65591,6 +65641,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-27,Aiquile (GPRS),39.02,25.14,55.6,26.76,
 2023-10-27,Alcantarí_Aeropuerto,25.1,10.7,,,
 2023-10-27,Alto Peñas (GPRS),18.45,14.65,54.14,28.86,
+2023-10-27,Andamarca,20.0,3.6,,,
 2023-10-27,Apolo,25.0,25.0,64.6,64.6,
 2023-10-27,Apolo Aeropuerto,,16.7,,,
 2023-10-27,Arani,28.0,19.0,,,
@@ -65826,6 +65877,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-28,Aiquile (GPRS),34.8,17.29,73.87,31.31,
 2023-10-28,Alcantarí_Aeropuerto,25.4,11.8,,,
 2023-10-28,Alto Peñas (GPRS),17.63,14.15,31.74,18.9,
+2023-10-28,Andamarca,21.1,3.3,,,
 2023-10-28,Arani,30.0,17.0,,,
 2023-10-28,Aroma (GPRS),18.57,7.24,17.3,4.36,
 2023-10-28,Ayo Ayo,22.0,-0.6,,,
@@ -66040,6 +66092,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-29,Alalay (GPRS),20.08,9.3,,,
 2023-10-29,Alcantarí_Aeropuerto,26.1,11.1,,,
 2023-10-29,Alto Peñas (GPRS),16.32,14.45,21.81,17.8,
+2023-10-29,Andamarca,19.4,2.1,,,
 2023-10-29,Apolo Aeropuerto,30.1,,,,
 2023-10-29,Arani,33.0,19.0,,,
 2023-10-29,Aroma (GPRS),17.81,6.25,28.61,1.47,
@@ -66252,6 +66305,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-30,Aiquile (GPRS),41.73,28.08,48.55,12.85,
 2023-10-30,Alcantarí_Aeropuerto,26.5,,,,
 2023-10-30,Alto Peñas (GPRS),17.91,16.03,31.92,22.87,
+2023-10-30,Andamarca,19.0,2.0,,,
 2023-10-30,Apolo Aeropuerto,32.1,,,,
 2023-10-30,Arani,32.0,17.0,,,
 2023-10-30,Aroma (GPRS),19.17,6.47,18.4,2.72,
@@ -66482,6 +66536,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-10-31,Aiquile (GPRS),35.58,20.72,72.15,34.2,
 2023-10-31,Alcantarí_Aeropuerto,22.7,11.6,,,
 2023-10-31,Alto Peñas (GPRS),17.37,15.35,42.52,24.76,
+2023-10-31,Andamarca,20.2,3.0,,,
 2023-10-31,Apolo Aeropuerto,,,,,2.3
 2023-10-31,Arani,30.0,16.0,,,1.1
 2023-10-31,Aroma (GPRS),20.74,7.56,13.75,0.94,
@@ -66717,6 +66772,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-01,Aiquile (GPRS),38.3,25.82,60.69,31.84,
 2023-11-01,Alcantarí_Aeropuerto,24.4,10.3,,,
 2023-11-01,Alto Peñas (GPRS),18.49,13.54,42.99,23.65,
+2023-11-01,Andamarca,19.4,3.0,,,
 2023-11-01,Anzaldo_M (GPRS),,,,,2.8
 2023-11-01,Apolo Aeropuerto,,17.3,,,
 2023-11-01,Arani,31.0,17.0,,,
@@ -66725,6 +66781,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-01,Ayo Ayo,24.0,1.5,,,
 2023-11-01,Ayoma,28.4,5.1,,,
 2023-11-01,Azurduy,,,,,1.0
+2023-11-01,Boyuibe,,,,,2.5
 2023-11-01,Buena Vista S.(GPRS),,,,,1.0
 2023-11-01,Buena Vista Sc,,,,,18.3
 2023-11-01,Cabaña Forestal Oruro,24.1,1.8,,,
@@ -66948,6 +67005,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-02,Aiquile (GPRS),41.6,27.65,49.78,18.68,
 2023-11-02,Alcantarí_Aeropuerto,27.6,8.4,,,
 2023-11-02,Alto Peñas (GPRS),18.87,16.4,42.62,30.86,
+2023-11-02,Andamarca,20.5,2.0,,,
 2023-11-02,Apolo Aeropuerto,31.6,,,,
 2023-11-02,Arani,31.0,19.0,,,
 2023-11-02,Aroma (GPRS),21.53,9.79,18.63,1.6,
@@ -67158,6 +67216,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-03,Aiquile (GPRS),36.02,22.1,67.86,39.41,
 2023-11-03,Alcantarí_Aeropuerto,24.0,11.4,,,
 2023-11-03,Alto Peñas (GPRS),16.71,12.87,64.25,33.44,
+2023-11-03,Andamarca,19.4,2.3,,,
 2023-11-03,Apolo Aeropuerto,,18.4,,,
 2023-11-03,Arani,28.0,18.0,,,
 2023-11-03,Aroma (GPRS),22.1,8.46,6.32,0.71,
@@ -67384,6 +67443,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-04,Aiquile (GPRS),28.77,15.93,74.83,52.09,
 2023-11-04,Alcantarí_Aeropuerto,20.0,8.0,,,
 2023-11-04,Alto Peñas (GPRS),17.67,14.95,45.93,39.05,0.3
+2023-11-04,Andamarca,20.3,3.3,,,
 2023-11-04,Arani,28.0,19.0,,,
 2023-11-04,Aroma (GPRS),23.27,11.79,55.01,15.89,
 2023-11-04,Ayo Ayo,22.5,5.5,,,
@@ -67597,6 +67657,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-05,Aiquile (GPRS),40.14,24.34,56.22,22.42,
 2023-11-05,Alcantarí_Aeropuerto,26.8,9.1,,,
 2023-11-05,Alto Peñas (GPRS),20.48,17.19,34.58,25.82,
+2023-11-05,Andamarca,19.6,3.0,,,
 2023-11-05,Anzaldo_M (GPRS),,,,,9.6
 2023-11-05,Apolo Aeropuerto,32.3,,,,
 2023-11-05,Arani,33.0,20.0,,,
@@ -68025,6 +68086,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-07,Alcantarí_Aeropuerto,26.4,9.6,,,
 2023-11-07,Alto Obrajes_Barrio Magisterio,,,,,5.1
 2023-11-07,Alto Peñas (GPRS),14.95,8.88,83.5,51.14,10.8
+2023-11-07,Andamarca,18.3,4.6,,,
 2023-11-07,Apolo Aeropuerto,34.6,18.8,,,
 2023-11-07,Arani,33.0,18.0,,,
 2023-11-07,Aroma (GPRS),23.39,13.54,46.46,18.45,
@@ -68246,6 +68308,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-08,Aiquile (GPRS),39.16,25.83,47.84,24.63,
 2023-11-08,Alcantarí_Aeropuerto,,,,,1.0
 2023-11-08,Alto Peñas (GPRS),18.06,14.66,53.07,26.54,5.4
+2023-11-08,Andamarca,20.5,3.1,,,
 2023-11-08,Apolo,28.0,28.0,50.8,50.8,
 2023-11-08,Apolo Aeropuerto,34.7,19.0,,,
 2023-11-08,Arani,28.0,19.0,,,
@@ -68475,6 +68538,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-09,Alcantarí_Aeropuerto,24.4,11.8,,,
 2023-11-09,Alto Obrajes_Barrio Magisterio,,,,,3.8
 2023-11-09,Alto Peñas (GPRS),15.88,12.44,58.5,42.55,
+2023-11-09,Andamarca,19.4,4.4,,,
 2023-11-09,Apolo,25.0,25.0,68.8,68.8,
 2023-11-09,Apolo Aeropuerto,34.0,18.3,,,
 2023-11-09,Arani,28.0,20.0,,,
@@ -68969,6 +69033,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-11,Alto Obrajes_Barrio Magisterio,,,,,2.9
 2023-11-11,Alto Peñas (GPRS),14.95,13.76,63.35,48.58,3.6
 2023-11-11,Ancoraimes,,,,,13.9
+2023-11-11,Andamarca,20.5,4.0,,,
 2023-11-11,Arani,31.0,19.0,,,
 2023-11-11,Aroma (GPRS),20.19,9.48,80.3,18.12,
 2023-11-11,Ayo Ayo,20.0,5.0,,,7.0
@@ -69405,6 +69470,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-13,Alto Obrajes_Barrio Magisterio,,,,,4.5
 2023-11-13,Alto Peñas (GPRS),15.79,9.84,87.8,52.24,13.8
 2023-11-13,Ancoraimes,,,,,7.5
+2023-11-13,Andamarca,21.3,3.7,,,
 2023-11-13,Anzaldo,,,,,2.1
 2023-11-13,Apolo Aeropuerto,33.6,18.3,,,
 2023-11-13,Arani,29.0,17.0,,,
@@ -69658,6 +69724,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-14,Alcantarí_Aeropuerto,26.4,10.2,,,
 2023-11-14,Alto Obrajes_Barrio Magisterio,,,,,5.1
 2023-11-14,Alto Peñas (GPRS),17.56,11.08,68.04,29.31,1.7
+2023-11-14,Andamarca,20.0,2.3,,,
 2023-11-14,Apolo Aeropuerto,34.2,19.4,,,
 2023-11-14,Arani,29.0,10.0,,,
 2023-11-14,Aroma (GPRS),21.75,9.99,24.79,7.11,
@@ -69898,6 +69965,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-15,Aiquile (GPRS),40.51,28.38,45.5,19.87,
 2023-11-15,Alcantarí_Aeropuerto,27.6,11.3,,,
 2023-11-15,Alto Peñas (GPRS),15.37,12.08,63.42,48.7,0.2
+2023-11-15,Andamarca,19.3,3.3,,,
 2023-11-15,Apolo Aeropuerto,33.0,19.0,,,
 2023-11-15,Arani,31.0,23.0,,,
 2023-11-15,Aroma (GPRS),22.21,10.52,22.37,7.19,
@@ -70123,6 +70191,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-16,Alalay (GPRS),9.86,9.66,90.52,88.31,
 2023-11-16,Alcantarí_Aeropuerto,28.1,9.8,,,
 2023-11-16,Alto Peñas (GPRS),17.61,11.56,65.34,47.13,0.1
+2023-11-16,Andamarca,19.5,3.6,,,
 2023-11-16,Apolo Aeropuerto,33.8,19.3,,,
 2023-11-16,Arani,34.0,20.0,,,
 2023-11-16,Aroma (GPRS),23.18,11.79,25.05,13.16,
@@ -70361,6 +70430,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-17,Aiquile (GPRS),41.66,27.09,54.08,25.72,
 2023-11-17,Alcantarí_Aeropuerto,28.6,12.1,,,
 2023-11-17,Alto Peñas (GPRS),18.45,17.11,51.47,38.57,1.1
+2023-11-17,Andamarca,20.9,4.0,,,
 2023-11-17,Apolo Aeropuerto,,19.9,,,
 2023-11-17,Arani,31.0,23.0,,,
 2023-11-17,Aroma (GPRS),22.68,10.91,23.53,12.1,
@@ -70582,6 +70652,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-18,Aiquile (GPRS),38.88,21.52,50.29,17.85,
 2023-11-18,Alcantarí_Aeropuerto,28.6,14.3,,,
 2023-11-18,Alto Peñas (GPRS),19.85,17.44,34.54,27.9,
+2023-11-18,Andamarca,22.4,4.5,,,
 2023-11-18,Arani,35.0,19.0,,,
 2023-11-18,Aroma (GPRS),22.06,9.98,19.6,6.43,
 2023-11-18,Ayo Ayo,24.0,-0.6,,,
@@ -70780,6 +70851,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-19,Alcantarí_Aeropuerto,,,,,20.2
 2023-11-19,Alto Obrajes_Barrio Magisterio,,,,,1.9
 2023-11-19,Alto Peñas (GPRS),19.83,14.76,27.34,22.06,
+2023-11-19,Andamarca,21.6,3.9,,,
 2023-11-19,Apolo Aeropuerto,33.1,,,,
 2023-11-19,Arani,28.0,18.0,,,
 2023-11-19,Aroma (GPRS),21.77,11.2,9.53,4.83,
@@ -71015,6 +71087,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-20,Alcantarí_Aeropuerto,22.0,10.5,,,
 2023-11-20,Alto Peñas (GPRS),19.22,16.36,40.09,30.27,1.1
 2023-11-20,Ancoraimes,,,,,3.9
+2023-11-20,Andamarca,21.0,3.6,,,
 2023-11-20,Anzaldo_M (GPRS),,,,,1.2
 2023-11-20,Apolo,28.0,28.0,57.6,57.6,
 2023-11-20,Apolo Aeropuerto,32.7,17.2,,,
@@ -71253,6 +71326,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-21,Aiquile (GPRS),36.79,19.66,62.31,32.26,
 2023-11-21,Alcantarí_Aeropuerto,21.1,11.5,,,
 2023-11-21,Alto Peñas (GPRS),18.08,14.44,44.25,28.21,
+2023-11-21,Andamarca,20.0,2.2,,,
 2023-11-21,Apolo Aeropuerto,28.3,16.3,,,
 2023-11-21,Arani,29.0,19.0,,,3.7
 2023-11-21,Aroma (GPRS),22.96,10.4,11.9,5.84,
@@ -71490,6 +71564,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-22,Aiquile (GPRS),37.13,18.68,50.12,28.65,0.1
 2023-11-22,Alcantarí_Aeropuerto,23.8,10.0,,,
 2023-11-22,Alto Peñas (GPRS),17.77,14.29,43.48,29.73,
+2023-11-22,Andamarca,19.9,2.0,,,
 2023-11-22,Anzaldo_M (GPRS),,,,,0.3
 2023-11-22,Apolo Aeropuerto,31.4,17.0,,,
 2023-11-22,Arani,32.0,15.0,,,
@@ -71723,6 +71798,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-23,Alto Obrajes_Barrio Magisterio,,,,,1.4
 2023-11-23,Alto Peñas (GPRS),14.64,7.49,86.8,47.94,
 2023-11-23,Ancoraimes,,,,,0.4
+2023-11-23,Andamarca,19.5,2.4,,,
 2023-11-23,Apolo Aeropuerto,30.1,19.3,,,
 2023-11-23,Arani,31.0,17.0,,,18.1
 2023-11-23,Aroma (GPRS),23.6,10.75,21.4,9.12,
@@ -71730,6 +71806,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-23,Ayo Ayo,22.0,3.8,,,
 2023-11-23,Ayoma,25.1,7.1,,,2.1
 2023-11-23,Azurduy,,,,,1.2
+2023-11-23,Boyuibe,,,,,9.5
 2023-11-23,Buena Vista S.(GPRS),,,,,6.2
 2023-11-23,Cabaña Forestal Oruro,24.6,7.5,,,
 2023-11-23,Cachimayu,,,,,45.5
@@ -71963,6 +72040,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-24,Alcantarí_Aeropuerto,,,,,0.2
 2023-11-24,Alto Obrajes_Barrio Magisterio,,,,,2.8
 2023-11-24,Alto Peñas (GPRS),7.71,6.51,98.7,87.0,8.0
+2023-11-24,Andamarca,19.0,2.1,,,
 2023-11-24,Anzaldo,,,,,3.9
 2023-11-24,Anzaldo_M (GPRS),,,,,22.2
 2023-11-24,Apolo Aeropuerto,,,,,7.6
@@ -71972,6 +72050,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-24,Ayo Ayo,19.0,6.5,,,
 2023-11-24,Ayoma,22.3,10.4,,,1.5
 2023-11-24,Azurduy,26.0,12.0,,,
+2023-11-24,Boyuibe,,,,,1.5
 2023-11-24,Buena Vista S.(GPRS),,,,,2.6
 2023-11-24,Cabaña Forestal Oruro,,,,,6.6
 2023-11-24,Caiza D,20.4,14.1,,,
@@ -72265,6 +72344,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-25,Ayo Ayo,20.0,6.0,,,3.5
 2023-11-25,Ayoma,23.2,9.2,,,8.1
 2023-11-25,Azurduy,27.0,12.5,,,
+2023-11-25,Boyuibe,,,,,0.5
 2023-11-25,Cabaña Forestal Oruro,,,,,2.8
 2023-11-25,Cachimayu,,,,,4.9
 2023-11-25,Caiza D,23.0,12.0,,,
@@ -72765,6 +72845,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-27,Alto Obrajes_Barrio Magisterio,,,,,7.9
 2023-11-27,Alto Peñas (GPRS),12.26,8.41,87.1,66.12,9.8
 2023-11-27,Ancoraimes,,,,,14.0
+2023-11-27,Andamarca,19.6,3.3,,,
 2023-11-27,Anzaldo,,,,,2.2
 2023-11-27,Anzaldo_M (GPRS),,,,,3.2
 2023-11-27,Apolo Aeropuerto,23.4,,,,
@@ -72774,6 +72855,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-27,Ayo Ayo,16.0,5.5,,,3.2
 2023-11-27,Ayoma,25.2,8.1,,,10.5
 2023-11-27,Azurduy,28.5,12.0,,,
+2023-11-27,Boyuibe,,,,,15.0
 2023-11-27,Buena Vista S.(GPRS),,,,,3.0
 2023-11-27,Cabaña Forestal Oruro,,,,,0.4
 2023-11-27,Cachimayu,,,,,8.0
@@ -73063,6 +73145,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-28,Alcantarí_Aeropuerto,23.7,10.2,,,
 2023-11-28,Alto Obrajes_Barrio Magisterio,,,,,3.5
 2023-11-28,Alto Peñas (GPRS),15.7,11.88,75.45,45.51,4.8
+2023-11-28,Andamarca,18.9,3.6,,,
 2023-11-28,Anzaldo_M (GPRS),,,,,0.7
 2023-11-28,Apolo Aeropuerto,27.7,18.0,,,
 2023-11-28,Arani,25.0,14.0,,,0.3
@@ -73328,6 +73411,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-11-29,Alcantarí_Aeropuerto,,,,,3.2
 2023-11-29,Alto Obrajes_Barrio Magisterio,,,,,4.1
 2023-11-29,Alto Peñas (GPRS),11.88,10.26,77.13,64.72,4.1
+2023-11-29,Andamarca,18.2,2.5,,,
 2023-11-29,Anzaldo,,,,,0.4
 2023-11-29,Anzaldo_M (GPRS),,,,,1.4
 2023-11-29,Apolo Aeropuerto,,,,,2.3
@@ -74880,6 +74964,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-05,Alto Obrajes_Barrio Magisterio,,,,,12.6
 2023-12-05,Alto Peñas (GPRS),11.48,7.62,92.9,71.12,1.4
 2023-12-05,Alto Villa Copacabana,,,,,9.8
+2023-12-05,Andamarca,17.0,0.0,,,
 2023-12-05,Anzaldo_M (GPRS),,,,,0.3
 2023-12-05,Apolo Aeropuerto,,,,,23.7
 2023-12-05,Arani,26.0,17.0,,,
@@ -75151,6 +75236,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-06,Alcantarí_Aeropuerto,,11.0,,,
 2023-12-06,Alto Peñas (GPRS),14.25,10.63,70.35,58.09,1.6
 2023-12-06,Alto Villa Copacabana,,,,,0.1
+2023-12-06,Andamarca,18.9,1.4,,,
 2023-12-06,Apolo Aeropuerto,,,,,14.5
 2023-12-06,Arani,33.0,18.0,,,
 2023-12-06,Aroma (GPRS),23.11,13.27,13.47,7.46,
@@ -75402,6 +75488,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-07,Alto Peñas (GPRS),13.35,11.5,77.28,62.19,0.3
 2023-12-07,Alto Villa Copacabana,,,,,0.4
 2023-12-07,Ancoraimes,,,,,1.0
+2023-12-07,Andamarca,19.3,2.8,,,
 2023-12-07,Anzaldo_M (GPRS),,,,,0.1
 2023-12-07,Apolo Aeropuerto,,18.4,,,
 2023-12-07,Arani,30.0,21.0,,,
@@ -75921,6 +76008,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-09,Alto Peñas (GPRS),15.95,12.21,69.05,57.52,3.7
 2023-12-09,Alto Villa Copacabana,,,,,1.9
 2023-12-09,Ancoraimes,,,,,0.1
+2023-12-09,Andamarca,19.9,4.6,,,
 2023-12-09,Anzaldo,,,,,4.3
 2023-12-09,Arani,28.0,18.0,,,
 2023-12-09,Aroma (GPRS),23.63,10.67,71.32,18.97,
@@ -76371,6 +76459,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-11,Alto Peñas (GPRS),14.32,12.41,71.09,64.17,19.9
 2023-12-11,Alto Villa Copacabana,,,,,28.6
 2023-12-11,Ancoraimes,,,,,11.0
+2023-12-11,Andamarca,17.1,0.5,,,
 2023-12-11,Anzaldo,,,,,3.2
 2023-12-11,Anzaldo_M (GPRS),,,,,26.5
 2023-12-11,Apolo Aeropuerto,28.8,,,,
@@ -76872,6 +76961,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-13,Alcantarí_Aeropuerto,,11.5,,,
 2023-12-13,Alto Peñas (GPRS),15.72,7.97,93.9,61.36,0.1
 2023-12-13,Alto Villa Copacabana,,,,,0.1
+2023-12-13,Andamarca,19.5,3.3,,,
 2023-12-13,Anzaldo_M (GPRS),,,,,0.2
 2023-12-13,Apolo Aeropuerto,,16.4,,,
 2023-12-13,Apolo_M (GPRS),,,,,0.1
@@ -77852,6 +77942,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-17,Alto Obrajes_Barrio Magisterio,,,,,2.4
 2023-12-17,Alto Peñas (GPRS),15.67,12.86,69.26,49.46,26.2
 2023-12-17,Alto Villa Copacabana,,,,,1.8
+2023-12-17,Andamarca,18.5,4.5,,,
 2023-12-17,Anzaldo_M (GPRS),,,,,0.1
 2023-12-17,Apolo Aeropuerto,32.1,,,,
 2023-12-17,Apolo_M (GPRS),,,,,20.7
@@ -78089,6 +78180,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-18,Aiquile (GPRS),39.25,23.27,64.72,32.7,0.1
 2023-12-18,Alcantarí_Aeropuerto,,13.1,,,
 2023-12-18,Alto Peñas (GPRS),12.84,5.67,93.8,65.66,0.4
+2023-12-18,Andamarca,17.7,3.1,,,
 2023-12-18,Apolo Aeropuerto,,17.0,,,
 2023-12-18,Arani,31.0,21.0,,,
 2023-12-18,Aroma (GPRS),22.77,14.24,35.21,16.6,
@@ -78323,6 +78415,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-19,Alto Obrajes_Barrio Magisterio,,,,,3.2
 2023-12-19,Alto Peñas (GPRS),16.24,13.5,58.26,44.63,13.3
 2023-12-19,Alto Villa Copacabana,,,,,4.1
+2023-12-19,Andamarca,18.2,3.7,,,
 2023-12-19,Anzaldo,,,,,5.4
 2023-12-19,Anzaldo_M (GPRS),,,,,4.2
 2023-12-19,Apolo Aeropuerto,30.6,,,,
@@ -78586,6 +78679,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-20,Alto Peñas (GPRS),16.0,13.15,75.94,49.74,2.6
 2023-12-20,Alto Villa Copacabana,,,,,3.6
 2023-12-20,Ancoraimes,,,,,7.2
+2023-12-20,Andamarca,21.9,4.8,,,
 2023-12-20,Apolo Aeropuerto,,,,,6.5
 2023-12-20,Apolo_M (GPRS),,,,,20.7
 2023-12-20,Arani,32.0,18.0,,,0.3
@@ -78843,6 +78937,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-21,Aiquile (GPRS),37.53,20.61,73.3,34.31,
 2023-12-21,Alcantarí_Aeropuerto,,11.7,,,
 2023-12-21,Alto Peñas (GPRS),14.07,8.66,90.3,67.68,0.1
+2023-12-21,Andamarca,20.7,3.9,,,
 2023-12-21,Apolo,25.0,25.0,64.6,64.6,
 2023-12-21,Apolo Aeropuerto,,,,,2.8
 2023-12-21,Apolo_M (GPRS),,,,,2.5
@@ -79088,6 +79183,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-22,Alto Obrajes_Barrio Magisterio,,,,,2.0
 2023-12-22,Alto Peñas (GPRS),15.44,13.71,70.15,60.13,5.9
 2023-12-22,Alto Villa Copacabana,,,,,0.1
+2023-12-22,Andamarca,20.9,4.0,,,
 2023-12-22,Apolo_M (GPRS),,,,,11.3
 2023-12-22,Arani,31.0,19.0,,,
 2023-12-22,Aroma (GPRS),25.45,14.76,42.09,12.47,
@@ -79331,6 +79427,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-23,Aiquile (GPRS),38.31,22.54,69.0,30.55,
 2023-12-23,Alcantarí_Aeropuerto,,11.4,,,
 2023-12-23,Alto Peñas (GPRS),18.37,10.28,81.2,39.54,4.9
+2023-12-23,Andamarca,20.0,4.4,,,
 2023-12-23,Apolo_M (GPRS),,,,,0.1
 2023-12-23,Arani,32.0,17.0,,,
 2023-12-23,Aroma (GPRS),25.52,14.13,44.09,11.45,
@@ -79526,6 +79623,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-24,Alcantarí_Aeropuerto,,13.1,,,
 2023-12-24,Alto Peñas (GPRS),17.46,13.77,70.43,48.81,3.7
 2023-12-24,Alto Villa Copacabana,,,,,0.4
+2023-12-24,Andamarca,19.8,3.6,,,
 2023-12-24,Anzaldo_M (GPRS),,,,,1.0
 2023-12-24,Apolo_M (GPRS),,,,,0.7
 2023-12-24,Arani,35.0,18.0,,,
@@ -79727,6 +79825,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-25,Aiquile (GPRS),40.38,24.38,48.24,23.53,
 2023-12-25,Alcantarí_Aeropuerto,,13.2,,,
 2023-12-25,Alto Peñas (GPRS),18.01,15.28,54.11,40.89,
+2023-12-25,Andamarca,18.4,3.9,,,
 2023-12-25,Apolo Aeropuerto,32.1,,,,
 2023-12-25,Arani,35.0,20.0,,,0.4
 2023-12-25,Aroma (GPRS),25.5,14.11,43.81,8.38,
@@ -80943,6 +81042,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-30,Alcantarí_Aeropuerto,,,,,41.8
 2023-12-30,Alto Peñas (GPRS),11.86,11.01,74.36,60.69,
 2023-12-30,Alto Villa Copacabana,,,,,0.1
+2023-12-30,Andamarca,19.4,3.5,,,
 2023-12-30,Anzaldo,,,,,1.3
 2023-12-30,Anzaldo_M (GPRS),,,,,26.7
 2023-12-30,Arani,23.0,10.0,,,14.6
@@ -81202,6 +81302,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2023-12-31,Alto Obrajes_Barrio Magisterio,,,,,4.2
 2023-12-31,Alto Peñas (GPRS),14.74,10.63,76.91,57.98,3.1
 2023-12-31,Alto Villa Copacabana,,,,,11.8
+2023-12-31,Andamarca,20.0,4.0,,,
 2023-12-31,Anzaldo_M (GPRS),,,,,7.7
 2023-12-31,Apolo_M (GPRS),,,,,13.0
 2023-12-31,Arani,23.0,12.0,,,4.4
