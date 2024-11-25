@@ -102,6 +102,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-01,Mojo,22.0,8.0,,,3.3
 2024-01-01,Molle Molle,25.5,11.7,,,1.0
 2024-01-01,Omereque - SDC (GPRS),32.12,21.1,83.6,37.97,
+2024-01-01,Opoqueri,16.2,6.3,,,
 2024-01-01,Oronkota PTI,33.2,21.8,,,
 2024-01-01,Oruro (GPRS),18.0,12.0,71.0,45.0,
 2024-01-01,Oruro Aeropuerto,,,,,0.5
@@ -341,6 +342,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-02,Molle Molle,23.3,13.3,,,14.2
 2024-01-02,Nuevo Mundo,,,,,19.0
 2024-01-02,Omereque - SDC (GPRS),31.73,19.3,88.0,39.14,
+2024-01-02,Opoqueri,18.0,5.4,,,
 2024-01-02,Oronkota PTI,30.5,22.1,,,
 2024-01-02,Oruro (GPRS),19.0,13.0,66.5,48.3,
 2024-01-02,Oruro Aeropuerto,,,,,4.4
@@ -611,6 +613,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-03,Narvaez,,,,,14.0
 2024-01-03,Nuevo Mundo,,,,,28.3
 2024-01-03,Omereque - SDC (GPRS),28.62,19.81,84.3,43.27,0.1
+2024-01-03,Opoqueri,16.5,6.0,,,
 2024-01-03,Oronkota PTI,30.8,21.5,,,
 2024-01-03,Oruro (GPRS),17.0,12.0,66.7,54.8,
 2024-01-03,Oruro Aeropuerto,,,,,0.4
@@ -884,6 +887,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-04,Montero_Muyurina,,,,,6.5
 2024-01-04,Narvaez,,,,,30.5
 2024-01-04,Omereque - SDC (GPRS),33.35,18.58,81.8,28.78,
+2024-01-04,Opoqueri,16.0,4.3,,,
 2024-01-04,Oronkota PTI,33.2,19.4,,,
 2024-01-04,Oruro (GPRS),17.0,13.0,62.3,48.0,
 2024-01-04,Oruro Aeropuerto,,,,,3.7
@@ -1151,6 +1155,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-05,Mojo,24.3,7.3,,,
 2024-01-05,Molle Molle,25.0,10.5,,,
 2024-01-05,Omereque - SDC (GPRS),33.24,18.57,80.2,25.88,
+2024-01-05,Opoqueri,15.2,5.0,,,
 2024-01-05,Oronkota PTI,34.0,18.1,,,
 2024-01-05,Oruro (GPRS),21.0,13.0,66.5,32.8,
 2024-01-05,Padilla,29.0,13.0,,,
@@ -1379,6 +1384,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-06,Mojo,22.1,7.0,,,
 2024-01-06,Molle Molle,27.2,9.4,,,
 2024-01-06,Omereque - SDC (GPRS),34.67,17.74,76.66,21.22,
+2024-01-06,Opoqueri,16.0,4.3,,,
 2024-01-06,Oronkota PTI,35.0,21.5,,,
 2024-01-06,Oruro (GPRS),19.0,11.0,66.0,39.5,
 2024-01-06,Padilla,33.0,16.0,,,
@@ -1562,6 +1568,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-07,Mojo,27.2,6.0,,,
 2024-01-07,Molle Molle,28.9,10.0,,,
 2024-01-07,Omereque - SDC (GPRS),36.84,18.37,79.48,18.97,
+2024-01-07,Opoqueri,16.4,4.0,,,
 2024-01-07,Oronkota PTI,36.0,19.2,,,
 2024-01-07,Oruro (GPRS),20.0,13.0,58.4,42.6,
 2024-01-07,Padilla,31.0,15.0,,,
@@ -1752,6 +1759,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-08,Mojo,28.3,7.3,,,5.3
 2024-01-08,Molle Molle,28.9,13.3,,,
 2024-01-08,Omereque - SDC (GPRS),36.68,19.75,75.87,23.03,
+2024-01-08,Opoqueri,17.2,5.1,,,
 2024-01-08,Oronkota PTI,34.2,11.3,,,
 2024-01-08,Oruro (GPRS),22.0,13.0,57.9,35.2,
 2024-01-08,Padilla,29.0,12.0,,,
@@ -1938,6 +1946,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-09,Mojo,25.1,7.1,,,7.0
 2024-01-09,Molle Molle,27.2,11.1,,,
 2024-01-09,Omereque - SDC (GPRS),37.75,18.5,68.39,19.92,
+2024-01-09,Opoqueri,17.0,6.0,,,
 2024-01-09,Oronkota PTI,35.6,20.0,,,
 2024-01-09,Oruro (GPRS),24.0,13.0,57.9,23.5,
 2024-01-09,Padilla,32.0,17.0,,,
@@ -2132,6 +2141,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-10,Mojo,25.3,8.0,,,2.1
 2024-01-10,Molle Molle,30.0,10.5,,,
 2024-01-10,Omereque - SDC (GPRS),35.24,20.53,70.22,20.31,
+2024-01-10,Opoqueri,18.0,7.0,,,
 2024-01-10,Oronkota PTI,29.9,16.5,,,
 2024-01-10,Oruro (GPRS),20.0,13.0,57.9,37.1,
 2024-01-10,Padilla,34.0,14.0,,,
@@ -2338,6 +2348,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-11,Montero_Muyurina,,,,,1.4
 2024-01-11,Narvaez,,,,,9.5
 2024-01-11,Omereque - SDC (GPRS),35.39,21.39,75.55,23.21,
+2024-01-11,Opoqueri,17.3,9.0,,,
 2024-01-11,Oronkota PTI,30.0,13.6,,,
 2024-01-11,Oruro (GPRS),21.0,13.0,62.1,34.9,
 2024-01-11,Padilla,,,,,6.0
@@ -2561,6 +2572,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-12,Muyuquiri,,,,,18.0
 2024-01-12,Nuevo Mundo,,,,,27.6
 2024-01-12,Omereque - SDC (GPRS),30.58,20.07,76.13,36.91,
+2024-01-12,Opoqueri,18.0,4.1,,,11.0
 2024-01-12,Oronkota PTI,28.4,12.0,,,
 2024-01-12,Oruro (GPRS),16.0,10.0,92.8,58.6,
 2024-01-12,Padilla,,,,,13.0
@@ -2784,6 +2796,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-13,Muyuquiri,,,,,5.0
 2024-01-13,Nuevo Mundo,,,,,8.2
 2024-01-13,Omereque - SDC (GPRS),33.31,19.47,72.81,27.03,
+2024-01-13,Opoqueri,17.0,6.0,,,4.2
 2024-01-13,Oronkota PTI,28.9,11.9,,,
 2024-01-13,Oruro (GPRS),18.0,9.0,80.9,55.3,
 2024-01-13,Oruro Aeropuerto,,,,,7.5
@@ -2982,6 +2995,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-14,Mojo,26.3,7.2,,,
 2024-01-14,Molle Molle,26.7,11.7,,,
 2024-01-14,Omereque - SDC (GPRS),36.3,21.92,68.52,22.4,
+2024-01-14,Opoqueri,18.0,3.9,,,2.5
 2024-01-14,Oronkota PTI,31.0,18.8,,,
 2024-01-14,Oruro (GPRS),20.0,13.0,66.5,37.7,
 2024-01-14,Padilla,,,,,10.0
@@ -3186,6 +3200,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-15,Mojo,24.0,8.0,,,
 2024-01-15,Molle Molle,27.2,13.9,,,
 2024-01-15,Omereque - SDC (GPRS),36.64,19.03,79.64,25.72,
+2024-01-15,Opoqueri,18.0,9.0,,,
 2024-01-15,Oronkota PTI,30.2,19.1,,,
 2024-01-15,Oruro (GPRS),17.0,14.0,62.5,55.0,
 2024-01-15,Padilla,30.0,17.0,,,
@@ -3420,6 +3435,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-16,Mojo,29.0,7.3,,,
 2024-01-16,Molle Molle,27.8,11.7,,,
 2024-01-16,Omereque - SDC (GPRS),36.48,19.94,93.6,27.06,
+2024-01-16,Opoqueri,17.0,8.0,,,
 2024-01-16,Oronkota PTI,29.8,18.4,,,
 2024-01-16,Oruro (GPRS),21.0,14.0,62.3,45.9,
 2024-01-16,Padilla,33.0,13.0,,,
@@ -3641,6 +3657,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-17,Molle Molle,19.4,13.3,,,
 2024-01-17,Montero_Muyurina,,,,,12.9
 2024-01-17,Omereque - SDC (GPRS),30.6,17.1,93.2,42.52,1.7
+2024-01-17,Opoqueri,17.1,7.1,,,
 2024-01-17,Oronkota PTI,28.0,19.0,,,
 2024-01-17,Oruro (GPRS),20.0,16.0,55.0,42.6,
 2024-01-17,Padilla,27.0,16.0,,,
@@ -3862,6 +3879,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-18,Molle Molle,23.9,12.2,,,18.2
 2024-01-18,Nuevo Mundo,,,,,3.0
 2024-01-18,Omereque - SDC (GPRS),32.78,21.2,72.81,35.92,0.1
+2024-01-18,Opoqueri,14.5,9.0,,,
 2024-01-18,Oronkota PTI,27.4,18.4,,,
 2024-01-18,Oruro (GPRS),20.0,11.0,75.8,48.8,
 2024-01-18,Padilla,,,,,3.0
@@ -4099,6 +4117,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-19,Mojo,25.2,11.3,,,
 2024-01-19,Molle Molle,23.3,15.0,,,
 2024-01-19,Omereque - SDC (GPRS),33.0,18.96,93.8,30.4,
+2024-01-19,Opoqueri,18.1,7.0,,,
 2024-01-19,Oronkota PTI,27.2,18.0,,,
 2024-01-19,Oruro (GPRS),15.0,11.0,81.2,62.5,
 2024-01-19,Padilla,,,,,55.0
@@ -4347,6 +4366,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-20,Narvaez,,,,,7.8
 2024-01-20,Nuevo Mundo,,,,,45.0
 2024-01-20,Omereque - SDC (GPRS),32.64,18.77,87.9,34.51,8.8
+2024-01-20,Opoqueri,16.5,6.0,,,
 2024-01-20,Oronkota PTI,29.4,18.8,,,
 2024-01-20,Oruro (GPRS),20.0,13.0,66.5,45.6,
 2024-01-20,Padilla,29.0,16.0,,,
@@ -4565,6 +4585,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-21,Molle Molle,25.5,11.1,,,3.3
 2024-01-21,Narvaez,,,,,18.6
 2024-01-21,Omereque - SDC (GPRS),33.3,19.66,92.8,27.33,
+2024-01-21,Opoqueri,19.1,8.0,,,
 2024-01-21,Oronkota PTI,29.9,19.0,,,
 2024-01-21,Oruro (GPRS),18.0,12.0,71.4,51.7,
 2024-01-21,Padilla,28.0,15.0,,,
@@ -4780,6 +4801,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-22,Narvaez,,,,,67.4
 2024-01-22,Nuevo Mundo,,,,,5.2
 2024-01-22,Omereque - SDC (GPRS),32.25,19.04,86.9,34.9,1.4
+2024-01-22,Opoqueri,18.0,9.0,,,
 2024-01-22,Oronkota PTI,28.0,17.6,,,
 2024-01-22,Oruro (GPRS),19.0,9.0,80.9,39.5,
 2024-01-22,Padilla,,,,,4.5
@@ -5015,6 +5037,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-23,Muyuquiri,,,,,5.0
 2024-01-23,Nuevo Mundo,,,,,16.0
 2024-01-23,Omereque - SDC (GPRS),27.8,18.57,80.4,41.58,
+2024-01-23,Opoqueri,19.0,7.0,,,16.2
 2024-01-23,Oronkota PTI,27.8,17.8,,,
 2024-01-23,Oruro (GPRS),19.0,13.0,71.2,51.9,
 2024-01-23,Padilla,23.0,13.0,,,
@@ -5256,6 +5279,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-24,Molle Molle,21.1,13.3,,,
 2024-01-24,Nuevo Mundo,,,,,3.2
 2024-01-24,Omereque - SDC (GPRS),27.02,17.26,93.3,45.95,
+2024-01-24,Opoqueri,19.2,6.3,,,1.8
 2024-01-24,Oronkota PTI,26.6,17.0,,,
 2024-01-24,Oruro Aeropuerto,,,,,0.5
 2024-01-24,Padilla,,,,,2.8
@@ -5481,6 +5505,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-25,Molle Molle,18.9,11.7,,,15.2
 2024-01-25,Nuevo Mundo,,,,,12.4
 2024-01-25,Omereque - SDC (GPRS),31.67,20.22,67.66,33.67,0.5
+2024-01-25,Opoqueri,17.0,6.0,,,
 2024-01-25,Oronkota PTI,27.4,16.9,,,
 2024-01-25,Padilla,,,,,2.3
 2024-01-25,Pailon - Pozo del Tigre (GPRS),37.52,35.28,37.18,28.83,
@@ -5708,6 +5733,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-26,Mojo,19.0,7.2,,,
 2024-01-26,Molle Molle,23.9,12.2,,,
 2024-01-26,Omereque - SDC (GPRS),33.73,19.69,70.53,25.59,
+2024-01-26,Opoqueri,17.2,9.0,,,1.3
 2024-01-26,Oronkota PTI,29.0,15.0,,,
 2024-01-26,Oruro Aeropuerto,,,,,6.2
 2024-01-26,Padilla,28.0,14.0,,,
@@ -5902,6 +5928,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-27,Mojo,22.1,6.1,,,1.0
 2024-01-27,Molle Molle,24.4,11.7,,,22.8
 2024-01-27,Omereque - SDC (GPRS),32.25,21.62,61.16,27.54,
+2024-01-27,Opoqueri,19.0,7.0,,,
 2024-01-27,Oronkota PTI,28.8,15.4,,,
 2024-01-27,Padilla,29.0,13.0,,,
 2024-01-27,Pailon - Pozo del Tigre (GPRS),37.56,35.48,41.09,27.58,
@@ -6080,6 +6107,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-28,Mojo,15.2,7.0,,,12.5
 2024-01-28,Molle Molle,26.1,13.9,,,
 2024-01-28,Omereque - SDC (GPRS),34.08,19.09,87.1,26.37,
+2024-01-28,Opoqueri,18.0,9.0,,,
 2024-01-28,Oronkota PTI,29.0,18.1,,,
 2024-01-28,Oruro Aeropuerto,,,,,6.4
 2024-01-28,Padilla,,,,,2.0
@@ -6296,6 +6324,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-29,Mojo,22.0,7.2,,,
 2024-01-29,Molle Molle,22.2,12.2,,,
 2024-01-29,Omereque - SDC (GPRS),33.82,20.2,72.1,27.15,
+2024-01-29,Opoqueri,17.0,8.0,,,
 2024-01-29,Oronkota PTI,29.4,17.0,,,
 2024-01-29,Oruro Aeropuerto,,,,,2.2
 2024-01-29,Padilla,,,,,3.5
@@ -6531,6 +6560,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-30,Molle Molle,23.9,12.2,,,7.6
 2024-01-30,Narvaez,,,,,16.5
 2024-01-30,Omereque - SDC (GPRS),33.81,20.24,66.55,22.93,
+2024-01-30,Opoqueri,19.0,5.8,,,
 2024-01-30,Oronkota PTI,28.0,15.8,,,
 2024-01-30,Padilla,28.0,13.0,,,
 2024-01-30,Pailon - Pozo del Tigre (GPRS),36.39,33.13,57.46,44.42,
@@ -6772,6 +6802,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-31,Molle Molle,23.9,10.5,,,5.5
 2024-01-31,Narvaez,,,,,4.5
 2024-01-31,Omereque - SDC (GPRS),35.2,22.63,63.24,19.59,
+2024-01-31,Opoqueri,20.0,8.1,,,1.9
 2024-01-31,Oronkota PTI,27.8,15.6,,,
 2024-01-31,Padilla,,,,,8.0
 2024-01-31,Pailon - Pozo del Tigre (GPRS),38.02,35.42,48.05,35.58,
@@ -6992,6 +7023,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-01,Narvaez,,,,,4.5
 2024-02-01,Nuevo Mundo,,,,,3.6
 2024-02-01,Omereque - SDC (GPRS),32.12,19.57,86.5,27.02,
+2024-02-01,Opoqueri,19.0,5.6,,,
 2024-02-01,Oronkota PTI,26.6,18.8,,,
 2024-02-01,Padilla,,,,,8.0
 2024-02-01,Pailon - Pozo del Tigre (GPRS),36.53,26.29,90.9,43.45,
@@ -7234,6 +7266,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-02,Nuevo Mundo,,,,,6.0
 2024-02-02,Okinawa I,,,,,20.3
 2024-02-02,Omereque - SDC (GPRS),32.91,18.17,76.91,26.69,0.7
+2024-02-02,Opoqueri,16.1,4.0,,,
 2024-02-02,Oronkota PTI,20.3,19.9,,,
 2024-02-02,Oruro Aeropuerto,,,,,2.2
 2024-02-02,Padilla,,,,,3.0
@@ -7465,6 +7498,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-03,Mojo,22.3,5.0,,,
 2024-02-03,Molle Molle,23.3,10.5,,,
 2024-02-03,Omereque - SDC (GPRS),34.06,18.44,70.97,21.16,
+2024-02-03,Opoqueri,19.0,5.0,,,
 2024-02-03,Oronkota PTI,32.9,17.2,,,
 2024-02-03,Oruro Aeropuerto,,,,,4.3
 2024-02-03,Padilla,30.0,15.0,,,
@@ -7657,6 +7691,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-04,Molle Molle,23.3,9.4,,,
 2024-02-04,Muyuquiri,,,,,10.0
 2024-02-04,Omereque - SDC (GPRS),31.73,17.98,70.5,26.31,
+2024-02-04,Opoqueri,16.2,5.0,,,
 2024-02-04,Oronkota PTI,32.3,19.2,,,
 2024-02-04,Padilla,29.0,11.0,,,
 2024-02-04,Pailon - Pozo del Tigre (GPRS),37.2,34.05,65.2,40.91,
@@ -7839,6 +7874,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-05,Molle Molle,25.5,9.4,,,
 2024-02-05,Nuevo Mundo,,,,,8.2
 2024-02-05,Omereque - SDC (GPRS),35.13,18.5,66.93,20.2,0.4
+2024-02-05,Opoqueri,18.0,7.0,,,
 2024-02-05,Oronkota PTI,31.0,17.4,,,
 2024-02-05,Padilla,31.0,12.0,,,
 2024-02-05,Pailon - Pozo del Tigre (GPRS),36.33,25.71,87.8,45.14,
@@ -8050,6 +8086,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-06,Molle Molle,23.3,10.0,,,
 2024-02-06,Narvaez,,,,,9.3
 2024-02-06,Omereque - SDC (GPRS),34.15,19.75,68.5,19.27,
+2024-02-06,Opoqueri,15.9,4.3,,,
 2024-02-06,Oronkota PTI,,,,,2.5
 2024-02-06,Oruro Aeropuerto,,,,,6.2
 2024-02-06,Padilla,,,,,2.8
@@ -8279,6 +8316,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-07,Montero_Muyurina,,,,,0.5
 2024-02-07,Narvaez,,,,,56.0
 2024-02-07,Omereque - SDC (GPRS),33.94,16.48,95.8,25.65,
+2024-02-07,Opoqueri,18.0,6.0,,,
 2024-02-07,Oronkota PTI,29.8,16.0,,,
 2024-02-07,Padilla,28.0,11.0,,,
 2024-02-07,Pailon - Pozo del Tigre (GPRS),36.46,34.83,50.4,41.24,
@@ -8516,6 +8554,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-08,Narvaez,,,,,46.0
 2024-02-08,Nuevo Mundo,,,,,25.3
 2024-02-08,Omereque - SDC (GPRS),30.1,20.41,85.0,45.2,35.7
+2024-02-08,Opoqueri,17.9,4.1,,,5.3
 2024-02-08,Oronkota PTI,,,,,18.5
 2024-02-08,Oruro Aeropuerto,,,,,0.2
 2024-02-08,Padilla,,,,,17.2
@@ -8745,6 +8784,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-09,Narvaez,,,,,35.5
 2024-02-09,Okinawa I,,,,,8.2
 2024-02-09,Omereque - SDC (GPRS),28.79,17.72,88.8,47.48,
+2024-02-09,Opoqueri,18.0,6.0,,,
 2024-02-09,Oronkota PTI,31.0,15.8,,,
 2024-02-09,Padilla,29.0,13.0,,,
 2024-02-09,Pailon - Pozo del Tigre (GPRS),35.81,33.46,60.98,49.62,
@@ -8963,6 +9003,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-10,Narvaez,,,,,46.0
 2024-02-10,Okinawa I,,,,,20.5
 2024-02-10,Omereque - SDC (GPRS),30.49,17.24,95.0,35.62,
+2024-02-10,Opoqueri,15.9,8.0,,,1.8
 2024-02-10,Oronkota PTI,,,,,6.9
 2024-02-10,Padilla,,,,,3.0
 2024-02-10,Pailon - Pozo del Tigre (GPRS),31.12,28.64,77.77,60.84,0.2
@@ -9203,6 +9244,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-11,Nuevo Mundo,,,,,16.2
 2024-02-11,Okinawa I,,,,,40.2
 2024-02-11,Omereque - SDC (GPRS),25.62,17.93,95.8,57.17,13.1
+2024-02-11,Opoqueri,16.8,2.9,,,
 2024-02-11,Oronkota PTI,,,,,3.5
 2024-02-11,Oruro Aeropuerto,,,,,4.5
 2024-02-11,Padilla,,,,,16.5
@@ -9443,6 +9485,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-12,Nuevo Mundo,,,,,19.0
 2024-02-12,Okinawa I,,,,,9.2
 2024-02-12,Omereque - SDC (GPRS),30.43,19.38,92.9,41.94,11.3
+2024-02-12,Opoqueri,18.0,6.0,,,
 2024-02-12,Oronkota PTI,,,,,7.9
 2024-02-12,Padilla,,,,,8.0
 2024-02-12,Pailon - Pozo del Tigre (GPRS),33.01,24.54,97.5,58.18,36.0
@@ -9702,6 +9745,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-13,Nuevo Mundo,,,,,2.1
 2024-02-13,Okinawa I,,,,,2.2
 2024-02-13,Omereque - SDC (GPRS),23.56,17.13,97.0,58.83,1.0
+2024-02-13,Opoqueri,19.0,6.5,,,
 2024-02-13,Oronkota PTI,,,,,124.8
 2024-02-13,Oruro Aeropuerto,,,,,10.6
 2024-02-13,Padilla,,,,,6.0
@@ -9970,6 +10014,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-14,Nuevo Mundo,,,,,24.1
 2024-02-14,Okinawa I,,,,,10.2
 2024-02-14,Omereque - SDC (GPRS),26.04,17.98,92.2,52.61,29.4
+2024-02-14,Opoqueri,21.0,7.0,,,
 2024-02-14,Oronkota PTI,24.8,15.0,,,
 2024-02-14,Oruro Aeropuerto,,,,,6.2
 2024-02-14,Padilla,,,,,10.5
@@ -10224,6 +10269,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-15,Muyuquiri,,,,,10.0
 2024-02-15,Narvaez,,,,,3.9
 2024-02-15,Omereque - SDC (GPRS),29.19,20.32,84.3,47.78,
+2024-02-15,Opoqueri,21.0,6.5,,,
 2024-02-15,Oronkota PTI,31.0,16.4,,,
 2024-02-15,Padilla,25.0,13.0,,,
 2024-02-15,Pailon - Pozo del Tigre (GPRS),35.23,25.06,98.7,52.14,
@@ -10442,6 +10488,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-16,Molle Molle,23.9,11.1,,,
 2024-02-16,Narvaez,,,,,3.6
 2024-02-16,Omereque - SDC (GPRS),32.24,20.03,83.1,36.59,
+2024-02-16,Opoqueri,17.4,3.0,,,
 2024-02-16,Oronkota PTI,31.2,16.6,,,
 2024-02-16,Oruro Aeropuerto,,,,,10.2
 2024-02-16,Padilla,28.0,16.0,,,
@@ -10661,6 +10708,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-17,Montero_Muyurina,,,,,4.6
 2024-02-17,Muyuquiri,,,,,15.0
 2024-02-17,Omereque - SDC (GPRS),34.09,17.55,95.7,30.02,
+2024-02-17,Opoqueri,19.0,2.9,,,
 2024-02-17,Oronkota PTI,30.0,19.4,,,
 2024-02-17,Padilla,29.0,15.0,,,
 2024-02-17,Pailon - Pozo del Tigre (GPRS),35.81,34.0,56.7,48.09,
@@ -10880,6 +10928,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-18,Molle Molle,23.3,12.2,,,10.1
 2024-02-18,Nuevo Mundo,,,,,3.0
 2024-02-18,Omereque - SDC (GPRS),30.55,17.55,95.2,42.27,15.3
+2024-02-18,Opoqueri,18.0,4.7,,,
 2024-02-18,Oronkota PTI,29.9,19.0,,,
 2024-02-18,Oruro Aeropuerto,,,,,14.2
 2024-02-18,Padilla,,,,,16.5
@@ -11125,6 +11174,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-19,Nuevo Mundo,,,,,28.1
 2024-02-19,Okinawa I,,,,,10.3
 2024-02-19,Omereque - SDC (GPRS),27.81,18.92,88.8,47.22,8.3
+2024-02-19,Opoqueri,17.7,8.0,,,
 2024-02-19,Orinoca - UTO (GPRS),15.28,8.6,89.35,59.14,
 2024-02-19,Oronkota PTI,31.0,16.0,,,
 2024-02-19,Oruro Aeropuerto,,,,,1.0
@@ -11396,6 +11446,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-20,Nuevo Mundo,,,,,3.4
 2024-02-20,Okinawa I,,,,,80.5
 2024-02-20,Omereque - SDC (GPRS),29.25,17.9,88.2,42.98,
+2024-02-20,Opoqueri,18.0,6.0,,,
 2024-02-20,Orinoca - UTO (GPRS),10.81,8.78,99.03,90.47,22.0
 2024-02-20,Oronkota PTI,30.2,16.2,,,
 2024-02-20,Oruro Aeropuerto,,,,,1.2
@@ -11650,6 +11701,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-21,Molle Molle,23.3,11.7,,,
 2024-02-21,Muyuquiri,,,,,15.0
 2024-02-21,Omereque - SDC (GPRS),30.95,17.67,91.4,35.89,
+2024-02-21,Opoqueri,19.0,7.0,,,
 2024-02-21,Orinoca - UTO (GPRS),7.19,6.67,91.24,90.27,
 2024-02-21,Oronkota PTI,,,,,7.5
 2024-02-21,Oruro Aeropuerto,,,,,7.6
@@ -11882,6 +11934,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-22,Narvaez,,,,,8.5
 2024-02-22,Nuevo Mundo,,,,,45.0
 2024-02-22,Omereque - SDC (GPRS),32.13,17.72,86.4,33.15,1.6
+2024-02-22,Opoqueri,16.9,5.0,,,
 2024-02-22,Oronkota PTI,30.2,19.1,,,
 2024-02-22,Oruro Aeropuerto,,,,,10.5
 2024-02-22,Padilla,,,,,2.5
@@ -12104,6 +12157,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-23,Montero_Muyurina,,,,,0.2
 2024-02-23,Muyuquiri,,,,,10.0
 2024-02-23,Omereque - SDC (GPRS),33.92,18.37,87.6,34.28,
+2024-02-23,Opoqueri,17.5,4.0,,,
 2024-02-23,Oronkota PTI,26.2,16.6,,,
 2024-02-23,Oruro (GPRS),16.0,10.0,81.0,50.6,
 2024-02-23,Padilla,,,,,0.5
@@ -12353,6 +12407,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-24,Montero_Muyurina,,,,,12.4
 2024-02-24,Narvaez,,,,,28.5
 2024-02-24,Omereque - SDC (GPRS),30.81,17.64,95.5,37.57,
+2024-02-24,Opoqueri,19.0,3.0,,,
 2024-02-24,Oronkota PTI,30.5,18.2,,,
 2024-02-24,Oruro (GPRS),14.0,9.0,86.7,54.3,
 2024-02-24,Padilla,,,,,4.5
@@ -12610,6 +12665,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-25,Nuevo Mundo,,,,,17.2
 2024-02-25,Okinawa I,,,,,23.2
 2024-02-25,Omereque - SDC (GPRS),25.06,16.92,95.3,55.68,12.9
+2024-02-25,Opoqueri,16.9,2.4,,,
 2024-02-25,Oronkota PTI,32.2,18.0,,,
 2024-02-25,Oruro (GPRS),13.0,10.0,92.8,71.0,
 2024-02-25,Padilla,24.0,12.0,,,
@@ -12868,6 +12924,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-26,Nuevo Mundo,,,,,20.3
 2024-02-26,Okinawa I,,,,,3.2
 2024-02-26,Omereque - SDC (GPRS),29.19,16.91,95.2,46.24,2.1
+2024-02-26,Opoqueri,21.0,-1.0,,,8.1
 2024-02-26,Oronkota PTI,28.9,19.8,,,
 2024-02-26,Oruro (GPRS),16.0,10.0,75.7,54.8,
 2024-02-26,Oruro Aeropuerto,,,,,3.2
@@ -13133,6 +13190,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-27,Mojo,23.0,10.0,,,35.0
 2024-02-27,Molle Molle,21.1,11.7,,,
 2024-02-27,Omereque - SDC (GPRS),30.41,16.52,90.5,40.32,
+2024-02-27,Opoqueri,17.0,4.0,,,10.9
 2024-02-27,Oronkota PTI,32.2,19.7,,,
 2024-02-27,Oruro (GPRS),15.0,9.0,86.7,62.5,
 2024-02-27,Padilla,29.0,12.0,,,
@@ -13374,6 +13432,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-28,Molle Molle,22.8,10.0,,,1.2
 2024-02-28,Narvaez,,,,,4.0
 2024-02-28,Omereque - SDC (GPRS),30.82,16.15,88.1,37.51,
+2024-02-28,Opoqueri,19.0,1.0,,,22.5
 2024-02-28,Orinoca - UTO (GPRS),7.37,7.24,95.86,95.13,1.6
 2024-02-28,Oronkota PTI,30.2,20.2,,,
 2024-02-28,Oruro (GPRS),17.0,9.0,81.0,62.5,
@@ -13606,6 +13665,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-29,Mojo,19.0,10.3,,,2.6
 2024-02-29,Molle Molle,23.3,10.0,,,
 2024-02-29,Omereque - SDC (GPRS),31.96,18.52,80.2,32.5,
+2024-02-29,Opoqueri,18.0,1.9,,,6.8
 2024-02-29,Oronkota PTI,31.0,19.2,,,
 2024-02-29,Oruro (GPRS),18.0,8.0,80.8,45.0,
 2024-02-29,Padilla,29.0,11.0,,,
@@ -13836,6 +13896,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-01,Mojo,22.0,9.0,,,2.0
 2024-03-01,Molle Molle,23.3,10.0,,,1.5
 2024-03-01,Omereque - SDC (GPRS),32.44,17.53,83.0,32.57,
+2024-03-01,Opoqueri,19.0,2.0,,,
 2024-03-01,Oronkota PTI,30.2,19.9,,,
 2024-03-01,Oruro (GPRS),18.0,9.0,80.9,45.0,
 2024-03-01,Oruro Aeropuerto,,,,,0.6
@@ -14057,6 +14118,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-02,Mojo,20.0,8.3,,,
 2024-03-02,Molle Molle,23.3,11.7,,,
 2024-03-02,Omereque - SDC (GPRS),32.84,19.3,78.42,33.28,
+2024-03-02,Opoqueri,20.0,4.4,,,
 2024-03-02,Oronkota PTI,34.2,18.9,,,
 2024-03-02,Oruro (GPRS),20.0,9.0,80.9,42.6,
 2024-03-02,Padilla,31.0,11.0,,,
@@ -14251,6 +14313,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-03,Mojo,17.3,6.3,,,30.0
 2024-03-03,Molle Molle,24.4,12.2,,,
 2024-03-03,Omereque - SDC (GPRS),31.87,18.69,77.53,38.29,
+2024-03-03,Opoqueri,19.0,4.0,,,6.2
 2024-03-03,Oronkota PTI,27.0,19.8,,,
 2024-03-03,Oruro (GPRS),16.0,11.0,66.0,51.1,
 2024-03-03,Oruro Aeropuerto,,,,,1.2
@@ -14489,6 +14552,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-04,Nuevo Mundo,,,,,1.6
 2024-03-04,Okinawa I,,,,,8.3
 2024-03-04,Omereque - SDC (GPRS),28.85,20.02,71.5,42.19,
+2024-03-04,Opoqueri,16.9,4.0,,,
 2024-03-04,Oronkota PTI,30.2,18.3,,,
 2024-03-04,Oruro (GPRS),18.0,9.0,80.9,48.3,
 2024-03-04,Oruro Aeropuerto,,,,,0.5
@@ -14774,6 +14838,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-05,Narvaez,,,,,27.0
 2024-03-05,Nuevo Mundo,,,,,2.5
 2024-03-05,Omereque - SDC (GPRS),29.58,20.09,74.51,37.9,
+2024-03-05,Opoqueri,18.0,2.3,,,
 2024-03-05,Oronkota PTI,24.9,15.5,,,
 2024-03-05,Oruro (GPRS),17.0,9.0,75.5,51.4,
 2024-03-05,Padilla,,,,,3.0
@@ -15057,6 +15122,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-06,Nuevo Mundo,,,,,8.7
 2024-03-06,Okinawa I,,,,,18.2
 2024-03-06,Omereque - SDC (GPRS),31.52,19.3,77.43,36.8,
+2024-03-06,Opoqueri,18.0,1.0,,,
 2024-03-06,Oronkota PTI,30.2,16.9,,,20.9
 2024-03-06,Oruro (GPRS),19.0,9.0,86.7,39.5,
 2024-03-06,Oruro Aeropuerto,,,,,1.0
@@ -15333,6 +15399,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-07,Narvaez,,,,,33.8
 2024-03-07,Nuevo Mundo,,,,,1.8
 2024-03-07,Omereque - SDC (GPRS),32.23,21.18,79.31,36.37,
+2024-03-07,Opoqueri,21.3,0.3,,,
 2024-03-07,Oronkota PTI,32.2,16.8,,,6.0
 2024-03-07,Oruro (GPRS),16.0,9.0,86.7,58.6,
 2024-03-07,Oruro Aeropuerto,,,,,18.4
@@ -15592,6 +15659,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-08,Montero_Muyurina,,,,,5.6
 2024-03-08,Muyuquiri,,,,,5.0
 2024-03-08,Omereque - SDC (GPRS),34.48,19.61,93.9,26.0,
+2024-03-08,Opoqueri,23.0,3.0,,,6.0
 2024-03-08,Oronkota PTI,27.2,14.9,,,
 2024-03-08,Oruro (GPRS),16.0,10.0,81.0,62.8,
 2024-03-08,Oruro Aeropuerto,,,,,0.2
@@ -15834,6 +15902,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-09,Molle Molle,22.8,12.8,,,2.0
 2024-03-09,Muyuquiri,,,,,10.0
 2024-03-09,Omereque - SDC (GPRS),33.18,18.24,90.6,35.52,10.5
+2024-03-09,Opoqueri,20.4,2.1,,,
 2024-03-09,Oronkota PTI,32.9,19.8,,,
 2024-03-09,Oruro (GPRS),16.0,9.0,86.7,58.4,
 2024-03-09,Padilla,28.0,12.0,,,
@@ -16070,6 +16139,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-10,Narvaez,,,,,25.0
 2024-03-10,Okinawa I,,,,,9.2
 2024-03-10,Omereque - SDC (GPRS),31.54,18.49,87.9,37.06,3.6
+2024-03-10,Opoqueri,21.1,4.0,,,
 2024-03-10,Oronkota PTI,26.2,16.7,,,
 2024-03-10,Oruro (GPRS),15.0,10.0,81.0,62.5,
 2024-03-10,Oruro Aeropuerto,,,,,0.2
@@ -16300,6 +16370,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-11,Molle Molle,24.4,10.5,,,
 2024-03-11,Narvaez,,,,,23.5
 2024-03-11,Omereque - SDC (GPRS),34.13,19.04,83.6,31.13,
+2024-03-11,Opoqueri,19.0,3.3,,,
 2024-03-11,Oronkota PTI,32.7,24.1,,,9.5
 2024-03-11,Oruro (GPRS),18.0,10.0,81.0,51.4,
 2024-03-11,Oruro Aeropuerto,,,,,0.5
@@ -16529,6 +16600,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-12,Molle Molle,26.7,12.4,,,
 2024-03-12,Narvaez,,,,,27.0
 2024-03-12,Omereque - SDC (GPRS),36.12,19.38,83.8,28.45,
+2024-03-12,Opoqueri,17.5,1.7,,,0.7
 2024-03-12,Oronkota PTI,35.6,20.0,,,
 2024-03-12,Oruro (GPRS),20.0,10.0,75.7,39.8,
 2024-03-12,Oruro Aeropuerto,,,,,0.1
@@ -16743,6 +16815,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-13,Mojo,25.0,9.1,,,
 2024-03-13,Molle Molle,21.1,11.7,,,3.6
 2024-03-13,Omereque - SDC (GPRS),32.21,17.66,83.7,39.99,
+2024-03-13,Opoqueri,17.0,3.0,,,
 2024-03-13,Oronkota PTI,32.8,21.0,,,
 2024-03-13,Oruro (GPRS),19.0,10.0,92.8,48.3,
 2024-03-13,Oruro Aeropuerto,,,,,0.4
@@ -16972,6 +17045,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-14,Mojo,22.6,10.0,,,3.2
 2024-03-14,Molle Molle,25.4,12.8,,,
 2024-03-14,Omereque - SDC (GPRS),36.06,21.59,73.05,29.83,
+2024-03-14,Opoqueri,18.3,5.1,,,2.0
 2024-03-14,Oronkota PTI,33.0,19.2,,,0.5
 2024-03-14,Oruro (GPRS),19.0,11.0,81.2,48.5,
 2024-03-14,Padilla,31.0,15.0,,,
@@ -17194,6 +17268,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-15,Mojo,19.0,8.6,,,2.6
 2024-03-15,Molle Molle,24.4,13.3,,,
 2024-03-15,Omereque - SDC (GPRS),35.14,20.35,72.55,30.43,
+2024-03-15,Opoqueri,19.0,4.0,,,1.6
 2024-03-15,Oronkota PTI,33.1,10.7,,,
 2024-03-15,Oruro (GPRS),20.0,11.0,66.7,45.3,
 2024-03-15,Oruro Aeropuerto,,,,,6.2
@@ -17420,6 +17495,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-16,Molle Molle,26.7,15.5,,,2.0
 2024-03-16,Narvaez,,,,,18.6
 2024-03-16,Omereque - SDC (GPRS),36.25,21.47,70.41,22.68,
+2024-03-16,Opoqueri,20.0,4.9,,,
 2024-03-16,Oronkota PTI,30.6,10.0,,,0.3
 2024-03-16,Oruro (GPRS),18.0,11.0,76.0,48.3,
 2024-03-16,Oruro Aeropuerto,,,,,0.8
@@ -17654,6 +17730,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-17,Molle Molle,23.3,13.9,,,1.5
 2024-03-17,Montero_Muyurina,,,,,7.3
 2024-03-17,Omereque - SDC (GPRS),31.47,20.25,66.99,34.26,
+2024-03-17,Opoqueri,17.0,-5.6,,,
 2024-03-17,Oronkota PTI,29.2,10.0,,,38.8
 2024-03-17,Oruro (GPRS),18.0,10.0,81.0,45.0,
 2024-03-17,Oruro Aeropuerto,,,,,5.2
@@ -17896,6 +17973,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-18,Molle Molle,23.9,15.0,,,1.8
 2024-03-18,Muyuquiri,,,,,4.0
 2024-03-18,Omereque - SDC (GPRS),35.72,19.69,77.44,23.7,
+2024-03-18,Opoqueri,19.0,7.0,,,16.9
 2024-03-18,Oronkota PTI,31.0,10.5,,,1.8
 2024-03-18,Oruro (GPRS),20.0,10.0,86.8,42.6,
 2024-03-18,Padilla,32.0,17.0,,,
@@ -18137,6 +18215,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-19,Molle Molle,25.5,13.9,,,
 2024-03-19,Muyuquiri,,,,,12.0
 2024-03-19,Omereque - SDC (GPRS),34.4,20.09,92.7,31.24,
+2024-03-19,Opoqueri,17.0,2.7,,,
 2024-03-19,Oronkota PTI,32.0,11.0,,,
 2024-03-19,Oruro (GPRS),17.0,9.0,99.3,62.5,
 2024-03-19,Oruro Aeropuerto,,,,,7.2
@@ -18372,6 +18451,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-20,Muyuquiri,,,,,5.0
 2024-03-20,Narvaez,,,,,8.2
 2024-03-20,Omereque - SDC (GPRS),32.54,20.34,75.49,33.73,0.9
+2024-03-20,Opoqueri,16.0,-1.0,,,
 2024-03-20,Oronkota PTI,30.0,17.9,,,
 2024-03-20,Oruro (GPRS),20.0,10.0,86.8,48.5,
 2024-03-20,Padilla,32.0,17.0,,,
@@ -18610,6 +18690,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-21,Molle Molle,22.2,15.5,,,
 2024-03-21,Montero_Muyurina,,,,,39.7
 2024-03-21,Omereque - SDC (GPRS),27.05,17.59,96.5,54.45,
+2024-03-21,Opoqueri,19.2,2.0,,,
 2024-03-21,Oronkota PTI,27.3,10.4,,,3.0
 2024-03-21,Oruro (GPRS),19.0,8.0,70.2,57.9,
 2024-03-21,Padilla,,,,,23.5
@@ -18846,6 +18927,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-22,Nuevo Mundo,,,,,28.4
 2024-03-22,Okinawa I,,,,,28.3
 2024-03-22,Omereque - SDC (GPRS),27.69,14.51,93.6,44.47,8.0
+2024-03-22,Opoqueri,23.0,4.3,,,
 2024-03-22,Oronkota PTI,28.0,18.0,,,0.5
 2024-03-22,Oruro (GPRS),10.0,10.0,81.0,81.0,
 2024-03-22,Padilla,24.0,13.0,,,
@@ -19060,6 +19142,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-23,Mojo,21.1,2.0,,,
 2024-03-23,Molle Molle,22.2,7.2,,,
 2024-03-23,Omereque - SDC (GPRS),30.5,13.8,90.6,31.12,
+2024-03-23,Opoqueri,19.0,3.0,,,
 2024-03-23,Oronkota PTI,27.8,15.5,,,
 2024-03-23,Padilla,26.0,14.0,,,
 2024-03-23,Pailon - Pozo del Tigre (GPRS),30.15,28.92,53.73,48.09,
@@ -19231,6 +19314,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-24,Mojo,22.8,1.3,,,
 2024-03-24,Molle Molle,25.0,7.2,,,
 2024-03-24,Omereque - SDC (GPRS),33.1,18.62,91.3,24.16,
+2024-03-24,Opoqueri,19.0,1.9,,,
 2024-03-24,Oronkota PTI,29.0,14.8,,,
 2024-03-24,Oruro (GPRS),19.0,11.0,75.8,47.7,
 2024-03-24,Padilla,,,,,1.5
@@ -19410,6 +19494,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-25,Montero_Muyurina,,,,,0.7
 2024-03-25,Nuevo Mundo,,,,,5.4
 2024-03-25,Omereque - SDC (GPRS),30.49,17.8,79.35,29.89,1.2
+2024-03-25,Opoqueri,21.0,4.0,,,
 2024-03-25,Oronkota PTI,29.0,15.2,,,
 2024-03-25,Oruro (GPRS),18.0,10.0,86.8,51.7,
 2024-03-25,Padilla,26.0,14.0,,,
@@ -19613,6 +19698,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-26,Narvaez,,,,,4.5
 2024-03-26,Nuevo Mundo,,,,,2.3
 2024-03-26,Omereque - SDC (GPRS),31.35,17.79,75.28,26.37,0.1
+2024-03-26,Opoqueri,23.1,3.9,,,
 2024-03-26,Oronkota PTI,28.9,17.4,,,
 2024-03-26,Oruro (GPRS),20.0,9.0,86.7,39.8,
 2024-03-26,Padilla,25.0,12.0,,,
@@ -19828,6 +19914,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-27,Mojo,15.9,2.3,,,
 2024-03-27,Molle Molle,22.8,10.0,,,
 2024-03-27,Omereque - SDC (GPRS),30.69,14.27,80.9,19.4,
+2024-03-27,Opoqueri,20.9,3.0,,,
 2024-03-27,Oronkota PTI,29.0,16.7,,,
 2024-03-27,Oruro (GPRS),20.0,9.0,75.5,39.8,
 2024-03-27,Padilla,27.0,10.0,,,
@@ -20017,6 +20104,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-28,Mojo,17.2,6.0,,,
 2024-03-28,Molle Molle,22.2,8.9,,,
 2024-03-28,Omereque - SDC (GPRS),31.34,15.57,72.35,18.29,
+2024-03-28,Opoqueri,23.0,2.0,,,
 2024-03-28,Oronkota PTI,28.0,16.0,,,
 2024-03-28,Oruro (GPRS),19.0,9.0,56.9,29.8,
 2024-03-28,Padilla,,,,,12.0
@@ -20208,6 +20296,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-29,Molle Molle,23.9,8.3,,,
 2024-03-29,Nuevo Mundo,,,,,12.6
 2024-03-29,Omereque - SDC (GPRS),32.4,20.39,66.95,16.22,
+2024-03-29,Opoqueri,24.3,4.0,,,
 2024-03-29,Oronkota PTI,27.8,16.4,,,
 2024-03-29,Oruro (GPRS),19.0,8.0,86.6,36.8,
 2024-03-29,Padilla,27.0,13.0,,,
@@ -20400,6 +20489,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-30,Molle Molle,22.2,12.8,,,
 2024-03-30,Narvaez,,,,,8.0
 2024-03-30,Omereque - SDC (GPRS),30.74,20.48,71.89,30.67,
+2024-03-30,Opoqueri,25.0,3.2,,,
 2024-03-30,Oronkota PTI,29.0,15.4,,,
 2024-03-30,Oruro (GPRS),19.0,8.0,70.2,42.3,
 2024-03-30,Padilla,,,,,3.0
@@ -20606,6 +20696,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-31,Molle Molle,22.8,12.2,,,
 2024-03-31,Nuevo Mundo,,,,,10.2
 2024-03-31,Omereque - SDC (GPRS),30.36,18.92,80.9,35.82,
+2024-03-31,Opoqueri,21.0,-1.1,,,
 2024-03-31,Oronkota PTI,30.0,16.6,,,2.7
 2024-03-31,Oruro (GPRS),19.0,7.0,75.2,44.8,
 2024-03-31,Padilla,,,,,11.0
@@ -20829,6 +20920,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-01,Molle Molle,28.3,12.8,,,
 2024-04-01,Narvaez,,,,,23.0
 2024-04-01,Omereque - SDC (GPRS),35.58,17.93,95.7,26.72,
+2024-04-01,Opoqueri,20.1,2.0,,,
 2024-04-01,Oronkota PTI,31.9,16.4,,,
 2024-04-01,Oruro (GPRS),20.0,9.0,80.9,39.8,
 2024-04-01,Padilla,,,,,1.5
@@ -21071,6 +21163,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-02,Narvaez,,,,,8.0
 2024-04-02,Nuevo Mundo,,,,,3.7
 2024-04-02,Omereque - SDC (GPRS),31.37,16.02,88.7,35.16,15.7
+2024-04-02,Opoqueri,18.2,2.6,,,
 2024-04-02,Oronkota PTI,31.3,19.8,,,
 2024-04-02,Oruro (GPRS),20.0,11.0,70.8,39.8,
 2024-04-02,Padilla,29.0,13.0,,,
@@ -21327,6 +21420,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-03,Molle Molle,24.4,12.2,,,
 2024-04-03,Narvaez,,,,,1.0
 2024-04-03,Omereque - SDC (GPRS),33.24,18.29,84.0,32.95,
+2024-04-03,Opoqueri,17.3,2.0,,,
 2024-04-03,Oronkota PTI,35.9,16.4,,,
 2024-04-03,Oruro (GPRS),18.0,9.0,75.5,44.8,
 2024-04-03,Padilla,31.0,12.0,,,
@@ -21546,6 +21640,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-04,Molle Molle,26.7,12.8,,,2.5
 2024-04-04,Narvaez,,,,,8.5
 2024-04-04,Omereque - SDC (GPRS),32.39,20.47,76.72,32.61,
+2024-04-04,Opoqueri,19.0,0.9,,,
 2024-04-04,Oronkota PTI,32.5,20.0,,,
 2024-04-04,Oruro (GPRS),22.0,7.0,75.2,37.7,
 2024-04-04,Padilla,,,,,4.5
@@ -21764,6 +21859,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-05,Molle Molle,23.9,12.2,,,
 2024-04-05,Narvaez,,,,,11.0
 2024-04-05,Omereque - SDC (GPRS),30.69,18.52,78.87,39.22,
+2024-04-05,Opoqueri,23.0,3.4,,,1.0
 2024-04-05,Oronkota PTI,32.3,20.6,,,
 2024-04-05,Oruro (GPRS),20.0,10.0,81.2,39.5,
 2024-04-05,Padilla,25.0,16.0,,,
@@ -21984,6 +22080,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-06,Molle Molle,25.0,12.2,,,
 2024-04-06,Narvaez,,,,,9.0
 2024-04-06,Omereque - SDC (GPRS),31.94,28.83,41.19,33.02,0.4
+2024-04-06,Opoqueri,20.1,3.0,,,
 2024-04-06,Oronkota PTI,32.0,20.2,,,
 2024-04-06,Oruro (GPRS),16.0,7.0,75.2,54.8,
 2024-04-06,Padilla,28.0,15.0,,,
@@ -22182,6 +22279,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-07,Muyuquiri,,,,,19.0
 2024-04-07,Narvaez,,,,,76.8
 2024-04-07,Omereque - SDC (GPRS),30.7,29.17,42.38,38.12,
+2024-04-07,Opoqueri,20.0,7.1,,,3.3
 2024-04-07,Oronkota PTI,30.8,21.4,,,
 2024-04-07,Padilla,,,,,2.5
 2024-04-07,Pailon - Pozo del Tigre (GPRS),34.98,33.16,63.53,51.77,
@@ -22394,6 +22492,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-08,Montero_Muyurina,,,,,10.4
 2024-04-08,Narvaez,,,,,4.2
 2024-04-08,Omereque - SDC (GPRS),30.68,27.2,50.69,39.6,
+2024-04-08,Opoqueri,18.2,7.0,,,
 2024-04-08,Oronkota PTI,36.9,19.8,,,
 2024-04-08,Oruro (GPRS),19.0,13.0,58.4,47.7,
 2024-04-08,Padilla,29.0,15.0,,,
@@ -22638,6 +22737,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-09,Montero_Muyurina,,,,,2.1
 2024-04-09,Narvaez,,,,,8.0
 2024-04-09,Omereque - SDC (GPRS),30.8,29.99,37.66,34.68,
+2024-04-09,Opoqueri,19.3,1.5,,,
 2024-04-09,Oronkota PTI,34.1,20.8,,,
 2024-04-09,Oruro (GPRS),20.0,6.0,86.4,37.1,
 2024-04-09,Padilla,27.0,14.0,,,
@@ -22871,6 +22971,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-10,Narvaez,,,,,28.7
 2024-04-10,Nuevo Mundo,,,,,25.0
 2024-04-10,Omereque - SDC (GPRS),28.12,25.31,59.06,49.79,1.2
+2024-04-10,Opoqueri,19.0,1.7,,,
 2024-04-10,Oronkota PTI,31.0,20.0,,,
 2024-04-10,Oruro (GPRS),18.0,9.0,80.9,51.7,
 2024-04-10,Padilla,,,,,2.0
@@ -23104,6 +23205,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-11,Narvaez,,,,,23.5
 2024-04-11,Nuevo Mundo,,,,,16.3
 2024-04-11,Omereque - SDC (GPRS),28.03,24.93,53.52,43.09,0.2
+2024-04-11,Opoqueri,19.1,7.0,,,0.2
 2024-04-11,Oronkota PTI,29.8,20.8,,,
 2024-04-11,Oruro (GPRS),19.0,6.0,80.5,39.5,
 2024-04-11,Padilla,,,,,4.0
@@ -23360,6 +23462,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-12,Narvaez,,,,,9.0
 2024-04-12,Nuevo Mundo,,,,,8.4
 2024-04-12,Omereque - SDC (GPRS),,,76.46,,
+2024-04-12,Opoqueri,20.0,8.3,,,
 2024-04-12,Oronkota PTI,29.4,18.3,,,
 2024-04-12,Oruro (GPRS),,,75.8,,
 2024-04-12,Padilla,,,,,1.5
@@ -23601,6 +23704,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-13,Narvaez,,,,,4.0
 2024-04-13,Nuevo Mundo,,,,,9.7
 2024-04-13,Omereque - SDC (GPRS),,,45.43,,
+2024-04-13,Opoqueri,19.2,1.0,,,
 2024-04-13,Oronkota PTI,32.0,19.0,,,
 2024-04-13,Oruro (GPRS),,,86.5,,
 2024-04-13,Padilla,24.0,14.0,,,
@@ -23822,6 +23926,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-14,Narvaez,,,,,3.3
 2024-04-14,Nuevo Mundo,,,,,3.2
 2024-04-14,Omereque - SDC (GPRS),,,56.85,,
+2024-04-14,Opoqueri,20.0,8.1,,,
 2024-04-14,Oronkota PTI,36.0,19.2,,,
 2024-04-14,Oruro (GPRS),,,80.5,,
 2024-04-14,Padilla,27.0,15.0,,,
@@ -24040,6 +24145,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-15,Molle Molle,25.0,12.2,,,
 2024-04-15,Montero_Muyurina,,,,,24.3
 2024-04-15,Omereque - SDC (GPRS),33.55,25.77,47.26,26.86,
+2024-04-15,Opoqueri,17.4,2.5,,,
 2024-04-15,Oronkota PTI,32.0,14.2,,,
 2024-04-15,Oruro (GPRS),21.0,5.0,51.8,24.2,
 2024-04-15,Padilla,28.0,13.0,,,
@@ -24262,6 +24368,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-16,Molle Molle,25.5,11.7,,,
 2024-04-16,Montero_Muyurina,,,,,13.4
 2024-04-16,Omereque - SDC (GPRS),32.43,19.38,70.89,28.85,
+2024-04-16,Opoqueri,18.0,5.0,,,
 2024-04-16,Oronkota PTI,33.4,14.9,,,
 2024-04-16,Oruro (GPRS),10.0,4.0,59.9,42.8,
 2024-04-16,Padilla,24.0,12.0,,,
@@ -24474,6 +24581,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-17,Molle Molle,23.3,10.0,,,
 2024-04-17,Nuevo Mundo,,,,,4.2
 2024-04-17,Omereque - SDC (GPRS),27.16,26.11,82.6,42.13,
+2024-04-17,Opoqueri,20.0,5.4,,,
 2024-04-17,Oronkota PTI,29.2,12.1,,,
 2024-04-17,Padilla,18.0,11.0,,,
 2024-04-17,Pailon - Pozo del Tigre (GPRS),25.99,21.95,91.3,61.43,9.0
@@ -24657,6 +24765,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-18,Mojo,16.4,1.3,,,
 2024-04-18,Molle Molle,25.0,12.2,,,
 2024-04-18,Omereque - SDC (GPRS),28.63,16.71,75.13,39.77,
+2024-04-18,Opoqueri,20.1,5.0,,,
 2024-04-18,Oronkota PTI,38.8,13.9,,,
 2024-04-18,Padilla,24.0,10.0,,,
 2024-04-18,Pailon - Pozo del Tigre (GPRS),28.59,17.97,96.7,48.2,
@@ -24829,6 +24938,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-19,Mojo,17.0,2.1,,,
 2024-04-19,Molle Molle,26.7,10.0,,,
 2024-04-19,Omereque - SDC (GPRS),31.63,14.98,41.7,30.96,
+2024-04-19,Opoqueri,20.0,5.6,,,
 2024-04-19,Oronkota PTI,33.5,14.9,,,
 2024-04-19,Padilla,30.0,8.0,,,
 2024-04-19,Pailon - Pozo del Tigre (GPRS),31.47,21.88,95.8,49.26,
@@ -24984,6 +25094,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-20,Mojo,16.2,2.3,,,
 2024-04-20,Molle Molle,23.3,12.8,,,
 2024-04-20,Omereque - SDC (GPRS),32.75,16.92,36.98,29.38,
+2024-04-20,Opoqueri,19.3,4.0,,,
 2024-04-20,Oronkota PTI,25.8,16.1,,,
 2024-04-20,Padilla,31.0,10.0,,,
 2024-04-20,Pailon - Pozo del Tigre (GPRS),33.22,23.64,98.8,58.98,
@@ -25137,6 +25248,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-21,Mojo,15.2,3.3,,,
 2024-04-21,Molle Molle,25.5,14.4,,,
 2024-04-21,Omereque - SDC (GPRS),32.18,18.06,78.02,43.5,
+2024-04-21,Opoqueri,22.0,4.3,,,
 2024-04-21,Oronkota PTI,36.6,17.9,,,
 2024-04-21,Padilla,29.0,11.0,,,
 2024-04-21,Pailon - Pozo del Tigre (GPRS),33.81,25.27,95.0,58.59,
@@ -25299,6 +25411,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-22,Mojo,16.0,4.1,,,
 2024-04-22,Molle Molle,25.5,15.0,,,
 2024-04-22,Omereque - SDC (GPRS),,,43.22,43.22,
+2024-04-22,Opoqueri,22.0,5.0,,,
 2024-04-22,Oronkota PTI,36.2,17.9,,,
 2024-04-22,Padilla,30.0,9.0,,,
 2024-04-22,Pailon - Pozo del Tigre (GPRS),34.65,24.62,96.6,55.21,
@@ -25456,6 +25569,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-23,Mojo,23.0,2.2,,,
 2024-04-23,Molle Molle,27.8,11.7,,,
 2024-04-23,Omereque - SDC (GPRS),32.04,20.41,74.58,38.22,
+2024-04-23,Opoqueri,20.0,5.1,,,
 2024-04-23,Oronkota PTI,36.3,19.0,,,
 2024-04-23,Padilla,31.0,16.0,,,
 2024-04-23,Pailon - Pozo del Tigre (GPRS),34.98,24.17,98.3,53.65,
@@ -25632,6 +25746,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-24,Molle Molle,26.7,12.2,,,
 2024-04-24,Narvaez,,,,,11.0
 2024-04-24,Omereque - SDC (GPRS),30.1,16.03,84.9,42.07,
+2024-04-24,Opoqueri,20.1,1.0,,,
 2024-04-24,Oronkota PTI,36.4,21.1,,,
 2024-04-24,Oruro (GPRS),22.0,12.0,66.3,32.8,
 2024-04-24,Padilla,29.0,15.0,,,
@@ -25825,6 +25940,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-25,Mojo,25.3,3.3,,,
 2024-04-25,Molle Molle,25.5,12.2,,,
 2024-04-25,Omereque - SDC (GPRS),30.48,15.46,83.0,42.11,
+2024-04-25,Opoqueri,18.2,1.0,,,
 2024-04-25,Orinoca - UTO (GPRS),12.81,12.04,55.32,42.44,
 2024-04-25,Oronkota PTI,35.6,16.3,,,
 2024-04-25,Oruro (GPRS),23.0,7.0,70.0,33.1,
@@ -26018,6 +26134,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-26,Mojo,26.1,2.3,,,
 2024-04-26,Molle Molle,25.5,12.8,,,
 2024-04-26,Omereque - SDC (GPRS),32.06,16.06,82.4,37.06,
+2024-04-26,Opoqueri,21.0,0.0,,,
 2024-04-26,Oronkota PTI,37.8,17.0,,,
 2024-04-26,Oruro (GPRS),23.0,3.0,80.5,26.8,
 2024-04-26,Padilla,32.0,15.0,,,
@@ -26202,6 +26319,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-27,Mojo,27.0,4.0,,,
 2024-04-27,Molle Molle,26.1,15.5,,,
 2024-04-27,Omereque - SDC (GPRS),33.69,18.38,76.99,33.45,
+2024-04-27,Opoqueri,20.0,1.5,,,
 2024-04-27,Oronkota PTI,38.4,18.2,,,
 2024-04-27,Oruro (GPRS),24.0,7.0,70.0,29.1,
 2024-04-27,Padilla,31.0,8.0,,,
@@ -26374,6 +26492,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-28,Molle Molle,23.9,13.9,,,
 2024-04-28,Narvaez,,,,,18.0
 2024-04-28,Omereque - SDC (GPRS),31.14,16.2,78.09,32.9,
+2024-04-28,Opoqueri,21.0,1.3,,,
 2024-04-28,Oronkota PTI,32.2,19.2,,,
 2024-04-28,Oruro (GPRS),23.0,5.0,86.3,30.9,
 2024-04-28,Padilla,30.0,15.0,,,
@@ -26556,6 +26675,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-29,Molle Molle,23.3,15.0,,,
 2024-04-29,Narvaez,,,,,5.4
 2024-04-29,Omereque - SDC (GPRS),34.48,17.07,76.85,23.13,
+2024-04-29,Opoqueri,18.6,1.0,,,
 2024-04-29,Oronkota PTI,35.9,15.5,,,
 2024-04-29,Oruro (GPRS),21.0,5.0,92.6,34.6,
 2024-04-29,Padilla,31.0,10.0,,,
@@ -26747,6 +26867,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-30,Mojo,24.0,2.2,,,
 2024-04-30,Molle Molle,23.3,15.5,,,
 2024-04-30,Omereque - SDC (GPRS),34.55,18.39,75.81,27.48,
+2024-04-30,Opoqueri,17.1,0.5,,,
 2024-04-30,Oronkota PTI,35.9,18.9,,,
 2024-04-30,Oruro (GPRS),23.0,5.0,80.4,28.8,
 2024-04-30,Padilla,32.0,12.0,,,
@@ -26932,6 +27053,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-01,Mojo,24.2,0.0,,,
 2024-05-01,Molle Molle,25.0,15.5,,,
 2024-05-01,Omereque - SDC (GPRS),33.7,18.01,76.77,27.87,
+2024-05-01,Opoqueri,20.0,2.1,,,
 2024-05-01,Oronkota PTI,30.4,18.9,,,2.2
 2024-05-01,Oruro (GPRS),18.0,5.0,92.8,42.0,
 2024-05-01,Padilla,31.0,10.0,,,
@@ -27133,6 +27255,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-02,Mojo,22.0,4.3,,,
 2024-05-02,Molle Molle,25.5,15.5,,,
 2024-05-02,Omereque - SDC (GPRS),32.38,17.98,95.0,34.84,
+2024-05-02,Opoqueri,17.1,1.9,,,
 2024-05-02,Oronkota PTI,32.8,17.9,,,2.1
 2024-05-02,Oruro (GPRS),17.0,3.0,99.3,47.7,
 2024-05-02,Padilla,28.0,12.0,,,1.5
@@ -27362,6 +27485,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-03,Montero_Muyurina,,,,,1.8
 2024-05-03,Nuevo Mundo,,,,,4.6
 2024-05-03,Omereque - SDC (GPRS),21.59,14.42,95.1,66.28,7.6
+2024-05-03,Opoqueri,18.0,4.0,,,
 2024-05-03,Oronkota PTI,29.9,18.8,,,
 2024-05-03,Oruro (GPRS),19.0,7.0,86.5,41.8,
 2024-05-03,Padilla,25.0,13.0,,,
@@ -27593,6 +27717,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-04,Molle Molle,22.8,13.3,,,
 2024-05-04,Montero_Muyurina,,,,,18.5
 2024-05-04,Omereque - SDC (GPRS),30.48,15.02,88.3,35.92,
+2024-05-04,Opoqueri,18.1,-7.0,,,
 2024-05-04,Oronkota PTI,34.9,14.9,,,
 2024-05-04,Oruro (GPRS),20.0,3.0,74.5,30.0,
 2024-05-04,Padilla,27.0,8.0,,,
@@ -27783,6 +27908,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-05,Mojo,23.0,-4.0,,,
 2024-05-05,Molle Molle,23.3,13.3,,,
 2024-05-05,Omereque - SDC (GPRS),31.13,15.68,82.1,35.21,
+2024-05-05,Opoqueri,17.0,-2.3,,,
 2024-05-05,Oronkota PTI,35.9,14.9,,,
 2024-05-05,Oruro (GPRS),22.0,1.0,86.2,30.3,
 2024-05-05,Padilla,30.0,8.0,,,
@@ -27961,6 +28087,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-06,Mojo,22.0,-0.3,,,
 2024-05-06,Molle Molle,23.9,13.9,,,
 2024-05-06,Omereque - SDC (GPRS),18.85,17.52,75.2,70.33,
+2024-05-06,Opoqueri,19.0,-1.3,,,
 2024-05-06,Oronkota PTI,35.9,15.2,,,
 2024-05-06,Oruro (GPRS),2.0,0.0,74.0,69.0,
 2024-05-06,Padilla,31.0,9.0,,,
@@ -28140,6 +28267,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-07,Mojo,23.0,2.2,,,
 2024-05-07,Molle Molle,26.7,14.4,,,
 2024-05-07,Omereque - SDC (GPRS),22.54,17.85,74.15,58.29,
+2024-05-07,Opoqueri,17.3,-2.0,,,
 2024-05-07,Oronkota PTI,36.2,15.5,,,
 2024-05-07,Oruro (GPRS),8.0,4.0,59.9,52.7,
 2024-05-07,Padilla,32.0,8.0,,,
@@ -28320,6 +28448,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-08,Mojo,23.3,0.0,,,
 2024-05-08,Molle Molle,22.2,13.3,,,
 2024-05-08,Omereque - SDC (GPRS),32.29,17.93,74.55,28.32,
+2024-05-08,Opoqueri,19.2,-1.0,,,
 2024-05-08,Oronkota PTI,35.2,15.3,,,
 2024-05-08,Oruro (GPRS),20.0,0.0,74.0,31.4,
 2024-05-08,Padilla,31.0,11.0,,,
@@ -28503,6 +28632,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-09,Montero_Muyurina,,,,,11.4
 2024-05-09,Nuevo Mundo,,,,,12.7
 2024-05-09,Omereque - SDC (GPRS),26.95,20.4,71.56,48.96,
+2024-05-09,Opoqueri,18.0,-3.4,,,
 2024-05-09,Oronkota PTI,31.9,18.3,,,
 2024-05-09,Oruro (GPRS),17.0,10.0,57.2,41.8,
 2024-05-09,Padilla,29.0,15.0,,,
@@ -28698,6 +28828,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-10,Molle Molle,24.4,12.2,,,
 2024-05-10,Narvaez,,,,,4.9
 2024-05-10,Omereque - SDC (GPRS),28.99,16.83,73.86,40.32,
+2024-05-10,Opoqueri,20.4,-1.1,,,
 2024-05-10,Oronkota PTI,35.2,16.2,,,
 2024-05-10,Oruro (GPRS),21.0,2.0,86.3,36.8,
 2024-05-10,Padilla,31.0,8.0,,,
@@ -28886,6 +29017,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-11,Molle Molle,22.8,15.0,,,
 2024-05-11,Narvaez,,,,,3.0
 2024-05-11,Omereque - SDC (GPRS),29.7,18.63,68.21,42.29,
+2024-05-11,Opoqueri,19.0,-2.0,,,
 2024-05-11,Oronkota PTI,35.9,17.5,,,
 2024-05-11,Oruro (GPRS),15.0,3.0,59.7,38.3,
 2024-05-11,Padilla,29.0,9.0,,,
@@ -29066,6 +29198,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-12,Montero_Muyurina,,,,,14.8
 2024-05-12,Narvaez,,,,,2.5
 2024-05-12,Omereque - SDC (GPRS),29.61,17.13,76.45,41.02,
+2024-05-12,Opoqueri,20.6,-1.2,,,
 2024-05-12,Oronkota PTI,35.9,16.1,,,
 2024-05-12,Oruro (GPRS),21.0,0.0,80.2,30.3,
 2024-05-12,Padilla,28.0,5.0,,,0.7
@@ -29253,6 +29386,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-13,Narvaez,,,,,0.8
 2024-05-13,Nuevo Mundo,,,,,4.7
 2024-05-13,Omereque - SDC (GPRS),26.36,18.36,70.44,47.52,
+2024-05-13,Opoqueri,20.0,0.3,,,
 2024-05-13,Oronkota PTI,30.2,13.2,,,
 2024-05-13,Oruro (GPRS),17.0,0.0,85.8,41.8,
 2024-05-13,Padilla,11.0,4.0,,,1.0
@@ -29461,6 +29595,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-14,Narvaez,,,,,1.2
 2024-05-14,Nuevo Mundo,,,,,8.3
 2024-05-14,Omereque - SDC (GPRS),18.59,12.99,72.26,53.64,
+2024-05-14,Opoqueri,19.5,1.5,,,
 2024-05-14,Oronkota PTI,22.9,9.4,,,
 2024-05-14,Oruro (GPRS),18.0,3.0,69.2,48.3,
 2024-05-14,Padilla,9.0,3.0,,,
@@ -29677,6 +29812,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-15,Molle Molle,24.4,7.2,,,
 2024-05-15,Nuevo Mundo,,,,,9.1
 2024-05-15,Omereque - SDC (GPRS),21.51,13.28,72.54,48.25,
+2024-05-15,Opoqueri,19.0,0.6,,,
 2024-05-15,Oronkota PTI,31.4,9.2,,,
 2024-05-15,Oruro (GPRS),19.0,4.0,86.6,45.3,
 2024-05-15,Padilla,19.0,4.0,,,
@@ -29878,6 +30014,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-16,Mojo,20.5,4.3,,,
 2024-05-16,Molle Molle,24.4,13.3,,,
 2024-05-16,Omereque - SDC (GPRS),27.52,14.5,72.2,37.11,
+2024-05-16,Opoqueri,16.9,0.4,,,0.3
 2024-05-16,Oronkota PTI,34.9,13.1,,,
 2024-05-16,Oruro (GPRS),15.0,5.0,86.3,47.4,
 2024-05-16,Padilla,31.0,3.0,,,
@@ -30078,6 +30215,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-17,Montero_Muyurina,,,,,0.3
 2024-05-17,Narvaez,,,,,1.5
 2024-05-17,Omereque - SDC (GPRS),26.72,19.89,61.72,44.29,
+2024-05-17,Opoqueri,18.3,-1.3,,,
 2024-05-17,Oronkota PTI,33.0,16.9,,,
 2024-05-17,Oruro (GPRS),17.0,1.0,86.6,47.7,
 2024-05-17,Padilla,24.0,12.0,,,
@@ -30283,6 +30421,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-18,Mojo,18.2,3.3,,,
 2024-05-18,Molle Molle,22.8,13.9,,,
 2024-05-18,Omereque - SDC (GPRS),25.03,17.21,71.0,43.87,
+2024-05-18,Opoqueri,18.0,-3.0,,,
 2024-05-18,Oronkota PTI,28.8,11.4,,,
 2024-05-18,Oruro (GPRS),13.0,8.0,70.2,57.9,
 2024-05-18,Padilla,18.0,7.0,,,
@@ -30469,6 +30608,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-19,Molle Molle,25.5,7.8,,,
 2024-05-19,Nuevo Mundo,,,,,5.7
 2024-05-19,Omereque - SDC (GPRS),17.21,14.16,71.61,63.17,
+2024-05-19,Opoqueri,18.0,-6.0,,,
 2024-05-19,Oronkota PTI,36.8,7.9,,,
 2024-05-19,Oruro (GPRS),18.0,2.0,69.4,23.6,
 2024-05-19,Padilla,20.0,5.0,,,
@@ -30640,6 +30780,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-20,Mojo,18.0,-7.2,,,
 2024-05-20,Molle Molle,24.4,8.9,,,
 2024-05-20,Omereque - SDC (GPRS),24.47,14.92,72.1,42.54,
+2024-05-20,Opoqueri,18.4,-6.0,,,
 2024-05-20,Oronkota PTI,34.2,9.9,,,
 2024-05-20,Oruro (GPRS),14.0,1.0,63.8,38.0,
 2024-05-20,Padilla,22.0,6.0,,,
@@ -30818,6 +30959,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-21,Mojo,20.2,-4.0,,,
 2024-05-21,Molle Molle,25.5,11.1,,,
 2024-05-21,Omereque - SDC (GPRS),23.47,13.94,70.72,42.38,
+2024-05-21,Opoqueri,18.5,-10.0,,,
 2024-05-21,Oronkota PTI,36.2,11.9,,,
 2024-05-21,Oruro (GPRS),15.0,0.0,58.9,26.6,
 2024-05-21,Padilla,31.0,5.0,,,
@@ -30988,6 +31130,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-22,Molle Molle,21.7,12.8,,,
 2024-05-22,Narvaez,,,,,2.0
 2024-05-22,Omereque - SDC (GPRS),27.88,15.28,64.15,39.43,
+2024-05-22,Opoqueri,17.0,-8.0,,,
 2024-05-22,Oronkota PTI,34.2,11.7,,,
 2024-05-22,Oruro (GPRS),20.0,1.0,68.8,27.7,
 2024-05-22,Padilla,30.0,6.0,,,
@@ -31161,6 +31304,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-23,Molle Molle,21.7,12.2,,,
 2024-05-23,Narvaez,,,,,5.0
 2024-05-23,Omereque - SDC (GPRS),28.83,14.99,72.72,38.85,
+2024-05-23,Opoqueri,18.0,-6.0,,,
 2024-05-23,Oronkota PTI,34.9,12.2,,,
 2024-05-23,Oruro (GPRS),14.0,1.0,69.6,40.9,
 2024-05-23,Padilla,27.0,4.0,,,0.8
@@ -31340,6 +31484,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-24,Mojo,19.1,7.3,,,
 2024-05-24,Molle Molle,21.7,7.2,,,
 2024-05-24,Omereque - SDC (GPRS),25.46,16.22,72.72,47.15,
+2024-05-24,Opoqueri,19.1,-8.0,,,
 2024-05-24,Oronkota PTI,27.5,10.9,,,
 2024-05-24,Oruro (GPRS),18.0,2.0,60.9,29.2,
 2024-05-24,Padilla,12.0,3.0,,,
@@ -31534,6 +31679,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-25,Narvaez,,,,,2.0
 2024-05-25,Nuevo Mundo,,,,,9.0
 2024-05-25,Omereque - SDC (GPRS),13.27,12.54,70.22,67.02,
+2024-05-25,Opoqueri,18.4,-6.0,,,
 2024-05-25,Oronkota PTI,26.4,9.4,,,
 2024-05-25,Oruro (GPRS),1.0,1.0,68.8,68.8,
 2024-05-25,Padilla,11.0,4.0,,,
@@ -31709,6 +31855,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-26,Molle Molle,25.0,4.4,,,
 2024-05-26,Narvaez,,,,,2.3
 2024-05-26,Omereque - SDC (GPRS),27.7,8.6,82.8,30.58,
+2024-05-26,Opoqueri,19.0,-8.1,,,
 2024-05-26,Oronkota PTI,32.9,6.2,,,
 2024-05-26,Oruro (GPRS),18.0,6.0,65.0,21.9,
 2024-05-26,Padilla,16.0,3.0,,,
@@ -31881,6 +32028,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-27,Mojo,18.0,-3.3,,,
 2024-05-27,Molle Molle,25.5,5.0,,,
 2024-05-27,Omereque - SDC (GPRS),21.84,9.75,77.88,41.27,
+2024-05-27,Opoqueri,17.3,-8.0,,,
 2024-05-27,Oronkota PTI,32.9,6.3,,,
 2024-05-27,Oruro (GPRS),13.0,1.0,63.8,28.5,
 2024-05-27,Padilla,13.0,2.0,,,
@@ -32056,6 +32204,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-28,Mojo,18.1,-5.2,,,
 2024-05-28,Molle Molle,26.1,4.4,,,
 2024-05-28,Omereque - SDC (GPRS),22.43,12.39,66.51,34.57,
+2024-05-28,Opoqueri,18.7,-11.3,,,
 2024-05-28,Oronkota PTI,26.9,4.2,,,
 2024-05-28,Oruro (GPRS),13.0,1.0,59.2,26.0,
 2024-05-28,Padilla,19.0,-2.0,,,
@@ -32231,6 +32380,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-29,Mojo,19.0,-5.0,,,
 2024-05-29,Molle Molle,21.2,2.8,,,
 2024-05-29,Omereque - SDC (GPRS),21.78,9.55,67.71,36.71,
+2024-05-29,Opoqueri,18.0,-10.0,,,
 2024-05-29,Oronkota PTI,30.2,5.2,,,
 2024-05-29,Oruro (GPRS),18.0,2.0,69.0,17.8,
 2024-05-29,Padilla,26.0,-3.0,,,
@@ -32397,6 +32547,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-30,Mojo,19.3,-4.3,,,
 2024-05-30,Molle Molle,28.3,3.9,,,
 2024-05-30,Omereque - SDC (GPRS),24.14,10.75,63.73,29.61,
+2024-05-30,Opoqueri,16.9,-9.0,,,
 2024-05-30,Oronkota PTI,24.2,6.4,,,
 2024-05-30,Oruro (GPRS),14.0,4.0,55.6,25.4,
 2024-05-30,Padilla,25.0,-2.0,,,
@@ -32557,6 +32708,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-31,Mojo,19.0,-7.3,,,
 2024-05-31,Molle Molle,22.8,6.7,,,
 2024-05-31,Omereque - SDC (GPRS),24.6,12.11,72.8,36.33,
+2024-05-31,Opoqueri,17.5,-7.7,,,
 2024-05-31,Oronkota PTI,33.4,8.3,,,
 2024-05-31,Oruro (GPRS),17.0,2.0,47.5,23.1,
 2024-05-31,Padilla,27.0,-1.0,,,
@@ -32719,6 +32871,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-01,Mojo,,-3.0,,,
 2024-06-01,Molle Molle,30.0,5.5,,,
 2024-06-01,Omereque - SDC (GPRS),24.24,11.24,70.77,36.08,
+2024-06-01,Opoqueri,17.0,-9.0,,,
 2024-06-01,Oronkota PTI,33.2,,,,
 2024-06-01,Oruro (GPRS),12.0,3.0,64.3,43.4,
 2024-06-01,Padilla,26.0,1.0,,,
@@ -32871,6 +33024,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-02,Mojo,,-3.3,,,
 2024-06-02,Molle Molle,30.0,4.4,,,
 2024-06-02,Omereque - SDC (GPRS),25.1,11.29,69.54,30.46,
+2024-06-02,Opoqueri,18.6,-8.1,,,
 2024-06-02,Oronkota PTI,34.5,,,,
 2024-06-02,Oruro (GPRS),18.0,3.0,51.3,20.4,
 2024-06-02,Padilla,31.0,-2.0,,,
@@ -33026,6 +33180,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-03,Mojo,,-5.1,,,
 2024-06-03,Molle Molle,23.9,4.4,,,
 2024-06-03,Omereque - SDC (GPRS),24.79,13.72,62.12,33.81,
+2024-06-03,Opoqueri,18.3,-7.3,,,
 2024-06-03,Oronkota PTI,35.2,,,,
 2024-06-03,Oruro (GPRS),17.0,1.0,59.2,25.2,
 2024-06-03,Padilla,23.0,4.0,,,
@@ -33188,6 +33343,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-04,Mojo,,-4.2,,,
 2024-06-04,Molle Molle,27.8,3.3,,,
 2024-06-04,Omereque - SDC (GPRS),21.46,11.66,75.79,47.99,
+2024-06-04,Opoqueri,19.0,-4.0,,,
 2024-06-04,Oronkota PTI,34.5,,,,
 2024-06-04,Oruro (GPRS),17.0,1.0,68.8,18.6,
 2024-06-04,Padilla,27.0,3.0,,,
@@ -33353,6 +33509,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-05,Mojo,,-3.1,,,
 2024-06-05,Molle Molle,27.2,5.0,,,
 2024-06-05,Omereque - SDC (GPRS),23.42,11.57,71.05,38.83,
+2024-06-05,Opoqueri,18.9,-5.3,,,
 2024-06-05,Oronkota PTI,35.5,,,,
 2024-06-05,Oruro (GPRS),20.0,2.0,47.8,19.4,
 2024-06-05,Padilla,26.0,1.0,,,
@@ -33515,6 +33672,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-06,Mojo,,-3.5,,,
 2024-06-06,Molle Molle,28.3,4.4,,,
 2024-06-06,Omereque - SDC (GPRS),22.04,10.47,66.21,35.15,
+2024-06-06,Opoqueri,19.0,-6.3,,,
 2024-06-06,Oronkota PTI,35.6,,,,
 2024-06-06,Oruro (GPRS),16.0,1.0,64.3,23.1,
 2024-06-06,Padilla,29.0,0.0,,,
@@ -33681,6 +33839,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-07,Mojo,,-4.2,,,
 2024-06-07,Molle Molle,30.0,3.9,,,
 2024-06-07,Omereque - SDC (GPRS),21.38,10.78,71.81,41.73,
+2024-06-07,Opoqueri,19.1,-7.1,,,
 2024-06-07,Oronkota PTI,34.2,,,,
 2024-06-07,Oruro (GPRS),21.0,1.0,59.2,16.9,
 2024-06-07,Padilla,30.0,-2.0,,,
@@ -33840,6 +33999,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-08,Mojo,,-4.1,,,
 2024-06-08,Molle Molle,28.7,6.7,,,
 2024-06-08,Omereque - SDC (GPRS),18.97,10.63,59.5,35.84,
+2024-06-08,Opoqueri,18.0,-9.0,,,
 2024-06-08,Oronkota PTI,35.8,,,,
 2024-06-08,Oruro (GPRS),12.0,2.0,64.0,27.8,
 2024-06-08,Padilla,31.0,-1.0,,,
@@ -33995,6 +34155,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-09,Mojo,,-2.0,,,
 2024-06-09,Molle Molle,28.7,7.2,,,
 2024-06-09,Omereque - SDC (GPRS),24.5,8.27,32.57,13.06,
+2024-06-09,Opoqueri,16.7,-7.0,,,
 2024-06-09,Oronkota PTI,34.5,,,,
 2024-06-09,Oruro (GPRS),20.0,3.0,64.3,14.3,
 2024-06-09,Padilla,32.0,2.0,,,
@@ -34151,6 +34312,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-10,Mojo,,-5.1,,,
 2024-06-10,Molle Molle,29.4,6.7,,,
 2024-06-10,Omereque - SDC (GPRS),22.11,9.83,39.69,19.58,
+2024-06-10,Opoqueri,15.9,-8.1,,,
 2024-06-10,Oronkota PTI,33.9,,,,
 2024-06-10,Oruro (GPRS),14.0,2.0,55.1,24.4,
 2024-06-10,Padilla,27.0,0.0,,,
@@ -34318,6 +34480,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-11,Mojo,,-5.2,,,
 2024-06-11,Molle Molle,25.5,3.9,,,
 2024-06-11,Omereque - SDC (GPRS),25.26,11.98,64.18,31.38,
+2024-06-11,Opoqueri,17.6,-8.0,,,
 2024-06-11,Oronkota PTI,34.9,,,,
 2024-06-11,Oruro (GPRS),11.0,3.0,44.0,27.5,
 2024-06-11,Padilla,29.0,2.0,,,
@@ -34484,6 +34647,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-12,Mojo,,-2.0,,,
 2024-06-12,Molle Molle,25.0,10.0,,,
 2024-06-12,Omereque - SDC (GPRS),25.94,12.55,68.24,35.06,
+2024-06-12,Opoqueri,17.0,-8.3,,,
 2024-06-12,Oronkota PTI,34.8,,,,
 2024-06-12,Oruro (GPRS),19.0,1.0,59.9,20.6,
 2024-06-12,Padilla,30.0,1.0,,,
@@ -34654,6 +34818,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-13,Mojo,,1.0,,,
 2024-06-13,Molle Molle,23.3,11.9,,,
 2024-06-13,Omereque - SDC (GPRS),20.15,13.41,73.0,54.79,
+2024-06-13,Opoqueri,17.0,-7.0,,,
 2024-06-13,Oronkota PTI,34.9,,,,
 2024-06-13,Oruro (GPRS),13.0,2.0,55.1,26.3,
 2024-06-13,Padilla,31.0,7.0,,,
@@ -34825,6 +34990,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-14,Molle Molle,28.9,12.2,,,
 2024-06-14,Montero_Muyurina,,,,,0.5
 2024-06-14,Omereque - SDC (GPRS),21.05,13.87,69.0,53.83,
+2024-06-14,Opoqueri,16.0,-6.0,,,
 2024-06-14,Oronkota PTI,33.5,,,,
 2024-06-14,Oruro (GPRS),16.0,3.0,51.3,27.8,
 2024-06-14,Padilla,32.0,5.0,,,
@@ -34999,6 +35165,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-15,Molle Molle,22.8,11.1,,,
 2024-06-15,Montero_Muyurina,,,,,14.8
 2024-06-15,Omereque - SDC (GPRS),24.36,14.13,61.37,45.05,
+2024-06-15,Opoqueri,16.7,-7.0,,,
 2024-06-15,Oronkota PTI,32.3,,,,
 2024-06-15,Oruro (GPRS),12.0,1.0,63.8,19.6,
 2024-06-15,Padilla,25.6,6.0,,,
@@ -35174,6 +35341,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-16,Montero_Muyurina,,,,,5.8
 2024-06-16,Narvaez,,,,,3.9
 2024-06-16,Omereque - SDC (GPRS),24.4,16.07,74.82,52.41,
+2024-06-16,Opoqueri,17.0,-9.3,,,
 2024-06-16,Oronkota PTI,32.2,,,,
 2024-06-16,Oruro (GPRS),18.0,2.0,60.6,21.9,
 2024-06-16,Padilla,27.0,10.0,,,
@@ -35364,6 +35532,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-17,Narvaez,,,,,0.9
 2024-06-17,Okinawa I,,,,,18.3
 2024-06-17,Omereque - SDC (GPRS),25.78,14.37,74.65,44.66,
+2024-06-17,Opoqueri,17.1,-7.3,,,
 2024-06-17,Oronkota PTI,31.2,,,,
 2024-06-17,Oruro (GPRS),15.0,2.0,60.2,33.2,
 2024-06-17,Padilla,26.6,13.0,,,
@@ -35550,6 +35719,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-18,Molle Molle,22.2,11.1,,,
 2024-06-18,Okinawa I,,,,,6.2
 2024-06-18,Omereque - SDC (GPRS),29.25,14.69,74.11,31.63,
+2024-06-18,Opoqueri,19.0,-7.0,,,
 2024-06-18,Oronkota PTI,35.5,,,,
 2024-06-18,Oruro (GPRS),13.0,3.0,64.3,30.2,
 2024-06-18,Padilla,30.0,8.0,,,
@@ -35737,6 +35907,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-19,Mojo,,-6.0,,,
 2024-06-19,Molle Molle,19.4,11.1,,,
 2024-06-19,Omereque - SDC (GPRS),23.78,15.25,69.29,48.02,
+2024-06-19,Opoqueri,19.4,-9.0,,,
 2024-06-19,Oronkota PTI,30.1,,,,
 2024-06-19,Oruro (GPRS),15.0,3.0,69.2,28.5,
 2024-06-19,Padilla,29.0,5.0,,,
@@ -35917,6 +36088,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-20,Molle Molle,22.2,6.7,,,
 2024-06-20,Okinawa I,,,,,8.2
 2024-06-20,Omereque - SDC (GPRS),24.8,13.0,68.19,38.35,
+2024-06-20,Opoqueri,17.3,1.9,,,
 2024-06-20,Oronkota PTI,24.1,,,,
 2024-06-20,Oruro (GPRS),11.0,5.0,55.9,42.8,
 2024-06-20,Padilla,26.0,8.0,,,
@@ -36091,6 +36263,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-21,Mojo,,-3.0,,,
 2024-06-21,Molle Molle,27.2,9.4,,,
 2024-06-21,Omereque - SDC (GPRS),26.03,13.27,76.83,33.92,
+2024-06-21,Opoqueri,19.0,-1.0,,,
 2024-06-21,Oronkota PTI,34.2,,,,
 2024-06-21,Padilla,30.0,8.0,,,
 2024-06-21,Pailon - Pozo del Tigre (GPRS),33.24,25.02,86.1,49.04,
@@ -36239,6 +36412,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-22,Mojo,,-5.0,,,
 2024-06-22,Molle Molle,27.2,6.1,,,
 2024-06-22,Omereque - SDC (GPRS),36.66,11.7,75.47,5.86,
+2024-06-22,Opoqueri,18.0,4.3,,,
 2024-06-22,Oronkota PTI,32.5,,,,
 2024-06-22,Padilla,28.0,6.0,,,
 2024-06-22,Pailon - Pozo del Tigre (GPRS),32.26,27.31,65.96,54.88,
@@ -36382,6 +36556,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-23,Mojo,,-7.0,,,
 2024-06-23,Molle Molle,30.0,6.1,,,
 2024-06-23,Omereque - SDC (GPRS),23.73,13.66,69.42,33.57,
+2024-06-23,Opoqueri,18.0,-6.0,,,
 2024-06-23,Oronkota PTI,34.9,,,,
 2024-06-23,Padilla,32.0,7.0,,,
 2024-06-23,Pailon - Pozo del Tigre (GPRS),33.04,27.37,67.14,50.79,
@@ -36535,6 +36710,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-24,Molle Molle,23.3,7.8,,,
 2024-06-24,Narvaez,,,,,0.3
 2024-06-24,Omereque - SDC (GPRS),15.92,14.87,68.05,64.88,
+2024-06-24,Opoqueri,17.9,-6.7,,,
 2024-06-24,Oronkota PTI,34.9,,,,
 2024-06-24,Padilla,31.0,8.0,,,
 2024-06-24,Pailon - Pozo del Tigre (GPRS),29.26,25.93,73.88,64.81,
@@ -36692,6 +36868,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-25,Mojo,,-4.3,,,
 2024-06-25,Molle Molle,21.1,11.1,,,
 2024-06-25,Omereque - SDC (GPRS),17.76,13.34,70.53,56.41,
+2024-06-25,Opoqueri,18.0,-6.0,,,
 2024-06-25,Oronkota PTI,32.5,,,,
 2024-06-25,Padilla,26.0,11.0,,,
 2024-06-25,Pailon - Pozo del Tigre (GPRS),20.46,12.31,86.9,61.09,
@@ -36855,6 +37032,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-26,Molle Molle,27.2,9.4,,,
 2024-06-26,Montero_Muyurina,,,,,0.3
 2024-06-26,Omereque - SDC (GPRS),23.03,13.08,70.2,46.36,
+2024-06-26,Opoqueri,17.3,-7.0,,,
 2024-06-26,Oronkota PTI,30.8,,,,
 2024-06-26,Padilla,27.6,5.0,,,
 2024-06-26,Pailon - Pozo del Tigre (GPRS),19.09,13.61,80.2,59.52,
@@ -37008,6 +37186,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-27,Mojo,,-6.3,,,
 2024-06-27,Molle Molle,27.2,44.4,,,
 2024-06-27,Omereque - SDC (GPRS),23.82,12.89,74.04,40.16,
+2024-06-27,Opoqueri,18.0,-7.0,,,
 2024-06-27,Oronkota PTI,30.8,,,,
 2024-06-27,Padilla,30.0,-1.0,,,
 2024-06-27,Pailon - Pozo del Tigre (GPRS),28.77,16.3,81.7,45.73,
@@ -37158,6 +37337,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-28,Mojo,,-2.2,,,
 2024-06-28,Molle Molle,29.4,8.3,,,
 2024-06-28,Omereque - SDC (GPRS),18.23,11.32,67.91,47.83,
+2024-06-28,Opoqueri,18.0,-9.0,,,
 2024-06-28,Oronkota PTI,30.9,,,,
 2024-06-28,Padilla,27.0,3.0,,,
 2024-06-28,Pailon - Pozo del Tigre (GPRS),31.74,17.46,75.86,47.53,
@@ -37301,6 +37481,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-29,Mojo,,-5.0,,,
 2024-06-29,Molle Molle,23.9,4.4,,,
 2024-06-29,Omereque - SDC (GPRS),19.53,12.8,74.03,56.06,
+2024-06-29,Opoqueri,16.9,-8.0,,,
 2024-06-29,Oronkota PTI,34.9,,,,
 2024-06-29,Padilla,14.0,-1.0,,,
 2024-06-29,Pailon - Pozo del Tigre (GPRS),20.4,15.38,50.87,25.6,
@@ -37455,6 +37636,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-30,Mojo,,-6.0,,,
 2024-06-30,Molle Molle,25.0,5.5,,,
 2024-06-30,Omereque - SDC (GPRS),21.43,13.29,62.72,42.47,
+2024-06-30,Opoqueri,17.3,-8.6,,,
 2024-06-30,Orinoca - UTO (GPRS),13.1,-1.74,,,
 2024-06-30,Oronkota PTI,26.2,,,,
 2024-06-30,Padilla,19.0,5.0,,,
@@ -44888,6 +45070,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-13,Mojo,20.2,-6.0,,,
 2024-08-13,Molle Molle,25.0,2.8,,,
 2024-08-13,Omereque - SDC (GPRS),15.55,10.14,49.28,38.15,
+2024-08-13,Opoqueri,18.0,-8.3,,,
 2024-08-13,Oronkota PTI,31.7,5.1,,,
 2024-08-13,Oruro (GPRS),13.0,0.0,79.7,40.6,
 2024-08-13,Padilla,23.0,-3.0,,,
@@ -45043,6 +45226,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-14,Mojo,19.3,-5.0,,,
 2024-08-14,Molle Molle,25.0,7.8,,,
 2024-08-14,Omereque - SDC (GPRS),32.07,10.65,57.74,17.1,
+2024-08-14,Opoqueri,20.1,-10.0,,,
 2024-08-14,Oronkota PTI,33.8,8.7,,,
 2024-08-14,Oruro (GPRS),18.0,1.0,74.1,25.2,
 2024-08-14,Padilla,31.0,8.0,,,
@@ -45199,6 +45383,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-15,Mojo,21.3,-5.1,,,
 2024-08-15,Molle Molle,21.7,11.1,,,
 2024-08-15,Omereque - SDC (GPRS),31.56,10.72,60.15,16.12,
+2024-08-15,Opoqueri,15.9,-6.7,,,
 2024-08-15,Orinoca - UTO (GPRS),17.97,-2.06,,,
 2024-08-15,Oronkota PTI,35.9,10.4,,,
 2024-08-15,Oruro (GPRS),15.0,1.0,63.8,26.6,
@@ -45360,6 +45545,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-16,Mojo,23.2,-1.0,,,
 2024-08-16,Molle Molle,23.9,10.5,,,
 2024-08-16,Omereque - SDC (GPRS),32.38,11.93,59.77,13.37,
+2024-08-16,Opoqueri,18.0,-6.0,,,
 2024-08-16,Orinoca - UTO (GPRS),10.08,-1.45,40.18,20.63,
 2024-08-16,Oronkota PTI,34.5,12.9,,,
 2024-08-16,Oruro (GPRS),20.0,0.0,68.6,25.5,
@@ -45523,6 +45709,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-17,Mojo,22.2,-0.2,,,
 2024-08-17,Molle Molle,22.2,10.5,,,
 2024-08-17,Omereque - SDC (GPRS),27.27,13.7,54.13,26.91,
+2024-08-17,Opoqueri,18.2,-5.7,,,
 2024-08-17,Orinoca - UTO (GPRS),7.95,5.12,35.67,33.82,
 2024-08-17,Oronkota PTI,32.2,13.2,,,
 2024-08-17,Oruro (GPRS),15.0,6.0,48.4,31.4,
@@ -45682,6 +45869,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-18,Mojo,23.0,-1.0,,,
 2024-08-18,Molle Molle,21.1,11.1,,,
 2024-08-18,Omereque - SDC (GPRS),28.91,13.61,50.92,26.87,
+2024-08-18,Opoqueri,25.0,-7.0,,,
 2024-08-18,Orinoca - UTO (GPRS),14.27,3.18,71.07,23.77,
 2024-08-18,Oronkota PTI,35.4,12.8,,,
 2024-08-18,Oruro (GPRS),19.0,0.0,59.7,32.0,
@@ -45839,6 +46027,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-19,Mojo,22.3,-2.0,,,
 2024-08-19,Molle Molle,21.1,12.2,,,
 2024-08-19,Omereque - SDC (GPRS),28.64,15.19,57.64,30.9,
+2024-08-19,Opoqueri,20.0,-8.0,,,
 2024-08-19,Oronkota PTI,34.0,14.9,,,
 2024-08-19,Oruro (GPRS),15.0,1.0,55.1,33.2,
 2024-08-19,Padilla,29.0,4.0,,,
@@ -45999,6 +46188,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-20,Mojo,20.0,0.0,,,
 2024-08-20,Molle Molle,19.4,11.7,,,
 2024-08-20,Omereque - SDC (GPRS),28.04,14.9,63.7,34.52,
+2024-08-20,Opoqueri,17.6,-1.5,,,
 2024-08-20,Orinoca - UTO (GPRS),17.52,17.52,,,
 2024-08-20,Oronkota PTI,38.2,14.8,,,
 2024-08-20,Oruro (GPRS),15.0,2.0,59.4,30.8,
@@ -46162,6 +46352,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-21,Molle Molle,21.7,12.2,,,
 2024-08-21,Montero_Muyurina,,,,,2.5
 2024-08-21,Omereque - SDC (GPRS),31.37,15.08,56.25,23.8,
+2024-08-21,Opoqueri,18.0,-2.4,,,
 2024-08-21,Orinoca - UTO (GPRS),5.9,-3.19,32.81,19.79,
 2024-08-21,Oronkota PTI,28.9,17.2,,,
 2024-08-21,Oruro (GPRS),16.0,0.0,68.6,29.5,
@@ -46331,6 +46522,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-22,Mojo,18.1,3.2,,,
 2024-08-22,Molle Molle,20.5,12.2,,,
 2024-08-22,Omereque - SDC (GPRS),28.68,16.44,65.56,37.0,
+2024-08-22,Opoqueri,19.1,-4.5,,,
 2024-08-22,Orinoca - UTO (GPRS),9.3,3.66,31.3,25.72,
 2024-08-22,Oronkota PTI,30.5,15.2,,,
 2024-08-22,Oruro (GPRS),17.0,0.0,68.6,31.4,
@@ -46502,6 +46694,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-23,Molle Molle,21.7,12.8,,,
 2024-08-23,Narvaez,,,,,1.4
 2024-08-23,Omereque - SDC (GPRS),28.41,17.06,66.5,35.95,
+2024-08-23,Opoqueri,18.1,-5.0,,,
 2024-08-23,Oronkota PTI,32.1,11.2,,,
 2024-08-23,Oruro (GPRS),15.0,3.0,51.3,28.5,
 2024-08-23,Padilla,24.0,6.0,,,
@@ -46674,6 +46867,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-24,Molle Molle,21.7,13.3,,,
 2024-08-24,Montero_Muyurina,,,,,2.7
 2024-08-24,Omereque - SDC (GPRS),23.56,16.02,68.41,45.58,
+2024-08-24,Opoqueri,19.0,-5.6,,,
 2024-08-24,Oronkota PTI,29.9,13.7,,,
 2024-08-24,Oruro (GPRS),15.0,0.0,63.6,27.1,
 2024-08-24,Padilla,16.0,2.0,,,1.5
@@ -46844,6 +47038,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-25,Nuevo Mundo,,,,,7.3
 2024-08-25,Okinawa I,,,,,6.2
 2024-08-25,Omereque - SDC (GPRS),13.93,9.0,73.42,56.13,
+2024-08-25,Opoqueri,18.3,-6.0,,,
 2024-08-25,Oronkota PTI,23.5,7.2,,,
 2024-08-25,Oruro (GPRS),22.0,1.0,59.2,19.6,
 2024-08-25,Padilla,7.0,1.0,,,
@@ -47003,6 +47198,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-26,Mojo,22.0,-6.0,,,
 2024-08-26,Molle Molle,24.4,1.1,,,
 2024-08-26,Omereque - SDC (GPRS),19.44,11.18,57.41,40.52,
+2024-08-26,Opoqueri,18.0,-13.0,,,
 2024-08-26,Oronkota PTI,29.4,4.9,,,
 2024-08-26,Oruro (GPRS),16.0,1.0,63.8,36.0,
 2024-08-26,Padilla,22.0,-2.0,,,
@@ -47159,6 +47355,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-27,Mojo,22.3,-3.3,,,
 2024-08-27,Molle Molle,22.8,7.8,,,
 2024-08-27,Omereque - SDC (GPRS),24.45,12.63,53.32,33.45,
+2024-08-27,Opoqueri,17.7,-7.1,,,
 2024-08-27,Oronkota PTI,26.0,9.9,,,
 2024-08-27,Oruro (GPRS),18.0,0.0,63.8,22.5,
 2024-08-27,Padilla,18.0,-1.0,,,
@@ -47316,6 +47513,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-28,Mojo,23.2,-4.0,,,
 2024-08-28,Molle Molle,22.8,7.8,,,
 2024-08-28,Omereque - SDC (GPRS),24.11,12.5,58.25,33.0,
+2024-08-28,Opoqueri,19.0,-5.0,,,
 2024-08-28,Orinoca - UTO (GPRS),16.07,9.13,,,
 2024-08-28,Oronkota PTI,34.5,9.2,,,
 2024-08-28,Oruro (GPRS),17.0,0.0,63.6,27.4,
@@ -47473,6 +47671,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-29,Mojo,24.5,-5.0,,,
 2024-08-29,Molle Molle,18.9,10.5,,,
 2024-08-29,Omereque - SDC (GPRS),29.34,12.83,56.16,25.58,
+2024-08-29,Opoqueri,21.0,-5.6,,,
 2024-08-29,Orinoca - UTO (GPRS),6.28,1.87,68.38,36.88,
 2024-08-29,Oronkota PTI,34.2,12.0,,,
 2024-08-29,Oruro (GPRS),17.0,0.0,63.6,31.4,
@@ -47635,6 +47834,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-30,Mojo,22.0,6.3,,,
 2024-08-30,Molle Molle,19.4,10.5,,,
 2024-08-30,Omereque - SDC (GPRS),24.81,12.68,57.49,27.32,
+2024-08-30,Opoqueri,20.0,-4.0,,,
 2024-08-30,Orinoca - UTO (GPRS),14.9,3.97,66.44,15.33,
 2024-08-30,Oronkota PTI,32.1,12.5,,,
 2024-08-30,Oruro (GPRS),17.0,0.0,63.6,31.4,
@@ -47794,6 +47994,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-31,Mojo,20.0,2.2,,,
 2024-08-31,Molle Molle,20.0,11.7,,,
 2024-08-31,Omereque - SDC (GPRS),25.26,13.41,48.44,24.41,
+2024-08-31,Opoqueri,25.0,-5.5,,,
 2024-08-31,Oronkota PTI,28.8,14.2,,,
 2024-08-31,Oruro (GPRS),15.0,6.0,65.0,35.7,
 2024-08-31,Padilla,27.0,3.0,,,
@@ -47942,6 +48143,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-01,Molle Molle,21.1,10.0,,,
 2024-09-01,Montero_Muyurina,,,,,0.5
 2024-09-01,Omereque - SDC (GPRS),21.59,12.85,59.94,32.72,
+2024-09-01,Opoqueri,18.0,-2.6,,,
 2024-09-01,Orinoca - UTO (GPRS),14.74,9.3,,,
 2024-09-01,Oronkota PTI,27.1,11.6,,,
 2024-09-01,Oruro (GPRS),17.0,0.0,74.0,23.4,
@@ -48093,6 +48295,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-02,Mojo,22.0,-1.0,,,
 2024-09-02,Molle Molle,21.7,7.2,,,
 2024-09-02,Omereque - SDC (GPRS),24.78,14.79,63.03,37.97,
+2024-09-02,Opoqueri,16.4,-1.7,,,2.8
 2024-09-02,Orinoca - UTO (GPRS),6.68,0.72,71.16,35.81,1.6
 2024-09-02,Oronkota PTI,32.9,12.2,,,
 2024-09-02,Oruro (GPRS),13.0,1.0,86.2,45.2,
@@ -48256,6 +48459,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-03,Mojo,25.0,-1.0,,,
 2024-09-03,Molle Molle,28.3,11.7,,,
 2024-09-03,Omereque - SDC (GPRS),28.99,15.26,57.37,15.49,
+2024-09-03,Opoqueri,17.3,-3.0,,,
 2024-09-03,Orinoca - UTO (GPRS),17.83,4.5,25.34,11.75,6.0
 2024-09-03,Oronkota PTI,35.8,13.5,,,
 2024-09-03,Oruro (GPRS),16.0,1.0,64.3,31.7,
@@ -48417,6 +48621,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-04,Mojo,23.2,-1.3,,,
 2024-09-04,Molle Molle,25.5,11.7,,,
 2024-09-04,Omereque - SDC (GPRS),25.38,16.5,56.94,37.04,
+2024-09-04,Opoqueri,18.0,-5.0,,,
 2024-09-04,Oronkota PTI,34.2,15.5,,,
 2024-09-04,Oruro (GPRS),17.0,1.0,64.3,36.2,
 2024-09-04,Padilla,26.0,7.0,,,
@@ -48570,6 +48775,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-05,Mojo,22.1,-2.0,,,
 2024-09-05,Molle Molle,22.2,10.0,,,
 2024-09-05,Omereque - SDC (GPRS),21.9,18.42,47.36,37.12,
+2024-09-05,Opoqueri,19.4,-7.0,,,
 2024-09-05,Oronkota PTI,27.2,15.5,,,
 2024-09-05,Oruro (GPRS),18.0,1.0,74.8,30.0,
 2024-09-05,Padilla,21.0,9.0,,,
@@ -48723,6 +48929,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-06,Mojo,24.0,0.0,,,
 2024-09-06,Molle Molle,23.3,11.1,,,
 2024-09-06,Omereque - SDC (GPRS),26.81,14.23,70.8,26.97,
+2024-09-06,Opoqueri,19.0,-3.0,,,
 2024-09-06,Oronkota PTI,36.9,12.1,,,
 2024-09-06,Oruro (GPRS),17.0,3.0,69.2,39.2,
 2024-09-06,Padilla,32.0,2.0,,,
@@ -48873,6 +49080,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-07,Mojo,25.0,1.0,,,
 2024-09-07,Molle Molle,22.8,11.1,,,
 2024-09-07,Omereque - SDC (GPRS),29.94,14.88,53.66,25.78,
+2024-09-07,Opoqueri,19.0,-4.2,,,
 2024-09-07,Oronkota PTI,36.5,16.2,,,
 2024-09-07,Oruro (GPRS),18.0,10.0,49.5,34.0,
 2024-09-07,Padilla,31.0,4.0,,,
@@ -49020,6 +49228,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-08,Mojo,24.2,2.0,,,
 2024-09-08,Molle Molle,22.2,12.8,,,
 2024-09-08,Omereque - SDC (GPRS),28.58,14.76,58.13,30.71,
+2024-09-08,Opoqueri,16.0,-1.0,,,1.5
 2024-09-08,Oronkota PTI,32.3,16.5,,,
 2024-09-08,Oruro (GPRS),19.0,1.0,63.8,34.0,
 2024-09-08,Padilla,27.0,8.0,,,
@@ -49164,6 +49373,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-09,Mojo,24.0,1.0,,,
 2024-09-09,Molle Molle,25.5,11.1,,,
 2024-09-09,Omereque - SDC (GPRS),27.7,14.07,50.46,24.43,
+2024-09-09,Opoqueri,16.9,-1.5,,,0.3
 2024-09-09,Oronkota PTI,33.5,14.3,,,
 2024-09-09,Oruro (GPRS),18.0,1.0,63.8,31.7,
 2024-09-09,Padilla,32.0,7.0,,,
@@ -49315,6 +49525,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-10,Mojo,24.0,-0.2,,,
 2024-09-10,Molle Molle,26.1,11.7,,,
 2024-09-10,Omereque - SDC (GPRS),29.49,15.89,39.57,20.78,
+2024-09-10,Opoqueri,18.0,1.1,,,
 2024-09-10,Oronkota PTI,34.2,14.1,,,
 2024-09-10,Oruro (GPRS),18.0,2.0,64.0,31.7,
 2024-09-10,Padilla,33.0,6.0,,,
@@ -49467,6 +49678,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-11,Mojo,24.3,1.0,,,
 2024-09-11,Molle Molle,26.7,12.8,,,
 2024-09-11,Omereque - SDC (GPRS),31.7,17.26,46.75,19.21,
+2024-09-11,Opoqueri,18.0,0.0,,,
 2024-09-11,Oronkota PTI,36.8,16.2,,,
 2024-09-11,Oruro (GPRS),19.0,1.0,68.8,32.0,
 2024-09-11,Padilla,32.0,9.0,,,
@@ -49623,6 +49835,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-12,Molle Molle,21.7,11.7,,,
 2024-09-12,Montero_Muyurina,,,,,0.5
 2024-09-12,Omereque - SDC (GPRS),28.36,17.22,51.77,34.86,
+2024-09-12,Opoqueri,16.9,-2.6,,,
 2024-09-12,Oronkota PTI,31.5,19.2,,,
 2024-09-12,Oruro (GPRS),19.0,1.0,63.8,29.8,
 2024-09-12,Padilla,29.0,8.0,,,
@@ -49788,6 +50001,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-13,Mojo,22.1,0.2,,,
 2024-09-13,Molle Molle,22.2,14.4,,,
 2024-09-13,Omereque - SDC (GPRS),29.89,18.48,56.2,34.17,
+2024-09-13,Opoqueri,16.0,-3.3,,,
 2024-09-13,Oronkota PTI,35.6,14.6,,,
 2024-09-13,Oruro (GPRS),18.0,2.0,64.0,34.0,
 2024-09-13,Padilla,31.0,10.0,,,
@@ -49959,6 +50173,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-14,Molle Molle,20.0,12.2,,,
 2024-09-14,Montero_Muyurina,,,,,27.9
 2024-09-14,Omereque - SDC (GPRS),21.41,18.87,62.36,52.51,
+2024-09-14,Opoqueri,19.5,-6.0,,,
 2024-09-14,Oronkota PTI,26.6,15.6,,,
 2024-09-14,Oruro (GPRS),18.0,9.0,39.4,29.5,
 2024-09-14,Padilla,13.0,4.0,,,3.5
@@ -50143,6 +50358,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-15,Montero_Muyurina,,,,,9.7
 2024-09-15,Nuevo Mundo,,,,,10.2
 2024-09-15,Omereque - SDC (GPRS),16.81,13.08,83.9,66.78,0.1
+2024-09-15,Opoqueri,18.0,-5.0,,,
 2024-09-15,Oronkota PTI,28.0,12.4,,,
 2024-09-15,Oruro (GPRS),22.0,0.0,85.8,26.3,
 2024-09-15,Padilla,23.0,7.0,,,
@@ -50322,6 +50538,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-16,Mojo,22.0,-1.0,,,
 2024-09-16,Molle Molle,22.8,10.5,,,
 2024-09-16,Omereque - SDC (GPRS),22.65,17.01,58.28,38.65,0.1
+2024-09-16,Opoqueri,18.0,1.0,,,
 2024-09-16,Oronkota PTI,35.3,18.8,,,
 2024-09-16,Oruro (GPRS),18.0,1.0,75.0,45.0,
 2024-09-16,Padilla,22.0,5.0,,,
@@ -50492,6 +50709,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-17,Mojo,23.3,-3.0,,,
 2024-09-17,Molle Molle,25.0,7.2,,,
 2024-09-17,Omereque - SDC (GPRS),24.57,16.04,58.38,39.18,
+2024-09-17,Opoqueri,16.0,1.1,,,
 2024-09-17,Oronkota PTI,35.6,10.2,,,
 2024-09-17,Oruro (GPRS),20.0,2.0,80.0,39.8,
 2024-09-17,Padilla,30.0,4.0,,,
@@ -50655,6 +50873,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-18,Mojo,23.2,-2.3,,,
 2024-09-18,Molle Molle,23.3,13.9,,,
 2024-09-18,Omereque - SDC (GPRS),29.86,18.32,58.28,30.29,
+2024-09-18,Opoqueri,18.0,5.0,,,
 2024-09-18,Oronkota PTI,35.2,17.0,,,
 2024-09-18,Oruro (GPRS),17.0,1.0,74.1,36.2,
 2024-09-18,Padilla,31.0,6.0,,,
@@ -50819,6 +51038,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-19,Mojo,24.0,-1.0,,,
 2024-09-19,Molle Molle,23.9,13.9,,,
 2024-09-19,Omereque - SDC (GPRS),32.55,19.42,49.49,23.63,
+2024-09-19,Opoqueri,19.0,7.0,,,
 2024-09-19,Oronkota PTI,36.2,17.1,,,6.1
 2024-09-19,Oruro (GPRS),21.0,1.0,79.8,29.5,
 2024-09-19,Padilla,32.0,10.0,,,
@@ -50982,6 +51202,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-20,Mojo,23.0,-1.3,,,
 2024-09-20,Molle Molle,26.7,9.4,,,
 2024-09-20,Omereque - SDC (GPRS),28.93,19.13,60.24,36.44,
+2024-09-20,Opoqueri,18.0,6.1,,,
 2024-09-20,Oronkota PTI,34.9,16.8,,,
 2024-09-20,Oruro (GPRS),22.0,1.0,74.1,22.7,
 2024-09-20,Padilla,30.0,12.0,,,
@@ -51134,6 +51355,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-21,Mojo,25.0,2.0,,,
 2024-09-21,Molle Molle,24.4,11.7,,,
 2024-09-21,Omereque - SDC (GPRS),30.36,19.57,58.82,34.38,
+2024-09-21,Opoqueri,16.0,8.0,,,
 2024-09-21,Oronkota PTI,35.0,18.3,,,
 2024-09-21,Oruro (GPRS),22.0,5.0,69.6,32.8,
 2024-09-21,Padilla,32.0,13.0,,,
@@ -51281,6 +51503,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-22,Mojo,26.3,2.2,,,
 2024-09-22,Molle Molle,25.0,13.3,,,
 2024-09-22,Omereque - SDC (GPRS),33.05,19.64,58.68,26.43,
+2024-09-22,Opoqueri,18.0,8.0,,,
 2024-09-22,Oronkota PTI,37.0,18.0,,,
 2024-09-22,Oruro (GPRS),21.0,3.0,69.6,37.1,
 2024-09-22,Padilla,31.0,12.0,,,
@@ -51432,6 +51655,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-23,Mojo,21.2,5.0,,,
 2024-09-23,Molle Molle,23.3,15.0,,,
 2024-09-23,Omereque - SDC (GPRS),32.01,20.49,55.1,31.58,
+2024-09-23,Opoqueri,17.0,1.8,,,
 2024-09-23,Oronkota PTI,36.5,16.2,,,
 2024-09-23,Oruro (GPRS),23.0,3.0,69.2,28.8,
 2024-09-23,Padilla,33.0,9.0,,,
@@ -51587,6 +51811,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-24,Mojo,25.2,4.1,,,
 2024-09-24,Molle Molle,25.0,13.9,,,
 2024-09-24,Omereque - SDC (GPRS),27.06,18.96,47.92,38.7,
+2024-09-24,Opoqueri,18.0,1.2,,,
 2024-09-24,Oronkota PTI,25.5,16.5,,,
 2024-09-24,Oruro (GPRS),23.0,2.0,74.3,28.8,
 2024-09-24,Padilla,32.0,11.0,,,
@@ -51740,6 +51965,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-25,Mojo,25.3,3.0,,,
 2024-09-25,Molle Molle,23.3,13.3,,,
 2024-09-25,Omereque - SDC (GPRS),30.96,19.31,51.99,31.47,
+2024-09-25,Opoqueri,16.4,2.0,,,
 2024-09-25,Oronkota PTI,34.5,17.2,,,
 2024-09-25,Oruro (GPRS),22.0,3.0,74.5,30.3,
 2024-09-25,Padilla,31.0,10.0,,,
@@ -51895,6 +52121,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-26,Mojo,20.0,4.0,,,
 2024-09-26,Molle Molle,22.2,13.9,,,
 2024-09-26,Omereque - SDC (GPRS),26.4,21.34,48.57,41.86,
+2024-09-26,Opoqueri,18.0,5.1,,,
 2024-09-26,Oronkota PTI,28.9,14.3,,,
 2024-09-26,Oruro (GPRS),21.0,3.0,74.5,32.5,
 2024-09-26,Padilla,17.0,8.0,,,2.5
@@ -52066,6 +52293,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-27,Mojo,21.3,4.2,,,
 2024-09-27,Molle Molle,22.2,11.1,,,
 2024-09-27,Omereque - SDC (GPRS),21.72,17.13,56.32,45.97,
+2024-09-27,Opoqueri,16.3,-1.9,,,
 2024-09-27,Oronkota PTI,30.5,12.4,,,
 2024-09-27,Oruro (GPRS),23.0,3.0,74.5,30.9,
 2024-09-27,Padilla,26.0,7.0,,,
@@ -52103,6 +52331,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-27,San Jacinto Sud,29.0,6.0,,,4.3
 2024-09-27,San Jacinto_M (GPRS),18.82,9.02,90.4,48.44,0.2
 2024-09-27,San Jose de Chiquitos,29.0,21.0,77.2,47.9,
+2024-09-27,San Julian,,,,,8.0
 2024-09-27,San Julian - Comunidad Los Angeles (GPRS),28.69,22.14,62.06,44.36,
 2024-09-27,San Julian - Nucleo 32 (GPRS),27.92,22.51,,,
 2024-09-27,San Lucas,28.0,8.0,,,
@@ -52234,6 +52463,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-28,Mojo,24.1,1.3,,,
 2024-09-28,Molle Molle,23.3,10.0,,,
 2024-09-28,Omereque - SDC (GPRS),25.5,17.54,65.84,42.13,
+2024-09-28,Opoqueri,16.0,-2.0,,,
 2024-09-28,Oronkota PTI,33.8,13.9,,,
 2024-09-28,Oruro (GPRS),22.0,3.0,80.1,32.8,
 2024-09-28,Padilla,29.0,4.0,,,
@@ -52393,6 +52623,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-29,Mojo,26.0,2.0,,,
 2024-09-29,Molle Molle,22.2,12.2,,,
 2024-09-29,Omereque - SDC (GPRS),30.23,19.72,52.56,33.79,
+2024-09-29,Opoqueri,17.3,-1.5,,,
 2024-09-29,Oronkota PTI,34.1,15.3,,,
 2024-09-29,Oruro (GPRS),22.0,3.0,74.5,32.0,
 2024-09-29,Padilla,30.0,8.0,,,
@@ -52549,6 +52780,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-30,Mojo,26.3,4.2,,,
 2024-09-30,Molle Molle,23.3,13.3,,,
 2024-09-30,Omereque - SDC (GPRS),32.79,19.25,52.1,27.14,
+2024-09-30,Opoqueri,18.0,1.9,,,
 2024-09-30,Oronkota PTI,36.5,18.2,,,
 2024-09-30,Oruro (GPRS),22.0,3.0,80.1,37.7,
 2024-09-30,Padilla,31.0,9.0,,,
@@ -52693,6 +52925,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-01,Mojo,26.4,0.1,,,
 2024-10-01,Molle Molle,27.2,14.4,,,
 2024-10-01,Omereque - SDC (GPRS),33.36,20.71,61.22,27.26,
+2024-10-01,Opoqueri,21.0,3.1,,,
 2024-10-01,Oronkota PTI,37.2,20.5,,,
 2024-10-01,Oruro (GPRS),21.0,2.0,74.3,34.9,
 2024-10-01,Pailon - Pozo del Tigre (GPRS),33.24,29.93,62.36,54.77,
@@ -52709,6 +52942,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-01,Puna,23.1,7.9,,,
 2024-10-01,Putucuni Calientes (GPRS),13.07,7.72,37.69,26.64,
 2024-10-01,Ravelo,26.0,6.0,,,
+2024-10-01,Redencion Pampa,30.0,11.0,,,
 2024-10-01,Reyes,38.0,27.0,78.1,39.5,
 2024-10-01,Riberalta,32.0,26.0,82.8,62.2,
 2024-10-01,Rurrenabaque,37.0,23.0,93.3,39.0,
@@ -52763,6 +52997,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-01,Yacuiba,38.0,31.0,48.7,29.0,
 2024-10-01,Yesera Norte,33.0,13.0,,,
 2024-10-01,Yocalla,27.0,8.0,,,
+2024-10-01,Yotala,33.0,5.0,,,
 2024-10-01,Zudañez,30.0,12.0,,,
 2024-10-01,Ñoquejza,16.1,8.2,,,
 2024-10-02,4 Esquinas (GPRS),18.29,6.36,,,
@@ -52825,6 +53060,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-02,Mojo,27.1,5.0,,,
 2024-10-02,Molle Molle,28.3,12.8,,,
 2024-10-02,Omereque - SDC (GPRS),29.89,23.25,61.28,41.54,
+2024-10-02,Opoqueri,21.2,2.0,,,
 2024-10-02,Oronkota PTI,34.1,21.5,,,
 2024-10-02,Oruro (GPRS),24.0,2.0,69.0,37.7,
 2024-10-02,Pailon - Pozo del Tigre (GPRS),36.25,31.29,55.21,43.61,
@@ -52843,6 +53079,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-02,Puna,25.5,6.0,,,
 2024-10-02,Putucuni Calientes (GPRS),14.18,9.25,90.3,32.31,1.4
 2024-10-02,Ravelo,24.0,11.0,,,
+2024-10-02,Redencion Pampa,27.0,13.0,,,
 2024-10-02,Reyes,39.0,27.0,78.1,37.4,
 2024-10-02,Riberalta,36.0,28.0,73.6,44.0,
 2024-10-02,Rurrenabaque,38.0,25.0,82.7,39.5,
@@ -52898,6 +53135,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-02,Yacuiba,30.0,23.0,52.9,36.8,
 2024-10-02,Yesera Norte,26.0,13.0,,,
 2024-10-02,Yocalla,28.1,7.0,,,
+2024-10-02,Yotala,28.0,14.0,,,
 2024-10-02,Zudañez,24.0,14.0,,,
 2024-10-02,Ñoquejza,17.1,6.1,,,
 2024-10-03, Paniagua_M (GPRS),,,,,8.5
@@ -52972,6 +53210,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-03,Mojo,25.0,6.0,,,
 2024-10-03,Molle Molle,25.5,11.7,,,
 2024-10-03,Omereque - SDC (GPRS),26.49,22.07,45.77,35.72,
+2024-10-03,Opoqueri,22.0,-1.3,,,
 2024-10-03,Oronkota PTI,33.1,16.2,,,
 2024-10-03,Oruro (GPRS),19.0,4.0,93.1,48.5,
 2024-10-03,Pailon - Pozo del Tigre (GPRS),30.78,24.65,48.78,28.63,
@@ -52991,6 +53230,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-03,Puna,22.9,7.9,,,
 2024-10-03,Putucuni Calientes (GPRS),8.18,4.71,91.9,63.94,1.9
 2024-10-03,Ravelo,23.0,10.0,,,
+2024-10-03,Redencion Pampa,23.0,9.0,,,
 2024-10-03,Reyes,31.0,25.0,82.7,48.4,
 2024-10-03,Riberalta,35.0,28.0,73.6,49.5,
 2024-10-03,Rurrenabaque,32.0,24.0,93.3,45.8,
@@ -53048,6 +53288,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-03,Yacuiba,30.0,21.0,49.0,34.4,
 2024-10-03,Yesera Norte,26.0,11.0,,,
 2024-10-03,Yocalla,29.4,5.1,,,
+2024-10-03,Yotala,29.0,16.0,,,
 2024-10-03,Zudañez,27.0,13.0,,,
 2024-10-03,Ñoquejza,18.4,7.2,,,
 2024-10-04, Paniagua_M (GPRS),,,,,13.4
@@ -53123,6 +53364,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-04,Molle Molle,27.2,10.5,,,
 2024-10-04,Muyuquiri,,,,,6.0
 2024-10-04,Omereque - SDC (GPRS),29.23,20.3,54.06,32.94,
+2024-10-04,Opoqueri,20.0,2.0,,,3.4
 2024-10-04,Oronkota PTI,36.5,18.5,,,
 2024-10-04,Oruro (GPRS),23.0,3.0,80.1,35.5,
 2024-10-04,Pailon - Pozo del Tigre (GPRS),32.99,24.73,46.12,23.75,
@@ -53141,6 +53383,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-04,Puna,25.0,4.9,,,2.4
 2024-10-04,Putucuni Calientes (GPRS),10.51,5.9,78.04,53.06,
 2024-10-04,Ravelo,26.0,3.0,,,
+2024-10-04,Redencion Pampa,27.0,6.0,,,
 2024-10-04,Reyes,36.0,24.0,87.8,30.3,
 2024-10-04,Riberalta,28.0,25.0,82.7,69.3,
 2024-10-04,Riberalta_H (GPRS),,,,,1.0
@@ -53197,6 +53440,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-04,Yacuiba,34.0,14.0,71.2,29.2,
 2024-10-04,Yesera Norte,27.5,11.0,,,
 2024-10-04,Yocalla,30.1,6.0,,,
+2024-10-04,Yotala,29.0,9.0,,,
 2024-10-04,Zudañez,26.0,10.0,,,
 2024-10-04,Ñoquejza,19.2,7.1,,,
 2024-10-05,4 Esquinas (GPRS),16.47,-3.04,,,
@@ -53257,6 +53501,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-05,Mojo,26.2,4.1,,,
 2024-10-05,Molle Molle,27.2,13.3,,,
 2024-10-05,Omereque - SDC (GPRS),32.46,19.38,54.78,21.32,
+2024-10-05,Opoqueri,19.0,2.9,,,
 2024-10-05,Oronkota PTI,36.9,17.8,,,
 2024-10-05,Oruro (GPRS),23.0,4.0,74.7,33.1,
 2024-10-05,Pailon - Pozo del Tigre (GPRS),38.14,26.51,46.43,29.12,
@@ -53271,6 +53516,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-05,Puna,26.5,7.1,,,
 2024-10-05,Putucuni Calientes (GPRS),10.43,3.03,80.8,41.48,
 2024-10-05,Ravelo,25.0,3.0,,,
+2024-10-05,Redencion Pampa,30.0,9.0,,,
 2024-10-05,Riberalta,30.0,25.0,82.7,61.7,
 2024-10-05,Rurrenabaque,37.0,21.0,87.5,34.7,
 2024-10-05,Sacaca,26.2,3.5,,,
@@ -53323,6 +53569,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-05,Vivero Viloma - SDC (GPRS),26.47,18.65,29.32,0.64,
 2024-10-05,Yesera Norte,33.0,11.0,,,
 2024-10-05,Yocalla,28.2,5.0,,,
+2024-10-05,Yotala,30.0,9.0,,,
 2024-10-05,Zudañez,25.0,11.0,,,
 2024-10-05,Ñoquejza,18.4,6.2,,,
 2024-10-06,4 Esquinas (GPRS),15.14,1.19,,,
@@ -53384,6 +53631,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-06,Mojo,25.2,3.3,,,
 2024-10-06,Molle Molle,25.0,13.3,,,
 2024-10-06,Omereque - SDC (GPRS),33.92,20.16,41.87,19.17,
+2024-10-06,Opoqueri,19.0,-1.6,,,
 2024-10-06,Oronkota PTI,34.5,19.2,,,
 2024-10-06,Oruro (GPRS),20.0,5.0,74.8,39.8,
 2024-10-06,Pailon - Pozo del Tigre (GPRS),37.49,28.56,51.87,35.49,
@@ -53398,6 +53646,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-06,Puna,24.0,6.5,,,
 2024-10-06,Putucuni Calientes (GPRS),10.23,4.1,69.98,48.41,
 2024-10-06,Ravelo,24.0,4.0,,,
+2024-10-06,Redencion Pampa,28.0,9.0,,,
 2024-10-06,Riberalta,34.0,27.0,82.9,52.3,
 2024-10-06,Rurrenabaque,39.0,23.0,93.2,35.2,
 2024-10-06,Sacaca,20.6,4.9,,,
@@ -53450,6 +53699,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-06,Vivero Viloma - SDC (GPRS),26.75,19.76,35.97,17.99,
 2024-10-06,Yesera Norte,35.0,17.5,,,
 2024-10-06,Yocalla,27.0,4.1,,,
+2024-10-06,Yotala,29.0,8.0,,,
 2024-10-06,Zudañez,26.0,11.0,,,
 2024-10-06,Ñoquejza,20.0,8.1,,,
 2024-10-07,4 Esquinas (GPRS),15.24,-1.81,,,
@@ -53513,6 +53763,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-07,Mojo,25.0,9.0,,,
 2024-10-07,Molle Molle,24.4,15.0,,,
 2024-10-07,Omereque - SDC (GPRS),27.92,19.69,35.61,10.63,
+2024-10-07,Opoqueri,19.6,2.0,,,
 2024-10-07,Oronkota PTI,35.2,21.9,,,
 2024-10-07,Oruro (GPRS),20.0,2.0,86.0,34.6,
 2024-10-07,Pailon - Pozo del Tigre (GPRS),36.06,31.1,52.03,40.57,
@@ -53531,6 +53782,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-07,Puna,24.0,6.0,,,
 2024-10-07,Putucuni Calientes (GPRS),10.37,3.59,59.98,42.67,
 2024-10-07,Ravelo,24.0,3.0,,,
+2024-10-07,Redencion Pampa,29.0,10.0,,,
 2024-10-07,Reyes,39.0,26.0,87.9,39.5,
 2024-10-07,Riberalta,35.0,27.0,78.1,46.8,
 2024-10-07,Rurrenabaque,38.0,23.0,93.2,39.5,
@@ -53587,6 +53839,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-07,Yacuiba,42.0,23.0,77.5,31.9,
 2024-10-07,Yesera Norte,35.0,19.0,,,
 2024-10-07,Yocalla,29.3,6.0,,,
+2024-10-07,Yotala,30.0,8.0,,,
 2024-10-07,Zudañez,27.0,11.0,,,
 2024-10-07,Ñoquejza,19.2,6.2,,,
 2024-10-08,4 Esquinas (GPRS),15.43,3.73,,,
@@ -53618,6 +53871,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-08,Circuata,,,,,2.7
 2024-10-08,Ckochas,23.1,9.1,,,
 2024-10-08,Cobija,37.0,24.0,87.8,44.1,
+2024-10-08,Coimata,,,,,2.5
 2024-10-08,Colcha K,23.2,8.4,,,
 2024-10-08,Collana,16.0,1.0,,,3.1
 2024-10-08,Colomi,15.0,5.0,,,
@@ -53659,6 +53913,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-08,Mojo,24.3,8.0,,,
 2024-10-08,Molle Molle,23.3,14.4,,,
 2024-10-08,Omereque - SDC (GPRS),31.76,21.15,38.69,23.19,
+2024-10-08,Opoqueri,17.4,1.9,,,
 2024-10-08,Oronkota PTI,31.5,22.3,,,
 2024-10-08,Oruro (GPRS),20.0,3.0,99.3,39.5,
 2024-10-08,Pailon - Pozo del Tigre (GPRS),37.29,31.95,59.97,42.98,
@@ -53678,6 +53933,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-08,Puna,21.0,5.1,,,
 2024-10-08,Putucuni Calientes (GPRS),9.24,5.83,60.59,50.48,
 2024-10-08,Ravelo,23.0,6.0,,,
+2024-10-08,Redencion Pampa,27.0,10.0,,,
 2024-10-08,Reyes,39.0,26.0,82.8,39.8,
 2024-10-08,Riberalta,34.0,28.0,73.6,49.5,
 2024-10-08,Rurrenabaque,38.0,24.0,93.3,39.5,
@@ -53734,6 +53990,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-08,Yacuiba,28.0,23.0,77.5,57.6,
 2024-10-08,Yesera Norte,28.5,17.0,,,
 2024-10-08,Yocalla,29.2,7.3,,,
+2024-10-08,Yotala,26.0,9.0,,,
 2024-10-08,Zudañez,26.0,13.0,,,
 2024-10-08,Ñoquejza,18.1,5.1,,,12.0
 2024-10-09, Paniagua_M (GPRS),,,,,20.5
@@ -53743,7 +54000,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-09,Achocalla,,,,,26.8
 2024-10-09,Achumani,24.2,4.3,,,15.4
 2024-10-09,Aguadas (GPRS),12.71,7.66,70.83,51.93,
+2024-10-09,Aguaraycito,,,,,20.0
 2024-10-09,Aiquile (GPRS),34.0,24.44,42.48,33.54,
+2024-10-09,Alcantarí_Aeropuerto,,,,,2.4
 2024-10-09,Alto Obrajes_Barrio Magisterio,,,,,15.1
 2024-10-09,Alto Peñas (GPRS),11.12,6.97,80.6,53.99,17.9
 2024-10-09,Ancoraimes,,,,,11.0
@@ -53777,6 +54036,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-09,Circuata,,,,,1.3
 2024-10-09,Ckochas,16.1,7.5,,,
 2024-10-09,Cobija,33.0,23.0,99.1,58.8,
+2024-10-09,Coimata,,,,,12.0
 2024-10-09,Colcha K,23.6,2.2,,,
 2024-10-09,Collana,18.0,3.0,,,
 2024-10-09,Colomi,,,,,7.5
@@ -53831,6 +54091,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-09,Molle Molle,22.8,13.3,,,
 2024-10-09,Montero_Muyurina,,,,,11.3
 2024-10-09,Omereque - SDC (GPRS),30.29,21.48,48.85,34.3,
+2024-10-09,Opoqueri,16.4,3.3,,,
 2024-10-09,Oronkota PTI,32.5,15.8,,,15.0
 2024-10-09,Oruro (GPRS),18.0,3.0,86.1,39.2,
 2024-10-09,Pailon - Pozo del Tigre (GPRS),28.95,24.86,79.61,64.5,
@@ -53852,6 +54113,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-09,Puna,23.5,5.5,,,
 2024-10-09,Putucuni Calientes (GPRS),6.2,2.63,96.9,71.36,0.7
 2024-10-09,Ravelo,24.0,7.0,,,
+2024-10-09,Redencion Pampa,25.0,9.0,,,
 2024-10-09,Reyes,32.0,24.0,99.1,58.5,
 2024-10-09,Riberalta,35.0,28.0,73.6,49.5,
 2024-10-09,Rosario del Ingre,,,,,43.0
@@ -53932,6 +54194,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-10,Achiri,22.0,-9.0,,,
 2024-10-10,Achumani,26.3,5.2,,,
 2024-10-10,Aguadas (GPRS),16.7,9.06,52.4,30.73,
+2024-10-10,Aguaraycito,,,,,2.0
 2024-10-10,Aiquile (GPRS),33.11,22.48,48.7,28.04,
 2024-10-10,Alto Peñas (GPRS),12.7,6.59,78.6,27.33,
 2024-10-10,Ayoma,25.3,2.1,,,
@@ -53999,7 +54262,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-10,Mojo,19.2,5.0,,,
 2024-10-10,Molle Molle,23.3,12.8,,,
 2024-10-10,Montero_Muyurina,,,,,3.7
+2024-10-10,Narvaez,,,,,3.0
 2024-10-10,Omereque - SDC (GPRS),31.69,20.66,56.06,27.57,
+2024-10-10,Opoqueri,18.0,5.0,,,
 2024-10-10,Oronkota PTI,35.8,12.3,,,
 2024-10-10,Oruro (GPRS),22.0,2.0,74.3,28.5,
 2024-10-10,Padilla,,,,,0.8
@@ -54024,6 +54289,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-10,Punilla,,,,,6.3
 2024-10-10,Putucuni Calientes (GPRS),9.99,4.99,73.35,49.13,0.6
 2024-10-10,Ravelo,26.0,4.0,,,
+2024-10-10,Redencion Pampa,27.0,8.0,,,
 2024-10-10,Reyes,37.0,25.0,87.9,39.2,
 2024-10-10,Riberalta,29.0,26.0,82.8,62.2,
 2024-10-10,Riberalta_H (GPRS),,,,,1.7
@@ -54037,6 +54303,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-10,San Buenaventura_M (GPRS),,,,,21.0
 2024-10-10,San Jacinto_M (GPRS),19.48,14.66,84.2,56.49,
 2024-10-10,San Jose de Chiquitos,32.0,23.0,82.6,51.8,
+2024-10-10,San Julian,,,,,1.0
 2024-10-10,San Julian - Comunidad Los Angeles (GPRS),31.23,23.96,94.1,63.66,0.7
 2024-10-10,San Julian - Nucleo 32 (GPRS),28.88,24.04,,,1.4
 2024-10-10,San Lucas,28.0,7.0,,,
@@ -54086,6 +54353,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-10,Yacuiba,20.0,18.0,99.1,93.1,
 2024-10-10,Yesera Norte,20.0,10.0,,,
 2024-10-10,Yocalla,31.2,5.3,,,
+2024-10-10,Yotala,31.0,9.0,,,
 2024-10-10,Zudañez,27.0,13.0,,,
 2024-10-10,Ñoquejza,14.1,-5.1,,,
 2024-10-11,4 Esquinas (GPRS),15.38,1.19,,,
@@ -54118,6 +54386,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-11,Chuquiago,25.0,-1.5,,,
 2024-10-11,Ckochas,23.5,5.5,,,
 2024-10-11,Cobija,35.0,24.0,93.3,52.5,
+2024-10-11,Coimata,,,,,5.5
 2024-10-11,Colcha K,25.0,-3.2,,,
 2024-10-11,Collana,17.0,2.0,,,
 2024-10-11,Colomi,14.0,5.0,,,
@@ -54156,6 +54425,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-11,Montero_Muyurina,,,,,0.4
 2024-10-11,Muyuquiri,,,,,15.0
 2024-10-11,Omereque - SDC (GPRS),30.41,22.35,55.51,32.34,
+2024-10-11,Opoqueri,17.7,5.1,,,
 2024-10-11,Oronkota PTI,33.0,15.8,,,
 2024-10-11,Oruro (GPRS),22.0,1.0,74.3,26.6,
 2024-10-11,Pailon - Pozo del Tigre (GPRS),26.93,22.89,78.75,63.64,
@@ -54173,6 +54443,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-11,Puna,23.5,1.0,,,
 2024-10-11,Putucuni Calientes (GPRS),10.65,5.02,57.74,42.63,
 2024-10-11,Ravelo,24.0,5.0,,,
+2024-10-11,Redencion Pampa,26.0,12.0,,,
 2024-10-11,Reyes,37.0,28.0,73.6,39.2,
 2024-10-11,Riberalta,33.0,26.0,82.8,55.5,
 2024-10-11,Rosario del Ingre,,,,,2.1
@@ -54185,6 +54456,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-11,San Jacinto_M (GPRS),26.07,9.11,91.1,19.78,
 2024-10-11,San Jose de Chiquitos,34.0,23.0,82.5,43.5,
 2024-10-11,San Juan de Yapacaní,,,,,0.4
+2024-10-11,San Julian,,,,,2.3
 2024-10-11,San Julian - Comunidad Los Angeles (GPRS),32.74,23.39,80.5,43.83,0.9
 2024-10-11,San Julian - Nucleo 32 (GPRS),32.06,25.05,,,
 2024-10-11,San Lucas,26.0,3.0,,,
@@ -54232,6 +54504,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-11,Yacuiba,31.0,15.0,99.1,51.3,
 2024-10-11,Yesera Norte,27.5,10.0,,,3.5
 2024-10-11,Yocalla,31.0,4.1,,,
+2024-10-11,Yotala,29.0,10.0,,,
 2024-10-11,Zudañez,26.0,12.0,,,
 2024-10-11,Ñoquejza,15.2,-4.2,,,
 2024-10-12, Paniagua_M (GPRS),,,,,0.1
@@ -54306,6 +54579,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-12,Mojo,25.0,-2.0,,,
 2024-10-12,Molle Molle,23.9,11.7,,,
 2024-10-12,Omereque - SDC (GPRS),30.77,21.26,56.79,34.06,
+2024-10-12,Opoqueri,18.0,3.1,,,
 2024-10-12,Oronkota PTI,35.8,17.2,,,
 2024-10-12,Oruro (GPRS),22.0,2.0,74.3,32.8,
 2024-10-12,Pailon - Pozo del Tigre (GPRS),36.65,30.45,55.92,43.49,
@@ -54322,6 +54596,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-12,Puna,25.0,8.0,,,
 2024-10-12,Putucuni Calientes (GPRS),11.26,6.76,62.46,45.63,
 2024-10-12,Ravelo,25.0,6.0,,,
+2024-10-12,Redencion Pampa,27.0,9.0,,,
 2024-10-12,Riberalta,33.0,27.0,73.5,46.0,
 2024-10-12,Rurrenabaque,36.0,25.0,93.3,41.4,
 2024-10-12,Sacaca,23.6,2.8,,,
@@ -54373,6 +54648,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-12,Vivero Viloma - SDC (GPRS),29.49,19.12,38.75,0.65,
 2024-10-12,Yesera Norte,27.0,10.0,,,
 2024-10-12,Yocalla,32.3,7.2,,,
+2024-10-12,Yotala,28.0,11.0,,,
 2024-10-12,Zudañez,27.0,12.0,,,
 2024-10-12,Ñoquejza,17.1,5.1,,,
 2024-10-13,4 Esquinas (GPRS),15.12,1.74,,,0.1
@@ -54433,6 +54709,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-13,Mojo,25.3,3.2,,,
 2024-10-13,Molle Molle,24.4,14.4,,,
 2024-10-13,Omereque - SDC (GPRS),31.42,22.98,53.87,30.94,
+2024-10-13,Opoqueri,20.0,6.0,,,
 2024-10-13,Oronkota PTI,34.2,19.2,,,
 2024-10-13,Pailon - Pozo del Tigre (GPRS),36.9,30.32,56.17,39.52,
 2024-10-13,Pairumani,28.0,13.0,,,
@@ -54448,6 +54725,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-13,Puna,23.9,6.0,,,
 2024-10-13,Putucuni Calientes (GPRS),9.6,4.18,86.6,51.51,1.3
 2024-10-13,Ravelo,24.0,5.0,,,
+2024-10-13,Redencion Pampa,28.0,11.0,,,
 2024-10-13,Sacaca,24.6,4.1,,,
 2024-10-13,Salla,,,,,1.7
 2024-10-13,Samasa,24.0,3.2,,,
@@ -54494,6 +54772,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-13,Vivero Viloma - SDC (GPRS),27.21,19.8,37.26,8.17,
 2024-10-13,Yesera Norte,28.0,9.0,,,
 2024-10-13,Yocalla,30.1,8.1,,,
+2024-10-13,Yotala,25.0,12.0,,,
 2024-10-13,Zudañez,27.0,14.0,,,
 2024-10-13,Ñoquejza,19.2,6.2,,,
 2024-10-14, Paniagua_M (GPRS),,,,,12.6
@@ -54563,6 +54842,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-14,Mojo,25.0,3.0,,,
 2024-10-14,Molle Molle,23.9,13.3,,,
 2024-10-14,Omereque - SDC (GPRS),32.18,21.52,48.78,24.68,
+2024-10-14,Opoqueri,18.7,5.0,,,
 2024-10-14,Oronkota PTI,34.9,18.9,,,
 2024-10-14,Pailon - Pozo del Tigre (GPRS),29.35,22.05,99.0,61.51,
 2024-10-14,Pairumani,29.0,12.0,,,16.4
@@ -54579,6 +54859,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-14,Puna,22.5,8.0,,,
 2024-10-14,Putucuni Calientes (GPRS),10.44,4.88,74.43,50.98,
 2024-10-14,Ravelo,23.0,4.0,,,
+2024-10-14,Redencion Pampa,27.0,8.0,,,
 2024-10-14,Sacaca,24.2,3.7,,,
 2024-10-14,Samasa,23.0,5.0,,,
 2024-10-14,San Benito,28.0,8.0,,,
@@ -54626,6 +54907,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-14,Vivero Viloma - SDC (GPRS),26.66,19.82,44.96,23.45,3.3
 2024-10-14,Yesera Norte,27.0,16.0,,,2.7
 2024-10-14,Yocalla,29.2,5.1,,,
+2024-10-14,Yotala,28.0,11.0,,,
 2024-10-14,Zudañez,27.0,13.0,,,
 2024-10-14,Ñoquejza,18.2,5.1,,,7.0
 2024-10-15,4 Esquinas (GPRS),14.6,1.01,,,15.9
@@ -54634,6 +54916,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-15,Achocalla,,,,,1.8
 2024-10-15,Achumani,23.4,5.3,,,1.3
 2024-10-15,Aguadas (GPRS),19.46,6.17,79.66,28.09,9.0
+2024-10-15,Aguaraycito,,,,,70.0
 2024-10-15,Aiquile (GPRS),39.04,24.34,40.02,22.72,
 2024-10-15,Alalay (GPRS),4.11,3.77,,,
 2024-10-15,Alto Obrajes_Barrio Magisterio,,,,,2.8
@@ -54664,6 +54947,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-15,Chuquiaguillo_LP,,,,,3.5
 2024-10-15,Circuata,,,,,3.9
 2024-10-15,Ckochas,24.5,6.5,,,
+2024-10-15,Coimata,,,,,7.0
 2024-10-15,Colcha K,27.2,4.2,,,
 2024-10-15,Collana,17.0,3.0,,,0.7
 2024-10-15,Colomi,15.0,4.0,,,
@@ -54711,6 +54995,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-15,Molle Molle,31.7,12.8,,,
 2024-10-15,Muyuquiri,,,,,10.0
 2024-10-15,Omereque - SDC (GPRS),32.64,20.83,48.85,22.75,
+2024-10-15,Opoqueri,20.0,1.0,,,
 2024-10-15,Orinoca - UTO (GPRS),9.74,3.37,,,
 2024-10-15,Oronkota PTI,34.0,16.5,,,3.5
 2024-10-15,Pailon - Pozo del Tigre (GPRS),35.79,28.43,67.94,47.16,23.8
@@ -54730,6 +55015,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-15,Puna,24.0,4.0,,,
 2024-10-15,Putucuni Calientes (GPRS),11.46,7.6,71.6,50.96,0.1
 2024-10-15,Ravelo,25.0,6.0,,,
+2024-10-15,Redencion Pampa,30.0,10.0,,,
 2024-10-15,Sacaca,22.6,2.9,,,
 2024-10-15,Sacacani_M (GPRS),,,,,3.7
 2024-10-15,Salo_M (GPRS),,,,,4.6
@@ -54784,6 +55070,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-15,Vivero Viloma - SDC (GPRS),27.22,18.81,36.99,9.18,0.6
 2024-10-15,Yesera Norte,30.0,12.0,,,1.5
 2024-10-15,Yocalla,30.1,9.3,,,
+2024-10-15,Yotala,30.0,9.0,,,
 2024-10-15,Zudañez,28.0,14.0,,,
 2024-10-15,Ñoquejza,19.1,6.1,,,
 2024-10-15,Ñucchu,,,,,2.5
@@ -54794,6 +55081,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-16,Aguadas (GPRS),15.53,6.48,86.1,51.89,7.9
 2024-10-16,Aiquile (GPRS),28.46,11.92,91.3,37.3,0.1
 2024-10-16,Alalay (GPRS),,,,,10.0
+2024-10-16,Alcantarí_Aeropuerto,,,,,1.0
 2024-10-16,Alto Obrajes_Barrio Magisterio,,,,,0.6
 2024-10-16,Alto Peñas (GPRS),13.38,1.87,93.2,33.46,
 2024-10-16,Ancoraimes,,,,,1.0
@@ -54826,6 +55114,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-16,Chuquiaguillo_LP,,,,,2.5
 2024-10-16,Ckochas,19.5,7.1,,,
 2024-10-16,Cobija,37.0,32.0,62.2,41.7,
+2024-10-16,Coimata,,,,,17.0
 2024-10-16,Colcha K,26.4,3.8,,,
 2024-10-16,Collana,16.0,2.0,,,2.3
 2024-10-16,Colomi,,,,,1.0
@@ -54869,7 +55158,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-16,Mojo,26.2,6.2,,,
 2024-10-16,Molle Molle,25.5,11.1,,,
 2024-10-16,Montero_Muyurina,,,,,1.3
+2024-10-16,Narvaez,,,,,48.5
 2024-10-16,Omereque - SDC (GPRS),29.85,16.48,81.9,30.22,
+2024-10-16,Opoqueri,18.0,2.9,,,
 2024-10-16,Orinoca - UTO (GPRS),18.38,9.51,,,
 2024-10-16,Oronkota PTI,32.9,16.5,,,
 2024-10-16,Oruro UTO (GPRS),7.04,6.68,,,
@@ -54966,6 +55257,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-16,Vivero Viloma - SDC (GPRS),25.43,12.52,90.4,10.16,12.2
 2024-10-16,Yacuiba,33.0,31.0,54.8,49.0,
 2024-10-16,Yesera Norte,26.0,18.0,,,6.8
+2024-10-16,Yesera Sur,,,,,6.0
 2024-10-16,Yocalla,28.1,8.1,,,
 2024-10-16,Yotala,,,,,1.6
 2024-10-16,Zudañez,27.0,13.0,,,
@@ -54979,6 +55271,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-17,Achumani,26.3,5.3,,,6.4
 2024-10-17,Aguadas (GPRS),19.94,9.31,65.68,28.54,13.0
 2024-10-17,Aiquile (GPRS),32.61,21.55,47.19,33.66,0.1
+2024-10-17,Alcantarí_Aeropuerto,,,,,0.1
 2024-10-17,Alto Obrajes_Barrio Magisterio,,,,,6.5
 2024-10-17,Alto Peñas (GPRS),13.77,9.58,55.43,23.55,2.9
 2024-10-17,Anzaldo_M (GPRS),,,,,0.8
@@ -55054,6 +55347,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-17,Mojo,25.3,7.2,,,3.2
 2024-10-17,Molle Molle,27.2,10.0,,,
 2024-10-17,Omereque - SDC (GPRS),29.85,20.94,57.29,29.36,0.1
+2024-10-17,Opoqueri,20.0,2.0,,,
 2024-10-17,Oronkota PTI,33.5,18.2,,,
 2024-10-17,Oruro (GPRS),21.0,3.0,86.3,34.6,
 2024-10-17,Pailon - Pozo del Tigre (GPRS),31.95,23.94,85.9,56.58,3.0
@@ -55078,6 +55372,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-17,Puna,21.5,4.0,,,
 2024-10-17,Putucuni Calientes (GPRS),12.54,7.6,54.46,25.22,
 2024-10-17,Ravelo,23.0,5.0,,,4.0
+2024-10-17,Redencion Pampa,27.0,9.0,,,
 2024-10-17,Reyes,37.0,25.0,87.9,34.7,
 2024-10-17,Riberalta,34.0,27.0,78.1,52.3,
 2024-10-17,Rurrenabaque,36.0,23.0,99.1,39.0,
@@ -55176,6 +55471,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-18,Chuquiago,26.0,11.0,,,
 2024-10-18,Ckochas,24.1,6.5,,,
 2024-10-18,Cobija,37.0,25.0,93.3,47.1,
+2024-10-18,Coimata,,,,,30.0
 2024-10-18,Colcha K,27.6,2.4,,,
 2024-10-18,Collana,19.0,5.0,,,
 2024-10-18,Colomi,17.0,5.0,,,
@@ -55217,6 +55513,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-18,Molle Molle,27.2,10.0,,,1.5
 2024-10-18,Montero_Muyurina,,,,,4.3
 2024-10-18,Omereque - SDC (GPRS),26.8,20.41,59.51,44.89,
+2024-10-18,Opoqueri,18.9,1.8,,,
 2024-10-18,Oronkota PTI,32.0,17.1,,,
 2024-10-18,Oruro (GPRS),22.0,4.0,80.5,30.3,
 2024-10-18,Padilla,,,,,3.0
@@ -55236,6 +55533,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-18,Puna,26.0,8.0,,,
 2024-10-18,Putucuni Calientes (GPRS),10.58,7.16,68.35,45.05,
 2024-10-18,Ravelo,21.0,4.0,,,
+2024-10-18,Redencion Pampa,24.0,10.0,,,
 2024-10-18,Reyes,37.0,26.0,82.8,46.8,
 2024-10-18,Riberalta,25.0,24.0,99.1,87.9,
 2024-10-18,Riberalta_H (GPRS),,,,,7.6
@@ -55298,6 +55596,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-18,Yacuiba,25.0,18.0,99.1,73.2,
 2024-10-18,Yesera Norte,20.0,15.0,,,3.0
 2024-10-18,Yocalla,28.3,5.3,,,
+2024-10-18,Yotala,25.0,8.0,,,
 2024-10-18,Zudañez,22.0,12.0,,,
 2024-10-18,Ñoquejza,16.1,7.1,,,
 2024-10-19, Paniagua_M (GPRS),,,,,0.3
@@ -55306,6 +55605,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-19,Achiri,21.0,-6.5,,,
 2024-10-19,Achumani,26.3,6.4,,,
 2024-10-19,Aguadas (GPRS),4.47,4.47,85.4,85.4,7.5
+2024-10-19,Aguaraycito,,,,,10.0
 2024-10-19,Aiquile (GPRS),20.47,20.47,59.02,59.02,0.1
 2024-10-19,Alto Peñas (GPRS),18.49,3.32,92.8,13.97,
 2024-10-19,Anzaldo_M (GPRS),,,,,2.0
@@ -55333,6 +55633,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-19,Chuquiago,27.1,5.0,,,
 2024-10-19,Ckochas,23.1,4.5,,,
 2024-10-19,Cobija,32.0,24.0,99.1,66.0,
+2024-10-19,Coimata,,,,,5.5
 2024-10-19,Colcha K,28.6,2.6,,,
 2024-10-19,Collana,20.0,4.0,,,
 2024-10-19,Colomi,18.0,6.0,,,
@@ -55377,7 +55678,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-19,Mizque - SDC (GPRS),15.04,15.04,79.1,79.1,2.9
 2024-10-19,Mojo,24.1,0.0,,,
 2024-10-19,Molle Molle,27.2,7.8,,,
+2024-10-19,Narvaez,,,,,5.0
 2024-10-19,Omereque - SDC (GPRS),29.44,15.75,85.5,29.89,
+2024-10-19,Opoqueri,20.0,7.0,,,
 2024-10-19,Oronkota PTI,33.5,16.8,,,
 2024-10-19,Oruro (GPRS),21.0,2.0,80.0,30.3,
 2024-10-19,Pailon - Pozo del Tigre (GPRS),22.69,22.69,84.9,84.9,11.0
@@ -55396,6 +55699,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-19,Puna,25.1,5.6,,,
 2024-10-19,Putucuni Calientes (GPRS),5.33,5.33,43.64,43.64,2.1
 2024-10-19,Ravelo,23.0,3.0,,,
+2024-10-19,Redencion Pampa,25.0,6.0,,,
 2024-10-19,Riberalta,27.0,27.0,78.1,78.1,
 2024-10-19,Riberalta_H (GPRS),,,,,15.5
 2024-10-19,Rurrenabaque,29.0,21.0,99.1,61.3,
@@ -55461,6 +55765,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-19,Yacuiba,27.0,24.0,77.7,68.9,
 2024-10-19,Yesera Norte,25.0,9.0,,,
 2024-10-19,Yocalla,29.1,4.1,,,
+2024-10-19,Yotala,28.0,8.0,,,
 2024-10-19,Zudañez,26.0,9.0,,,
 2024-10-19,Ñoquejza,16.1,6.2,,,
 2024-10-20, Paniagua_M (GPRS),,,,,0.1
@@ -55530,6 +55835,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-20,Molle Molle,32.2,7.2,,,
 2024-10-20,Montero_Muyurina,,,,,1.3
 2024-10-20,Omereque - SDC (GPRS),19.51,19.51,69.62,69.62,0.1
+2024-10-20,Opoqueri,19.0,5.0,,,
 2024-10-20,Oronkota PTI,36.5,14.5,,,
 2024-10-20,Oruro (GPRS),21.0,6.0,69.8,37.4,
 2024-10-20,Pailon - Pozo del Tigre (GPRS),25.82,25.82,66.55,66.55,
@@ -55545,6 +55851,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-20,Puna,24.9,6.0,,,
 2024-10-20,Putucuni Calientes (GPRS),8.83,8.83,45.1,45.1,
 2024-10-20,Ravelo,25.0,2.0,,,
+2024-10-20,Redencion Pampa,27.0,7.0,,,
 2024-10-20,Riberalta,22.0,22.0,99.1,99.1,
 2024-10-20,Riberalta_H (GPRS),,,,,78.2
 2024-10-20,Rurrenabaque,33.0,21.0,99.1,51.8,
@@ -55599,6 +55906,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-20,Yacuiba,33.0,29.0,69.5,52.1,
 2024-10-20,Yesera Norte,28.0,10.0,,,
 2024-10-20,Yocalla,29.4,6.3,,,
+2024-10-20,Yotala,29.0,7.0,,,
 2024-10-20,Zudañez,31.0,10.0,,,
 2024-10-20,Ñoquejza,18.1,5.1,,,
 2024-10-21,4 Esquinas (GPRS),17.67,6.5,,,
@@ -55661,6 +55969,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-21,Mojo,26.3,5.2,,,
 2024-10-21,Molle Molle,25.5,8.9,,,
 2024-10-21,Omereque - SDC (GPRS),31.89,21.97,57.51,25.66,
+2024-10-21,Opoqueri,22.0,1.0,,,
 2024-10-21,Oronkota PTI,35.2,19.8,,,
 2024-10-21,Oruro (GPRS),25.0,3.0,74.5,31.4,
 2024-10-21,Padilla,,,,,1.8
@@ -55678,6 +55987,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-21,Puna,25.0,5.5,,,
 2024-10-21,Putucuni Calientes (GPRS),11.54,11.54,28.91,28.91,
 2024-10-21,Ravelo,23.0,4.0,,,
+2024-10-21,Redencion Pampa,28.0,10.0,,,
 2024-10-21,Reyes,37.0,28.0,78.2,46.8,
 2024-10-21,Riberalta,27.0,27.0,82.9,82.9,
 2024-10-21,Rurrenabaque,35.0,23.0,99.1,49.5,
@@ -55731,6 +56041,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-21,Yacuiba,35.0,23.0,87.7,49.2,
 2024-10-21,Yesera Norte,26.0,10.0,,,
 2024-10-21,Yocalla,29.1,9.0,,,
+2024-10-21,Yotala,30.0,8.0,,,
 2024-10-21,Zudañez,29.0,11.0,,,
 2024-10-21,Ñoquejza,19.2,7.2,,,
 2024-10-22,4 Esquinas (GPRS),13.33,4.34,,,
@@ -55738,6 +56049,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-22,Achiri,22.0,-1.5,,,
 2024-10-22,Achumani,23.2,7.3,,,
 2024-10-22,Aguadas (GPRS),7.49,7.49,78.31,78.31,
+2024-10-22,Aguaraycito,,,,,1.5
 2024-10-22,Aiquile (GPRS),36.18,12.87,82.0,30.06,
 2024-10-22,Alto Peñas (GPRS),9.17,9.17,74.39,74.39,
 2024-10-22,Ayoma,26.1,9.1,,,
@@ -55800,6 +56112,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-22,Mizque - SDC (GPRS),21.51,19.77,56.84,50.99,0.2
 2024-10-22,Mojo,23.0,10.0,,,
 2024-10-22,Molle Molle,25.5,12.8,,,
+2024-10-22,Opoqueri,21.0,3.6,,,
 2024-10-22,Oronkota PTI,33.5,19.4,,,
 2024-10-22,Oruro (GPRS),22.0,5.0,74.8,36.2,
 2024-10-22,Pailon - Pozo del Tigre (GPRS),33.19,25.38,84.3,51.14,
@@ -55818,6 +56131,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-22,Puna,23.5,9.1,,,
 2024-10-22,Putucuni Calientes (GPRS),3.55,3.55,98.1,98.1,1.0
 2024-10-22,Ravelo,20.0,10.0,,,
+2024-10-22,Redencion Pampa,27.0,11.0,,,
 2024-10-22,Reyes,30.0,25.0,93.4,69.7,
 2024-10-22,Riberalta,27.0,27.0,82.9,82.9,
 2024-10-22,Riberalta_H (GPRS),,,,,24.6
@@ -55876,6 +56190,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-22,Yacuiba,34.0,26.0,88.0,59.0,
 2024-10-22,Yesera Norte,28.0,12.0,,,
 2024-10-22,Yocalla,27.0,10.1,,,
+2024-10-22,Yotala,28.0,8.0,,,
 2024-10-22,Zudañez,27.0,13.0,,,
 2024-10-22,Ñoquejza,17.1,6.1,,,
 2024-10-23,4 Esquinas (GPRS),15.2,-0.46,,,
@@ -55908,6 +56223,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-23,Chuquiago,31.0,15.5,,,
 2024-10-23,Ckochas,24.1,9.5,,,
 2024-10-23,Cobija,32.0,23.0,99.1,65.8,
+2024-10-23,Coimata,,,,,9.0
 2024-10-23,Colcha K,28.0,5.4,,,
 2024-10-23,Collana,15.0,2.0,,,2.5
 2024-10-23,Colomi,14.0,6.0,,,
@@ -55945,6 +56261,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-23,Mizque - SDC (GPRS),31.03,11.44,78.07,24.47,
 2024-10-23,Mojo,26.3,6.0,,,
 2024-10-23,Molle Molle,22.8,12.8,,,
+2024-10-23,Narvaez,,,,,101.5
+2024-10-23,Opoqueri,21.4,9.0,,,
 2024-10-23,Oronkota PTI,34.2,21.3,,,
 2024-10-23,Oruro (GPRS),20.0,6.0,80.5,37.1,
 2024-10-23,Pailon - Pozo del Tigre (GPRS),28.44,28.44,77.24,77.24,
@@ -55965,6 +56283,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-23,Puna,20.9,7.0,,,
 2024-10-23,Putucuni Calientes (GPRS),4.71,4.71,83.6,83.6,2.5
 2024-10-23,Ravelo,24.0,9.0,,,
+2024-10-23,Redencion Pampa,27.0,10.0,,,
 2024-10-23,Reyes,35.0,25.0,93.3,52.3,
 2024-10-23,Riberalta,25.0,25.0,87.9,87.9,
 2024-10-23,Riberalta_H (GPRS),,,,,26.8
@@ -56023,7 +56342,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-23,Vivero Viloma - SDC (GPRS),20.55,20.55,27.79,27.79,
 2024-10-23,Yacuiba,37.0,26.0,82.8,53.0,
 2024-10-23,Yesera Norte,28.0,15.0,,,18.0
+2024-10-23,Yesera Sur,,,,,20.0
 2024-10-23,Yocalla,30.1,11.0,,,
+2024-10-23,Yotala,25.0,16.0,,,
 2024-10-23,Zudañez,26.0,13.0,,,1.2
 2024-10-23,Ñoquejza,18.2,5.2,,,
 2024-10-24,4 Esquinas (GPRS),18.82,4.27,,,0.2
@@ -56093,6 +56414,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-24,Mizque - SDC (GPRS),34.57,14.27,80.5,6.77,
 2024-10-24,Mojo,26.6,3.0,,,
 2024-10-24,Molle Molle,30.5,15.5,,,
+2024-10-24,Opoqueri,20.0,-1.0,,,
 2024-10-24,Oronkota PTI,36.2,16.9,,,
 2024-10-24,Oruro (GPRS),22.0,2.0,74.3,28.5,
 2024-10-24,Pailon - Pozo del Tigre (GPRS),30.72,30.72,66.16,66.16,
@@ -56113,6 +56435,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-24,Puna,21.9,5.5,,,
 2024-10-24,Putucuni Calientes (GPRS),9.88,9.88,10.3,10.3,
 2024-10-24,Ravelo,27.0,6.0,,,4.2
+2024-10-24,Redencion Pampa,29.0,11.0,,,
 2024-10-24,Reyes,36.0,27.0,82.9,43.8,
 2024-10-24,Riberalta,25.0,25.0,87.9,87.9,
 2024-10-24,Riberalta_H (GPRS),,,,,19.6
@@ -56172,6 +56495,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-24,Yacuiba,29.0,24.0,73.0,61.5,
 2024-10-24,Yesera Norte,30.0,16.0,,,
 2024-10-24,Yocalla,31.2,10.3,,,
+2024-10-24,Yotala,33.0,15.0,,,
 2024-10-24,Zudañez,28.0,11.0,,,
 2024-10-24,Ñoquejza,19.1,6.3,,,
 2024-10-25,4 Esquinas (GPRS),15.96,3.04,,,
@@ -56240,6 +56564,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-25,Molle Molle,24.4,13.3,,,
 2024-10-25,Montero_Muyurina,,,,,0.6
 2024-10-25,Muyuquiri,,,,,5.0
+2024-10-25,Opoqueri,19.0,2.0,,,
 2024-10-25,Oronkota PTI,37.2,14.5,,,4.3
 2024-10-25,Oruro (GPRS),23.0,4.0,74.7,33.1,
 2024-10-25,Padilla,,,,,3.8
@@ -56315,6 +56640,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-25,Yacuiba,33.0,22.0,82.4,58.1,
 2024-10-25,Yesera Norte,28.0,15.0,,,
 2024-10-25,Yocalla,29.4,9.4,,,
+2024-10-25,Yotala,29.0,14.0,,,
 2024-10-25,Zudañez,28.0,8.0,,,
 2024-10-25,Ñoquejza,18.1,7.1,,,
 2024-10-26, Paniagua_M (GPRS),,,,,6.5
@@ -56324,6 +56650,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-26,Achumani,23.4,6.3,,,4.6
 2024-10-26,Aguadas (GPRS),7.15,7.15,82.9,82.9,7.7
 2024-10-26,Aiquile (GPRS),22.65,14.08,91.2,62.62,
+2024-10-26,Alcantarí_Aeropuerto,,,,,0.1
 2024-10-26,Alto Obrajes_Barrio Magisterio,,,,,3.2
 2024-10-26,Alto Peñas (GPRS),16.04,8.63,75.06,75.06,0.2
 2024-10-26,Ancoraimes,,,,,4.0
@@ -56357,6 +56684,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-26,Chuquiago,30.2,11.8,,,
 2024-10-26,Chuquiaguillo_LP,,,,,0.3
 2024-10-26,Ckochas,25.5,10.1,,,
+2024-10-26,Coimata,,,,,5.5
 2024-10-26,Colcha K,28.6,3.4,,,
 2024-10-26,Collana,16.0,2.0,,,30.2
 2024-10-26,Colomi,17.0,8.0,,,11.5
@@ -56406,7 +56734,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-26,Mojo,20.2,8.0,,,
 2024-10-26,Molle Molle,20.0,10.5,,,41.9
 2024-10-26,Montero_Muyurina,,,,,42.0
+2024-10-26,Narvaez,,,,,15.0
 2024-10-26,Nuevo Mundo,,,,,58.2
+2024-10-26,Opoqueri,18.3,3.4,,,
 2024-10-26,Oronkota PTI,32.9,13.9,,,
 2024-10-26,Oruro (GPRS),21.0,9.0,70.4,40.1,
 2024-10-26,Pailon - Pozo del Tigre (GPRS),22.7,22.7,100.0,100.0,1.0
@@ -56440,6 +56770,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-26,San Jacinto_M (GPRS),15.29,10.91,98.6,78.12,
 2024-10-26,San Javier,26.0,26.0,82.8,82.8,
 2024-10-26,San Juan de Yapacaní,,,,,73.4
+2024-10-26,San Julian,,,,,15.0
 2024-10-26,San Julian - Comunidad Los Angeles (GPRS),23.93,20.39,97.3,80.3,0.3
 2024-10-26,San Julian - Nucleo 32 (GPRS),22.5,22.5,,,1.2
 2024-10-26,San Lucas,23.0,13.0,,,
@@ -56532,6 +56863,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-27,Chuquiago,28.2,12.1,,,
 2024-10-27,Chuquiaguillo_LP,,,,,7.3
 2024-10-27,Ckochas,17.5,7.5,,,
+2024-10-27,Coimata,,,,,1.0
 2024-10-27,Colcha K,27.0,3.6,,,
 2024-10-27,Collana,15.0,1.0,,,18.5
 2024-10-27,Colomi,14.0,9.0,,,1.5
@@ -56578,6 +56910,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-27,Mizque - SDC (GPRS),25.37,15.15,77.92,38.33,5.7
 2024-10-27,Mojo,24.0,4.1,,,
 2024-10-27,Molle Molle,21.7,11.7,,,
+2024-10-27,Opoqueri,17.0,3.0,,,
 2024-10-27,Oronkota PTI,30.2,18.3,,,
 2024-10-27,Oruro (GPRS),22.0,6.0,86.4,40.3,
 2024-10-27,Pailon - Pozo del Tigre (GPRS),31.17,22.31,100.0,55.75,27.4
@@ -56601,6 +56934,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-27,Punilla,,,,,9.2
 2024-10-27,Putucuni Calientes (GPRS),3.39,3.39,98.3,69.54,9.7
 2024-10-27,Ravelo,20.0,4.0,,,
+2024-10-27,Redencion Pampa,22.0,7.0,,,
 2024-10-27,Reyes,26.0,26.0,77.9,73.3,
 2024-10-27,Riberalta,24.0,24.0,99.1,61.7,
 2024-10-27,Riberalta_H (GPRS),,,,,8.8
@@ -56613,6 +56947,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-27,San Calixto,,,,,4.4
 2024-10-27,San Jacinto_M (GPRS),21.77,14.95,85.4,55.6,
 2024-10-27,San Javier,27.0,20.0,87.5,57.4,
+2024-10-27,San Julian,,,,,6.0
 2024-10-27,San Julian - Comunidad Los Angeles (GPRS),33.65,22.42,96.0,49.17,3.4
 2024-10-27,San Julian - Nucleo 32 (GPRS),22.11,22.11,,,5.8
 2024-10-27,San Lucas,26.0,13.0,,,
@@ -56664,6 +56999,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-27,Vivero Viloma - SDC (GPRS),26.82,12.87,84.9,22.93,1.0
 2024-10-27,Yesera Norte,21.0,10.0,,,1.0
 2024-10-27,Yocalla,31.2,9.0,,,
+2024-10-27,Yotala,24.0,14.0,,,
 2024-10-27,Zudañez,23.0,10.0,,,
 2024-10-27,Ñoquejza,17.1,9.1,,,
 2024-10-28,4 Esquinas (GPRS),12.65,4.73,,,
@@ -56732,6 +57068,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-28,Mizque - SDC (GPRS),27.71,16.8,76.0,34.87,1.6
 2024-10-28,Mojo,24.4,6.0,,,
 2024-10-28,Molle Molle,23.3,10.5,,,
+2024-10-28,Opoqueri,18.9,2.6,,,
 2024-10-28,Oronkota PTI,32.5,16.2,,,
 2024-10-28,Oruro (GPRS),21.0,4.0,86.2,45.6,
 2024-10-28,Pailon - Pozo del Tigre (GPRS),26.94,26.94,81.1,81.1,
@@ -56750,6 +57087,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-28,Puna,15.5,9.1,,,
 2024-10-28,Putucuni Calientes (GPRS),2.96,2.96,96.8,96.8,0.2
 2024-10-28,Ravelo,22.0,9.0,,,
+2024-10-28,Redencion Pampa,24.0,11.0,,,
 2024-10-28,Reyes,34.0,25.0,82.7,52.0,
 2024-10-28,Riberalta,25.0,25.0,87.9,87.9,
 2024-10-28,Rurrenabaque,32.0,22.0,99.1,51.8,
@@ -56807,6 +57145,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-28,Yacuiba,33.0,22.0,82.4,43.3,
 2024-10-28,Yesera Norte,20.0,10.0,,,
 2024-10-28,Yocalla,30.1,8.3,,,
+2024-10-28,Yotala,25.0,14.0,,,
 2024-10-28,Zudañez,25.0,7.0,,,3.0
 2024-10-28,Ñoquejza,18.2,8.2,,,
 2024-10-29,4 Esquinas (GPRS),14.66,4.75,,,1.0
@@ -56878,6 +57217,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-29,Mojo,23.0,6.0,,,
 2024-10-29,Molle Molle,25.0,12.2,,,
 2024-10-29,Nuevo Mundo,,,,,28.0
+2024-10-29,Opoqueri,18.0,4.8,,,5.3
 2024-10-29,Oronkota PTI,35.6,18.2,,,
 2024-10-29,Oruro (GPRS),21.0,4.0,92.8,45.9,
 2024-10-29,Padilla,,,,,10.5
@@ -56898,6 +57238,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-29,Puna,19.9,6.0,,,
 2024-10-29,Putucuni Calientes (GPRS),7.54,7.54,76.06,76.06,
 2024-10-29,Ravelo,21.0,10.0,,,
+2024-10-29,Redencion Pampa,25.0,14.0,,,
 2024-10-29,Reyes,36.0,29.0,73.8,49.7,
 2024-10-29,Riberalta,28.0,28.0,78.2,78.2,
 2024-10-29,Rurrenabaque,35.0,23.0,93.4,49.2,
@@ -56955,6 +57296,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-29,Yacuiba,36.0,28.0,57.6,39.0,
 2024-10-29,Yesera Norte,24.9,15.0,,,
 2024-10-29,Yocalla,30.2,10.2,,,
+2024-10-29,Yotala,26.0,15.0,,,
 2024-10-29,Zudañez,27.0,6.0,,,
 2024-10-29,Ñoquejza,16.4,6.2,,,
 2024-10-30,4 Esquinas (GPRS),14.26,0.48,,,0.2
@@ -57038,6 +57380,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-30,Mojo,19.3,8.5,,,
 2024-10-30,Molle Molle,23.3,11.7,,,6.6
 2024-10-30,Nuevo Mundo,,,,,14.6
+2024-10-30,Opoqueri,18.0,6.0,,,
 2024-10-30,Oronkota PTI,33.5,20.2,,,
 2024-10-30,Oruro (GPRS),18.0,7.0,81.4,55.3,
 2024-10-30,Pailon - Pozo del Tigre (GPRS),27.72,27.72,78.21,78.21,4.2
@@ -57061,6 +57404,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-30,Puna,21.5,5.6,,,
 2024-10-30,Putucuni Calientes (GPRS),4.82,4.82,86.6,86.6,6.1
 2024-10-30,Ravelo,18.0,10.0,,,
+2024-10-30,Redencion Pampa,24.0,11.0,,,
 2024-10-30,Reyes,37.0,25.0,93.3,46.8,
 2024-10-30,Riberalta,28.0,28.0,83.0,83.0,
 2024-10-30,Riberalta_H (GPRS),,,,,2.6
@@ -57129,6 +57473,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-30,Yacuiba,37.0,29.0,73.8,46.8,
 2024-10-30,Yesera Norte,27.0,14.0,,,
 2024-10-30,Yocalla,31.4,11.3,,,
+2024-10-30,Yotala,26.0,15.0,,,
 2024-10-30,Zudañez,27.0,7.0,,,
 2024-10-30,Ñoquejza,15.2,5.1,,,
 2024-10-31,4 Esquinas (GPRS),13.51,-0.11,,,4.1
@@ -57137,6 +57482,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-31,Achocalla,,,,,10.6
 2024-10-31,Achumani,26.2,6.2,,,4.8
 2024-10-31,Aguadas (GPRS),16.94,-0.35,92.0,50.62,
+2024-10-31,Aguaraycito,,,,,5.0
 2024-10-31,Aiquile (GPRS),38.71,13.29,80.8,28.52,
 2024-10-31,Alto Obrajes_Barrio Magisterio,,,,,7.1
 2024-10-31,Alto Peñas (GPRS),17.01,3.95,92.0,36.39,21.5
@@ -57169,6 +57515,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-31,Chuquiago,31.1,11.0,,,2.5
 2024-10-31,Chuquiaguillo_LP,,,,,6.4
 2024-10-31,Ckochas,19.1,8.1,,,
+2024-10-31,Coimata,,,,,5.5
 2024-10-31,Colcha K,27.8,5.2,,,
 2024-10-31,Collana,18.0,4.0,,,
 2024-10-31,Colomi,16.0,4.0,,,0.5
@@ -57212,6 +57559,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-31,Mizque - SDC (GPRS),31.36,13.1,82.2,25.79,
 2024-10-31,Mojo,22.0,5.0,,,8.0
 2024-10-31,Molle Molle,23.9,9.4,,,6.1
+2024-10-31,Opoqueri,16.9,1.9,,,
 2024-10-31,Oronkota PTI,35.6,20.4,,,
 2024-10-31,Oruro (GPRS),21.0,4.0,92.5,39.5,
 2024-10-31,Padilla,,,,,3.4
@@ -57233,6 +57581,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-31,Puna,22.5,6.9,,,
 2024-10-31,Putucuni Calientes (GPRS),11.79,-0.75,95.3,39.86,2.8
 2024-10-31,Ravelo,22.0,7.0,,,3.1
+2024-10-31,Redencion Pampa,27.0,10.0,,,
 2024-10-31,Reyes,38.0,27.0,82.9,44.6,
 2024-10-31,Riberalta,28.0,28.0,78.2,78.2,
 2024-10-31,Rurrenabaque,36.0,23.0,93.3,46.8,
@@ -57298,6 +57647,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-31,Yacuiba,37.0,26.0,93.4,53.0,
 2024-10-31,Yesera Norte,22.0,15.0,,,5.3
 2024-10-31,Yocalla,21.0,11.0,,,1.0
+2024-10-31,Yotala,29.0,12.0,,,
 2024-10-31,Zudañez,22.0,5.0,,,1.2
 2024-10-31,Ñoquejza,17.8,3.1,,,
 2024-11-01,4 Esquinas (GPRS),15.97,2.94,,,4.6
@@ -57308,6 +57658,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-01,Buena Vista S.(GPRS),,,,,0.6
 2024-11-01,Buena Vista Sc,,,,,5.2
 2024-11-01,Camiri,30.0,20.0,93.2,45.3,
+2024-11-01,Capinota,,,,,6.7
 2024-11-01,Caranavi_H (GPRS),,,,,0.3
 2024-11-01,Carura_M (GPRS),,,,,2.1
 2024-11-01,Chua Cocani_M (GPRS),17.78,1.66,68.6,7.09,
@@ -57316,7 +57667,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-01,Cuatro Cañadas - CEA-2 (GPRS),27.1,22.71,95.0,77.44,
 2024-11-01,Cuatro Cañadas - Colonia Chihuahua (GPRS),29.57,25.12,80.7,60.68,
 2024-11-01,Desaguadero_M,19.2,-1.58,48.03,6.26,
+2024-11-01,El Tejar (Tarija),,,,,15.5
 2024-11-01,Huarisuyo (GPRS),18.35,-2.12,96.8,11.43,0.1
+2024-11-01,Ibibobo,,,,,19.0
 2024-11-01,Incapampa - Coroico_M (GPRS),,,,,6.1
 2024-11-01,Isla Suriqui_M (GPRS),18.56,3.18,91.2,8.74,
 2024-11-01,Jesús de Machaca_M (GPRS),19.82,-5.07,65.94,5.12,
@@ -57325,6 +57678,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-01,Mairana_M (GPRS),27.75,19.34,91.8,47.63,
 2024-11-01,Mecapaca_M (GPRS),,,,,0.1
 2024-11-01,Mizque - SDC (GPRS),30.04,12.53,84.7,10.51,
+2024-11-01,Narvaez,,,,,40.0
 2024-11-01,Oruro (GPRS),20.0,2.0,86.0,30.0,
 2024-11-01,Pailon - Pozo del Tigre (GPRS),29.09,23.42,98.1,66.64,23.6
 2024-11-01,Pocona - SDC (GPRS),23.81,13.08,73.09,35.91,4.1
@@ -57332,13 +57686,17 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-01,Potosí,19.0,8.0,45.5,16.0,
 2024-11-01,Presa Misicuni (GPRS),,,,,9.6
 2024-11-01,Puerto Suarez,32.0,23.0,87.8,54.8,
+2024-11-01,Punilla,,,,,7.2
 2024-11-01,Putucuni Calientes (GPRS),11.26,1.9,95.0,32.76,2.0
 2024-11-01,Reyes,37.0,27.0,82.9,41.7,
 2024-11-01,Riberalta,35.0,25.0,93.3,49.5,
 2024-11-01,Rurrenabaque,37.0,24.0,99.1,41.7,
+2024-11-01,Sachapera,,,,,28.5
+2024-11-01,San Benito,,,,,7.0
 2024-11-01,San Jacinto_M (GPRS),26.35,11.49,98.6,41.42,3.7
 2024-11-01,San Jose de Chiquitos,30.0,30.0,74.0,74.0,
 2024-11-01,San Juan de Yapacaní,,,,,49.2
+2024-11-01,San Julian,,,,,15.0
 2024-11-01,San Julian - Comunidad Los Angeles (GPRS),26.6,22.68,97.4,76.95,0.3
 2024-11-01,San Julian - Nucleo 32 (GPRS),26.03,22.57,,,2.0
 2024-11-01,San Pedro - Río Victoria (GPRS),26.53,23.05,95.1,81.0,4.4
@@ -57347,6 +57705,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-01,San Roque - El Alto (GPRS),19.28,2.33,87.3,12.97,2.6
 2024-11-01,Santa Ana - Yacuma,34.0,23.0,99.1,55.5,
 2024-11-01,Sauce Pilata - SDC (GPRS),22.36,13.38,75.05,39.34,0.6
+2024-11-01,Sucre SENAMHI,,,,,2.8
 2024-11-01,Sunjani (GPRS),16.23,1.63,95.5,21.44,4.2
 2024-11-01,Tarija,27.0,16.0,82.0,39.0,
 2024-11-01,Templo (GPRS),13.58,1.57,94.5,21.04,2.5
@@ -57363,6 +57722,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-01,Vivero Chimboco - SDC (GPRS),28.34,10.58,76.22,5.93,1.8
 2024-11-01,Vivero Viloma - SDC (GPRS),29.75,13.26,62.72,0.2,1.5
 2024-11-01,Yacuiba,30.0,19.0,93.2,69.5,
+2024-11-01,Yesera Norte,,,,,25.5
 2024-11-02, Paniagua_M (GPRS),,,,,51.3
 2024-11-02,4 Esquinas (GPRS),18.08,4.13,,,
 2024-11-02,Aguadas (GPRS),21.42,3.59,91.5,14.35,
@@ -57412,6 +57772,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-02,San Roque - El Alto (GPRS),21.4,4.64,92.4,14.8,
 2024-11-02,Santa Ana - Yacuma,33.0,24.0,93.3,58.7,
 2024-11-02,Sauce Pilata - SDC (GPRS),28.16,10.74,93.8,16.74,
+2024-11-02,Sucre SENAMHI,,,,,1.2
 2024-11-02,Sunjani (GPRS),18.98,4.46,90.8,13.69,
 2024-11-02,Tarija,32.0,20.0,72.4,24.0,
 2024-11-02,Templo (GPRS),16.63,2.81,95.0,17.72,
@@ -57425,6 +57786,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-02,Viscachas Chirage (GPRS),18.22,5.88,91.5,23.87,
 2024-11-02,Vivero Chimboco - SDC (GPRS),30.28,13.77,61.99,4.57,
 2024-11-02,Vivero Viloma - SDC (GPRS),31.21,15.55,64.82,0.77,
+2024-11-02,Zudañez,,,,,3.2
 2024-11-03, Paniagua_M (GPRS),,,,,0.5
 2024-11-03,4 Esquinas (GPRS),14.39,4.01,,,
 2024-11-03,Aguadas (GPRS),18.87,3.41,90.8,31.38,
@@ -57451,6 +57813,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-03,Juntas,,,,,36.5
 2024-11-03,Mairana_M (GPRS),32.87,18.09,99.0,36.63,1.6
 2024-11-03,Mizque - SDC (GPRS),28.88,14.08,85.9,24.53,
+2024-11-03,Narvaez,,,,,4.5
 2024-11-03,Nuevo Mundo,,,,,34.0
 2024-11-03,Oruro (GPRS),20.0,5.0,74.8,39.8,
 2024-11-03,Pailon - Pozo del Tigre (GPRS),36.13,24.65,91.2,46.68,
@@ -57458,6 +57821,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-03,Palos Blancos_M (GPRS),,,,,0.5
 2024-11-03,Pocona - SDC (GPRS),25.92,8.9,90.3,26.43,
 2024-11-03,Pojo - SDC (GPRS),27.54,14.66,78.32,40.02,
+2024-11-03,Poroma (CHQ),,,,,25.0
 2024-11-03,Puerto Rico S.(GPRS),,,,,0.2
 2024-11-03,Putucuni Calientes (GPRS),10.41,0.73,97.5,50.46,
 2024-11-03,Reyes,35.0,34.0,59.0,52.5,
@@ -57491,6 +57855,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-04,4 Esquinas (GPRS),17.02,3.87,,,0.4
 2024-11-04,Aguadas (GPRS),19.7,4.26,91.8,25.91,0.3
 2024-11-04,Aiquile (GPRS),38.61,15.31,82.5,25.72,
+2024-11-04,Alcantarí_Aeropuerto,,,,,0.6
 2024-11-04,Alto Peñas (GPRS),16.8,3.48,94.7,29.01,7.1
 2024-11-04,Buena Vista S.(GPRS),,,,,0.8
 2024-11-04,Camiri,37.0,25.0,77.8,28.7,
@@ -57501,6 +57866,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-04,Cuatro Cañadas - CEA-2 (GPRS),35.17,24.94,94.4,53.86,
 2024-11-04,Cuatro Cañadas - Colonia Chihuahua (GPRS),36.89,30.24,69.79,47.38,
 2024-11-04,Desaguadero_M,18.15,2.79,71.71,25.75,
+2024-11-04,El Tejar (Tarija),,,,,13.4
 2024-11-04,Huarisuyo (GPRS),19.37,0.17,97.1,25.54,0.9
 2024-11-04,Isla Suriqui_M (GPRS),18.49,9.13,82.4,31.97,
 2024-11-04,Jesús de Machaca_M (GPRS),19.94,-1.03,71.57,19.79,
@@ -57514,13 +57880,16 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-04,Palos Blancos_M (GPRS),,,,,27.1
 2024-11-04,Pocona - SDC (GPRS),27.46,12.83,90.3,28.63,
 2024-11-04,Pojo - SDC (GPRS),26.89,18.3,78.41,38.79,
+2024-11-04,Potosi Los Pinos,,,,,8.0
 2024-11-04,Potosí,22.0,8.0,45.5,19.4,
 2024-11-04,Puerto Suarez,36.0,26.0,87.9,46.8,
+2024-11-04,Punilla,,,,,4.6
 2024-11-04,Putucuni Calientes (GPRS),12.52,2.12,97.2,45.71,6.0
 2024-11-04,Reyes,36.0,28.0,78.2,46.8,
 2024-11-04,Riberalta,33.0,26.0,93.4,58.5,
 2024-11-04,Rurrenabaque,35.0,25.0,99.1,52.3,
 2024-11-04,Sacacani_M (GPRS),,,,,1.2
+2024-11-04,Samasa,,,,,4.2
 2024-11-04,San Jacinto_M (GPRS),25.61,16.39,96.8,53.57,
 2024-11-04,San Jose de Chiquitos,38.0,27.0,82.9,39.5,
 2024-11-04,San Julian - Comunidad Los Angeles (GPRS),35.82,25.62,89.9,51.27,0.2
@@ -57531,6 +57900,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-04,San Roque - El Alto (GPRS),20.42,4.32,93.6,28.3,0.8
 2024-11-04,Santa Ana - Yacuma,35.0,25.0,93.3,52.5,
 2024-11-04,Sauce Pilata - SDC (GPRS),26.32,13.46,90.4,32.79,
+2024-11-04,Sucre SENAMHI,,,,,1.4
 2024-11-04,Sultaca_M (GPRS),,,,,0.2
 2024-11-04,Sunjani (GPRS),18.11,4.57,93.4,23.49,0.5
 2024-11-04,Tarija,27.0,17.0,87.3,47.4,
@@ -57547,10 +57917,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-04,Vivero Chimboco - SDC (GPRS),29.87,15.71,62.36,12.8,
 2024-11-04,Vivero Viloma - SDC (GPRS),29.69,12.71,87.0,1.8,
 2024-11-04,Yacuiba,31.0,23.0,93.3,69.7,
+2024-11-04,Yesera Norte,,,,,1.1
 2024-11-04,Yotala,,,,,1.6
+2024-11-04,Zudañez,,,,,4.2
 2024-11-05,4 Esquinas (GPRS),15.38,4.31,,,4.1
 2024-11-05,Aguadas (GPRS),8.05,7.45,76.25,73.15,5.8
 2024-11-05,Aiquile (GPRS),36.1,15.31,85.3,31.65,
+2024-11-05,Alcantarí_Aeropuerto,,,,,0.8
 2024-11-05,Alto Peñas (GPRS),17.52,5.04,98.3,34.4,
 2024-11-05,Buena Vista S.(GPRS),,,,,1.0
 2024-11-05,Camiri,26.0,26.0,73.3,73.3,
@@ -57560,8 +57933,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-05,Cuatro Cañadas - CEA-2 (GPRS),35.96,22.18,97.9,50.33,
 2024-11-05,Cuatro Cañadas - Colonia Chihuahua (GPRS),37.61,23.09,98.7,43.99,
 2024-11-05,Desaguadero_M,8.48,8.48,45.27,45.27,
+2024-11-05,El Tejar (Tarija),,,,,1.4
 2024-11-05,Huancane Corapata_M (GPRS),,,,,0.1
 2024-11-05,Huarisuyo (GPRS),19.5,3.89,98.1,31.78,
+2024-11-05,Ibibobo,,,,,43.0
 2024-11-05,Incapampa - Coroico_M (GPRS),,,,,2.8
 2024-11-05,Isla Suriqui_M (GPRS),10.52,10.52,72.6,72.6,
 2024-11-05,Ixiamas S.(GPRS),,,,,0.4
@@ -57571,6 +57946,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-05,Magdalena,28.0,28.0,83.0,83.0,
 2024-11-05,Mairana_M (GPRS),24.07,24.07,73.39,73.39,
 2024-11-05,Mizque - SDC (GPRS),29.4,17.03,78.47,26.0,0.4
+2024-11-05,Narvaez,,,,,62.5
 2024-11-05,Oruro (GPRS),22.0,6.0,86.7,35.2,
 2024-11-05,Pailon - Pozo del Tigre (GPRS),36.06,22.7,98.1,48.69,
 2024-11-05,Palos Blancos S.(GPRS),,,,,0.4
@@ -57584,6 +57960,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-05,Reyes,38.0,28.0,83.0,44.6,
 2024-11-05,Riberalta,28.0,28.0,83.0,83.0,
 2024-11-05,Rurrenabaque,36.0,24.0,99.1,46.8,
+2024-11-05,Sachapera,,,,,50.4
 2024-11-05,San Jacinto_M (GPRS),22.53,14.93,92.6,53.03,
 2024-11-05,San Jose de Chiquitos,27.0,23.0,93.2,78.1,
 2024-11-05,San Julian - Comunidad Los Angeles (GPRS),36.96,23.73,93.1,45.2,
@@ -57610,6 +57987,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-05,Vivero Chimboco - SDC (GPRS),27.12,12.89,87.2,22.11,
 2024-11-05,Vivero Viloma - SDC (GPRS),27.71,12.82,84.7,2.63,13.2
 2024-11-05,Yacuiba,23.0,19.0,99.1,87.7,
+2024-11-05,Yesera Norte,,,,,11.4
 2024-11-06, Paniagua_M (GPRS),,,,,83.2
 2024-11-06,4 Esquinas (GPRS),16.48,3.96,,,19.3
 2024-11-06,Aguadas (GPRS),6.98,6.98,87.1,87.1,10.6
@@ -57622,6 +58000,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-06,Camargo_H (GPRS),,,,,13.5
 2024-11-06,Camargo_M (GPRS),,,,,14.1
 2024-11-06,Camiri,22.0,22.0,77.4,77.4,
+2024-11-06,Capinota,,,,,33.5
 2024-11-06,Caranavi_H (GPRS),,,,,53.9
 2024-11-06,Carura_M (GPRS),,,,,42.3
 2024-11-06,Chua Cocani_M (GPRS),18.63,7.83,75.49,31.26,14.3
@@ -57645,6 +58024,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-06,Magdalena,26.0,26.0,87.9,87.9,
 2024-11-06,Mairana_M (GPRS),20.19,20.19,85.0,85.0,8.8
 2024-11-06,Mizque - SDC (GPRS),29.39,17.1,71.49,33.88,
+2024-11-06,Narvaez,,,,,10.0
 2024-11-06,Nuevo Mundo,,,,,16.2
 2024-11-06,Oruro (GPRS),12.0,10.0,75.7,66.3,
 2024-11-06,Pailon - Pozo del Tigre (GPRS),30.46,23.36,97.5,69.27,0.8
@@ -57652,19 +58032,25 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-06,Palos Blancos_M (GPRS),,,,,47.8
 2024-11-06,Pocona - SDC (GPRS),23.1,13.86,87.4,47.24,14.2
 2024-11-06,Pojo - SDC (GPRS),23.41,16.93,82.8,53.71,
+2024-11-06,Potosi Los Pinos,,,,,2.0
 2024-11-06,Potosí,18.0,11.0,61.6,31.7,
 2024-11-06,Presa Misicuni (GPRS),,,,,7.6
 2024-11-06,Puerto Suarez,35.0,28.0,78.2,49.5,
+2024-11-06,Punilla,,,,,15.4
 2024-11-06,Putucuni Calientes (GPRS),3.28,3.28,96.5,96.5,5.8
 2024-11-06,Reyes,30.0,22.0,99.1,69.5,
 2024-11-06,Riberalta,26.0,26.0,87.9,87.9,
 2024-11-06,Riberalta_H (GPRS),,,,,0.5
 2024-11-06,Rurrenabaque,28.0,22.0,99.1,73.6,
+2024-11-06,Sachapera,,,,,8.3
 2024-11-06,Salo_M (GPRS),,,,,0.5
+2024-11-06,Samasa,,,,,2.4
+2024-11-06,San Benito,,,,,1.0
 2024-11-06,San Buenaventura_M (GPRS),,,,,38.5
 2024-11-06,San Jacinto_M (GPRS),26.4,14.26,98.8,51.98,
 2024-11-06,San Javier,22.0,22.0,93.2,93.2,
 2024-11-06,San Jose de Chiquitos,32.0,24.0,93.3,62.2,
+2024-11-06,San Julian,,,,,23.0
 2024-11-06,San Julian - Comunidad Los Angeles (GPRS),34.19,24.46,96.6,49.64,0.1
 2024-11-06,San Julian - Nucleo 32 (GPRS),33.11,24.8,,,
 2024-11-06,San Pedro - Río Victoria (GPRS),29.36,23.03,94.9,69.99,1.2
@@ -57674,6 +58060,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-06,San Roque - El Alto (GPRS),15.72,10.36,70.75,49.08,
 2024-11-06,Santa Ana - Yacuma,23.0,23.0,99.1,99.1,
 2024-11-06,Sauce Pilata - SDC (GPRS),13.12,13.12,97.3,97.3,16.1
+2024-11-06,Sucre SENAMHI,,,,,2.4
 2024-11-06,Sultaca_M (GPRS),,,,,0.6
 2024-11-06,Sunjani (GPRS),7.26,7.26,85.3,85.3,5.5
 2024-11-06,Tarija,19.0,19.0,77.0,77.0,
@@ -57694,6 +58081,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-06,Vivero Chimboco - SDC (GPRS),28.58,15.5,75.74,19.61,1.1
 2024-11-06,Vivero Viloma - SDC (GPRS),26.76,15.23,70.72,9.6,
 2024-11-06,Yacuiba,25.0,22.0,87.7,77.8,
+2024-11-06,Yesera Norte,,,,,6.0
 2024-11-07, Paniagua_M (GPRS),,,,,0.7
 2024-11-07,4 Esquinas (GPRS),14.7,2.15,,,0.2
 2024-11-07,Aguadas (GPRS),19.48,7.46,82.1,38.04,
@@ -57712,6 +58100,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-07,Cuatro Cañadas - CEA-2 (GPRS),27.04,27.04,86.6,86.6,
 2024-11-07,Cuatro Cañadas - Colonia Chihuahua (GPRS),28.26,28.26,77.02,77.02,
 2024-11-07,Desaguadero_M,12.99,7.96,43.14,16.01,
+2024-11-07,El Tejar (Tarija),,,,,19.3
 2024-11-07,Guanay_H (GPRS),,,,,2.8
 2024-11-07,Guayaramerin_M (GPRS),,,,,13.6
 2024-11-07,Huarisuyo (GPRS),21.31,3.85,98.3,18.55,
@@ -57723,6 +58112,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-07,Magdalena,30.0,24.0,99.1,99.1,
 2024-11-07,Mairana_M (GPRS),21.37,21.37,75.66,75.66,
 2024-11-07,Mizque - SDC (GPRS),27.99,18.2,76.92,30.31,
+2024-11-07,Narvaez,,,,,40.5
 2024-11-07,Omereque - SDC (GPRS),32.28,23.22,62.42,28.26,
 2024-11-07,Oruro (GPRS),6.0,6.0,75.0,65.6,
 2024-11-07,Pailon - Pozo del Tigre (GPRS),27.66,27.66,82.1,82.1,
@@ -57730,15 +58120,19 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-07,Palos Blancos_M (GPRS),,,,,0.6
 2024-11-07,Pocona - SDC (GPRS),25.45,14.12,91.3,39.69,
 2024-11-07,Pojo - SDC (GPRS),25.77,19.16,74.76,47.27,
+2024-11-07,Potosi Los Pinos,,,,,0.5
 2024-11-07,Potosí,19.0,9.0,70.4,27.7,
 2024-11-07,Puerto Rico S.(GPRS),,,,,4.0
 2024-11-07,Puerto Suarez,34.0,24.0,93.3,55.3,
+2024-11-07,Punilla,,,,,10.6
 2024-11-07,Putucuni Calientes (GPRS),7.84,7.8,83.4,74.69,0.2
 2024-11-07,Reyes,30.0,25.0,93.3,69.7,
 2024-11-07,Riberalta,30.0,24.0,87.9,87.9,
 2024-11-07,Riberalta_H (GPRS),,,,,12.5
 2024-11-07,Rurrenabaque,28.0,24.0,99.1,73.6,
+2024-11-07,Sachapera,,,,,36.1
 2024-11-07,Salo_M (GPRS),,,,,0.5
+2024-11-07,San Benito,,,,,4.0
 2024-11-07,San Buenaventura_M (GPRS),,,,,9.1
 2024-11-07,San Jacinto_M (GPRS),21.7,15.48,97.6,62.29,10.4
 2024-11-07,San Javier,22.0,22.0,99.1,99.1,
@@ -57770,14 +58164,17 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-07,Vivero Chimboco - SDC (GPRS),26.54,15.2,71.43,20.34,
 2024-11-07,Vivero Viloma - SDC (GPRS),27.83,16.71,59.32,2.48,
 2024-11-07,Yacuiba,27.0,21.0,99.1,73.5,
+2024-11-07,Yesera Norte,,,,,33.1
 2024-11-08, Paniagua_M (GPRS),,,,,19.7
 2024-11-08,4 Esquinas (GPRS),15.83,2.76,,,1.3
 2024-11-08,Aguadas (GPRS),19.19,2.02,93.6,38.19,3.2
 2024-11-08,Aiquile (GPRS),33.86,15.0,84.1,32.52,0.2
+2024-11-08,Alcantarí_Aeropuerto,,,,,0.1
 2024-11-08,Alto Peñas (GPRS),18.96,2.54,100.0,19.73,
 2024-11-08,Apolo_M (GPRS),,,,,2.7
 2024-11-08,Buena Vista S.(GPRS),,,,,0.8
 2024-11-08,Camiri,26.0,26.0,73.3,73.3,
+2024-11-08,Capinota,,,,,2.7
 2024-11-08,Carura_M (GPRS),,,,,0.2
 2024-11-08,Chua Cocani_M (GPRS),19.35,4.24,78.47,30.84,
 2024-11-08,Concepcion,30.0,22.0,99.1,65.6,
@@ -57786,6 +58183,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-08,Cuatro Cañadas - CEA-2 (GPRS),34.13,23.43,93.8,50.65,24.8
 2024-11-08,Cuatro Cañadas - Colonia Chihuahua (GPRS),36.5,21.65,95.5,43.04,0.4
 2024-11-08,Desaguadero_M,17.63,7.43,76.88,18.22,
+2024-11-08,El Tejar (Tarija),,,,,3.8
 2024-11-08,Guanay_H (GPRS),,,,,0.4
 2024-11-08,Huarisuyo (GPRS),20.61,-0.18,98.7,24.75,
 2024-11-08,Incapampa - Coroico_M (GPRS),,,,,7.4
@@ -57797,6 +58195,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-08,Magdalena,25.0,25.0,99.1,99.1,
 2024-11-08,Mairana_M (GPRS),29.86,18.02,99.8,45.1,33.0
 2024-11-08,Mizque - SDC (GPRS),27.52,16.07,84.9,30.1,1.8
+2024-11-08,Narvaez,,,,,24.5
 2024-11-08,Omereque - SDC (GPRS),31.78,19.86,68.98,27.43,
 2024-11-08,Oruro (GPRS),23.0,6.0,80.5,38.0,
 2024-11-08,Pailon - Pozo del Tigre (GPRS),34.83,22.25,94.6,48.75,27.0
@@ -57804,14 +58203,18 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-08,Palos Blancos_M (GPRS),,,,,13.1
 2024-11-08,Pocona - SDC (GPRS),24.86,13.23,90.8,39.01,20.1
 2024-11-08,Pojo - SDC (GPRS),26.62,15.48,81.6,40.36,
+2024-11-08,Potosi Los Pinos,,,,,4.5
 2024-11-08,Potosí,16.0,10.0,53.2,30.8,
 2024-11-08,Presa Misicuni (GPRS),,,,,7.1
 2024-11-08,Puerto Rico S.(GPRS),,,,,1.6
 2024-11-08,Puerto Suarez,33.0,26.0,87.9,46.0,
+2024-11-08,Punilla,,,,,9.2
 2024-11-08,Putucuni Calientes (GPRS),10.5,0.79,96.5,67.04,9.0
 2024-11-08,Reyes,33.0,24.0,93.3,58.7,
 2024-11-08,Riberalta,26.0,26.0,87.9,87.9,
 2024-11-08,Rurrenabaque,31.0,23.0,99.1,65.6,
+2024-11-08,Sachapera,,,,,22.0
+2024-11-08,San Benito,,,,,4.0
 2024-11-08,San Buenaventura_M (GPRS),,,,,6.1
 2024-11-08,San Jacinto_M (GPRS),23.8,15.42,94.1,50.81,2.8
 2024-11-08,San Jose de Chiquitos,33.0,27.0,88.0,58.8,
@@ -57823,6 +58226,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-08,San Pedro de Buena Vista (GPRS),23.37,10.41,90.2,42.47,39.3
 2024-11-08,Santa Ana - Yacuma,25.0,25.0,93.3,93.3,
 2024-11-08,Sauce Pilata - SDC (GPRS),21.21,11.08,100.0,45.37,1.6
+2024-11-08,Sucre SENAMHI,,,,,27.8
 2024-11-08,Sultaca_M (GPRS),,,,,4.0
 2024-11-08,Sunjani (GPRS),16.34,2.39,93.9,37.8,2.3
 2024-11-08,Tarija,19.0,19.0,72.2,72.2,
@@ -57842,11 +58246,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-08,Vivero Chimboco - SDC (GPRS),26.88,12.11,75.45,23.0,0.1
 2024-11-08,Vivero Viloma - SDC (GPRS),28.33,12.87,69.48,0.73,0.5
 2024-11-08,Yacuiba,27.0,21.0,99.1,78.1,
+2024-11-08,Yesera Norte,,,,,5.0
 2024-11-08,Yotala,,,,,4.0
+2024-11-08,Zudañez,,,,,16.3
 2024-11-09, Paniagua_M (GPRS),,,,,1.3
 2024-11-09,4 Esquinas (GPRS),15.43,4.08,,,6.4
 2024-11-09,Aguadas (GPRS),20.04,3.44,88.9,23.45,3.9
 2024-11-09,Aiquile (GPRS),37.13,11.24,84.9,26.33,
+2024-11-09,Alcantarí_Aeropuerto,,,,,23.1
 2024-11-09,Alto Peñas (GPRS),16.0,2.38,98.0,30.7,0.1
 2024-11-09,Apolo_M (GPRS),,,,,0.3
 2024-11-09,Buena Vista S.(GPRS),,,,,0.4
@@ -57867,6 +58274,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-09,Jesús de Machaca_M (GPRS),19.22,-1.1,81.7,23.27,
 2024-11-09,Mairana_M (GPRS),30.83,15.33,100.0,44.97,0.2
 2024-11-09,Mizque - SDC (GPRS),29.5,11.18,89.5,23.8,1.9
+2024-11-09,Narvaez,,,,,4.0
 2024-11-09,Nuevo Mundo,,,,,28.1
 2024-11-09,Omereque - SDC (GPRS),32.64,18.92,73.98,24.0,
 2024-11-09,Oruro (GPRS),20.0,10.0,70.6,45.6,
@@ -57875,6 +58283,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-09,Palos Blancos_M (GPRS),,,,,4.7
 2024-11-09,Pocona - SDC (GPRS),25.8,8.13,94.6,36.45,
 2024-11-09,Pojo - SDC (GPRS),25.32,13.19,77.52,40.64,
+2024-11-09,Poroma (CHQ),,,,,14.2
 2024-11-09,Potosí,16.0,9.0,56.9,36.0,
 2024-11-09,Presa Misicuni (GPRS),,,,,0.3
 2024-11-09,Puerto Rico S.(GPRS),,,,,4.2
@@ -57883,7 +58292,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-09,Riberalta,25.0,25.0,93.3,93.3,
 2024-11-09,Riberalta_H (GPRS),,,,,2.5
 2024-11-09,Rurrenabaque,32.0,24.0,99.1,66.0,
+2024-11-09,Sachapera,,,,,1.5
 2024-11-09,Salo_M (GPRS),,,,,2.4
+2024-11-09,Samasa,,,,,3.4
+2024-11-09,San Benito,,,,,4.0
 2024-11-09,San Borja,32.0,32.0,66.0,66.0,
 2024-11-09,San Buenaventura_M (GPRS),,,,,0.1
 2024-11-09,San Jacinto_M (GPRS),25.86,15.9,92.2,51.5,
@@ -57894,6 +58306,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-09,San Pedro de Buena Vista (GPRS),26.38,12.23,84.3,30.21,0.9
 2024-11-09,Santa Ana - Yacuma,21.0,21.0,99.1,99.1,
 2024-11-09,Sauce Pilata - SDC (GPRS),22.84,11.36,76.65,43.03,
+2024-11-09,Sucre SENAMHI,,,,,10.0
 2024-11-09,Sunjani (GPRS),16.44,1.26,97.4,39.34,3.3
 2024-11-09,Tarija,17.0,17.0,76.7,76.7,
 2024-11-09,Templo (GPRS),13.25,-0.2,97.4,45.57,1.1
@@ -58026,6 +58439,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-11,Vivero Chimboco - SDC (GPRS),30.71,12.41,61.67,9.54,
 2024-11-11,Vivero Viloma - SDC (GPRS),32.01,14.94,54.97,0.22,
 2024-11-11,Yacuiba,34.0,24.0,87.8,58.8,
+2024-11-11,Zudañez,,,,,13.2
 2024-11-12, Paniagua_M (GPRS),,,,,38.9
 2024-11-12,4 Esquinas (GPRS),14.64,5.76,,,
 2024-11-12,Aguadas (GPRS),9.82,9.82,61.2,61.2,
@@ -58044,9 +58458,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-12,Cuatro Cañadas - CEA-2 (GPRS),19.09,19.09,82.7,82.7,19.4
 2024-11-12,Cuatro Cañadas - Colonia Chihuahua (GPRS),23.42,17.27,93.5,52.49,6.4
 2024-11-12,Desaguadero_M,16.32,8.48,82.7,39.5,
+2024-11-12,El Tejar (Tarija),,,,,5.6
 2024-11-12,Guanay_H (GPRS),,,,,24.7
 2024-11-12,Guayaramerin_M (GPRS),,,,,5.0
 2024-11-12,Huarisuyo (GPRS),7.03,7.03,86.9,86.9,0.5
+2024-11-12,Ibibobo,,,,,3.0
 2024-11-12,Incapampa - Coroico_M (GPRS),,,,,14.4
 2024-11-12,Isla Suriqui_M (GPRS),14.77,8.87,85.4,48.83,
 2024-11-12,Jesús de Machaca_M (GPRS),16.51,3.29,96.6,36.98,
@@ -58062,14 +58478,17 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-12,Palos Blancos_M (GPRS),,,,,0.2
 2024-11-12,Pocona - SDC (GPRS),16.1,16.1,72.59,72.59,
 2024-11-12,Pojo - SDC (GPRS),18.7,18.7,68.16,68.16,
+2024-11-12,Poroma (CHQ),,,,,26.4
 2024-11-12,Potosí,19.0,9.0,47.4,27.7,
 2024-11-12,Puerto Suarez,27.0,22.0,82.5,68.7,
 2024-11-12,Putucuni Calientes (GPRS),5.35,5.35,83.7,83.7,
 2024-11-12,Reyes,25.0,21.0,99.1,93.2,
 2024-11-12,Riberalta,26.0,26.0,87.9,87.9,
 2024-11-12,Rurrenabaque,26.0,21.0,100.0,87.8,
+2024-11-12,Sachapera,,,,,1.4
 2024-11-12,San Jacinto_M (GPRS),16.21,9.11,96.3,55.45,0.3
 2024-11-12,San Jose de Chiquitos,21.0,19.0,93.1,77.1,
+2024-11-12,San Juan de Yapacaní,,,,,49.2
 2024-11-12,San Julian - Comunidad Los Angeles (GPRS),18.11,18.11,93.3,93.3,2.1
 2024-11-12,San Julian - Nucleo 32 (GPRS),18.57,18.57,,,6.2
 2024-11-12,San Pedro - Río Victoria (GPRS),18.51,18.51,93.1,93.1,14.2
@@ -58095,6 +58514,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-12,Vivero Chimboco - SDC (GPRS),27.29,11.98,94.3,22.4,
 2024-11-12,Vivero Viloma - SDC (GPRS),19.65,19.65,31.17,31.17,
 2024-11-12,Yacuiba,23.0,19.0,72.1,56.4,
+2024-11-12,Yesera Norte,,,,,4.6
 2024-11-13, Paniagua_M (GPRS),,,,,2.3
 2024-11-13,4 Esquinas (GPRS),14.36,0.0,,,0.8
 2024-11-13,Aguadas (GPRS),18.29,2.28,93.8,43.3,2.3
@@ -58120,6 +58540,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-13,Magdalena,21.0,21.0,82.2,82.2,
 2024-11-13,Mairana_M (GPRS),19.8,19.8,58.55,58.55,
 2024-11-13,Mizque - SDC (GPRS),16.58,16.58,63.34,63.34,
+2024-11-13,Narvaez,,,,,25.0
 2024-11-13,Omereque - SDC (GPRS),20.82,17.44,55.1,47.63,
 2024-11-13,Oruro (GPRS),22.0,5.0,86.3,40.3,
 2024-11-13,Pailon - Pozo del Tigre (GPRS),20.88,20.88,56.69,56.69,
@@ -58127,6 +58548,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-13,Palos Blancos_M (GPRS),,,,,1.4
 2024-11-13,Pocona - SDC (GPRS),13.91,13.91,78.56,78.56,1.5
 2024-11-13,Pojo - SDC (GPRS),18.76,18.76,59.03,59.03,
+2024-11-13,Potosi Los Pinos,,,,,4.0
 2024-11-13,Potosí,19.0,10.0,75.7,29.8,
 2024-11-13,Presa Misicuni (GPRS),,,,,11.7
 2024-11-13,Puerto Rico S.(GPRS),,,,,68.8
@@ -58140,6 +58562,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-13,San Buenaventura_M (GPRS),,,,,5.0
 2024-11-13,San Jacinto_M (GPRS),25.58,9.33,92.1,21.88,
 2024-11-13,San Jose de Chiquitos,28.0,20.0,82.1,61.3,
+2024-11-13,San Julian,,,,,28.0
 2024-11-13,San Julian - Comunidad Los Angeles (GPRS),20.07,20.07,65.4,65.4,0.8
 2024-11-13,San Julian - Nucleo 32 (GPRS),20.15,20.15,,,4.6
 2024-11-13,San Pedro - Río Victoria (GPRS),19.76,19.76,70.77,70.77,8.6
@@ -58161,6 +58584,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-13,Vivero Chimboco - SDC (GPRS),24.14,12.45,87.4,33.38,1.5
 2024-11-13,Vivero Viloma - SDC (GPRS),13.03,13.03,77.11,77.11,1.0
 2024-11-13,Yacuiba,29.0,21.0,82.3,45.0,
+2024-11-13,Yesera Norte,,,,,5.0
 2024-11-14,4 Esquinas (GPRS),7.98,7.98,,,3.3
 2024-11-14,Aguadas (GPRS),8.97,8.97,71.7,71.7,
 2024-11-14,Aiquile (GPRS),24.1,24.1,42.93,42.93,
@@ -58185,6 +58609,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-14,Palos Blancos S.(GPRS),,,,,0.2
 2024-11-14,Pocona - SDC (GPRS),14.53,14.53,70.64,70.64,
 2024-11-14,Pojo - SDC (GPRS),19.8,19.8,56.51,56.51,
+2024-11-14,Potosi Los Pinos,,,,,3.0
 2024-11-14,Potosí,17.0,10.0,66.1,38.9,
 2024-11-14,Presa Misicuni (GPRS),,,,,0.6
 2024-11-14,Puerto Suarez,37.0,25.0,60.6,32.6,
@@ -58223,6 +58648,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-15,Aiquile (GPRS),17.41,17.41,55.16,55.16,
 2024-11-15,Alto Peñas (GPRS),11.21,11.21,71.5,71.5,0.6
 2024-11-15,Camiri,20.0,20.0,59.5,59.5,
+2024-11-15,Capinota,,,,,1.8
 2024-11-15,Chua Cocani_M (GPRS),11.81,11.81,59.61,59.61,0.2
 2024-11-15,Concepcion,33.0,23.0,93.3,52.1,
 2024-11-15,Cotagaita (GPRS),,,,,2.8
@@ -58242,6 +58668,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-15,Palos Blancos S.(GPRS),,,,,0.2
 2024-11-15,Pocona - SDC (GPRS),14.84,14.84,64.89,64.89,
 2024-11-15,Pojo - SDC (GPRS),19.55,19.55,49.32,49.32,
+2024-11-15,Potosi Los Pinos,,,,,6.0
 2024-11-15,Potosí,16.0,7.0,86.5,44.5,
 2024-11-15,Puerto Suarez,39.0,29.0,54.3,29.2,
 2024-11-15,Putucuni Calientes (GPRS),5.7,5.7,71.9,71.9,1.7
@@ -58278,6 +58705,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-16,Anzaldo_M (GPRS),,,,,1.3
 2024-11-16,Apolo_M (GPRS),,,,,9.6
 2024-11-16,Camiri,25.0,25.0,56.9,56.9,
+2024-11-16,Capinota,,,,,15.7
 2024-11-16,Chua Cocani_M (GPRS),9.91,9.91,75.17,75.17,1.0
 2024-11-16,Concepcion,33.0,22.0,93.2,55.3,
 2024-11-16,Cotagaita (GPRS),,,,,1.8
@@ -58292,6 +58720,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-16,Pailon - Pozo del Tigre (GPRS),36.72,25.99,84.9,41.68,
 2024-11-16,Pocona - SDC (GPRS),18.61,18.61,51.86,51.86,
 2024-11-16,Pojo - SDC (GPRS),20.27,20.27,54.01,54.01,0.2
+2024-11-16,Potosi Los Pinos,,,,,7.0
 2024-11-16,Putucuni Calientes (GPRS),3.34,3.34,90.8,90.8,0.3
 2024-11-16,Riberalta,28.0,28.0,78.2,78.2,
 2024-11-16,Rurrenabaque,36.0,21.0,93.2,41.4,
@@ -58322,6 +58751,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-17,4 Esquinas (GPRS),9.23,9.23,,,1.0
 2024-11-17,Aguadas (GPRS),9.64,9.64,76.63,76.63,0.6
 2024-11-17,Aiquile (GPRS),24.2,24.2,59.51,59.51,
+2024-11-17,Alalay (GPRS),12.7,5.95,,,
 2024-11-17,Alto Peñas (GPRS),7.08,7.08,87.6,87.6,1.0
 2024-11-17,Apolo_M (GPRS),,,,,0.2
 2024-11-17,Camargo_H (GPRS),,,,,5.0
@@ -58329,6 +58759,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-17,Camiri,25.0,25.0,60.6,60.6,
 2024-11-17,Caranavi_H (GPRS),,,,,1.5
 2024-11-17,Carura_M (GPRS),,,,,0.6
+2024-11-17,Charazani (GPRS),16.13,9.31,77.79,65.93,
 2024-11-17,Chua Cocani_M (GPRS),9.58,9.58,66.82,66.82,
 2024-11-17,Concepcion,32.0,22.0,93.2,58.5,
 2024-11-17,Coroico_H (GPRS),,,,,6.3
@@ -58348,10 +58779,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-17,Mecapaca_M (GPRS),,,,,15.9
 2024-11-17,Mizque - SDC (GPRS),18.98,18.98,60.15,60.15,
 2024-11-17,Omereque - SDC (GPRS),22.27,17.39,70.0,55.47,
+2024-11-17,Orinoca - UTO (GPRS),14.21,6.39,61.56,50.82,
 2024-11-17,Oruro (GPRS),16.0,6.0,92.6,71.5,
+2024-11-17,Oruro UTO (GPRS),12.72,12.32,,,
 2024-11-17,Pailon - Pozo del Tigre (GPRS),29.81,29.81,68.87,68.87,
 2024-11-17,Palos Blancos S.(GPRS),,,,,0.2
 2024-11-17,Palos Blancos_M (GPRS),,,,,46.0
+2024-11-17,Patacamaya (GPRS),14.41,13.94,,,
 2024-11-17,Pocona - SDC (GPRS),24.07,10.05,88.4,41.2,
 2024-11-17,Pojo - SDC (GPRS),27.41,14.93,80.7,46.09,0.2
 2024-11-17,Presa Misicuni (GPRS),,,,,0.8
@@ -58360,6 +58794,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-17,Riberalta,25.0,25.0,87.9,87.9,
 2024-11-17,Riberalta_H (GPRS),,,,,5.8
 2024-11-17,Rurrenabaque,33.0,24.0,99.1,62.4,
+2024-11-17,Sacabamba (GPRS),21.42,13.87,,,
 2024-11-17,Salo_M (GPRS),,,,,10.5
 2024-11-17,San Buenaventura_M (GPRS),,,,,0.5
 2024-11-17,San Jacinto_M (GPRS),28.61,15.29,98.4,40.7,
@@ -58371,6 +58806,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-17,San Pedro de Buena Vista (GPRS),17.37,17.37,63.2,63.2,
 2024-11-17,Santa Ana - Yacuma,26.0,26.0,87.9,87.9,
 2024-11-17,Sauce Pilata - SDC (GPRS),14.77,14.77,65.41,65.41,
+2024-11-17,Soracachi (GPRS),13.62,9.47,,,
 2024-11-17,Sultaca_M (GPRS),,,,,0.2
 2024-11-17,Sunjani (GPRS),8.99,8.99,82.8,82.8,1.6
 2024-11-17,Tarija,31.0,16.0,99.2,36.8,
@@ -58388,13 +58824,17 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-18,4 Esquinas (GPRS),8.08,8.08,,,1.8
 2024-11-18,Aguadas (GPRS),8.27,8.27,81.2,81.2,14.1
 2024-11-18,Aiquile (GPRS),25.46,25.46,60.92,60.92,
+2024-11-18,Alalay (GPRS),11.2,7.07,100.0,91.03,
 2024-11-18,Alto Peñas (GPRS),8.89,8.89,76.1,76.1,8.8
 2024-11-18,Anzaldo_M (GPRS),,,,,6.4
 2024-11-18,Apolo_M (GPRS),,,,,1.1
 2024-11-18,Camargo_H (GPRS),,,,,20.7
 2024-11-18,Camargo_M (GPRS),,,,,21.7
 2024-11-18,Camiri,24.0,24.0,77.7,77.7,
+2024-11-18,Capinota,,,,,9.3
+2024-11-18,Charazani (GPRS),17.31,9.62,99.97,62.47,0.2
 2024-11-18,Chua Cocani_M (GPRS),7.43,7.43,83.6,83.6,5.0
+2024-11-18,Concepcion,31.0,23.0,87.7,62.0,
 2024-11-18,Cotagaita (GPRS),,,,,1.5
 2024-11-18,Cuatro Cañadas - CEA-2 (GPRS),27.5,27.5,84.2,84.2,
 2024-11-18,Cuatro Cañadas - Colonia Chihuahua (GPRS),27.37,27.37,80.9,80.9,
@@ -58405,19 +58845,35 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-18,Mairana_M (GPRS),22.36,22.36,75.33,75.33,
 2024-11-18,Mecapaca_M (GPRS),,,,,5.3
 2024-11-18,Mizque - SDC (GPRS),18.95,18.95,62.68,62.68,0.1
+2024-11-18,Narvaez,,,,,105.0
 2024-11-18,Omereque - SDC (GPRS),23.31,18.79,74.34,59.01,
+2024-11-18,Orinoca - UTO (GPRS),16.06,6.54,87.64,46.11,0.4
+2024-11-18,Oruro (GPRS),17.0,7.0,92.7,63.0,
+2024-11-18,Oruro UTO (GPRS),16.06,10.62,,,24.4
 2024-11-18,Pailon - Pozo del Tigre (GPRS),25.51,25.51,87.5,87.5,
 2024-11-18,Palos Blancos S.(GPRS),,,,,0.2
+2024-11-18,Patacamaya (GPRS),17.98,8.17,90.09,52.7,
 2024-11-18,Pocona - SDC (GPRS),15.69,15.69,70.77,70.77,
 2024-11-18,Pojo - SDC (GPRS),21.25,21.25,59.95,59.95,
+2024-11-18,Potosi Los Pinos,,,,,3.0
+2024-11-18,Potosí,15.0,9.0,75.5,38.3,
 2024-11-18,Presa Misicuni (GPRS),,,,,3.7
+2024-11-18,Puente Challavito_H (GPRS),,,,,9.6
 2024-11-18,Puerto Rico S.(GPRS),,,,,38.6
+2024-11-18,Puerto Suarez,36.0,24.0,93.3,44.0,
+2024-11-18,Punilla,,,,,25.7
 2024-11-18,Putucuni Calientes (GPRS),5.42,5.42,81.4,81.4,17.0
+2024-11-18,Reyes,32.0,25.0,93.3,66.0,
 2024-11-18,Riberalta,25.0,25.0,87.9,87.9,
 2024-11-18,Riberalta_H (GPRS),,,,,31.3
+2024-11-18,Rurrenabaque,32.0,24.0,99.1,70.0,
+2024-11-18,Sacabamba (GPRS),21.5,11.97,93.15,44.98,
+2024-11-18,Sachapera,,,,,88.4
 2024-11-18,Salo_M (GPRS),,,,,8.1
 2024-11-18,San Buenaventura_M (GPRS),,,,,1.9
 2024-11-18,San Jacinto_M (GPRS),16.16,16.16,94.9,94.9,9.7
+2024-11-18,San Jose de Chiquitos,35.0,26.0,82.9,49.5,
+2024-11-18,San Julian,,,,,20.0
 2024-11-18,San Julian - Comunidad Los Angeles (GPRS),27.66,27.66,84.0,84.0,
 2024-11-18,San Julian - Nucleo 32 (GPRS),27.42,27.42,,,3.6
 2024-11-18,San Pedro - Río Victoria (GPRS),26.47,26.47,87.2,87.2,2.8
@@ -58425,6 +58881,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-18,San Pedro de Buena Vista (GPRS),15.45,15.45,77.92,77.92,7.2
 2024-11-18,Santa Ana - Yacuma,25.0,25.0,99.1,99.1,
 2024-11-18,Sauce Pilata - SDC (GPRS),14.69,14.69,81.2,81.2,
+2024-11-18,Soracachi (GPRS),14.81,5.88,96.18,58.88,17.6
 2024-11-18,Sunjani (GPRS),9.51,9.51,74.82,74.82,5.0
 2024-11-18,Tarija,17.0,17.0,93.1,93.1,
 2024-11-18,Templo (GPRS),5.97,5.97,88.7,88.7,10.3
@@ -58434,9 +58891,477 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-18,Totora i_M (GPRS),,,,,3.9
 2024-11-18,Tupiza_1_H (GPRS),,,,,5.8
 2024-11-18,Tupiza_2_H (GPRS),,,,,8.2
+2024-11-18,Univalle (GPRS),,,,,6.92
 2024-11-18,Vila Vila - SDC (GPRS),17.94,17.94,62.24,62.24,
 2024-11-18,Villa Tunari_H (GPRS),,,,,28.7
+2024-11-18,Villamontes,24.0,22.0,82.4,64.4,
 2024-11-18,Viru Viru,26.0,26.0,93.4,93.4,
 2024-11-18,Viscachas Chirage (GPRS),8.25,8.25,84.3,84.3,1.6
 2024-11-18,Vivero Chimboco - SDC (GPRS),,,,,0.2
 2024-11-18,Vivero Viloma - SDC (GPRS),16.83,16.83,68.14,68.14,
+2024-11-18,Yacuiba,20.0,18.0,99.1,93.1,
+2024-11-18,Yesera Norte,,,,,11.0
+2024-11-19, Paniagua_M (GPRS),,,,,2.3
+2024-11-19,4 Esquinas (GPRS),8.55,8.55,,,0.3
+2024-11-19,Aguadas (GPRS),9.07,9.07,78.61,78.61,0.4
+2024-11-19,Aiquile (GPRS),18.13,18.13,74.01,74.01,
+2024-11-19,Alcantarí_Aeropuerto,,,,,17.8
+2024-11-19,Alto Peñas (GPRS),6.25,6.25,88.9,88.9,21.5
+2024-11-19,Anzaldo_M (GPRS),,,,,15.1
+2024-11-19,Apolo_M (GPRS),,,,,7.6
+2024-11-19,Camargo_H (GPRS),,,,,18.6
+2024-11-19,Camargo_M (GPRS),,,,,17.8
+2024-11-19,Camiri,19.0,19.0,87.4,87.4,
+2024-11-19,Capinota,,,,,36.9
+2024-11-19,Caranavi_H (GPRS),,,,,11.2
+2024-11-19,Carura_M (GPRS),,,,,13.0
+2024-11-19,Chua Cocani_M (GPRS),6.37,6.37,90.3,90.3,16.5
+2024-11-19,Concepcion,28.0,23.0,93.3,69.3,
+2024-11-19,Coroico_H (GPRS),,,,,6.0
+2024-11-19,Cotagaita (GPRS),,,,,24.2
+2024-11-19,Covendo_M (GPRS),,,,,11.4
+2024-11-19,Cuatro Cañadas - CEA-2 (GPRS),21.59,21.59,93.7,93.7,6.8
+2024-11-19,Cuatro Cañadas - Colonia Chihuahua (GPRS),28.6,22.25,100.0,73.25,3.6
+2024-11-19,Culpina,,,,,21.0
+2024-11-19,El Puente_H (GPRS),,,,,32.4
+2024-11-19,Guanay_H (GPRS),,,,,3.0
+2024-11-19,Guayaramerin_M (GPRS),,,,,7.6
+2024-11-19,Huarisuyo (GPRS),8.44,6.65,85.4,80.6,12.3
+2024-11-19,Incapampa - Coroico_M (GPRS),,,,,7.2
+2024-11-19,Ixiamas S.(GPRS),,,,,2.2
+2024-11-19,Ixiamas_M (GPRS),,,,,2.9
+2024-11-19,La Asunta_H (GPRS),,,,,3.5
+2024-11-19,Magdalena,26.0,26.0,93.4,93.4,
+2024-11-19,Mairana_M (GPRS),20.52,20.52,92.9,92.9,8.0
+2024-11-19,Mecapaca_M (GPRS),,,,,9.6
+2024-11-19,Mizque - SDC (GPRS),18.23,18.23,67.66,67.66,
+2024-11-19,Omereque - SDC (GPRS),20.29,18.76,78.42,70.72,
+2024-11-19,Oruro (GPRS),18.0,6.0,92.6,58.9,
+2024-11-19,Pailon - Pozo del Tigre (GPRS),22.38,22.38,98.0,98.0,44.6
+2024-11-19,Palos Blancos_M (GPRS),,,,,15.5
+2024-11-19,Patacamaya (GPRS),,,,,4.4
+2024-11-19,Pocona - SDC (GPRS),16.36,16.36,75.27,75.27,0.1
+2024-11-19,Pojo - SDC (GPRS),18.04,18.04,76.25,76.25,
+2024-11-19,Poroma (CHQ),,,,,26.0
+2024-11-19,Potosi Los Pinos,,,,,10.0
+2024-11-19,Potosí,14.0,7.0,92.7,58.2,
+2024-11-19,Presa Misicuni (GPRS),,,,,0.8
+2024-11-19,Puerto Rico S.(GPRS),,,,,12.4
+2024-11-19,Puerto Suarez,32.0,24.0,93.3,51.8,
+2024-11-19,Punilla,,,,,2.0
+2024-11-19,Putucuni Calientes (GPRS),4.68,4.68,89.7,89.7,7.1
+2024-11-19,Reyes,30.0,25.0,93.3,69.5,
+2024-11-19,Riberalta,25.0,25.0,87.9,87.9,
+2024-11-19,Riberalta_H (GPRS),,,,,0.2
+2024-11-19,Rurrenabaque,27.0,23.0,99.1,88.0,
+2024-11-19,Sachapera,,,,,2.8
+2024-11-19,Salo_M (GPRS),,,,,12.5
+2024-11-19,San Buenaventura_M (GPRS),,,,,37.5
+2024-11-19,San Jacinto_M (GPRS),21.36,15.32,98.6,68.75,0.5
+2024-11-19,San Javier,27.0,22.0,99.1,82.9,
+2024-11-19,San Jose de Chiquitos,32.0,24.0,82.6,61.9,
+2024-11-19,San Juan de Yapacaní,,,,,0.4
+2024-11-19,San Julian - Comunidad Los Angeles (GPRS),23.47,23.47,89.0,89.0,0.2
+2024-11-19,San Julian - Nucleo 32 (GPRS),27.45,23.56,,,8.8
+2024-11-19,San Pedro - Río Victoria (GPRS),23.14,23.14,86.8,86.8,19.4
+2024-11-19,San Pedro - San Antonio (GPRS),22.09,22.09,89.9,89.9,10.6
+2024-11-19,San Pedro de Buena Vista (GPRS),12.88,12.88,97.9,97.9,11.1
+2024-11-19,Santa Ana - Yacuma,24.0,24.0,93.3,93.3,
+2024-11-19,Sauce Pilata - SDC (GPRS),19.6,10.79,100.0,55.05,1.1
+2024-11-19,Sucre SENAMHI,,,,,23.8
+2024-11-19,Sultaca_M (GPRS),,,,,11.6
+2024-11-19,Sunjani (GPRS),7.99,7.99,84.8,84.8,0.5
+2024-11-19,Tarija,16.0,16.0,87.2,87.2,
+2024-11-19,Templo (GPRS),5.54,5.54,93.9,93.9,0.3
+2024-11-19,Temporal - SDC (GPRS),25.62,14.13,54.37,0.06,
+2024-11-19,Tiraque_M (GPRS),10.78,10.78,71.17,71.17,1.2
+2024-11-19,Toma Ravelo_M (GPRS),,,,,12.9
+2024-11-19,Totora i_M (GPRS),,,,,35.8
+2024-11-19,Tupiza_1_H (GPRS),,,,,16.0
+2024-11-19,Tupiza_2_H (GPRS),,,,,14.5
+2024-11-19,Vila Vila - SDC (GPRS),14.72,14.72,83.5,83.5,1.9
+2024-11-19,Villa Rivero_M (GPRS),,,,,0.4
+2024-11-19,Villa Tunari_H (GPRS),,,,,3.6
+2024-11-19,Villamontes,25.0,24.0,68.5,64.6,
+2024-11-19,Viru Viru,22.0,22.0,87.6,87.6,
+2024-11-19,Viscachas Chirage (GPRS),7.34,7.34,89.7,89.7,0.5
+2024-11-19,Vivero Chimboco - SDC (GPRS),24.37,14.43,66.01,30.34,
+2024-11-19,Vivero Viloma - SDC (GPRS),18.15,18.15,3.4,3.4,
+2024-11-19,Yacuiba,20.0,18.0,99.1,93.0,
+2024-11-20, Paniagua_M (GPRS),,,,,2.6
+2024-11-20,4 Esquinas (GPRS),9.17,9.17,,,0.4
+2024-11-20,Aguadas (GPRS),9.38,9.38,77.59,77.59,0.5
+2024-11-20,Aiquile (GPRS),18.89,18.89,69.98,69.98,
+2024-11-20,Alto Peñas (GPRS),13.98,5.72,98.1,61.12,1.5
+2024-11-20,Anzaldo_M (GPRS),,,,,1.7
+2024-11-20,Apolo_M (GPRS),,,,,2.5
+2024-11-20,Camiri,20.0,20.0,87.5,87.5,
+2024-11-20,Carura_M (GPRS),,,,,0.3
+2024-11-20,Chua Cocani_M (GPRS),10.44,10.44,77.97,77.97,0.2
+2024-11-20,Concepcion,31.0,22.0,99.1,65.8,
+2024-11-20,Covendo_M (GPRS),,,,,2.4
+2024-11-20,Cuatro Cañadas - CEA-2 (GPRS),24.61,24.61,94.3,94.3,
+2024-11-20,Cuatro Cañadas - Colonia Chihuahua (GPRS),26.18,26.18,87.6,87.6,
+2024-11-20,Guanay_H (GPRS),,,,,0.1
+2024-11-20,Huarisuyo (GPRS),8.8,7.14,97.6,91.7,
+2024-11-20,Ixiamas S.(GPRS),,,,,4.4
+2024-11-20,Ixiamas_M (GPRS),,,,,47.4
+2024-11-20,La Asunta_H (GPRS),,,,,0.2
+2024-11-20,Magdalena,24.0,24.0,99.1,99.1,
+2024-11-20,Mairana_M (GPRS),20.4,20.4,86.9,86.9,0.2
+2024-11-20,Mizque - SDC (GPRS),17.67,17.67,66.66,66.66,
+2024-11-20,Omereque - SDC (GPRS),21.47,20.02,67.33,62.88,
+2024-11-20,Oruro (GPRS),18.0,6.0,86.7,51.7,
+2024-11-20,Pailon - Pozo del Tigre (GPRS),31.63,24.53,99.7,64.86,
+2024-11-20,Palos Blancos S.(GPRS),,,,,0.2
+2024-11-20,Palos Blancos_M (GPRS),,,,,0.1
+2024-11-20,Pocona - SDC (GPRS),15.71,15.71,77.29,77.29,0.1
+2024-11-20,Pojo - SDC (GPRS),19.35,19.35,71.23,71.23,
+2024-11-20,Potosi Los Pinos,,,,,2.0
+2024-11-20,Potosí,17.0,10.0,75.7,41.8,
+2024-11-20,Presa Misicuni (GPRS),,,,,0.5
+2024-11-20,Puerto Suarez,33.0,25.0,93.3,58.7,
+2024-11-20,Punilla,,,,,4.7
+2024-11-20,Putucuni Calientes (GPRS),5.15,5.15,87.2,87.2,1.1
+2024-11-20,Reyes,32.0,24.0,99.1,65.8,
+2024-11-20,Riberalta,27.0,27.0,82.9,82.9,
+2024-11-20,Rurrenabaque,30.0,23.0,99.1,74.0,
+2024-11-20,Sachapera,,,,,2.8
+2024-11-20,San Buenaventura_M (GPRS),,,,,29.5
+2024-11-20,San Jacinto_M (GPRS),20.89,15.55,92.3,62.44,
+2024-11-20,San Jose de Chiquitos,31.0,25.0,93.4,65.8,
+2024-11-20,San Juan de Yapacaní,,,,,0.4
+2024-11-20,San Julian - Comunidad Los Angeles (GPRS),26.15,26.15,91.7,91.7,0.2
+2024-11-20,San Julian - Nucleo 32 (GPRS),26.05,26.05,,,4.0
+2024-11-20,San Pedro - Río Victoria (GPRS),25.17,25.17,88.6,88.6,
+2024-11-20,San Pedro - San Antonio (GPRS),24.28,24.28,94.5,94.5,0.2
+2024-11-20,San Pedro de Buena Vista (GPRS),16.2,16.2,82.6,82.6,2.2
+2024-11-20,Santa Ana - Yacuma,25.0,25.0,93.3,93.3,
+2024-11-20,Sauce Pilata - SDC (GPRS),20.99,11.3,100.0,58.67,
+2024-11-20,Sunjani (GPRS),9.48,9.48,81.4,81.4,1.7
+2024-11-20,Tarija,17.0,17.0,81.8,81.8,
+2024-11-20,Templo (GPRS),6.98,6.98,85.9,85.9,2.8
+2024-11-20,Temporal - SDC (GPRS),25.64,14.88,44.65,0.05,
+2024-11-20,Tiraque_M (GPRS),13.07,13.07,62.76,62.76,
+2024-11-20,Vila Vila - SDC (GPRS),15.79,15.79,76.35,76.35,0.9
+2024-11-20,Villa Tunari_H (GPRS),,,,,17.2
+2024-11-20,Villamontes,27.0,21.0,93.2,65.0,
+2024-11-20,Viru Viru,25.0,25.0,87.9,87.9,
+2024-11-20,Viscachas Chirage (GPRS),9.42,9.42,81.9,81.9,3.0
+2024-11-20,Vivero Chimboco - SDC (GPRS),25.79,15.02,68.43,29.77,
+2024-11-20,Vivero Viloma - SDC (GPRS),21.96,21.96,24.65,24.65,
+2024-11-20,Yacuiba,26.0,20.0,99.1,73.0,
+2024-11-21, Paniagua_M (GPRS),,,,,7.6
+2024-11-21,4 Esquinas (GPRS),7.98,7.98,,,26.9
+2024-11-21,Aguadas (GPRS),8.21,8.21,85.5,85.5,0.4
+2024-11-21,Aiquile (GPRS),18.47,18.47,76.7,76.7,
+2024-11-21,Alto Peñas (GPRS),7.97,7.97,88.1,88.1,4.8
+2024-11-21,Anzaldo_M (GPRS),,,,,3.6
+2024-11-21,Camiri,21.0,21.0,93.2,93.2,
+2024-11-21,Caranavi_H (GPRS),,,,,2.7
+2024-11-21,Carura_M (GPRS),,,,,8.5
+2024-11-21,Chua Cocani_M (GPRS),10.11,10.11,77.97,77.97,8.7
+2024-11-21,Concepcion,33.0,23.0,99.1,52.1,
+2024-11-21,Coroico_H (GPRS),,,,,62.1
+2024-11-21,Covendo_M (GPRS),,,,,3.5
+2024-11-21,Cuatro Cañadas - CEA-2 (GPRS),26.19,26.19,88.5,88.5,
+2024-11-21,Cuatro Cañadas - Colonia Chihuahua (GPRS),27.8,27.8,85.9,85.9,2.4
+2024-11-21,Guanay_H (GPRS),,,,,7.4
+2024-11-21,Huarisuyo (GPRS),6.56,6.56,94.7,94.7,2.1
+2024-11-21,Incapampa - Coroico_M (GPRS),,,,,42.8
+2024-11-21,Ixiamas S.(GPRS),,,,,0.2
+2024-11-21,Ixiamas_M (GPRS),,,,,0.6
+2024-11-21,La Asunta_H (GPRS),,,,,7.4
+2024-11-21,Magdalena,25.0,25.0,93.3,93.3,
+2024-11-21,Mairana_M (GPRS),20.13,20.13,97.0,97.0,
+2024-11-21,Mecapaca_M (GPRS),,,,,0.1
+2024-11-21,Mizque - SDC (GPRS),18.58,18.58,72.1,72.1,
+2024-11-21,Omereque - SDC (GPRS),22.4,20.44,67.86,64.8,
+2024-11-21,Oruro (GPRS),18.0,7.0,80.6,50.6,
+2024-11-21,Pailon - Pozo del Tigre (GPRS),29.54,24.27,100.0,78.56,
+2024-11-21,Palos Blancos S.(GPRS),,,,,0.2
+2024-11-21,Palos Blancos_M (GPRS),,,,,0.7
+2024-11-21,Pocona - SDC (GPRS),15.49,15.49,80.7,80.7,
+2024-11-21,Pojo - SDC (GPRS),18.55,18.55,77.65,77.65,
+2024-11-21,Potosí,18.0,9.0,70.4,41.8,
+2024-11-21,Presa Misicuni (GPRS),,,,,0.2
+2024-11-21,Puerto Rico S.(GPRS),,,,,13.8
+2024-11-21,Puerto Suarez,34.0,25.0,87.9,52.3,
+2024-11-21,Punilla,,,,,6.3
+2024-11-21,Putucuni Calientes (GPRS),7.07,7.07,89.7,89.7,2.7
+2024-11-21,Reyes,32.0,26.0,93.4,66.0,
+2024-11-21,Riberalta,26.0,26.0,87.9,87.9,
+2024-11-21,Rurrenabaque,31.0,25.0,99.1,74.0,
+2024-11-21,Sachapera,,,,,1.8
+2024-11-21,San Benito,,,,,11.0
+2024-11-21,San Jacinto_M (GPRS),23.6,15.02,96.4,63.95,
+2024-11-21,San Javier,23.0,23.0,99.1,99.1,
+2024-11-21,San Jose de Chiquitos,33.0,26.0,93.4,58.8,
+2024-11-21,San Juan de Yapacaní,,,,,30.2
+2024-11-21,San Julian - Comunidad Los Angeles (GPRS),29.35,29.35,77.87,77.87,0.2
+2024-11-21,San Julian - Nucleo 32 (GPRS),32.15,23.98,,,1.4
+2024-11-21,San Pedro - Río Victoria (GPRS),24.82,24.82,91.4,91.4,
+2024-11-21,San Pedro - San Antonio (GPRS),24.38,24.38,93.7,93.7,2.6
+2024-11-21,San Pedro de Buena Vista (GPRS),14.44,14.44,93.9,93.9,3.0
+2024-11-21,Santa Ana - Yacuma,27.0,27.0,88.0,88.0,
+2024-11-21,Sauce Pilata - SDC (GPRS),21.24,9.84,100.0,55.33,0.3
+2024-11-21,Sultaca_M (GPRS),,,,,1.7
+2024-11-21,Sunjani (GPRS),8.23,8.23,88.8,88.8,0.8
+2024-11-21,Tarija,18.0,18.0,82.0,82.0,
+2024-11-21,Templo (GPRS),5.79,5.79,96.9,96.9,4.6
+2024-11-21,Temporal - SDC (GPRS),26.33,10.36,93.5,0.03,
+2024-11-21,Tiraque_M (GPRS),11.49,11.49,78.4,78.4,
+2024-11-21,Vila Vila - SDC (GPRS),15.21,15.21,82.3,82.3,
+2024-11-21,Villa Rivero_M (GPRS),,,,,1.2
+2024-11-21,Villa Tunari_H (GPRS),,,,,32.3
+2024-11-21,Villamontes,27.0,23.0,93.3,73.5,
+2024-11-21,Viru Viru,27.0,27.0,82.9,82.9,
+2024-11-21,Viscachas Chirage (GPRS),8.6,8.6,87.3,87.3,2.7
+2024-11-21,Vivero Chimboco - SDC (GPRS),27.33,10.6,95.4,24.78,
+2024-11-21,Vivero Viloma - SDC (GPRS),17.69,17.69,64.48,64.48,
+2024-11-21,Yacuiba,25.0,22.0,93.3,77.8,
+2024-11-22, Paniagua_M (GPRS),,,,,12.0
+2024-11-22,4 Esquinas (GPRS),5.0,5.0,,,5.1
+2024-11-22,Aguadas (GPRS),6.66,6.66,82.1,82.1,9.5
+2024-11-22,Aiquile (GPRS),15.6,15.6,92.6,92.6,
+2024-11-22,Alcantarí_Aeropuerto,,,,,12.2
+2024-11-22,Alto Peñas (GPRS),14.37,5.78,100.0,54.74,0.2
+2024-11-22,Anzaldo_M (GPRS),,,,,17.9
+2024-11-22,Apolo_M (GPRS),,,,,8.8
+2024-11-22,Buena Vista S.(GPRS),,,,,0.2
+2024-11-22,Camargo_H (GPRS),,,,,1.7
+2024-11-22,Camargo_M (GPRS),,,,,1.7
+2024-11-22,Camiri,22.0,22.0,93.2,93.2,
+2024-11-22,Capinota,,,,,25.8
+2024-11-22,Caranavi_H (GPRS),,,,,5.5
+2024-11-22,Carura_M (GPRS),,,,,6.4
+2024-11-22,Concepcion,26.0,22.0,99.1,82.8,
+2024-11-22,Coroico_H (GPRS),,,,,13.6
+2024-11-22,Covendo_M (GPRS),,,,,6.5
+2024-11-22,Cuatro Cañadas - CEA-2 (GPRS),25.4,25.4,93.2,93.2,24.6
+2024-11-22,Cuatro Cañadas - Colonia Chihuahua (GPRS),26.76,22.51,100.0,85.8,0.4
+2024-11-22,Guanay_H (GPRS),,,,,4.8
+2024-11-22,Guayaramerin_M (GPRS),,,,,0.8
+2024-11-22,Huarisuyo (GPRS),8.17,7.38,95.7,90.5,2.8
+2024-11-22,Incapampa - Coroico_M (GPRS),,,,,16.6
+2024-11-22,Ixiamas S.(GPRS),,,,,4.8
+2024-11-22,La Asunta_H (GPRS),,,,,3.4
+2024-11-22,Magdalena,25.0,25.0,93.3,93.3,
+2024-11-22,Mairana_M (GPRS),18.22,18.22,99.5,99.5,8.6
+2024-11-22,Mecapaca_M (GPRS),,,,,4.0
+2024-11-22,Mizque - SDC (GPRS),14.23,14.23,87.9,87.9,2.4
+2024-11-22,Omereque - SDC (GPRS),19.08,17.32,94.2,77.36,
+2024-11-22,Oruro (GPRS),16.0,7.0,86.5,54.5,
+2024-11-22,Pailon - Pozo del Tigre (GPRS),26.16,26.16,92.6,92.6,5.2
+2024-11-22,Palos Blancos_M (GPRS),,,,,7.0
+2024-11-22,Pocona - SDC (GPRS),12.68,12.68,95.5,95.5,7.8
+2024-11-22,Pojo - SDC (GPRS),16.27,16.27,86.2,86.2,0.7
+2024-11-22,Potosí,17.0,9.0,75.5,41.8,
+2024-11-22,Presa Misicuni (GPRS),,,,,6.2
+2024-11-22,Puerto Rico S.(GPRS),,,,,1.6
+2024-11-22,Puerto Suarez,32.0,24.0,93.3,62.2,
+2024-11-22,Putucuni Calientes (GPRS),5.3,5.3,90.3,90.3,1.8
+2024-11-22,Reyes,34.0,25.0,93.4,55.5,
+2024-11-22,Riberalta,25.0,25.0,93.3,93.3,
+2024-11-22,Riberalta_H (GPRS),,,,,0.9
+2024-11-22,Rurrenabaque,31.0,24.0,99.1,69.8,
+2024-11-22,Salo_M (GPRS),,,,,6.0
+2024-11-22,San Benito,,,,,5.5
+2024-11-22,San Buenaventura_M (GPRS),,,,,0.7
+2024-11-22,San Jacinto_M (GPRS),16.24,16.24,94.6,94.6,
+2024-11-22,San Jose de Chiquitos,32.0,24.0,93.4,62.2,
+2024-11-22,San Juan de Yapacaní,,,,,4.6
+2024-11-22,San Julian,,,,,99.0
+2024-11-22,San Julian - Comunidad Los Angeles (GPRS),23.41,23.41,100.0,100.0,0.1
+2024-11-22,San Julian - Nucleo 32 (GPRS),23.95,23.95,,,0.8
+2024-11-22,San Pedro - Río Victoria (GPRS),28.82,23.78,95.6,75.94,3.2
+2024-11-22,San Pedro - San Antonio (GPRS),22.59,22.59,97.7,97.7,56.2
+2024-11-22,San Pedro de Buena Vista (GPRS),12.06,12.06,94.7,94.7,4.6
+2024-11-22,Santa Ana - Yacuma,24.0,24.0,93.3,93.3,
+2024-11-22,Sauce Pilata - SDC (GPRS),17.36,9.84,100.0,76.01,16.9
+2024-11-22,Sultaca_M (GPRS),,,,,1.5
+2024-11-22,Sunjani (GPRS),5.88,5.88,83.1,83.1,3.3
+2024-11-22,Tarija,17.0,17.0,87.3,87.3,
+2024-11-22,Templo (GPRS),3.33,3.33,94.6,94.6,3.3
+2024-11-22,Temporal - SDC (GPRS),17.84,12.85,93.0,0.65,10.1
+2024-11-22,Tiraque_M (GPRS),7.78,7.78,91.9,91.9,5.2
+2024-11-22,Tupiza_1_H (GPRS),,,,,0.4
+2024-11-22,Vila Vila - SDC (GPRS),13.35,13.35,73.93,73.93,13.0
+2024-11-22,Villa Rivero_M (GPRS),,,,,3.2
+2024-11-22,Villa Tunari_H (GPRS),,,,,23.3
+2024-11-22,Villamontes,31.0,23.0,93.3,51.6,
+2024-11-22,Viru Viru,23.0,23.0,93.2,93.2,
+2024-11-22,Viscachas Chirage (GPRS),7.36,7.36,82.3,82.3,5.3
+2024-11-22,Vivero Chimboco - SDC (GPRS),18.9,11.95,91.1,49.9,2.8
+2024-11-22,Vivero Viloma - SDC (GPRS),12.01,12.01,98.9,98.9,24.3
+2024-11-22,Yacuiba,29.0,22.0,93.3,57.8,
+2024-11-23, Paniagua_M (GPRS),,,,,7.0
+2024-11-23,4 Esquinas (GPRS),8.28,8.28,,,2.0
+2024-11-23,Aguadas (GPRS),9.82,9.82,72.83,72.83,2.1
+2024-11-23,Aiquile (GPRS),17.1,17.1,90.7,90.7,0.1
+2024-11-23,Alto Peñas (GPRS),8.05,8.05,86.9,86.9,3.2
+2024-11-23,Anzaldo_M (GPRS),,,,,0.3
+2024-11-23,Apolo_M (GPRS),,,,,7.1
+2024-11-23,Buena Vista S.(GPRS),,,,,0.4
+2024-11-23,Camiri,24.0,24.0,82.6,82.6,
+2024-11-23,Caranavi_H (GPRS),,,,,13.8
+2024-11-23,Carura_M (GPRS),,,,,0.9
+2024-11-23,Concepcion,30.0,21.0,99.1,65.6,
+2024-11-23,Coroico_H (GPRS),,,,,6.5
+2024-11-23,Covendo_M (GPRS),,,,,0.8
+2024-11-23,Cuatro Cañadas - CEA-2 (GPRS),25.59,25.59,93.9,93.9,7.4
+2024-11-23,Cuatro Cañadas - Colonia Chihuahua (GPRS),33.82,24.67,100.0,58.57,10.6
+2024-11-23,Guanay_H (GPRS),,,,,2.4
+2024-11-23,Guayaramerin_M (GPRS),,,,,19.0
+2024-11-23,Huarisuyo (GPRS),7.72,7.72,94.3,94.3,
+2024-11-23,Incapampa - Coroico_M (GPRS),,,,,4.2
+2024-11-23,Ixiamas S.(GPRS),,,,,130.6
+2024-11-23,La Asunta_H (GPRS),,,,,2.3
+2024-11-23,Mairana_M (GPRS),22.89,22.89,80.1,80.1,26.6
+2024-11-23,Mecapaca_M (GPRS),,,,,2.7
+2024-11-23,Mizque - SDC (GPRS),16.53,16.53,86.5,86.5,2.2
+2024-11-23,Omereque - SDC (GPRS),20.97,18.22,94.6,79.27,0.2
+2024-11-23,Oruro (GPRS),19.0,9.0,81.0,45.3,
+2024-11-23,Pailon - Pozo del Tigre (GPRS),24.98,24.98,99.5,99.5,15.0
+2024-11-23,Palos Blancos S.(GPRS),,,,,0.2
+2024-11-23,Palos Blancos_M (GPRS),,,,,3.0
+2024-11-23,Pocona - SDC (GPRS),13.87,13.87,95.8,95.8,3.4
+2024-11-23,Pojo - SDC (GPRS),17.26,17.26,89.7,89.7,0.6
+2024-11-23,Presa Misicuni (GPRS),,,,,0.1
+2024-11-23,Puerto Rico S.(GPRS),,,,,12.6
+2024-11-23,Putucuni Calientes (GPRS),4.86,4.86,98.7,98.7,0.9
+2024-11-23,Riberalta,25.0,25.0,93.3,93.3,
+2024-11-23,Riberalta_H (GPRS),,,,,6.7
+2024-11-23,Rurrenabaque,25.0,22.0,99.1,99.1,
+2024-11-23,San Benito,,,,,10.0
+2024-11-23,San Buenaventura_M (GPRS),,,,,24.4
+2024-11-23,San Jacinto_M (GPRS),27.02,16.1,95.9,52.16,
+2024-11-23,San Javier,28.0,28.0,78.2,78.2,
+2024-11-23,San Juan de Yapacaní,,,,,1.4
+2024-11-23,San Julian - Comunidad Los Angeles (GPRS),26.35,26.35,90.0,90.0,0.7
+2024-11-23,San Julian - Nucleo 32 (GPRS),34.37,24.41,,,1.0
+2024-11-23,San Pedro - Río Victoria (GPRS),33.02,23.65,96.5,59.8,3.6
+2024-11-23,San Pedro - San Antonio (GPRS),25.82,25.82,92.8,92.8,1.4
+2024-11-23,San Pedro de Buena Vista (GPRS),12.99,12.99,96.1,96.1,1.1
+2024-11-23,Santa Ana - Yacuma,26.0,26.0,87.9,87.9,
+2024-11-23,Sauce Pilata - SDC (GPRS),19.83,11.98,100.0,62.16,9.3
+2024-11-23,Sunjani (GPRS),8.13,8.13,83.7,83.7,0.9
+2024-11-23,Tarija,28.0,21.0,68.0,68.0,
+2024-11-23,Templo (GPRS),5.64,5.64,92.7,92.7,1.5
+2024-11-23,Temporal - SDC (GPRS),22.11,12.21,95.5,0.56,
+2024-11-23,Tiraque_M (GPRS),11.01,11.01,84.1,84.1,0.5
+2024-11-23,Vila Vila - SDC (GPRS),12.05,12.05,89.7,89.7,14.8
+2024-11-23,Villa Rivero_M (GPRS),,,,,2.2
+2024-11-23,Villa Tunari_H (GPRS),,,,,39.4
+2024-11-23,Viru Viru,29.0,29.0,73.8,73.8,
+2024-11-23,Viscachas Chirage (GPRS),8.76,8.76,89.8,89.8,0.2
+2024-11-23,Vivero Chimboco - SDC (GPRS),20.87,12.79,99.4,53.84,3.3
+2024-11-23,Vivero Viloma - SDC (GPRS),15.33,15.33,81.8,81.8,2.1
+2024-11-24, Paniagua_M (GPRS),,,,,3.0
+2024-11-24,4 Esquinas (GPRS),9.14,9.14,,,16.6
+2024-11-24,Aguadas (GPRS),9.35,9.35,80.2,80.2,13.0
+2024-11-24,Aiquile (GPRS),22.07,22.07,61.72,61.72,0.1
+2024-11-24,Alcantarí_Aeropuerto,,,,,1.2
+2024-11-24,Alto Peñas (GPRS),8.33,8.33,88.7,88.7,1.2
+2024-11-24,Anzaldo_M (GPRS),,,,,10.4
+2024-11-24,Apolo_M (GPRS),,,,,2.7
+2024-11-24,Buena Vista S.(GPRS),,,,,0.4
+2024-11-24,Camiri,25.0,25.0,73.2,73.2,
+2024-11-24,Capinota,,,,,11.7
+2024-11-24,Caranavi_H (GPRS),,,,,0.7
+2024-11-24,Carura_M (GPRS),,,,,8.9
+2024-11-24,Concepcion,33.0,23.0,99.1,52.1,
+2024-11-24,Coroico_H (GPRS),,,,,11.4
+2024-11-24,Covendo_M (GPRS),,,,,18.1
+2024-11-24,Cuatro Cañadas - CEA-2 (GPRS),26.64,26.64,90.8,90.8,
+2024-11-24,Cuatro Cañadas - Colonia Chihuahua (GPRS),34.68,25.65,100.0,54.48,0.2
+2024-11-24,Guanay_H (GPRS),,,,,12.0
+2024-11-24,Guayaramerin_M (GPRS),,,,,15.0
+2024-11-24,Huarisuyo (GPRS),7.84,7.84,91.1,91.1,13.9
+2024-11-24,Incapampa - Coroico_M (GPRS),,,,,6.5
+2024-11-24,Ixiamas S.(GPRS),,,,,4.0
+2024-11-24,La Asunta_H (GPRS),,,,,0.1
+2024-11-24,Mairana_M (GPRS),19.93,19.93,90.0,90.0,0.8
+2024-11-24,Mecapaca_M (GPRS),,,,,12.2
+2024-11-24,Mizque - SDC (GPRS),19.58,19.58,69.93,69.93,2.3
+2024-11-24,Omereque - SDC (GPRS),21.75,17.79,86.0,69.96,0.2
+2024-11-24,Oruro (GPRS),18.0,9.0,86.7,55.0,
+2024-11-24,Pailon - Pozo del Tigre (GPRS),33.98,27.01,90.9,59.41,
+2024-11-24,Palos Blancos S.(GPRS),,,,,0.2
+2024-11-24,Palos Blancos_M (GPRS),,,,,2.7
+2024-11-24,Pocona - SDC (GPRS),14.97,14.97,86.3,86.3,13.6
+2024-11-24,Pojo - SDC (GPRS),18.47,18.47,80.8,80.8,0.2
+2024-11-24,Presa Misicuni (GPRS),,,,,9.5
+2024-11-24,Puerto Rico S.(GPRS),,,,,27.8
+2024-11-24,Putucuni Calientes (GPRS),5.05,5.05,98.6,98.6,7.2
+2024-11-24,Riberalta,25.0,25.0,93.3,93.3,
+2024-11-24,Riberalta_H (GPRS),,,,,5.2
+2024-11-24,Rurrenabaque,32.0,23.0,99.1,69.8,
+2024-11-24,San Buenaventura_M (GPRS),,,,,12.8
+2024-11-24,San Jacinto_M (GPRS),30.7,15.7,94.8,41.81,
+2024-11-24,San Javier,30.0,26.0,88.0,65.6,
+2024-11-24,San Julian - Comunidad Los Angeles (GPRS),27.13,27.13,86.9,86.9,0.9
+2024-11-24,San Julian - Nucleo 32 (GPRS),26.77,26.77,,,0.8
+2024-11-24,San Pedro - Río Victoria (GPRS),33.69,24.13,93.4,58.15,4.4
+2024-11-24,San Pedro - San Antonio (GPRS),26.33,26.33,92.7,92.7,0.4
+2024-11-24,San Pedro de Buena Vista (GPRS),15.37,15.37,86.4,86.4,4.2
+2024-11-24,Santa Ana - Yacuma,26.0,26.0,93.4,93.4,
+2024-11-24,Sauce Pilata - SDC (GPRS),23.06,12.3,99.9,50.72,4.3
+2024-11-24,Sunjani (GPRS),9.54,9.54,78.55,78.55,8.9
+2024-11-24,Tarija,32.0,18.0,82.0,37.9,
+2024-11-24,Templo (GPRS),6.3,6.3,91.4,91.4,14.5
+2024-11-24,Temporal - SDC (GPRS),26.31,13.91,68.03,0.03,
+2024-11-24,Tiraque_M (GPRS),11.14,11.14,89.1,89.1,16.8
+2024-11-24,Vila Vila - SDC (GPRS),16.57,16.57,74.78,74.78,8.6
+2024-11-24,Villa Rivero_M (GPRS),,,,,23.8
+2024-11-24,Villa Tunari_H (GPRS),,,,,0.1
+2024-11-24,Viru Viru,26.0,26.0,88.0,88.0,
+2024-11-24,Viscachas Chirage (GPRS),8.66,8.66,93.5,93.5,4.6
+2024-11-24,Vivero Chimboco - SDC (GPRS),26.37,12.28,93.9,36.94,1.2
+2024-11-24,Vivero Viloma - SDC (GPRS),16.43,16.43,78.75,78.75,4.8
+2024-11-25,4 Esquinas (GPRS),6.4,6.4,,,
+2024-11-25,Aguadas (GPRS),7.97,7.97,81.0,81.0,0.1
+2024-11-25,Aiquile (GPRS),24.03,24.03,60.74,60.74,
+2024-11-25,Alto Peñas (GPRS),,,,,12.9
+2024-11-25,Buena Vista S.(GPRS),,,,,0.4
+2024-11-25,Camiri,26.0,26.0,73.3,73.3,
+2024-11-25,Capinota,,,,,7.5
+2024-11-25,Caranavi_H (GPRS),,,,,10.5
+2024-11-25,Carura_M (GPRS),,,,,1.6
+2024-11-25,Covendo_M (GPRS),,,,,0.6
+2024-11-25,Cuatro Cañadas - Colonia Chihuahua (GPRS),29.31,29.31,75.99,75.99,0.8
+2024-11-25,Huarisuyo (GPRS),8.84,8.84,88.5,88.5,
+2024-11-25,Incapampa - Coroico_M (GPRS),,,,,2.4
+2024-11-25,Ixiamas S.(GPRS),,,,,0.2
+2024-11-25,Magdalena,27.0,27.0,88.0,88.0,
+2024-11-25,Mairana_M (GPRS),23.11,23.11,79.55,79.55,
+2024-11-25,Mecapaca_M (GPRS),,,,,0.2
+2024-11-25,Mizque - SDC (GPRS),18.64,18.64,68.66,68.66,0.9
+2024-11-25,Omereque - SDC (GPRS),22.71,18.0,80.7,62.19,
+2024-11-25,Pailon - Pozo del Tigre (GPRS),30.07,30.07,74.27,74.27,
+2024-11-25,Pocona - SDC (GPRS),17.61,17.61,73.84,73.84,
+2024-11-25,Pojo - SDC (GPRS),,,,,0.1
+2024-11-25,Presa Misicuni (GPRS),,,,,1.5
+2024-11-25,Puerto Rico S.(GPRS),,,,,9.2
+2024-11-25,Putucuni Calientes (GPRS),8.81,8.81,63.59,63.59,0.1
+2024-11-25,Riberalta,26.0,26.0,87.9,87.9,
+2024-11-25,Salo_M (GPRS),,,,,1.7
+2024-11-25,San Buenaventura_M (GPRS),,,,,0.1
+2024-11-25,San Jacinto_M (GPRS),22.14,22.14,75.56,75.56,
+2024-11-25,San Julian - Comunidad Los Angeles (GPRS),29.44,29.44,78.87,78.87,0.3
+2024-11-25,San Julian - Nucleo 32 (GPRS),,,,,1.8
+2024-11-25,San Pedro - Río Victoria (GPRS),28.85,28.85,81.9,81.9,
+2024-11-25,San Pedro - San Antonio (GPRS),28.9,28.9,81.4,81.4,0.4
+2024-11-25,San Pedro de Buena Vista (GPRS),17.31,17.31,77.19,77.19,
+2024-11-25,Santa Ana - Yacuma,27.0,27.0,82.9,82.9,
+2024-11-25,Sauce Pilata - SDC (GPRS),15.77,15.77,78.58,78.58,
+2024-11-25,Sunjani (GPRS),7.56,7.56,89.9,89.9,
+2024-11-25,Tarija,23.0,23.0,68.4,68.4,
+2024-11-25,Templo (GPRS),6.6,6.6,92.9,92.9,
+2024-11-25,Tiraque_M (GPRS),14.89,14.89,64.58,64.58,
+2024-11-25,Totora i_M (GPRS),,,,,12.7
+2024-11-25,Vila Vila - SDC (GPRS),18.3,18.3,66.41,66.41,0.1
+2024-11-25,Villa Rivero_M (GPRS),,,,,0.1
+2024-11-25,Viru Viru,29.0,29.0,73.8,73.8,
+2024-11-25,Viscachas Chirage (GPRS),9.46,9.46,79.6,79.6,
+2024-11-25,Vivero Chimboco - SDC (GPRS),,,,,0.8
