@@ -1,0 +1,422 @@
+fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,humedad_relativa_minima,precipitacion
+2025-01-01,4 Esquinas (GPRS),5.76,5.76,,,0.1
+2025-01-01,Aguadas (GPRS),7.45,7.45,86.2,86.2,
+2025-01-01,Aiquile (GPRS),19.69,19.69,68.51,68.51,
+2025-01-01,Alto Peñas (GPRS),9.4,9.4,70.22,70.22,
+2025-01-01,Camargo_H (GPRS),,,,,0.2
+2025-01-01,Camargo_M (GPRS),,,,,0.3
+2025-01-01,Camiri,25.0,25.0,68.8,68.8,
+2025-01-01,Chua Cocani_M (GPRS),11.23,11.23,58.86,58.86,
+2025-01-01,Concepcion,33.0,22.0,99.1,52.1,
+2025-01-01,Cotagaita (GPRS),,,,,0.4
+2025-01-01,Cotagaita_H (GPRS),,,,,0.5
+2025-01-01,Cuatro Cañadas - CEA-2 (GPRS),27.9,27.9,82.2,82.2,
+2025-01-01,Cuatro Cañadas - Colonia Chihuahua (GPRS),36.65,25.33,92.2,47.45,
+2025-01-01,Desaguadero_M,8.94,8.94,65.22,65.22,
+2025-01-01,El Puente_H (GPRS),,,,,0.9
+2025-01-01,Guajara-Mirim - Guayaramerín,,,,,1.7
+2025-01-01,Huancane Corapata_M (GPRS),,,,,0.6
+2025-01-01,Huarisuyo (GPRS),10.24,6.55,82.1,72.48,
+2025-01-01,Isla Suriqui_M (GPRS),10.05,10.05,76.7,76.7,
+2025-01-01,Jesús de Machaca_M (GPRS),10.04,10.04,53.17,53.17,
+2025-01-01,Mairana_M (GPRS),20.92,20.92,86.0,86.0,
+2025-01-01,Mizque - SDC (GPRS),15.37,15.37,74.55,74.55,
+2025-01-01,Omereque - SDC (GPRS),21.8,19.37,66.47,58.13,
+2025-01-01,Oruro (GPRS),21.0,8.0,80.8,34.9,
+2025-01-01,Pailon - Pozo del Tigre (GPRS),30.3,30.3,73.17,73.17,
+2025-01-01,Palos Blancos S.(GPRS),,,,,0.2
+2025-01-01,Pocona - SDC (GPRS),14.52,14.52,75.9,75.9,
+2025-01-01,Pojo - SDC (GPRS),17.18,17.18,74.06,74.06,0.6
+2025-01-01,Puerto Suarez,37.0,35.0,49.5,34.7,
+2025-01-01,Putucuni Calientes (GPRS),7.04,7.04,65.52,65.52,
+2025-01-01,Riberalta,25.0,25.0,93.3,93.3,
+2025-01-01,Riberalta_H (GPRS),,,,,0.1
+2025-01-01,Rurrenabaque,31.0,24.0,99.1,78.6,
+2025-01-01,San Jacinto_M (GPRS),27.86,16.33,93.3,46.21,
+2025-01-01,San Julian - Comunidad Los Angeles (GPRS),29.88,29.88,74.55,74.55,
+2025-01-01,San Julian - Nucleo 32 (GPRS),29.52,29.52,,,
+2025-01-01,San Pedro - Río Victoria (GPRS),27.3,27.3,88.1,88.1,
+2025-01-01,San Pedro - San Antonio (GPRS),27.52,27.52,88.8,88.8,
+2025-01-01,San Pedro de Buena Vista (GPRS),15.81,15.81,73.25,73.25,1.1
+2025-01-01,San Roque - El Alto (GPRS),19.64,6.5,84.7,32.61,
+2025-01-01,Santa Ana - Yacuma,27.0,27.0,82.9,82.9,
+2025-01-01,Sauce Pilata - SDC (GPRS),24.16,12.88,85.1,45.44,
+2025-01-01,Sultaca_M (GPRS),,,,,4.7
+2025-01-01,Sunjani (GPRS),7.54,7.54,87.0,87.0,
+2025-01-01,Tarija,19.0,19.0,82.1,82.1,
+2025-01-01,Templo (GPRS),6.63,6.63,90.3,90.3,
+2025-01-01,Temporal - SDC (GPRS),28.2,12.19,55.5,0.02,
+2025-01-01,Tiraque_M (GPRS),11.58,11.58,71.5,71.5,
+2025-01-01,Viacha_M (GPRS),9.5,9.5,71.08,71.08,
+2025-01-01,Vila Vila - SDC (GPRS),15.81,15.81,69.16,69.16,
+2025-01-01,Viru Viru,28.0,28.0,78.2,78.2,
+2025-01-01,Viscachas Chirage (GPRS),8.66,8.66,74.06,74.06,
+2025-01-01,Vivero Chimboco - SDC (GPRS),27.13,12.53,78.5,24.05,0.1
+2025-01-01,Vivero Viloma - SDC (GPRS),20.94,20.94,48.46,48.46,
+2025-01-01,Yacuiba,36.0,28.0,69.3,52.8,
+2025-01-02,4 Esquinas (GPRS),7.56,7.56,,,
+2025-01-02,Aguadas (GPRS),7.85,7.85,80.3,80.3,
+2025-01-02,Aiquile (GPRS),22.66,22.66,66.48,66.48,
+2025-01-02,Alto Peñas (GPRS),9.11,9.11,75.66,75.66,
+2025-01-02,Anzaldo_M (GPRS),,,,,0.9
+2025-01-02,Camargo_H (GPRS),,,,,0.2
+2025-01-02,Camargo_M (GPRS),,,,,0.3
+2025-01-02,Camiri,23.0,23.0,93.3,93.3,
+2025-01-02,Chua Cocani_M (GPRS),9.72,9.72,66.53,66.53,
+2025-01-02,Concepcion,31.0,23.0,99.1,62.0,
+2025-01-02,Coroico_H (GPRS),,,,,1.6
+2025-01-02,Cotagaita (GPRS),,,,,12.0
+2025-01-02,Cotagaita_H (GPRS),,,,,16.3
+2025-01-02,Covendo_M (GPRS),,,,,0.2
+2025-01-02,Cuatro Cañadas - CEA-2 (GPRS),35.38,25.41,93.1,51.46,
+2025-01-02,Cuatro Cañadas - Colonia Chihuahua (GPRS),27.94,27.94,82.2,82.2,1.0
+2025-01-02,Desaguadero_M,8.02,8.02,81.6,81.6,3.5
+2025-01-02,El Puente_H (GPRS),,,,,14.4
+2025-01-02,Huarisuyo (GPRS),8.77,6.41,90.5,81.9,
+2025-01-02,Isla Suriqui_M (GPRS),10.7,10.7,63.99,63.99,
+2025-01-02,Ixiamas S.(GPRS),,,,,3.6
+2025-01-02,Jesús de Machaca_M (GPRS),7.51,7.51,87.6,87.6,0.8
+2025-01-02,Magdalena,26.0,26.0,82.8,82.8,
+2025-01-02,Mairana_M (GPRS),22.29,22.29,77.42,77.42,
+2025-01-02,Mizque - SDC (GPRS),17.45,17.45,69.06,69.06,
+2025-01-02,Omereque - SDC (GPRS),22.13,20.89,65.57,60.21,
+2025-01-02,Oruro (GPRS),20.0,7.0,86.5,42.3,
+2025-01-02,Pailon - Pozo del Tigre (GPRS),27.87,27.87,82.1,82.1,
+2025-01-02,Palos Blancos S.(GPRS),,,,,0.6
+2025-01-02,Pocona - SDC (GPRS),14.2,14.2,81.2,81.2,
+2025-01-02,Pojo - SDC (GPRS),18.9,18.9,67.32,67.32,
+2025-01-02,Presa Misicuni (GPRS),,,,,0.2
+2025-01-02,Puerto Rico S.(GPRS),,,,,0.2
+2025-01-02,Puerto Suarez,34.0,26.0,82.8,55.3,
+2025-01-02,Punilla,,,,,12.3
+2025-01-02,Putucuni Calientes (GPRS),3.83,3.83,98.4,98.4,12.1
+2025-01-02,Reyes,35.0,25.0,93.3,52.5,
+2025-01-02,Riberalta,25.0,25.0,87.9,87.9,
+2025-01-02,Riberalta_H (GPRS),,,,,0.7
+2025-01-02,Rurrenabaque,32.0,23.0,99.1,70.0,
+2025-01-02,Salo_M (GPRS),,,,,1.2
+2025-01-02,San Buenaventura_M (GPRS),,,,,0.1
+2025-01-02,San Jacinto_M (GPRS),25.59,15.25,98.6,59.05,0.8
+2025-01-02,San Jose de Chiquitos,33.0,28.0,83.0,58.8,
+2025-01-02,San Julian - Comunidad Los Angeles (GPRS),27.26,27.26,88.6,88.6,4.7
+2025-01-02,San Julian - Nucleo 32 (GPRS),27.24,27.24,,,12.6
+2025-01-02,San Pedro - Río Victoria (GPRS),26.22,26.22,89.0,89.0,4.2
+2025-01-02,San Pedro - San Antonio (GPRS),26.68,26.68,88.8,88.8,
+2025-01-02,San Pedro de Buena Vista (GPRS),14.51,14.51,86.5,86.5,6.6
+2025-01-02,San Pedro de Tiquina_M (GPRS),,,,,0.2
+2025-01-02,San Roque - El Alto (GPRS),20.58,5.46,91.8,30.62,
+2025-01-02,Santa Ana - Yacuma,26.0,26.0,87.9,87.9,
+2025-01-02,Sauce Pilata - SDC (GPRS),21.37,11.67,100.0,53.37,
+2025-01-02,Sultaca_M (GPRS),,,,,0.3
+2025-01-02,Sunjani (GPRS),7.07,7.07,89.3,89.3,0.1
+2025-01-02,Tarija,20.0,20.0,77.2,77.2,
+2025-01-02,Templo (GPRS),5.0,5.0,92.3,92.3,
+2025-01-02,Temporal - SDC (GPRS),25.76,11.1,40.63,0.02,0.4
+2025-01-02,Tiraque_M (GPRS),13.77,13.77,61.72,61.72,
+2025-01-02,Toma Ravelo_M (GPRS),,,,,4.7
+2025-01-02,Totora i_M (GPRS),,,,,4.8
+2025-01-02,Tupiza_1_H (GPRS),,,,,7.7
+2025-01-02,Tupiza_2_H (GPRS),,,,,8.4
+2025-01-02,Viacha_M (GPRS),9.76,9.76,74.16,74.16,
+2025-01-02,Vila Vila - SDC (GPRS),17.38,17.38,65.29,65.29,
+2025-01-02,Villa Tunari_H (GPRS),,,,,25.3
+2025-01-02,Villamontes,30.0,25.0,87.9,58.1,
+2025-01-02,Viru Viru,27.0,27.0,88.0,88.0,
+2025-01-02,Viscachas Chirage (GPRS),8.12,8.12,85.6,85.6,
+2025-01-02,Vivero Chimboco - SDC (GPRS),16.26,16.26,62.63,62.63,
+2025-01-02,Vivero Viloma - SDC (GPRS),18.52,18.52,53.88,53.88,6.5
+2025-01-02,Yacuiba,26.0,23.0,87.8,78.0,
+2025-01-03, Paniagua_M (GPRS),,,,,4.4
+2025-01-03,4 Esquinas (GPRS),5.78,5.78,,,2.5
+2025-01-03,Aguadas (GPRS),6.65,6.65,85.0,85.0,
+2025-01-03,Aiquile (GPRS),17.41,17.41,75.35,75.35,
+2025-01-03,Alto Peñas (GPRS),6.48,6.48,92.6,92.6,0.3
+2025-01-03,Anzaldo_M (GPRS),,,,,4.2
+2025-01-03,Apolo_M (GPRS),,,,,1.3
+2025-01-03,Ascencion de Guarayos,24.0,24.0,93.3,93.3,
+2025-01-03,Camargo_H (GPRS),,,,,4.5
+2025-01-03,Camargo_M (GPRS),,,,,4.3
+2025-01-03,Camiri,32.0,20.0,93.2,48.7,
+2025-01-03,Caranavi_H (GPRS),,,,,6.4
+2025-01-03,Carura_M (GPRS),,,,,6.1
+2025-01-03,Chua Cocani_M (GPRS),9.33,9.33,63.63,63.63,0.1
+2025-01-03,Concepcion,30.0,23.0,99.1,61.7,
+2025-01-03,Coroico_H (GPRS),,,,,6.4
+2025-01-03,Covendo_M (GPRS),,,,,1106.2
+2025-01-03,Cuatro Cañadas - CEA-2 (GPRS),28.69,28.69,81.1,81.1,
+2025-01-03,Cuatro Cañadas - Colonia Chihuahua (GPRS),34.36,28.21,75.79,53.95,
+2025-01-03,Desaguadero_M,8.41,8.41,79.04,79.04,3.4
+2025-01-03,El Puente_H (GPRS),,,,,15.5
+2025-01-03,Guajara-Mirim - Guayaramerín,,,,,0.8
+2025-01-03,Huancane Corapata_M (GPRS),,,,,5.1
+2025-01-03,Huarisuyo (GPRS),5.78,5.28,97.9,96.8,1.6
+2025-01-03,Incapampa - Coroico_M (GPRS),,,,,5.3
+2025-01-03,Isla Suriqui_M (GPRS),8.28,8.28,84.3,84.3,
+2025-01-03,Ixiamas S.(GPRS),,,,,8.0
+2025-01-03,Jesús de Machaca_M (GPRS),16.11,6.85,94.5,41.66,
+2025-01-03,La Asunta_H (GPRS),,,,,20.0
+2025-01-03,Magdalena,30.0,27.0,93.4,74.0,
+2025-01-03,Mairana_M (GPRS),22.03,22.03,83.2,83.2,
+2025-01-03,Mecapaca_M (GPRS),,,,,0.1
+2025-01-03,Mizque - SDC (GPRS),17.56,17.56,68.37,68.37,
+2025-01-03,Omereque - SDC (GPRS),22.43,20.71,69.84,63.8,
+2025-01-03,Oruro (GPRS),18.0,6.0,86.4,42.0,
+2025-01-03,Pailon - Pozo del Tigre (GPRS),29.16,29.16,76.76,76.76,
+2025-01-03,Palos Blancos S.(GPRS),,,,,0.6
+2025-01-03,Palos Blancos_M (GPRS),,,,,21.3
+2025-01-03,Pocona - SDC (GPRS),23.66,15.53,66.26,39.62,0.2
+2025-01-03,Pojo - SDC (GPRS),19.03,19.03,72.73,72.73,
+2025-01-03,Potosí,15.0,7.0,92.8,50.9,
+2025-01-03,Puerto Rico S.(GPRS),,,,,18.0
+2025-01-03,Puerto Suarez,34.0,24.0,93.3,55.5,
+2025-01-03,Punilla,,,,,23.5
+2025-01-03,Putucuni Calientes (GPRS),3.86,3.86,88.7,88.7,2.7
+2025-01-03,Reyes,32.0,24.0,99.1,62.2,
+2025-01-03,Riberalta,28.0,24.0,99.1,82.9,
+2025-01-03,Rurrenabaque,30.0,24.0,99.1,78.5,
+2025-01-03,Sacacani_M (GPRS),,,,,0.8
+2025-01-03,Salo_M (GPRS),,,,,0.8
+2025-01-03,San Buenaventura_M (GPRS),,,,,36.3
+2025-01-03,San Jacinto_M (GPRS),24.74,16.53,98.8,57.47,0.3
+2025-01-03,San Javier,30.0,30.0,74.0,74.0,
+2025-01-03,San Jose de Chiquitos,34.0,26.0,82.9,55.6,
+2025-01-03,San Julian - Comunidad Los Angeles (GPRS),28.45,28.45,80.9,80.9,0.4
+2025-01-03,San Julian - Nucleo 32 (GPRS),32.15,25.01,,,5.2
+2025-01-03,San Pedro - Río Victoria (GPRS),27.36,27.36,88.7,88.7,1.2
+2025-01-03,San Pedro - San Antonio (GPRS),26.62,26.62,90.5,90.5,
+2025-01-03,San Pedro de Buena Vista (GPRS),22.77,12.18,96.8,49.63,9.5
+2025-01-03,San Roque - El Alto (GPRS),12.62,8.24,85.0,59.14,
+2025-01-03,Santa Ana - Yacuma,31.0,24.0,91.0,91.0,
+2025-01-03,Sauce Pilata - SDC (GPRS),21.58,12.55,97.1,41.06,
+2025-01-03,Sultaca_M (GPRS),,,,,6.2
+2025-01-03,Sunjani (GPRS),7.1,7.1,91.6,91.6,
+2025-01-03,Tarija,26.0,18.0,87.4,87.4,
+2025-01-03,Templo (GPRS),4.43,4.43,98.6,98.6,
+2025-01-03,Temporal - SDC (GPRS),22.0,11.73,5.59,0.05,8.1
+2025-01-03,Tiraque_M (GPRS),9.97,9.97,77.61,77.61,0.2
+2025-01-03,Toma Ravelo_M (GPRS),,,,,28.8
+2025-01-03,Totora i_M (GPRS),,,,,2.5
+2025-01-03,Tupiza_1_H (GPRS),,,,,10.9
+2025-01-03,Tupiza_2_H (GPRS),,,,,7.8
+2025-01-03,Viacha_M (GPRS),6.75,6.75,91.5,91.5,0.8
+2025-01-03,Vila Vila - SDC (GPRS),13.39,13.39,88.2,88.2,0.7
+2025-01-03,Villa Rivero_M (GPRS),,,,,1.6
+2025-01-03,Villa Tunari_H (GPRS),,,,,121.2
+2025-01-03,Villamontes,35.0,24.0,93.3,43.8,
+2025-01-03,Viru Viru,33.0,23.0,88.1,88.1,
+2025-01-03,Viscachas Chirage (GPRS),7.51,7.51,84.9,84.9,
+2025-01-03,Vivero Chimboco - SDC (GPRS),23.15,13.02,87.9,37.86,0.1
+2025-01-03,Vivero Viloma - SDC (GPRS),11.87,11.87,97.2,97.2,15.9
+2025-01-03,Yacuiba,28.0,23.0,99.1,78.0,
+2025-01-04, Paniagua_M (GPRS),,,,,10.8
+2025-01-04,4 Esquinas (GPRS),9.59,5.84,,,4.0
+2025-01-04,Aguadas (GPRS),14.62,6.09,93.2,60.61,5.8
+2025-01-04,Aiquile (GPRS),19.99,14.58,95.1,65.98,7.6
+2025-01-04,Alto Peñas (GPRS),14.25,4.9,99.2,57.52,2.8
+2025-01-04,Anzaldo_M (GPRS),,,,,7.0
+2025-01-04,Apolo_M (GPRS),,,,,12.9
+2025-01-04,Camargo_H (GPRS),,,,,3.1
+2025-01-04,Camargo_M (GPRS),,,,,3.2
+2025-01-04,Camiri,26.0,20.0,93.2,93.2,
+2025-01-04,Caranavi_H (GPRS),,,,,5.5
+2025-01-04,Carura_M (GPRS),,,,,15.5
+2025-01-04,Chua Cocani_M (GPRS),14.17,6.26,93.5,59.45,1.1
+2025-01-04,Concepcion,27.0,22.0,99.1,69.1,
+2025-01-04,Coroico_H (GPRS),,,,,33.3
+2025-01-04,Cotagaita (GPRS),,,,,0.2
+2025-01-04,Cotagaita_H (GPRS),,,,,0.5
+2025-01-04,Covendo_M (GPRS),,,,,3.0
+2025-01-04,Cuatro Cañadas - CEA-2 (GPRS),31.61,22.71,99.5,59.18,2.2
+2025-01-04,Cuatro Cañadas - Colonia Chihuahua (GPRS),33.19,23.37,100.0,49.71,
+2025-01-04,Desaguadero_M,13.58,5.41,90.7,60.22,3.1
+2025-01-04,El Puente_H (GPRS),,,,,0.4
+2025-01-04,Huancane Corapata_M (GPRS),,,,,13.4
+2025-01-04,Huarisuyo (GPRS),15.28,5.46,96.4,56.5,7.3
+2025-01-04,Incapampa - Coroico_M (GPRS),,,,,25.1
+2025-01-04,Isla Suriqui_M (GPRS),14.7,6.25,93.2,52.88,
+2025-01-04,Ixiamas S.(GPRS),,,,,2.2
+2025-01-04,Jesús de Machaca_M (GPRS),14.8,4.83,95.8,52.79,3.0
+2025-01-04,La Asunta_H (GPRS),,,,,3.5
+2025-01-04,Mairana_M (GPRS),26.35,18.68,100.0,58.46,0.8
+2025-01-04,Mecapaca_M (GPRS),,,,,1.1
+2025-01-04,Mizque - SDC (GPRS),21.57,13.77,94.6,52.17,2.4
+2025-01-04,Omereque - SDC (GPRS),25.49,16.46,93.8,52.45,
+2025-01-04,Oruro (GPRS),14.0,8.0,86.7,58.2,
+2025-01-04,Pailon - Pozo del Tigre (GPRS),33.86,23.75,100.0,51.55,
+2025-01-04,Palos Blancos S.(GPRS),,,,,1.6
+2025-01-04,Palos Blancos_M (GPRS),,,,,8.3
+2025-01-04,Pocona - SDC (GPRS),17.53,12.11,96.8,59.72,10.6
+2025-01-04,Pojo - SDC (GPRS),22.22,15.81,96.0,58.0,0.1
+2025-01-04,Potosí,12.0,5.0,99.3,66.3,
+2025-01-04,Presa Misicuni (GPRS),,,,,5.8
+2025-01-04,Puerto Rico S.(GPRS),,,,,0.2
+2025-01-04,Putucuni Calientes (GPRS),6.7,3.28,99.0,82.8,
+2025-01-04,Riberalta,32.0,24.0,93.3,93.3,
+2025-01-04,Riberalta_H (GPRS),,,,,6.0
+2025-01-04,Rurrenabaque,29.0,24.0,99.1,78.3,
+2025-01-04,Sacacani_M (GPRS),,,,,0.1
+2025-01-04,Salo_M (GPRS),,,,,1.4
+2025-01-04,San Buenaventura_M (GPRS),,,,,1.2
+2025-01-04,San Jacinto_M (GPRS),24.54,14.38,97.9,54.83,
+2025-01-04,San Julian - Comunidad Los Angeles (GPRS),31.68,23.41,99.4,62.31,0.2
+2025-01-04,San Julian - Nucleo 32 (GPRS),29.67,24.12,,,1.4
+2025-01-04,San Pedro - Río Victoria (GPRS),29.91,23.05,96.3,70.68,
+2025-01-04,San Pedro - San Antonio (GPRS),30.99,23.37,97.3,72.29,
+2025-01-04,San Pedro de Tiquina_M (GPRS),,,,,16.1
+2025-01-04,Santa Ana - Yacuma,25.0,25.0,93.3,93.3,
+2025-01-04,Sauce Pilata - SDC (GPRS),14.97,10.71,100.0,81.0,4.9
+2025-01-04,Sultaca_M (GPRS),,,,,10.4
+2025-01-04,Sunjani (GPRS),9.95,5.83,95.7,74.79,7.3
+2025-01-04,Tarija,18.0,18.0,87.4,87.4,
+2025-01-04,Templo (GPRS),7.62,3.66,99.3,84.4,14.1
+2025-01-04,Temporal - SDC (GPRS),19.08,12.08,95.4,0.16,0.2
+2025-01-04,Tiraque_M (GPRS),13.37,8.68,95.2,64.64,
+2025-01-04,Toma Ravelo_M (GPRS),,,,,12.3
+2025-01-04,Tupiza_1_H (GPRS),,,,,4.0
+2025-01-04,Tupiza_2_H (GPRS),,,,,6.3
+2025-01-04,Viacha_M (GPRS),13.91,5.05,96.3,56.22,3.6
+2025-01-04,Vila Vila - SDC (GPRS),18.06,11.89,94.9,62.61,18.2
+2025-01-04,Villa Rivero_M (GPRS),,,,,3.6
+2025-01-04,Villa Tunari_H (GPRS),,,,,4.8
+2025-01-04,Viru Viru,23.0,23.0,93.2,93.2,
+2025-01-04,Viscachas Chirage (GPRS),11.47,5.8,96.4,69.91,1.1
+2025-01-04,Vivero Chimboco - SDC (GPRS),17.91,12.61,99.4,53.98,2.2
+2025-01-04,Vivero Viloma - SDC (GPRS),20.75,12.83,99.1,21.45,33.9
+2025-01-05, Paniagua_M (GPRS),,,,,13.3
+2025-01-05,4 Esquinas (GPRS),6.51,6.51,,,3.2
+2025-01-05,Aguadas (GPRS),8.05,8.05,85.7,85.7,1.8
+2025-01-05,Aiquile (GPRS),16.68,16.68,93.4,93.4,16.8
+2025-01-05,Alto Peñas (GPRS),5.33,5.33,95.6,95.6,9.4
+2025-01-05,Anzaldo_M (GPRS),,,,,6.8
+2025-01-05,Apolo_M (GPRS),,,,,0.9
+2025-01-05,Buena Vista S.(GPRS),,,,,7.8
+2025-01-05,Camargo_H (GPRS),,,,,4.5
+2025-01-05,Camargo_M (GPRS),,,,,4.8
+2025-01-05,Camiri,33.0,21.0,93.2,43.3,
+2025-01-05,Caranavi_H (GPRS),,,,,20.4
+2025-01-05,Carura_M (GPRS),,,,,28.4
+2025-01-05,Chua Cocani_M (GPRS),12.02,6.05,97.3,66.39,3.1
+2025-01-05,Concepcion,28.0,22.0,99.1,73.6,
+2025-01-05,Coroico_H (GPRS),,,,,16.3
+2025-01-05,Cotagaita (GPRS),,,,,9.5
+2025-01-05,Cotagaita_H (GPRS),,,,,7.7
+2025-01-05,Covendo_M (GPRS),,,,,12.9
+2025-01-05,Cuatro Cañadas - CEA-2 (GPRS),24.94,24.94,93.9,93.9,6.4
+2025-01-05,Cuatro Cañadas - Colonia Chihuahua (GPRS),25.0,25.0,94.7,94.7,18.0
+2025-01-05,Desaguadero_M,5.73,5.73,88.3,88.3,10.7
+2025-01-05,El Puente_H (GPRS),,,,,0.1
+2025-01-05,Huancane Corapata_M (GPRS),,,,,1.5
+2025-01-05,Huarisuyo (GPRS),6.22,5.87,95.8,94.1,2.1
+2025-01-05,Incapampa - Coroico_M (GPRS),,,,,19.8
+2025-01-05,Isla Suriqui_M (GPRS),7.11,7.11,82.0,82.0,0.3
+2025-01-05,Ixiamas S.(GPRS),,,,,21.6
+2025-01-05,Jesús de Machaca_M (GPRS),5.66,5.66,93.2,93.2,7.3
+2025-01-05,La Asunta_H (GPRS),,,,,32.3
+2025-01-05,Mairana_M (GPRS),18.95,18.95,100.0,100.0,11.2
+2025-01-05,Mecapaca_M (GPRS),,,,,7.5
+2025-01-05,Mizque - SDC (GPRS),14.45,14.45,93.0,93.0,7.5
+2025-01-05,Omereque - SDC (GPRS),20.57,19.18,88.9,74.99,
+2025-01-05,Oruro (GPRS),16.0,8.0,92.8,58.6,
+2025-01-05,Pailon - Pozo del Tigre (GPRS),25.66,25.66,90.0,90.0,9.2
+2025-01-05,Palos Blancos S.(GPRS),,,,,2.2
+2025-01-05,Palos Blancos_M (GPRS),,,,,3.4
+2025-01-05,Pocona - SDC (GPRS),13.58,13.58,94.4,94.4,12.5
+2025-01-05,Pojo - SDC (GPRS),16.54,16.54,93.7,93.7,0.4
+2025-01-05,Potosí,15.0,7.0,92.7,50.6,
+2025-01-05,Presa Misicuni (GPRS),,,,,3.6
+2025-01-05,Puerto Rico S.(GPRS),,,,,0.6
+2025-01-05,Putucuni Calientes (GPRS),3.86,3.86,99.0,99.0,7.8
+2025-01-05,Riberalta,30.0,24.0,87.9,87.9,
+2025-01-05,Rurrenabaque,24.0,23.0,99.1,99.1,
+2025-01-05,Sacacani_M (GPRS),,,,,4.4
+2025-01-05,Salo_M (GPRS),,,,,7.3
+2025-01-05,San Buenaventura_M (GPRS),,,,,100.0
+2025-01-05,San Jacinto_M (GPRS),17.86,17.86,90.0,90.0,
+2025-01-05,San Julian - Comunidad Los Angeles (GPRS),25.9,25.9,89.4,89.4,0.2
+2025-01-05,San Julian - Nucleo 32 (GPRS),25.47,25.47,,,0.2
+2025-01-05,San Pedro - Río Victoria (GPRS),23.41,23.41,96.3,96.3,31.0
+2025-01-05,San Pedro - San Antonio (GPRS),23.66,23.66,97.2,97.2,2039.2
+2025-01-05,San Pedro de Tiquina_M (GPRS),,,,,7.6
+2025-01-05,Santa Ana - Yacuma,23.0,23.0,99.1,99.1,
+2025-01-05,Sauce Pilata - SDC (GPRS),11.22,11.22,99.7,99.7,7.0
+2025-01-05,Sultaca_M (GPRS),,,,,6.6
+2025-01-05,Sunjani (GPRS),7.1,7.1,92.1,92.1,5.0
+2025-01-05,Tarija,20.0,20.0,72.4,72.4,
+2025-01-05,Templo (GPRS),4.31,4.31,99.2,99.2,5.6
+2025-01-05,Temporal - SDC (GPRS),16.64,11.95,99.1,16.05,
+2025-01-05,Tiraque_M (GPRS),9.25,9.25,94.8,94.8,5.0
+2025-01-05,Toma Ravelo_M (GPRS),,,,,3.6
+2025-01-05,Totora i_M (GPRS),,,,,8.4
+2025-01-05,Tupiza_1_H (GPRS),,,,,6.5
+2025-01-05,Tupiza_2_H (GPRS),,,,,1.2
+2025-01-05,Viacha_M (GPRS),5.57,5.57,94.2,94.2,9.0
+2025-01-05,Vila Vila - SDC (GPRS),13.03,13.03,93.3,93.3,11.5
+2025-01-05,Villa Rivero_M (GPRS),,,,,5.7
+2025-01-05,Villa Tunari_H (GPRS),,,,,41.8
+2025-01-05,Viru Viru,26.0,26.0,88.0,88.0,
+2025-01-05,Viscachas Chirage (GPRS),6.89,6.89,96.2,96.2,4.3
+2025-01-05,Vivero Chimboco - SDC (GPRS),17.04,12.32,99.4,71.93,1.2
+2025-01-05,Vivero Viloma - SDC (GPRS),14.08,14.08,98.0,98.0,7.4
+2025-01-05,Yacuiba,34.0,28.0,83.0,55.6,
+2025-01-06, Paniagua_M (GPRS),,,,,4.5
+2025-01-06,4 Esquinas (GPRS),6.87,6.87,,,3.9
+2025-01-06,Aguadas (GPRS),7.57,7.57,89.4,89.4,4.1
+2025-01-06,Aiquile (GPRS),17.13,17.13,92.7,92.7,4.4
+2025-01-06,Alto Peñas (GPRS),7.42,7.42,88.5,88.5,4.9
+2025-01-06,Anzaldo_M (GPRS),,,,,4.0
+2025-01-06,Apolo_M (GPRS),,,,,30.6
+2025-01-06,Buena Vista S.(GPRS),,,,,0.6
+2025-01-06,Camiri,24.0,24.0,87.8,87.8,
+2025-01-06,Caranavi_H (GPRS),,,,,3.3
+2025-01-06,Carura_M (GPRS),,,,,26.1
+2025-01-06,Chua Cocani_M (GPRS),7.92,7.92,97.3,97.3,12.0
+2025-01-06,Coroico_H (GPRS),,,,,6.0
+2025-01-06,Covendo_M (GPRS),,,,,10.9
+2025-01-06,Cuatro Cañadas - CEA-2 (GPRS),25.08,25.08,93.8,93.8,29.0
+2025-01-06,Desaguadero_M,7.37,7.37,81.8,81.8,4.8
+2025-01-06,Huancane Corapata_M (GPRS),,,,,7.1
+2025-01-06,Huarisuyo (GPRS),8.97,7.29,94.4,86.2,2.6
+2025-01-06,Incapampa - Coroico_M (GPRS),,,,,6.5
+2025-01-06,Isla Suriqui_M (GPRS),9.07,9.07,81.8,81.8,2.2
+2025-01-06,Ixiamas S.(GPRS),,,,,36.0
+2025-01-06,Jesús de Machaca_M (GPRS),7.51,7.51,86.9,86.9,15.5
+2025-01-06,La Asunta_H (GPRS),,,,,1.8
+2025-01-06,Magdalena,26.0,26.0,87.9,87.9,
+2025-01-06,Mairana_M (GPRS),22.02,22.02,90.4,90.4,10.0
+2025-01-06,Mecapaca_M (GPRS),,,,,2.5
+2025-01-06,Mizque - SDC (GPRS),15.06,15.06,93.8,93.8,6.8
+2025-01-06,Omereque - SDC (GPRS),20.23,18.06,95.6,81.6,0.2
+2025-01-06,Pailon - Pozo del Tigre (GPRS),,,,,18.2
+2025-01-06,Palos Blancos S.(GPRS),,,,,0.8
+2025-01-06,Palos Blancos_M (GPRS),,,,,2.4
+2025-01-06,Pocona - SDC (GPRS),13.58,13.58,96.7,96.7,15.2
+2025-01-06,Pojo - SDC (GPRS),16.84,16.84,96.5,96.5,0.2
+2025-01-06,Presa Misicuni (GPRS),,,,,1.9
+2025-01-06,Putucuni Calientes (GPRS),4.33,4.33,99.4,99.4,1.1
+2025-01-06,Riberalta,25.0,25.0,87.9,87.9,
+2025-01-06,Riberalta_H (GPRS),,,,,0.9
+2025-01-06,Sacacani_M (GPRS),,,,,3.6
+2025-01-06,San Buenaventura_M (GPRS),,,,,45.7
+2025-01-06,San Jacinto_M (GPRS),20.65,20.65,72.1,72.1,
+2025-01-06,San Julian - Comunidad Los Angeles (GPRS),24.48,24.48,94.6,94.6,0.1
+2025-01-06,San Julian - Nucleo 32 (GPRS),24.49,24.49,,,5.8
+2025-01-06,San Pedro - Río Victoria (GPRS),24.18,24.18,91.9,91.9,0.6
+2025-01-06,San Pedro - San Antonio (GPRS),24.74,24.74,91.2,91.2,3895.0
+2025-01-06,San Pedro de Tiquina_M (GPRS),,,,,3.2
+2025-01-06,Santa Ana - Yacuma,25.0,25.0,93.3,93.3,
+2025-01-06,Sauce Pilata - SDC (GPRS),,,,,6.5
+2025-01-06,Sunjani (GPRS),7.72,7.72,90.5,90.5,7.2
+2025-01-06,Tarija,22.0,22.0,68.2,68.2,
+2025-01-06,Templo (GPRS),4.57,4.57,98.0,98.0,10.6
+2025-01-06,Tiraque_M (GPRS),9.44,9.44,92.1,92.1,10.7
+2025-01-06,Toma Ravelo_M (GPRS),,,,,1.4
+2025-01-06,Tupiza_1_H (GPRS),,,,,1.0
+2025-01-06,Tupiza_2_H (GPRS),,,,,0.4
+2025-01-06,Viacha_M (GPRS),7.66,7.66,89.1,89.1,3.7
+2025-01-06,Vila Vila - SDC (GPRS),13.48,13.48,89.2,89.2,7.6
+2025-01-06,Villa Rivero_M (GPRS),,,,,2.8
+2025-01-06,Villa Tunari_H (GPRS),,,,,7.2
+2025-01-06,Viru Viru,24.0,24.0,99.1,99.1,
+2025-01-06,Viscachas Chirage (GPRS),7.43,7.43,94.7,94.7,2.7
+2025-01-06,Vivero Chimboco - SDC (GPRS),,,,,0.9
+2025-01-06,Vivero Viloma - SDC (GPRS),14.21,14.21,99.1,99.1,7.1
