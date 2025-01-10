@@ -103,7 +103,7 @@ def format_df(update_df):
         'ESTACION': 'estacion',
         'TIME': 'fecha'
     })
-    update_df = update_df[DF_COLUMNS]
+    update_df = update_df.T.reindex(DF_COLUMNS).T
     update_df = update_df.sort_values(['fecha', 'estacion'])
 
     return update_df
@@ -136,7 +136,7 @@ def merge_df(update_df):
                 stored_month_update_df, month_update_df
             ])
             month_update_df = month_update_df[
-                ~month_update_df.index.duplicated()
+                ~month_update_df.index.duplicated(keep='last')
             ]
 
             month_update_df = month_update_df.sort_index()
