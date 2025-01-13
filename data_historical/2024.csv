@@ -59554,6 +59554,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-01,Hichucota,14.0,-1.0,,,
 2024-11-01,Huarisuyo (GPRS),18.35,-2.12,96.8,11.43,0.1
 2024-11-01,Huayllamarca,20.1,4.5,,,
+2024-11-01,Huayrocondo,,,,,0.1
 2024-11-01,Ibibobo,,,,,19.0
 2024-11-01,Incapampa - Coroico_M (GPRS),,,,,6.1
 2024-11-01,Isla Del Sol,14.2,4.1,,,
@@ -59741,6 +59742,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-02,Hichucota,16.0,0.0,,,
 2024-11-02,Huarisuyo (GPRS),19.29,0.0,98.2,18.02,
 2024-11-02,Huayllamarca,,,,,4.0
+2024-11-02,Huayrocondo,,,,,0.6
 2024-11-02,Incapampa - Coroico_M (GPRS),,,,,0.1
 2024-11-02,Isla Del Sol,15.7,3.2,,,
 2024-11-02,Isla Suriqui_M (GPRS),18.98,7.24,78.47,14.26,
@@ -59876,6 +59878,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-03,Chua Cocani_M (GPRS),15.75,4.8,90.1,36.96,
 2024-11-03,Chuqui Chuqui,34.0,17.0,,,
 2024-11-03,Chuquiago,25.0,10.5,,,
+2024-11-03,Ciudadela Univ GPRS UTO,,,,,12.4
 2024-11-03,Ckochas,26.1,6.5,,,
 2024-11-03,Coimata,31.0,12.0,,,
 2024-11-03,Colcha K,28.2,2.2,,,
@@ -60066,6 +60069,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-04,Hichucota,15.0,-1.0,,,4.8
 2024-11-04,Huarisuyo (GPRS),19.37,0.17,97.1,25.54,0.9
 2024-11-04,Huayllamarca,18.1,5.2,,,
+2024-11-04,Huayrocondo,,,,,0.8
 2024-11-04,Isla Del Sol,16.4,4.6,,,
 2024-11-04,Isla Suriqui_M (GPRS),18.49,9.13,82.4,31.97,
 2024-11-04,Ivirgarzama-Senda VI (GPRS),-100.0,-100.0,-100.0,-100.0,
@@ -60440,6 +60444,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-06,Hichucota,16.0,-3.0,,,2.0
 2024-11-06,Huarisuyo (GPRS),20.8,0.65,98.2,27.43,7.9
 2024-11-06,Huayllamarca,20.1,4.0,,,
+2024-11-06,Huayrocondo,,,,,6.2
 2024-11-06,Incapampa - Coroico_M (GPRS),,,,,26.7
 2024-11-06,Isla Del Sol,15.3,3.2,,,
 2024-11-06,Isla Suriqui_M (GPRS),18.25,5.47,95.8,24.24,
@@ -61026,6 +61031,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-09,Hichucota,17.0,1.0,,,5.0
 2024-11-09,Huarisuyo (GPRS),17.02,-1.28,98.4,35.04,0.1
 2024-11-09,Huayllamarca,,,,,9.4
+2024-11-09,Huayrocondo,,,,,0.6
 2024-11-09,Isla Del Sol,13.6,5.3,,,
 2024-11-09,Isla Suriqui_M (GPRS),15.81,5.8,88.8,40.89,
 2024-11-09,Ivirgarzama-Senda VI (GPRS),-100.0,-100.0,-100.0,-100.0,24.4
@@ -61520,6 +61526,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-12,Hichucota,13.0,3.0,,,2.6
 2024-11-12,Huarisuyo (GPRS),7.03,7.03,86.9,86.9,0.5
 2024-11-12,Huayllamarca,19.0,4.0,,,
+2024-11-12,Huayrocondo,,,,,0.6
 2024-11-12,Ibibobo,,,,,3.0
 2024-11-12,Incapampa - Coroico_M (GPRS),,,,,14.4
 2024-11-12,Isla Del Sol,16.5,6.4,,,16.8
@@ -61678,6 +61685,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-13,Chua Cocani_M (GPRS),14.87,6.78,91.1,53.11,
 2024-11-13,Chuqui Chuqui,35.0,17.0,,,
 2024-11-13,Chuquiago,31.0,13.0,,,
+2024-11-13,Ciudadela Univ GPRS UTO,,,,,0.5
 2024-11-13,Ckochas,19.5,8.0,,,
 2024-11-13,Coimata,29.0,10.0,,,
 2024-11-13,Colcha K,28.1,8.0,,,
@@ -61706,6 +61714,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-13,Hichucota,14.0,2.0,,,
 2024-11-13,Huarisuyo (GPRS),15.76,0.51,98.1,50.63,5.0
 2024-11-13,Huayllamarca,,,,,7.2
+2024-11-13,Huayrocondo,,,,,2.9
 2024-11-13,Incapampa - Coroico_M (GPRS),,,,,7.0
 2024-11-13,Isla Del Sol,17.6,4.6,,,
 2024-11-13,Isla Suriqui_M (GPRS),16.4,6.19,96.0,45.52,0.1
@@ -61858,6 +61867,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-14,Chuquiago,27.5,11.0,,,
 2024-11-14,Chuquiaguillo_LP,,,,,3.1
 2024-11-14,Circuata,,,,,6.7
+2024-11-14,Ciudadela Univ GPRS UTO,,,,,17.0
 2024-11-14,Ckochas,19.1,8.1,,,
 2024-11-14,Coimata,30.0,9.0,,,
 2024-11-14,Colcha K,29.4,6.1,,,
@@ -61881,6 +61891,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-14,Hichucota,13.0,0.0,,,
 2024-11-14,Huarisuyo (GPRS),9.34,7.16,87.1,78.74,0.8
 2024-11-14,Huayllamarca,18.0,3.0,,,
+2024-11-14,Huayrocondo,,,,,0.6
 2024-11-14,Isla Del Sol,14.2,5.7,,,13.3
 2024-11-14,Isla Suriqui_M (GPRS),9.13,9.13,84.2,84.2,6.1
 2024-11-14,Ivirgarzama-Senda VI (GPRS),-100.0,-100.0,-100.0,-100.0,
@@ -62183,6 +62194,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-16,Chuqui Chuqui,38.0,18.0,,,
 2024-11-16,Chuquiago,27.0,14.0,,,1.0
 2024-11-16,Circuata,,,,,4.8
+2024-11-16,Ciudadela Univ GPRS UTO,,,,,12.0
 2024-11-16,Ckochas,19.1,7.5,,,
 2024-11-16,Coimata,30.0,10.0,,,
 2024-11-16,Colcha K,30.0,4.8,,,
@@ -62207,6 +62219,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-16,Huancane Corapata_M (GPRS),,,,,0.3
 2024-11-16,Huarisuyo (GPRS),17.63,5.84,94.7,40.73,15.0
 2024-11-16,Huayllamarca,19.0,4.5,,,
+2024-11-16,Huayrocondo,,,,,17.0
 2024-11-16,Isla Del Sol,15.5,2.4,,,14.4
 2024-11-16,Isla Suriqui_M (GPRS),16.33,8.09,80.5,47.34,
 2024-11-16,Ivirgarzama-Senda VI (GPRS),-100.0,-100.0,-100.0,-100.0,
@@ -62347,6 +62360,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-17,Chuqui Chuqui,36.0,20.0,,,
 2024-11-17,Chuquiago,26.0,13.5,,,11.0
 2024-11-17,Chuquiaguillo_LP,,,,,11.3
+2024-11-17,Ciudadela Univ GPRS UTO,,,,,22.9
 2024-11-17,Ckochas,23.0,7.4,,,
 2024-11-17,Coimata,29.0,11.0,,,
 2024-11-17,Colcha K,28.6,5.6,,,
@@ -62381,6 +62395,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-17,Huancane Corapata_M (GPRS),,,,,1.3
 2024-11-17,Huarisuyo (GPRS),7.14,7.14,91.2,91.2,0.8
 2024-11-17,Huayllamarca,18.1,5.3,,,
+2024-11-17,Huayrocondo,,,,,1.2
 2024-11-17,Incapampa - Coroico_M (GPRS),,,,,6.3
 2024-11-17,Isla Del Sol,16.3,3.5,,,18.6
 2024-11-17,Isla Suriqui_M (GPRS),15.54,6.52,86.5,49.23,
@@ -62554,6 +62569,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-18,Chuqui Chuqui,36.0,20.0,,,
 2024-11-18,Chuquiago,22.0,12.0,,,12.5
 2024-11-18,Chuquiaguillo_LP,,,,,0.5
+2024-11-18,Ciudadela Univ GPRS UTO,,,,,3.6
 2024-11-18,Ckochas,23.1,10.5,,,18.6
 2024-11-18,Coimata,30.0,10.0,,,8.0
 2024-11-18,Colcha K,26.2,6.4,,,
@@ -62820,6 +62836,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-19,Huancane Corapata_M (GPRS),,,,,16.7
 2024-11-19,Huarisuyo (GPRS),8.44,6.65,85.4,80.6,12.3
 2024-11-19,Huayllamarca,21.0,4.1,,,
+2024-11-19,Huayrocondo,,,,,10.2
 2024-11-19,Incapampa - Coroico_M (GPRS),,,,,7.2
 2024-11-19,Isla Del Sol,14.2,5.4,,,24.6
 2024-11-19,Isla Suriqui_M (GPRS),14.31,7.62,89.2,62.51,19.3
@@ -63205,6 +63222,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-21,Chuqui Chuqui,35.0,21.0,,,
 2024-11-21,Chuquiago,33.0,10.0,,,
 2024-11-21,Chuquiaguillo_LP,,,,,6.1
+2024-11-21,Ciudadela Univ GPRS UTO,,,,,0.6
 2024-11-21,Ckochas,18.0,10.5,,,19.2
 2024-11-21,Coimata,30.0,11.0,,,
 2024-11-21,Colcha K,29.2,5.8,,,
@@ -63237,6 +63255,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-21,Huancane Corapata_M (GPRS),,,,,0.1
 2024-11-21,Huarisuyo (GPRS),6.56,6.56,94.7,94.7,2.1
 2024-11-21,Huayllamarca,19.0,4.0,,,
+2024-11-21,Huayrocondo,,,,,3.9
 2024-11-21,Incapampa - Coroico_M (GPRS),,,,,42.8
 2024-11-21,Isla Del Sol,15.7,4.5,,,18.4
 2024-11-21,Isla Suriqui_M (GPRS),15.88,6.58,94.5,46.1,0.1
@@ -63464,6 +63483,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-22,Huancane Corapata_M (GPRS),,,,,14.0
 2024-11-22,Huarisuyo (GPRS),8.17,7.38,95.7,90.5,2.8
 2024-11-22,Huayllamarca,19.1,5.1,,,
+2024-11-22,Huayrocondo,,,,,2.4
 2024-11-22,Incapampa - Coroico_M (GPRS),,,,,16.6
 2024-11-22,Isla Del Sol,17.3,5.8,,,12.6
 2024-11-22,Isla Suriqui_M (GPRS),13.64,7.83,91.9,59.51,12.8
@@ -63650,6 +63670,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-23,Chuquiago,29.6,11.0,,,
 2024-11-23,Chuquiaguillo_LP,,,,,0.6
 2024-11-23,Circuata,,,,,14.3
+2024-11-23,Ciudadela Univ GPRS UTO,,,,,2.4
 2024-11-23,Ckochas,20.1,8.0,,,
 2024-11-23,Coimata,30.0,11.0,,,
 2024-11-23,Colcha K,28.6,8.2,,,
@@ -63855,6 +63876,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-24,Chuquiago,32.0,15.0,,,
 2024-11-24,Chuquiaguillo_LP,,,,,1.8
 2024-11-24,Circuata,,,,,18.5
+2024-11-24,Ciudadela Univ GPRS UTO,,,,,0.2
 2024-11-24,Ckochas,19.1,10.1,,,
 2024-11-24,Coimata,31.0,12.0,,,
 2024-11-24,Colcha K,27.4,8.4,,,5.3
@@ -63888,6 +63910,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-24,Huancane Corapata_M (GPRS),,,,,2.6
 2024-11-24,Huarisuyo (GPRS),7.84,7.84,91.1,91.1,13.9
 2024-11-24,Huayllamarca,19.0,5.1,,,
+2024-11-24,Huayrocondo,,,,,19.1
 2024-11-24,Incapampa - Coroico_M (GPRS),,,,,6.5
 2024-11-24,Isla Del Sol,14.2,4.4,,,6.3
 2024-11-24,Isla Suriqui_M (GPRS),13.31,7.63,94.6,62.64,6.9
@@ -64049,6 +64072,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-25,Chuqui Chuqui,37.0,20.0,,,
 2024-11-25,Chuquiago,30.5,14.6,,,
 2024-11-25,Chuquiaguillo_LP,,,,,1.9
+2024-11-25,Ciudadela Univ GPRS UTO,,,,,0.4
 2024-11-25,Ckochas,21.5,10.0,,,
 2024-11-25,Coimata,30.0,11.0,,,
 2024-11-25,Colcha K,26.8,6.8,,,10.5
@@ -64074,6 +64098,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-25,Huancane Corapata_M (GPRS),,,,,2.5
 2024-11-25,Huarisuyo (GPRS),8.84,8.84,88.5,88.5,
 2024-11-25,Huayllamarca,20.1,4.0,,,
+2024-11-25,Huayrocondo,,,,,0.2
 2024-11-25,Incapampa - Coroico_M (GPRS),,,,,2.4
 2024-11-25,Isla Del Sol,15.8,3.4,,,7.2
 2024-11-25,Isla Suriqui_M (GPRS),16.79,7.76,92.9,43.69,0.6
@@ -64230,6 +64255,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-26,Chuqui Chuqui,36.0,23.0,,,
 2024-11-26,Chuquiago,28.5,15.0,,,35.0
 2024-11-26,Circuata,,,,,6.6
+2024-11-26,Ciudadela Univ GPRS UTO,,,,,1.8
 2024-11-26,Ckochas,20.1,12.1,,,
 2024-11-26,Coimata,31.0,10.0,,,11.5
 2024-11-26,Colcha K,27.8,8.2,,,
@@ -64441,6 +64467,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-27,Huancane Corapata_M (GPRS),,,,,4.0
 2024-11-27,Huarisuyo (GPRS),7.36,7.36,86.6,86.6,0.2
 2024-11-27,Huayllamarca,18.1,4.0,,,
+2024-11-27,Huayrocondo,,,,,0.7
 2024-11-27,Incapampa - Coroico_M (GPRS),,,,,0.6
 2024-11-27,Isla Del Sol,14.3,5.1,,,14.2
 2024-11-27,Isla Suriqui_M (GPRS),17.7,7.37,92.9,41.81,
@@ -64636,6 +64663,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-28,Huancane Corapata_M (GPRS),,,,,4.2
 2024-11-28,Huarisuyo (GPRS),10.56,10.56,77.88,77.88,26.0
 2024-11-28,Huayllamarca,17.2,5.1,,,
+2024-11-28,Huayrocondo,,,,,13.3
 2024-11-28,Isla Del Sol,15.5,6.4,,,15.2
 2024-11-28,Isla Suriqui_M (GPRS),15.28,6.78,89.8,58.27,16.7
 2024-11-28,Itau,,,,,81.0
@@ -65018,6 +65046,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-30,Chuqui Chuqui,33.0,21.0,,,
 2024-11-30,Chuquiago,26.0,12.2,,,28.0
 2024-11-30,Circuata,,,,,4.5
+2024-11-30,Ciudadela Univ GPRS UTO,,,,,18.3
 2024-11-30,Ckochas,20.1,10.1,,,3.1
 2024-11-30,Coimata,29.0,11.0,,,
 2024-11-30,Colcha K,26.8,7.8,,,
@@ -65047,6 +65076,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-30,Hichucota,14.0,3.0,,,
 2024-11-30,Huarisuyo (GPRS),11.12,9.96,80.5,74.42,
 2024-11-30,Huayllamarca,,,,,14.0
+2024-11-30,Huayrocondo,,,,,0.6
 2024-11-30,Incapampa - Coroico_M (GPRS),,,,,6.2
 2024-11-30,Isla Del Sol,13.6,2.6,,,18.6
 2024-11-30,Isla Suriqui_M (GPRS),16.27,7.69,89.3,51.05,
@@ -65168,6 +65198,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-01, Paniagua_M (GPRS),,,,,1.8
 2024-12-01,4 Esquinas (GPRS),7.04,7.04,,,2.4
 2024-12-01,Achocalla,,,,,16.5
+2024-12-01,Achumani,,,,,14.5
 2024-12-01,Aguadas (GPRS),6.96,6.96,83.3,83.3,3.7
 2024-12-01,Aiquile (GPRS),38.92,16.78,85.3,24.15,
 2024-12-01,Alcantarí_Aeropuerto,,,,,2.1
@@ -65175,35 +65206,52 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-01,Alto Peñas (GPRS),16.11,5.78,98.0,45.16,0.4
 2024-12-01,Ancoraimes,,,,,17.0
 2024-12-01,Anzaldo_M (GPRS),,,,,6.0
+2024-12-01,Ayoma,,,,,1.3
 2024-12-01,Buena Vista S.(GPRS),,,,,0.2
 2024-12-01,Cabaña Forestal Oruro,,,,,1.2
 2024-12-01,Cachimayu,,,,,4.1
+2024-12-01,Calacoto,,,,,1.0
 2024-12-01,Camiri,26.0,26.0,78.0,78.0,
 2024-12-01,Capinota,,,,,3.7
+2024-12-01,Carabuco,,6.3,,,6.8
 2024-12-01,Caranavi_H (GPRS),,,,,3.9
 2024-12-01,Carura_M (GPRS),,,,,0.3
+2024-12-01,Catacora,,,,,14.7
+2024-12-01,Cañas,,,,,18.0
+2024-12-01,Chasqui (Escoma),,,,,8.0
+2024-12-01,Chorocona,,,,,19.3
 2024-12-01,Chua Cocani_M (GPRS),16.66,6.84,92.3,45.88,3.1
 2024-12-01,Chuquiaguillo_LP,,,,,13.7
+2024-12-01,Ciudadela Univ GPRS UTO,,,,,2.2
+2024-12-01,Ckochas,,,,,3.1
+2024-12-01,Coimata,,,,,3.0
 2024-12-01,Colcha K,,,,,1.5
+2024-12-01,Collana,16.0,2.0,,,1.8
+2024-12-01,Colomi,,,,,3.5
 2024-12-01,Concepcion,32.0,24.0,93.3,58.5,
+2024-12-01,Coripata,,,,,46.0
 2024-12-01,Coroico_H (GPRS),,,,,36.4
 2024-12-01,Cuatro Cañadas - CEA-2 (GPRS),28.94,28.94,76.88,76.88,
 2024-12-01,Cuatro Cañadas - Colonia Chihuahua (GPRS),29.34,29.34,73.21,73.21,
 2024-12-01,Desaguadero_M,16.15,6.39,89.9,45.11,
 2024-12-01,Dorado Chico,,,,,27.2
+2024-12-01,El Puente,,,,,0.7
 2024-12-01,El Puente_H (GPRS),,,,,4.0
 2024-12-01,El Tejar (La Paz),,,,,12.5
 2024-12-01,El Tejar (Tarija),32.1,16.4,,,
 2024-12-01,Emborozu,,,,,4.0
 2024-12-01,Guanay_H (GPRS),,,,,1.4
+2024-12-01,Hichucota,,,,,16.7
 2024-12-01,Huancane Corapata_M (GPRS),,,,,1.7
 2024-12-01,Huarisuyo (GPRS),18.45,3.04,96.9,38.47,
 2024-12-01,Huayllamarca,19.0,4.5,,,
 2024-12-01,Incapampa - Coroico_M (GPRS),,,,,39.9
+2024-12-01,Isla Del Sol,,,,,4.6
 2024-12-01,Isla Suriqui_M (GPRS),17.68,7.7,92.1,44.41,0.5
 2024-12-01,Ivirgarzama-Senda VI (GPRS),-100.0,-100.0,-100.0,-100.0,26.6
 2024-12-01,Jesús de Machaca_M (GPRS),18.91,3.92,94.9,42.92,
 2024-12-01,Jihuacuta,,,,,5.2
+2024-12-01,Korila,,,,,0.9
 2024-12-01,La Asunta_H (GPRS),,,,,10.9
 2024-12-01,Llallagua,,,,,5.2
 2024-12-01,Mairana_M (GPRS),22.36,22.36,78.72,78.72,0.4
@@ -65225,6 +65273,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-01,Punilla,,,,,9.3
 2024-12-01,Putucuni Calientes (GPRS),2.22,2.22,95.2,95.2,15.0
 2024-12-01,Quiabaya,,,,,6.1
+2024-12-01,Ravelo,,,,,25.2
 2024-12-01,Riberalta,27.0,27.0,88.0,88.0,
 2024-12-01,Rosario del Ingre,,,,,2.5
 2024-12-01,Rurrenabaque,34.0,25.0,93.4,59.0,
@@ -65274,11 +65323,17 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-02,Ancoraimes,,,,,1.0
 2024-12-02,Anzaldo,,,,,1.3
 2024-12-02,Cabaña Forestal Oruro,,,,,0.8
+2024-12-02,Calacoto,,,,,2.0
 2024-12-02,Camiri,27.0,27.0,69.1,69.1,
 2024-12-02,Campo Grande Bermejo,,,,,19.2
+2024-12-02,Carabuco,,6.7,,,
 2024-12-02,Caranavi_H (GPRS),,,,,6.0
+2024-12-02,Catacora,,,,,7.5
+2024-12-02,Chasqui (Escoma),,,,,6.0
 2024-12-02,Chua Cocani_M (GPRS),17.52,4.55,96.4,43.09,0.5
 2024-12-02,Chuquiaguillo_LP,,,,,0.1
+2024-12-02,Ciudadela Univ GPRS UTO,,,,,0.2
+2024-12-02,Collana,17.0,3.0,,,29.5
 2024-12-02,Comarapa,,,,,3.9
 2024-12-02,Concepcion,31.0,24.0,99.1,62.0,
 2024-12-02,Conchamarca,,,,,2.5
@@ -65293,10 +65348,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-02,Huancane Corapata_M (GPRS),,,,,0.8
 2024-12-02,Huarisuyo (GPRS),18.51,3.8,96.2,42.33,
 2024-12-02,Huayllamarca,18.1,5.0,,,
+2024-12-02,Isla Del Sol,,,,,8.5
 2024-12-02,Isla Suriqui_M (GPRS),17.41,6.32,93.2,44.35,3.4
 2024-12-02,Ivirgarzama-Senda VI (GPRS),-100.0,-100.0,-100.0,-100.0,0.9
 2024-12-02,Jesús de Machaca_M (GPRS),21.18,5.34,83.1,28.53,4.7
 2024-12-02,Jihuacuta,,,,,2.3
+2024-12-02,Korila,,,,,5.7
 2024-12-02,Llallagua,,,,,10.2
 2024-12-02,Magdalena,28.0,28.0,78.2,78.2,
 2024-12-02,Mairana_M (GPRS),23.21,23.21,80.7,80.7,
@@ -65321,6 +65378,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-02,San Jose de Chiquitos,34.0,26.0,88.0,52.3,
 2024-12-02,San Julian - Comunidad Los Angeles (GPRS),30.33,30.33,69.59,69.59,0.1
 2024-12-02,San Julian - Nucleo 32 (GPRS),36.97,20.16,,,
+2024-12-02,San Lucas,,,,,8.0
 2024-12-02,San Pedro - Río Victoria (GPRS),28.85,28.85,77.6,77.6,
 2024-12-02,San Pedro - San Antonio (GPRS),29.33,29.33,77.8,77.8,
 2024-12-02,San Pedro de Buena Vista (GPRS),25.07,12.04,95.0,37.27,0.5
@@ -65352,6 +65410,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-03, Paniagua_M (GPRS),,,,,56.6
 2024-12-03,4 Esquinas (GPRS),6.9,6.9,,,14.3
 2024-12-03,Achocalla,,,,,19.5
+2024-12-03,Achumani,,,,,22.7
 2024-12-03,Aguadas (GPRS),6.51,6.51,92.8,92.8,15.2
 2024-12-03,Aiquile (GPRS),22.79,14.68,89.8,56.69,
 2024-12-03,Alalay (GPRS),12.15,9.04,,,
@@ -65363,21 +65422,29 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-03,Anzaldo_M (GPRS),,,,,1.3
 2024-12-03,Apolo_M (GPRS),,,,,7.7
 2024-12-03,Arani,,,,,2.6
+2024-12-03,Ayoma,,,,,13.9
 2024-12-03,Buena Vista S.(GPRS),,,,,7.8
 2024-12-03,Buena Vista Sc,,,,,120.3
 2024-12-03,Cabaña Forestal Oruro,,,,,0.6
 2024-12-03,Cachimayu,,,,,1.4
 2024-12-03,Camiri,20.0,20.0,72.3,72.3,
 2024-12-03,Capinota,,,,,5.6
+2024-12-03,Carabuco,,6.5,,,11.6
 2024-12-03,Caranavi_H (GPRS),,,,,2.1
 2024-12-03,Carura_M (GPRS),,,,,53.5
+2024-12-03,Cañas,,,,,4.0
 2024-12-03,Charazani (GPRS),17.91,11.53,,,
+2024-12-03,Chasqui (Escoma),,,,,14.0
+2024-12-03,Chorocona,,,,,18.2
 2024-12-03,Chua Cocani_M (GPRS),7.82,7.82,77.89,77.89,17.1
 2024-12-03,Chuquiaguillo_LP,,,,,18.7
 2024-12-03,Circuata,,,,,11.5
+2024-12-03,Collana,16.0,1.0,,,6.5
+2024-12-03,Colomi,,,,,3.3
 2024-12-03,Comarapa,,,,,0.3
 2024-12-03,Concepcion,22.0,18.0,99.1,77.4,
 2024-12-03,Conchamarca,,,,,3.1
+2024-12-03,Coripata,,,,,17.8
 2024-12-03,Coroico_H (GPRS),,,,,14.0
 2024-12-03,Covendo_M (GPRS),,,,,27.2
 2024-12-03,Cuatro Cañadas - CEA-2 (GPRS),18.24,18.24,94.7,94.7,24.8
@@ -65390,17 +65457,22 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-03,Emborozu,,,,,2.5
 2024-12-03,Guajara-Mirim - Guayaramerín,,,,,5.6
 2024-12-03,Guanay_H (GPRS),,,,,0.9
+2024-12-03,Hichucota,,,,,25.4
 2024-12-03,Huancane Corapata_M (GPRS),,,,,16.4
 2024-12-03,Huarisuyo (GPRS),6.29,6.29,87.2,87.2,21.7
 2024-12-03,Huayllamarca,19.0,7.1,,,
+2024-12-03,Huayrocondo,,,,,22.0
 2024-12-03,Incapampa - Coroico_M (GPRS),,,,,12.6
+2024-12-03,Isla Del Sol,,,,,3.3
 2024-12-03,Isla Suriqui_M (GPRS),7.76,7.76,77.99,77.99,11.1
 2024-12-03,Ivirgarzama-Senda VI (GPRS),-100.0,-100.0,-100.0,-100.0,73.0
 2024-12-03,Ixiamas S.(GPRS),,,,,28.6
 2024-12-03,Jesús de Machaca_M (GPRS),8.42,8.42,44.24,44.24,
 2024-12-03,Jihuacuta,,,,,4.4
+2024-12-03,Korila,,,,,5.2
 2024-12-03,La Asunta_H (GPRS),,,,,98.0
 2024-12-03,La Chimba,,,,,10.9
+2024-12-03,La Violeta,,,,,36.8
 2024-12-03,Llallagua,,,,,1.0
 2024-12-03,Magdalena,26.0,26.0,87.9,87.9,
 2024-12-03,Mairana_M (GPRS),18.49,18.49,99.5,99.5,41.6
@@ -65427,6 +65499,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-03,Punilla,,,,,12.5
 2024-12-03,Putucuni Calientes (GPRS),3.69,3.69,97.7,97.7,16.8
 2024-12-03,Quiabaya,,,,,4.2
+2024-12-03,Ravelo,,,,,5.5
 2024-12-03,Reyes,32.0,23.0,99.1,66.0,
 2024-12-03,Riberalta,27.0,27.0,82.9,82.9,
 2024-12-03,Riberalta_H (GPRS),,,,,3.4
@@ -65487,16 +65560,22 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-04,Alto Obrajes_Barrio Magisterio,,,,,2.3
 2024-12-04,Alto Peñas (GPRS),8.33,8.33,83.2,83.2,
 2024-12-04,Apolo_M (GPRS),,,,,12.6
+2024-12-04,Ayoma,,,,,0.1
 2024-12-04,Buena Vista S.(GPRS),,,,,12.2
 2024-12-04,Cabaña Forestal Oruro,,,,,0.4
 2024-12-04,Camiri,20.0,20.0,72.3,72.3,
+2024-12-04,Carabuco,,7.0,,,
 2024-12-04,Caranavi_H (GPRS),,,,,6.1
 2024-12-04,Carura_M (GPRS),,,,,0.6
 2024-12-04,Charazani (GPRS),18.19,11.06,99.97,69.3,
+2024-12-04,Chasqui (Escoma),,,,,18.0
 2024-12-04,Chua Cocani_M (GPRS),17.65,8.36,87.0,28.36,
 2024-12-04,Circuata,,,,,3.6
+2024-12-04,Collana,15.0,2.0,,,25.7
+2024-12-04,Colomi,,,,,1.5
 2024-12-04,Comarapa,,,,,0.1
 2024-12-04,Concepcion,24.0,19.0,99.1,64.4,
+2024-12-04,Coripata,,,,,0.8
 2024-12-04,Coroico_H (GPRS),,,,,11.0
 2024-12-04,Covendo_M (GPRS),,,,,3.9
 2024-12-04,Cuatro Cañadas - CEA-2 (GPRS),23.09,23.09,71.72,71.72,0.6
@@ -65506,11 +65585,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-04,Huarisuyo (GPRS),6.26,6.26,97.4,97.4,0.1
 2024-12-04,Huayllamarca,20.1,6.0,,,
 2024-12-04,Incapampa - Coroico_M (GPRS),,,,,8.7
+2024-12-04,Isla Del Sol,,,,,1.5
 2024-12-04,Isla Suriqui_M (GPRS),9.39,9.39,83.2,83.2,
 2024-12-04,Ivirgarzama-Senda VI (GPRS),-100.0,-100.0,-100.0,-100.0,21.5
 2024-12-04,Ixiamas S.(GPRS),,,,,34.6
 2024-12-04,Jesús de Machaca_M (GPRS),7.89,7.89,36.35,36.35,
 2024-12-04,Jihuacuta,,,,,5.0
+2024-12-04,Korila,,,,,2.3
 2024-12-04,La Asunta_H (GPRS),,,,,3.0
 2024-12-04,Magdalena,25.0,25.0,93.3,93.3,
 2024-12-04,Mairana_M (GPRS),18.81,18.81,79.56,79.56,2.0
@@ -65584,8 +65665,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-05,Alto Peñas (GPRS),14.47,6.46,92.3,57.83,
 2024-12-05,Cabaña Forestal Oruro,,,,,0.6
 2024-12-05,Camiri,22.0,22.0,77.4,77.4,
+2024-12-05,Carabuco,,6.7,,,
 2024-12-05,Charazani (GPRS),19.17,10.34,,,
+2024-12-05,Chasqui (Escoma),,,,,9.0
+2024-12-05,Chorocona,,,,,4.3
 2024-12-05,Chua Cocani_M (GPRS),11.78,11.78,62.53,62.53,
+2024-12-05,Collana,17.0,4.0,,,
 2024-12-05,Concepcion,28.0,19.0,99.1,52.1,
 2024-12-05,Cuatro Cañadas - CEA-2 (GPRS),23.69,23.69,85.4,85.4,
 2024-12-05,Cuatro Cañadas - Colonia Chihuahua (GPRS),24.47,24.47,85.3,85.3,
@@ -65598,6 +65683,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-05,Ivirgarzama-Senda VI (GPRS),-100.0,-100.0,-100.0,-100.0,0.1
 2024-12-05,Jesús de Machaca_M (GPRS),8.42,8.42,41.11,41.11,
 2024-12-05,Jihuacuta,,,,,4.1
+2024-12-05,Korila,,,,,0.6
 2024-12-05,Magdalena,25.0,25.0,99.1,99.1,
 2024-12-05,Mairana_M (GPRS),19.6,19.6,86.7,86.7,
 2024-12-05,Mizque - SDC (GPRS),15.83,15.83,78.69,78.69,0.9
@@ -65648,14 +65734,20 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-05,Vivero Viloma - SDC (GPRS),21.38,21.38,49.71,49.71,
 2024-12-05,Yacuiba,32.0,26.0,78.0,51.8,
 2024-12-06,4 Esquinas (GPRS),7.21,7.21,,,
+2024-12-06,Acasio,,,,,54.0
+2024-12-06,Achumani,,,,,5.4
 2024-12-06,Aguadas (GPRS),7.97,7.97,91.1,91.1,
 2024-12-06,Aiquile (GPRS),18.13,18.13,76.6,76.6,
 2024-12-06,Alalay (GPRS),19.95,12.74,59.0,37.82,0.2
 2024-12-06,Alto Peñas (GPRS),11.41,11.41,74.29,74.29,7.5
 2024-12-06,Camiri,24.0,24.0,73.0,73.0,
+2024-12-06,Campamento 2 - Suñasivi,,,,,8.9
+2024-12-06,Carabuco,,6.0,,,
 2024-12-06,Charazani (GPRS),20.55,12.91,97.34,60.66,
+2024-12-06,Chasqui (Escoma),,,,,7.0
 2024-12-06,Chua Cocani_M (GPRS),11.95,11.95,70.38,70.38,1.0
 2024-12-06,Chuquiaguillo_LP,,,,,1.7
+2024-12-06,Collana,16.0,2.0,,,3.6
 2024-12-06,Comarapa,,,,,0.7
 2024-12-06,Concepcion,30.0,22.0,99.1,54.6,
 2024-12-06,Cuatro Cañadas - CEA-2 (GPRS),24.81,24.81,92.3,92.3,
@@ -65664,12 +65756,15 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-06,El Tejar (La Paz),,,,,2.5
 2024-12-06,El Tejar (Tarija),30.3,14.9,,,
 2024-12-06,Guajara-Mirim - Guayaramerín,,,,,12.0
+2024-12-06,Hichucota,,,,,5.5
 2024-12-06,Huarisuyo (GPRS),13.43,11.67,70.06,65.77,9.2
 2024-12-06,Huayllamarca,20.1,5.3,,,
+2024-12-06,Huayrocondo,,,,,2.5
 2024-12-06,Isla Suriqui_M (GPRS),12.73,12.73,70.52,70.52,
 2024-12-06,Ivirgarzama-Senda VI (GPRS),-100.0,-100.0,-100.0,-100.0,
 2024-12-06,Jesús de Machaca_M (GPRS),10.7,10.7,25.74,25.74,
 2024-12-06,Jihuacuta,,,,,3.0
+2024-12-06,Korila,,,,,6.2
 2024-12-06,Magdalena,32.0,27.0,83.0,66.0,
 2024-12-06,Mairana_M (GPRS),21.05,21.05,82.6,82.6,
 2024-12-06,Mizque - SDC (GPRS),17.38,17.38,77.62,77.62,1.1
@@ -65724,20 +65819,26 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-06,Yacuiba,34.0,23.0,77.5,58.3,
 2024-12-07, Paniagua_M (GPRS),,,,,46.5
 2024-12-07,4 Esquinas (GPRS),9.41,9.41,,,3.2
+2024-12-07,Acasio,,,,,2.1
+2024-12-07,Achiri,,,,,0.4
 2024-12-07,Aguadas (GPRS),9.42,9.42,81.7,81.7,1.8
 2024-12-07,Aiquile (GPRS),29.13,16.87,80.7,33.94,
 2024-12-07,Alto Peñas (GPRS),9.7,9.7,68.44,68.44,4.6
 2024-12-07,Anzaldo_M (GPRS),,,,,0.5
 2024-12-07,Arani,,,,,1.5
+2024-12-07,Ayoma,,,,,1.1
 2024-12-07,Buena Vista S.(GPRS),,,,,4.4
 2024-12-07,Buena Vista Sc,,,,,85.2
 2024-12-07,Camargo_H (GPRS),,,,,2.2
 2024-12-07,Camargo_M (GPRS),,,,,2.1
 2024-12-07,Camiri,25.0,25.0,77.8,77.8,
 2024-12-07,Capinota,,,,,15.7
+2024-12-07,Carabuco,,6.3,,,
 2024-12-07,Caranavi_H (GPRS),,,,,35.2
 2024-12-07,Carura_M (GPRS),,,,,10.2
 2024-12-07,Chua Cocani_M (GPRS),9.86,9.86,81.0,81.0,
+2024-12-07,Collana,18.0,4.0,,,
+2024-12-07,Colomi,,,,,7.5
 2024-12-07,Comarapa,,,,,2.5
 2024-12-07,Concepcion,28.0,22.0,99.1,73.6,
 2024-12-07,Coroico_H (GPRS),,,,,2.5
@@ -65750,14 +65851,17 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-07,El Tejar (Tarija),29.1,18.1,,,
 2024-12-07,Guajara-Mirim - Guayaramerín,,,,,4.6
 2024-12-07,Guayaramerin_M (GPRS),,,,,11.1
+2024-12-07,Hichucota,,,,,10.4
 2024-12-07,Huarisuyo (GPRS),17.47,3.69,98.0,47.75,
 2024-12-07,Huayllamarca,22.0,7.5,,,
+2024-12-07,Huayrocondo,,,,,0.5
 2024-12-07,Incapampa - Coroico_M (GPRS),,,,,1.4
 2024-12-07,Isla Suriqui_M (GPRS),14.3,8.3,87.1,60.74,
 2024-12-07,Ivirgarzama-Senda VI (GPRS),-100.0,-100.0,-100.0,-100.0,15.1
 2024-12-07,Ixiamas S.(GPRS),,,,,3.0
 2024-12-07,Jesús de Machaca_M (GPRS),15.65,3.2,92.6,32.86,
 2024-12-07,Jihuacuta,,,,,0.4
+2024-12-07,Korila,,,,,1.2
 2024-12-07,La Asunta_H (GPRS),,,,,6.8
 2024-12-07,Llallagua,,,,,13.2
 2024-12-07,Mairana_M (GPRS),19.98,19.98,97.2,97.2,0.8
@@ -65814,6 +65918,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-07,Vivero Viloma - SDC (GPRS),13.89,13.89,94.6,94.6,7.0
 2024-12-08, Paniagua_M (GPRS),,,,,28.2
 2024-12-08,4 Esquinas (GPRS),12.85,5.05,,,1.3
+2024-12-08,Achiri,,,,,5.2
 2024-12-08,Aguadas (GPRS),14.8,3.99,96.3,59.5,6.5
 2024-12-08,Aiquile (GPRS),32.55,14.99,89.1,45.11,
 2024-12-08,Alto Peñas (GPRS),10.06,10.06,69.19,69.19,
@@ -65824,13 +65929,22 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-08,Camargo_H (GPRS),,,,,0.6
 2024-12-08,Camargo_M (GPRS),,,,,0.1
 2024-12-08,Camiri,20.0,20.0,93.2,93.2,
+2024-12-08,Carabuco,,5.9,,,
 2024-12-08,Caranavi_H (GPRS),,,,,4.2
 2024-12-08,Carura_M (GPRS),,,,,5.5
+2024-12-08,Catacora,,,,,2.5
+2024-12-08,Cañas,,,,,3.5
 2024-12-08,Chua Cocani_M (GPRS),13.34,13.34,62.0,62.0,0.1
 2024-12-08,Chuquiaguillo_LP,,,,,1.0
 2024-12-08,Circuata,,,,,14.6
+2024-12-08,Ciudadela Univ GPRS UTO,,,,,9.6
+2024-12-08,Coimata,,,,,1.0
+2024-12-08,Collana,16.0,3.0,,,8.2
+2024-12-08,Colomi,,,,,7.6
+2024-12-08,Colquechaca_Potosí,,,,,2.2
 2024-12-08,Comarapa,,,,,0.3
 2024-12-08,Concepcion,27.0,22.0,99.1,78.1,
+2024-12-08,Coripata,,,,,4.8
 2024-12-08,Coroico_H (GPRS),,,,,4.5
 2024-12-08,Covendo_M (GPRS),,,,,1.0
 2024-12-08,Cuatro Cañadas - CEA-2 (GPRS),26.06,26.06,89.3,89.3,1.0
@@ -65851,6 +65965,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-08,Ixiamas S.(GPRS),,,,,2.2
 2024-12-08,Jesús de Machaca_M (GPRS),10.7,10.7,71.75,71.75,
 2024-12-08,Jihuacuta,,,,,3.2
+2024-12-08,Korila,,,,,0.4
 2024-12-08,La Asunta_H (GPRS),,,,,1.8
 2024-12-08,Mairana_M (GPRS),20.39,20.39,95.4,95.4,1.4
 2024-12-08,Mizque - SDC (GPRS),14.74,14.74,90.5,90.5,0.1
@@ -65868,6 +65983,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-08,Puerto Suarez,35.0,31.0,61.9,43.8,
 2024-12-08,Punilla,,,,,14.2
 2024-12-08,Putucuni Calientes (GPRS),10.44,3.0,96.3,73.03,0.1
+2024-12-08,Ravelo,,,,,20.0
 2024-12-08,Riberalta,26.0,26.0,87.9,87.9,
 2024-12-08,Riberalta_H (GPRS),,,,,10.0
 2024-12-08,Rosario del Ingre,,,,,10.0
@@ -65910,7 +66026,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-08,Vivero Viloma - SDC (GPRS),18.15,18.15,70.37,70.37,
 2024-12-09, Paniagua_M (GPRS),,,,,15.4
 2024-12-09,4 Esquinas (GPRS),8.98,8.98,,,4.7
+2024-12-09,Achiri,,,,,3.7
 2024-12-09,Achocalla,,,,,3.1
+2024-12-09,Achumani,,,,,10.3
 2024-12-09,Aguadas (GPRS),9.55,9.55,77.65,77.65,0.3
 2024-12-09,Aiquile (GPRS),36.62,17.17,91.2,33.66,
 2024-12-09,Alto Obrajes_Barrio Magisterio,,,,,14.1
@@ -65920,15 +66038,25 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-09,Apolo_M (GPRS),,,,,1.0
 2024-12-09,Arani,,,,,3.7
 2024-12-09,Ascencion de Guarayos,31.0,31.0,69.8,69.8,
+2024-12-09,Ayoma,,,,,2.9
 2024-12-09,Buena Vista S.(GPRS),,,,,13.6
 2024-12-09,Buena Vista Sc,,,,,95.4
 2024-12-09,Cabaña Forestal Oruro,,,,,5.6
 2024-12-09,Camiri,18.0,18.0,99.1,99.1,
+2024-12-09,Carabuco,,7.5,,,3.2
 2024-12-09,Caranavi_H (GPRS),,,,,26.1
 2024-12-09,Carura_M (GPRS),,,,,34.3
+2024-12-09,Catacora,,,,,7.8
+2024-12-09,Chasqui (Escoma),,,,,15.0
+2024-12-09,Chorocona,,,,,10.3
 2024-12-09,Chua Cocani_M (GPRS),9.33,9.33,77.97,77.97,0.2
 2024-12-09,Chuquiaguillo_LP,,,,,12.8
+2024-12-09,Ciudadela Univ GPRS UTO,,,,,5.6
+2024-12-09,Collana,18.0,4.0,,,
+2024-12-09,Colomi,,,,,1.5
+2024-12-09,Colquechaca_Potosí,,,,,1.8
 2024-12-09,Concepcion,32.0,21.0,99.1,58.5,
+2024-12-09,Coripata,,,,,2.0
 2024-12-09,Coroico_H (GPRS),,,,,6.5
 2024-12-09,Cotagaita_H (GPRS),,,,,0.3
 2024-12-09,Covendo_M (GPRS),,,,,13.5
@@ -65941,6 +66069,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-09,El Tejar (Tarija),29.3,15.1,,,
 2024-12-09,El Villar,,,,,2.1
 2024-12-09,Emborozu,,,,,8.0
+2024-12-09,Hichucota,,,,,20.6
 2024-12-09,Huancane Corapata_M (GPRS),,,,,3.2
 2024-12-09,Huarisuyo (GPRS),8.53,7.16,91.1,89.9,0.6
 2024-12-09,Huayllamarca,21.0,7.3,,,
@@ -65949,6 +66078,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-09,Ivirgarzama-Senda VI (GPRS),-100.0,-100.0,-100.0,-100.0,11.3
 2024-12-09,Ixiamas S.(GPRS),,,,,4.8
 2024-12-09,Jesús de Machaca_M (GPRS),,,,,0.2
+2024-12-09,Korila,,,,,6.4
 2024-12-09,La Asunta_H (GPRS),,,,,5.6
 2024-12-09,La Chimba,,,,,6.0
 2024-12-09,Magdalena,26.0,26.0,93.4,93.4,
@@ -66016,6 +66146,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-09,Vivero Viloma - SDC (GPRS),25.84,15.03,74.43,10.89,
 2024-12-09,Yacuiba,24.0,18.0,93.0,73.0,
 2024-12-10,4 Esquinas (GPRS),6.12,6.12,,,
+2024-12-10,Achumani,,,,,0.3
 2024-12-10,Aguadas (GPRS),6.52,6.52,79.0,79.0,
 2024-12-10,Aiquile (GPRS),18.89,18.89,88.0,88.0,
 2024-12-10,Alto Peñas (GPRS),16.26,4.58,99.7,54.24,1.2
@@ -66025,10 +66156,17 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-10,Cabaña Forestal Oruro,,,,,0.2
 2024-12-10,Camiri,20.0,20.0,87.5,87.5,
 2024-12-10,Capinota,,,,,16.4
+2024-12-10,Carabuco,,7.5,,,
 2024-12-10,Caranavi_H (GPRS),,,,,0.1
+2024-12-10,Cañas,,,,,2.0
+2024-12-10,Chasqui (Escoma),,,,,11.0
 2024-12-10,Chua Cocani_M (GPRS),10.88,10.88,81.1,81.1,4.6
 2024-12-10,Chuquiaguillo_LP,,,,,0.1
+2024-12-10,Coimata,,,,,1.5
+2024-12-10,Collana,20.0,5.0,,,
+2024-12-10,Colomi,,,,,6.3
 2024-12-10,Concepcion,29.0,23.0,99.1,73.8,
+2024-12-10,Coripata,,,,,1.0
 2024-12-10,Coroico_H (GPRS),,,,,0.2
 2024-12-10,Cuatro Cañadas - CEA-2 (GPRS),29.41,21.2,99.9,66.66,3.2
 2024-12-10,Cuatro Cañadas - Colonia Chihuahua (GPRS),29.96,24.01,86.9,67.14,3.6
@@ -66039,12 +66177,15 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-10,Guajara-Mirim - Guayaramerín,,,,,0.3
 2024-12-10,Huarisuyo (GPRS),6.03,6.03,98.7,98.7,
 2024-12-10,Huayllamarca,22.1,8.1,,,13.0
+2024-12-10,Huayrocondo,,,,,0.2
 2024-12-10,Incapampa - Coroico_M (GPRS),,,,,1.7
 2024-12-10,Isla Suriqui_M (GPRS),10.05,10.05,81.8,81.8,
 2024-12-10,Ivirgarzama-Senda VI (GPRS),-100.0,-100.0,-100.0,-100.0,6.5
 2024-12-10,Jesús de Machaca_M (GPRS),11.22,11.22,70.33,70.33,
+2024-12-10,Korila,,,,,5.2
 2024-12-10,La Asunta_H (GPRS),,,,,0.2
 2024-12-10,La Chimba,,,,,5.2
+2024-12-10,La Violeta,,,,,0.2
 2024-12-10,Magdalena,27.0,27.0,82.9,82.9,
 2024-12-10,Mairana_M (GPRS),23.55,18.68,100.0,73.51,20.8
 2024-12-10,Mataral,,,,,13.5
@@ -66116,23 +66257,30 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-11,Buena Vista S.(GPRS),,,,,9.8
 2024-12-11,Camiri,23.0,23.0,77.5,77.5,
 2024-12-11,Capinota,,,,,4.6
+2024-12-11,Carabuco,,5.3,,,
 2024-12-11,Caranavi_H (GPRS),,,,,6.3
 2024-12-11,Carura_M (GPRS),,,,,12.8
+2024-12-11,Chasqui (Escoma),,,,,5.0
 2024-12-11,Chua Cocani_M (GPRS),17.58,5.2,90.5,44.58,1.3
 2024-12-11,Circuata,,,,,4.2
+2024-12-11,Collana,19.0,4.0,,,
+2024-12-11,Colomi,,,,,3.2
 2024-12-11,Concepcion,33.0,21.0,99.1,55.3,
 2024-12-11,Coroico_H (GPRS),,,,,13.8
 2024-12-11,Cuatro Cañadas - CEA-2 (GPRS),25.8,25.8,83.8,83.8,
 2024-12-11,Cuatro Cañadas - Colonia Chihuahua (GPRS),36.31,26.96,79.15,46.41,
 2024-12-11,Desaguadero_M,11.02,11.02,64.38,64.38,
 2024-12-11,El Tejar (Tarija),30.4,16.6,,,
+2024-12-11,Hichucota,,,,,2.5
 2024-12-11,Huarisuyo (GPRS),6.41,6.41,91.2,91.2,
 2024-12-11,Huayllamarca,20.0,9.3,,,
 2024-12-11,Incapampa - Coroico_M (GPRS),,,,,29.7
 2024-12-11,Isla Suriqui_M (GPRS),10.7,10.7,70.25,70.25,
 2024-12-11,Ivirgarzama-Senda VI (GPRS),-100.0,-100.0,-100.0,-100.0,7.4
 2024-12-11,Jesús de Machaca_M (GPRS),20.54,1.84,93.8,29.82,
+2024-12-11,Korila,,,,,0.5
 2024-12-11,La Asunta_H (GPRS),,,,,1.3
+2024-12-11,La Violeta,,,,,3.6
 2024-12-11,Magdalena,26.0,26.0,93.4,93.4,
 2024-12-11,Mairana_M (GPRS),20.85,20.85,88.8,88.8,3.8
 2024-12-11,Mataral,,,,,12.6
@@ -66152,6 +66300,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-11,Pucarani,,,,,1.1
 2024-12-11,Puerto Suarez,36.0,30.0,69.7,49.7,
 2024-12-11,Putucuni Calientes (GPRS),7.49,7.49,60.46,60.46,1.8
+2024-12-11,Ravelo,,,,,4.2
 2024-12-11,Riberalta,26.0,26.0,87.9,87.9,
 2024-12-11,Rurrenabaque,33.0,23.0,99.1,70.2,
 2024-12-11,Salo_M (GPRS),,,,,2.1
@@ -66204,8 +66353,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-12,Camargo_H (GPRS),,,,,1.1
 2024-12-12,Camargo_M (GPRS),,,,,1.1
 2024-12-12,Camiri,23.0,23.0,87.8,87.8,
+2024-12-12,Campamento 2 - Suñasivi,,,,,6.7
+2024-12-12,Carabuco,,5.9,,,
+2024-12-12,Chasqui (Escoma),,,,,2.0
 2024-12-12,Chua Cocani_M (GPRS),11.35,11.35,74.07,74.07,0.3
 2024-12-12,Circuata,,,,,2.9
+2024-12-12,Collana,18.0,3.0,,,
 2024-12-12,Concepcion,31.0,24.0,99.1,65.8,
 2024-12-12,Cuatro Cañadas - CEA-2 (GPRS),28.88,28.88,83.0,83.0,
 2024-12-12,Cuatro Cañadas - Colonia Chihuahua (GPRS),37.04,29.91,76.45,47.0,
@@ -66214,6 +66367,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-12,El Tejar (Tarija),30.7,17.4,,,
 2024-12-12,Emborozu,,,,,5.0
 2024-12-12,Guajara-Mirim - Guayaramerín,,,,,3.5
+2024-12-12,Hichucota,,,,,1.6
 2024-12-12,Huancane Corapata_M (GPRS),,,,,0.2
 2024-12-12,Huarisuyo (GPRS),10.17,8.02,83.7,78.29,
 2024-12-12,Huayllamarca,21.1,9.0,,,
@@ -66221,6 +66375,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-12,Isla Suriqui_M (GPRS),11.22,11.22,78.59,78.59,
 2024-12-12,Ivirgarzama-Senda VI (GPRS),-100.0,-100.0,-100.0,-100.0,0.1
 2024-12-12,Jesús de Machaca_M (GPRS),8.68,8.68,72.47,72.47,1.8
+2024-12-12,Korila,,,,,2.4
 2024-12-12,Magdalena,26.0,26.0,93.4,93.4,
 2024-12-12,Mairana_M (GPRS),23.26,23.26,83.7,83.7,
 2024-12-12,Mizque - SDC (GPRS),20.13,20.13,64.27,64.27,0.2
@@ -66278,13 +66433,21 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-13,Alto Peñas (GPRS),15.18,4.17,92.4,54.91,
 2024-12-13,Ancoraimes,,,,,2.3
 2024-12-13,Apolo_M (GPRS),,,,,45.4
+2024-12-13,Ayoma,,,,,0.2
 2024-12-13,Buena Vista S.(GPRS),,,,,5.6
 2024-12-13,Camiri,25.0,25.0,77.8,77.8,
+2024-12-13,Campamento 2 - Suñasivi,,,,,5.9
+2024-12-13,Carabuco,,5.3,,,3.4
 2024-12-13,Caranavi_H (GPRS),,,,,11.7
 2024-12-13,Carura_M (GPRS),,,,,5.5
+2024-12-13,Catacora,,,,,4.7
+2024-12-13,Chasqui (Escoma),,,,,12.0
 2024-12-13,Chua Cocani_M (GPRS),10.97,10.97,66.14,66.14,
 2024-12-13,Circuata,,,,,2.1
+2024-12-13,Ckochas,,,,,1.7
+2024-12-13,Collana,17.0,2.0,,,0.9
 2024-12-13,Concepcion,32.0,22.0,99.1,51.8,
+2024-12-13,Coripata,,,,,6.0
 2024-12-13,Coroico_H (GPRS),,,,,29.6
 2024-12-13,Covendo_M (GPRS),,,,,0.4
 2024-12-13,Cuatro Cañadas - CEA-2 (GPRS),27.17,27.17,87.1,87.1,
@@ -66292,6 +66455,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-13,Desaguadero_M,5.99,5.99,86.2,86.2,0.6
 2024-12-13,El Tejar (Tarija),31.1,16.8,,,
 2024-12-13,Guajara-Mirim - Guayaramerín,,,,,29.8
+2024-12-13,Hichucota,,,,,3.4
 2024-12-13,Huarisuyo (GPRS),7.25,6.15,89.7,84.8,
 2024-12-13,Huayllamarca,22.5,8.1,,,
 2024-12-13,Incapampa - Coroico_M (GPRS),,,,,20.2
@@ -66299,6 +66463,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-13,Ixiamas S.(GPRS),,,,,23.4
 2024-12-13,Jesús de Machaca_M (GPRS),7.38,7.38,81.2,81.2,
 2024-12-13,Jihuacuta,,,,,1.2
+2024-12-13,Korila,,,,,6.7
 2024-12-13,La Asunta_H (GPRS),,,,,5.1
 2024-12-13,Magdalena,25.0,25.0,93.3,93.3,
 2024-12-13,Mairana_M (GPRS),24.59,24.59,74.43,74.43,
@@ -66362,9 +66527,16 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-14,Camargo_H (GPRS),,,,,0.1
 2024-12-14,Camargo_M (GPRS),,,,,0.1
 2024-12-14,Camiri,21.0,21.0,93.2,93.2,
+2024-12-14,Carabuco,,5.7,,,
+2024-12-14,Chasqui (Escoma),,,,,8.0
 2024-12-14,Chua Cocani_M (GPRS),9.39,9.39,78.88,78.88,
 2024-12-14,Chuqui Chuqui,,,,,20.0
+2024-12-14,Collana,16.0,3.0,,,1.7
+2024-12-14,Colomi,,,,,6.5
+2024-12-14,Colquechaca_Potosí,,,,,0.5
+2024-12-14,Comarapa,,,,,1.9
 2024-12-14,Concepcion,28.0,22.0,99.1,69.3,
+2024-12-14,Coripata,,,,,2.0
 2024-12-14,Coroico_H (GPRS),,,,,2.1
 2024-12-14,Cuatro Cañadas - CEA-2 (GPRS),22.86,22.86,92.6,92.6,1.2
 2024-12-14,Cuatro Cañadas - Colonia Chihuahua (GPRS),32.32,23.23,93.7,51.46,
@@ -66376,10 +66548,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-14,Guajara-Mirim - Guayaramerín,,,,,0.5
 2024-12-14,Huarisuyo (GPRS),4.69,4.69,92.8,92.8,1.0
 2024-12-14,Huayllamarca,22.0,7.0,,,
+2024-12-14,Huayrocondo,,,,,0.8
 2024-12-14,Incapampa - Coroico_M (GPRS),,,,,5.4
 2024-12-14,Isla Suriqui_M (GPRS),9.26,9.26,86.9,86.9,0.1
 2024-12-14,Jesús de Machaca_M (GPRS),9.39,9.39,59.49,59.49,0.7
 2024-12-14,Jihuacuta,,,,,3.1
+2024-12-14,Korila,,,,,5.6
 2024-12-14,La Asunta_H (GPRS),,,,,10.0
 2024-12-14,Magdalena,24.0,24.0,99.1,99.1,
 2024-12-14,Mairana_M (GPRS),20.16,20.16,96.3,96.3,1.6
@@ -66398,6 +66572,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-14,Puerto Suarez,29.0,26.0,82.9,73.6,
 2024-12-14,Punilla,,,,,24.6
 2024-12-14,Putucuni Calientes (GPRS),4.44,4.44,98.6,98.6,5.4
+2024-12-14,Ravelo,,,,,7.4
 2024-12-14,Riberalta,27.0,27.0,82.9,82.9,
 2024-12-14,Riberalta_H (GPRS),,,,,7.7
 2024-12-14,Rurrenabaque,31.0,23.0,99.1,78.5,
@@ -66437,6 +66612,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-14,Ñucchu,,,,,6.5
 2024-12-15, Paniagua_M (GPRS),,,,,7.9
 2024-12-15,4 Esquinas (GPRS),14.29,9.13,,,0.5
+2024-12-15,Acasio,,,,,1.5
 2024-12-15,Aguadas (GPRS),9.26,9.26,79.23,79.23,1.3
 2024-12-15,Aiquile (GPRS),30.22,16.04,64.95,34.98,3.4
 2024-12-15,Alalay (GPRS),12.44,7.43,,,
@@ -66445,10 +66621,15 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-15,Buena Vista S.(GPRS),,,,,5.6
 2024-12-15,Buena Vista Sc,,,,,5.2
 2024-12-15,Camargo_M (GPRS),,,,,0.1
+2024-12-15,Carabuco,,5.5,,,
 2024-12-15,Caranavi_H (GPRS),,,,,2.0
 2024-12-15,Carura_M (GPRS),,,,,0.2
 2024-12-15,Charazani (GPRS),14.69,8.86,,,
 2024-12-15,Chua Cocani_M (GPRS),9.06,9.06,76.6,76.6,
+2024-12-15,Collana,17.0,4.0,,,1.4
+2024-12-15,Colomi,,,,,5.0
+2024-12-15,Colquechaca_Potosí,,,,,0.5
+2024-12-15,Coripata,,,,,3.9
 2024-12-15,Coroico_H (GPRS),,,,,15.1
 2024-12-15,Covendo_M (GPRS),,,,,21.5
 2024-12-15,Cuatro Cañadas - CEA-2 (GPRS),35.18,28.09,66.31,38.29,
@@ -66464,6 +66645,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-15,Ixiamas S.(GPRS),,,,,15.6
 2024-12-15,Jesús de Machaca_M (GPRS),9.46,9.46,71.43,71.43,
 2024-12-15,Jihuacuta,,,,,4.2
+2024-12-15,Korila,,,,,1.8
 2024-12-15,La Asunta_H (GPRS),,,,,17.4
 2024-12-15,Mairana_M (GPRS),20.19,20.19,77.34,77.34,
 2024-12-15,Mizque - SDC (GPRS),13.95,13.95,80.3,80.3,1.0
@@ -66483,6 +66665,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-15,Punilla,,,,,12.3
 2024-12-15,Putucuni Calientes (GPRS),4.65,4.65,98.8,98.8,
 2024-12-15,Quillacas (GPRS),24.71,21.95,,,
+2024-12-15,Ravelo,,,,,5.0
 2024-12-15,Riberalta_H (GPRS),,,,,1.6
 2024-12-15,Sacabamba (GPRS),14.29,10.3,,,
 2024-12-15,Sacacani_M (GPRS),,,,,2.1
@@ -66517,17 +66700,23 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-15,Vivero Viloma - SDC (GPRS),19.19,19.19,53.65,53.65,4.6
 2024-12-16, Paniagua_M (GPRS),,,,,18.1
 2024-12-16,4 Esquinas (GPRS),14.86,2.06,,,1.0
+2024-12-16,Acasio,,,,,22.3
 2024-12-16,Aguadas (GPRS),18.2,2.28,93.1,53.2,
 2024-12-16,Aiquile (GPRS),30.09,15.25,79.68,39.31,0.1
 2024-12-16,Alalay (GPRS),13.86,7.48,100.0,72.45,0.2
 2024-12-16,Alto Peñas (GPRS),16.64,1.06,100.0,44.36,1.5
 2024-12-16,Apolo_M (GPRS),,,,,24.0
 2024-12-16,Arani,,,,,1.6
+2024-12-16,Ayoma,,,,,1.3
 2024-12-16,Buena Vista S.(GPRS),,,,,4.0
 2024-12-16,Camiri,33.0,19.0,93.1,29.5,
+2024-12-16,Carabuco,,4.9,,,
 2024-12-16,Carura_M (GPRS),,,,,0.7
 2024-12-16,Charazani (GPRS),12.1,8.48,99.98,84.64,0.2
+2024-12-16,Chasqui (Escoma),,,,,11.0
 2024-12-16,Chua Cocani_M (GPRS),16.79,4.48,89.7,43.92,
+2024-12-16,Collana,16.0,2.0,,,2.3
+2024-12-16,Comarapa,,,,,18.6
 2024-12-16,Concepcion,32.0,27.0,82.9,62.2,
 2024-12-16,Coroico_H (GPRS),,,,,0.8
 2024-12-16,Cuatro Cañadas - CEA-2 (GPRS),36.17,24.88,94.3,40.96,
@@ -66535,13 +66724,16 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-16,Desaguadero_M,16.19,9.98,75.13,42.37,
 2024-12-16,El Tejar (Tarija),27.3,14.9,,,
 2024-12-16,Guajara-Mirim - Guayaramerín,,,,,10.3
+2024-12-16,Hichucota,,,,,7.5
 2024-12-16,Huarisuyo (GPRS),19.78,0.87,98.4,33.48,0.8
 2024-12-16,Huayllamarca,21.1,7.2,,,
+2024-12-16,Huayrocondo,,,,,0.7
 2024-12-16,Incapampa - Coroico_M (GPRS),,,,,0.1
 2024-12-16,Isla Suriqui_M (GPRS),13.32,9.53,80.0,53.39,
 2024-12-16,Ixiamas S.(GPRS),,,,,41.2
 2024-12-16,Jesús de Machaca_M (GPRS),15.65,10.31,70.32,45.77,
 2024-12-16,Jihuacuta,,,,,0.1
+2024-12-16,Korila,,,,,5.5
 2024-12-16,La Asunta_H (GPRS),,,,,0.9
 2024-12-16,Magdalena,30.0,26.0,93.4,69.7,
 2024-12-16,Mairana_M (GPRS),31.0,16.58,96.8,38.18,
@@ -66580,6 +66772,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-16,San Roque - El Alto (GPRS),19.63,4.23,93.7,18.76,
 2024-12-16,Santa Ana - Yacuma,32.0,24.0,93.3,62.2,
 2024-12-16,Sauce Pilata - SDC (GPRS),19.48,10.39,94.3,56.89,
+2024-12-16,Soracachi (Auto),,,,,0.8
 2024-12-16,Soracachi (GPRS),20.72,10.13,65.73,37.64,
 2024-12-16,Sorata,,,,,11.3
 2024-12-16,Sucre SENAMHI,23.0,14.0,,,
@@ -66606,7 +66799,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-17,Buena Vista S.(GPRS),,,,,2.2
 2024-12-17,Cabaña Forestal Oruro,,,,,4.2
 2024-12-17,Camiri,24.0,24.0,73.0,73.0,
+2024-12-17,Carabuco,,5.7,,,
+2024-12-17,Catacora,,,,,2.7
 2024-12-17,Chua Cocani_M (GPRS),10.51,10.51,68.66,68.66,
+2024-12-17,Collana,17.0,3.0,,,1.8
+2024-12-17,Colquechaca_Potosí,,,,,1.5
+2024-12-17,Comarapa,,,,,2.6
 2024-12-17,Concepcion,32.0,23.0,99.1,55.1,
 2024-12-17,Covendo_M (GPRS),,,,,1.0
 2024-12-17,Cuatro Cañadas - CEA-2 (GPRS),28.93,28.93,76.35,76.35,
@@ -66620,6 +66818,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-17,Ixiamas S.(GPRS),,,,,7.0
 2024-12-17,Jesús de Machaca_M (GPRS),18.58,-0.6,97.7,34.56,2.2
 2024-12-17,Jihuacuta,,,,,0.5
+2024-12-17,Korila,,,,,6.1
+2024-12-17,Llallagua,,,,,1.5
 2024-12-17,Magdalena,25.0,25.0,87.9,87.9,
 2024-12-17,Mairana_M (GPRS),21.9,21.9,74.35,74.35,
 2024-12-17,Mizque - SDC (GPRS),18.67,18.67,57.3,57.3,
@@ -66677,8 +66877,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-18,Buena Vista S.(GPRS),,,,,1.0
 2024-12-18,Cabaña Forestal Oruro,,,,,2.2
 2024-12-18,Camiri,25.0,25.0,68.8,68.8,
+2024-12-18,Carabuco,,4.5,,,
+2024-12-18,Chasqui (Escoma),,,,,0.5
+2024-12-18,Chorocona,,,,,19.3
 2024-12-18,Chua Cocani_M (GPRS),9.85,9.85,70.68,70.68,0.1
+2024-12-18,Collana,16.0,4.0,,,6.5
+2024-12-18,Colquechaca_Potosí,,,,,3.5
 2024-12-18,Concepcion,31.0,23.0,93.3,62.0,
+2024-12-18,Coripata,,,,,1.5
 2024-12-18,Coroico_H (GPRS),,,,,0.2
 2024-12-18,Cuatro Cañadas - CEA-2 (GPRS),26.58,26.58,84.6,84.6,
 2024-12-18,Cuatro Cañadas - Colonia Chihuahua (GPRS),35.92,25.91,82.7,46.27,0.4
@@ -66692,7 +66898,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-18,Isla Suriqui_M (GPRS),17.29,7.76,85.6,37.77,
 2024-12-18,Ixiamas S.(GPRS),,,,,21.0
 2024-12-18,Jesús de Machaca_M (GPRS),19.55,5.03,95.1,31.05,
+2024-12-18,Korila,,,,,5.5
 2024-12-18,La Asunta_H (GPRS),,,,,3.4
+2024-12-18,Llallagua,,,,,1.2
 2024-12-18,Magdalena,24.0,24.0,99.1,99.1,
 2024-12-18,Mairana_M (GPRS),22.56,22.56,79.7,79.7,
 2024-12-18,Mizque - SDC (GPRS),32.25,17.78,67.06,17.6,
@@ -66713,6 +66921,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-18,San Buenaventura_M (GPRS),,,,,10.2
 2024-12-18,San Jacinto_M (GPRS),30.53,14.3,98.6,44.89,
 2024-12-18,San Jose de Chiquitos,34.0,29.0,78.3,52.3,
+2024-12-18,San Julian,,,,,5.0
 2024-12-18,San Julian - Comunidad Los Angeles (GPRS),35.22,25.37,88.4,50.62,2.1
 2024-12-18,San Julian - Nucleo 32 (GPRS),33.52,25.34,,,1.0
 2024-12-18,San Pedro - Río Victoria (GPRS),26.28,26.28,88.0,88.0,
@@ -66721,6 +66930,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-18,San Roque - El Alto (GPRS),17.79,7.21,83.3,27.71,
 2024-12-18,Santa Ana - Yacuma,26.0,26.0,93.4,93.4,
 2024-12-18,Sauce Pilata - SDC (GPRS),23.45,14.47,76.94,36.66,
+2024-12-18,Soracachi (Auto),,,,,0.4
 2024-12-18,Sucre SENAMHI,26.5,13.0,,,
 2024-12-18,Sunjani (GPRS),7.43,7.43,83.1,83.1,
 2024-12-18,Talula_Tako Tako,26.0,11.0,,,
@@ -66739,6 +66949,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-18,Yacuiba,37.0,19.0,87.4,47.1,
 2024-12-19, Paniagua_M (GPRS),,,,,23.6
 2024-12-19,4 Esquinas (GPRS),9.04,9.04,,,0.1
+2024-12-19,Achumani,,,,,1.6
 2024-12-19,Aguadas (GPRS),9.44,9.44,77.32,77.32,
 2024-12-19,Aiquile (GPRS),22.31,22.31,58.41,58.41,
 2024-12-19,Alto Obrajes_Barrio Magisterio,,,,,5.2
@@ -66749,24 +66960,38 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-19,Buena Vista Sc,,,,,5.6
 2024-12-19,Cabaña Forestal Oruro,,,,,6.3
 2024-12-19,Camiri,23.0,23.0,87.8,87.8,
+2024-12-19,Campamento 2 - Suñasivi,,,,,6.1
+2024-12-19,Carabuco,,5.3,,,
 2024-12-19,Caranavi_H (GPRS),,,,,5.0
+2024-12-19,Chasqui (Escoma),,,,,2.5
+2024-12-19,Chorocona,,,,,8.2
 2024-12-19,Chua Cocani_M (GPRS),10.16,10.16,65.88,65.88,
 2024-12-19,Chuquiaguillo_LP,,,,,9.2
+2024-12-19,Ciudadela Univ GPRS UTO,,,,,18.6
+2024-12-19,Coimata,,,,,12.5
+2024-12-19,Collana,18.0,5.0,,,
+2024-12-19,Colquechaca_Potosí,,,,,1.5
 2024-12-19,Concepcion,30.0,22.0,99.1,61.7,
 2024-12-19,Coroico_H (GPRS),,,,,1.1
 2024-12-19,Cuatro Cañadas - CEA-2 (GPRS),33.44,22.97,100.0,57.71,
 2024-12-19,Cuatro Cañadas - Colonia Chihuahua (GPRS),33.96,22.9,100.0,54.46,
 2024-12-19,Desaguadero_M,16.47,5.8,83.5,45.19,0.6
+2024-12-19,El Puente,,,,,2.3
 2024-12-19,El Puente_H (GPRS),,,,,1.2
 2024-12-19,El Tejar (La Paz),,,,,2.2
 2024-12-19,El Tejar (Tarija),20.6,15.2,,,4.6
 2024-12-19,Emborozu,,,,,17.0
 2024-12-19,Guajara-Mirim - Guayaramerín,,,,,8.7
+2024-12-19,Hichucota,,,,,13.0
 2024-12-19,Huarisuyo (GPRS),10.59,7.45,86.6,72.84,5.5
 2024-12-19,Huayllamarca,21.0,7.0,,,
+2024-12-19,Huayrocondo,,,,,2.6
 2024-12-19,Incapampa - Coroico_M (GPRS),,,,,0.9
 2024-12-19,Isla Suriqui_M (GPRS),14.95,6.44,93.4,58.38,3.8
 2024-12-19,Jesús de Machaca_M (GPRS),18.06,2.68,95.3,32.49,8.7
+2024-12-19,Korila,,,,,0.9
+2024-12-19,La Violeta,,,,,0.8
+2024-12-19,Llallagua,,,,,19.1
 2024-12-19,Magdalena,25.0,25.0,93.3,93.3,
 2024-12-19,Mairana_M (GPRS),22.23,22.23,83.0,83.0,0.2
 2024-12-19,Mizque - SDC (GPRS),29.14,14.42,95.0,30.98,
@@ -66809,6 +67034,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-19,Tarija,18.0,18.0,82.0,82.0,
 2024-12-19,Templo (GPRS),7.42,7.42,87.0,87.0,6.9
 2024-12-19,Temporal - SDC (GPRS),25.47,11.2,38.63,0.04,0.1
+2024-12-19,Terrazas de Achumani,,,,,2.4
 2024-12-19,Tiraque_M (GPRS),14.18,14.18,57.82,57.82,
 2024-12-19,Toma Ravelo_M (GPRS),,,,,3.6
 2024-12-19,Viacha_M (GPRS),16.9,3.81,96.2,40.6,
@@ -66824,7 +67050,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-19,Yacuiba,29.0,20.0,99.1,65.4,
 2024-12-20, Paniagua_M (GPRS),,,,,34.1
 2024-12-20,4 Esquinas (GPRS),4.48,4.48,,,26.1
+2024-12-20,Achiri,,,,,2.3
 2024-12-20,Achocalla,,,,,1.7
+2024-12-20,Achumani,,,,,0.3
 2024-12-20,Aguadas (GPRS),4.42,4.42,91.8,91.8,9.1
 2024-12-20,Aiquile (GPRS),16.44,16.44,92.7,92.7,7.7
 2024-12-20,Alcantarí_Aeropuerto,,,,,1.0
@@ -66833,17 +67061,26 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-20,Anzaldo,,,,,3.1
 2024-12-20,Anzaldo_M (GPRS),,,,,2.8
 2024-12-20,Arani,,,,,5.5
+2024-12-20,Ayoma,,,,,25.1
 2024-12-20,Buena Vista S.(GPRS),,,,,0.6
 2024-12-20,Buena Vista Sc,,,,,135.4
 2024-12-20,Cabaña Forestal Oruro,,,,,2.0
 2024-12-20,Camiri,21.0,21.0,87.6,87.6,
+2024-12-20,Campamento 2 - Suñasivi,,,,,6.5
 2024-12-20,Capinota,,,,,7.2
+2024-12-20,Carabuco,,5.1,,,18.9
 2024-12-20,Caranavi_H (GPRS),,,,,15.2
 2024-12-20,Carura_M (GPRS),,,,,0.4
+2024-12-20,Catacora,,,,,3.2
+2024-12-20,Chorocona,,,,,12.3
 2024-12-20,Chua Cocani_M (GPRS),9.65,9.65,77.9,77.9,2.2
 2024-12-20,Chuquiaguillo_LP,,,,,3.1
 2024-12-20,Circuata,,,,,8.4
+2024-12-20,Collana,20.0,6.0,,,
+2024-12-20,Colomi,,,,,5.0
+2024-12-20,Colquechaca_Potosí,,,,,4.6
 2024-12-20,Concepcion,31.0,22.0,99.1,62.0,
+2024-12-20,Coripata,,,,,43.4
 2024-12-20,Coroico_H (GPRS),,,,,24.9
 2024-12-20,Covendo_M (GPRS),,,,,6.5
 2024-12-20,Cuatro Cañadas - CEA-2 (GPRS),29.8,24.1,98.0,68.54,7.0
@@ -66853,22 +67090,28 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-20,El Común Caraparí,,,,,0.1
 2024-12-20,El Tejar (La Paz),,,,,0.5
 2024-12-20,El Tejar (Tarija),31.5,10.4,,,1.2
+2024-12-20,Hichucota,,,,,10.0
 2024-12-20,Huancane Corapata_M (GPRS),,,,,4.9
 2024-12-20,Huarisuyo (GPRS),7.52,7.52,87.9,87.9,3.9
 2024-12-20,Huayllamarca,21.0,9.1,,,
+2024-12-20,Huayrocondo,,,,,7.0
 2024-12-20,Incapampa - Coroico_M (GPRS),,,,,31.3
 2024-12-20,Isla Suriqui_M (GPRS),15.35,6.84,87.2,43.75,3.1
 2024-12-20,Jesús de Machaca_M (GPRS),18.12,1.77,94.2,40.83,
+2024-12-20,Korila,,,,,11.2
 2024-12-20,La Asunta_H (GPRS),,,,,31.3
 2024-12-20,La Chimba,,,,,16.2
+2024-12-20,La Violeta,,,,,10.2
 2024-12-20,Magdalena,26.0,26.0,93.4,93.4,
 2024-12-20,Mairana_M (GPRS),19.41,19.41,100.0,100.0,13.0
+2024-12-20,Mataral,,,,,10.7
 2024-12-20,Mizque - SDC (GPRS),15.83,15.83,94.4,94.4,2.1
 2024-12-20,Montero_Muyurina,,,,,3.8
 2024-12-20,Omereque - SDC (GPRS),19.12,17.89,95.7,94.3,9.5
 2024-12-20,Oruro (GPRS),19.0,7.0,86.5,45.0,
 2024-12-20,Pailon - Pozo del Tigre (GPRS),24.8,24.8,96.1,96.1,5.8
 2024-12-20,Palos Blancos_M (GPRS),,,,,0.5
+2024-12-20,Parotani,,,,,19.2
 2024-12-20,Pasankeri ,,,,,1.7
 2024-12-20,Pocona - SDC (GPRS),13.68,13.68,88.7,88.7,28.9
 2024-12-20,Pojo - SDC (GPRS),26.5,15.03,95.3,47.8,0.8
@@ -66882,6 +67125,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-20,Punilla,,,,,28.6
 2024-12-20,Putucuni Calientes (GPRS),0.35,0.35,94.6,94.6,6.5
 2024-12-20,Quiabaya,,,,,4.1
+2024-12-20,Ravelo,,,,,17.0
 2024-12-20,Riberalta,27.0,27.0,82.9,82.9,
 2024-12-20,Rurrenabaque,33.0,24.0,99.1,62.4,
 2024-12-20,Sacacani_M (GPRS),,,,,0.3
@@ -66890,8 +67134,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-20,San Benito,,,,,3.0
 2024-12-20,San Jacinto_M (GPRS),28.72,15.44,71.96,31.03,2.1
 2024-12-20,San Jose de Chiquitos,32.0,25.0,93.3,62.2,
+2024-12-20,San Julian,,,,,10.0
 2024-12-20,San Julian - Comunidad Los Angeles (GPRS),26.37,26.37,89.6,89.6,0.3
 2024-12-20,San Julian - Nucleo 32 (GPRS),23.44,23.44,,,1.0
+2024-12-20,San Lucas,,,,,41.0
 2024-12-20,San Pedro - Río Victoria (GPRS),24.46,24.46,94.3,94.3,0.2
 2024-12-20,San Pedro - San Antonio (GPRS),24.07,24.07,95.6,95.6,
 2024-12-20,San Pedro de Buena Vista (GPRS),14.39,14.39,87.5,87.5,2.8
@@ -66929,6 +67175,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-21, Paniagua_M (GPRS),,,,,28.9
 2024-12-21,4 Esquinas (GPRS),6.22,6.22,,,0.9
 2024-12-21,Achocalla,,,,,1.5
+2024-12-21,Achumani,,,,,0.5
 2024-12-21,Aguadas (GPRS),7.23,7.23,90.8,90.8,1.2
 2024-12-21,Aiquile (GPRS),32.65,13.09,94.1,45.78,
 2024-12-21,Alto Obrajes_Barrio Magisterio,,,,,5.4
@@ -66941,10 +67188,17 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-21,Camargo_H (GPRS),,,,,17.6
 2024-12-21,Camargo_M (GPRS),,,,,18.7
 2024-12-21,Camiri,25.0,25.0,73.2,73.2,
+2024-12-21,Campamento 2 - Suñasivi,,,,,0.8
+2024-12-21,Carabuco,,5.3,,,
 2024-12-21,Caranavi_H (GPRS),,,,,2.0
 2024-12-21,Carura_M (GPRS),,,,,0.8
+2024-12-21,Catacora,,,,,0.1
+2024-12-21,Chasqui (Escoma),,,,,5.8
 2024-12-21,Chua Cocani_M (GPRS),10.7,10.7,77.13,77.13,4.6
 2024-12-21,Chuquiaguillo_LP,,,,,0.1
+2024-12-21,Ckochas,,,,,10.5
+2024-12-21,Collana,17.0,4.0,,,2.8
+2024-12-21,Colomi,,,,,3.5
 2024-12-21,Concepcion,29.0,21.0,99.1,73.8,
 2024-12-21,Coroico_H (GPRS),,,,,0.5
 2024-12-21,Covendo_M (GPRS),,,,,0.5
@@ -66953,12 +67207,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-21,Desaguadero_M,17.82,3.64,85.1,40.41,0.1
 2024-12-21,El Tejar (La Paz),,,,,2.2
 2024-12-21,Guajara-Mirim - Guayaramerín,,,,,14.9
+2024-12-21,Hichucota,,,,,4.5
 2024-12-21,Huancane Corapata_M (GPRS),,,,,5.4
 2024-12-21,Huarisuyo (GPRS),7.58,7.58,88.3,88.3,0.7
 2024-12-21,Huayllamarca,22.2,8.0,,,
 2024-12-21,Incapampa - Coroico_M (GPRS),,,,,0.1
 2024-12-21,Isla Suriqui_M (GPRS),17.5,8.09,85.8,45.65,5.0
 2024-12-21,Jesús de Machaca_M (GPRS),20.4,0.07,94.2,28.58,0.6
+2024-12-21,Korila,,,,,2.3
 2024-12-21,La Asunta_H (GPRS),,,,,1.3
 2024-12-21,Mairana_M (GPRS),18.69,18.69,100.0,100.0,1.6
 2024-12-21,Mizque - SDC (GPRS),27.28,13.5,92.7,45.09,2.3
@@ -66967,6 +67223,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-21,Oruro (GPRS),22.0,9.0,70.4,32.8,
 2024-12-21,Pailon - Pozo del Tigre (GPRS),35.16,24.41,97.1,52.66,
 2024-12-21,Palos Blancos_M (GPRS),,,,,7.4
+2024-12-21,Parotani,,,,,3.6
 2024-12-21,Pasankeri ,,,,,2.3
 2024-12-21,Pocona - SDC (GPRS),25.75,11.8,94.2,38.17,
 2024-12-21,Pojo - SDC (GPRS),24.65,13.98,95.0,59.17,0.1
@@ -67002,6 +67259,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-21,Taruma,,,,,10.0
 2024-12-21,Templo (GPRS),8.39,8.39,84.3,84.3,1.8
 2024-12-21,Temporal - SDC (GPRS),26.17,12.53,64.7,0.02,
+2024-12-21,Terrazas de Achumani,,,,,4.9
 2024-12-21,Tiraque_M (GPRS),20.02,8.89,85.7,42.47,0.1
 2024-12-21,Urriolagoytia,,,,,6.0
 2024-12-21,Viacha_M (GPRS),18.21,2.36,94.2,35.33,0.2
@@ -67013,6 +67271,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-21,Vino Tinto,,,,,1.7
 2024-12-21,Viru Viru,25.0,25.0,93.3,93.3,
 2024-12-21,Viscachas Chirage (GPRS),10.17,10.17,74.16,74.16,3.4
+2024-12-21,Vitichi,,,,,2.2
 2024-12-21,Vivero Chimboco - SDC (GPRS),25.78,13.36,80.0,31.12,0.7
 2024-12-21,Vivero Viloma - SDC (GPRS),25.25,11.95,93.9,31.96,0.1
 2024-12-21,Viña Quemada,,,,,4.0
@@ -67025,6 +67284,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-22,Alto Peñas (GPRS),7.12,7.12,86.4,86.4,0.1
 2024-12-22,Ancoraimes,,,,,1.2
 2024-12-22,Arani,,,,,0.6
+2024-12-22,Ayoma,,,,,0.8
 2024-12-22,Buena Vista S.(GPRS),,,,,1.2
 2024-12-22,Buena Vista Sc,,,,,6.8
 2024-12-22,Cabaña Forestal Oruro,,,,,1.6
@@ -67032,10 +67292,22 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-22,Camargo_H (GPRS),,,,,1.3
 2024-12-22,Camargo_M (GPRS),,,,,1.2
 2024-12-22,Camiri,28.0,20.0,93.2,50.8,
+2024-12-22,Campamento 2 - Suñasivi,,,,,0.8
 2024-12-22,Campo Grande Bermejo,,,,,22.0
+2024-12-22,Carabuco,,5.5,,,
 2024-12-22,Carura_M (GPRS),,,,,5.1
+2024-12-22,Cañas,,,,,18.0
+2024-12-22,Chasqui (Escoma),,,,,2.4
+2024-12-22,Chorocona,,,,,14.2
 2024-12-22,Chua Cocani_M (GPRS),8.61,8.61,83.2,83.2,
 2024-12-22,Chuquiaguillo_LP,,,,,0.7
+2024-12-22,Ciudadela Univ GPRS UTO,,,,,5.4
+2024-12-22,Ckochas,,,,,6.5
+2024-12-22,Coimata,,,,,2.5
+2024-12-22,Collana,19.0,5.0,,,
+2024-12-22,Colomi,,,,,0.5
+2024-12-22,Colquechaca_Potosí,,,,,2.0
+2024-12-22,Comarapa,,,,,4.8
 2024-12-22,Concepcion,26.0,23.0,99.1,82.8,
 2024-12-22,Coroico_H (GPRS),,,,,5.7
 2024-12-22,Covendo_M (GPRS),,,,,14.8
@@ -67054,8 +67326,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-22,Isla Suriqui_M (GPRS),14.96,7.04,88.5,56.26,
 2024-12-22,Ixiamas S.(GPRS),,,,,0.2
 2024-12-22,Jesús de Machaca_M (GPRS),17.34,3.53,96.2,41.34,
+2024-12-22,Korila,,,,,1.4
+2024-12-22,La Violeta,,,,,39.6
+2024-12-22,Llallagua,,,,,2.0
 2024-12-22,Magdalena,30.0,29.0,78.3,74.0,
 2024-12-22,Mairana_M (GPRS),18.88,18.88,95.6,95.6,10.2
+2024-12-22,Mataral,,,,,11.2
 2024-12-22,Mizque - SDC (GPRS),15.77,15.77,82.0,82.0,1.1
 2024-12-22,Montero_Muyurina,,,,,6.4
 2024-12-22,Nuevo Mundo,,,,,9.7
@@ -67064,6 +67340,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-22,Pailon - Pozo del Tigre (GPRS),26.69,26.69,87.2,87.2,
 2024-12-22,Palos Blancos S.(GPRS),,,,,0.2
 2024-12-22,Palos Blancos_M (GPRS),,,,,3.3
+2024-12-22,Parotani,,,,,7.7
 2024-12-22,Pocona - SDC (GPRS),13.23,13.23,83.9,83.9,0.5
 2024-12-22,Pojo - SDC (GPRS),16.6,16.6,82.1,82.1,0.4
 2024-12-22,Poroma (CHQ),,,,,20.0
@@ -67076,6 +67353,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-22,Puerto Suarez,26.0,26.0,87.9,82.8,
 2024-12-22,Punilla,,,,,18.6
 2024-12-22,Putucuni Calientes (GPRS),2.79,2.79,89.4,89.4,7.6
+2024-12-22,Ravelo,,,,,18.4
 2024-12-22,Riberalta,32.0,23.0,99.1,62.2,
 2024-12-22,Riberalta_H (GPRS),,,,,0.7
 2024-12-22,Rurrenabaque,27.0,24.0,99.1,88.0,
@@ -67111,11 +67389,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-22,Villa Tunari_H (GPRS),,,,,136.4
 2024-12-22,Viru Viru,26.0,21.0,99.1,77.9,
 2024-12-22,Viscachas Chirage (GPRS),5.61,5.61,89.2,89.2,6.8
+2024-12-22,Vitichi,,,,,3.2
 2024-12-22,Vivero Chimboco - SDC (GPRS),20.84,12.94,88.2,42.72,0.5
 2024-12-22,Vivero Viloma - SDC (GPRS),12.21,12.21,95.7,95.7,28.5
 2024-12-22,Ñucchu,,,,,31.5
 2024-12-23, Paniagua_M (GPRS),,,,,24.5
 2024-12-23,4 Esquinas (GPRS),7.02,7.02,,,3.0
+2024-12-23,Acasio,,,,,38.5
+2024-12-23,Achiri,,,,,6.7
 2024-12-23,Aguadas (GPRS),9.88,9.88,67.48,67.48,1.8
 2024-12-23,Aiquile (GPRS),20.5,20.5,53.51,53.51,10.1
 2024-12-23,Alcantarí_Aeropuerto,,,,,3.0
@@ -67123,16 +67404,25 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-23,Ancoraimes,,,,,0.9
 2024-12-23,Apolo_M (GPRS),,,,,13.6
 2024-12-23,Ascencion de Guarayos,25.0,25.0,93.3,93.3,
+2024-12-23,Ayoma,,,,,5.0
 2024-12-23,Buena Vista S.(GPRS),,,,,0.6
 2024-12-23,Buena Vista Sc,,,,,70.4
 2024-12-23,Cabaña Forestal Oruro,,,,,0.6
+2024-12-23,Calacoto,,,,,0.8
 2024-12-23,Camargo_H (GPRS),,,,,2.7
 2024-12-23,Camargo_M (GPRS),,,,,2.5
 2024-12-23,Camiri,,,,93.2,
+2024-12-23,Campamento 2 - Suñasivi,,,,,5.3
 2024-12-23,Capinota,,,,,1.7
+2024-12-23,Carabuco,,7.0,,,
 2024-12-23,Caranavi_H (GPRS),,,,,3.0
 2024-12-23,Carura_M (GPRS),,,,,18.3
+2024-12-23,Cañas,,,,,23.0
+2024-12-23,Chorocona,,,,,5.1
 2024-12-23,Chua Cocani_M (GPRS),18.17,4.41,94.6,30.91,0.3
+2024-12-23,Collana,20.0,6.0,,,
+2024-12-23,Colomi,,,,,0.4
+2024-12-23,Colquechaca_Potosí,,,,,2.0
 2024-12-23,Concepcion,28.0,21.0,99.1,57.6,
 2024-12-23,Coroico_H (GPRS),,,,,0.4
 2024-12-23,Covendo_M (GPRS),,,,,8.2
@@ -67142,12 +67432,17 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-23,El Común Caraparí,,,,,7.4
 2024-12-23,El Tejar (Tarija),29.0,13.3,,,3.4
 2024-12-23,Emborozu,,,,,27.0
+2024-12-23,Hichucota,,,,,6.0
 2024-12-23,Huarisuyo (GPRS),9.3,8.49,81.9,76.63,0.2
 2024-12-23,Huayllamarca,20.1,7.0,,,
+2024-12-23,Huayrocondo,,,,,1.1
 2024-12-23,Incapampa - Coroico_M (GPRS),,,,,0.6
 2024-12-23,Isla Suriqui_M (GPRS),17.64,5.86,97.0,32.21,0.1
 2024-12-23,Ixiamas S.(GPRS),,,,,34.0
 2024-12-23,Jesús de Machaca_M (GPRS),20.66,-0.9,79.76,17.49,2.0
+2024-12-23,Korila,,,,,5.9
+2024-12-23,La Violeta,,,,,0.8
+2024-12-23,Llallagua,,,,,6.5
 2024-12-23,Magdalena,,,99.1,99.1,
 2024-12-23,Mairana_M (GPRS),18.62,18.62,92.7,92.7,
 2024-12-23,Mizque - SDC (GPRS),15.87,15.87,80.6,80.6,0.9
@@ -67165,6 +67460,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-23,Puerto Rico S.(GPRS),,,,,31.4
 2024-12-23,Puerto Suarez,32.0,24.0,93.3,55.1,
 2024-12-23,Putucuni Calientes (GPRS),6.14,6.14,79.66,79.66,1.7
+2024-12-23,Ravelo,,,,,4.5
 2024-12-23,Reyes,30.0,24.0,93.3,69.3,
 2024-12-23,Riberalta,,23.0,99.1,99.1,
 2024-12-23,Riberalta_H (GPRS),,,,,25.5
@@ -67174,6 +67470,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-23,San Jacinto_M (GPRS),27.38,15.51,95.0,44.8,8.3
 2024-12-23,San Javier,26.0,26.0,82.8,82.8,
 2024-12-23,San Jose de Chiquitos,32.0,25.0,87.9,62.2,
+2024-12-23,San Julian,,,,,21.0
 2024-12-23,San Julian - Comunidad Los Angeles (GPRS),25.44,25.44,85.1,85.1,0.3
 2024-12-23,San Julian - Nucleo 32 (GPRS),24.06,24.06,,,11.0
 2024-12-23,San Pedro - Río Victoria (GPRS),24.74,24.74,83.7,83.7,1.4
@@ -67206,11 +67503,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-23,Villazon,,,,,1.3
 2024-12-23,Viru Viru,25.0,25.0,82.7,82.7,
 2024-12-23,Viscachas Chirage (GPRS),8.55,8.55,76.28,76.28,2.0
+2024-12-23,Vitichi,,,,,1.6
 2024-12-23,Vivero Chimboco - SDC (GPRS),,,,,0.4
 2024-12-23,Vivero Viloma - SDC (GPRS),14.73,14.73,59.61,59.61,2.7
 2024-12-23,Yacuiba,32.0,22.0,87.7,62.0,
 2024-12-24, Paniagua_M (GPRS),,,,,1.1
 2024-12-24,4 Esquinas (GPRS),7.84,7.84,,,
+2024-12-24,Achumani,,,,,0.2
 2024-12-24,Aguadas (GPRS),8.79,8.79,72.03,72.03,
 2024-12-24,Aiquile (GPRS),18.27,18.27,74.6,74.6,
 2024-12-24,Alto Peñas (GPRS),12.22,12.22,52.93,52.93,
@@ -67218,8 +67517,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-24,Buena Vista S.(GPRS),,,,,0.4
 2024-12-24,Cachimayu,,,,,11.8
 2024-12-24,Camiri,23.0,23.0,77.5,77.5,
+2024-12-24,Campamento 2 - Suñasivi,,,,,5.7
+2024-12-24,Carabuco,,3.7,,,
 2024-12-24,Caranavi_H (GPRS),,,,,0.1
+2024-12-24,Cañas,,,,,4.0
 2024-12-24,Chua Cocani_M (GPRS),19.87,3.7,81.5,14.15,
+2024-12-24,Ckochas,,,,,5.3
+2024-12-24,Collana,21.0,5.0,,,
 2024-12-24,Concepcion,30.0,22.0,99.1,65.6,
 2024-12-24,Coroico_H (GPRS),,,,,0.4
 2024-12-24,Covendo_M (GPRS),,,,,0.1
@@ -67231,10 +67535,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-24,Guajara-Mirim - Guayaramerín,,,,,1.0
 2024-12-24,Huarisuyo (GPRS),4.71,4.71,98.6,98.6,0.7
 2024-12-24,Huayllamarca,20.2,8.1,,,5.1
+2024-12-24,Huayrocondo,,,,,0.7
 2024-12-24,Incapampa - Coroico_M (GPRS),,,,,1.0
 2024-12-24,Isla Suriqui_M (GPRS),20.1,5.79,93.3,14.45,
 2024-12-24,Ixiamas S.(GPRS),,,,,0.2
 2024-12-24,Jesús de Machaca_M (GPRS),21.45,-4.23,70.7,8.64,
+2024-12-24,Korila,,,,,1.3
 2024-12-24,Magdalena,25.0,25.0,93.3,93.3,
 2024-12-24,Mairana_M (GPRS),20.78,20.78,83.7,83.7,
 2024-12-24,Mecapaca_M (GPRS),,,,,0.4
@@ -67288,17 +67594,26 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-24,Vivero Viloma - SDC (GPRS),19.24,19.24,56.25,56.25,
 2024-12-24,Yacuiba,32.0,18.0,99.1,66.0,
 2024-12-25,4 Esquinas (GPRS),7.46,7.46,,,
+2024-12-25,Acasio,,,,,19.2
 2024-12-25,Aguadas (GPRS),7.98,7.98,74.74,74.74,0.9
 2024-12-25,Aiquile (GPRS),15.3,15.3,69.97,69.97,0.6
+2024-12-25,Alcantarí_Aeropuerto,,,,,5.2
 2024-12-25,Alto Peñas (GPRS),9.92,9.92,61.47,61.47,
 2024-12-25,Apolo_M (GPRS),,,,,5.5
 2024-12-25,Arani,,,,,0.6
 2024-12-25,Buena Vista S.(GPRS),,,,,0.6
+2024-12-25,Buena Vista Sc,,,,,87.2
 2024-12-25,Camiri,19.0,19.0,87.4,87.4,
+2024-12-25,Campamento 2 - Suñasivi,,,,,8.0
 2024-12-25,Campo Grande Bermejo,,,,,12.3
+2024-12-25,Carabuco,,6.9,,,
 2024-12-25,Caranavi_H (GPRS),,,,,0.8
 2024-12-25,Carura_M (GPRS),,,,,0.1
+2024-12-25,Chasqui (Escoma),,,,,0.4
 2024-12-25,Chua Cocani_M (GPRS),18.25,3.11,90.9,40.4,
+2024-12-25,Coimata,,,,,8.0
+2024-12-25,Collana,22.0,6.0,,,
+2024-12-25,Colomi,,,,,5.0
 2024-12-25,Concepcion,26.0,19.0,99.1,53.6,
 2024-12-25,Coroico_H (GPRS),,,,,2.2
 2024-12-25,Cotagaita (GPRS),,,,,9.3
@@ -67317,7 +67632,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-25,Incapampa - Coroico_M (GPRS),,,,,0.1
 2024-12-25,Isla Suriqui_M (GPRS),18.43,4.24,97.5,21.09,
 2024-12-25,Jesús de Machaca_M (GPRS),20.99,-4.87,66.62,13.43,
+2024-12-25,Korila,,,,,0.3
 2024-12-25,La Asunta_H (GPRS),,,,,17.3
+2024-12-25,Llallagua,,,,,2.0
 2024-12-25,Mairana_M (GPRS),20.06,20.06,60.58,60.58,1.2
 2024-12-25,Mizque - SDC (GPRS),15.5,15.5,64.52,64.52,1.8
 2024-12-25,Omereque - SDC (GPRS),19.31,18.06,63.34,52.67,
@@ -67325,6 +67642,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-25,Pailon - Pozo del Tigre (GPRS),22.13,22.13,80.4,80.4,13.8
 2024-12-25,Palos Blancos S.(GPRS),,,,,0.2
 2024-12-25,Palos Blancos_M (GPRS),,,,,1.8
+2024-12-25,Parotani,,,,,17.7
 2024-12-25,Pocona - SDC (GPRS),12.42,12.42,63.99,63.99,2.5
 2024-12-25,Pojo - SDC (GPRS),15.16,15.16,66.7,66.7,
 2024-12-25,Potosi Los Pinos,,,,,0.5
@@ -67337,6 +67655,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-25,Rurrenabaque,24.0,20.0,99.1,93.2,
 2024-12-25,San Buenaventura_M (GPRS),,,,,15.8
 2024-12-25,San Jacinto_M (GPRS),20.35,14.04,65.52,47.04,
+2024-12-25,San Julian,,,,,10.0
 2024-12-25,San Julian - Comunidad Los Angeles (GPRS),23.4,23.4,73.89,73.89,0.2
 2024-12-25,San Julian - Nucleo 32 (GPRS),31.49,18.0,,,1.6
 2024-12-25,San Pedro - Río Victoria (GPRS),31.89,17.18,91.1,49.13,0.2
@@ -67378,11 +67697,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-26,Apolo_M (GPRS),,,,,2.6
 2024-12-26,Buena Vista S.(GPRS),,,,,0.2
 2024-12-26,Camiri,18.0,18.0,81.9,81.9,
+2024-12-26,Carabuco,,2.0,,,
 2024-12-26,Caranavi_H (GPRS),,,,,29.2
 2024-12-26,Carura_M (GPRS),,,,,18.6
 2024-12-26,Chua Cocani_M (GPRS),18.76,2.26,77.77,15.19,
 2024-12-26,Circuata,,,,,3.4
+2024-12-26,Collana,18.0,-2.0,,,
 2024-12-26,Concepcion,29.0,18.0,93.0,51.1,
+2024-12-26,Coripata,,,,,3.5
 2024-12-26,Coroico_H (GPRS),,,,,4.7
 2024-12-26,Covendo_M (GPRS),,,,,17.4
 2024-12-26,Cuatro Cañadas - CEA-2 (GPRS),23.82,23.82,62.12,62.12,
@@ -67397,6 +67719,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-26,Ixiamas S.(GPRS),,,,,35.8
 2024-12-26,Jesús de Machaca_M (GPRS),20.55,-4.94,60.4,8.12,
 2024-12-26,Jihuacuta,,,,,1.1
+2024-12-26,Korila,,,,,5.1
 2024-12-26,La Asunta_H (GPRS),,,,,8.5
 2024-12-26,Magdalena,23.0,23.0,93.2,93.2,
 2024-12-26,Mairana_M (GPRS),18.15,18.15,70.94,70.94,
@@ -67448,11 +67771,15 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-26,Yacuiba,29.0,23.0,77.5,54.4,
 2024-12-26,Ñucchu,,,,,7.0
 2024-12-27,4 Esquinas (GPRS),4.41,4.41,,,
+2024-12-27,Acasio,,,,,3.1
 2024-12-27,Aguadas (GPRS),5.92,5.92,88.8,88.8,
 2024-12-27,Aiquile (GPRS),17.78,17.78,71.01,71.01,
 2024-12-27,Alto Peñas (GPRS),10.05,10.05,57.82,57.82,
 2024-12-27,Camiri,19.0,19.0,87.4,87.4,
+2024-12-27,Campamento 2 - Suñasivi,,,,,1.7
+2024-12-27,Carabuco,,5.0,,,
 2024-12-27,Chua Cocani_M (GPRS),18.24,4.61,82.5,35.33,
+2024-12-27,Collana,19.0,-1.0,,,
 2024-12-27,Concepcion,32.0,16.0,99.1,45.8,
 2024-12-27,Coroico_H (GPRS),,,,,0.1
 2024-12-27,Cuatro Cañadas - CEA-2 (GPRS),25.2,25.2,70.4,70.4,
@@ -67464,6 +67791,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-27,Isla Suriqui_M (GPRS),18.29,5.14,81.0,32.2,
 2024-12-27,Jesús de Machaca_M (GPRS),20.35,-0.44,87.2,14.08,
 2024-12-27,Jihuacuta,,,,,1.0
+2024-12-27,Korila,,,,,0.1
 2024-12-27,Magdalena,25.0,25.0,87.9,87.9,
 2024-12-27,Mairana_M (GPRS),18.03,18.03,75.18,75.18,
 2024-12-27,Mizque - SDC (GPRS),27.26,13.81,80.6,30.86,0.8
@@ -67511,7 +67839,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-28,Buena Vista S.(GPRS),,,,,0.2
 2024-12-28,Cabaña Forestal Oruro,,,,,0.6
 2024-12-28,Camiri,21.0,21.0,68.0,68.0,
+2024-12-28,Carabuco,,5.1,,,
+2024-12-28,Chasqui (Escoma),,,,,0.8
 2024-12-28,Chua Cocani_M (GPRS),17.45,6.14,74.24,35.32,
+2024-12-28,Collana,18.0,4.0,,,
+2024-12-28,Colquechaca_Potosí,,,,,1.0
 2024-12-28,Concepcion,32.0,18.0,87.3,55.1,
 2024-12-28,Cuatro Cañadas - CEA-2 (GPRS),25.99,25.99,69.43,69.43,
 2024-12-28,Cuatro Cañadas - Colonia Chihuahua (GPRS),35.69,25.66,69.52,32.79,
@@ -67541,6 +67873,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-28,Santa Ana - Yacuma,27.0,27.0,82.9,82.9,
 2024-12-28,Santivañez,,,,,6.6
 2024-12-28,Sauce Pilata - SDC (GPRS),12.05,12.05,79.74,79.74,
+2024-12-28,Soracachi (Auto),,,,,1.0
 2024-12-28,Sorata,,,,,8.0
 2024-12-28,Sucre SENAMHI,21.5,12.0,,,
 2024-12-28,Sunjani (GPRS),6.86,6.86,88.3,88.3,0.6
@@ -67554,10 +67887,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-28,Villamontes,32.0,28.0,54.1,35.5,
 2024-12-28,Viru Viru,27.0,27.0,73.5,73.5,
 2024-12-28,Viscachas Chirage (GPRS),5.74,5.74,89.6,89.6,
+2024-12-28,Vitichi,,,,,4.7
 2024-12-28,Vivero Chimboco - SDC (GPRS),26.75,12.24,99.4,24.57,
 2024-12-28,Vivero Viloma - SDC (GPRS),19.43,19.43,54.37,54.37,
 2024-12-29, Paniagua_M (GPRS),,,,,1.0
 2024-12-29,4 Esquinas (GPRS),6.29,6.29,,,2.9
+2024-12-29,Acasio,,,,,2.3
 2024-12-29,Aguadas (GPRS),6.51,6.51,86.9,86.9,6.7
 2024-12-29,Aiquile (GPRS),18.68,18.68,58.86,58.86,
 2024-12-29,Alto Peñas (GPRS),10.28,10.28,61.77,61.77,
@@ -67565,8 +67900,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-29,Anzaldo_M (GPRS),,,,,0.1
 2024-12-29,Camiri,23.0,23.0,68.4,68.4,
 2024-12-29,Capinota,,,,,5.6
+2024-12-29,Carabuco,,5.0,,,
+2024-12-29,Chorocona,,,,,6.2
 2024-12-29,Chua Cocani_M (GPRS),17.39,2.71,73.63,38.46,1.1
 2024-12-29,Chuquiaguillo_LP,,,,,3.8
+2024-12-29,Collana,17.0,3.0,,,
+2024-12-29,Colomi,,,,,2.5
+2024-12-29,Colquechaca_Potosí,,,,,2.1
 2024-12-29,Concepcion,32.0,19.0,93.1,51.8,
 2024-12-29,Coroico_H (GPRS),,,,,4.1
 2024-12-29,Cuatro Cañadas - CEA-2 (GPRS),26.98,26.98,59.0,59.0,
@@ -67574,17 +67914,20 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-29,Desaguadero_M,16.66,4.3,83.4,36.37,
 2024-12-29,Dorado Chico,,,,,4.8
 2024-12-29,El Puente_H (GPRS),,,,,0.7
+2024-12-29,Hichucota,,,,,0.1
 2024-12-29,Huancane Corapata_M (GPRS),,,,,0.1
 2024-12-29,Huarisuyo (GPRS),7.19,7.19,80.4,80.4,0.5
 2024-12-29,Huayllamarca,19.2,8.0,,,
 2024-12-29,Incapampa - Coroico_M (GPRS),,,,,1.7
 2024-12-29,Isla Suriqui_M (GPRS),17.31,6.45,75.13,34.38,
 2024-12-29,Jesús de Machaca_M (GPRS),19.75,3.39,82.4,24.86,
+2024-12-29,La Violeta,,,,,6.4
 2024-12-29,Mairana_M (GPRS),20.98,20.98,66.97,66.97,
 2024-12-29,Mizque - SDC (GPRS),26.54,17.1,66.22,31.53,
 2024-12-29,Omereque - SDC (GPRS),23.1,20.58,53.72,45.27,
 2024-12-29,Oruro (GPRS),21.0,8.0,80.8,32.5,
 2024-12-29,Pailon - Pozo del Tigre (GPRS),26.95,26.95,61.05,61.05,
+2024-12-29,Parotani,,,,,12.8
 2024-12-29,Pocona - SDC (GPRS),13.9,13.9,70.53,70.53,
 2024-12-29,Pojo - SDC (GPRS),18.9,18.9,58.25,58.25,
 2024-12-29,Presa Misicuni (GPRS),,,,,2.6
@@ -67597,6 +67940,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-29,San Jacinto_M (GPRS),26.68,17.55,70.55,36.89,
 2024-12-29,San Julian - Comunidad Los Angeles (GPRS),28.96,28.96,56.62,56.62,0.1
 2024-12-29,San Julian - Nucleo 32 (GPRS),26.91,26.91,,,
+2024-12-29,San Lucas,,,,,6.5
 2024-12-29,San Pedro - Río Victoria (GPRS),27.44,27.44,68.13,68.13,
 2024-12-29,San Pedro - San Antonio (GPRS),27.62,27.62,65.89,65.89,
 2024-12-29,San Pedro de Buena Vista (GPRS),13.17,13.17,70.86,70.86,
@@ -67630,7 +67974,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-30,Arani,,,,,0.5
 2024-12-30,Buena Vista S.(GPRS),,,,,0.2
 2024-12-30,Camiri,23.0,23.0,64.2,64.2,
+2024-12-30,Campamento 2 - Suñasivi,,,,,1.5
+2024-12-30,Carabuco,,4.0,,,
 2024-12-30,Chua Cocani_M (GPRS),18.82,3.17,76.76,18.32,
+2024-12-30,Collana,19.0,5.0,,,
+2024-12-30,Colquechaca_Potosí,,,,,6.0
 2024-12-30,Concepcion,33.0,19.0,93.1,46.0,
 2024-12-30,Coroico_H (GPRS),,,,,0.1
 2024-12-30,Cuatro Cañadas - CEA-2 (GPRS),30.06,30.06,56.1,56.1,
@@ -67680,19 +68028,27 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-30,Villamontes,37.0,22.0,87.6,30.6,
 2024-12-30,Viru Viru,27.0,27.0,69.1,69.1,
 2024-12-30,Viscachas Chirage (GPRS),6.32,6.32,96.6,96.6,
+2024-12-30,Vitichi,,,,,11.3
 2024-12-30,Vivero Chimboco - SDC (GPRS),,,,,1.7
 2024-12-30,Vivero Viloma - SDC (GPRS),20.05,20.05,43.64,43.64,
 2024-12-30,Yacuiba,34.0,23.0,93.3,52.3,
 2024-12-31,4 Esquinas (GPRS),7.02,7.02,,,3.4
+2024-12-31,Acasio,,,,,10.5
 2024-12-31,Aguadas (GPRS),8.25,8.25,73.3,73.3,
 2024-12-31,Aiquile (GPRS),21.81,21.81,58.54,58.54,
 2024-12-31,Alto Obrajes_Barrio Magisterio,,,,,1.2
 2024-12-31,Alto Peñas (GPRS),8.61,8.61,63.98,63.98,
 2024-12-31,Anzaldo,,,,,3.3
 2024-12-31,Anzaldo_M (GPRS),,,,,1.1
+2024-12-31,Ayoma,,,,,5.9
 2024-12-31,Camiri,24.0,24.0,64.4,64.4,
+2024-12-31,Campamento 2 - Suñasivi,,,,,5.8
 2024-12-31,Capinota,,,,,27.5
+2024-12-31,Carabuco,,4.9,,,
+2024-12-31,Cañas,,,,,3.0
 2024-12-31,Chua Cocani_M (GPRS),19.22,4.16,84.2,24.87,
+2024-12-31,Coimata,,,,,10.0
+2024-12-31,Collana,20.0,0.0,,,
 2024-12-31,Concepcion,34.0,22.0,99.1,49.2,
 2024-12-31,Cuatro Cañadas - CEA-2 (GPRS),28.82,28.82,69.06,69.06,
 2024-12-31,Cuatro Cañadas - Colonia Chihuahua (GPRS),36.86,28.86,67.79,42.76,
@@ -67705,6 +68061,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-31,Huayllamarca,18.2,7.3,,,0.4
 2024-12-31,Isla Suriqui_M (GPRS),18.23,7.74,84.1,34.56,
 2024-12-31,Jesús de Machaca_M (GPRS),20.02,1.51,76.94,20.82,
+2024-12-31,Korila,,,,,0.1
+2024-12-31,Llallagua,,,,,13.2
 2024-12-31,Magdalena,26.0,26.0,93.4,93.4,
 2024-12-31,Mairana_M (GPRS),19.9,19.9,77.75,77.75,
 2024-12-31,Mizque - SDC (GPRS),18.76,18.76,63.43,63.43,
@@ -67726,6 +68084,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-31,San Jose de Chiquitos,35.0,28.0,83.0,49.5,
 2024-12-31,San Julian - Comunidad Los Angeles (GPRS),28.83,28.83,73.38,73.38,
 2024-12-31,San Julian - Nucleo 32 (GPRS),28.35,28.35,,,
+2024-12-31,San Lucas,,,,,6.0
 2024-12-31,San Pedro - Río Victoria (GPRS),26.79,26.79,85.1,85.1,
 2024-12-31,San Pedro - San Antonio (GPRS),27.03,27.03,83.4,83.4,5.2
 2024-12-31,San Pedro de Buena Vista (GPRS),16.15,16.15,71.89,71.89,
@@ -67737,6 +68096,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-31,Tarija,20.0,20.0,77.2,77.2,
 2024-12-31,Templo (GPRS),4.34,4.34,100.0,100.0,7.4
 2024-12-31,Temporal - SDC (GPRS),26.31,13.53,58.6,0.02,
+2024-12-31,Terrazas de Achumani,,,,,0.4
 2024-12-31,Tiraque_M (GPRS),12.76,12.76,64.97,64.97,
 2024-12-31,Toma Ravelo_M (GPRS),,,,,0.1
 2024-12-31,Viacha_M (GPRS),19.59,1.77,95.9,27.12,
