@@ -6059,6 +6059,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-27,Santiago de Machaca,,,,,7.5
 2024-01-27,Santivañez,30.0,4.4,,,8.6
 2024-01-27,Sarco,,,,,0.1
+2024-01-27,Sauce Pilapata - SDC (GPRS),22.02,12.62,87.0,48.83,
 2024-01-27,Sauce Pilata - SDC (GPRS),22.02,12.62,87.0,48.83,
 2024-01-27,Sella Quebrada,26.5,15.0,,,
 2024-01-27,Sena_H (GPRS),,,,,1.57
@@ -6247,6 +6248,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-28,Santivañez,26.7,5.5,,,
 2024-01-28,Sara Ana,,,,,0.1
 2024-01-28,Sarco,,,,,15.1
+2024-01-28,Sauce Pilapata - SDC (GPRS),21.54,12.07,100.0,52.43,
 2024-01-28,Sauce Pilata - SDC (GPRS),21.54,12.07,100.0,52.43,
 2024-01-28,Sella Quebrada,27.5,13.0,,,
 2024-01-28,Sopachuy,26.5,14.5,,,
@@ -6477,6 +6479,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-29,Santiago de Machaca,,,,,2.2
 2024-01-29,Santivañez,25.5,3.3,,,25.4
 2024-01-29,Sarco,,,,,1.1
+2024-01-29,Sauce Pilapata - SDC (GPRS),21.7,11.62,100.0,54.63,4.4
 2024-01-29,Sauce Pilata - SDC (GPRS),21.7,11.62,100.0,54.63,4.4
 2024-01-29,Saykan Perulas,,,,,12.8
 2024-01-29,Sella Quebrada,25.0,12.0,,,
@@ -6728,6 +6731,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-30,Santivañez,31.1,4.4,,,9.1
 2024-01-30,Sara Ana,,,,,0.7
 2024-01-30,Sarco,30.5,13.3,,,
+2024-01-30,Sauce Pilapata - SDC (GPRS),22.12,13.3,85.0,48.35,3.1
 2024-01-30,Sauce Pilata - SDC (GPRS),22.12,13.3,85.0,48.35,3.1
 2024-01-30,Sella Quebrada,26.0,13.0,,,11.4
 2024-01-30,Senkata-D8,,,,,5.4
@@ -6958,6 +6962,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-01-31,Santiago de Machaca,,,,,9.0
 2024-01-31,Santivañez,31.1,3.3,,,17.7
 2024-01-31,Sarco,30.0,15.5,,,
+2024-01-31,Sauce Pilapata - SDC (GPRS),23.2,12.38,100.0,38.61,
 2024-01-31,Sauce Pilata - SDC (GPRS),23.2,12.38,100.0,38.61,
 2024-01-31,Sella Quebrada,28.0,12.5,,,
 2024-01-31,Sopachuy,,,,,7.2
@@ -7055,6 +7060,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-01,Chuquiago,,,,,2.5
 2024-02-01,Chuquiaguillo_LP,,,,,1.5
 2024-02-01,Circuata,,,,,36.0
+2024-02-01,Ciudadela Univ GPRS UTO,,,,,1.4
 2024-02-01,Ckochas,20.1,7.0,,,
 2024-02-01,Cobija Aeropuerto,,,,,21.3
 2024-02-01,Cochabamba Aeropuerto,,,,,12.7
@@ -7184,6 +7190,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-01,Santivañez,,,,,16.8
 2024-02-01,Sara Ana,38.0,25.0,,,
 2024-02-01,Sarco,,,,,10.7
+2024-02-01,Sauce Pilapata - SDC (GPRS),21.9,11.68,100.0,49.04,
 2024-02-01,Sauce Pilata - SDC (GPRS),21.9,11.68,100.0,49.04,
 2024-02-01,Saykan Perulas,,,,,24.5
 2024-02-01,Sella Quebrada,27.0,13.0,,,
@@ -7296,6 +7303,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-02,Chuqui Chuqui,32.0,17.0,,,
 2024-02-02,Chuquiago,33.0,13.2,,,
 2024-02-02,Circuata,,,,,5.1
+2024-02-02,Ciudadela Univ GPRS UTO,,,,,0.6
 2024-02-02,Ckochas,19.1,8.1,,,
 2024-02-02,Cochabamba Aeropuerto,,,,,4.3
 2024-02-02,Coimata,31.0,13.0,,,24.5
@@ -7438,6 +7446,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-02,Santivañez,,,,,8.6
 2024-02-02,Sara Ana,34.0,23.0,,,12.5
 2024-02-02,Sarco,,,,,7.9
+2024-02-02,Sauce Pilapata - SDC (GPRS),20.36,11.39,92.5,50.5,4.7
 2024-02-02,Sauce Pilata - SDC (GPRS),20.36,11.39,92.5,50.5,4.7
 2024-02-02,Sella Quebrada,26.0,13.5,,,7.2
 2024-02-02,Senkata-D8,,,,,10.6
@@ -7657,6 +7666,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-03,Santivañez,31.1,3.3,,,
 2024-02-03,Sara Ana,37.0,23.5,,,5.7
 2024-02-03,Sarco,,,,,0.3
+2024-02-03,Sauce Pilapata - SDC (GPRS),22.74,11.71,91.3,39.01,1.4
 2024-02-03,Sauce Pilata - SDC (GPRS),22.74,11.71,91.3,39.01,1.4
 2024-02-03,Sella Quebrada,29.0,12.0,,,
 2024-02-03,Sopachuy,26.0,12.0,,,
@@ -7847,6 +7857,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-04,Santivañez,33.3,5.5,,,
 2024-02-04,Sara Ana,33.0,23.5,,,0.2
 2024-02-04,Sarco,26.0,13.7,,,
+2024-02-04,Sauce Pilapata - SDC (GPRS),20.28,11.55,88.5,42.97,
 2024-02-04,Sauce Pilata - SDC (GPRS),20.28,11.55,88.5,42.97,
 2024-02-04,Sella Quebrada,28.5,13.5,,,
 2024-02-04,Sena_H (GPRS),,,,,1.37
@@ -7930,6 +7941,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-05,Chua Cocani_M (GPRS),15.81,12.69,62.41,40.72,
 2024-02-05,Chuqui Chuqui,36.0,18.0,,,14.2
 2024-02-05,Chuquiago,33.0,10.1,,,
+2024-02-05,Ciudadela Univ GPRS UTO,,,,,4.6
 2024-02-05,Ckochas,18.6,6.5,,,
 2024-02-05,Cobija Aeropuerto,,,,,5.5
 2024-02-05,Coimata,32.0,12.0,,,
@@ -8034,6 +8046,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-05,Santivañez,,,,,21.8
 2024-02-05,Sara Ana,30.0,23.0,,,
 2024-02-05,Sarco,29.4,15.5,,,
+2024-02-05,Sauce Pilapata - SDC (GPRS),22.57,11.61,86.9,37.85,0.7
 2024-02-05,Sauce Pilata - SDC (GPRS),22.57,11.61,86.9,37.85,0.7
 2024-02-05,Saykan Perulas,,,,,7.5
 2024-02-05,Sella Quebrada,29.5,12.0,,,
@@ -8262,6 +8275,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-06,Santivañez,30.0,5.5,,,
 2024-02-06,Sara Ana,36.0,23.0,,,17.5
 2024-02-06,Sarco,,,,,0.3
+2024-02-06,Sauce Pilapata - SDC (GPRS),21.89,11.97,87.2,38.85,
 2024-02-06,Sauce Pilata - SDC (GPRS),21.89,11.97,87.2,38.85,
 2024-02-06,Saykan Perulas,,,,,4.7
 2024-02-06,Sella Quebrada,25.5,12.5,,,1.0
@@ -8368,6 +8382,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-07,Chuquiago,,,,,6.0
 2024-02-07,Chuquiaguillo_LP,,,,,10.3
 2024-02-07,Circuata,,,,,2.5
+2024-02-07,Ciudadela Univ GPRS UTO,,,,,3.6
 2024-02-07,Ckochas,,,,,1.1
 2024-02-07,Coimata,32.0,12.0,,,
 2024-02-07,Colcha K,,,,,5.2
@@ -8497,6 +8512,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-07,Santivañez,31.1,3.3,,,
 2024-02-07,Sara Ana,34.0,23.0,,,0.2
 2024-02-07,Sarco,30.5,15.5,,,
+2024-02-07,Sauce Pilapata - SDC (GPRS),23.21,10.47,100.0,42.7,
 2024-02-07,Sauce Pilata - SDC (GPRS),23.21,10.47,100.0,42.7,
 2024-02-07,Saykan Perulas,,,,,8.5
 2024-02-07,Sella Quebrada,28.5,12.0,,,
@@ -8746,6 +8762,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-08,Santivañez,,,,,11.2
 2024-02-08,Sara Ana,34.0,24.0,,,24.5
 2024-02-08,Sarco,,,,,1.0
+2024-02-08,Sauce Pilapata - SDC (GPRS),21.54,13.15,91.8,58.81,18.1
 2024-02-08,Sauce Pilata - SDC (GPRS),21.54,13.15,91.8,58.81,18.1
 2024-02-08,Sella Quebrada,26.0,13.0,,,23.2
 2024-02-08,Sopachuy,,,,,21.8
@@ -8965,6 +8982,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-09,Santivañez,,,,,9.4
 2024-02-09,Sara Ana,34.0,25.0,,,5.5
 2024-02-09,Sarco,,,,,1.3
+2024-02-09,Sauce Pilapata - SDC (GPRS),20.21,12.62,96.7,58.95,
 2024-02-09,Sauce Pilata - SDC (GPRS),20.21,12.62,96.7,58.95,
 2024-02-09,Saykan Perulas,,,,,15.2
 2024-02-09,Sella Quebrada,25.5,15.0,,,
@@ -9064,6 +9082,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-10,Chuqui Chuqui,30.0,19.0,,,
 2024-02-10,Chuquiago,31.5,14.0,,,
 2024-02-10,Circuata,,,,,3.8
+2024-02-10,Ciudadela Univ GPRS UTO,,,,,7.6
 2024-02-10,Ckochas,19.4,10.5,,,
 2024-02-10,Cochabamba Aeropuerto,,,,,0.8
 2024-02-10,Coimata,31.0,13.0,,,
@@ -9187,6 +9206,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-10,Santivañez,31.1,3.3,,,
 2024-02-10,Sara Ana,34.0,25.0,,,0.2
 2024-02-10,Sarco,30.5,16.7,,,
+2024-02-10,Sauce Pilapata - SDC (GPRS),21.71,11.15,99.9,54.91,
 2024-02-10,Sauce Pilata - SDC (GPRS),21.71,11.15,99.9,54.91,
 2024-02-10,Saykan Perulas,,,,,4.3
 2024-02-10,Sella Quebrada,26.5,15.5,,,1.5
@@ -9434,6 +9454,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-11,Santivañez,,,,,18.3
 2024-02-11,Sara Ana,30.0,23.0,,,17.6
 2024-02-11,Sarco,,,,,0.1
+2024-02-11,Sauce Pilapata - SDC (GPRS),18.59,12.17,99.9,70.29,5.3
 2024-02-11,Sauce Pilata - SDC (GPRS),18.59,12.17,99.9,70.29,5.3
 2024-02-11,Sella Quebrada,27.5,14.5,,,
 2024-02-11,Sena_H (GPRS),,,,,0.01
@@ -9542,6 +9563,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-12,Chuquiago,32.2,12.8,,,
 2024-02-12,Chuquiaguillo_LP,,,,,1.8
 2024-02-12,Circuata,,,,,2.6
+2024-02-12,Ciudadela Univ GPRS UTO,,,,,1.2
 2024-02-12,Ckochas,,,,,7.2
 2024-02-12,Cobija Aeropuerto,,,,,18.9
 2024-02-12,Coimata,31.0,13.0,,,1.5
@@ -9680,6 +9702,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-12,Santivañez,31.1,5.5,,,
 2024-02-12,Sara Ana,33.0,23.0,,,
 2024-02-12,Sarco,,,,,4.9
+2024-02-12,Sauce Pilapata - SDC (GPRS),20.86,10.8,100.0,63.85,
 2024-02-12,Sauce Pilata - SDC (GPRS),20.86,10.8,100.0,63.85,
 2024-02-12,Sella Quebrada,30.0,15.0,,,4.3
 2024-02-12,Sena_H (GPRS),,,,,1.02
@@ -9797,6 +9820,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-13,Chuquiago,,,,,41.0
 2024-02-13,Chuquiaguillo_LP,,,,,15.2
 2024-02-13,Circuata,,,,,8.5
+2024-02-13,Ciudadela Univ GPRS UTO,,,,,0.2
 2024-02-13,Ckochas,,,,,17.5
 2024-02-13,Cobija Aeropuerto,,,,,1.1
 2024-02-13,Cochabamba Aeropuerto,,,,,9.5
@@ -9948,6 +9972,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-13,Santivañez,,,,,7.1
 2024-02-13,Sara Ana,30.0,23.0,,,4.6
 2024-02-13,Sarco,,,,,4.7
+2024-02-13,Sauce Pilapata - SDC (GPRS),15.58,9.81,100.0,84.6,5.2
 2024-02-13,Sauce Pilata - SDC (GPRS),15.58,9.81,100.0,84.6,5.2
 2024-02-13,Saykan Perulas,,,,,24.9
 2024-02-13,Sella Quebrada,20.5,14.5,,,47.5
@@ -10076,6 +10101,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-14,Chuqui Chuqui,29.0,18.0,,,43.5
 2024-02-14,Chuquiago,30.0,15.1,,,
 2024-02-14,Chuquiaguillo_LP,,,,,8.5
+2024-02-14,Ciudadela Univ GPRS UTO,,,,,0.4
 2024-02-14,Ckochas,18.0,9.0,,,
 2024-02-14,Cobija Aeropuerto,,,,,0.7
 2024-02-14,Cochabamba Aeropuerto,,,,,4.7
@@ -10227,6 +10253,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-14,Santivañez,,,,,16.8
 2024-02-14,Sara Ana,28.0,22.5,,,49.5
 2024-02-14,Sarco,,,,,4.4
+2024-02-14,Sauce Pilapata - SDC (GPRS),19.03,11.21,100.0,78.52,14.2
 2024-02-14,Sauce Pilata - SDC (GPRS),19.03,11.21,100.0,78.52,14.2
 2024-02-14,Sella Quebrada,22.5,11.5,,,2.3
 2024-02-14,Sena_H (GPRS),,,,,0.18
@@ -10340,6 +10367,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-15,Chuqui Chuqui,34.0,20.0,,,
 2024-02-15,Chuquiago,33.2,14.8,,,
 2024-02-15,Chuquiaguillo_LP,,,,,32.6
+2024-02-15,Ciudadela Univ GPRS UTO,,,,,19.2
 2024-02-15,Ckochas,17.1,10.0,,,
 2024-02-15,Cobija Aeropuerto,,,,,0.1
 2024-02-15,Cochabamba Aeropuerto,,,,,0.3
@@ -10468,6 +10496,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-15,Santivañez,,,,,8.6
 2024-02-15,Sara Ana,34.0,23.0,,,
 2024-02-15,Sarco,,,,,0.1
+2024-02-15,Sauce Pilapata - SDC (GPRS),21.78,12.23,100.0,61.77,0.2
 2024-02-15,Sauce Pilata - SDC (GPRS),21.78,12.23,100.0,61.77,0.2
 2024-02-15,Sella Quebrada,22.5,13.5,,,
 2024-02-15,Sena_H (GPRS),,,,,3.03
@@ -10568,6 +10597,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-16,Chuqui Chuqui,34.0,20.0,,,
 2024-02-16,Chuquiago,31.0,12.0,,,
 2024-02-16,Chuquiaguillo_LP,,,,,4.9
+2024-02-16,Ciudadela Univ GPRS UTO,,,,,30.6
 2024-02-16,Ckochas,,,,,8.7
 2024-02-16,Cobija Aeropuerto,,,,,0.6
 2024-02-16,Cochabamba Aeropuerto,,,,,2.1
@@ -10686,6 +10716,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-16,Santivañez,,,,,21.8
 2024-02-16,Sara Ana,34.0,24.0,,,
 2024-02-16,Sarco,,,,,0.1
+2024-02-16,Sauce Pilapata - SDC (GPRS),22.61,13.13,96.1,52.74,1.4
 2024-02-16,Sauce Pilata - SDC (GPRS),22.61,13.13,96.1,52.74,1.4
 2024-02-16,Sella Quebrada,28.0,14.5,,,
 2024-02-16,Senkata-D8,,,,,19.5
@@ -10788,6 +10819,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-17,Chuqui Chuqui,33.0,18.0,,,14.8
 2024-02-17,Chuquiago,35.2,11.2,,,
 2024-02-17,Chuquiaguillo_LP,,,,,7.3
+2024-02-17,Ciudadela Univ GPRS UTO,,,,,3.6
 2024-02-17,Ckochas,,,,,6.5
 2024-02-17,Cobija Aeropuerto,,,,,0.2
 2024-02-17,Cochabamba Aeropuerto,,,,,0.1
@@ -10911,6 +10943,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-17,Santivañez,,,,,47.0
 2024-02-17,Sara Ana,35.0,25.0,,,
 2024-02-17,Sarco,,,,,0.9
+2024-02-17,Sauce Pilapata - SDC (GPRS),24.75,11.74,99.5,49.28,
 2024-02-17,Sauce Pilata - SDC (GPRS),24.75,11.74,99.5,49.28,
 2024-02-17,Sella Quebrada,27.5,13.5,,,
 2024-02-17,Sena_H (GPRS),,,,,0.08
@@ -11136,6 +11169,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-18,Santivañez,28.9,3.3,,,
 2024-02-18,Sara Ana,35.0,25.0,,,
 2024-02-18,Sarco,,,,,29.4
+2024-02-18,Sauce Pilapata - SDC (GPRS),20.27,10.81,100.0,58.21,
 2024-02-18,Sauce Pilata - SDC (GPRS),20.27,10.81,100.0,58.21,
 2024-02-18,Sella Quebrada,25.5,15.5,,,
 2024-02-18,Sena_H (GPRS),,,,,0.2
@@ -11249,6 +11283,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-19,Chuquiago,,,,,30.0
 2024-02-19,Chuquiaguillo_LP,,,,,15.7
 2024-02-19,Circuata,,,,,6.5
+2024-02-19,Ciudadela Univ GPRS UTO,,,,,0.6
 2024-02-19,Ckochas,,,,,12.5
 2024-02-19,Cochabamba Aeropuerto,,,,,11.3
 2024-02-19,Coimata,28.0,14.0,,,17.4
@@ -11405,6 +11440,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-19,Santivañez,,,,,29.2
 2024-02-19,Sara Ana,33.0,25.0,,,
 2024-02-19,Sarco,,,,,0.2
+2024-02-19,Sauce Pilapata - SDC (GPRS),18.3,11.9,100.0,64.63,14.6
 2024-02-19,Sauce Pilata - SDC (GPRS),18.3,11.9,100.0,64.63,14.6
 2024-02-19,Saykan Perulas,,,,,15.5
 2024-02-19,Sella Quebrada,26.0,13.5,,,11.1
@@ -11527,6 +11563,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-20,Chuquiago,32.0,14.0,,,
 2024-02-20,Chuquiaguillo_LP,,,,,11.1
 2024-02-20,Circuata,,,,,4.3
+2024-02-20,Ciudadela Univ GPRS UTO,,,,,2.8
 2024-02-20,Ckochas,18.1,8.8,,,
 2024-02-20,Cochabamba Aeropuerto,,,,,2.9
 2024-02-20,Coimata,27.0,13.0,,,
@@ -11678,6 +11715,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-20,Santivañez,,,,,22.9
 2024-02-20,Sara Ana,31.0,23.5,,,
 2024-02-20,Sarco,,,,,13.4
+2024-02-20,Sauce Pilapata - SDC (GPRS),21.08,11.32,100.0,62.64,
 2024-02-20,Sauce Pilata - SDC (GPRS),21.08,11.32,100.0,62.64,
 2024-02-20,Sella Quebrada,26.0,13.0,,,
 2024-02-20,Sena_H (GPRS),,,,,0.4
@@ -11792,6 +11830,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-21,Chuqui Chuqui,33.0,19.0,,,
 2024-02-21,Chuquiago,29.0,15.2,,,
 2024-02-21,Chuquiaguillo_LP,,,,,23.0
+2024-02-21,Ciudadela Univ GPRS UTO,,,,,2.6
 2024-02-21,Ckochas,,,,,6.8
 2024-02-21,Cobija Aeropuerto,,,,,26.2
 2024-02-21,Coimata,28.0,14.0,,,
@@ -11930,6 +11969,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-21,Santivañez,,,,,35.6
 2024-02-21,Sara Ana,35.0,23.5,,,
 2024-02-21,Sarco,,,,,0.1
+2024-02-21,Sauce Pilapata - SDC (GPRS),21.58,11.2,100.0,54.71,
 2024-02-21,Sauce Pilata - SDC (GPRS),21.58,11.2,100.0,54.71,
 2024-02-21,Sella Quebrada,26.0,15.0,,,
 2024-02-21,Sena_H (GPRS),,,,,40.9
@@ -12166,6 +12206,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-22,Santivañez,31.1,2.2,,,
 2024-02-22,Sara Ana,35.0,24.0,,,0.5
 2024-02-22,Sarco,,,,,13.5
+2024-02-22,Sauce Pilapata - SDC (GPRS),22.18,12.49,93.8,55.18,
 2024-02-22,Sauce Pilata - SDC (GPRS),22.18,12.49,93.8,55.18,
 2024-02-22,Saykan Perulas,,,,,18.6
 2024-02-22,Sella Quebrada,29.0,11.5,,,3.0
@@ -12263,6 +12304,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-23,Chuqui Chuqui,31.0,18.0,,,
 2024-02-23,Chuquiago,32.0,10.2,,,
 2024-02-23,Circuata,,,,,5.7
+2024-02-23,Ciudadela Univ GPRS UTO,,,,,0.2
 2024-02-23,Ckochas,,,,,6.1
 2024-02-23,Cobija,30.0,25.0,99.1,74.0,
 2024-02-23,Cobija Aeropuerto,,,,,26.1
@@ -12390,6 +12432,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-23,Santivañez,,,,,11.7
 2024-02-23,Sara Ana,34.5,24.0,,,
 2024-02-23,Sarco,29.4,14.0,,,
+2024-02-23,Sauce Pilapata - SDC (GPRS),23.27,11.58,100.0,43.81,
 2024-02-23,Sauce Pilata - SDC (GPRS),23.27,11.58,100.0,43.81,
 2024-02-23,Sella Quebrada,26.0,12.0,,,
 2024-02-23,Sena_H (GPRS),,,,,4.8
@@ -12495,6 +12538,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-24,Chuquiago,29.5,14.2,,,
 2024-02-24,Chuquiaguillo_LP,,,,,9.3
 2024-02-24,Circuata,,,,,3.5
+2024-02-24,Ciudadela Univ GPRS UTO,,,,,6.4
 2024-02-24,Ckochas,19.5,9.0,,,
 2024-02-24,Cobija,30.0,23.0,99.1,69.7,
 2024-02-24,Cobija Aeropuerto,,,,,8.2
@@ -12644,6 +12688,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-24,Santivañez,31.1,3.3,,,
 2024-02-24,Sara Ana,29.0,24.5,,,18.4
 2024-02-24,Sarco,,,,,4.3
+2024-02-24,Sauce Pilapata - SDC (GPRS),19.42,11.38,100.0,61.82,1.1
 2024-02-24,Sauce Pilata - SDC (GPRS),19.42,11.38,100.0,61.82,1.1
 2024-02-24,Sella Quebrada,25.0,14.0,,,1.3
 2024-02-24,Sena_H (GPRS),,,,,30.7
@@ -12760,6 +12805,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-25,Chuqui Chuqui,34.0,18.0,,,
 2024-02-25,Chuquiago,,,,,2.0
 2024-02-25,Chuquiaguillo_LP,,,,,5.5
+2024-02-25,Ciudadela Univ GPRS UTO,,,,,1.6
 2024-02-25,Ckochas,,,,,1.7
 2024-02-25,Cobija,28.0,24.0,99.1,78.2,
 2024-02-25,Cochabamba,20.0,14.0,99.2,63.6,
@@ -12907,6 +12953,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-25,Santivañez,,,,,19.3
 2024-02-25,Sara Ana,30.0,24.0,,,31.8
 2024-02-25,Sarco,,,,,17.2
+2024-02-25,Sauce Pilapata - SDC (GPRS),17.9,10.61,100.0,75.05,24.4
 2024-02-25,Sauce Pilata - SDC (GPRS),17.9,10.61,100.0,75.05,24.4
 2024-02-25,Sella Quebrada,25.5,12.0,,,
 2024-02-25,Sena_H (GPRS),,,,,0.5
@@ -13026,6 +13073,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-26,Chuqui Chuqui,31.0,16.0,,,4.3
 2024-02-26,Chuquiago,,,,,7.0
 2024-02-26,Circuata,,,,,7.4
+2024-02-26,Ciudadela Univ GPRS UTO,,,,,0.6
 2024-02-26,Ckochas,17.8,8.1,,,
 2024-02-26,Cobija,29.0,23.0,99.1,73.8,
 2024-02-26,Cobija Aeropuerto,,,,,15.9
@@ -13181,6 +13229,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-26,Santivañez,34.4,5.5,,,
 2024-02-26,Sara Ana,32.0,24.0,,,13.8
 2024-02-26,Sarco,,,,,3.0
+2024-02-26,Sauce Pilapata - SDC (GPRS),20.27,12.67,95.8,65.64,1.9
 2024-02-26,Sauce Pilata - SDC (GPRS),20.27,12.67,95.8,65.64,1.9
 2024-02-26,Saykan Perulas,,,,,38.5
 2024-02-26,Sella Quebrada,29.0,12.0,,,
@@ -13295,6 +13344,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-27,Chuquiago,31.7,13.0,,,
 2024-02-27,Chuquiaguillo_LP,,,,,1.0
 2024-02-27,Circuata,,,,,6.5
+2024-02-27,Ciudadela Univ GPRS UTO,,,,,2.8
 2024-02-27,Ckochas,18.0,8.0,,,
 2024-02-27,Cobija,32.0,24.0,93.3,62.2,
 2024-02-27,Cobija Aeropuerto,,,,,0.2
@@ -13438,6 +13488,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-27,Santivañez,,,,,10.2
 2024-02-27,Sara Ana,33.0,23.0,,,
 2024-02-27,Sarco,,,,,0.5
+2024-02-27,Sauce Pilapata - SDC (GPRS),21.38,11.85,95.7,53.39,3.9
 2024-02-27,Sauce Pilata - SDC (GPRS),21.38,11.85,95.7,53.39,3.9
 2024-02-27,Sella Quebrada,26.0,14.5,,,
 2024-02-27,Sena_H (GPRS),,,,,8.4
@@ -13683,6 +13734,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-28,Santivañez,31.1,5.5,,,
 2024-02-28,Sara Ana,33.0,24.0,,,7.0
 2024-02-28,Sarco,26.7,15.5,,,
+2024-02-28,Sauce Pilapata - SDC (GPRS),21.37,11.97,78.23,49.23,
 2024-02-28,Sauce Pilata - SDC (GPRS),21.37,11.97,78.23,49.23,
 2024-02-28,Sella Quebrada,26.5,14.0,,,5.1
 2024-02-28,Senkata-D8,,,,,15.8
@@ -13789,6 +13841,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-29,Chuqui Chuqui,34.0,17.0,,,
 2024-02-29,Chuquiago,,,,,2.2
 2024-02-29,Chuquiaguillo_LP,,,,,3.7
+2024-02-29,Ciudadela Univ GPRS UTO,,,,,0.2
 2024-02-29,Ckochas,19.0,8.1,,,
 2024-02-29,Cobija,30.0,24.0,99.1,73.8,
 2024-02-29,Cobija Aeropuerto,,,,,11.0
@@ -13914,6 +13967,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-02-29,Santivañez,32.2,3.3,,,
 2024-02-29,Sara Ana,31.0,24.0,,,
 2024-02-29,Sarco,,,,,0.1
+2024-02-29,Sauce Pilapata - SDC (GPRS),20.82,11.77,94.4,58.55,
 2024-02-29,Sauce Pilata - SDC (GPRS),20.82,11.77,94.4,58.55,
 2024-02-29,Sella Quebrada,27.0,13.0,,,
 2024-02-29,Sena_H (GPRS),,,,,0.2
@@ -14156,6 +14210,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-01,Santivañez,32.2,,,,
 2024-03-01,Sara Ana,33.0,22.0,,,
 2024-03-01,Sarco,26.1,13.8,,,
+2024-03-01,Sauce Pilapata - SDC (GPRS),21.25,12.6,93.5,57.32,3.5
 2024-03-01,Sauce Pilata - SDC (GPRS),21.25,12.6,93.5,57.32,3.5
 2024-03-01,Sella Quebrada,32.0,13.5,,,1.0
 2024-03-01,Sopachuy,,,,,0.4
@@ -14364,6 +14419,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-02,Santivañez,31.1,,,,
 2024-03-02,Sara Ana,35.0,24.0,,,
 2024-03-02,Sarco,31.1,12.5,,,
+2024-03-02,Sauce Pilapata - SDC (GPRS),24.57,13.91,84.6,47.31,
 2024-03-02,Sauce Pilata - SDC (GPRS),24.57,13.91,84.6,47.31,
 2024-03-02,Sella Quebrada,29.5,14.0,,,
 2024-03-02,Sena_H (GPRS),,,,,0.1
@@ -14560,9 +14616,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-03,Santivañez,31.1,,,,11.7
 2024-03-03,Sara Ana,36.0,24.0,,,
 2024-03-03,Sarco,,,,,0.8
+2024-03-03,Sauce Pilapata - SDC (GPRS),22.49,11.78,100.0,53.06,0.8
 2024-03-03,Sauce Pilata - SDC (GPRS),22.49,11.78,100.0,53.06,0.8
 2024-03-03,Sella Quebrada,29.0,11.0,,,
 2024-03-03,Sopachuy,22.5,13.5,,,
+2024-03-03,Soracachi (Auto),,,,,0.2
 2024-03-03,Sorata,23.0,8.0,,,12.0
 2024-03-03,Sucre SENAMHI,23.4,13.0,,,
 2024-03-03,Sultaca_M (GPRS),,,,,1.3
@@ -14831,6 +14889,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-04,Santivañez,33.3,,,,19.3
 2024-03-04,Sara Ana,30.0,23.5,,,18.0
 2024-03-04,Sarco,,,,,29.8
+2024-03-04,Sauce Pilapata - SDC (GPRS),19.35,10.68,100.0,62.94,6.4
 2024-03-04,Sauce Pilata - SDC (GPRS),19.35,10.68,100.0,62.94,6.4
 2024-03-04,Saykan Perulas,,,,,4.5
 2024-03-04,Sella Quebrada,24.5,14.0,,,1.4
@@ -15127,12 +15186,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-05,Santivañez,30.5,,,,15.2
 2024-03-05,Sara Ana,32.0,24.0,,,16.7
 2024-03-05,Sarco,,,,,2.8
+2024-03-05,Sauce Pilapata - SDC (GPRS),17.66,11.25,100.0,74.22,0.2
 2024-03-05,Sauce Pilata - SDC (GPRS),17.66,11.25,100.0,74.22,0.2
 2024-03-05,Saykan Perulas,,,,,3.2
 2024-03-05,Sella Quebrada,18.0,13.5,,,12.3
 2024-03-05,Sena_H (GPRS),,,,,0.1
 2024-03-05,Senkata-D8,,,,,2.4
 2024-03-05,Sopachuy,,,,,19.6
+2024-03-05,Soracachi (Auto),,,,,3.0
 2024-03-05,Sorata,25.0,10.0,,,20.0
 2024-03-05,Sucre SENAMHI,,,,,8.0
 2024-03-05,Sultaca_M (GPRS),,,,,6.8
@@ -15412,11 +15473,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-06,Santivañez,32.2,,,,31.8
 2024-03-06,Sara Ana,32.0,23.5,,,
 2024-03-06,Sarco,,,,,0.5
+2024-03-06,Sauce Pilapata - SDC (GPRS),22.16,12.1,100.0,58.56,4.3
 2024-03-06,Sauce Pilata - SDC (GPRS),22.16,12.1,100.0,58.56,4.3
 2024-03-06,Sella Quebrada,25.5,14.0,,,18.5
 2024-03-06,Sena_H (GPRS),,,,,0.1
 2024-03-06,Senkata-D8,,,,,4.7
 2024-03-06,Sopachuy,,,,,43.8
+2024-03-06,Soracachi (Auto),,,,,7.0
 2024-03-06,Sorata,26.0,12.0,,,10.0
 2024-03-06,Sucre SENAMHI,,,,,28.6
 2024-03-06,Sultaca_M (GPRS),,,,,1.2
@@ -15690,10 +15753,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-07,Santivañez,31.1,,,,22.9
 2024-03-07,Sara Ana,32.0,24.0,,,
 2024-03-07,Sarco,,,,,5.6
+2024-03-07,Sauce Pilapata - SDC (GPRS),22.85,13.2,83.3,52.3,
 2024-03-07,Sauce Pilata - SDC (GPRS),22.85,13.2,83.3,52.3,
 2024-03-07,Sella Quebrada,27.0,15.0,,,1.8
 2024-03-07,Senkata-D8,,,,,6.5
 2024-03-07,Sopachuy,,,,,6.6
+2024-03-07,Soracachi (Auto),,,,,2.2
 2024-03-07,Sorata,25.0,11.0,,,15.0
 2024-03-07,Sucre SENAMHI,,,,,8.2
 2024-03-07,Sultaca_M (GPRS),,,,,2.9
@@ -15940,10 +16005,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-08,Santivañez,26.7,,,,29.2
 2024-03-08,Sara Ana,35.0,25.0,,,5.5
 2024-03-08,Sarco,,,,,28.5
+2024-03-08,Sauce Pilapata - SDC (GPRS),22.84,13.15,92.0,50.97,3.2
 2024-03-08,Sauce Pilata - SDC (GPRS),22.84,13.15,92.0,50.97,3.2
 2024-03-08,Sella Quebrada,28.5,15.5,,,
 2024-03-08,Senkata-D8,,,,,3.8
 2024-03-08,Sopachuy,,,,,1.8
+2024-03-08,Soracachi (Auto),,,,,0.6
 2024-03-08,Sorata,24.0,10.0,,,12.0
 2024-03-08,Sucre SENAMHI,,,,,3.8
 2024-03-08,Sultaca_M (GPRS),,,,,1.9
@@ -16176,10 +16243,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-09,Santivañez,31.1,,,,11.7
 2024-03-09,Sara Ana,33.0,25.0,,,3.2
 2024-03-09,Sarco,27.8,14.4,,,
+2024-03-09,Sauce Pilapata - SDC (GPRS),22.16,10.86,99.9,56.57,4.9
 2024-03-09,Sauce Pilata - SDC (GPRS),22.16,10.86,99.9,56.57,4.9
 2024-03-09,Sella Quebrada,30.0,14.5,,,
 2024-03-09,Senkata-D8,,,,,16.7
 2024-03-09,Sopachuy,28.0,15.5,,,
+2024-03-09,Soracachi (Auto),,,,,2.2
 2024-03-09,Sorata,23.0,8.0,,,10.0
 2024-03-09,Sucre SENAMHI,27.0,13.0,,,
 2024-03-09,Sunjani (GPRS),17.28,12.32,83.0,46.98,0.1
@@ -16420,11 +16489,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-10,Santivañez,33.3,,,,
 2024-03-10,Sara Ana,30.0,24.5,,,17.2
 2024-03-10,Sarco,,,,,26.8
+2024-03-10,Sauce Pilapata - SDC (GPRS),22.36,13.56,88.6,58.34,28.4
 2024-03-10,Sauce Pilata - SDC (GPRS),22.36,13.56,88.6,58.34,28.4
 2024-03-10,Saykan Perulas,,,,,14.8
 2024-03-10,Sella Quebrada,29.5,15.0,,,
 2024-03-10,Senkata-D8,,,,,23.9
 2024-03-10,Sopachuy,29.0,17.0,,,
+2024-03-10,Soracachi (Auto),,,,,0.4
 2024-03-10,Sorata,22.0,7.0,,,
 2024-03-10,Sucre SENAMHI,,,,,51.4
 2024-03-10,Sultaca_M (GPRS),,,,,6.9
@@ -16658,6 +16729,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-11,Santivañez,31.1,,,,
 2024-03-11,Sara Ana,36.0,24.0,,,
 2024-03-11,Sarco,,,,,2.8
+2024-03-11,Sauce Pilapata - SDC (GPRS),23.46,13.8,92.0,51.73,
 2024-03-11,Sauce Pilata - SDC (GPRS),23.46,13.8,92.0,51.73,
 2024-03-11,Sella Quebrada,28.5,13.0,,,2.9
 2024-03-11,Sopachuy,29.5,16.5,,,
@@ -16882,9 +16954,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-12,Santivañez,32.2,,,,
 2024-03-12,Sara Ana,37.0,25.0,,,1.5
 2024-03-12,Sarco,30.5,14.4,,,
+2024-03-12,Sauce Pilapata - SDC (GPRS),24.77,15.31,88.5,49.54,
 2024-03-12,Sauce Pilata - SDC (GPRS),24.77,15.31,88.5,49.54,
 2024-03-12,Sella Quebrada,31.5,14.5,,,0.5
 2024-03-12,Sopachuy,30.0,13.5,,,
+2024-03-12,Soracachi (Auto),,,,,3.4
 2024-03-12,Sorata,25.0,12.0,,,6.0
 2024-03-12,Sucre SENAMHI,27.4,15.0,,,
 2024-03-12,Sultaca_M (GPRS),,,,,2.9
@@ -17109,11 +17183,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-13,Santivañez,31.1,,,,
 2024-03-13,Sara Ana,36.0,25.0,,,
 2024-03-13,Sarco,,,,,0.3
+2024-03-13,Sauce Pilapata - SDC (GPRS),23.9,14.58,83.8,52.03,
 2024-03-13,Sauce Pilata - SDC (GPRS),23.9,14.58,83.8,52.03,
 2024-03-13,Sella Quebrada,33.0,15.0,,,
 2024-03-13,Sena_H (GPRS),,,,,8.8
 2024-03-13,Senkata-D8,,,,,23.3
 2024-03-13,Sopachuy,30.5,14.5,,,
+2024-03-13,Soracachi (Auto),,,,,3.2
 2024-03-13,Sorata,24.0,10.0,,,12.0
 2024-03-13,Sucre SENAMHI,27.5,15.0,,,
 2024-03-13,Sunjani (GPRS),14.84,11.73,82.7,55.12,1.9
@@ -17338,6 +17414,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-14,Santivañez,32.2,,,,
 2024-03-14,Sara Ana,38.0,25.0,,,
 2024-03-14,Sarco,32.2,14.4,,,
+2024-03-14,Sauce Pilapata - SDC (GPRS),25.62,14.23,93.8,43.1,
 2024-03-14,Sauce Pilata - SDC (GPRS),25.62,14.23,93.8,43.1,
 2024-03-14,Sella Quebrada,33.5,14.0,,,
 2024-03-14,Sopachuy,,,,,0.8
@@ -17558,6 +17635,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-15,Santivañez,31.1,,,,
 2024-03-15,Sara Ana,36.0,25.5,,,0.5
 2024-03-15,Sarco,,,,,0.1
+2024-03-15,Sauce Pilapata - SDC (GPRS),25.86,13.95,87.8,39.5,
 2024-03-15,Sauce Pilata - SDC (GPRS),25.86,13.95,87.8,39.5,
 2024-03-15,Sella Quebrada,32.5,16.0,,,0.5
 2024-03-15,Sena_H (GPRS),,,,,9.0
@@ -17786,6 +17864,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-16,Santivañez,31.1,,,,
 2024-03-16,Sara Ana,31.0,23.0,,,39.0
 2024-03-16,Sarco,,,,,0.2
+2024-03-16,Sauce Pilapata - SDC (GPRS),24.63,13.33,87.4,46.5,
 2024-03-16,Sauce Pilata - SDC (GPRS),24.63,13.33,87.4,46.5,
 2024-03-16,Sella Quebrada,33.5,15.0,,,3.9
 2024-03-16,Senkata-D8,,,,,4.9
@@ -18031,6 +18110,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-17,Santivañez,31.1,,,,11.7
 2024-03-17,Sara Ana,27.0,24.5,,,12.9
 2024-03-17,Sarco,29.4,15.5,,,
+2024-03-17,Sauce Pilapata - SDC (GPRS),21.9,15.7,67.08,52.36,1.0
 2024-03-17,Sauce Pilata - SDC (GPRS),21.9,15.7,67.08,52.36,1.0
 2024-03-17,Saykan Perulas,,,,,12.6
 2024-03-17,Sella Quebrada,28.5,16.0,,,
@@ -18284,11 +18364,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-18,Santivañez,33.3,,,,
 2024-03-18,Sara Ana,34.0,24.0,,,
 2024-03-18,Sarco,,,,,0.8
+2024-03-18,Sauce Pilapata - SDC (GPRS),23.15,15.3,79.68,49.61,
 2024-03-18,Sauce Pilata - SDC (GPRS),23.15,15.3,79.68,49.61,
 2024-03-18,Saykan Perulas,,,,,12.3
 2024-03-18,Sella Quebrada,31.5,14.0,,,1.5
 2024-03-18,Senkata-D8,,,,,2.4
 2024-03-18,Sopachuy,,,,,26.2
+2024-03-18,Soracachi (Auto),,,,,15.2
 2024-03-18,Sorata,22.0,7.0,,,10.0
 2024-03-18,Sucre SENAMHI,,,,,1.0
 2024-03-18,Sultaca_M (GPRS),,,,,0.3
@@ -18523,10 +18605,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-19,Santivañez,30.0,,,,
 2024-03-19,Sara Ana,34.5,24.5,,,
 2024-03-19,Sarco,30.0,16.0,,,
+2024-03-19,Sauce Pilapata - SDC (GPRS),23.52,14.06,87.8,50.02,
 2024-03-19,Sauce Pilata - SDC (GPRS),23.52,14.06,87.8,50.02,
 2024-03-19,Sella Quebrada,31.0,15.5,,,
 2024-03-19,Senkata-D8,,,,,5.4
 2024-03-19,Sopachuy,30.0,14.5,,,
+2024-03-19,Soracachi (Auto),,,,,0.6
 2024-03-19,Sorata,23.0,9.0,,,10.0
 2024-03-19,Sucre SENAMHI,26.3,15.5,,,
 2024-03-19,Sultaca_M (GPRS),,,,,1.2
@@ -18754,11 +18838,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-20,Santivañez,31.1,,,,
 2024-03-20,Sara Ana,32.0,25.0,,,
 2024-03-20,Sarco,,,,,0.3
+2024-03-20,Sauce Pilapata - SDC (GPRS),22.94,13.86,98.6,52.88,1.3
 2024-03-20,Sauce Pilata - SDC (GPRS),22.94,13.86,98.6,52.88,1.3
 2024-03-20,Sella Quebrada,32.0,14.0,,,26.0
 2024-03-20,Sena_H (GPRS),,,,,0.4
 2024-03-20,Senkata-D8,,,,,3.4
 2024-03-20,Sopachuy,,,,,7.2
+2024-03-20,Soracachi (Auto),,,,,1.4
 2024-03-20,Sorata,24.0,10.0,,,6.0
 2024-03-20,Sucre SENAMHI,,,,,3.6
 2024-03-20,Sultaca_M (GPRS),,,,,11.4
@@ -19004,6 +19090,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-21,Santivañez,32.2,,,,
 2024-03-21,Sara Ana,33.0,26.0,,,
 2024-03-21,Sarco,29.4,15.5,,,
+2024-03-21,Sauce Pilapata - SDC (GPRS),21.9,11.2,100.0,51.52,
 2024-03-21,Sauce Pilata - SDC (GPRS),21.9,11.2,100.0,51.52,
 2024-03-21,Sella Quebrada,20.0,15.0,,,
 2024-03-21,Sena_H (GPRS),,,,,0.4
@@ -19246,6 +19333,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-22,Santivañez,31.1,,,,
 2024-03-22,Sara Ana,27.0,23.0,,,7.3
 2024-03-22,Sarco,24.4,16.1,,,
+2024-03-22,Sauce Pilapata - SDC (GPRS),19.29,9.62,100.0,60.52,15.4
 2024-03-22,Sauce Pilata - SDC (GPRS),19.29,9.62,100.0,60.52,15.4
 2024-03-22,Sella Quebrada,26.5,12.0,,,0.6
 2024-03-22,Sopachuy,,,,,5.6
@@ -19437,6 +19525,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-23,Santivañez,33.3,,,,
 2024-03-23,Sara Ana,33.0,23.0,,,
 2024-03-23,Sarco,29.9,14.4,,,
+2024-03-23,Sauce Pilapata - SDC (GPRS),20.36,12.04,77.97,41.44,
 2024-03-23,Sauce Pilata - SDC (GPRS),20.36,12.04,77.97,41.44,
 2024-03-23,Sella Quebrada,28.0,8.0,,,
 2024-03-23,Sena_H (GPRS),,,,,10.1
@@ -19611,6 +19700,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-24,Santivañez,32.2,,,,
 2024-03-24,Sara Ana,34.0,23.0,,,
 2024-03-24,Sarco,30.5,15.0,,,
+2024-03-24,Sauce Pilapata - SDC (GPRS),21.8,11.59,100.0,41.89,
 2024-03-24,Sauce Pilata - SDC (GPRS),21.8,11.59,100.0,41.89,
 2024-03-24,Saykan Perulas,,,,,3.6
 2024-03-24,Sella Quebrada,29.0,9.0,,,
@@ -19807,6 +19897,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-25,Santivañez,30.8,,,,
 2024-03-25,Sara Ana,33.0,24.0,,,
 2024-03-25,Sarco,28.9,15.5,,,
+2024-03-25,Sauce Pilapata - SDC (GPRS),18.69,11.3,97.3,63.52,9.3
 2024-03-25,Sauce Pilata - SDC (GPRS),18.69,11.3,97.3,63.52,9.3
 2024-03-25,Saykan Perulas,,,,,2.7
 2024-03-25,Sella Quebrada,26.0,12.5,,,
@@ -20025,6 +20116,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-26,Santivañez,30.0,,,,
 2024-03-26,Sara Ana,31.0,24.0,,,11.9
 2024-03-26,Sarco,,,,,0.2
+2024-03-26,Sauce Pilapata - SDC (GPRS),19.88,10.66,96.9,46.69,1.0
 2024-03-26,Sauce Pilata - SDC (GPRS),19.88,10.66,96.9,46.69,1.0
 2024-03-26,Sella Quebrada,26.0,13.5,,,
 2024-03-26,Sena_H (GPRS),,,,,3.7
@@ -20227,6 +20319,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-27,Santivañez,31.1,,,,
 2024-03-27,Sara Ana,34.8,22.5,,,
 2024-03-27,Sarco,29.4,13.0,,,
+2024-03-27,Sauce Pilapata - SDC (GPRS),20.41,9.45,87.6,38.03,
 2024-03-27,Sauce Pilata - SDC (GPRS),20.41,9.45,87.6,38.03,
 2024-03-27,Sella Quebrada,26.5,12.5,,,
 2024-03-27,Sopachuy,28.5,13.0,,,
@@ -20425,6 +20518,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-28,Santivañez,32.2,,,,
 2024-03-28,Sara Ana,33.0,24.0,,,
 2024-03-28,Sarco,28.9,12.8,,,
+2024-03-28,Sauce Pilapata - SDC (GPRS),19.43,9.88,90.3,38.02,
 2024-03-28,Sauce Pilata - SDC (GPRS),19.43,9.88,90.3,38.02,
 2024-03-28,Saykan Perulas,,,,,4.4
 2024-03-28,Sella Quebrada,25.0,12.0,,,0.2
@@ -20608,11 +20702,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-29,Santivañez,33.3,,,,
 2024-03-29,Sara Ana,35.0,24.0,,,
 2024-03-29,Sarco,28.9,12.2,,,
+2024-03-29,Sauce Pilapata - SDC (GPRS),20.73,11.32,98.4,39.27,
 2024-03-29,Sauce Pilata - SDC (GPRS),20.73,11.32,98.4,39.27,
 2024-03-29,Saykan Perulas,,,,,3.6
 2024-03-29,Sella Quebrada,25.5,12.5,,,
 2024-03-29,Sena_H (GPRS),,,,,0.3
 2024-03-29,Sopachuy,,,,,16.6
+2024-03-29,Soracachi (Auto),,,,,0.8
 2024-03-29,Sorata,23.0,10.0,,,
 2024-03-29,Sucre SENAMHI,23.8,12.0,,,
 2024-03-29,Sunjani (GPRS),15.58,13.22,56.05,38.22,
@@ -20808,10 +20904,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-30,Santivañez,31.1,,,,
 2024-03-30,Sara Ana,33.0,23.0,,,
 2024-03-30,Sarco,27.2,12.8,,,
+2024-03-30,Sauce Pilapata - SDC (GPRS),20.14,12.04,99.9,57.61,
 2024-03-30,Sauce Pilata - SDC (GPRS),20.14,12.04,99.9,57.61,
 2024-03-30,Sella Quebrada,28.0,13.5,,,0.5
 2024-03-30,Sena_H (GPRS),,,,,9.7
 2024-03-30,Sopachuy,24.0,11.0,,,
+2024-03-30,Soracachi (Auto),,,,,0.2
 2024-03-30,Sorata,24.0,11.0,,,
 2024-03-30,Sucre SENAMHI,23.6,11.5,,,
 2024-03-30,Sunjani (GPRS),14.65,6.91,87.3,54.56,
@@ -21022,6 +21120,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-31,Santivañez,32.2,,,,9.1
 2024-03-31,Sara Ana,31.0,25.0,,,1.3
 2024-03-31,Sarco,28.9,13.9,,,
+2024-03-31,Sauce Pilapata - SDC (GPRS),20.86,12.77,93.3,54.19,
 2024-03-31,Sauce Pilata - SDC (GPRS),20.86,12.77,93.3,54.19,
 2024-03-31,Sella Quebrada,28.5,11.0,,,1.0
 2024-03-31,Sena_H (GPRS),,,,,6.2
@@ -21260,6 +21359,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-01,Santivañez,31.1,,,,4.3
 2024-04-01,Sara Ana,35.0,24.0,,,
 2024-04-01,Sarco,,,,,2.6
+2024-04-01,Sauce Pilapata - SDC (GPRS),22.55,11.77,100.0,54.95,1.5
 2024-04-01,Sauce Pilata - SDC (GPRS),22.55,11.77,100.0,54.95,1.5
 2024-04-01,Saykan Perulas,,,,,5.7
 2024-04-01,Sella Quebrada,29.0,12.0,,,
@@ -21525,6 +21625,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-02,Santivañez,32.2,,,,
 2024-04-02,Sara Ana,27.0,25.0,,,2.1
 2024-04-02,Sarco,,,,,8.9
+2024-04-02,Sauce Pilapata - SDC (GPRS),22.13,12.95,81.2,51.06,2.3
 2024-04-02,Sauce Pilata - SDC (GPRS),22.13,12.95,81.2,51.06,2.3
 2024-04-02,Saykan Perulas,,,,,4.6
 2024-04-02,Sella Quebrada,29.0,13.0,,,8.9
@@ -21768,6 +21869,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-03,Santivañez,31.1,,,,
 2024-04-03,Sara Ana,33.5,23.0,,,
 2024-04-03,Sarco,,,,,0.4
+2024-04-03,Sauce Pilapata - SDC (GPRS),23.45,12.75,94.8,47.15,0.5
 2024-04-03,Sauce Pilata - SDC (GPRS),23.45,12.75,94.8,47.15,0.5
 2024-04-03,Saykan Perulas,,,,,5.6
 2024-04-03,Sella Quebrada,31.0,11.0,,,
@@ -21985,6 +22087,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-04,Santivañez,33.3,,,,
 2024-04-04,Sara Ana,35.0,24.0,,,9.4
 2024-04-04,Sarco,,12.2,,,
+2024-04-04,Sauce Pilapata - SDC (GPRS),21.81,12.96,98.2,58.43,
 2024-04-04,Sauce Pilata - SDC (GPRS),21.81,12.96,98.2,58.43,
 2024-04-04,Saykan Perulas,,,,,8.2
 2024-04-04,Sella Quebrada,27.5,16.0,,,
@@ -22208,6 +22311,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-05,Santivañez,31.1,,,,19.8
 2024-04-05,Sara Ana,35.0,25.0,,,0.1
 2024-04-05,Sarco,,13.8,,,
+2024-04-05,Sauce Pilapata - SDC (GPRS),20.39,11.51,100.0,62.59,
 2024-04-05,Sauce Pilata - SDC (GPRS),20.39,11.51,100.0,62.59,
 2024-04-05,Sella Quebrada,26.0,15.5,,,6.4
 2024-04-05,Sopachuy,,,,,1.2
@@ -22424,6 +22528,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-06,Santivañez,32.2,,,,
 2024-04-06,Sara Ana,35.0,24.0,,,11.5
 2024-04-06,Sarco,,13.0,,,
+2024-04-06,Sauce Pilapata - SDC (GPRS),21.26,20.09,62.26,45.19,0.3
 2024-04-06,Sauce Pilata - SDC (GPRS),21.26,20.09,62.26,45.19,0.3
 2024-04-06,Saykan Perulas,,,,,18.5
 2024-04-06,Sella Quebrada,29.5,14.5,,,
@@ -22621,6 +22726,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-07,Santivañez,31.1,,,,
 2024-04-07,Sara Ana,34.0,24.0,,,
 2024-04-07,Sarco,,15.0,,,
+2024-04-07,Sauce Pilapata - SDC (GPRS),21.69,20.18,83.5,57.76,
 2024-04-07,Sauce Pilata - SDC (GPRS),21.69,20.18,83.5,57.76,
 2024-04-07,Saykan Perulas,,,,,4.4
 2024-04-07,Sella Quebrada,21.5,16.0,,,
@@ -22866,6 +22972,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-08,Santivañez,32.2,,,,
 2024-04-08,Sara Ana,34.0,24.0,,,
 2024-04-08,Sarco,,,,,4.8
+2024-04-08,Sauce Pilapata - SDC (GPRS),17.97,16.16,86.6,60.88,9.2
 2024-04-08,Sauce Pilata - SDC (GPRS),17.97,16.16,86.6,60.88,9.2
 2024-04-08,Sella Quebrada,29.0,15.0,,,2.5
 2024-04-08,Sena_H (GPRS),,,,,1.4
@@ -23102,6 +23209,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-09,Santivañez,33.3,,,,
 2024-04-09,Sara Ana,35.0,24.5,,,
 2024-04-09,Sarco,,12.8,,,
+2024-04-09,Sauce Pilapata - SDC (GPRS),22.72,20.73,63.4,53.56,
 2024-04-09,Sauce Pilata - SDC (GPRS),22.72,20.73,63.4,53.56,
 2024-04-09,Saykan Perulas,,,,,6.2
 2024-04-09,Sella Quebrada,25.0,15.5,,,
@@ -23339,6 +23447,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-10,Santivañez,31.1,,,,
 2024-04-10,Sara Ana,30.0,25.0,,,2.4
 2024-04-10,Sarco,,,,,0.2
+2024-04-10,Sauce Pilapata - SDC (GPRS),18.54,16.93,74.46,69.62,
 2024-04-10,Sauce Pilata - SDC (GPRS),18.54,16.93,74.46,69.62,
 2024-04-10,Saykan Perulas,,,,,5.5
 2024-04-10,Sella Quebrada,26.0,14.5,,,0.9
@@ -23588,6 +23697,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-11,Santivañez,32.2,,,,
 2024-04-11,Sara Ana,33.0,23.5,,,0.2
 2024-04-11,Sarco,,15.5,,,
+2024-04-11,Sauce Pilapata - SDC (GPRS),17.56,15.9,84.0,69.52,
 2024-04-11,Sauce Pilata - SDC (GPRS),17.56,15.9,84.0,69.52,
 2024-04-11,Sella Quebrada,21.0,13.0,,,1.9
 2024-04-11,Sena_H (GPRS),,,,,0.2
@@ -23845,6 +23955,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-12,Santivañez,36.7,,,,
 2024-04-12,Sara Ana,28.0,23.0,,,43.5
 2024-04-12,Sarco,,,,,8.6
+2024-04-12,Sauce Pilapata - SDC (GPRS),19.02,11.27,100.0,61.96,
 2024-04-12,Sauce Pilata - SDC (GPRS),,,100.0,,
 2024-04-12,Saykan Perulas,,,,,2.6
 2024-04-12,Sella Quebrada,22.0,13.0,,,
@@ -24077,6 +24188,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-13,Santivañez,33.3,,,,
 2024-04-13,Sara Ana,27.0,23.0,,,3.3
 2024-04-13,Sarco,,,,,0.1
+2024-04-13,Sauce Pilapata - SDC (GPRS),23.12,13.28,66.97,52.48,
 2024-04-13,Sauce Pilata - SDC (GPRS),,,66.97,,
 2024-04-13,Saykan Perulas,,,,,3.9
 2024-04-13,Sella Quebrada,22.0,13.5,,,
@@ -24303,6 +24415,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-14,Santivañez,31.1,,,,
 2024-04-14,Sara Ana,30.0,24.0,,,
 2024-04-14,Sarco,,15.5,,,
+2024-04-14,Sauce Pilapata - SDC (GPRS),19.24,13.88,64.03,44.72,
 2024-04-14,Sauce Pilata - SDC (GPRS),,,64.03,,
 2024-04-14,Saykan Perulas,,,,,3.5
 2024-04-14,Sella Quebrada,25.5,12.0,,,
@@ -24531,6 +24644,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-15,Santivañez,32.2,,,,
 2024-04-15,Sara Ana,32.0,24.0,,,
 2024-04-15,Sarco,,12.8,,,
+2024-04-15,Sauce Pilapata - SDC (GPRS),19.8,16.47,66.82,56.4,
 2024-04-15,Sauce Pilata - SDC (GPRS),19.8,16.47,66.82,56.4,
 2024-04-15,Saykan Perulas,,,,,4.6
 2024-04-15,Sella Quebrada,31.0,10.5,,,
@@ -24755,6 +24869,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-16,Santivañez,35.5,,,,
 2024-04-16,Sara Ana,34.0,25.0,,,
 2024-04-16,Sarco,,12.8,,,
+2024-04-16,Sauce Pilapata - SDC (GPRS),23.57,11.6,100.0,41.18,
 2024-04-16,Sauce Pilata - SDC (GPRS),23.57,11.6,100.0,41.18,
 2024-04-16,Saykan Perulas,,,,,7.5
 2024-04-16,Sella Quebrada,25.0,10.5,,,
@@ -24957,6 +25072,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-17,Santivañez,32.2,,,,
 2024-04-17,Sara Ana,28.0,23.0,,,
 2024-04-17,Sarco,,13.0,,,
+2024-04-17,Sauce Pilapata - SDC (GPRS),18.49,17.35,100.0,67.03,
 2024-04-17,Sauce Pilata - SDC (GPRS),18.49,17.35,100.0,67.03,
 2024-04-17,Sella Quebrada,24.5,4.0,,,
 2024-04-17,Sena_H (GPRS),,,,,2.8
@@ -25144,6 +25260,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-18,Santivañez,33.3,,,,
 2024-04-18,Sara Ana,33.0,22.5,,,
 2024-04-18,Sarco,,12.8,,,
+2024-04-18,Sauce Pilapata - SDC (GPRS),18.54,9.59,100.0,59.32,0.6
 2024-04-18,Sauce Pilata - SDC (GPRS),18.54,9.59,100.0,59.32,0.6
 2024-04-18,Sella Quebrada,24.0,7.0,,,
 2024-04-18,Sena_H (GPRS),,,,,2.6
@@ -25309,6 +25426,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-19,Santivañez,34.4,,,,
 2024-04-19,Sara Ana,34.0,22.5,,,
 2024-04-19,Sarco,,13.9,,,
+2024-04-19,Sauce Pilapata - SDC (GPRS),22.92,13.04,76.82,46.87,
 2024-04-19,Sauce Pilata - SDC (GPRS),22.92,13.04,76.82,46.87,
 2024-04-19,Sella Quebrada,30.0,7.5,,,
 2024-04-19,Sopachuy,29.5,12.0,,,
@@ -25468,6 +25586,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-20,Santivañez,35.5,,,,
 2024-04-20,Sara Ana,34.0,23.0,,,
 2024-04-20,Sarco,,12.8,,,
+2024-04-20,Sauce Pilapata - SDC (GPRS),23.19,12.76,91.5,43.41,
 2024-04-20,Sauce Pilata - SDC (GPRS),23.19,12.76,91.5,43.41,
 2024-04-20,Sella Quebrada,30.5,9.0,,,
 2024-04-20,Sopachuy,29.0,12.0,,,
@@ -25624,6 +25743,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-21,Santivañez,33.3,,,,
 2024-04-21,Sara Ana,36.0,24.0,,,
 2024-04-21,Sarco,,12.8,,,
+2024-04-21,Sauce Pilapata - SDC (GPRS),25.34,14.2,87.4,40.18,
 2024-04-21,Sauce Pilata - SDC (GPRS),25.34,14.2,87.4,40.18,
 2024-04-21,Sella Quebrada,30.0,11.0,,,
 2024-04-21,Sopachuy,27.5,14.0,,,
@@ -25787,6 +25907,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-22,Santivañez,31.1,,,,
 2024-04-22,Sara Ana,37.0,26.0,,,
 2024-04-22,Sarco,,14.0,,,
+2024-04-22,Sauce Pilapata - SDC (GPRS),24.72,23.69,56.59,52.49,
 2024-04-22,Sauce Pilata - SDC (GPRS),24.72,23.69,56.59,52.49,
 2024-04-22,Sella Quebrada,33.5,13.0,,,
 2024-04-22,Sopachuy,29.5,15.0,,,
@@ -25952,6 +26073,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-23,Santivañez,32.2,,,,
 2024-04-23,Sara Ana,36.0,24.0,,,
 2024-04-23,Sarco,,12.2,,,
+2024-04-23,Sauce Pilapata - SDC (GPRS),24.83,12.5,97.9,52.48,
 2024-04-23,Sauce Pilata - SDC (GPRS),24.83,12.5,97.9,52.48,
 2024-04-23,Sella Quebrada,31.5,13.5,,,
 2024-04-23,Sopachuy,31.0,15.5,,,
@@ -26146,6 +26268,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-24,Santivañez,31.1,,,,
 2024-04-24,Sara Ana,36.0,24.5,,,
 2024-04-24,Sarco,,13.3,,,
+2024-04-24,Sauce Pilapata - SDC (GPRS),22.54,12.88,97.9,48.12,
 2024-04-24,Sauce Pilata - SDC (GPRS),22.54,12.88,97.9,48.12,
 2024-04-24,Saykan Perulas,,,,,18.5
 2024-04-24,Sella Quebrada,31.0,10.5,,,
@@ -26349,6 +26472,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-25,Santivañez,30.0,,,,
 2024-04-25,Sara Ana,35.0,25.0,,,
 2024-04-25,Sarco,,13.9,,,
+2024-04-25,Sauce Pilapata - SDC (GPRS),22.21,14.02,82.1,53.73,
 2024-04-25,Sauce Pilata - SDC (GPRS),22.21,14.02,82.1,53.73,
 2024-04-25,Saykan Perulas,,,,,5.6
 2024-04-25,Sella Quebrada,36.0,12.5,,,
@@ -26537,6 +26661,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-26,Santivañez,32.2,,,,
 2024-04-26,Sara Ana,34.0,25.0,,,
 2024-04-26,Sarco,,13.3,,,
+2024-04-26,Sauce Pilapata - SDC (GPRS),24.02,16.12,79.69,51.3,
 2024-04-26,Sauce Pilata - SDC (GPRS),24.02,16.12,79.69,51.3,
 2024-04-26,Sella Quebrada,37.5,12.0,,,
 2024-04-26,Sopachuy,31.5,14.0,,,
@@ -26721,6 +26846,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-27,Santivañez,31.1,,,,
 2024-04-27,Sara Ana,37.0,25.0,,,
 2024-04-27,Sarco,,13.9,,,
+2024-04-27,Sauce Pilapata - SDC (GPRS),24.17,13.06,97.0,39.68,
 2024-04-27,Sauce Pilata - SDC (GPRS),24.17,13.06,97.0,39.68,
 2024-04-27,Sella Quebrada,31.5,11.0,,,
 2024-04-27,Sopachuy,31.5,11.0,,,
@@ -26897,6 +27023,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-28,Santivañez,32.2,,,,
 2024-04-28,Sara Ana,36.0,25.0,,,
 2024-04-28,Sarco,,13.0,,,
+2024-04-28,Sauce Pilapata - SDC (GPRS),22.6,15.58,76.82,42.68,
 2024-04-28,Sauce Pilata - SDC (GPRS),22.6,15.58,76.82,42.68,
 2024-04-28,Saykan Perulas,,,,,0.8
 2024-04-28,Sella Quebrada,29.0,12.0,,,
@@ -27085,6 +27212,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-29,Santivañez,33.3,,,,
 2024-04-29,Sara Ana,37.0,24.0,,,
 2024-04-29,Sarco,,12.8,,,
+2024-04-29,Sauce Pilapata - SDC (GPRS),22.71,15.61,72.13,42.83,
 2024-04-29,Sauce Pilata - SDC (GPRS),22.71,15.61,72.13,42.83,
 2024-04-29,Saykan Perulas,,,,,2.6
 2024-04-29,Sella Quebrada,36.0,11.5,,,
@@ -27281,6 +27409,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-30,Santivañez,32.2,,,,
 2024-04-30,Sara Ana,36.0,25.0,,,2.0
 2024-04-30,Sarco,,13.0,,,
+2024-04-30,Sauce Pilapata - SDC (GPRS),24.55,15.96,77.07,38.22,
 2024-04-30,Sauce Pilata - SDC (GPRS),24.55,15.96,77.07,38.22,
 2024-04-30,Saykan Perulas,,,,,4.4
 2024-04-30,Sella Quebrada,35.0,11.0,,,
@@ -27470,6 +27599,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-01,Santivañez,31.1,4.4,,,
 2024-05-01,Sara Ana,33.0,25.0,,,29.0
 2024-05-01,Sarco,32.8,13.0,,,
+2024-05-01,Sauce Pilapata - SDC (GPRS),22.15,15.87,75.16,49.3,
 2024-05-01,Sauce Pilata - SDC (GPRS),22.15,15.87,75.16,49.3,
 2024-05-01,Saykan Perulas,,,,,2.2
 2024-05-01,Sella Quebrada,35.0,11.5,,,
@@ -27689,6 +27819,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-02,Santivañez,32.2,3.3,,,
 2024-05-02,Sara Ana,32.0,24.5,,,6.7
 2024-05-02,Sarco,30.0,12.0,,,
+2024-05-02,Sauce Pilapata - SDC (GPRS),24.12,12.38,100.0,42.88,
 2024-05-02,Sauce Pilata - SDC (GPRS),24.12,12.38,100.0,42.88,
 2024-05-02,Saykan Perulas,,,,,4.6
 2024-05-02,Sella Quebrada,26.0,12.0,,,
@@ -27932,6 +28063,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-03,Santivañez,31.1,5.5,,,7.1
 2024-05-03,Sara Ana,28.0,23.5,,,13.5
 2024-05-03,Sarco,29.4,11.1,,,0.7
+2024-05-03,Sauce Pilapata - SDC (GPRS),17.68,12.24,99.1,66.48,0.1
 2024-05-03,Sauce Pilata - SDC (GPRS),17.68,12.24,99.1,66.48,0.1
 2024-05-03,Saykan Perulas,,,,,3.5
 2024-05-03,Sella Quebrada,29.5,12.5,,,
@@ -28156,6 +28288,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-04,Santivañez,33.3,3.3,,,
 2024-05-04,Sara Ana,32.0,23.0,,,1.0
 2024-05-04,Sarco,33.3,11.7,,,
+2024-05-04,Sauce Pilapata - SDC (GPRS),21.3,13.16,81.4,47.98,0.9
 2024-05-04,Sauce Pilata - SDC (GPRS),21.3,13.16,81.4,47.98,0.9
 2024-05-04,Saykan Perulas,,,,,4.4
 2024-05-04,Sella Quebrada,32.0,11.0,,,
@@ -28342,6 +28475,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-05,Santivañez,32.2,4.4,,,
 2024-05-05,Sara Ana,32.0,24.0,,,
 2024-05-05,Sarco,34.4,12.5,,,
+2024-05-05,Sauce Pilapata - SDC (GPRS),23.93,14.27,79.55,40.98,
 2024-05-05,Sauce Pilata - SDC (GPRS),23.93,14.27,79.55,40.98,
 2024-05-05,Saykan Perulas,,,,,6.7
 2024-05-05,Sella Quebrada,33.5,7.0,,,
@@ -28529,6 +28663,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-06,Santivañez,33.3,3.3,,,
 2024-05-06,Sara Ana,34.0,24.0,,,
 2024-05-06,Sarco,36.1,12.8,,,
+2024-05-06,Sauce Pilapata - SDC (GPRS),18.28,18.28,54.52,54.52,
 2024-05-06,Sauce Pilata - SDC (GPRS),18.28,18.28,54.52,54.52,
 2024-05-06,Sella Quebrada,35.0,12.0,,,
 2024-05-06,Sopachuy,31.5,11.5,,,
@@ -28711,6 +28846,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-07,Santivañez,30.0,3.3,,,
 2024-05-07,Sara Ana,34.0,24.0,,,11.8
 2024-05-07,Sarco,36.7,12.8,,,
+2024-05-07,Sauce Pilapata - SDC (GPRS),27.03,15.04,81.3,22.4,
 2024-05-07,Sauce Pilata - SDC (GPRS),27.03,15.04,81.3,22.4,
 2024-05-07,Sella Quebrada,35.0,12.0,,,
 2024-05-07,Sopachuy,31.0,11.0,,,
@@ -28895,6 +29031,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-08,Santivañez,31.1,3.3,,,
 2024-05-08,Sara Ana,34.5,25.3,,,
 2024-05-08,Sarco,34.4,13.0,,,
+2024-05-08,Sauce Pilapata - SDC (GPRS),21.08,17.93,60.13,43.79,
 2024-05-08,Sauce Pilata - SDC (GPRS),21.08,17.93,60.13,43.79,
 2024-05-08,Sella Quebrada,33.0,15.5,,,
 2024-05-08,Sopachuy,33.0,11.5,,,
@@ -29087,6 +29224,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-09,Santivañez,26.7,4.4,,,
 2024-05-09,Sara Ana,,25.3,,,
 2024-05-09,Sarco,29.4,13.0,,,
+2024-05-09,Sauce Pilapata - SDC (GPRS),13.66,13.0,86.6,75.3,
 2024-05-09,Sauce Pilata - SDC (GPRS),13.66,13.0,86.6,75.3,
 2024-05-09,Sella Quebrada,27.5,11.0,,,
 2024-05-09,Sopachuy,29.5,12.0,,,
@@ -29288,6 +29426,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-10,Santivañez,30.0,3.3,,,
 2024-05-10,Sara Ana,35.0,24.0,,,
 2024-05-10,Sarco,34.4,11.7,,,
+2024-05-10,Sauce Pilapata - SDC (GPRS),20.33,14.65,72.63,54.0,
 2024-05-10,Sauce Pilata - SDC (GPRS),20.33,14.65,72.63,54.0,
 2024-05-10,Sella Quebrada,35.0,9.0,,,
 2024-05-10,Sopachuy,32.5,13.5,,,
@@ -29471,6 +29610,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-11,Santivañez,30.0,4.4,,,
 2024-05-11,Sara Ana,33.5,25.5,,,
 2024-05-11,Sarco,35.5,12.2,,,
+2024-05-11,Sauce Pilapata - SDC (GPRS),19.26,16.01,74.22,62.66,
 2024-05-11,Sauce Pilata - SDC (GPRS),19.26,16.01,74.22,62.66,
 2024-05-11,Sella Quebrada,30.5,7.0,,,
 2024-05-11,Sopachuy,28.0,12.5,,,
@@ -29661,6 +29801,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-12,Santivañez,32.2,5.5,,,
 2024-05-12,Sara Ana,33.0,24.5,,,7.5
 2024-05-12,Sarco,36.0,12.8,,,
+2024-05-12,Sauce Pilapata - SDC (GPRS),19.92,16.3,67.11,51.96,
 2024-05-12,Sauce Pilata - SDC (GPRS),19.92,16.3,67.11,51.96,
 2024-05-12,Saykan Perulas,,,,,2.6
 2024-05-12,Sella Quebrada,26.0,6.0,,,
@@ -29866,6 +30007,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-13,Santivañez,33.3,3.3,,,
 2024-05-13,Sara Ana,27.0,24.5,,,2.1
 2024-05-13,Sarco,33.3,12.8,,,
+2024-05-13,Sauce Pilapata - SDC (GPRS),19.35,14.27,83.3,60.18,
 2024-05-13,Sauce Pilata - SDC (GPRS),19.35,14.27,83.3,60.18,
 2024-05-13,Saykan Perulas,,,,,2.8
 2024-05-13,Sella Quebrada,18.0,5.0,,,0.5
@@ -30083,6 +30225,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-14,Santivañez,30.0,4.4,,,
 2024-05-14,Sara Ana,21.0,19.5,,,10.2
 2024-05-14,Sarco,32.8,13.3,,,
+2024-05-14,Sauce Pilapata - SDC (GPRS),9.37,7.54,99.9,99.7,0.4
 2024-05-14,Sauce Pilata - SDC (GPRS),9.37,7.54,99.9,99.7,0.4
 2024-05-14,Saykan Perulas,,,,,3.5
 2024-05-14,Sella Quebrada,8.0,4.0,,,1.6
@@ -30305,6 +30448,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-15,Santivañez,32.2,5.5,,,12.7
 2024-05-15,Sara Ana,25.8,17.0,,,
 2024-05-15,Sarco,33.3,13.7,,,
+2024-05-15,Sauce Pilapata - SDC (GPRS),16.83,11.52,76.61,62.98,0.1
 2024-05-15,Sauce Pilata - SDC (GPRS),16.83,11.52,76.61,62.98,0.1
 2024-05-15,Sella Quebrada,19.0,4.5,,,
 2024-05-15,Sopachuy,16.5,-1.0,,,0.2
@@ -30502,6 +30646,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-16,Santivañez,31.1,4.4,,,17.8
 2024-05-16,Sara Ana,31.0,18.0,,,
 2024-05-16,Sarco,29.4,12.2,,,0.1
+2024-05-16,Sauce Pilapata - SDC (GPRS),20.45,17.3,50.24,44.26,
 2024-05-16,Sauce Pilata - SDC (GPRS),20.45,17.3,50.24,44.26,
 2024-05-16,Saykan Perulas,,,,,3.2
 2024-05-16,Sella Quebrada,29.0,8.0,,,
@@ -30712,6 +30857,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-17,Santivañez,31.1,3.3,,,
 2024-05-17,Sara Ana,31.0,19.0,,,
 2024-05-17,Sarco,28.9,12.8,,,0.1
+2024-05-17,Sauce Pilapata - SDC (GPRS),19.65,17.39,54.23,48.89,
 2024-05-17,Sauce Pilata - SDC (GPRS),19.65,17.39,54.23,48.89,
 2024-05-17,Saykan Perulas,,,,,3.5
 2024-05-17,Sella Quebrada,32.0,8.0,,,
@@ -30917,6 +31063,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-18,Santivañez,25.5,7.8,,,
 2024-05-18,Sara Ana,26.7,23.0,,,3.7
 2024-05-18,Sarco,29.4,13.0,,,0.9
+2024-05-18,Sauce Pilapata - SDC (GPRS),17.37,14.09,71.55,63.02,
 2024-05-18,Sauce Pilata - SDC (GPRS),17.37,14.09,71.55,63.02,
 2024-05-18,Saykan Perulas,,,,,1.8
 2024-05-18,Sella Quebrada,19.0,4.0,,,
@@ -31101,6 +31248,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-19,Santivañez,26.7,8.9,,,
 2024-05-19,Sara Ana,24.0,21.0,,,8.7
 2024-05-19,Sarco,33.9,11.7,,,
+2024-05-19,Sauce Pilapata - SDC (GPRS),12.28,8.43,99.8,84.5,
 2024-05-19,Sauce Pilata - SDC (GPRS),12.28,8.43,99.8,84.5,
 2024-05-19,Saykan Perulas,,,,,2.9
 2024-05-19,Sella Quebrada,21.0,0.5,,,
@@ -31286,6 +31434,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-20,Santivañez,28.9,5.5,,,
 2024-05-20,Sara Ana,27.0,18.5,,,0.3
 2024-05-20,Sarco,34.0,11.1,,,
+2024-05-20,Sauce Pilapata - SDC (GPRS),16.87,11.44,71.27,53.11,
 2024-05-20,Sauce Pilata - SDC (GPRS),16.87,11.44,71.27,53.11,
 2024-05-20,Sella Quebrada,28.0,1.5,,,
 2024-05-20,Sopachuy,29.5,7.5,,,
@@ -31462,6 +31611,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-21,Santivañez,25.5,7.8,,,
 2024-05-21,Sara Ana,28.0,18.5,,,
 2024-05-21,Sarco,33.9,10.5,,,
+2024-05-21,Sauce Pilapata - SDC (GPRS),20.21,16.89,41.14,37.47,
 2024-05-21,Sauce Pilata - SDC (GPRS),20.21,16.89,41.14,37.47,
 2024-05-21,Sella Quebrada,32.0,6.0,,,
 2024-05-21,Senkata-D8,,,,,0.1
@@ -31639,6 +31789,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-22,Santivañez,27.8,10.0,,,
 2024-05-22,Sara Ana,35.0,22.0,,,
 2024-05-22,Sarco,33.0,11.1,,,
+2024-05-22,Sauce Pilapata - SDC (GPRS),18.32,15.84,54.49,48.76,
 2024-05-22,Sauce Pilata - SDC (GPRS),18.32,15.84,54.49,48.76,
 2024-05-22,Sella Quebrada,32.5,4.0,,,
 2024-05-22,Sopachuy,30.5,7.5,,,
@@ -31819,6 +31970,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-23,Santivañez,28.9,11.1,,,
 2024-05-23,Sara Ana,33.0,23.5,,,
 2024-05-23,Sarco,32.2,10.5,,,
+2024-05-23,Sauce Pilapata - SDC (GPRS),18.29,15.32,59.21,49.34,
 2024-05-23,Sauce Pilata - SDC (GPRS),18.29,15.32,59.21,49.34,
 2024-05-23,Saykan Perulas,,,,,1.8
 2024-05-23,Sella Quebrada,31.0,3.5,,,
@@ -32008,6 +32160,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-24,Santivañez,30.0,8.9,,,
 2024-05-24,Sara Ana,26.0,23.0,,,
 2024-05-24,Sarco,29.4,7.2,,,
+2024-05-24,Sauce Pilapata - SDC (GPRS),14.62,12.3,85.7,77.37,
 2024-05-24,Sauce Pilata - SDC (GPRS),14.62,12.3,85.7,77.37,
 2024-05-24,Saykan Perulas,,,,,2.6
 2024-05-24,Sella Quebrada,22.0,4.0,,,
@@ -32200,6 +32353,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-25,Santivañez,25.5,5.5,,,
 2024-05-25,Sara Ana,21.0,17.0,,,14.9
 2024-05-25,Sarco,30.0,6.1,,,
+2024-05-25,Sauce Pilapata - SDC (GPRS),19.67,5.43,100.0,47.56,
 2024-05-25,Sauce Pilata - SDC (GPRS),19.67,5.43,100.0,47.56,
 2024-05-25,Saykan Perulas,,,,,2.3
 2024-05-25,Sella Quebrada,18.0,3.0,,,
@@ -32379,6 +32533,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-26,Santivañez,25.5,10.0,,,
 2024-05-26,Sara Ana,24.0,18.0,,,0.8
 2024-05-26,Sarco,33.9,9.4,,,
+2024-05-26,Sauce Pilapata - SDC (GPRS),21.83,10.88,63.5,23.85,
 2024-05-26,Sauce Pilata - SDC (GPRS),21.83,10.88,63.5,23.85,
 2024-05-26,Saykan Perulas,,,,,1.9
 2024-05-26,Sella Quebrada,21.0,1.0,,,
@@ -32561,6 +32716,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-27,Santivañez,31.1,7.2,,,
 2024-05-27,Sara Ana,23.0,17.0,,,
 2024-05-27,Sarco,29.4,8.3,,,
+2024-05-27,Sauce Pilapata - SDC (GPRS),17.29,14.4,25.47,16.8,
 2024-05-27,Sauce Pilata - SDC (GPRS),17.29,14.4,25.47,16.8,
 2024-05-27,Saykan Perulas,,,,,2.5
 2024-05-27,Sella Quebrada,14.5,-1.5,,,
@@ -32740,6 +32896,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-28,Santivañez,26.7,6.1,,,
 2024-05-28,Sara Ana,28.0,15.0,,,
 2024-05-28,Sarco,33.3,6.1,,,
+2024-05-28,Sauce Pilapata - SDC (GPRS),8.01,6.0,97.8,86.6,
 2024-05-28,Sauce Pilata - SDC (GPRS),8.01,6.0,97.8,86.6,
 2024-05-28,Sella Quebrada,20.0,-1.0,,,
 2024-05-28,Sopachuy,22.5,3.5,,,
@@ -32915,6 +33072,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-29,Santivañez,30.0,7.8,,,
 2024-05-29,Sara Ana,23.0,16.0,,,
 2024-05-29,Sarco,33.9,6.0,,,
+2024-05-29,Sauce Pilapata - SDC (GPRS),14.9,11.78,48.24,45.05,
 2024-05-29,Sauce Pilata - SDC (GPRS),14.9,11.78,48.24,45.05,
 2024-05-29,Sella Quebrada,25.5,0.0,,,
 2024-05-29,Sopachuy,27.0,1.5,,,
@@ -33083,6 +33241,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-30,Santivañez,31.1,7.8,,,
 2024-05-30,Sara Ana,28.0,17.0,,,
 2024-05-30,Sarco,32.8,7.0,,,
+2024-05-30,Sauce Pilapata - SDC (GPRS),17.7,13.98,25.01,19.41,
 2024-05-30,Sauce Pilata - SDC (GPRS),17.7,13.98,25.01,19.41,
 2024-05-30,Sella Quebrada,27.0,4.5,,,
 2024-05-30,Sopachuy,27.5,1.5,,,
@@ -33252,6 +33411,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-31,Santivañez,30.0,4.4,,,
 2024-05-31,Sara Ana,31.0,17.5,,,
 2024-05-31,Sarco,32.8,4.6,,,
+2024-05-31,Sauce Pilapata - SDC (GPRS),18.03,12.98,47.47,34.74,
 2024-05-31,Sauce Pilata - SDC (GPRS),18.03,12.98,47.47,34.74,
 2024-05-31,Sella Quebrada,28.0,1.5,,,
 2024-05-31,Sopachuy,29.5,3.5,,,
@@ -33412,6 +33572,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-01,Santivañez,26.7,,,,
 2024-06-01,Sara Ana,31.5,17.6,,,
 2024-06-01,Sarco,32.8,6.5,,,
+2024-06-01,Sauce Pilapata - SDC (GPRS),23.2,11.72,63.69,13.01,
 2024-06-01,Sauce Pilata - SDC (GPRS),23.2,11.72,63.69,13.01,
 2024-06-01,Sella Quebrada,27.0,2.0,,,
 2024-06-01,Sopachuy,28.5,5.5,,,
@@ -33568,6 +33729,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-02,Santivañez,24.4,,,,
 2024-06-02,Sara Ana,31.0,20.0,,,
 2024-06-02,Sarco,34.4,8.9,,,
+2024-06-02,Sauce Pilapata - SDC (GPRS),21.51,14.7,33.95,25.59,
 2024-06-02,Sauce Pilata - SDC (GPRS),21.51,14.7,33.95,25.59,
 2024-06-02,Sella Quebrada,32.0,4.5,,,
 2024-06-02,Sopachuy,32.5,4.5,,,
@@ -33735,6 +33897,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-03,Santivañez,25.5,,,,
 2024-06-03,Sara Ana,29.5,19.0,,,
 2024-06-03,Sarco,31.1,6.7,,,
+2024-06-03,Sauce Pilapata - SDC (GPRS),10.61,8.65,93.0,80.4,
 2024-06-03,Sauce Pilata - SDC (GPRS),10.61,8.65,93.0,80.4,
 2024-06-03,Sella Quebrada,23.5,4.5,,,
 2024-06-03,Sopachuy,23.5,5.5,,,
@@ -33905,6 +34068,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-04,Santivañez,26.7,,,,
 2024-06-04,Sara Ana,31.0,20.5,,,
 2024-06-04,Sarco,32.8,6.7,,,
+2024-06-04,Sauce Pilapata - SDC (GPRS),13.8,11.17,58.58,51.96,
 2024-06-04,Sauce Pilata - SDC (GPRS),13.8,11.17,58.58,51.96,
 2024-06-04,Sella Quebrada,26.5,4.0,,,
 2024-06-04,Sopachuy,28.5,5.5,,,
@@ -34072,6 +34236,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-05,Santivañez,26.7,,,,
 2024-06-05,Sara Ana,31.0,18.0,,,
 2024-06-05,Sarco,33.3,6.0,,,
+2024-06-05,Sauce Pilapata - SDC (GPRS),18.11,14.35,23.75,17.51,
 2024-06-05,Sauce Pilata - SDC (GPRS),18.11,14.35,23.75,17.51,
 2024-06-05,Sella Quebrada,28.5,4.0,,,
 2024-06-05,Sopachuy,30.5,5.5,,,
@@ -34241,6 +34406,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-06,Santivañez,24.4,,,,
 2024-06-06,Sara Ana,31.5,18.5,,,
 2024-06-06,Sarco,33.9,6.5,,,
+2024-06-06,Sauce Pilapata - SDC (GPRS),20.58,18.19,13.53,9.14,
 2024-06-06,Sauce Pilata - SDC (GPRS),20.58,18.19,13.53,9.14,
 2024-06-06,Sella Quebrada,31.0,5.0,,,
 2024-06-06,Sopachuy,32.5,6.5,,,
@@ -34410,6 +34576,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-07,Santivañez,25.5,,,,
 2024-06-07,Sara Ana,34.0,19.0,,,
 2024-06-07,Sarco,33.3,5.5,,,
+2024-06-07,Sauce Pilapata - SDC (GPRS),21.41,17.87,19.6,9.37,
 2024-06-07,Sauce Pilata - SDC (GPRS),21.41,17.87,19.6,9.37,
 2024-06-07,Sella Quebrada,30.0,6.0,,,
 2024-06-07,Sopachuy,32.5,4.5,,,
@@ -34570,6 +34737,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-08,Santivañez,26.7,,,,
 2024-06-08,Sara Ana,32.3,18.6,,,
 2024-06-08,Sarco,33.0,5.5,,,
+2024-06-08,Sauce Pilapata - SDC (GPRS),21.93,17.02,6.16,4.99,
 2024-06-08,Sauce Pilata - SDC (GPRS),21.93,17.02,6.16,4.99,
 2024-06-08,Sella Quebrada,33.0,5.0,,,
 2024-06-08,Sopachuy,31.5,5.5,,,
@@ -34727,6 +34895,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-09,Santivañez,26.7,,,,
 2024-06-09,Sara Ana,30.5,18.5,,,
 2024-06-09,Sarco,33.0,5.5,,,
+2024-06-09,Sauce Pilapata - SDC (GPRS),20.19,17.31,8.1,7.41,
 2024-06-09,Sauce Pilata - SDC (GPRS),20.19,17.31,8.1,7.41,
 2024-06-09,Sella Quebrada,33.5,8.0,,,
 2024-06-09,Sopachuy,32.5,8.5,,,
@@ -34897,6 +35066,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-10,Santivañez,27.8,,,,
 2024-06-10,Sara Ana,32.5,18.9,,,
 2024-06-10,Sarco,33.0,5.5,,,
+2024-06-10,Sauce Pilapata - SDC (GPRS),19.07,16.31,15.67,13.21,
 2024-06-10,Sauce Pilata - SDC (GPRS),19.07,16.31,15.67,13.21,
 2024-06-10,Sella Quebrada,32.0,5.0,,,
 2024-06-10,Sopachuy,32.5,5.5,,,
@@ -35068,6 +35238,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-11,Santivañez,24.4,,,,
 2024-06-11,Sara Ana,31.0,19.0,,,
 2024-06-11,Sarco,33.3,6.1,,,
+2024-06-11,Sauce Pilapata - SDC (GPRS),16.94,13.37,28.34,17.81,
 2024-06-11,Sauce Pilata - SDC (GPRS),16.94,13.37,28.34,17.81,
 2024-06-11,Sella Quebrada,32.5,4.0,,,
 2024-06-11,Sopachuy,31.5,5.5,,,
@@ -35240,6 +35411,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-12,Santivañez,26.7,,,,
 2024-06-12,Sara Ana,31.8,21.0,,,
 2024-06-12,Sarco,34.4,6.0,,,
+2024-06-12,Sauce Pilapata - SDC (GPRS),21.84,13.43,49.01,25.27,
 2024-06-12,Sauce Pilata - SDC (GPRS),21.84,13.43,49.01,25.27,
 2024-06-12,Sella Quebrada,32.0,4.0,,,
 2024-06-12,Sopachuy,31.5,6.5,,,
@@ -35414,6 +35586,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-13,Santivañez,25.5,,,,
 2024-06-13,Sara Ana,30.0,22.0,,,
 2024-06-13,Sarco,30.0,7.8,,,
+2024-06-13,Sauce Pilapata - SDC (GPRS),20.64,15.7,35.72,21.94,
 2024-06-13,Sauce Pilata - SDC (GPRS),20.64,15.7,35.72,21.94,
 2024-06-13,Sella Quebrada,32.5,10.0,,,
 2024-06-13,Sopachuy,31.5,7.5,,,
@@ -35595,6 +35768,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-14,Santivañez,31.1,,,,
 2024-06-14,Sara Ana,31.0,24.0,,,5.6
 2024-06-14,Sarco,33.9,6.7,,,
+2024-06-14,Sauce Pilapata - SDC (GPRS),20.58,17.09,22.21,18.35,
 2024-06-14,Sauce Pilata - SDC (GPRS),20.58,17.09,22.21,18.35,
 2024-06-14,Sella Quebrada,31.0,17.0,,,
 2024-06-14,Sopachuy,31.5,8.0,,,
@@ -35764,6 +35938,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-15,Santivañez,30.0,,,,
 2024-06-15,Sara Ana,26.5,24.0,,,2.0
 2024-06-15,Sarco,31.7,6.1,,,
+2024-06-15,Sauce Pilapata - SDC (GPRS),16.8,13.72,57.09,50.26,
 2024-06-15,Sauce Pilata - SDC (GPRS),16.8,13.72,57.09,50.26,
 2024-06-15,Sella Quebrada,25.5,7.0,,,
 2024-06-15,Sopachuy,28.5,7.5,,,
@@ -35952,6 +36127,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-16,Santivañez,31.1,,,,
 2024-06-16,Sara Ana,25.0,23.5,,,33.2
 2024-06-16,Sarco,25.5,8.3,,,
+2024-06-16,Sauce Pilapata - SDC (GPRS),15.56,10.82,99.6,74.78,
 2024-06-16,Sauce Pilata - SDC (GPRS),15.56,10.82,99.6,74.78,
 2024-06-16,Saykan Perulas,,,,,2.8
 2024-06-16,Sella Quebrada,26.0,7.0,,,
@@ -36153,6 +36329,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-17,Santivañez,32.2,,,,
 2024-06-17,Sara Ana,30.0,22.0,,,0.5
 2024-06-17,Sarco,29.4,9.0,,,
+2024-06-17,Sauce Pilapata - SDC (GPRS),15.68,13.1,70.81,62.18,
 2024-06-17,Sauce Pilata - SDC (GPRS),15.68,13.1,70.81,62.18,
 2024-06-17,Saykan Perulas,,,,,3.4
 2024-06-17,Sella Quebrada,28.0,9.0,,,
@@ -36341,6 +36518,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-18,Santivañez,25.5,,,,
 2024-06-18,Sara Ana,33.5,23.0,,,
 2024-06-18,Sarco,29.0,8.9,,,
+2024-06-18,Sauce Pilapata - SDC (GPRS),21.22,13.37,66.06,30.81,
 2024-06-18,Sauce Pilata - SDC (GPRS),21.22,13.37,66.06,30.81,
 2024-06-18,Sella Quebrada,28.0,4.5,,,
 2024-06-18,Sopachuy,30.5,10.5,,,
@@ -36531,6 +36709,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-19,Santivañez,31.1,,,,
 2024-06-19,Sara Ana,29.0,23.0,,,14.5
 2024-06-19,Sarco,27.0,7.2,,,
+2024-06-19,Sauce Pilapata - SDC (GPRS),16.54,12.24,69.7,43.86,
 2024-06-19,Sauce Pilata - SDC (GPRS),16.54,12.24,69.7,43.86,
 2024-06-19,Sella Quebrada,29.0,8.0,,,
 2024-06-19,Sopachuy,29.5,11.5,,,
@@ -36718,6 +36897,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-20,Santivañez,30.0,,,,
 2024-06-20,Sara Ana,35.0,23.0,,,
 2024-06-20,Sarco,25.5,5.5,,,
+2024-06-20,Sauce Pilapata - SDC (GPRS),13.22,11.09,70.14,61.84,
 2024-06-20,Sauce Pilata - SDC (GPRS),13.22,11.09,70.14,61.84,
 2024-06-20,Sella Quebrada,29.0,4.5,,,
 2024-06-20,Sopachuy,27.5,11.0,,,
@@ -36881,6 +37061,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-21,Santivañez,28.9,,,,
 2024-06-21,Sara Ana,32.0,23.0,,,
 2024-06-21,Sarco,30.5,10.5,,,
+2024-06-21,Sauce Pilapata - SDC (GPRS),19.09,14.82,30.48,24.82,
 2024-06-21,Sauce Pilata - SDC (GPRS),19.09,14.82,30.48,24.82,
 2024-06-21,Sella Quebrada,27.0,8.0,,,
 2024-06-21,Sopachuy,31.5,10.5,,,
@@ -37032,6 +37213,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-22,Santivañez,31.1,,,,
 2024-06-22,Sara Ana,30.0,22.5,,,
 2024-06-22,Sarco,33.3,7.0,,,
+2024-06-22,Sauce Pilapata - SDC (GPRS),19.48,17.39,17.36,15.05,
 2024-06-22,Sauce Pilata - SDC (GPRS),19.48,17.39,17.36,15.05,
 2024-06-22,Sella Quebrada,28.0,15.0,,,
 2024-06-22,Sopachuy,32.5,8.5,,,
@@ -37181,6 +37363,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-23,Santivañez,32.2,,,,
 2024-06-23,Sara Ana,30.5,22.5,,,
 2024-06-23,Sarco,34.4,7.2,,,
+2024-06-23,Sauce Pilapata - SDC (GPRS),21.74,17.81,17.26,15.81,
 2024-06-23,Sauce Pilata - SDC (GPRS),21.74,17.81,17.26,15.81,
 2024-06-23,Sella Quebrada,29.5,8.5,,,
 2024-06-23,Sopachuy,33.0,6.5,,,
@@ -37339,6 +37522,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-24,Santivañez,30.0,,,,
 2024-06-24,Sara Ana,35.0,23.5,,,
 2024-06-24,Sarco,30.5,9.4,,,
+2024-06-24,Sauce Pilapata - SDC (GPRS),14.12,10.82,83.5,72.82,
 2024-06-24,Sauce Pilata - SDC (GPRS),14.12,10.82,83.5,72.82,
 2024-06-24,Saykan Perulas,,,,,1.9
 2024-06-24,Sella Quebrada,23.0,7.0,,,
@@ -37502,6 +37686,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-25,Santivañez,28.9,,,,
 2024-06-25,Sara Ana,34.0,22.5,,,
 2024-06-25,Sarco,29.4,8.3,,,
+2024-06-25,Sauce Pilapata - SDC (GPRS),18.3,13.62,50.99,38.04,
 2024-06-25,Sauce Pilata - SDC (GPRS),18.3,13.62,50.99,38.04,
 2024-06-25,Saykan Perulas,,,,,2.5
 2024-06-25,Sella Quebrada,26.0,6.0,,,
@@ -37671,6 +37856,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-26,Santivañez,30.0,,,,
 2024-06-26,Sara Ana,33.0,23.0,,,1.5
 2024-06-26,Sarco,29.4,8.0,,,
+2024-06-26,Sauce Pilapata - SDC (GPRS),17.45,14.68,26.53,19.4,
 2024-06-26,Sauce Pilata - SDC (GPRS),17.45,14.68,26.53,19.4,
 2024-06-26,Sella Quebrada,22.0,1.5,,,
 2024-06-26,Sopachuy,30.5,6.5,,,
@@ -37829,6 +38015,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-27,Santivañez,31.1,,,,
 2024-06-27,Sara Ana,32.0,22.5,,,
 2024-06-27,Sarco,33.0,6.7,,,
+2024-06-27,Sauce Pilapata - SDC (GPRS),19.34,10.89,61.84,35.17,
 2024-06-27,Sauce Pilata - SDC (GPRS),19.34,10.89,61.84,35.17,
 2024-06-27,Saykan Perulas,,,,,5.6
 2024-06-27,Sella Quebrada,26.0,3.5,,,
@@ -37981,6 +38168,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-28,Santivañez,30.0,,,,
 2024-06-28,Sara Ana,33.0,21.0,,,
 2024-06-28,Sarco,32.2,5.5,,,
+2024-06-28,Sauce Pilapata - SDC (GPRS),19.94,17.47,16.01,12.7,
 2024-06-28,Sauce Pilata - SDC (GPRS),19.94,17.47,16.01,12.7,
 2024-06-28,Sella Quebrada,26.0,3.0,,,
 2024-06-28,Sopachuy,31.0,6.0,,,
@@ -38131,6 +38319,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-29,Santivañez,31.1,,,,
 2024-06-29,Sara Ana,30.0,21.5,,,
 2024-06-29,Sarco,29.4,7.2,,,
+2024-06-29,Sauce Pilapata - SDC (GPRS),12.3,9.06,80.9,66.84,
 2024-06-29,Sauce Pilata - SDC (GPRS),12.3,9.06,80.9,66.84,
 2024-06-29,Sella Quebrada,25.0,1.0,,,
 2024-06-29,Sopachuy,19.5,1.5,,,
@@ -38294,6 +38483,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-30,Santivañez,30.0,,,,
 2024-06-30,Sara Ana,21.0,18.0,,,2.7
 2024-06-30,Sarco,31.7,8.0,,,
+2024-06-30,Sauce Pilapata - SDC (GPRS),8.1,5.87,99.9,90.8,
 2024-06-30,Sauce Pilata - SDC (GPRS),8.1,5.87,99.9,90.8,
 2024-06-30,Sella Quebrada,21.0,-1.0,,,
 2024-06-30,Sopachuy,25.5,4.5,,,
@@ -38468,6 +38658,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-01,Santivañez,25.5,2.2,,,
 2024-07-01,Sara Ana,28.0,19.0,,,
 2024-07-01,Sarco,29.9,9.0,,,
+2024-07-01,Sauce Pilapata - SDC (GPRS),14.17,11.1,61.84,45.29,
 2024-07-01,Sauce Pilata - SDC (GPRS),14.17,11.1,61.84,45.29,
 2024-07-01,Sella Quebrada,26.0,1.0,,,
 2024-07-01,Sopachuy,29.5,6.0,,,
@@ -38644,6 +38835,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-02,Santivañez,26.7,3.3,,,
 2024-07-02,Sara Ana,26.0,18.0,,,
 2024-07-02,Sarco,34.0,6.0,,,
+2024-07-02,Sauce Pilapata - SDC (GPRS),21.27,13.5,27.81,20.74,
 2024-07-02,Sauce Pilata - SDC (GPRS),21.27,13.5,27.81,20.74,
 2024-07-02,Sella Quebrada,29.5,1.0,,,
 2024-07-02,Sopachuy,31.5,4.5,,,
@@ -38819,6 +39011,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-03,Santivañez,30.0,2.2,,,
 2024-07-03,Sara Ana,27.5,18.3,,,
 2024-07-03,Sarco,33.3,6.0,,,
+2024-07-03,Sauce Pilapata - SDC (GPRS),18.18,15.8,25.06,16.06,
 2024-07-03,Sauce Pilata - SDC (GPRS),18.18,15.8,25.06,16.06,
 2024-07-03,Sella Quebrada,27.0,3.0,,,
 2024-07-03,Sopachuy,31.5,4.5,,,
@@ -38995,6 +39188,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-04,Santivañez,25.5,4.4,,,
 2024-07-04,Sara Ana,32.0,20.5,,,
 2024-07-04,Sarco,33.9,5.5,,,
+2024-07-04,Sauce Pilapata - SDC (GPRS),17.01,15.46,19.95,10.81,
 2024-07-04,Sauce Pilata - SDC (GPRS),17.01,15.46,19.95,10.81,
 2024-07-04,Sella Quebrada,24.0,4.5,,,
 2024-07-04,Sopachuy,28.5,5.5,,,
@@ -39171,6 +39365,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-05,Santivañez,26.7,3.3,,,
 2024-07-05,Sara Ana,30.0,19.2,,,
 2024-07-05,Sarco,29.4,6.1,,,
+2024-07-05,Sauce Pilapata - SDC (GPRS),11.77,8.21,85.2,73.31,
 2024-07-05,Sauce Pilata - SDC (GPRS),11.77,8.21,85.2,73.31,
 2024-07-05,Sella Quebrada,15.0,8.5,,,
 2024-07-05,Sopachuy,25.5,5.5,,,
@@ -39287,6 +39482,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-06,Laykacota,20.3,2.0,,,
 2024-07-06,Llallagua,18.0,-2.1,,,
 2024-07-06,Mairana_M (GPRS),17.94,13.55,96.5,82.3,2.0
+2024-07-06,Minero (Unagro),,,,,0.2
 2024-07-06,Mizque - SDC (GPRS),22.76,9.59,91.0,35.65,
 2024-07-06,Mojo,20.2,-6.3,,,
 2024-07-06,Molle Molle,18.9,4.4,,,
@@ -39338,6 +39534,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-06,Santivañez,30.0,4.4,,,
 2024-07-06,Sara Ana,29.0,21.0,,,
 2024-07-06,Sarco,29.4,5.0,,,
+2024-07-06,Sauce Pilapata - SDC (GPRS),14.33,8.22,99.8,64.22,
 2024-07-06,Sauce Pilata - SDC (GPRS),14.33,8.22,99.8,64.22,
 2024-07-06,Sella Quebrada,20.0,4.0,,,
 2024-07-06,Sopachuy,22.0,8.5,,,
@@ -39518,6 +39715,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-07,Santivañez,31.1,5.5,,,
 2024-07-07,Sara Ana,,,,,0.8
 2024-07-07,Sarco,30.0,8.9,,,
+2024-07-07,Sauce Pilapata - SDC (GPRS),15.37,12.14,64.65,54.83,
 2024-07-07,Sauce Pilata - SDC (GPRS),15.37,12.14,64.65,54.83,
 2024-07-07,Sella Quebrada,17.5,1.0,,,
 2024-07-07,Sopachuy,21.0,7.5,,,0.4
@@ -39647,6 +39845,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-08,Llallagua,14.2,1.0,,,
 2024-07-08,Magdalena,24.0,18.0,67.4,40.8,
 2024-07-08,Mairana_M (GPRS),11.04,8.33,91.5,80.1,1.4
+2024-07-08,Minero (Unagro),,,,,0.2
 2024-07-08,Mizque - SDC (GPRS),20.8,11.19,78.59,43.7,
 2024-07-08,Mojo,18.0,7.0,,,
 2024-07-08,Molle Molle,18.9,4.4,,,
@@ -39712,6 +39911,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-08,Santivañez,28.9,3.3,,,
 2024-07-08,Sara Ana,,,,,6.4
 2024-07-08,Sarco,29.4,6.7,,,
+2024-07-08,Sauce Pilapata - SDC (GPRS),8.06,5.85,99.9,99.7,
 2024-07-08,Sauce Pilata - SDC (GPRS),8.06,5.85,99.9,99.7,
 2024-07-08,Sella Quebrada,18.0,1.5,,,
 2024-07-08,Sopachuy,11.0,5.0,,,0.4
@@ -39902,6 +40102,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-09,Santivañez,30.0,4.4,,,
 2024-07-09,Sara Ana,22.0,16.4,,,
 2024-07-09,Sarco,28.0,8.0,,,
+2024-07-09,Sauce Pilapata - SDC (GPRS),6.17,3.95,99.9,99.8,0.1
 2024-07-09,Sauce Pilata - SDC (GPRS),6.17,3.95,99.9,99.8,0.1
 2024-07-09,Sella Quebrada,15.0,2.5,,,
 2024-07-09,Sopachuy,23.0,3.0,,,0.6
@@ -40029,6 +40230,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-10,Llallagua,14.8,0.0,,,
 2024-07-10,Magdalena,22.0,15.0,76.3,49.2,
 2024-07-10,Mairana_M (GPRS),9.6,6.51,88.3,75.85,0.2
+2024-07-10,Minero (Unagro),,,,,1.8
 2024-07-10,Mizque - SDC (GPRS),18.42,4.96,90.6,44.91,
 2024-07-10,Mojo,13.3,-8.3,,,
 2024-07-10,Molle Molle,18.9,9.4,,,
@@ -40092,6 +40294,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-10,Santivañez,31.1,2.2,,,
 2024-07-10,Sara Ana,20.5,15.3,,,
 2024-07-10,Sarco,28.9,6.1,,,
+2024-07-10,Sauce Pilapata - SDC (GPRS),13.93,9.75,68.53,51.3,
 2024-07-10,Sauce Pilata - SDC (GPRS),13.93,9.75,68.53,51.3,
 2024-07-10,Sella Quebrada,17.0,-1.0,,,
 2024-07-10,Sopachuy,24.0,3.0,,,
@@ -40217,6 +40420,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-11,Llallagua,13.0,1.0,,,
 2024-07-11,Magdalena,24.0,13.0,86.8,56.6,
 2024-07-11,Mairana_M (GPRS),18.93,14.72,84.4,68.46,
+2024-07-11,Minero (Unagro),,,,,4.4
 2024-07-11,Mizque - SDC (GPRS),22.85,5.11,78.07,27.21,
 2024-07-11,Mojo,13.0,-4.0,,,
 2024-07-11,Molle Molle,17.8,9.4,,,
@@ -40275,6 +40479,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-11,Santivañez,31.1,4.4,,,
 2024-07-11,Sara Ana,,,,,1.9
 2024-07-11,Sarco,26.1,6.1,,,
+2024-07-11,Sauce Pilapata - SDC (GPRS),13.61,10.22,63.82,47.71,
 2024-07-11,Sauce Pilata - SDC (GPRS),13.61,10.22,63.82,47.71,
 2024-07-11,Sella Quebrada,20.0,-4.0,,,
 2024-07-11,Sopachuy,27.5,6.0,,,
@@ -40472,6 +40677,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-12,Santivañez,25.5,3.3,,,
 2024-07-12,Sara Ana,,,,,38.6
 2024-07-12,Sarco,22.8,6.0,,,
+2024-07-12,Sauce Pilapata - SDC (GPRS),3.41,1.76,99.9,99.6,0.9
 2024-07-12,Sauce Pilata - SDC (GPRS),3.41,1.76,99.9,99.6,0.9
 2024-07-12,Sella Quebrada,12.0,-7.0,,,
 2024-07-12,Sopachuy,9.5,4.5,,,
@@ -40658,6 +40864,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-13,Santivañez,26.7,4.4,,,
 2024-07-13,Sara Ana,,,,,1.5
 2024-07-13,Sarco,28.3,7.8,,,
+2024-07-13,Sauce Pilapata - SDC (GPRS),11.2,3.69,99.9,71.53,1.3
 2024-07-13,Sauce Pilata - SDC (GPRS),11.2,3.69,99.9,71.53,1.3
 2024-07-13,Sella Quebrada,14.0,-3.0,,,
 2024-07-13,Sopachuy,24.0,2.5,,,
@@ -40827,6 +41034,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-14,Santivañez,30.0,4.4,,,
 2024-07-14,Sara Ana,22.0,17.0,,,
 2024-07-14,Sarco,29.4,6.0,,,
+2024-07-14,Sauce Pilapata - SDC (GPRS),6.33,4.93,99.9,99.7,
 2024-07-14,Sauce Pilata - SDC (GPRS),6.33,4.93,99.9,99.7,
 2024-07-14,Sella Quebrada,18.0,-7.0,,,
 2024-07-14,Sopachuy,25.0,6.0,,,
@@ -40995,6 +41203,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-15,Santivañez,27.8,5.5,,,
 2024-07-15,Sara Ana,23.5,17.5,,,
 2024-07-15,Sarco,29.0,6.1,,,
+2024-07-15,Sauce Pilapata - SDC (GPRS),8.13,4.79,99.7,80.2,
 2024-07-15,Sauce Pilata - SDC (GPRS),8.13,4.79,99.7,80.2,
 2024-07-15,Sella Quebrada,18.0,-3.0,,,
 2024-07-15,Sopachuy,26.5,0.5,,,
@@ -41168,6 +41377,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-16,Santivañez,25.5,2.2,,,
 2024-07-16,Sara Ana,28.0,15.0,,,
 2024-07-16,Sarco,29.0,5.5,,,
+2024-07-16,Sauce Pilapata - SDC (GPRS),14.71,8.61,67.82,39.7,
 2024-07-16,Sauce Pilata - SDC (GPRS),14.71,8.61,67.82,39.7,
 2024-07-16,Saykan Perulas,,,,,2.8
 2024-07-16,Sella Quebrada,24.0,-3.0,,,
@@ -41345,6 +41555,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-17,Santivañez,30.0,3.3,,,
 2024-07-17,Sara Ana,27.0,16.5,,,
 2024-07-17,Sarco,29.0,6.0,,,
+2024-07-17,Sauce Pilapata - SDC (GPRS),7.1,4.92,99.9,88.2,
 2024-07-17,Sauce Pilata - SDC (GPRS),7.1,4.92,99.9,88.2,
 2024-07-17,Saykan Perulas,,,,,3.4
 2024-07-17,Sella Quebrada,22.0,-2.0,,,
@@ -41516,6 +41727,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-18,Santivañez,26.7,4.4,,,
 2024-07-18,Sara Ana,29.5,17.0,,,
 2024-07-18,Sarco,29.4,5.5,,,
+2024-07-18,Sauce Pilapata - SDC (GPRS),18.99,15.08,17.99,14.05,
 2024-07-18,Sauce Pilata - SDC (GPRS),18.99,15.08,17.99,14.05,
 2024-07-18,Sella Quebrada,33.0,1.0,,,
 2024-07-18,Sopachuy,15.0,4.5,,,
@@ -41690,6 +41902,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-19,Santivañez,31.1,3.3,,,
 2024-07-19,Sara Ana,31.5,17.0,,,
 2024-07-19,Sarco,35.0,5.0,,,
+2024-07-19,Sauce Pilapata - SDC (GPRS),20.72,16.37,5.32,4.11,
 2024-07-19,Sauce Pilata - SDC (GPRS),20.72,16.37,5.32,4.11,
 2024-07-19,Sella Quebrada,26.0,4.0,,,
 2024-07-19,Sopachuy,31.0,6.0,,,
@@ -41853,6 +42066,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-20,Santivañez,32.2,4.4,,,
 2024-07-20,Sara Ana,30.0,14.0,,,
 2024-07-20,Sarco,29.4,6.5,,,
+2024-07-20,Sauce Pilapata - SDC (GPRS),11.53,7.18,80.7,55.13,
 2024-07-20,Sauce Pilata - SDC (GPRS),11.53,7.18,80.7,55.13,
 2024-07-20,Sella Quebrada,25.0,4.5,,,
 2024-07-20,Sopachuy,30.0,8.0,,,
@@ -42018,6 +42232,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-21,Santivañez,30.0,5.5,,,
 2024-07-21,Sara Ana,30.0,16.0,,,
 2024-07-21,Sarco,30.5,5.5,,,
+2024-07-21,Sauce Pilapata - SDC (GPRS),17.97,12.91,29.38,22.86,
 2024-07-21,Sauce Pilata - SDC (GPRS),17.97,12.91,29.38,22.86,
 2024-07-21,Sella Quebrada,29.0,5.0,,,
 2024-07-21,Sopachuy,31.0,5.0,,,
@@ -42188,6 +42403,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-22,Santivañez,34.4,3.3,,,
 2024-07-22,Sara Ana,30.5,17.0,,,
 2024-07-22,Sarco,28.0,6.1,,,
+2024-07-22,Sauce Pilapata - SDC (GPRS),12.63,8.29,74.99,57.55,
 2024-07-22,Sauce Pilata - SDC (GPRS),12.63,8.29,74.99,57.55,
 2024-07-22,Sella Quebrada,23.0,4.5,,,
 2024-07-22,Sopachuy,28.0,7.5,,,
@@ -42360,6 +42576,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-23,Santivañez,33.3,4.4,,,
 2024-07-23,Sara Ana,31.0,17.0,,,
 2024-07-23,Sarco,29.4,6.0,,,
+2024-07-23,Sauce Pilapata - SDC (GPRS),13.83,10.27,70.16,52.91,
 2024-07-23,Sauce Pilata - SDC (GPRS),13.83,10.27,70.16,52.91,
 2024-07-23,Sella Quebrada,26.5,5.0,,,
 2024-07-23,Sopachuy,29.0,8.0,,,
@@ -42535,6 +42752,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-24,Santivañez,31.1,3.3,,,
 2024-07-24,Sara Ana,33.0,19.0,,,
 2024-07-24,Sarco,33.3,6.1,,,
+2024-07-24,Sauce Pilapata - SDC (GPRS),17.2,13.44,31.53,24.28,
 2024-07-24,Sauce Pilata - SDC (GPRS),17.2,13.44,31.53,24.28,
 2024-07-24,Saykan Perulas,,,,,1.9
 2024-07-24,Sella Quebrada,32.0,9.5,,,
@@ -42706,6 +42924,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-25,Santivañez,33.3,3.3,,,
 2024-07-25,Sara Ana,33.2,19.0,,,
 2024-07-25,Sarco,30.0,7.0,,,
+2024-07-25,Sauce Pilapata - SDC (GPRS),12.23,10.24,82.3,64.93,
 2024-07-25,Sauce Pilata - SDC (GPRS),12.23,10.24,82.3,64.93,
 2024-07-25,Saykan Perulas,,,,,2.5
 2024-07-25,Sella Quebrada,23.0,7.0,,,
@@ -42872,6 +43091,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-26,Santivañez,33.3,7.8,,,
 2024-07-26,Sara Ana,34.2,19.0,,,
 2024-07-26,Sarco,34.4,7.5,,,
+2024-07-26,Sauce Pilapata - SDC (GPRS),18.62,13.6,43.69,28.08,
 2024-07-26,Sauce Pilata - SDC (GPRS),18.62,13.6,43.69,28.08,
 2024-07-26,Sella Quebrada,26.0,7.0,,,
 2024-07-26,Sopachuy,32.0,9.0,,,
@@ -43035,6 +43255,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-27,Santivañez,34.4,8.9,,,
 2024-07-27,Sara Ana,,,,,16.3
 2024-07-27,Sarco,29.4,6.1,,,
+2024-07-27,Sauce Pilapata - SDC (GPRS),14.46,10.45,86.1,67.81,
 2024-07-27,Sauce Pilata - SDC (GPRS),14.46,10.45,86.1,67.81,
 2024-07-27,Sella Quebrada,27.0,5.0,,,
 2024-07-27,Sopachuy,24.0,11.5,,,
@@ -43153,6 +43374,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-28,Laykacota,20.2,4.0,,,
 2024-07-28,Llallagua,17.1,1.1,,,
 2024-07-28,Mairana_M (GPRS),25.44,12.62,98.8,56.36,0.8
+2024-07-28,Minero (Unagro),,,,,2.8
 2024-07-28,Mizque - SDC (GPRS),23.6,9.18,87.5,35.45,
 2024-07-28,Mojo,19.2,-3.2,,,
 2024-07-28,Molle Molle,18.9,10.0,,,
@@ -43204,6 +43426,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-28,Santivañez,31.1,4.4,,,
 2024-07-28,Sara Ana,26.0,23.0,,,
 2024-07-28,Sarco,29.4,10.0,,,
+2024-07-28,Sauce Pilapata - SDC (GPRS),17.84,11.75,72.99,46.62,
 2024-07-28,Sauce Pilata - SDC (GPRS),17.84,11.75,72.99,46.62,
 2024-07-28,Sella Quebrada,23.0,9.0,,,
 2024-07-28,Sopachuy,21.5,9.0,,,
@@ -43386,6 +43609,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-29,Santivañez,35.5,5.5,,,
 2024-07-29,Sara Ana,,,,,6.4
 2024-07-29,Sarco,28.3,12.0,,,
+2024-07-29,Sauce Pilapata - SDC (GPRS),12.16,8.8,97.2,76.93,
 2024-07-29,Sauce Pilata - SDC (GPRS),12.16,8.8,97.2,76.93,
 2024-07-29,Sella Quebrada,,,,,4.1
 2024-07-29,Sopachuy,15.5,11.5,,,
@@ -43575,6 +43799,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-30,Santivañez,33.3,7.8,,,
 2024-07-30,Sara Ana,,,,,1.5
 2024-07-30,Sarco,30.5,6.5,,,
+2024-07-30,Sauce Pilapata - SDC (GPRS),9.3,7.67,99.9,99.7,0.1
 2024-07-30,Sauce Pilata - SDC (GPRS),9.3,7.67,99.9,99.7,0.1
 2024-07-30,Sella Quebrada,,,,,1.7
 2024-07-30,Sopachuy,23.5,10.0,,,
@@ -43752,6 +43977,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-31,Santivañez,34.4,4.4,,,
 2024-07-31,Sara Ana,27.5,20.0,,,
 2024-07-31,Sarco,33.3,9.5,,,
+2024-07-31,Sauce Pilapata - SDC (GPRS),16.91,13.35,59.67,49.67,
 2024-07-31,Sauce Pilata - SDC (GPRS),16.91,13.35,59.67,49.67,
 2024-07-31,Sella Quebrada,31.0,4.5,,,
 2024-07-31,Sopachuy,27.0,7.5,,,
@@ -43919,6 +44145,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-01,Santivañez,33.3,7.8,,,
 2024-08-01,Sara Ana,28.3,21.0,,,
 2024-08-01,Sarco,34.4,6.7,,,
+2024-08-01,Sauce Pilapata - SDC (GPRS),17.52,13.69,46.53,38.28,
 2024-08-01,Sauce Pilata - SDC (GPRS),17.52,13.69,46.53,38.28,
 2024-08-01,Sella Quebrada,32.0,10.0,,,
 2024-08-01,Sopachuy,23.0,9.5,,,
@@ -44086,6 +44313,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-02,Santivañez,31.1,6.7,,,
 2024-08-02,Sara Ana,31.0,22.0,,,
 2024-08-02,Sarco,33.3,8.3,,,
+2024-08-02,Sauce Pilapata - SDC (GPRS),17.9,14.26,49.01,41.27,
 2024-08-02,Sauce Pilata - SDC (GPRS),17.9,14.26,49.01,41.27,
 2024-08-02,Sella Quebrada,32.0,13.0,,,
 2024-08-02,Sopachuy,32.0,10.0,,,
@@ -44249,6 +44477,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-03,Santivañez,35.5,7.8,,,
 2024-08-03,Sara Ana,32.5,21.0,,,
 2024-08-03,Sarco,32.2,8.9,,,
+2024-08-03,Sauce Pilapata - SDC (GPRS),18.41,15.57,27.16,12.35,
 2024-08-03,Sauce Pilata - SDC (GPRS),18.41,15.57,27.16,12.35,
 2024-08-03,Sella Quebrada,29.5,9.0,,,
 2024-08-03,Sopachuy,26.0,7.5,,,
@@ -44412,6 +44641,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-04,Santivañez,34.4,3.3,,,
 2024-08-04,Sara Ana,33.5,21.0,,,
 2024-08-04,Sarco,29.4,9.4,,,
+2024-08-04,Sauce Pilapata - SDC (GPRS),13.64,10.78,79.32,67.52,
 2024-08-04,Sauce Pilata - SDC (GPRS),13.64,10.78,79.32,67.52,
 2024-08-04,Sella Quebrada,28.5,7.5,,,
 2024-08-04,Sopachuy,24.5,14.0,,,
@@ -44596,6 +44826,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-05,Santivañez,32.2,5.5,,,
 2024-08-05,Sara Ana,29.0,22.5,,,1.5
 2024-08-05,Sarco,25.0,9.0,,,
+2024-08-05,Sauce Pilapata - SDC (GPRS),16.12,12.33,74.02,55.97,
 2024-08-05,Sauce Pilata - SDC (GPRS),16.12,12.33,74.02,55.97,
 2024-08-05,Sella Quebrada,30.0,4.0,,,
 2024-08-05,Sopachuy,30.5,13.0,,,
@@ -44782,6 +45013,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-06,Santivañez,30.0,7.8,,,
 2024-08-06,Sara Ana,27.5,21.0,,,8.5
 2024-08-06,Sarco,29.0,9.4,,,
+2024-08-06,Sauce Pilapata - SDC (GPRS),13.95,12.5,62.26,57.7,
 2024-08-06,Sauce Pilata - SDC (GPRS),13.95,12.5,62.26,57.7,
 2024-08-06,Sella Quebrada,29.0,5.0,,,
 2024-08-06,Sopachuy,26.0,9.5,,,
@@ -44960,6 +45192,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-07,Santivañez,31.1,5.5,,,
 2024-08-07,Sara Ana,31.8,23.0,,,
 2024-08-07,Sarco,29.4,10.5,,,
+2024-08-07,Sauce Pilapata - SDC (GPRS),20.11,12.57,54.82,29.2,
 2024-08-07,Sauce Pilata - SDC (GPRS),20.11,12.57,54.82,29.2,
 2024-08-07,Sella Quebrada,27.0,6.5,,,
 2024-08-07,Sopachuy,27.5,17.5,,,
@@ -45143,6 +45376,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-08,Santivañez,32.2,6.7,,,
 2024-08-08,Sara Ana,33.5,22.8,,,
 2024-08-08,Sarco,31.1,7.2,,,
+2024-08-08,Sauce Pilapata - SDC (GPRS),13.94,11.93,73.87,62.32,
 2024-08-08,Sauce Pilata - SDC (GPRS),13.94,11.93,73.87,62.32,
 2024-08-08,Saykan Perulas,,,,,1.7
 2024-08-08,Sella Quebrada,16.0,4.0,,,
@@ -45340,6 +45574,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-09,Santivañez,34.4,4.4,,,
 2024-08-09,Sara Ana,20.5,16.0,,,
 2024-08-09,Sarco,34.4,8.3,,,
+2024-08-09,Sauce Pilapata - SDC (GPRS),11.04,7.08,99.9,80.8,
 2024-08-09,Sauce Pilata - SDC (GPRS),11.04,7.08,99.9,80.8,
 2024-08-09,Sella Quebrada,11.0,1.5,,,
 2024-08-09,Sopachuy,13.5,4.5,,,
@@ -45501,6 +45736,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-10,Santivañez,31.1,5.5,,,
 2024-08-10,Sara Ana,23.5,14.7,,,
 2024-08-10,Sarco,28.0,10.5,,,
+2024-08-10,Sauce Pilapata - SDC (GPRS),18.3,9.37,50.38,8.36,
 2024-08-10,Sauce Pilata - SDC (GPRS),18.3,9.37,50.38,8.36,
 2024-08-10,Sella Quebrada,25.0,-4.0,,,
 2024-08-10,Sopachuy,24.5,-3.5,,,
@@ -45657,6 +45893,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-11,Santivañez,34.4,6.7,,,
 2024-08-11,Sara Ana,27.0,15.4,,,
 2024-08-11,Sarco,29.4,6.0,,,
+2024-08-11,Sauce Pilapata - SDC (GPRS),20.11,12.45,22.98,7.19,
 2024-08-11,Sauce Pilata - SDC (GPRS),20.11,12.45,22.98,7.19,
 2024-08-11,Sella Quebrada,25.0,1.5,,,
 2024-08-11,Sopachuy,26.5,0.0,,,
@@ -45820,6 +46057,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-12,Santivañez,35.5,3.3,,,
 2024-08-12,Sara Ana,29.5,14.6,,,
 2024-08-12,Sarco,28.3,5.5,,,
+2024-08-12,Sauce Pilapata - SDC (GPRS),10.78,8.48,51.22,43.09,
 2024-08-12,Sauce Pilata - SDC (GPRS),10.78,8.48,51.22,43.09,
 2024-08-12,Sella Quebrada,19.5,0.0,,,
 2024-08-12,Sopachuy,20.5,1.0,,,
@@ -45983,6 +46221,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-13,Santivañez,32.2,4.4,,,
 2024-08-13,Sara Ana,29.5,14.0,,,
 2024-08-13,Sarco,34.4,6.1,,,
+2024-08-13,Sauce Pilapata - SDC (GPRS),13.28,5.94,86.3,60.1,
 2024-08-13,Sauce Pilata - SDC (GPRS),13.28,5.94,86.3,60.1,
 2024-08-13,Sella Quebrada,24.0,1.0,,,
 2024-08-13,Sopachuy,28.0,0.5,,,
@@ -46147,6 +46386,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-14,Santivañez,33.3,5.5,,,
 2024-08-14,Sara Ana,31.0,14.0,,,
 2024-08-14,Sarco,33.9,6.1,,,
+2024-08-14,Sauce Pilapata - SDC (GPRS),23.14,13.28,43.67,24.74,
 2024-08-14,Sauce Pilata - SDC (GPRS),23.14,13.28,43.67,24.74,
 2024-08-14,Sella Quebrada,30.0,1.5,,,
 2024-08-14,Sopachuy,31.5,2.0,,,
@@ -46315,6 +46555,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-15,Santivañez,35.5,5.5,,,
 2024-08-15,Sara Ana,33.0,17.0,,,
 2024-08-15,Sarco,32.8,10.5,,,
+2024-08-15,Sauce Pilapata - SDC (GPRS),21.77,12.77,48.96,30.36,
 2024-08-15,Sauce Pilata - SDC (GPRS),21.77,12.77,48.96,30.36,
 2024-08-15,Sella Quebrada,31.0,3.5,,,
 2024-08-15,Sopachuy,32.5,2.5,,,
@@ -46485,6 +46726,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-16,Santivañez,34.4,4.4,,,
 2024-08-16,Sara Ana,33.0,17.0,,,
 2024-08-16,Sarco,34.4,10.0,,,
+2024-08-16,Sauce Pilapata - SDC (GPRS),22.94,11.21,57.44,21.83,
 2024-08-16,Sauce Pilata - SDC (GPRS),22.94,11.21,57.44,21.83,
 2024-08-16,Saykan Perulas,,,,,2.9
 2024-08-16,Sella Quebrada,29.0,6.5,,,
@@ -46654,6 +46896,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-17,Santivañez,32.2,6.7,,,
 2024-08-17,Sara Ana,34.5,17.0,,,
 2024-08-17,Sarco,31.1,8.3,,,
+2024-08-17,Sauce Pilapata - SDC (GPRS),16.78,13.13,42.01,37.08,
 2024-08-17,Sauce Pilata - SDC (GPRS),16.78,13.13,42.01,37.08,
 2024-08-17,Sella Quebrada,28.0,5.0,,,
 2024-08-17,Sopachuy,28.5,6.0,,,
@@ -46820,6 +47063,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-18,Santivañez,33.3,5.5,,,
 2024-08-18,Sara Ana,34.0,19.0,,,
 2024-08-18,Sarco,32.2,9.4,,,
+2024-08-18,Sauce Pilapata - SDC (GPRS),17.58,13.26,44.94,36.11,
 2024-08-18,Sauce Pilata - SDC (GPRS),17.58,13.26,44.94,36.11,
 2024-08-18,Sella Quebrada,32.0,8.0,,,
 2024-08-18,Sopachuy,30.5,6.5,,,
@@ -46984,6 +47228,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-19,Santivañez,32.2,4.4,,,
 2024-08-19,Sara Ana,30.0,20.0,,,
 2024-08-19,Sarco,33.3,11.1,,,
+2024-08-19,Sauce Pilapata - SDC (GPRS),18.3,14.7,51.56,41.71,
 2024-08-19,Sauce Pilata - SDC (GPRS),18.3,14.7,51.56,41.71,
 2024-08-19,Sella Quebrada,29.0,8.0,,,
 2024-08-19,Sopachuy,28.5,8.5,,,
@@ -47154,6 +47399,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-20,Santivañez,31.1,7.8,,,
 2024-08-20,Sara Ana,35.0,20.0,,,
 2024-08-20,Sarco,29.4,11.1,,,
+2024-08-20,Sauce Pilapata - SDC (GPRS),16.44,13.06,66.48,54.07,
 2024-08-20,Sauce Pilata - SDC (GPRS),16.44,13.06,66.48,54.07,
 2024-08-20,Sella Quebrada,29.0,8.0,,,
 2024-08-20,Sopachuy,27.5,11.5,,,
@@ -47329,6 +47575,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-21,Santivañez,35.5,7.8,,,
 2024-08-21,Sara Ana,35.0,20.0,,,
 2024-08-21,Sarco,33.3,12.2,,,
+2024-08-21,Sauce Pilapata - SDC (GPRS),18.2,14.77,51.2,45.96,
 2024-08-21,Sauce Pilata - SDC (GPRS),18.2,14.77,51.2,45.96,
 2024-08-21,Sella Quebrada,32.0,10.5,,,
 2024-08-21,Sopachuy,30.5,12.5,,,
@@ -47505,6 +47752,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-22,Santivañez,34.4,4.4,,,
 2024-08-22,Sara Ana,31.5,20.0,,,
 2024-08-22,Sarco,32.8,12.2,,,
+2024-08-22,Sauce Pilapata - SDC (GPRS),16.93,14.45,66.68,59.93,
 2024-08-22,Sauce Pilata - SDC (GPRS),16.93,14.45,66.68,59.93,
 2024-08-22,Sella Quebrada,25.0,7.0,,,
 2024-08-22,Sopachuy,28.5,11.0,,,
@@ -47682,6 +47930,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-23,Santivañez,33.3,3.3,,,
 2024-08-23,Sara Ana,30.5,23.0,,,
 2024-08-23,Sarco,33.9,12.0,,,
+2024-08-23,Sauce Pilapata - SDC (GPRS),18.15,14.22,65.09,49.68,
 2024-08-23,Sauce Pilata - SDC (GPRS),18.15,14.22,65.09,49.68,
 2024-08-23,Saykan Perulas,,,,,2.6
 2024-08-23,Sella Quebrada,26.0,3.0,,,
@@ -47860,6 +48109,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-24,Santivañez,32.2,7.8,,,
 2024-08-24,Sara Ana,27.0,21.5,,,
 2024-08-24,Sarco,33.9,12.0,,,
+2024-08-24,Sauce Pilapata - SDC (GPRS),12.92,9.75,99.5,82.8,
 2024-08-24,Sauce Pilata - SDC (GPRS),12.92,9.75,99.5,82.8,
 2024-08-24,Saykan Perulas,,,,,3.8
 2024-08-24,Sella Quebrada,21.5,2.0,,,
@@ -48035,6 +48285,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-25,Santivañez,34.4,6.7,,,
 2024-08-25,Sara Ana,20.0,18.5,,,1.5
 2024-08-25,Sarco,32.2,12.2,,,
+2024-08-25,Sauce Pilapata - SDC (GPRS),3.23,2.04,99.9,99.7,0.4
 2024-08-25,Sauce Pilata - SDC (GPRS),3.23,2.04,99.9,99.7,0.4
 2024-08-25,Sella Quebrada,11.0,1.5,,,2.1
 2024-08-25,Sopachuy,10.0,4.5,,,
@@ -48202,6 +48453,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-26,Santivañez,31.1,7.8,,,
 2024-08-26,Sara Ana,26.0,16.0,,,
 2024-08-26,Sarco,34.4,9.4,,,
+2024-08-26,Sauce Pilapata - SDC (GPRS),9.49,4.75,83.2,66.56,0.1
 2024-08-26,Sauce Pilata - SDC (GPRS),9.49,4.75,83.2,66.56,0.1
 2024-08-26,Sella Quebrada,24.0,-3.0,,,
 2024-08-26,Sopachuy,25.5,5.0,,,
@@ -48367,6 +48619,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-27,Santivañez,35.5,3.3,,,
 2024-08-27,Sara Ana,31.0,17.0,,,
 2024-08-27,Sarco,33.9,10.0,,,
+2024-08-27,Sauce Pilapata - SDC (GPRS),14.12,9.26,76.03,58.9,
 2024-08-27,Sauce Pilata - SDC (GPRS),14.12,9.26,76.03,58.9,
 2024-08-27,Sella Quebrada,24.0,0.5,,,
 2024-08-27,Sopachuy,23.5,3.5,,,
@@ -48532,6 +48785,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-28,Santivañez,34.4,5.5,,,
 2024-08-28,Sara Ana,34.0,18.0,,,
 2024-08-28,Sarco,34.4,11.7,,,
+2024-08-28,Sauce Pilapata - SDC (GPRS),12.91,10.93,64.15,56.48,
 2024-08-28,Sauce Pilata - SDC (GPRS),12.91,10.93,64.15,56.48,
 2024-08-28,Sella Quebrada,23.5,2.0,,,
 2024-08-28,Sopachuy,27.5,4.0,,,
@@ -48702,6 +48956,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-29,Santivañez,33.3,4.4,,,3.0
 2024-08-29,Sara Ana,34.0,18.0,,,
 2024-08-29,Sarco,31.1,10.5,,,
+2024-08-29,Sauce Pilapata - SDC (GPRS),16.42,12.07,55.43,42.21,
 2024-08-29,Sauce Pilata - SDC (GPRS),16.42,12.07,55.43,42.21,
 2024-08-29,Sella Quebrada,25.0,5.0,,,
 2024-08-29,Sopachuy,29.5,3.5,,,
@@ -48870,6 +49125,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-30,Santivañez,32.2,3.3,,,
 2024-08-30,Sara Ana,34.5,16.5,,,
 2024-08-30,Sarco,29.4,10.0,,,
+2024-08-30,Sauce Pilapata - SDC (GPRS),15.47,11.91,47.74,37.28,
 2024-08-30,Sauce Pilata - SDC (GPRS),15.47,11.91,47.74,37.28,
 2024-08-30,Sella Quebrada,28.5,6.0,,,
 2024-08-30,Sopachuy,27.5,5.5,,,
@@ -49029,6 +49285,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-31,Santivañez,33.3,5.5,,,
 2024-08-31,Sara Ana,32.0,16.0,,,
 2024-08-31,Sarco,27.8,9.4,,,
+2024-08-31,Sauce Pilapata - SDC (GPRS),15.63,11.92,52.48,36.74,
 2024-08-31,Sauce Pilata - SDC (GPRS),15.63,11.92,52.48,36.74,
 2024-08-31,Sella Quebrada,20.5,5.5,,,
 2024-08-31,Sopachuy,25.5,8.0,,,
@@ -49191,6 +49448,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-01,Santivañez,32.2,4.4,,,
 2024-09-01,Sara Ana,33.0,18.5,,,
 2024-09-01,Sarco,27.2,12.2,,,
+2024-09-01,Sauce Pilapata - SDC (GPRS),12.76,9.76,82.5,39.26,
 2024-09-01,Sauce Pilata - SDC (GPRS),12.76,9.76,82.5,39.26,
 2024-09-01,Sella Quebrada,23.5,7.0,,,
 2024-09-01,Sopachuy,24.5,8.5,,,
@@ -49358,6 +49616,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-02,Santivañez,31.1,5.5,,,
 2024-09-02,Sara Ana,33.0,19.0,,,
 2024-09-02,Sarco,28.9,12.0,,,
+2024-09-02,Sauce Pilapata - SDC (GPRS),17.6,13.59,51.34,36.51,
 2024-09-02,Sauce Pilata - SDC (GPRS),17.6,13.59,51.34,36.51,
 2024-09-02,Sella Quebrada,32.5,5.0,,,
 2024-09-02,Sopachuy,29.5,6.5,,,
@@ -49534,6 +49793,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-03,Santivañez,33.3,3.3,,,
 2024-09-03,Sara Ana,33.0,17.5,,,
 2024-09-03,Sarco,33.3,11.1,,,
+2024-09-03,Sauce Pilapata - SDC (GPRS),21.29,17.15,34.3,11.71,
 2024-09-03,Sauce Pilata - SDC (GPRS),21.29,17.15,34.3,11.71,
 2024-09-03,Sella Quebrada,28.5,7.0,,,
 2024-09-03,Sopachuy,32.5,7.5,,,1.1
@@ -49698,6 +49958,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-04,Santivañez,32.2,4.4,,,
 2024-09-04,Sara Ana,34.0,18.2,,,
 2024-09-04,Sarco,30.5,11.7,,,
+2024-09-04,Sauce Pilapata - SDC (GPRS),20.26,14.75,54.63,29.0,
 2024-09-04,Sauce Pilata - SDC (GPRS),20.26,14.75,54.63,29.0,
 2024-09-04,Sella Quebrada,24.0,6.0,,,
 2024-09-04,Sopachuy,29.5,9.5,,,
@@ -49862,6 +50123,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-05,Santivañez,35.5,5.5,,,
 2024-09-05,Sara Ana,29.5,19.0,,,
 2024-09-05,Sarco,31.7,13.0,,,
+2024-09-05,Sauce Pilapata - SDC (GPRS),12.77,8.97,93.0,48.24,
 2024-09-05,Sauce Pilata - SDC (GPRS),12.77,8.97,93.0,48.24,
 2024-09-05,Sella Quebrada,23.0,6.0,,,
 2024-09-05,Sopachuy,24.5,9.5,,,
@@ -50027,6 +50289,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-06,Santivañez,36.7,8.9,,,
 2024-09-06,Sara Ana,30.5,19.0,,,
 2024-09-06,Sarco,34.4,12.2,,,
+2024-09-06,Sauce Pilapata - SDC (GPRS),20.24,15.13,44.41,32.04,
 2024-09-06,Sauce Pilata - SDC (GPRS),20.24,15.13,44.41,32.04,
 2024-09-06,Sella Quebrada,36.0,5.0,,,
 2024-09-06,Sopachuy,32.5,6.0,,,
@@ -50185,6 +50448,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-07,Santivañez,35.5,7.8,,,
 2024-09-07,Sara Ana,32.0,20.0,,,
 2024-09-07,Sarco,29.4,11.1,,,
+2024-09-07,Sauce Pilapata - SDC (GPRS),19.68,15.43,40.95,34.73,
 2024-09-07,Sauce Pilata - SDC (GPRS),19.68,15.43,40.95,34.73,
 2024-09-07,Sella Quebrada,29.5,9.0,,,
 2024-09-07,Sopachuy,31.5,8.5,,,
@@ -50341,6 +50605,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-08,Santivañez,36.7,8.9,,,
 2024-09-08,Sara Ana,33.5,20.0,,,
 2024-09-08,Sarco,33.3,12.2,,,
+2024-09-08,Sauce Pilapata - SDC (GPRS),19.81,15.46,43.28,32.65,
 2024-09-08,Sauce Pilata - SDC (GPRS),19.81,15.46,43.28,32.65,
 2024-09-08,Sella Quebrada,26.5,10.0,,,
 2024-09-08,Sopachuy,27.5,9.5,,,
@@ -50499,6 +50764,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-09,Santivañez,37.8,10.0,,,
 2024-09-09,Sara Ana,31.0,19.0,,,
 2024-09-09,Sarco,36.7,10.5,,,
+2024-09-09,Sauce Pilapata - SDC (GPRS),19.65,15.02,36.18,27.9,
 2024-09-09,Sauce Pilata - SDC (GPRS),19.65,15.02,36.18,27.9,
 2024-09-09,Sella Quebrada,33.0,8.5,,,
 2024-09-09,Sopachuy,31.5,10.5,,,
@@ -50663,6 +50929,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-10,Santivañez,36.7,8.9,,,
 2024-09-10,Sara Ana,33.3,18.8,,,
 2024-09-10,Sarco,34.4,12.2,,,
+2024-09-10,Sauce Pilapata - SDC (GPRS),20.66,16.57,28.75,23.38,
 2024-09-10,Sauce Pilata - SDC (GPRS),20.66,16.57,28.75,23.38,
 2024-09-10,Sella Quebrada,32.5,8.0,,,
 2024-09-10,Sopachuy,32.5,10.0,,,
@@ -50824,6 +51091,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-11,Santivañez,36.7,13.3,,,
 2024-09-11,Sara Ana,33.7,18.0,,,
 2024-09-11,Sarco,33.3,12.2,,,
+2024-09-11,Sauce Pilapata - SDC (GPRS),24.09,18.31,27.96,17.38,
 2024-09-11,Sauce Pilata - SDC (GPRS),24.09,18.31,27.96,17.38,
 2024-09-11,Sella Quebrada,36.0,11.5,,,
 2024-09-11,Sopachuy,36.5,9.5,,,
@@ -50995,6 +51263,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-12,Santivañez,35.5,10.0,,,
 2024-09-12,Sara Ana,35.0,22.4,,,
 2024-09-12,Sarco,31.7,13.3,,,
+2024-09-12,Sauce Pilapata - SDC (GPRS),16.75,13.49,71.08,46.62,
 2024-09-12,Sauce Pilata - SDC (GPRS),16.75,13.49,71.08,46.62,
 2024-09-12,Sella Quebrada,26.0,9.5,,,
 2024-09-12,Sopachuy,28.5,13.5,,,
@@ -51171,6 +51440,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-13,Santivañez,32.2,11.1,,,
 2024-09-13,Sara Ana,35.5,22.2,,,0.4
 2024-09-13,Sarco,32.2,11.1,,,
+2024-09-13,Sauce Pilapata - SDC (GPRS),18.64,15.75,57.9,49.75,
 2024-09-13,Sauce Pilata - SDC (GPRS),18.64,15.75,57.9,49.75,
 2024-09-13,Sella Quebrada,33.5,6.0,,,
 2024-09-13,Sopachuy,32.5,9.5,,,
@@ -51351,6 +51621,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-14,Santivañez,32.2,5.5,,,
 2024-09-14,Sara Ana,34.8,23.0,,,4.2
 2024-09-14,Sarco,30.5,13.0,,,
+2024-09-14,Sauce Pilapata - SDC (GPRS),15.44,12.8,87.5,79.1,
 2024-09-14,Sauce Pilata - SDC (GPRS),15.44,12.8,87.5,79.1,
 2024-09-14,Sella Quebrada,18.5,11.0,,,
 2024-09-14,Sopachuy,14.5,12.5,,,4.4
@@ -51559,6 +51830,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-15,Santivañez,36.7,3.3,,,3.5
 2024-09-15,Sara Ana,27.0,21.7,,,10.6
 2024-09-15,Sarco,33.0,9.4,,,2.2
+2024-09-15,Sauce Pilapata - SDC (GPRS),9.56,7.35,99.9,99.7,6.7
 2024-09-15,Sauce Pilata - SDC (GPRS),9.56,7.35,99.9,99.7,6.7
 2024-09-15,Sella Quebrada,22.0,7.0,,,
 2024-09-15,Sopachuy,22.5,8.5,,,2.8
@@ -51743,6 +52015,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-16,Santivañez,34.4,3.3,,,
 2024-09-16,Sara Ana,28.0,19.6,,,
 2024-09-16,Sarco,32.2,12.2,,,
+2024-09-16,Sauce Pilapata - SDC (GPRS),16.48,7.42,99.8,56.4,
 2024-09-16,Sauce Pilata - SDC (GPRS),16.48,7.42,99.8,56.4,
 2024-09-16,Sella Quebrada,21.5,5.0,,,
 2024-09-16,Sopachuy,23.5,7.5,,,
@@ -51924,6 +52197,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-17,Santivañez,32.2,5.5,,,
 2024-09-17,Sara Ana,33.0,20.0,,,
 2024-09-17,Sarco,30.5,11.1,,,
+2024-09-17,Sauce Pilapata - SDC (GPRS),15.31,10.49,88.6,45.8,
 2024-09-17,Sauce Pilata - SDC (GPRS),15.31,10.49,88.6,45.8,
 2024-09-17,Sella Quebrada,33.5,4.0,,,
 2024-09-17,Sopachuy,30.5,6.5,,,
@@ -52092,6 +52366,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-18,Santivañez,31.1,4.4,,,
 2024-09-18,Sara Ana,36.0,19.0,,,
 2024-09-18,Sarco,33.0,12.8,,,
+2024-09-18,Sauce Pilapata - SDC (GPRS),19.26,16.41,53.92,50.13,
 2024-09-18,Sauce Pilata - SDC (GPRS),19.26,16.41,53.92,50.13,
 2024-09-18,Sella Quebrada,32.5,7.0,,,
 2024-09-18,Sopachuy,31.5,6.5,,,
@@ -52274,6 +52549,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-19,Santivañez,32.2,5.5,,,
 2024-09-19,Sara Ana,35.0,19.0,,,
 2024-09-19,Sarco,32.2,13.3,,,
+2024-09-19,Sauce Pilapata - SDC (GPRS),19.28,15.83,54.58,43.25,
 2024-09-19,Sauce Pilata - SDC (GPRS),19.28,15.83,54.58,43.25,
 2024-09-19,Sella Quebrada,35.0,10.0,,,
 2024-09-19,Sopachuy,34.5,12.0,,,
@@ -52443,6 +52719,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-20,Santivañez,31.1,3.3,,,
 2024-09-20,Sara Ana,39.0,22.0,,,
 2024-09-20,Sarco,33.3,14.0,,,
+2024-09-20,Sauce Pilapata - SDC (GPRS),21.24,16.95,53.4,40.38,
 2024-09-20,Sauce Pilata - SDC (GPRS),21.24,16.95,53.4,40.38,
 2024-09-20,Sella Quebrada,29.0,12.0,,,
 2024-09-20,Sopachuy,31.5,12.5,,,
@@ -52604,6 +52881,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-21,Santivañez,32.2,5.5,,,2.0
 2024-09-21,Sara Ana,38.5,23.0,,,2.7
 2024-09-21,Sarco,30.5,15.5,,,
+2024-09-21,Sauce Pilapata - SDC (GPRS),19.8,14.86,68.34,36.97,
 2024-09-21,Sauce Pilata - SDC (GPRS),19.8,14.86,68.34,36.97,
 2024-09-21,Sella Quebrada,32.0,9.0,,,
 2024-09-21,Sopachuy,31.5,12.5,,,
@@ -52763,6 +53041,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-22,Santivañez,32.2,6.7,,,
 2024-09-22,Sara Ana,38.5,24.0,,,
 2024-09-22,Sarco,34.4,13.3,,,
+2024-09-22,Sauce Pilapata - SDC (GPRS),24.13,17.21,47.01,31.01,
 2024-09-22,Sauce Pilata - SDC (GPRS),24.13,17.21,47.01,31.01,
 2024-09-22,Sella Quebrada,37.5,12.0,,,
 2024-09-22,Sopachuy,35.5,12.5,,,
@@ -52926,6 +53205,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-23,Santivañez,33.3,3.3,,,
 2024-09-23,Sara Ana,39.0,22.0,,,
 2024-09-23,Sarco,35.5,12.2,,,
+2024-09-23,Sauce Pilapata - SDC (GPRS),22.09,17.67,55.62,40.62,
 2024-09-23,Sauce Pilata - SDC (GPRS),22.09,17.67,55.62,40.62,
 2024-09-23,Sella Quebrada,32.5,15.0,,,
 2024-09-23,Sopachuy,32.5,12.5,,,
@@ -53094,6 +53374,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-24,Santivañez,31.1,5.5,,,
 2024-09-24,Sara Ana,38.5,22.0,,,
 2024-09-24,Sarco,34.4,12.0,,,
+2024-09-24,Sauce Pilapata - SDC (GPRS),20.98,16.32,58.83,40.93,
 2024-09-24,Sauce Pilata - SDC (GPRS),20.98,16.32,58.83,40.93,
 2024-09-24,Sella Quebrada,31.5,14.0,,,
 2024-09-24,Sopachuy,32.5,12.5,,,
@@ -53261,6 +53542,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-25,Santivañez,31.1,6.7,,,
 2024-09-25,Sara Ana,38.3,21.0,,,
 2024-09-25,Sarco,34.4,12.0,,,
+2024-09-25,Sauce Pilapata - SDC (GPRS),18.82,15.86,57.92,45.63,
 2024-09-25,Sauce Pilata - SDC (GPRS),18.82,15.86,57.92,45.63,
 2024-09-25,Sella Quebrada,30.5,11.0,,,
 2024-09-25,Sopachuy,32.5,13.0,,,
@@ -53431,6 +53713,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-26,Santivañez,32.2,4.4,,,
 2024-09-26,Sara Ana,34.0,23.5,,,
 2024-09-26,Sarco,29.4,14.4,,,
+2024-09-26,Sauce Pilapata - SDC (GPRS),20.76,7.8,100.0,34.92,
 2024-09-26,Sauce Pilata - SDC (GPRS),20.76,7.8,100.0,34.92,
 2024-09-26,Sella Quebrada,11.5,10.0,,,
 2024-09-26,Sopachuy,20.5,12.5,,,
@@ -53620,6 +53903,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-27,Santivañez,34.4,3.3,,,
 2024-09-27,Sara Ana,28.0,20.5,,,3.2
 2024-09-27,Sarco,32.2,14.4,,,
+2024-09-27,Sauce Pilapata - SDC (GPRS),9.48,8.43,99.9,99.7,0.3
 2024-09-27,Sauce Pilata - SDC (GPRS),9.48,8.43,99.9,99.7,0.3
 2024-09-27,Sella Quebrada,26.5,6.5,,,
 2024-09-27,Sopachuy,27.5,9.5,,,5.0
@@ -53797,6 +54081,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-28,Santivañez,33.3,5.5,,,
 2024-09-28,Sara Ana,36.0,20.0,,,
 2024-09-28,Sarco,32.8,15.0,,,1.9
+2024-09-28,Sauce Pilapata - SDC (GPRS),17.52,12.93,69.37,60.61,
 2024-09-28,Sauce Pilata - SDC (GPRS),17.52,12.93,69.37,60.61,
 2024-09-28,Saykan Perulas,,,,,10.8
 2024-09-28,Sella Quebrada,31.5,13.5,,,
@@ -53966,6 +54251,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-29,Santivañez,31.1,4.4,,,
 2024-09-29,Sara Ana,36.0,22.0,,,
 2024-09-29,Sarco,30.5,12.2,,,
+2024-09-29,Sauce Pilapata - SDC (GPRS),19.74,16.13,56.76,46.29,
 2024-09-29,Sauce Pilata - SDC (GPRS),19.74,16.13,56.76,46.29,
 2024-09-29,Sella Quebrada,31.0,7.5,,,
 2024-09-29,Sopachuy,31.0,10.5,,,
@@ -54135,6 +54421,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-30,Santivañez,32.2,6.7,,,
 2024-09-30,Sara Ana,,20.0,,,
 2024-09-30,Sarco,32.8,11.7,,,
+2024-09-30,Sauce Pilapata - SDC (GPRS),20.26,15.39,62.74,44.79,
 2024-09-30,Sauce Pilata - SDC (GPRS),20.26,15.39,62.74,44.79,
 2024-09-30,Sella Quebrada,37.5,13.0,,,
 2024-09-30,Sopachuy,34.5,12.0,,,
@@ -54292,6 +54579,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-01,Santivañez,33.3,6.7,,,
 2024-10-01,Sara Ana,37.0,20.0,,,
 2024-10-01,Sarco,37.2,14.0,,,
+2024-10-01,Sauce Pilapata - SDC (GPRS),22.09,17.21,52.63,24.83,
 2024-10-01,Sauce Pilata - SDC (GPRS),22.09,17.21,52.63,24.83,
 2024-10-01,Sella Quebrada,35.5,12.0,,,
 2024-10-01,Sopachuy,35.5,12.0,,,
@@ -54453,6 +54741,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-02,Santivañez,34.4,5.5,,,
 2024-10-02,Sara Ana,39.5,22.0,,,
 2024-10-02,Sarco,32.8,16.7,,,
+2024-10-02,Sauce Pilapata - SDC (GPRS),20.0,15.7,67.41,56.77,
 2024-10-02,Sauce Pilata - SDC (GPRS),20.0,15.7,67.41,56.77,
 2024-10-02,Sella Quebrada,28.0,12.0,,,
 2024-10-02,Sopachuy,24.5,16.5,,,
@@ -54627,6 +54916,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-03,Santivañez,35.5,7.8,,,7.1
 2024-10-03,Sara Ana,,,,,22.0
 2024-10-03,Sarco,32.8,17.0,,,
+2024-10-03,Sauce Pilapata - SDC (GPRS),15.96,12.64,91.6,54.37,
 2024-10-03,Sauce Pilata - SDC (GPRS),15.96,12.64,91.6,54.37,
 2024-10-03,Sella Quebrada,25.0,10.0,,,
 2024-10-03,Sopachuy,23.5,14.5,,,
@@ -54803,6 +55093,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-04,Santivañez,36.7,5.5,,,2.3
 2024-10-04,Sara Ana,34.0,21.5,,,
 2024-10-04,Sarco,34.4,13.0,,,
+2024-10-04,Sauce Pilapata - SDC (GPRS),18.49,12.69,85.8,43.08,
 2024-10-04,Sauce Pilata - SDC (GPRS),18.49,12.69,85.8,43.08,
 2024-10-04,Sella Quebrada,31.5,6.5,,,
 2024-10-04,Sopachuy,25.5,3.0,,,
@@ -54957,6 +55248,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-05,Santivañez,33.3,4.4,,,
 2024-10-05,Sara Ana,36.0,20.0,,,
 2024-10-05,Sarco,34.4,13.0,,,
+2024-10-05,Sauce Pilapata - SDC (GPRS),22.63,18.28,34.15,25.76,
 2024-10-05,Sauce Pilata - SDC (GPRS),22.63,18.28,34.15,25.76,
 2024-10-05,Sella Quebrada,35.5,9.0,,,
 2024-10-05,Sopachuy,33.5,10.5,,,
@@ -55108,6 +55400,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-06,Santivañez,35.5,6.7,,,
 2024-10-06,Sara Ana,37.5,20.5,,,
 2024-10-06,Sarco,30.0,12.0,,,
+2024-10-06,Sauce Pilapata - SDC (GPRS),23.36,14.67,44.59,30.6,
 2024-10-06,Sauce Pilata - SDC (GPRS),23.36,14.67,44.59,30.6,
 2024-10-06,Sella Quebrada,34.0,13.5,,,
 2024-10-06,Sopachuy,32.5,12.5,,,
@@ -55269,6 +55562,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-07,Santivañez,32.2,7.8,,,
 2024-10-07,Sara Ana,36.5,20.0,,,
 2024-10-07,Sarco,30.5,14.4,,,
+2024-10-07,Sauce Pilapata - SDC (GPRS),20.92,16.95,40.77,28.53,
 2024-10-07,Sauce Pilata - SDC (GPRS),20.92,16.95,40.77,28.53,
 2024-10-07,Sella Quebrada,36.0,15.0,,,
 2024-10-07,Sopachuy,32.5,13.5,,,
@@ -55439,6 +55733,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-08,Santivañez,33.3,3.3,,,4.6
 2024-10-08,Sara Ana,33.0,22.0,,,
 2024-10-08,Sarco,29.4,13.9,,,
+2024-10-08,Sauce Pilapata - SDC (GPRS),20.45,16.2,48.12,39.11,
 2024-10-08,Sauce Pilata - SDC (GPRS),20.45,16.2,48.12,39.11,
 2024-10-08,Sella Quebrada,26.0,15.5,,,
 2024-10-08,Sopachuy,27.5,14.0,,,
@@ -55651,6 +55946,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-09,Santivañez,32.2,5.5,,,
 2024-10-09,Sara Ana,,,,,7.5
 2024-10-09,Sarco,33.3,13.3,,,0.2
+2024-10-09,Sauce Pilapata - SDC (GPRS),19.32,15.64,63.91,51.46,
 2024-10-09,Sauce Pilata - SDC (GPRS),19.32,15.64,63.91,51.46,
 2024-10-09,Sella Quebrada,23.0,13.5,,,13.4
 2024-10-09,Sopachuy,,,,,4.8
@@ -55848,6 +56144,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-10,Santivañez,34.4,4.4,,,
 2024-10-10,Sara Ana,35.0,22.0,,,
 2024-10-10,Sarco,33.8,13.0,,,
+2024-10-10,Sauce Pilapata - SDC (GPRS),19.74,15.47,58.57,45.26,
 2024-10-10,Sauce Pilata - SDC (GPRS),19.74,15.47,58.57,45.26,
 2024-10-10,Saykan Perulas,,,,,14.5
 2024-10-10,Sella Quebrada,21.0,12.0,,,
@@ -56027,6 +56324,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-11,Santivañez,35.5,6.7,,,
 2024-10-11,Sara Ana,32.0,22.0,,,
 2024-10-11,Sarco,34.4,17.8,,,
+2024-10-11,Sauce Pilapata - SDC (GPRS),16.74,14.92,69.28,36.67,
 2024-10-11,Sauce Pilata - SDC (GPRS),16.74,14.92,69.28,36.67,
 2024-10-11,Sella Quebrada,26.0,7.0,,,
 2024-10-11,Sopachuy,29.0,11.0,,,
@@ -56196,6 +56494,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-12,Santivañez,33.3,5.5,,,
 2024-10-12,Sara Ana,38.0,23.0,,,
 2024-10-12,Sarco,29.4,15.0,,,
+2024-10-12,Sauce Pilapata - SDC (GPRS),20.04,16.88,65.66,48.56,
 2024-10-12,Sauce Pilata - SDC (GPRS),20.04,16.88,65.66,48.56,
 2024-10-12,Sella Quebrada,27.5,8.0,,,
 2024-10-12,Sopachuy,31.5,10.0,,,
@@ -56347,6 +56646,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-13,Santivañez,31.1,7.8,,,
 2024-10-13,Sara Ana,,,,,0.1
 2024-10-13,Sarco,29.0,13.0,,,
+2024-10-13,Sauce Pilapata - SDC (GPRS),19.31,15.57,66.21,49.27,
 2024-10-13,Sauce Pilata - SDC (GPRS),19.31,15.57,66.21,49.27,
 2024-10-13,Sella Quebrada,29.0,8.5,,,
 2024-10-13,Sopachuy,25.5,10.5,,,
@@ -56504,6 +56804,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-14,Santivañez,32.2,5.5,,,
 2024-10-14,Sara Ana,38.0,21.0,,,
 2024-10-14,Sarco,32.2,13.9,,,
+2024-10-14,Sauce Pilapata - SDC (GPRS),21.57,17.13,51.18,38.14,
 2024-10-14,Sauce Pilata - SDC (GPRS),21.57,17.13,51.18,38.14,
 2024-10-14,Sella Quebrada,32.0,14.0,,,
 2024-10-14,Sopachuy,31.5,13.5,,,
@@ -56686,6 +56987,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-15,Santivañez,33.3,4.4,,,5.6
 2024-10-15,Sara Ana,39.0,21.5,,,
 2024-10-15,Sarco,32.8,13.9,,,
+2024-10-15,Sauce Pilapata - SDC (GPRS),21.26,18.19,48.65,25.7,
 2024-10-15,Sauce Pilata - SDC (GPRS),21.26,18.19,48.65,25.7,
 2024-10-15,Sella Quebrada,32.0,12.0,,,
 2024-10-15,Sopachuy,33.5,12.5,,,
@@ -56889,6 +57191,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-16,Santivañez,32.2,6.7,,,9.1
 2024-10-16,Sara Ana,,,,,7.7
 2024-10-16,Sarco,30.0,10.5,,,4.8
+2024-10-16,Sauce Pilapata - SDC (GPRS),18.7,10.67,90.0,49.08,2.8
 2024-10-16,Sauce Pilata - SDC (GPRS),18.7,10.67,90.0,49.08,2.8
 2024-10-16,Saykan Perulas,,,,,18.8
 2024-10-16,Sella Quebrada,28.5,12.0,,,12.2
@@ -57097,6 +57400,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-17,Santivañez,31.1,5.5,,,
 2024-10-17,Sara Ana,35.0,21.5,,,
 2024-10-17,Sarco,34.4,11.1,,,1.7
+2024-10-17,Sauce Pilapata - SDC (GPRS),21.37,16.4,53.21,41.97,
 2024-10-17,Sauce Pilata - SDC (GPRS),21.37,16.4,53.21,41.97,
 2024-10-17,Sella Quebrada,32.0,12.0,,,
 2024-10-17,Sopachuy,31.5,10.5,,,
@@ -57278,6 +57582,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-18,Santivañez,32.2,6.7,,,
 2024-10-18,Sara Ana,37.0,21.0,,,
 2024-10-18,Sarco,29.4,14.4,,,
+2024-10-18,Sauce Pilapata - SDC (GPRS),19.41,16.49,60.32,56.38,
 2024-10-18,Sauce Pilata - SDC (GPRS),19.41,16.49,60.32,56.38,
 2024-10-18,Saykan Perulas,,,,,4.2
 2024-10-18,Sella Quebrada,21.0,14.5,,,
@@ -57466,6 +57771,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-19,Santivañez,33.3,5.5,,,
 2024-10-19,Sara Ana,,,,,4.0
 2024-10-19,Sarco,29.4,13.7,,,
+2024-10-19,Sauce Pilapata - SDC (GPRS),12.87,12.87,71.63,71.63,6.0
 2024-10-19,Sauce Pilata - SDC (GPRS),12.87,12.87,71.63,71.63,6.0
 2024-10-19,Sella Quebrada,30.5,8.0,,,6.0
 2024-10-19,Sopachuy,,,,,7.6
@@ -57640,6 +57946,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-20,Santivañez,31.1,4.4,,,
 2024-10-20,Sara Ana,35.0,20.5,,,
 2024-10-20,Sarco,35.5,12.8,,,
+2024-10-20,Sauce Pilapata - SDC (GPRS),26.79,10.55,78.7,22.87,
 2024-10-20,Sauce Pilata - SDC (GPRS),26.79,10.55,78.7,22.87,
 2024-10-20,Sella Quebrada,31.0,8.5,,,
 2024-10-20,Sopachuy,31.5,9.5,,,
@@ -57795,6 +58102,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-21,Santivañez,35.5,6.7,,,
 2024-10-21,Sara Ana,37.0,23.0,,,
 2024-10-21,Sarco,36.7,14.4,,,
+2024-10-21,Sauce Pilapata - SDC (GPRS),14.73,14.73,56.93,56.93,
 2024-10-21,Sauce Pilata - SDC (GPRS),14.73,14.73,56.93,56.93,
 2024-10-21,Sella Quebrada,28.5,11.0,,,
 2024-10-21,Sopachuy,30.5,9.5,,,
@@ -57964,6 +58272,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-22,Santivañez,33.3,3.3,,,
 2024-10-22,Sara Ana,33.5,24.0,,,
 2024-10-22,Sarco,33.0,16.7,,,
+2024-10-22,Sauce Pilapata - SDC (GPRS),21.76,12.86,72.7,42.39,
 2024-10-22,Sauce Pilata - SDC (GPRS),21.76,12.86,72.7,42.39,
 2024-10-22,Sella Quebrada,26.0,14.5,,,
 2024-10-22,Sopachuy,28.5,15.5,,,
@@ -58140,6 +58449,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-23,Santivañez,34.4,4.4,,,
 2024-10-23,Sara Ana,35.5,22.0,,,
 2024-10-23,Sarco,33.9,16.0,,,
+2024-10-23,Sauce Pilapata - SDC (GPRS),23.95,15.57,75.25,37.66,
 2024-10-23,Sauce Pilata - SDC (GPRS),23.95,15.57,75.25,37.66,
 2024-10-23,Saykan Perulas,,,,,12.6
 2024-10-23,Sella Quebrada,32.0,13.5,,,11.0
@@ -58315,6 +58625,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-24,Santivañez,33.3,4.4,,,
 2024-10-24,Sara Ana,35.0,23.5,,,
 2024-10-24,Sarco,37.2,14.4,,,
+2024-10-24,Sauce Pilapata - SDC (GPRS),28.74,12.11,89.1,15.29,
 2024-10-24,Sauce Pilata - SDC (GPRS),28.74,12.11,89.1,15.29,
 2024-10-24,Sella Quebrada,30.5,14.5,,,
 2024-10-24,Sopachuy,,,,,7.0
@@ -58485,6 +58796,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-25,Santivañez,34.4,5.5,,,
 2024-10-25,Sara Ana,35.5,25.5,,,
 2024-10-25,Sarco,32.8,16.7,,,
+2024-10-25,Sauce Pilapata - SDC (GPRS),24.45,9.27,100.0,39.17,
 2024-10-25,Sauce Pilata - SDC (GPRS),24.45,9.27,100.0,39.17,
 2024-10-25,Sella Quebrada,32.5,12.0,,,
 2024-10-25,Sopachuy,32.5,15.5,,,
@@ -58689,6 +59001,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-26,Santivañez,31.1,5.5,,,20.3
 2024-10-26,Sara Ana,29.0,25.0,,,
 2024-10-26,Sarco,22.0,11.1,,,10.5
+2024-10-26,Sauce Pilapata - SDC (GPRS),13.8,9.24,100.0,79.23,27.5
 2024-10-26,Sauce Pilata - SDC (GPRS),13.8,9.24,100.0,79.23,27.5
 2024-10-26,Sella Quebrada,16.0,13.5,,,0.8
 2024-10-26,Sopachuy,32.5,13.0,,,
@@ -58892,6 +59205,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-27,Santivañez,35.5,7.8,,,
 2024-10-27,Sara Ana,29.0,23.5,,,
 2024-10-27,Sarco,31.1,12.8,,,4.8
+2024-10-27,Sauce Pilapata - SDC (GPRS),9.87,9.87,99.7,99.7,0.7
 2024-10-27,Sauce Pilata - SDC (GPRS),9.87,9.87,99.7,99.7,0.7
 2024-10-27,Sella Quebrada,24.5,10.0,,,
 2024-10-27,Sopachuy,,,,,3.8
@@ -59069,6 +59383,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-28,Santivañez,33.3,3.3,,,
 2024-10-28,Sara Ana,35.0,22.0,,,
 2024-10-28,Sarco,32.8,15.0,,,
+2024-10-28,Sauce Pilapata - SDC (GPRS),11.35,11.35,94.4,94.4,
 2024-10-28,Sauce Pilata - SDC (GPRS),11.35,11.35,94.4,94.4,
 2024-10-28,Sella Quebrada,24.5,11.0,,,
 2024-10-28,Sopachuy,27.5,13.5,,,
@@ -59244,6 +59559,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-29,Santivañez,34.4,4.4,,,14.2
 2024-10-29,Sara Ana,35.0,22.0,,,
 2024-10-29,Sarco,33.3,17.0,,,
+2024-10-29,Sauce Pilapata - SDC (GPRS),22.2,12.01,97.5,48.47,
 2024-10-29,Sauce Pilata - SDC (GPRS),22.2,12.01,97.5,48.47,
 2024-10-29,Sella Quebrada,24.0,12.0,,,
 2024-10-29,Sopachuy,27.0,14.5,,,
@@ -59439,6 +59755,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-30,Santivañez,32.2,4.4,,,
 2024-10-30,Sara Ana,32.0,24.0,,,
 2024-10-30,Sarco,27.0,14.0,,,2.8
+2024-10-30,Sauce Pilapata - SDC (GPRS),15.0,15.0,90.0,90.0,1.3
 2024-10-30,Sauce Pilata - SDC (GPRS),15.0,15.0,90.0,90.0,1.3
 2024-10-30,Sella Quebrada,29.0,15.0,,,
 2024-10-30,Sopachuy,29.5,16.0,,,
@@ -59633,6 +59950,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-31,Santivañez,33.3,5.5,,,
 2024-10-31,Sara Ana,34.0,22.0,,,
 2024-10-31,Sarco,33.0,13.9,,,
+2024-10-31,Sauce Pilapata - SDC (GPRS),23.33,12.05,81.2,44.14,2.7
 2024-10-31,Sauce Pilata - SDC (GPRS),23.33,12.05,81.2,44.14,2.7
 2024-10-31,Sella Quebrada,28.5,13.0,,,5.7
 2024-10-31,Sopachuy,,,,,0.4
@@ -59823,6 +60141,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-01,Santivañez,32.2,5.5,,,8.6
 2024-11-01,Sara Ana,39.0,24.8,,,
 2024-11-01,Sarco,,,,,2.1
+2024-11-01,Sauce Pilapata - SDC (GPRS),22.36,13.38,75.05,39.34,0.6
 2024-11-01,Sauce Pilata - SDC (GPRS),22.36,13.38,75.05,39.34,0.6
 2024-11-01,Saykan Perulas,,,,,15.8
 2024-11-01,Sella Quebrada,26.0,10.5,,,26.5
@@ -59998,6 +60317,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-02,Santivañez,32.2,4.4,,,
 2024-11-02,Sara Ana,30.0,23.0,,,24.5
 2024-11-02,Sarco,37.2,14.4,,,
+2024-11-02,Sauce Pilapata - SDC (GPRS),28.16,10.74,93.8,16.74,
 2024-11-02,Sauce Pilata - SDC (GPRS),28.16,10.74,93.8,16.74,
 2024-11-02,Sella Quebrada,31.0,11.5,,,
 2024-11-02,Sopachuy,,,,,58.0
@@ -60102,6 +60422,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-03,Hichucota,13.0,1.0,,,
 2024-11-03,Huarisuyo (GPRS),18.47,-0.52,98.0,32.9,
 2024-11-03,Huayllamarca,19.3,5.1,,,
+2024-11-03,Huayrocondo,17.0,-0.2,,,
 2024-11-03,Incapampa - Coroico_M (GPRS),,,,,3.9
 2024-11-03,Isla Del Sol,17.2,2.4,,,
 2024-11-03,Isla Suriqui_M (GPRS),17.38,6.45,89.3,39.65,
@@ -60168,6 +60489,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-03,Santivañez,31.1,8.9,,,
 2024-11-03,Sara Ana,32.0,22.0,,,2.0
 2024-11-03,Sarco,23.3,14.4,,,
+2024-11-03,Sauce Pilapata - SDC (GPRS),22.41,11.98,86.2,44.84,
 2024-11-03,Sauce Pilata - SDC (GPRS),22.41,11.98,86.2,44.84,
 2024-11-03,Saykan Perulas,,,,,8.6
 2024-11-03,Sella Quebrada,26.0,13.0,,,
@@ -60340,6 +60662,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-04,Santivañez,33.3,4.4,,,
 2024-11-04,Sara Ana,37.2,23.8,,,
 2024-11-04,Sarco,30.5,15.5,,,
+2024-11-04,Sauce Pilapata - SDC (GPRS),26.32,13.46,90.4,32.79,
 2024-11-04,Sauce Pilata - SDC (GPRS),26.32,13.46,90.4,32.79,
 2024-11-04,Sella Quebrada,25.0,12.0,,,8.1
 2024-11-04,Sopachuy,,,,,29.4
@@ -60446,6 +60769,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-05,Huancane Corapata_M (GPRS),,,,,0.1
 2024-11-05,Huarisuyo (GPRS),19.5,3.89,98.1,31.78,
 2024-11-05,Huayllamarca,19.0,4.3,,,
+2024-11-05,Huayrocondo,20.1,1.1,,,
 2024-11-05,Ibibobo,,,,,43.0
 2024-11-05,Incapampa - Coroico_M (GPRS),,,,,2.8
 2024-11-05,Isla Del Sol,18.6,5.2,,,
@@ -60523,6 +60847,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-05,Santivañez,32.2,5.5,,,
 2024-11-05,Sara Ana,38.8,23.0,,,
 2024-11-05,Sarco,32.8,15.5,,,
+2024-11-05,Sauce Pilapata - SDC (GPRS),14.95,14.95,71.82,71.82,
 2024-11-05,Sauce Pilata - SDC (GPRS),14.95,14.95,71.82,71.82,
 2024-11-05,Saykan Perulas,,,,,25.6
 2024-11-05,Sella Quebrada,20.5,15.5,,,3.7
@@ -60736,6 +61061,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-06,Santivañez,31.1,8.9,,,4.1
 2024-11-06,Sara Ana,31.5,20.0,,,20.5
 2024-11-06,Sarco,,,,,1.7
+2024-11-06,Sauce Pilapata - SDC (GPRS),13.12,13.12,97.3,97.3,16.1
 2024-11-06,Sauce Pilata - SDC (GPRS),13.12,13.12,97.3,97.3,16.1
 2024-11-06,Saykan Perulas,,,,,30.8
 2024-11-06,Sella Quebrada,25.0,13.0,,,2.2
@@ -60850,6 +61176,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-07,Hichucota,15.0,-2.0,,,
 2024-11-07,Huarisuyo (GPRS),21.31,3.85,98.3,18.55,
 2024-11-07,Huayllamarca,22.0,5.1,,,
+2024-11-07,Huayrocondo,20.5,1.0,,,
 2024-11-07,Isla Del Sol,16.7,4.6,,,
 2024-11-07,Isla Suriqui_M (GPRS),13.26,8.47,82.6,45.38,1.5
 2024-11-07,Itau,,,,,51.0
@@ -60936,6 +61263,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-07,Santivañez,31.1,11.1,,,3.3
 2024-11-07,Sara Ana,29.0,22.5,,,
 2024-11-07,Sarco,,,,,0.2
+2024-11-07,Sauce Pilapata - SDC (GPRS),13.28,13.28,99.7,99.7,
 2024-11-07,Sauce Pilata - SDC (GPRS),13.28,13.28,99.7,99.7,
 2024-11-07,Saykan Perulas,,,,,37.5
 2024-11-07,Sella Quebrada,19.5,12.5,,,10.9
@@ -61049,6 +61377,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-08,Hichucota,16.0,-1.0,,,
 2024-11-08,Huarisuyo (GPRS),20.61,-0.18,98.7,24.75,
 2024-11-08,Huayllamarca,,,,,6.1
+2024-11-08,Huayrocondo,21.2,1.5,,,
 2024-11-08,Incapampa - Coroico_M (GPRS),,,,,7.4
 2024-11-08,Isla Del Sol,14.3,6.1,,,
 2024-11-08,Isla Suriqui_M (GPRS),18.16,5.21,87.4,32.95,
@@ -61129,6 +61458,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-08,Santivañez,35.5,8.9,,,
 2024-11-08,Sara Ana,31.5,23.0,,,7.5
 2024-11-08,Sarco,33.3,13.7,,,
+2024-11-08,Sauce Pilapata - SDC (GPRS),21.21,11.08,100.0,45.37,1.6
 2024-11-08,Sauce Pilata - SDC (GPRS),21.21,11.08,100.0,45.37,1.6
 2024-11-08,Sella Quebrada,25.0,11.0,,,7.0
 2024-11-08,Sopachuy,26.5,14.5,,,
@@ -61311,6 +61641,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-09,Santivañez,31.1,7.8,,,
 2024-11-09,Sara Ana,36.1,23.5,,,
 2024-11-09,Sarco,33.3,15.0,,,
+2024-11-09,Sauce Pilapata - SDC (GPRS),22.84,11.36,76.65,43.03,
 2024-11-09,Sauce Pilata - SDC (GPRS),22.84,11.36,76.65,43.03,
 2024-11-09,Sella Quebrada,28.0,12.0,,,
 2024-11-09,Sopachuy,28.5,16.5,,,
@@ -61409,6 +61740,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-10,Hichucota,15.0,0.0,,,
 2024-11-10,Huarisuyo (GPRS),20.9,-0.22,97.5,17.03,
 2024-11-10,Huayllamarca,19.0,4.2,,,
+2024-11-10,Huayrocondo,21.8,-0.4,,,
 2024-11-10,Isla Del Sol,14.7,4.2,,,8.4
 2024-11-10,Isla Suriqui_M (GPRS),19.93,6.65,93.0,22.02,
 2024-11-10,Ivirgarzama-Senda VI (GPRS),-100.0,-100.0,-100.0,-100.0,
@@ -61474,6 +61806,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-10,Santivañez,32.2,5.5,,,
 2024-11-10,Sara Ana,37.5,22.0,,,
 2024-11-10,Sarco,36.7,15.0,,,
+2024-11-10,Sauce Pilapata - SDC (GPRS),24.95,12.66,77.79,30.57,
 2024-11-10,Sauce Pilata - SDC (GPRS),24.95,12.66,77.79,30.57,
 2024-11-10,Sella Quebrada,32.0,12.0,,,
 2024-11-10,Sopachuy,32.5,14.0,,,
@@ -61565,6 +61898,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-11,Hichucota,17.0,1.0,,,
 2024-11-11,Huarisuyo (GPRS),20.72,4.29,95.1,25.36,
 2024-11-11,Huayllamarca,18.1,5.1,,,
+2024-11-11,Huayrocondo,20.4,1.0,,,
 2024-11-11,Isla Del Sol,15.6,3.3,,,3.3
 2024-11-11,Isla Suriqui_M (GPRS),18.97,9.79,74.95,28.06,
 2024-11-11,Ivirgarzama-Senda VI (GPRS),-100.0,-100.0,-100.0,-100.0,
@@ -61630,6 +61964,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-11,Santivañez,35.5,6.7,,,
 2024-11-11,Sara Ana,38.5,23.5,,,
 2024-11-11,Sarco,37.0,17.5,,,
+2024-11-11,Sauce Pilapata - SDC (GPRS),25.81,11.43,97.9,31.74,
 2024-11-11,Sauce Pilata - SDC (GPRS),25.81,11.43,97.9,31.74,
 2024-11-11,Saykan Perulas,,,,,15.2
 2024-11-11,Sella Quebrada,25.5,14.0,,,
@@ -61824,6 +62159,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-12,Santivañez,34.4,7.8,,,
 2024-11-12,Sara Ana,31.0,22.5,,,
 2024-11-12,Sarco,34.4,15.5,,,
+2024-11-12,Sauce Pilapata - SDC (GPRS),18.73,7.59,95.4,58.94,
 2024-11-12,Sauce Pilata - SDC (GPRS),18.73,7.59,95.4,58.94,
 2024-11-12,Sella Quebrada,15.0,8.0,,,7.4
 2024-11-12,Sopachuy,,,,,12.4
@@ -62014,6 +62350,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-13,Santivañez,27.8,6.7,,,
 2024-11-13,Sara Ana,31.5,20.0,,,
 2024-11-13,Sarco,29.4,12.2,,,
+2024-11-13,Sauce Pilapata - SDC (GPRS),12.06,12.06,75.78,75.78,0.1
 2024-11-13,Sauce Pilata - SDC (GPRS),12.06,12.06,75.78,75.78,0.1
 2024-11-13,Sella Quebrada,25.5,8.0,,,
 2024-11-13,Sopachuy,26.5,10.5,,,
@@ -62184,6 +62521,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-14,Santivañez,32.2,5.5,,,
 2024-11-14,Sara Ana,36.0,20.0,,,
 2024-11-14,Sarco,32.2,15.7,,,
+2024-11-14,Sauce Pilapata - SDC (GPRS),12.76,12.76,65.28,65.28,
 2024-11-14,Sauce Pilata - SDC (GPRS),12.76,12.76,65.28,65.28,
 2024-11-14,Sella Quebrada,20.0,8.0,,,
 2024-11-14,Sopachuy,26.5,8.5,,,
@@ -62279,6 +62617,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-15,Huancane Corapata_M (GPRS),,,,,0.5
 2024-11-15,Huarisuyo (GPRS),10.81,10.11,74.1,71.25,
 2024-11-15,Huayllamarca,20.1,2.3,,,
+2024-11-15,Huayrocondo,17.5,2.5,,,
 2024-11-15,Isla Del Sol,13.4,3.4,,,8.6
 2024-11-15,Isla Suriqui_M (GPRS),11.49,11.49,64.01,64.01,
 2024-11-15,Ivirgarzama-Senda VI (GPRS),-100.0,-100.0,-100.0,-100.0,
@@ -62348,6 +62687,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-15,Santivañez,33.3,6.7,,,
 2024-11-15,Sara Ana,35.0,20.0,,,
 2024-11-15,Sarco,29.4,16.0,,,
+2024-11-15,Sauce Pilapata - SDC (GPRS),12.22,12.22,71.58,71.58,
 2024-11-15,Sauce Pilata - SDC (GPRS),12.22,12.22,71.58,71.58,
 2024-11-15,Sella Quebrada,26.0,10.0,,,
 2024-11-15,Sopachuy,27.5,11.5,,,
@@ -62510,6 +62850,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-16,Santivañez,31.1,5.5,,,
 2024-11-16,Sara Ana,37.0,20.5,,,
 2024-11-16,Sarco,32.2,14.4,,,
+2024-11-16,Sauce Pilapata - SDC (GPRS),16.86,16.86,56.0,56.0,
 2024-11-16,Sauce Pilata - SDC (GPRS),16.86,16.86,56.0,56.0,
 2024-11-16,Sella Quebrada,30.5,11.0,,,
 2024-11-16,Sopachuy,31.5,11.5,,,
@@ -62711,6 +63052,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-17,Santivañez,33.3,4.4,,,
 2024-11-17,Sara Ana,32.5,20.0,,,37.5
 2024-11-17,Sarco,30.5,17.0,,,
+2024-11-17,Sauce Pilapata - SDC (GPRS),14.77,14.77,65.41,65.41,
 2024-11-17,Sauce Pilata - SDC (GPRS),14.77,14.77,65.41,65.41,
 2024-11-17,Sella Quebrada,29.0,15.0,,,
 2024-11-17,Sopachuy,30.5,14.0,,,
@@ -62836,6 +63178,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-18,Huancane Corapata_M (GPRS),,,,,5.9
 2024-11-18,Huarisuyo (GPRS),7.53,7.53,89.5,89.5,
 2024-11-18,Huayllamarca,,,,,19.0
+2024-11-18,Huayrocondo,15.8,4.9,,,
 2024-11-18,Isla Del Sol,17.8,4.8,,,17.4
 2024-11-18,Isla Suriqui_M (GPRS),15.62,4.68,94.4,54.38,
 2024-11-18,Itau,,,,,2.0
@@ -62930,6 +63273,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-18,Santivañez,32.2,3.3,,,1.3
 2024-11-18,Sara Ana,34.5,23.8,,,18.5
 2024-11-18,Sarco,,,,,4.1
+2024-11-18,Sauce Pilapata - SDC (GPRS),14.69,14.69,81.2,81.2,
 2024-11-18,Sauce Pilata - SDC (GPRS),14.69,14.69,81.2,81.2,
 2024-11-18,Saykan Perulas,,,,,38.5
 2024-11-18,Sella Quebrada,21.5,14.0,,,43.5
@@ -63165,6 +63509,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-19,Santivañez,31.1,7.8,,,
 2024-11-19,Sara Ana,34.0,24.0,,,1.0
 2024-11-19,Sarco,29.4,15.5,,,
+2024-11-19,Sauce Pilapata - SDC (GPRS),19.6,10.79,100.0,55.05,1.1
 2024-11-19,Sauce Pilata - SDC (GPRS),19.6,10.79,100.0,55.05,1.1
 2024-11-19,Saykan Perulas,,,,,8.7
 2024-11-19,Sella Quebrada,22.0,13.0,,,25.1
@@ -63289,6 +63634,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-20,Hichucota,11.0,1.0,,,7.0
 2024-11-20,Huarisuyo (GPRS),8.8,7.14,97.6,91.7,
 2024-11-20,Huayllamarca,22.1,5.1,,,
+2024-11-20,Huayrocondo,16.5,4.4,,,
 2024-11-20,Isla Del Sol,16.3,3.6,,,15.3
 2024-11-20,Isla Suriqui_M (GPRS),14.11,8.28,88.4,54.04,
 2024-11-20,Ivirgarzama-Senda VI (GPRS),-100.0,-100.0,-100.0,-100.0,0.3
@@ -63372,6 +63718,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-20,Santivañez,32.2,5.5,,,
 2024-11-20,Sara Ana,34.0,22.0,,,2.3
 2024-11-20,Sarco,29.4,16.1,,,
+2024-11-20,Sauce Pilapata - SDC (GPRS),20.99,11.3,100.0,58.67,
 2024-11-20,Sauce Pilata - SDC (GPRS),20.99,11.3,100.0,58.67,
 2024-11-20,Saykan Perulas,,,,,5.8
 2024-11-20,Sella Quebrada,20.5,12.5,,,2.0
@@ -63586,6 +63933,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-21,Santivañez,33.3,5.5,,,4.6
 2024-11-21,Sara Ana,25.5,23.0,,,7.8
 2024-11-21,Sarco,29.4,16.7,,,
+2024-11-21,Sauce Pilapata - SDC (GPRS),21.24,9.84,100.0,55.33,0.3
 2024-11-21,Sauce Pilata - SDC (GPRS),21.24,9.84,100.0,55.33,0.3
 2024-11-21,Saykan Perulas,,,,,12.2
 2024-11-21,Sella Quebrada,20.0,14.5,,,1.0
@@ -63822,6 +64170,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-22,Santivañez,34.4,6.7,,,16.8
 2024-11-22,Sara Ana,33.0,23.5,,,0.3
 2024-11-22,Sarco,,,,,5.8
+2024-11-22,Sauce Pilapata - SDC (GPRS),17.36,9.84,100.0,76.01,16.9
 2024-11-22,Sauce Pilata - SDC (GPRS),17.36,9.84,100.0,76.01,16.9
 2024-11-22,Sella Quebrada,25.5,13.0,,,
 2024-11-22,Sopachuy,,,,,16.9
@@ -63947,6 +64296,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-23,Huancane Corapata_M (GPRS),,,,,0.1
 2024-11-23,Huarisuyo (GPRS),7.72,7.72,94.3,94.3,
 2024-11-23,Huayllamarca,,,,,6.0
+2024-11-23,Huayrocondo,16.9,6.2,,,
 2024-11-23,Incapampa - Coroico_M (GPRS),,,,,4.2
 2024-11-23,Isla Del Sol,16.6,6.3,,,23.8
 2024-11-23,Isla Suriqui_M (GPRS),14.37,7.37,92.4,58.42,
@@ -64031,6 +64381,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-23,Santivañez,31.1,5.5,,,26.7
 2024-11-23,Sara Ana,28.5,23.5,,,3.2
 2024-11-23,Sarco,,,,,0.9
+2024-11-23,Sauce Pilapata - SDC (GPRS),19.83,11.98,100.0,62.16,9.3
 2024-11-23,Sauce Pilata - SDC (GPRS),19.83,11.98,100.0,62.16,9.3
 2024-11-23,Sella Quebrada,28.0,12.0,,,
 2024-11-23,Sopachuy,,,,,7.1
@@ -64239,6 +64590,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-24,Santivañez,32.2,7.8,,,
 2024-11-24,Sara Ana,35.0,24.0,,,
 2024-11-24,Sarco,,,,,3.9
+2024-11-24,Sauce Pilapata - SDC (GPRS),23.06,12.3,99.9,50.72,4.3
 2024-11-24,Sauce Pilata - SDC (GPRS),23.06,12.3,99.9,50.72,4.3
 2024-11-24,Sella Quebrada,24.0,13.0,,,1.3
 2024-11-24,Sopachuy,30.5,14.5,,,
@@ -64423,6 +64775,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-25,Santivañez,34.4,8.9,,,
 2024-11-25,Sara Ana,37.0,23.0,,,
 2024-11-25,Sarco,33.3,14.4,,,
+2024-11-25,Sauce Pilapata - SDC (GPRS),15.77,15.77,78.58,78.58,
 2024-11-25,Sauce Pilata - SDC (GPRS),15.77,15.77,78.58,78.58,
 2024-11-25,Saykan Perulas,,,,,15.6
 2024-11-25,Sella Quebrada,28.5,14.0,,,
@@ -64534,6 +64887,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-26,Huancane Corapata_M (GPRS),,,,,0.1
 2024-11-26,Huarisuyo (GPRS),11.88,9.09,85.0,75.52,
 2024-11-26,Huayllamarca,22.1,5.1,,,
+2024-11-26,Huayrocondo,18.4,6.3,,,
 2024-11-26,Isla Del Sol,17.5,2.4,,,12.7
 2024-11-26,Isla Suriqui_M (GPRS),16.79,8.42,86.6,48.19,2.8
 2024-11-26,Itau,,,,,7.0
@@ -64606,6 +64960,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-26,Santivañez,32.2,10.0,,,6.1
 2024-11-26,Sara Ana,38.5,25.0,,,
 2024-11-26,Sarco,33.3,18.3,,,
+2024-11-26,Sauce Pilapata - SDC (GPRS),24.15,13.76,98.9,45.39,
 2024-11-26,Sauce Pilata - SDC (GPRS),24.15,13.76,98.9,45.39,
 2024-11-26,Sella Quebrada,29.0,12.5,,,8.4
 2024-11-26,Sopachuy,32.5,17.0,,,
@@ -64798,6 +65153,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-27,Santivañez,31.1,6.7,,,
 2024-11-27,Sara Ana,34.0,25.5,,,
 2024-11-27,Sarco,35.0,18.0,,,
+2024-11-27,Sauce Pilapata - SDC (GPRS),23.25,13.35,98.5,50.01,
 2024-11-27,Sauce Pilata - SDC (GPRS),23.25,13.35,98.5,50.01,
 2024-11-27,Sella Quebrada,28.5,14.0,,,
 2024-11-27,Sopachuy,30.5,19.5,,,
@@ -64999,6 +65355,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-28,Santivañez,32.2,5.5,,,8.6
 2024-11-28,Sara Ana,34.5,25.0,,,
 2024-11-28,Sarco,,,,,2.8
+2024-11-28,Sauce Pilapata - SDC (GPRS),25.69,11.85,100.0,37.0,
 2024-11-28,Sauce Pilata - SDC (GPRS),25.69,11.85,100.0,37.0,
 2024-11-28,Saykan Perulas,,,,,14.6
 2024-11-28,Sella Quebrada,28.0,14.0,,,16.2
@@ -65128,6 +65485,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-29,Hichucota,12.0,4.0,,,3.8
 2024-11-29,Huarisuyo (GPRS),8.57,8.57,79.87,79.87,
 2024-11-29,Huayllamarca,19.3,5.0,,,
+2024-11-29,Huayrocondo,16.0,2.9,,,
 2024-11-29,Incapampa - Coroico_M (GPRS),,,,,3.8
 2024-11-29,Isla Del Sol,16.1,3.3,,,5.6
 2024-11-29,Isla Suriqui_M (GPRS),17.38,8.67,85.4,46.85,
@@ -65213,6 +65571,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-29,Santivañez,33.3,3.3,,,3.3
 2024-11-29,Sara Ana,33.5,25.5,,,
 2024-11-29,Sarco,,,,,7.2
+2024-11-29,Sauce Pilapata - SDC (GPRS),11.56,11.56,99.7,99.7,2.4
 2024-11-29,Sauce Pilata - SDC (GPRS),11.56,11.56,99.7,99.7,2.4
 2024-11-29,Saykan Perulas,,,,,0.8
 2024-11-29,Sella Quebrada,29.0,15.0,,,0.5
@@ -65408,6 +65767,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-30,Santivañez,34.4,6.7,,,
 2024-11-30,Sara Ana,37.0,25.0,,,
 2024-11-30,Sarco,31.7,13.7,,,
+2024-11-30,Sauce Pilapata - SDC (GPRS),23.59,13.74,85.2,49.03,0.3
 2024-11-30,Sauce Pilata - SDC (GPRS),23.59,13.74,85.2,49.03,0.3
 2024-11-30,Saykan Perulas,,,,,8.5
 2024-11-30,Sella Quebrada,25.5,14.0,,,3.7
@@ -65527,6 +65887,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-01,Huancane Corapata_M (GPRS),,,,,1.7
 2024-12-01,Huarisuyo (GPRS),18.45,3.04,96.9,38.47,
 2024-12-01,Huayllamarca,19.0,4.5,,,
+2024-12-01,Huayrocondo,19.0,4.9,,,
 2024-12-01,Incapampa - Coroico_M (GPRS),,,,,39.9
 2024-12-01,Isla Del Sol,,,,,4.6
 2024-12-01,Isla Suriqui_M (GPRS),17.68,7.7,92.1,44.41,0.5
@@ -65593,6 +65954,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-01,Santa Ana - Yacuma,29.0,29.0,78.3,78.3,
 2024-12-01,Santiago de Machaca,,,,,4.5
 2024-12-01,Sarco,,,,,0.2
+2024-12-01,Sauce Pilapata - SDC (GPRS),25.18,14.85,87.5,38.33,
 2024-12-01,Sauce Pilata - SDC (GPRS),25.18,14.85,87.5,38.33,
 2024-12-01,Sella Quebrada,31.0,13.0,,,
 2024-12-01,Sopachuy,,,,,11.7
@@ -65628,6 +65990,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-01,Yesera Norte,29.0,15.0,,,
 2024-12-01,Yesera Sur,28.0,14.0,,,
 2024-12-01,Yocalla,27.1,5.2,,,
+2024-12-01,Yotala,,,,,8.0
 2024-12-01,Zudañez,27.0,15.0,,,
 2024-12-01,Ñoquejza,17.4,5.2,,,8.0
 2024-12-01,Ñucchu,,,,,19.0
@@ -65675,6 +66038,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-02,Comarapa,,,,,3.9
 2024-12-02,Concepcion,31.0,24.0,99.1,62.0,
 2024-12-02,Conchamarca,,,,,2.5
+2024-12-02,Coripata,29.0,17.0,,,
 2024-12-02,Cotagaita Mosoj Llajta,26.0,13.0,,,
 2024-12-02,Cristal Mayu,33.0,21.0,,,21.0
 2024-12-02,Cuatro Cañadas - CEA-2 (GPRS),29.8,29.8,72.59,72.59,
@@ -65690,9 +66054,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-02,Entre Rios (TJA),,,,,1.0
 2024-12-02,Guajara-Mirim - Guayaramerín,,,,,27.8
 2024-12-02,Guayaramerin_M (GPRS),,,,,0.1
+2024-12-02,Hichucota,13.0,3.0,,,
 2024-12-02,Huancane Corapata_M (GPRS),,,,,0.8
 2024-12-02,Huarisuyo (GPRS),18.51,3.8,96.2,42.33,
 2024-12-02,Huayllamarca,18.1,5.0,,,
+2024-12-02,Huayrocondo,19.1,4.8,,,
 2024-12-02,Isla Del Sol,,,,,8.5
 2024-12-02,Isla Suriqui_M (GPRS),17.41,6.32,93.2,44.35,3.4
 2024-12-02,Ivirgarzama-Senda VI (GPRS),-100.0,-100.0,-100.0,-100.0,0.9
@@ -65735,6 +66101,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-02,Rurrenabaque,35.0,25.0,93.4,55.8,
 2024-12-02,Sacabaya,24.0,8.0,,,
 2024-12-02,Sacaca,21.6,2.6,,,2.1
+2024-12-02,Sachapera,,,,,1.0
 2024-12-02,Samasa,23.4,6.2,,,
 2024-12-02,San Jacinto_M (GPRS),24.6,11.5,94.7,55.35,
 2024-12-02,San Jose de Chiquitos,34.0,26.0,88.0,52.3,
@@ -65752,6 +66119,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-02,Santiago de Machaca,,,,,1.0
 2024-12-02,Sara Ana,,,,,15.8
 2024-12-02,Sarco,32.2,18.0,,,
+2024-12-02,Sauce Pilapata - SDC (GPRS),18.44,11.35,100.0,63.24,
 2024-12-02,Sauce Pilata - SDC (GPRS),18.44,11.35,100.0,63.24,
 2024-12-02,Sella Quebrada,25.5,17.0,,,
 2024-12-02,Sopachuy,24.0,19.5,,,
@@ -65924,6 +66292,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-03,Sacabaya,23.3,4.5,,,
 2024-12-03,Sacaca,22.7,1.4,,,4.8
 2024-12-03,Sacacani_M (GPRS),,,,,4.4
+2024-12-03,Sachapera,,,,,0.1
 2024-12-03,Salla,,,,,33.0
 2024-12-03,Salo_M (GPRS),,,,,0.9
 2024-12-03,Samaipata,,,,,48.5
@@ -65943,6 +66312,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-03,San Roque - El Alto (GPRS),17.15,6.25,97.5,40.59,12.2
 2024-12-03,Santa Ana - Yacuma,27.0,27.0,82.9,82.9,
 2024-12-03,Sarco,,,,,4.2
+2024-12-03,Sauce Pilapata - SDC (GPRS),15.1,10.76,100.0,78.57,3.7
 2024-12-03,Sauce Pilata - SDC (GPRS),15.1,10.76,100.0,78.57,3.7
 2024-12-03,Sella Quebrada,20.0,10.5,,,0.8
 2024-12-03,Sopachuy,18.5,17.0,,,
@@ -65953,6 +66323,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-03,Sunjani (GPRS),6.86,6.86,93.7,93.7,24.0
 2024-12-03,Talula_Tako Tako,20.5,11.0,,,3.0
 2024-12-03,Tarapaya,24.2,6.8,,,4.0
+2024-12-03,Tarata,,,,,1.5
 2024-12-03,Tarija,14.0,14.0,76.2,76.2,
 2024-12-03,Taruma,,,,,42.0
 2024-12-03,Templo (GPRS),4.89,4.89,93.2,93.2,13.3
@@ -65984,6 +66355,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-03,Yesera Norte,17.0,9.0,,,3.1
 2024-12-03,Yesera Sur,26.0,10.0,,,
 2024-12-03,Yocalla,26.3,7.0,,,
+2024-12-03,Yotala,,,,,20.0
 2024-12-03,Zudañez,20.0,16.0,,,
 2024-12-03,Ñoquejza,16.9,7.2,,,
 2024-12-03,Ñucchu,,,,,3.0
@@ -66042,8 +66414,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-04,El Belen,20.0,,,,
 2024-12-04,El Tejar (Tarija),26.8,13.4,,,
 2024-12-04,El Villar,16.0,11.5,,,
+2024-12-04,Hichucota,14.0,4.0,,,
 2024-12-04,Huarisuyo (GPRS),6.26,6.26,97.4,97.4,0.1
 2024-12-04,Huayllamarca,20.1,6.0,,,
+2024-12-04,Huayrocondo,19.5,4.1,,,
 2024-12-04,Incapampa - Coroico_M (GPRS),,,,,8.7
 2024-12-04,Isla Del Sol,,,,,1.5
 2024-12-04,Isla Suriqui_M (GPRS),9.39,9.39,83.2,83.2,
@@ -66113,6 +66487,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-04,San Roque - El Alto (GPRS),18.07,6.05,92.4,31.71,3.2
 2024-12-04,Santa Ana - Yacuma,22.0,22.0,99.1,99.1,
 2024-12-04,Sarco,33.3,15.5,,,
+2024-12-04,Sauce Pilapata - SDC (GPRS),16.02,9.87,100.0,84.1,1.0
 2024-12-04,Sauce Pilata - SDC (GPRS),16.02,9.87,100.0,84.1,1.0
 2024-12-04,Sella Quebrada,24.5,11.0,,,
 2024-12-04,Sopachuy,,,,,2.5
@@ -66184,6 +66559,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-05,Colomi,15.0,7.0,,,
 2024-12-05,Colquechaca_Potosí,23.0,5.5,,,
 2024-12-05,Concepcion,28.0,19.0,99.1,52.1,
+2024-12-05,Coripata,25.5,16.0,,,
 2024-12-05,Cotagaita Mosoj Llajta,35.0,13.0,,,
 2024-12-05,Cristal Mayu,28.0,20.0,,,
 2024-12-05,Cuatro Cañadas - CEA-2 (GPRS),23.69,23.69,85.4,85.4,
@@ -66194,8 +66570,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-05,El Tejar (Tarija),30.3,14.6,,,
 2024-12-05,El Villar,21.0,12.0,,,
 2024-12-05,Guajara-Mirim - Guayaramerín,,,,,22.6
+2024-12-05,Hichucota,13.0,5.0,,,
 2024-12-05,Huarisuyo (GPRS),11.26,8.89,86.4,80.5,
 2024-12-05,Huayllamarca,22.0,5.1,,,
+2024-12-05,Huayrocondo,17.9,3.9,,,
 2024-12-05,Isla Suriqui_M (GPRS),10.52,10.52,71.97,71.97,
 2024-12-05,Ivirgarzama-Senda VI (GPRS),-100.0,-100.0,-100.0,-100.0,0.1
 2024-12-05,Jesús de Machaca_M (GPRS),8.42,8.42,41.11,41.11,
@@ -66252,6 +66630,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-05,Santa Ana - Yacuma,22.0,22.0,99.1,99.1,
 2024-12-05,Sara Ana,,,,,2.0
 2024-12-05,Sarco,35.5,16.1,,,
+2024-12-05,Sauce Pilapata - SDC (GPRS),20.76,10.8,99.9,60.33,0.1
 2024-12-05,Sauce Pilata - SDC (GPRS),20.76,10.8,99.9,60.33,0.1
 2024-12-05,Sella Quebrada,29.0,12.0,,,
 2024-12-05,Sopachuy,31.5,14.5,,,
@@ -66320,6 +66699,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-06,Colquechaca_Potosí,23.6,4.5,,,
 2024-12-06,Comarapa,,,,,0.7
 2024-12-06,Concepcion,30.0,22.0,99.1,54.6,
+2024-12-06,Coripata,28.0,17.5,,,
 2024-12-06,Cotagaita Mosoj Llajta,35.0,12.0,,,
 2024-12-06,Cristal Mayu,29.0,22.0,,,
 2024-12-06,Cuatro Cañadas - CEA-2 (GPRS),24.81,24.81,92.3,92.3,
@@ -66391,6 +66771,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-06,San Roque - El Alto (GPRS),18.38,12.05,66.43,42.82,0.4
 2024-12-06,Santa Ana - Yacuma,26.0,26.0,93.4,93.4,
 2024-12-06,Sarco,33.3,19.0,,,
+2024-12-06,Sauce Pilapata - SDC (GPRS),17.79,17.79,60.07,60.07,
 2024-12-06,Sauce Pilata - SDC (GPRS),17.79,17.79,60.07,60.07,
 2024-12-06,Sella Quebrada,29.0,12.0,,,
 2024-12-06,Sopachuy,23.5,14.5,,,
@@ -66468,6 +66849,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-07,Colquechaca_Potosí,23.0,5.0,,,
 2024-12-07,Comarapa,,,,,2.5
 2024-12-07,Concepcion,28.0,22.0,99.1,73.6,
+2024-12-07,Coripata,24.0,16.0,,,
 2024-12-07,Coroico_H (GPRS),,,,,2.5
 2024-12-07,Cotagaita Mosoj Llajta,34.0,17.0,,,
 2024-12-07,Covendo_M (GPRS),,,,,0.3
@@ -66550,6 +66932,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-07,Santivañez,,,,,11.7
 2024-12-07,Sara Ana,,,,,7.7
 2024-12-07,Sarco,,,,,0.7
+2024-12-07,Sauce Pilapata - SDC (GPRS),17.84,11.09,99.2,58.36,0.9
 2024-12-07,Sauce Pilata - SDC (GPRS),17.84,11.09,99.2,58.36,0.9
 2024-12-07,Sella Quebrada,26.0,14.5,,,
 2024-12-07,Sopachuy,32.0,12.5,,,
@@ -66559,6 +66942,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-07,Sunjani (GPRS),9.51,9.51,83.5,83.5,6.2
 2024-12-07,Talula_Tako Tako,25.0,15.0,,,
 2024-12-07,Tarapaya,26.5,10.2,,,3.5
+2024-12-07,Tarata,,,,,1.5
 2024-12-07,Tarija,23.0,23.0,64.2,64.2,
 2024-12-07,Templo (GPRS),6.63,6.63,92.0,92.0,3.5
 2024-12-07,Temporal - SDC (GPRS),21.99,13.69,83.8,0.22,0.6
@@ -66649,10 +67033,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-08,Entre Rios (TJA),,,,,7.0
 2024-12-08,Guajara-Mirim - Guayaramerín,,,,,16.6
 2024-12-08,Guayaramerin_M (GPRS),,,,,20.4
+2024-12-08,Hichucota,12.0,3.0,,,
 2024-12-08,Huarisuyo (GPRS),10.22,7.4,92.7,80.2,
 2024-12-08,Huayllamarca,20.1,8.0,,,18.0
+2024-12-08,Huayrocondo,16.8,4.5,,,
 2024-12-08,Incapampa - Coroico_M (GPRS),,,,,4.9
 2024-12-08,Isla Suriqui_M (GPRS),9.59,9.59,80.9,80.9,
+2024-12-08,Itau,,,,,8.0
 2024-12-08,Ivirgarzama-Senda VI (GPRS),-100.0,-100.0,-100.0,-100.0,22.2
 2024-12-08,Ixiamas S.(GPRS),,,,,2.2
 2024-12-08,Jesús de Machaca_M (GPRS),10.7,10.7,71.75,71.75,
@@ -66667,6 +67054,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-08,Mizque - SDC (GPRS),14.74,14.74,90.5,90.5,0.1
 2024-12-08,Mojo,26.3,11.2,,,
 2024-12-08,Montero_Muyurina,,,,,12.8
+2024-12-08,Narvaez,,,,,8.5
 2024-12-08,Nuevo Mundo,,,,,21.4
 2024-12-08,Omereque - SDC (GPRS),20.14,19.61,76.04,73.64,1.5
 2024-12-08,Oronkota PTI,36.5,21.2,,,
@@ -66712,6 +67100,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-08,Santa Ana - Yacuma,25.0,25.0,92.0,92.0,
 2024-12-08,Santiago de Machaca,,,,,8.2
 2024-12-08,Sarco,29.4,16.7,,,
+2024-12-08,Sauce Pilapata - SDC (GPRS),21.81,11.85,100.0,59.27,8.4
 2024-12-08,Sauce Pilata - SDC (GPRS),21.81,11.85,100.0,59.27,8.4
 2024-12-08,Saykan Perulas,,,,,12.3
 2024-12-08,Sella Quebrada,21.0,12.0,,,4.4
@@ -66722,6 +67111,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-08,Sunjani (GPRS),9.02,9.02,83.8,83.8,2.2
 2024-12-08,Talula_Tako Tako,24.0,13.5,,,
 2024-12-08,Tarapaya,27.0,10.0,,,
+2024-12-08,Tarata,,,,,13.0
 2024-12-08,Tarija,21.0,15.0,87.1,59.8,
 2024-12-08,Taruma,,,,,45.0
 2024-12-08,Templo (GPRS),6.18,6.18,93.4,93.4,1.7
@@ -66823,6 +67213,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-09,Huancane Corapata_M (GPRS),,,,,3.2
 2024-12-09,Huarisuyo (GPRS),8.53,7.16,91.1,89.9,0.6
 2024-12-09,Huayllamarca,21.0,7.3,,,
+2024-12-09,Huayrocondo,17.0,4.2,,,
 2024-12-09,Incapampa - Coroico_M (GPRS),,,,,5.1
 2024-12-09,Isla Suriqui_M (GPRS),15.41,6.72,95.8,57.04,
 2024-12-09,Ivirgarzama-Senda VI (GPRS),-100.0,-100.0,-100.0,-100.0,11.3
@@ -66843,6 +67234,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-09,Mizque - SDC (GPRS),,,,,0.7
 2024-12-09,Mojo,27.0,7.3,,,
 2024-12-09,Montero_Muyurina,,,,,14.1
+2024-12-09,Narvaez,,,,,3.5
 2024-12-09,Nuevo Mundo,,,,,7.8
 2024-12-09,Omereque - SDC (GPRS),20.41,19.01,75.93,71.44,
 2024-12-09,Oronkota PTI,35.5,18.2,,,
@@ -66877,6 +67269,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-09,Sacabaya,24.0,6.0,,,7.1
 2024-12-09,Sacaca,26.7,3.7,,,
 2024-12-09,Sacacani_M (GPRS),,,,,0.4
+2024-12-09,Sachapera,,,,,2.3
 2024-12-09,Salla,,,,,1.6
 2024-12-09,Samasa,27.2,8.2,,,
 2024-12-09,San Buenaventura_M (GPRS),,,,,0.3
@@ -66895,6 +67288,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-09,Santa Ana - Yacuma,24.0,24.0,93.3,93.3,
 2024-12-09,Santiago de Machaca,,,,,1.5
 2024-12-09,Sarco,32.2,16.1,,,
+2024-12-09,Sauce Pilapata - SDC (GPRS),19.85,15.58,77.15,61.22,1.2
 2024-12-09,Sauce Pilata - SDC (GPRS),,,,,1.2
 2024-12-09,Saykan Perulas,,,,,6.8
 2024-12-09,Sella Quebrada,26.0,12.0,,,
@@ -66989,6 +67383,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-10,Emborozu,,,,,6.0
 2024-12-10,Entre Rios (TJA),,,,,3.0
 2024-12-10,Guajara-Mirim - Guayaramerín,,,,,0.3
+2024-12-10,Hichucota,14.0,4.0,,,
 2024-12-10,Huarisuyo (GPRS),6.03,6.03,98.7,98.7,
 2024-12-10,Huayllamarca,22.1,8.1,,,13.0
 2024-12-10,Huayrocondo,,,,,0.2
@@ -67039,6 +67434,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-10,Rurrenabaque,32.0,22.0,99.1,70.0,
 2024-12-10,Sacabaya,23.0,2.2,,,
 2024-12-10,Sacaca,27.3,3.8,,,
+2024-12-10,Sachapera,,,,,0.4
 2024-12-10,Samaipata,,,,,20.0
 2024-12-10,Samasa,25.3,8.4,,,
 2024-12-10,San Benito,,,,,13.0
@@ -67055,6 +67451,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-10,San Roque - El Alto (GPRS),20.68,7.04,93.0,30.83,
 2024-12-10,Santa Ana - Yacuma,27.0,27.0,88.0,88.0,
 2024-12-10,Sarco,,,,,4.0
+2024-12-10,Sauce Pilapata - SDC (GPRS),19.63,11.46,100.0,69.86,0.2
 2024-12-10,Sauce Pilata - SDC (GPRS),19.63,11.46,100.0,69.86,0.2
 2024-12-10,Saykan Perulas,,,,,5.4
 2024-12-10,Sella Quebrada,25.5,13.0,,,
@@ -67063,6 +67460,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-10,Sunjani (GPRS),7.12,7.12,78.11,78.11,
 2024-12-10,Talula_Tako Tako,24.0,14.0,,,
 2024-12-10,Tarapaya,28.0,10.0,,,
+2024-12-10,Tarata,,,,,4.5
 2024-12-10,Tarija,18.0,18.0,72.0,72.0,
 2024-12-10,Taruma,,,,,18.0
 2024-12-10,Templo (GPRS),4.25,4.25,87.8,87.8,
@@ -67128,6 +67526,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-11,Colomi,,,,,3.2
 2024-12-11,Colquechaca_Potosí,23.0,5.0,,,
 2024-12-11,Concepcion,33.0,21.0,99.1,55.3,
+2024-12-11,Coripata,30.5,18.0,,,
 2024-12-11,Coroico_H (GPRS),,,,,13.8
 2024-12-11,Cotagaita Mosoj Llajta,35.0,12.0,,,
 2024-12-11,Cristal Mayu,30.0,21.0,,,16.0
@@ -67143,6 +67542,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-11,Hichucota,,,,,2.5
 2024-12-11,Huarisuyo (GPRS),6.41,6.41,91.2,91.2,
 2024-12-11,Huayllamarca,20.0,9.3,,,
+2024-12-11,Huayrocondo,21.0,4.6,,,
 2024-12-11,Incapampa - Coroico_M (GPRS),,,,,29.7
 2024-12-11,Isla Suriqui_M (GPRS),10.7,10.7,70.25,70.25,
 2024-12-11,Ivirgarzama-Senda VI (GPRS),-100.0,-100.0,-100.0,-100.0,7.4
@@ -67206,6 +67606,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-11,Santivañez,,,,,17.8
 2024-12-11,Sara Ana,,,,,20.0
 2024-12-11,Sarco,,,,,4.5
+2024-12-11,Sauce Pilapata - SDC (GPRS),24.08,11.83,99.8,49.28,1.4
 2024-12-11,Sauce Pilata - SDC (GPRS),24.08,11.83,99.8,49.28,1.4
 2024-12-11,Sella Quebrada,28.5,12.0,,,
 2024-12-11,Sopachuy,,,,,2.0
@@ -67215,6 +67616,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-11,Sunjani (GPRS),8.23,7.99,76.92,73.28,3.3
 2024-12-11,Talula_Tako Tako,29.0,11.0,,,
 2024-12-11,Tarapaya,29.9,7.2,,,
+2024-12-11,Tarata,,,,,3.0
 2024-12-11,Tarija,19.0,19.0,72.2,72.2,
 2024-12-11,Templo (GPRS),5.51,5.51,79.02,79.02,3.8
 2024-12-11,Temporal - SDC (GPRS),27.91,13.99,12.91,0.02,7.7
@@ -67281,6 +67683,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-12,Colomi,17.0,9.0,,,
 2024-12-12,Colquechaca_Potosí,23.2,5.1,,,
 2024-12-12,Concepcion,31.0,24.0,99.1,65.8,
+2024-12-12,Coripata,24.0,18.5,,,
 2024-12-12,Cotagaita Mosoj Llajta,27.0,12.9,,,
 2024-12-12,Cristal Mayu,30.0,23.0,,,0.5
 2024-12-12,Cuatro Cañadas - CEA-2 (GPRS),28.88,28.88,83.0,83.0,
@@ -67298,6 +67701,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-12,Huancane Corapata_M (GPRS),,,,,0.2
 2024-12-12,Huarisuyo (GPRS),10.17,8.02,83.7,78.29,
 2024-12-12,Huayllamarca,21.1,9.0,,,
+2024-12-12,Huayrocondo,16.9,2.2,,,
 2024-12-12,Incapampa - Coroico_M (GPRS),,,,,0.8
 2024-12-12,Isla Suriqui_M (GPRS),11.22,11.22,78.59,78.59,
 2024-12-12,Ivirgarzama-Senda VI (GPRS),-100.0,-100.0,-100.0,-100.0,0.1
@@ -67314,6 +67718,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-12,Mizque - SDC (GPRS),20.13,20.13,64.27,64.27,0.2
 2024-12-12,Mojo,25.0,9.3,,,
 2024-12-12,Muyuquiri,,,,,15.0
+2024-12-12,Narvaez,,,,,7.0
 2024-12-12,Omereque - SDC (GPRS),22.79,18.52,74.36,62.24,
 2024-12-12,Oronkota PTI,35.6,19.7,,,
 2024-12-12,Oruro (GPRS),21.0,7.0,86.5,34.9,
@@ -67354,6 +67759,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-12,Santa Ana - Yacuma,24.0,24.0,99.1,99.1,
 2024-12-12,Santiago de Machaca,,,,,1.0
 2024-12-12,Sarco,33.9,15.5,,,
+2024-12-12,Sauce Pilapata - SDC (GPRS),23.97,14.52,78.81,37.53,
 2024-12-12,Sauce Pilata - SDC (GPRS),23.97,14.52,78.81,37.53,
 2024-12-12,Sella Quebrada,29.0,15.0,,,
 2024-12-12,Sopachuy,31.5,17.5,,,
@@ -67406,6 +67812,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-13,Camiri,25.0,25.0,77.8,77.8,
 2024-12-13,Campamento 2 - Suñasivi,,,,,5.9
 2024-12-13,Campamento Villa Tunari,,,,,16.5
+2024-12-13,Campanario,,,,,6.3
 2024-12-13,Capinota,31.2,15.0,,,
 2024-12-13,Carabuco,,5.3,,,3.4
 2024-12-13,Caranavi_H (GPRS),,,,,11.7
@@ -67447,6 +67854,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-13,Hichucota,,,,,3.4
 2024-12-13,Huarisuyo (GPRS),7.25,6.15,89.7,84.8,
 2024-12-13,Huayllamarca,22.5,8.1,,,
+2024-12-13,Huayrocondo,18.2,1.3,,,
 2024-12-13,Incapampa - Coroico_M (GPRS),,,,,20.2
 2024-12-13,Isla Suriqui_M (GPRS),17.45,5.93,93.2,42.59,
 2024-12-13,Ixiamas S.(GPRS),,,,,23.4
@@ -67505,6 +67913,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-13,San Roque - El Alto (GPRS),19.23,4.16,87.2,33.63,
 2024-12-13,Santa Ana - Yacuma,25.0,25.0,93.3,93.3,
 2024-12-13,Sarco,35.5,15.5,,,
+2024-12-13,Sauce Pilapata - SDC (GPRS),25.14,10.93,100.0,38.98,
 2024-12-13,Sauce Pilata - SDC (GPRS),25.14,10.93,100.0,38.98,
 2024-12-13,Sella Quebrada,28.0,15.0,,,
 2024-12-13,Sopachuy,31.5,16.5,,,
@@ -67596,6 +68005,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-14,Emborozu,,,,,12.0
 2024-12-14,Entre Rios (TJA),,,,,0.5
 2024-12-14,Guajara-Mirim - Guayaramerín,,,,,0.5
+2024-12-14,Hichucota,13.0,3.0,,,
 2024-12-14,Huarisuyo (GPRS),4.69,4.69,92.8,92.8,1.0
 2024-12-14,Huayllamarca,22.0,7.0,,,
 2024-12-14,Huayrocondo,,,,,0.8
@@ -67645,6 +68055,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-14,Sacabaya,25.1,0.5,,,
 2024-12-14,Sacaca,23.7,4.1,,,
 2024-12-14,Sacacani_M (GPRS),,,,,1.1
+2024-12-14,Sachapera,,,,,3.8
 2024-12-14,Samasa,25.4,7.1,,,
 2024-12-14,San Jacinto_M (GPRS),21.61,13.23,95.1,61.69,
 2024-12-14,San Julian,,,,,4.0
@@ -67659,6 +68070,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-14,Santa Ana - Yacuma,26.0,26.0,87.9,87.9,
 2024-12-14,Santiago de Machaca,,,,,9.5
 2024-12-14,Sarco,,,,,2.4
+2024-12-14,Sauce Pilapata - SDC (GPRS),20.37,9.11,100.0,65.69,4.0
 2024-12-14,Sauce Pilata - SDC (GPRS),20.37,9.11,100.0,65.69,4.0
 2024-12-14,Saykan Perulas,,,,,8.6
 2024-12-14,Sella Quebrada,21.0,13.0,,,4.5
@@ -67679,6 +68091,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-14,Toma Ravelo_M (GPRS),,,,,9.3
 2024-12-14,Tomave,26.0,5.5,,,
 2024-12-14,Tupiza,23.4,15.0,,,
+2024-12-14,Turumayo,,,,,8.9
 2024-12-14,Uyuni,24.0,6.0,,,
 2024-12-14,Viacha_M (GPRS),10.81,10.81,72.92,72.92,
 2024-12-14,Vila Vila - SDC (GPRS),15.3,15.3,75.08,75.08,0.5
@@ -67743,9 +68156,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-15,El Belen,18.0,,,,
 2024-12-15,El Tejar (Tarija),27.8,15.0,,,
 2024-12-15,El Villar,,,,,1.5
+2024-12-15,Hichucota,12.0,4.0,,,
 2024-12-15,Huancane Corapata_M (GPRS),,,,,2.3
 2024-12-15,Huarisuyo (GPRS),7.1,4.92,98.9,98.6,
 2024-12-15,Huayllamarca,21.3,8.0,,,
+2024-12-15,Huayrocondo,18.2,2.9,,,
 2024-12-15,Incapampa - Coroico_M (GPRS),,,,,34.3
 2024-12-15,Isla Suriqui_M (GPRS),7.56,7.56,91.6,91.6,
 2024-12-15,Ixiamas S.(GPRS),,,,,15.6
@@ -67804,6 +68219,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-15,Santiago de Machaca,,,,,6.0
 2024-12-15,Sara Ana,,,,,3.5
 2024-12-15,Sarco,,,,,0.3
+2024-12-15,Sauce Pilapata - SDC (GPRS),8.87,8.87,99.7,99.7,4.3
 2024-12-15,Sauce Pilata - SDC (GPRS),8.87,8.87,99.7,99.7,4.3
 2024-12-15,Sella Quebrada,25.0,12.0,,,0.5
 2024-12-15,Sopachuy,,,,,3.0
@@ -67823,6 +68239,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-15,Totora i_M (GPRS),,,,,0.2
 2024-12-15,Tupiza,24.6,15.2,,,
 2024-12-15,Tupiza_1_H (GPRS),,,,,0.3
+2024-12-15,Turumayo,,,,,2.6
 2024-12-15,Uyuni,23.2,3.7,,,
 2024-12-15,Viacha_M (GPRS),18.09,4.06,98.8,28.3,6.6
 2024-12-15,Vila Vila - SDC (GPRS),19.52,10.62,88.1,46.3,1.1
@@ -67876,6 +68293,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-16,Colquechaca_Potosí,18.1,4.0,,,
 2024-12-16,Comarapa,,,,,18.6
 2024-12-16,Concepcion,32.0,27.0,82.9,62.2,
+2024-12-16,Coripata,25.0,16.5,,,
 2024-12-16,Coroico_H (GPRS),,,,,0.8
 2024-12-16,Cotagaita Mosoj Llajta,34.0,16.0,,,
 2024-12-16,Cristal Mayu,34.0,21.0,,,10.0
@@ -67955,6 +68373,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-16,Santa Ana - Yacuma,32.0,24.0,93.3,62.2,
 2024-12-16,Santiago de Machaca,,,,,2.5
 2024-12-16,Sarco,33.0,17.0,,,
+2024-12-16,Sauce Pilapata - SDC (GPRS),19.48,10.39,94.3,56.89,
 2024-12-16,Sauce Pilata - SDC (GPRS),19.48,10.39,94.3,56.89,
 2024-12-16,Sella Quebrada,26.0,13.5,,,
 2024-12-16,Sopachuy,24.5,14.0,,,
@@ -68004,6 +68423,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-17,Cabaña Forestal Oruro,,,,,4.2
 2024-12-17,Caiza D,25.4,11.0,,,
 2024-12-17,Camiri,24.0,24.0,73.0,73.0,
+2024-12-17,Campanario,,,,,1.6
 2024-12-17,Capinota,31.0,16.0,,,
 2024-12-17,Carabuco,,5.7,,,
 2024-12-17,Catacora,,,,,2.7
@@ -68025,6 +68445,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-17,Colquechaca_Potosí,,,,,1.5
 2024-12-17,Comarapa,,,,,2.6
 2024-12-17,Concepcion,32.0,23.0,99.1,55.1,
+2024-12-17,Coripata,29.0,16.0,,,
 2024-12-17,Cotagaita Mosoj Llajta,35.0,15.0,,,
 2024-12-17,Covendo_M (GPRS),,,,,1.0
 2024-12-17,Cristal Mayu,33.0,22.0,,,
@@ -68036,8 +68457,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-17,El Tejar (Tarija),24.6,15.8,,,0.4
 2024-12-17,El Villar,23.0,15.0,,,
 2024-12-17,Guajara-Mirim - Guayaramerín,,,,,6.6
+2024-12-17,Hichucota,12.0,2.0,,,
 2024-12-17,Huarisuyo (GPRS),5.51,5.51,95.1,95.1,
 2024-12-17,Huayllamarca,22.0,8.1,,,6.0
+2024-12-17,Huayrocondo,20.2,1.5,,,
 2024-12-17,Isla Suriqui_M (GPRS),16.33,5.15,89.4,47.6,
 2024-12-17,Ixiamas S.(GPRS),,,,,7.0
 2024-12-17,Jesús de Machaca_M (GPRS),18.58,-0.6,97.7,34.56,2.2
@@ -68092,6 +68515,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-17,San Roque - El Alto (GPRS),18.98,3.22,83.7,33.9,
 2024-12-17,Santa Ana - Yacuma,26.0,26.0,87.9,87.9,
 2024-12-17,Sarco,33.9,16.1,,,
+2024-12-17,Sauce Pilapata - SDC (GPRS),14.17,14.17,75.32,75.32,
 2024-12-17,Sauce Pilata - SDC (GPRS),14.17,14.17,75.32,75.32,
 2024-12-17,Sella Quebrada,24.0,12.5,,,
 2024-12-17,Sopachuy,29.5,15.0,,,
@@ -68174,8 +68598,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-18,El Tejar (Tarija),32.4,15.1,,,
 2024-12-18,El Villar,26.0,14.0,,,
 2024-12-18,Guajara-Mirim - Guayaramerín,,,,,0.1
+2024-12-18,Hichucota,10.0,3.0,,,
 2024-12-18,Huarisuyo (GPRS),6.83,6.83,83.1,83.1,
 2024-12-18,Huayllamarca,20.1,8.0,,,
+2024-12-18,Huayrocondo,18.5,1.2,,,
 2024-12-18,Incapampa - Coroico_M (GPRS),,,,,5.4
 2024-12-18,Isla Suriqui_M (GPRS),17.29,7.76,85.6,37.77,
 2024-12-18,Ixiamas S.(GPRS),,,,,21.0
@@ -68231,6 +68657,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-18,Santa Ana - Yacuma,26.0,26.0,93.4,93.4,
 2024-12-18,Santiago de Machaca,,,,,12.5
 2024-12-18,Sarco,32.2,15.0,,,
+2024-12-18,Sauce Pilapata - SDC (GPRS),23.45,14.47,76.94,36.66,
 2024-12-18,Sauce Pilata - SDC (GPRS),23.45,14.47,76.94,36.66,
 2024-12-18,Sella Quebrada,32.0,13.0,,,
 2024-12-18,Sopachuy,31.5,14.5,,,
@@ -68308,6 +68735,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-19,Colomi,16.0,9.0,,,
 2024-12-19,Colquechaca_Potosí,,,,,1.5
 2024-12-19,Concepcion,30.0,22.0,99.1,61.7,
+2024-12-19,Coripata,32.0,17.5,,,
 2024-12-19,Coroico_H (GPRS),,,,,1.1
 2024-12-19,Cotagaita Mosoj Llajta,27.0,11.0,,,
 2024-12-19,Cristal Mayu,33.0,22.0,,,77.5
@@ -68389,6 +68817,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-19,Santa Ana - Yacuma,25.0,25.0,87.9,87.9,
 2024-12-19,Santiago de Machaca,,,,,7.6
 2024-12-19,Sarco,32.2,17.0,,,
+2024-12-19,Sauce Pilapata - SDC (GPRS),22.07,10.62,100.0,52.67,0.4
 2024-12-19,Sauce Pilata - SDC (GPRS),22.07,10.62,100.0,52.67,0.4
 2024-12-19,Saykan Perulas,,,,,6.6
 2024-12-19,Sella Quebrada,18.0,12.5,,,4.5
@@ -68400,6 +68829,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-19,Talula_Tako Tako,23.0,11.0,,,9.0
 2024-12-19,Tarabuco,17.3,10.5,,,
 2024-12-19,Tarapaya,25.0,5.1,,,1.0
+2024-12-19,Tarata,,,,,0.5
 2024-12-19,Tarija,18.0,18.0,82.0,82.0,
 2024-12-19,Templo (GPRS),7.42,7.42,87.0,87.0,6.9
 2024-12-19,Temporal - SDC (GPRS),25.47,11.2,38.63,0.04,0.1
@@ -68410,6 +68840,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-19,Toma Ravelo_M (GPRS),,,,,3.6
 2024-12-19,Tomave,26.0,6.0,,,
 2024-12-19,Tupiza,27.4,14.4,,,
+2024-12-19,Turumayo,,,,,21.9
 2024-12-19,Uyuni,23.3,3.4,,,
 2024-12-19,Viacha_M (GPRS),16.9,3.81,96.2,40.6,
 2024-12-19,Vila Vila - SDC (GPRS),19.55,19.55,50.15,50.15,
@@ -68568,6 +68999,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-20,Santiago de Machaca,,,,,3.7
 2024-12-20,Santivañez,,,,,15.7
 2024-12-20,Sarco,,,,,10.9
+2024-12-20,Sauce Pilapata - SDC (GPRS),21.89,11.75,96.1,66.12,24.4
 2024-12-20,Sauce Pilata - SDC (GPRS),21.89,11.75,96.1,66.12,24.4
 2024-12-20,Sella Quebrada,30.0,8.5,,,
 2024-12-20,Sopachuy,,,,,5.0
@@ -68578,6 +69010,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-20,Talula_Tako Tako,23.0,12.0,,,3.0
 2024-12-20,Tarabuco,20.4,9.4,,,1.5
 2024-12-20,Tarapaya,25.9,9.9,,,
+2024-12-20,Tarata,,,,,4.0
 2024-12-20,Tarija,16.0,16.0,67.0,67.0,
 2024-12-20,Templo (GPRS),2.25,2.25,97.1,97.1,15.4
 2024-12-20,Temporal - SDC (GPRS),24.72,11.13,64.3,0.04,13.2
@@ -68653,6 +69086,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-21,Colomi,,,,,3.5
 2024-12-21,Colquechaca_Potosí,20.2,3.8,,,
 2024-12-21,Concepcion,29.0,21.0,99.1,73.8,
+2024-12-21,Coripata,29.5,17.0,,,
 2024-12-21,Coroico_H (GPRS),,,,,0.5
 2024-12-21,Cotagaita Mosoj Llajta,35.0,15.0,,,
 2024-12-21,Covendo_M (GPRS),,,,,0.5
@@ -68669,6 +69103,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-21,Huancane Corapata_M (GPRS),,,,,5.4
 2024-12-21,Huarisuyo (GPRS),7.58,7.58,88.3,88.3,0.7
 2024-12-21,Huayllamarca,22.2,8.0,,,
+2024-12-21,Huayrocondo,18.5,4.4,,,
 2024-12-21,Incapampa - Coroico_M (GPRS),,,,,0.1
 2024-12-21,Isla Suriqui_M (GPRS),17.5,8.09,85.8,45.65,5.0
 2024-12-21,Jesús de Machaca_M (GPRS),20.4,0.07,94.2,28.58,0.6
@@ -68682,6 +69117,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-21,Mizque - SDC (GPRS),27.28,13.5,92.7,45.09,2.3
 2024-12-21,Mojo,23.0,6.2,,,
 2024-12-21,Montero_Muyurina,,,,,4.2
+2024-12-21,Narvaez,,,,,40.0
 2024-12-21,Omereque - SDC (GPRS),20.16,19.7,79.19,75.55,0.4
 2024-12-21,Oronkota PTI,32.2,16.8,,,
 2024-12-21,Oruro (GPRS),22.0,9.0,70.4,32.8,
@@ -68727,6 +69163,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-21,Santa Ana - Yacuma,28.0,28.0,83.0,83.0,
 2024-12-21,Sara Ana,,,,,12.5
 2024-12-21,Sarco,,,,,0.8
+2024-12-21,Sauce Pilapata - SDC (GPRS),19.82,9.56,100.0,68.0,
 2024-12-21,Sauce Pilata - SDC (GPRS),19.82,9.56,100.0,68.0,
 2024-12-21,Sella Quebrada,30.0,12.5,,,
 2024-12-21,Sopachuy,29.5,16.5,,,
@@ -68816,6 +69253,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-22,Colquechaca_Potosí,,,,,2.0
 2024-12-22,Comarapa,,,,,4.8
 2024-12-22,Concepcion,26.0,23.0,99.1,82.8,
+2024-12-22,Coripata,24.0,18.0,,,
 2024-12-22,Coroico_H (GPRS),,,,,5.7
 2024-12-22,Cotagaita Mosoj Llajta,26.0,16.0,,,
 2024-12-22,Covendo_M (GPRS),,,,,14.8
@@ -68834,10 +69272,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-22,Emborozu,,,,,75.0
 2024-12-22,Entre Rios (TJA),,,,,42.5
 2024-12-22,Guajara-Mirim - Guayaramerín,,,,,1.2
+2024-12-22,Hichucota,12.0,3.0,,,
 2024-12-22,Huarisuyo (GPRS),6.3,5.8,93.7,93.1,
 2024-12-22,Huayllamarca,22.2,7.1,,,
+2024-12-22,Huayrocondo,17.9,2.4,,,
 2024-12-22,Incapampa - Coroico_M (GPRS),,,,,8.5
 2024-12-22,Isla Suriqui_M (GPRS),14.96,7.04,88.5,56.26,
+2024-12-22,Itau,,,,,38.0
 2024-12-22,Ixiamas S.(GPRS),,,,,0.2
 2024-12-22,Jesús de Machaca_M (GPRS),17.34,3.53,96.2,41.34,
 2024-12-22,Juntas,,,,,30.5
@@ -68853,6 +69294,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-22,Mizque - SDC (GPRS),15.77,15.77,82.0,82.0,1.1
 2024-12-22,Mojo,19.0,7.0,,,2.4
 2024-12-22,Montero_Muyurina,,,,,6.4
+2024-12-22,Narvaez,,,,,62.0
 2024-12-22,Nuevo Mundo,,,,,9.7
 2024-12-22,Omereque - SDC (GPRS),18.92,16.54,87.7,78.08,6.5
 2024-12-22,Oronkota PTI,32.5,21.2,,,1.3
@@ -68888,6 +69330,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-22,Rurrenabaque,27.0,24.0,99.1,88.0,
 2024-12-22,Sacabaya,24.5,-3.0,,,
 2024-12-22,Sacaca,26.2,1.6,,,
+2024-12-22,Sachapera,,,,,35.3
 2024-12-22,Salo_M (GPRS),,,,,3.0
 2024-12-22,Samaipata,,,,,4.0
 2024-12-22,Samasa,22.0,5.2,,,
@@ -68905,6 +69348,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-22,Santivañez,,,,,5.1
 2024-12-22,Sara Ana,,,,,2.0
 2024-12-22,Sarco,,,,,1.2
+2024-12-22,Sauce Pilapata - SDC (GPRS),16.98,9.87,100.0,65.58,11.7
 2024-12-22,Sauce Pilata - SDC (GPRS),16.98,9.87,100.0,65.58,11.7
 2024-12-22,Saykan Perulas,,,,,24.6
 2024-12-22,Sella Quebrada,19.0,14.0,,,1.4
@@ -68915,6 +69359,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-22,Talula_Tako Tako,17.0,8.0,,,31.2
 2024-12-22,Tarabuco,19.5,9.5,,,3.9
 2024-12-22,Tarapaya,25.0,10.0,,,
+2024-12-22,Tarata,,,,,0.3
 2024-12-22,Tarija,21.0,13.0,99.2,68.0,
 2024-12-22,Templo (GPRS),3.26,3.26,89.6,89.6,16.2
 2024-12-22,Temporal - SDC (GPRS),20.65,12.11,90.5,0.06,
@@ -68941,6 +69386,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-22,Yesera Norte,12.0,15.0,,,25.3
 2024-12-22,Yesera Sur,19.0,15.0,,,28.0
 2024-12-22,Yocalla,27.0,7.0,,,
+2024-12-22,Yotala,,,,,24.5
 2024-12-22,Zudañez,20.0,13.0,,,
 2024-12-22,Ñoquejza,18.4,9.0,,,
 2024-12-22,Ñucchu,,,,,31.5
@@ -68990,6 +69436,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-23,Colomi,,,,,0.4
 2024-12-23,Colquechaca_Potosí,,,,,2.0
 2024-12-23,Concepcion,28.0,21.0,99.1,57.6,
+2024-12-23,Coripata,27.0,16.5,,,
 2024-12-23,Coroico_H (GPRS),,,,,0.4
 2024-12-23,Cotagaita Mosoj Llajta,27.0,12.0,,,
 2024-12-23,Covendo_M (GPRS),,,,,8.2
@@ -69023,6 +69470,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-23,Mairana_M (GPRS),18.62,18.62,92.7,92.7,
 2024-12-23,Mizque - SDC (GPRS),15.87,15.87,80.6,80.6,0.9
 2024-12-23,Mojo,25.0,5.0,,,
+2024-12-23,Narvaez,,,,,17.0
 2024-12-23,Omereque - SDC (GPRS),20.79,16.95,90.5,69.17,0.4
 2024-12-23,Oronkota PTI,25.2,18.3,,,
 2024-12-23,Oruro (GPRS),22.0,6.0,80.5,37.7,
@@ -69052,6 +69500,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-23,Rurrenabaque,28.0,22.0,99.1,73.6,
 2024-12-23,Sacabaya,24.3,-2.0,,,
 2024-12-23,Sacaca,25.1,2.7,,,
+2024-12-23,Sachapera,,,,,74.6
 2024-12-23,Samaipata,,,,,0.7
 2024-12-23,Samasa,20.0,6.0,,,4.6
 2024-12-23,San Buenaventura_M (GPRS),,,,,34.6
@@ -69071,6 +69520,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-23,Santa Ana - Yacuma,23.0,23.0,93.2,93.2,
 2024-12-23,Santiago de Machaca,,,,,12.6
 2024-12-23,Sarco,,,,,0.8
+2024-12-23,Sauce Pilapata - SDC (GPRS),20.44,10.93,100.0,49.46,1.6
 2024-12-23,Sauce Pilata - SDC (GPRS),,,,,1.6
 2024-12-23,Saykan Perulas,,,,,38.5
 2024-12-23,Sella Quebrada,28.0,11.0,,,8.4
@@ -69093,6 +69543,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-23,Totora i_M (GPRS),,,,,1.0
 2024-12-23,Tupiza,23.0,12.4,,,
 2024-12-23,Tupiza_1_H (GPRS),,,,,2.8
+2024-12-23,Turumayo,,,,,5.4
 2024-12-23,Uyuni,24.0,7.2,,,
 2024-12-23,Vallegrande,21.0,21.0,68.0,68.0,
 2024-12-23,Viacha_M (GPRS),19.46,3.34,98.8,26.01,1.3
@@ -69111,6 +69562,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-23,Yesera Norte,22.0,10.0,,,14.3
 2024-12-23,Yesera Sur,25.0,10.0,,,20.0
 2024-12-23,Yocalla,25.2,9.1,,,
+2024-12-23,Yotala,,,,,1.0
 2024-12-23,Zudañez,29.0,10.0,,,
 2024-12-23,Ñoquejza,19.1,8.2,,,
 2024-12-24, Paniagua_M (GPRS),,,,,1.1
@@ -69149,6 +69601,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-24,Colomi,16.0,8.0,,,
 2024-12-24,Colquechaca_Potosí,18.5,4.0,,,
 2024-12-24,Concepcion,30.0,22.0,99.1,65.6,
+2024-12-24,Coripata,29.0,16.0,,,
 2024-12-24,Coroico_H (GPRS),,,,,0.4
 2024-12-24,Cotagaita Mosoj Llajta,26.0,11.0,,,
 2024-12-24,Covendo_M (GPRS),,,,,0.1
@@ -69162,11 +69615,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-24,El Tejar (Tarija),28.4,15.5,,,
 2024-12-24,El Villar,23.5,13.0,,,
 2024-12-24,Guajara-Mirim - Guayaramerín,,,,,1.0
+2024-12-24,Hichucota,14.0,3.0,,,
 2024-12-24,Huarisuyo (GPRS),4.71,4.71,98.6,98.6,0.7
 2024-12-24,Huayllamarca,20.2,8.1,,,5.1
 2024-12-24,Huayrocondo,,,,,0.7
 2024-12-24,Incapampa - Coroico_M (GPRS),,,,,1.0
 2024-12-24,Isla Suriqui_M (GPRS),20.1,5.79,93.3,14.45,
+2024-12-24,Itau,,,,,79.0
 2024-12-24,Ixiamas S.(GPRS),,,,,0.2
 2024-12-24,Jesús de Machaca_M (GPRS),21.45,-4.23,70.7,8.64,
 2024-12-24,Korila,,,,,1.3
@@ -69224,6 +69679,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-24,Santa Ana - Yacuma,27.0,27.0,88.0,88.0,
 2024-12-24,Santivañez,,,,,8.1
 2024-12-24,Sarco,33.9,14.4,,,
+2024-12-24,Sauce Pilapata - SDC (GPRS),14.17,14.17,81.3,81.3,0.1
 2024-12-24,Sauce Pilata - SDC (GPRS),14.17,14.17,81.3,81.3,0.1
 2024-12-24,Sella Quebrada,25.5,12.0,,,
 2024-12-24,Sopachuy,29.5,14.5,,,
@@ -69296,6 +69752,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-25,Colomi,,,,,5.0
 2024-12-25,Colquechaca_Potosí,18.7,4.2,,,
 2024-12-25,Concepcion,26.0,19.0,99.1,53.6,
+2024-12-25,Coripata,25.5,17.5,,,
 2024-12-25,Coroico_H (GPRS),,,,,2.2
 2024-12-25,Cotagaita (GPRS),,,,,9.3
 2024-12-25,Cotagaita Mosoj Llajta,,,,,8.0
@@ -69314,8 +69771,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-25,El Villar,26.0,12.0,,,
 2024-12-25,Emborozu,,,,,40.0
 2024-12-25,Entre Rios (TJA),,,,,61.9
+2024-12-25,Hichucota,16.0,4.0,,,
 2024-12-25,Huarisuyo (GPRS),6.73,6.73,85.6,85.6,
 2024-12-25,Huayllamarca,22.0,6.0,,,
+2024-12-25,Huayrocondo,20.0,1.6,,,
 2024-12-25,Incapampa - Coroico_M (GPRS),,,,,0.1
 2024-12-25,Isla Suriqui_M (GPRS),18.43,4.24,97.5,21.09,
 2024-12-25,Jesús de Machaca_M (GPRS),20.99,-4.87,66.62,13.43,
@@ -69374,6 +69833,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-25,Santivañez,,,,,4.1
 2024-12-25,Sara Ana,,,,,36.5
 2024-12-25,Sarco,30.0,15.5,,,
+2024-12-25,Sauce Pilapata - SDC (GPRS),15.08,7.82,85.9,51.48,0.7
 2024-12-25,Sauce Pilata - SDC (GPRS),15.08,7.82,85.9,51.48,0.7
 2024-12-25,Saykan Perulas,,,,,36.8
 2024-12-25,Sella Quebrada,20.0,10.5,,,
@@ -69395,6 +69855,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-25,Tomave,23.4,5.5,,,
 2024-12-25,Tupiza,21.2,11.2,,,
 2024-12-25,Tupiza_1_H (GPRS),,,,,1.3
+2024-12-25,Turumayo,,,,,7.2
 2024-12-25,Uyuni,22.2,3.0,,,
 2024-12-25,Viacha_M (GPRS),19.84,3.08,95.6,23.86,
 2024-12-25,Vila Vila - SDC (GPRS),11.08,11.08,76.25,76.25,0.4
@@ -69411,6 +69872,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-25,Yesera Norte,17.0,12.0,,,
 2024-12-25,Yesera Sur,20.0,13.0,,,
 2024-12-25,Yocalla,26.2,10.1,,,
+2024-12-25,Yotala,,,,,5.5
 2024-12-25,Zudañez,,,,,14.2
 2024-12-25,Ñoquejza,19.0,6.0,,,
 2024-12-26, Paniagua_M (GPRS),,,,,30.6
@@ -69460,8 +69922,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-26,El Tejar (Tarija),25.9,10.7,,,
 2024-12-26,El Villar,20.0,18.0,,,
 2024-12-26,Guajara-Mirim - Guayaramerín,,,,,3.2
+2024-12-26,Hichucota,15.0,1.0,,,
 2024-12-26,Huarisuyo (GPRS),8.32,5.19,89.2,84.8,
 2024-12-26,Huayllamarca,21.3,6.1,,,
+2024-12-26,Huayrocondo,20.2,-0.8,,,
 2024-12-26,Incapampa - Coroico_M (GPRS),,,,,7.4
 2024-12-26,Isla Suriqui_M (GPRS),18.63,4.16,89.6,17.18,
 2024-12-26,Ixiamas S.(GPRS),,,,,35.8
@@ -69521,6 +69985,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-26,Santiago de Machaca,,,,,5.5
 2024-12-26,Sara Ana,,,,,2.0
 2024-12-26,Sarco,34.4,11.7,,,
+2024-12-26,Sauce Pilapata - SDC (GPRS),11.45,11.45,73.62,73.62,
 2024-12-26,Sauce Pilata - SDC (GPRS),11.45,11.45,73.62,73.62,
 2024-12-26,Sella Quebrada,23.0,7.5,,,
 2024-12-26,Sopachuy,23.5,8.0,,,
@@ -69584,6 +70049,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-27,Colomi,15.0,6.0,,,
 2024-12-27,Colquechaca_Potosí,19.7,4.3,,,
 2024-12-27,Concepcion,32.0,16.0,99.1,45.8,
+2024-12-27,Coripata,29.0,15.0,,,
 2024-12-27,Coroico_H (GPRS),,,,,0.1
 2024-12-27,Cotagaita Mosoj Llajta,27.0,9.0,,,
 2024-12-27,Cristal Mayu,30.0,23.0,,,
@@ -69594,8 +70060,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-27,El Belen,18.0,,,,
 2024-12-27,El Tejar (Tarija),29.6,12.4,,,
 2024-12-27,El Villar,21.5,10.5,,,
+2024-12-27,Hichucota,16.0,2.0,,,
 2024-12-27,Huarisuyo (GPRS),9.52,7.74,78.09,69.14,
 2024-12-27,Huayllamarca,22.0,7.1,,,
+2024-12-27,Huayrocondo,20.3,-0.1,,,
 2024-12-27,Isla Suriqui_M (GPRS),18.29,5.14,81.0,32.2,
 2024-12-27,Jesús de Machaca_M (GPRS),20.35,-0.44,87.2,14.08,
 2024-12-27,Jihuacuta,,,,,1.0
@@ -69645,6 +70113,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-27,Santa Ana - Yacuma,26.0,26.0,77.9,77.9,
 2024-12-27,Santiago de Machaca,,,,,11.0
 2024-12-27,Sarco,32.2,14.4,,,
+2024-12-27,Sauce Pilapata - SDC (GPRS),21.17,9.94,96.5,50.28,
 2024-12-27,Sauce Pilata - SDC (GPRS),21.17,9.94,96.5,50.28,
 2024-12-27,Sella Quebrada,26.0,9.0,,,
 2024-12-27,Sopachuy,27.5,12.0,,,
@@ -69709,6 +70178,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-28,Colomi,14.0,4.0,,,
 2024-12-28,Colquechaca_Potosí,,,,,1.0
 2024-12-28,Concepcion,32.0,18.0,87.3,55.1,
+2024-12-28,Coripata,28.5,17.0,,,
 2024-12-28,Cotagaita Mosoj Llajta,26.0,15.0,,,
 2024-12-28,Cristal Mayu,32.0,22.0,,,
 2024-12-28,Cuatro Cañadas - CEA-2 (GPRS),25.99,25.99,69.43,69.43,
@@ -69717,8 +70187,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-28,Desaguadero_M,17.62,9.0,72.33,34.0,
 2024-12-28,El Belen,16.0,,,,
 2024-12-28,El Villar,25.0,12.5,,,
+2024-12-28,Hichucota,15.0,3.0,,,
 2024-12-28,Huarisuyo (GPRS),9.17,5.89,86.1,75.17,
 2024-12-28,Huayllamarca,20.1,7.0,,,
+2024-12-28,Huayrocondo,19.2,-0.2,,,
 2024-12-28,Isla Suriqui_M (GPRS),18.3,6.66,76.25,35.82,
 2024-12-28,Jesús de Machaca_M (GPRS),19.49,0.6,88.8,22.65,
 2024-12-28,Juntas,,,,,4.8
@@ -69766,6 +70238,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-28,Santiago de Machaca,,,,,4.5
 2024-12-28,Santivañez,,,,,6.6
 2024-12-28,Sarco,32.2,15.5,,,
+2024-12-28,Sauce Pilapata - SDC (GPRS),12.05,12.05,79.74,79.74,
 2024-12-28,Sauce Pilata - SDC (GPRS),12.05,12.05,79.74,79.74,
 2024-12-28,Sella Quebrada,24.0,11.0,,,
 2024-12-28,Sopachuy,26.0,12.0,,,
@@ -69832,6 +70305,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-29,Colomi,,,,,2.5
 2024-12-29,Colquechaca_Potosí,,,,,2.1
 2024-12-29,Concepcion,32.0,19.0,93.1,51.8,
+2024-12-29,Coripata,25.5,16.0,,,
 2024-12-29,Coroico_H (GPRS),,,,,4.1
 2024-12-29,Cotagaita Mosoj Llajta,27.0,14.0,,,
 2024-12-29,Cristal Mayu,32.0,23.0,,,
@@ -69847,6 +70321,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-29,Huancane Corapata_M (GPRS),,,,,0.1
 2024-12-29,Huarisuyo (GPRS),7.19,7.19,80.4,80.4,0.5
 2024-12-29,Huayllamarca,19.2,8.0,,,
+2024-12-29,Huayrocondo,19.0,2.0,,,
 2024-12-29,Incapampa - Coroico_M (GPRS),,,,,1.7
 2024-12-29,Isla Suriqui_M (GPRS),17.31,6.45,75.13,34.38,
 2024-12-29,Jesús de Machaca_M (GPRS),19.75,3.39,82.4,24.86,
@@ -69897,6 +70372,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-29,Santa Ana - Yacuma,25.0,25.0,87.9,87.9,
 2024-12-29,Santiago de Machaca,,,,,3.5
 2024-12-29,Sarco,,,,,6.4
+2024-12-29,Sauce Pilapata - SDC (GPRS),20.78,10.26,94.4,46.59,
 2024-12-29,Sauce Pilata - SDC (GPRS),20.78,10.26,94.4,46.59,
 2024-12-29,Sella Quebrada,26.0,10.0,,,
 2024-12-29,Sopachuy,26.5,14.0,,,
@@ -69907,6 +70383,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-29,Talula_Tako Tako,21.0,12.0,,,
 2024-12-29,Tarabuco,17.4,8.5,,,
 2024-12-29,Tarapaya,24.9,8.0,,,6.5
+2024-12-29,Tarata,,,,,8.5
 2024-12-29,Tarija,27.0,15.0,87.1,34.2,
 2024-12-29,Templo (GPRS),4.8,4.8,90.9,90.9,8.1
 2024-12-29,Temporal - SDC (GPRS),24.59,12.12,75.73,0.02,24.4
@@ -69961,6 +70438,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-30,Colomi,13.0,7.0,,,
 2024-12-30,Colquechaca_Potosí,,,,,6.0
 2024-12-30,Concepcion,33.0,19.0,93.1,46.0,
+2024-12-30,Coripata,30.0,15.5,,,
 2024-12-30,Coroico_H (GPRS),,,,,0.1
 2024-12-30,Cotagaita Mosoj Llajta,28.0,12.0,,,
 2024-12-30,Cristal Mayu,33.0,22.0,,,
@@ -69971,8 +70449,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-30,El Belen,17.0,,,,
 2024-12-30,El Tejar (Tarija),27.9,13.4,,,
 2024-12-30,El Villar,26.0,16.0,,,
+2024-12-30,Hichucota,15.0,4.0,,,
 2024-12-30,Huarisuyo (GPRS),12.15,7.6,75.61,38.11,
 2024-12-30,Huayllamarca,19.2,8.2,,,
+2024-12-30,Huayrocondo,18.8,1.3,,,
 2024-12-30,Isla Suriqui_M (GPRS),18.36,7.45,77.28,21.87,
 2024-12-30,Jesús de Machaca_M (GPRS),20.78,-0.87,85.7,16.33,
 2024-12-30,Juntas,,,,,1.9
@@ -70024,6 +70504,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-30,Santa Ana - Yacuma,27.0,27.0,78.1,78.1,
 2024-12-30,Santiago de Machaca,,,,,8.6
 2024-12-30,Sarco,32.2,13.7,,,
+2024-12-30,Sauce Pilapata - SDC (GPRS),14.09,14.09,72.41,72.41,
 2024-12-30,Sauce Pilata - SDC (GPRS),14.09,14.09,72.41,72.41,
 2024-12-30,Sella Quebrada,25.5,11.5,,,
 2024-12-30,Sopachuy,27.5,14.5,,,
@@ -70088,6 +70569,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-31,Colomi,13.0,7.0,,,
 2024-12-31,Colquechaca_Potosí,18.2,4.2,,,
 2024-12-31,Concepcion,34.0,22.0,99.1,49.2,
+2024-12-31,Coripata,30.5,17.5,,,
 2024-12-31,Cotagaita Mosoj Llajta,30.0,13.0,,,
 2024-12-31,Cristal Mayu,34.0,24.0,,,
 2024-12-31,Cuatro Cañadas - CEA-2 (GPRS),28.82,28.82,69.06,69.06,
@@ -70100,8 +70582,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-31,Emborozu,,,,,25.5
 2024-12-31,Entre Rios (TJA),,,,,1.0
 2024-12-31,Guajara-Mirim - Guayaramerín,,,,,17.6
+2024-12-31,Hichucota,16.0,3.0,,,
 2024-12-31,Huarisuyo (GPRS),4.01,4.01,81.6,81.6,
 2024-12-31,Huayllamarca,18.2,7.3,,,0.4
+2024-12-31,Huayrocondo,19.6,-0.1,,,
 2024-12-31,Isla Suriqui_M (GPRS),18.23,7.74,84.1,34.56,
 2024-12-31,Jesús de Machaca_M (GPRS),20.02,1.51,76.94,20.82,
 2024-12-31,Juntas,,,,,15.4
@@ -70116,6 +70600,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-31,Mairana_M (GPRS),19.9,19.9,77.75,77.75,
 2024-12-31,Mizque - SDC (GPRS),18.76,18.76,63.43,63.43,
 2024-12-31,Mojo,25.0,10.1,,,
+2024-12-31,Narvaez,,,,,5.0
 2024-12-31,Omereque - SDC (GPRS),22.07,18.29,72.82,60.9,
 2024-12-31,Oronkota PTI,31.9,19.3,,,15.6
 2024-12-31,Oruro (GPRS),22.0,7.0,75.2,28.5,
@@ -70156,6 +70641,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-31,San Roque - El Alto (GPRS),19.24,4.31,89.4,29.48,
 2024-12-31,Santa Ana - Yacuma,27.0,27.0,88.0,88.0,
 2024-12-31,Sarco,31.7,15.0,,,
+2024-12-31,Sauce Pilapata - SDC (GPRS),23.13,13.03,78.38,42.97,
 2024-12-31,Sauce Pilata - SDC (GPRS),23.13,13.03,78.38,42.97,
 2024-12-31,Saykan Perulas,,,,,15.8
 2024-12-31,Sella Quebrada,28.5,12.5,,,
@@ -70174,6 +70660,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-31,Toma Ravelo_M (GPRS),,,,,0.1
 2024-12-31,Tomave,24.4,1.8,,,
 2024-12-31,Tupiza,28.2,11.6,,,
+2024-12-31,Turumayo,,,,,8.7
 2024-12-31,Uyuni,24.0,4.5,,,
 2024-12-31,Viacha_M (GPRS),19.59,1.77,95.9,27.12,
 2024-12-31,Vila Vila - SDC (GPRS),18.49,18.49,60.66,60.66,
