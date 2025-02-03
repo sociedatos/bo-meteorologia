@@ -44162,6 +44162,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-01,Tinguipaya,24.3,1.2,,,
 2024-08-01,Tiraque,21.0,2.0,,,
 2024-08-01,Tiraque_M (GPRS),17.87,8.45,39.15,18.17,
+2024-08-01,Todos Santos_Or,,-7.5,,,
 2024-08-01,Tomave,17.0,1.5,,,
 2024-08-01,Trancas,34.0,13.0,,,
 2024-08-01,Tucumillas,28.0,10.0,,,
@@ -44330,6 +44331,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-02,Tinguipaya,22.4,2.3,,,
 2024-08-02,Tiraque,26.0,2.0,,,
 2024-08-02,Tiraque_M (GPRS),17.84,6.87,39.31,16.39,
+2024-08-02,Todos Santos_Or,,-7.0,,,
 2024-08-02,Tomave,16.0,1.5,,,
 2024-08-02,Trancas,36.0,18.0,,,
 2024-08-02,Tucumillas,26.5,9.0,,,
@@ -44494,6 +44496,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-03,Tinguipaya,23.2,1.3,,,
 2024-08-03,Tiraque,22.0,3.0,,,
 2024-08-03,Tiraque_M (GPRS),19.03,6.73,24.57,7.26,
+2024-08-03,Todos Santos_Or,,-9.0,,,
 2024-08-03,Tomave,19.2,1.0,,,
 2024-08-03,Trancas,32.0,10.0,,,
 2024-08-03,Tucumillas,27.0,8.0,,,
@@ -44658,6 +44661,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-04,Tinguipaya,22.1,2.4,,,
 2024-08-04,Tiraque,24.0,3.0,,,
 2024-08-04,Tiraque_M (GPRS),15.26,7.18,64.28,41.3,
+2024-08-04,Todos Santos_Or,,-5.5,,,
 2024-08-04,Tomave,19.0,-4.5,,,
 2024-08-04,Trancas,29.0,8.0,,,
 2024-08-04,Tucumillas,29.0,10.5,,,
@@ -44844,6 +44848,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-05,Tinguipaya,21.3,1.4,,,
 2024-08-05,Tiraque,21.0,2.0,,,
 2024-08-05,Tiraque_M (GPRS),15.42,8.44,62.83,41.93,
+2024-08-05,Todos Santos_Or,,-9.5,,,
 2024-08-05,Tomave,17.1,-6.0,,,
 2024-08-05,Trancas,31.0,5.0,,,
 2024-08-05,Tucumillas,24.0,11.0,,,
@@ -45030,6 +45035,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-06,Tinguipaya,23.2,2.2,,,
 2024-08-06,Tiraque,20.0,2.0,,,
 2024-08-06,Tiraque_M (GPRS),14.9,7.67,71.52,39.93,
+2024-08-06,Todos Santos_Or,,-6.0,,,
 2024-08-06,Tomave,15.0,-5.0,,,
 2024-08-06,Trancas,28.0,8.0,,,
 2024-08-06,Tucumillas,26.0,10.0,,,
@@ -45209,6 +45215,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-07,Tinguipaya,21.4,1.3,,,
 2024-08-07,Tiraque,21.0,4.0,,,
 2024-08-07,Tiraque_M (GPRS),15.14,7.36,50.41,24.67,
+2024-08-07,Todos Santos_Or,,-8.0,,,
 2024-08-07,Tomave,13.7,1.5,,,
 2024-08-07,Trancas,28.0,12.0,,,
 2024-08-07,Tucumillas,20.0,7.0,,,
@@ -45394,6 +45401,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-08,Tinguipaya,22.3,1.2,,,
 2024-08-08,Tiraque,19.0,2.0,,,
 2024-08-08,Tiraque_M (GPRS),15.45,5.65,43.56,23.24,
+2024-08-08,Todos Santos_Or,,-9.5,,,
 2024-08-08,Tomave,13.0,-3.5,,,
 2024-08-08,Trancas,19.0,7.0,,,
 2024-08-08,Tucumillas,22.0,5.0,,,
@@ -45593,6 +45601,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-09,Tinguipaya,21.2,-1.2,,,
 2024-08-09,Tiraque,24.0,3.0,,,
 2024-08-09,Tiraque_M (GPRS),15.81,7.05,52.27,22.91,
+2024-08-09,Todos Santos_Or,,-9.0,,,
 2024-08-09,Tomave,13.9,-10.2,,,
 2024-08-09,Trancas,15.0,3.0,,,
 2024-08-09,Tucumillas,18.0,-4.0,,,
@@ -45753,6 +45762,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-10,Tinguipaya,18.3,-3.4,,,
 2024-08-10,Tiraque,21.0,0.0,,,
 2024-08-10,Tiraque_M (GPRS),16.06,2.35,66.68,27.73,
+2024-08-10,Todos Santos_Or,,-12.0,,,
 2024-08-10,Tomave,14.5,-8.0,,,
 2024-08-10,Trancas,27.0,-5.0,,,
 2024-08-10,Tucumillas,19.0,-3.0,,,
@@ -45910,6 +45920,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-11,Tinguipaya,16.4,-2.3,,,
 2024-08-11,Tiraque,24.0,3.0,,,
 2024-08-11,Tiraque_M (GPRS),15.45,5.29,39.29,4.72,
+2024-08-11,Todos Santos_Or,,-10.5,,,
 2024-08-11,Tomave,16.0,-2.0,,,
 2024-08-11,Trancas,27.0,-3.0,,,
 2024-08-11,Tucumillas,19.5,-5.0,,,
@@ -46074,6 +46085,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-12,Tinguipaya,19.1,-1.4,,,
 2024-08-12,Tiraque,25.0,2.0,,,
 2024-08-12,Tiraque_M (GPRS),14.62,5.29,46.2,33.01,
+2024-08-12,Todos Santos_Or,,-11.5,,,
 2024-08-12,Tomave,18.5,-9.5,,,
 2024-08-12,Trancas,21.0,-3.0,,,
 2024-08-12,Tucumillas,21.0,-2.0,,,
@@ -46238,6 +46250,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-13,Tinguipaya,18.2,-1.3,,,
 2024-08-13,Tiraque,26.0,2.0,,,
 2024-08-13,Tiraque_M (GPRS),13.58,5.77,63.1,35.94,
+2024-08-13,Todos Santos_Or,,-9.5,,,
 2024-08-13,Tomave,17.0,-7.5,,,
 2024-08-13,Trancas,27.0,-2.0,,,
 2024-08-13,Tucumillas,23.0,0.0,,,
@@ -46403,6 +46416,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-14,Tinguipaya,21.3,2.1,,,
 2024-08-14,Tiraque,25.0,1.0,,,
 2024-08-14,Tiraque_M (GPRS),19.68,4.39,54.87,8.56,
+2024-08-14,Todos Santos_Or,,-8.0,,,
 2024-08-14,Tomave,17.0,3.5,,,
 2024-08-14,Trancas,31.0,-1.0,,,
 2024-08-14,Tucumillas,23.5,1.0,,,
@@ -46573,6 +46587,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-15,Tinguipaya,25.2,2.3,,,
 2024-08-15,Tiraque,23.0,3.0,,,
 2024-08-15,Tiraque_M (GPRS),21.12,4.24,55.44,12.99,
+2024-08-15,Todos Santos_Or,,-6.0,,,
 2024-08-15,Tomave,22.0,-1.0,,,
 2024-08-15,Trancas,33.0,3.0,,,
 2024-08-15,Tucumillas,24.0,5.0,,,
@@ -46745,6 +46760,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-16,Tinguipaya,24.3,2.1,,,
 2024-08-16,Tiraque,21.0,2.0,,,
 2024-08-16,Tiraque_M (GPRS),18.2,3.16,72.84,9.13,
+2024-08-16,Todos Santos_Or,,-4.5,,,
 2024-08-16,Tomave,21.6,-2.0,,,
 2024-08-16,Trancas,29.0,2.0,,,
 2024-08-16,Tucumillas,27.0,8.0,,,
@@ -46914,6 +46930,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-17,Tinguipaya,23.2,2.3,,,
 2024-08-17,Tiraque,20.0,2.0,,,
 2024-08-17,Tiraque_M (GPRS),16.85,7.93,28.24,11.02,
+2024-08-17,Todos Santos_Or,,-5.0,,,
 2024-08-17,Tomave,21.0,-2.5,,,
 2024-08-17,Trancas,25.0,7.0,,,
 2024-08-17,Tucumillas,25.0,12.5,,,
@@ -47081,6 +47098,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-18,Tinguipaya,24.3,3.4,,,
 2024-08-18,Tiraque,25.0,3.0,,,
 2024-08-18,Tiraque_M (GPRS),18.77,8.1,29.84,14.07,
+2024-08-18,Todos Santos_Or,,-3.5,,,
 2024-08-18,Tomave,22.6,-1.5,,,
 2024-08-18,Trancas,35.0,8.0,,,
 2024-08-18,Tucumillas,26.0,11.0,,,
@@ -47245,6 +47263,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-19,Tinguipaya,23.1,4.2,,,
 2024-08-19,Tiraque,24.0,2.0,,,
 2024-08-19,Tiraque_M (GPRS),18.39,8.48,59.1,32.26,
+2024-08-19,Todos Santos_Or,,-6.5,,,
 2024-08-19,Tomave,22.0,-2.5,,,
 2024-08-19,Trancas,30.0,8.0,,,
 2024-08-19,Tucumillas,22.0,11.0,,,
@@ -47416,6 +47435,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-20,Tinguipaya,24.2,5.2,,,
 2024-08-20,Tiraque,21.0,2.0,,,
 2024-08-20,Tiraque_M (GPRS),15.22,9.54,60.78,40.56,
+2024-08-20,Todos Santos_Or,,-4.0,,,
 2024-08-20,Tomave,19.1,-1.5,,,
 2024-08-20,Trancas,27.0,9.0,,,
 2024-08-20,Tucumillas,28.0,13.0,,,
@@ -47593,6 +47613,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-21,Tinguipaya,21.3,4.3,,,
 2024-08-21,Tiraque,23.0,1.0,,,
 2024-08-21,Tiraque_M (GPRS),16.88,9.47,61.79,36.74,
+2024-08-21,Todos Santos_Or,,-3.0,,,
 2024-08-21,Tomave,18.0,3.0,,,
 2024-08-21,Trancas,32.0,8.0,,,
 2024-08-21,Tucumillas,29.0,12.0,,,
@@ -47770,6 +47791,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-22,Tinguipaya,21.2,4.2,,,
 2024-08-22,Tiraque,25.0,3.0,,,
 2024-08-22,Tiraque_M (GPRS),18.39,11.44,57.29,37.65,0.4
+2024-08-22,Todos Santos_Or,,-4.5,,,
 2024-08-22,Tomave,17.1,4.0,,,
 2024-08-22,Trancas,28.0,5.0,,,
 2024-08-22,Tucumillas,27.0,10.0,,,
@@ -47948,6 +47970,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-23,Tinguipaya,21.4,3.1,,,
 2024-08-23,Tiraque,21.0,4.0,,,
 2024-08-23,Tiraque_M (GPRS),17.62,10.4,58.86,34.92,
+2024-08-23,Todos Santos_Or,,-2.5,,,
 2024-08-23,Tomave,16.0,2.0,,,
 2024-08-23,Trancas,32.0,4.0,,,
 2024-08-23,Tucumillas,28.0,11.0,,,
@@ -48127,6 +48150,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-24,Tinguipaya,24.1,4.2,,,
 2024-08-24,Tiraque,23.0,3.0,,,
 2024-08-24,Tiraque_M (GPRS),17.05,9.5,58.26,40.82,
+2024-08-24,Todos Santos_Or,,-5.0,,,
 2024-08-24,Tomave,22.0,3.0,,,
 2024-08-24,Trancas,25.0,6.0,,,
 2024-08-24,Tucumillas,21.0,9.0,,,
@@ -48302,6 +48326,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-25,Tinguipaya,25.2,6.1,,,
 2024-08-25,Tiraque,25.0,4.0,,,
 2024-08-25,Tiraque_M (GPRS),17.69,9.28,67.45,31.37,
+2024-08-25,Todos Santos_Or,,-2.0,,,
 2024-08-25,Tomave,22.5,6.1,,,
 2024-08-25,Trancas,16.0,2.0,,,
 2024-08-25,Tucumillas,18.0,-2.0,,,
@@ -48470,6 +48495,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-26,Tinguipaya,24.3,5.4,,,
 2024-08-26,Tiraque,27.0,3.0,,,
 2024-08-26,Tiraque_M (GPRS),19.97,8.98,66.75,30.02,
+2024-08-26,Todos Santos_Or,,-3.0,,,
 2024-08-26,Tomave,23.0,-7.0,,,
 2024-08-26,Trancas,25.0,2.0,,,
 2024-08-26,Tucumillas,16.0,-4.0,,,
@@ -48636,6 +48662,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-27,Tinguipaya,23.1,4.3,,,
 2024-08-27,Tiraque,24.0,0.0,,,
 2024-08-27,Tiraque_M (GPRS),18.11,7.39,45.94,31.03,
+2024-08-27,Todos Santos_Or,,-1.5,,,
 2024-08-27,Tomave,21.5,-6.1,,,
 2024-08-27,Trancas,20.0,4.0,,,
 2024-08-27,Tucumillas,17.0,2.0,,,
@@ -48802,6 +48829,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-28,Tinguipaya,26.2,5.2,,,
 2024-08-28,Tiraque,25.0,1.0,,,
 2024-08-28,Tiraque_M (GPRS),19.82,6.53,58.85,6.28,
+2024-08-28,Todos Santos_Or,,-7.0,,,
 2024-08-28,Tomave,21.6,0.5,,,
 2024-08-28,Trancas,27.0,3.0,,,
 2024-08-28,Tucumillas,19.0,1.0,,,
@@ -48974,6 +49002,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-29,Tinguipaya,25.3,6.3,,,
 2024-08-29,Tiraque,20.0,2.0,,,
 2024-08-29,Tiraque_M (GPRS),16.81,6.28,56.06,20.71,
+2024-08-29,Todos Santos_Or,,-5.0,,,
 2024-08-29,Tomave,22.5,0.6,,,
 2024-08-29,Trancas,25.0,5.0,,,
 2024-08-29,Tucumillas,21.0,2.0,,,
@@ -49143,6 +49172,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-30,Tinguipaya,22.2,4.2,,,
 2024-08-30,Tiraque,22.0,3.0,,,
 2024-08-30,Tiraque_M (GPRS),14.42,6.66,58.0,29.44,
+2024-08-30,Todos Santos_Or,,-2.5,,,
 2024-08-30,Tomave,19.0,2.0,,,
 2024-08-30,Trancas,31.0,7.0,,,
 2024-08-30,Tucumillas,20.5,4.0,,,
@@ -49302,6 +49332,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-31,Tinguipaya,20.2,4.3,,,
 2024-08-31,Tiraque,19.0,1.0,,,
 2024-08-31,Tiraque_M (GPRS),13.87,8.96,48.13,37.78,
+2024-08-31,Todos Santos_Or,,-4.0,,,
 2024-08-31,Tomave,19.2,-2.0,,,
 2024-08-31,Trancas,23.0,7.0,,,
 2024-08-31,Tucumillas,23.0,3.0,,,
@@ -49467,6 +49498,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-01,Tinguipaya,23.1,3.2,,,
 2024-09-01,Tiraque,23.0,2.0,,,
 2024-09-01,Tiraque_M (GPRS),12.41,4.85,68.17,32.85,
+2024-09-01,Todos Santos_Or,,-2.0,,,
 2024-09-01,Tomave,21.0,2.5,,,
 2024-09-01,Trancas,26.0,8.0,,,
 2024-09-01,Tucumillas,21.0,0.5,,,
@@ -49635,6 +49667,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-02,Tinguipaya,19.2,4.3,,,
 2024-09-02,Tiraque,25.0,3.0,,,
 2024-09-02,Tiraque_M (GPRS),16.56,8.29,56.75,36.19,
+2024-09-02,Todos Santos_Or,,-4.0,,,
 2024-09-02,Tomave,18.0,2.0,,,
 2024-09-02,Trancas,31.0,7.0,,,
 2024-09-02,Tucumillas,23.0,2.0,,,
@@ -49812,6 +49845,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-03,Tinguipaya,22.3,3.2,,,
 2024-09-03,Tiraque,26.0,3.0,,,
 2024-09-03,Tiraque_M (GPRS),19.19,10.27,53.97,17.57,
+2024-09-03,Todos Santos_Or,,-2.5,,,
 2024-09-03,Toma Ravelo_M (GPRS),,,,,1.6
 2024-09-03,Tomave,19.0,1.0,,,
 2024-09-03,Trancas,31.0,16.0,,,
@@ -49976,6 +50010,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-04,Tinguipaya,25.3,4.1,,,
 2024-09-04,Tiraque,23.0,4.0,,,
 2024-09-04,Tiraque_M (GPRS),22.04,8.83,60.42,17.02,
+2024-09-04,Todos Santos_Or,,-3.5,,,
 2024-09-04,Tomave,21.0,3.0,,,
 2024-09-04,Trancas,21.0,8.0,,,
 2024-09-04,Tucumillas,22.0,4.5,,,
@@ -50141,6 +50176,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-05,Tinguipaya,26.1,5.3,,,
 2024-09-05,Tiraque,25.0,5.0,,,
 2024-09-05,Tiraque_M (GPRS),15.75,9.68,61.76,38.35,
+2024-09-05,Todos Santos_Or,,-4.5,,,
 2024-09-05,Tomave,23.1,-4.0,,,
 2024-09-05,Trancas,24.0,8.0,,,
 2024-09-05,Tucumillas,19.5,4.0,,,
@@ -50307,6 +50343,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-06,Tinguipaya,24.2,4.2,,,
 2024-09-06,Tiraque,26.0,5.0,,,
 2024-09-06,Tiraque_M (GPRS),20.14,8.95,51.49,10.71,
+2024-09-06,Todos Santos_Or,,-8.0,,,
 2024-09-06,Tomave,24.1,-4.5,,,
 2024-09-06,Trancas,36.0,7.0,,,
 2024-09-06,Tucumillas,22.5,5.0,,,
@@ -50466,6 +50503,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-07,Tinguipaya,21.3,5.1,,,
 2024-09-07,Tiraque,24.0,2.0,,,
 2024-09-07,Tiraque_M (GPRS),19.63,10.8,38.2,19.98,
+2024-09-07,Todos Santos_Or,,-5.0,,,
 2024-09-07,Tomave,24.0,-1.0,,,
 2024-09-07,Trancas,31.0,11.0,,,
 2024-09-07,Tucumillas,20.0,8.0,,,
@@ -50623,6 +50661,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-08,Tinguipaya,23.2,4.3,,,
 2024-09-08,Tiraque,26.0,3.0,,,
 2024-09-08,Tiraque_M (GPRS),21.0,10.07,37.47,4.47,
+2024-09-08,Todos Santos_Or,,-4.0,,,
 2024-09-08,Tomave,23.7,-0.5,,,
 2024-09-08,Trancas,28.0,10.0,,,
 2024-09-08,Tucumillas,25.0,7.0,,,
@@ -50783,6 +50822,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-09,Tinguipaya,26.3,6.3,,,
 2024-09-09,Tiraque,25.0,3.0,,,
 2024-09-09,Tiraque_M (GPRS),21.39,10.78,25.63,4.79,
+2024-09-09,Todos Santos_Or,,-6.0,,,
 2024-09-09,Tomave,23.5,3.0,,,
 2024-09-09,Trancas,32.0,11.0,,,
 2024-09-09,Tucumillas,24.0,8.0,,,
@@ -50947,6 +50987,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-10,Tinguipaya,25.2,5.2,,,
 2024-09-10,Tiraque,26.0,6.0,,,
 2024-09-10,Tiraque_M (GPRS),21.12,11.12,36.56,10.71,
+2024-09-10,Todos Santos_Or,,-3.5,,,
 2024-09-10,Toma Ravelo_M (GPRS),,,,,0.1
 2024-09-10,Tomave,24.0,3.5,,,
 2024-09-10,Trancas,33.0,11.0,,,
@@ -51109,6 +51150,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-11,Tinguipaya,22.3,6.1,,,
 2024-09-11,Tiraque,28.0,6.0,,,
 2024-09-11,Tiraque_M (GPRS),22.24,11.15,36.61,15.87,
+2024-09-11,Todos Santos_Or,,-5.5,,,
 2024-09-11,Tomave,21.0,5.0,,,
 2024-09-11,Trancas,36.0,17.0,,,
 2024-09-11,Tucumillas,26.0,10.5,,,
@@ -51281,6 +51323,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-12,Tinguipaya,23.1,7.2,,,
 2024-09-12,Tiraque,21.0,5.0,,,
 2024-09-12,Tiraque_M (GPRS),16.41,11.25,58.33,33.21,
+2024-09-12,Todos Santos_Or,,-4.5,,,
 2024-09-12,Tomave,21.2,2.1,,,
 2024-09-12,Trancas,26.0,7.0,,,
 2024-09-12,Tucumillas,29.0,11.0,,,
@@ -51385,6 +51428,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-13,Llallagua,18.0,4.2,,,
 2024-09-13,Magdalena,38.0,29.0,69.5,39.2,
 2024-09-13,Mairana_M (GPRS),29.05,23.73,64.96,47.96,
+2024-09-13,Minero (Unagro),,,,,41.8
 2024-09-13,Mizque - SDC (GPRS),27.57,14.07,62.12,24.29,
 2024-09-13,Mojo,22.1,0.2,,,
 2024-09-13,Molle Molle,22.2,14.4,,,
@@ -51458,6 +51502,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-13,Tinguipaya,24.2,6.3,,,
 2024-09-13,Tiraque,24.0,7.0,,,
 2024-09-13,Tiraque_M (GPRS),20.04,11.57,58.14,32.63,
+2024-09-13,Todos Santos_Or,,-3.0,,,
 2024-09-13,Tomave,19.2,1.5,,,
 2024-09-13,Trancas,36.0,8.0,,,
 2024-09-13,Tucumillas,28.0,12.0,,,
@@ -51567,6 +51612,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-14,Llallagua,18.2,3.2,,,
 2024-09-14,Mairana_M (GPRS),20.18,18.38,70.31,61.04,0.2
 2024-09-14,Mataral,,,,,10.3
+2024-09-14,Minero (Unagro),,,,,96.0
 2024-09-14,Mizque - SDC (GPRS),22.74,17.77,69.56,49.76,
 2024-09-14,Mojo,21.0,-1.0,,,
 2024-09-14,Molle Molle,20.0,12.2,,,
@@ -51640,6 +51686,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-14,Tinguipaya,23.2,5.2,,,
 2024-09-14,Tiraque,26.0,7.0,,,
 2024-09-14,Tiraque_M (GPRS),17.33,11.18,61.28,42.29,
+2024-09-14,Todos Santos_Or,,-5.0,,,
 2024-09-14,Tomave,20.0,0.5,,,
 2024-09-14,Trancas,15.0,10.0,,,
 2024-09-14,Tucumillas,18.5,7.0,,,
@@ -51763,6 +51810,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-15,Mairana_M (GPRS),16.6,13.09,94.8,71.97,2.2
 2024-09-15,Mecapaca,,,,,1.5
 2024-09-15,Mecapaca_M (GPRS),,,,,2.1
+2024-09-15,Minero (Unagro),,,,,0.2
 2024-09-15,Mizque - SDC (GPRS),16.04,10.32,94.0,65.31,17.1
 2024-09-15,Mojo,19.0,-2.0,,,
 2024-09-15,Molle Molle,21.7,8.9,,,
@@ -51849,6 +51897,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-15,Tinguipaya,22.3,4.2,,,
 2024-09-15,Tiraque,25.0,6.0,,,
 2024-09-15,Tiraque_M (GPRS),17.43,10.07,77.04,37.6,0.1
+2024-09-15,Todos Santos_Or,,-6.0,,,
 2024-09-15,Toma Ravelo_M (GPRS),,,,,1.2
 2024-09-15,Tomave,18.0,1.5,,,
 2024-09-15,Trancas,25.0,8.0,,,
@@ -52033,6 +52082,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-16,Tinguipaya,22.1,4.3,,,
 2024-09-16,Tiraque,21.0,5.0,,,
 2024-09-16,Tiraque_M (GPRS),16.44,10.69,61.48,42.83,
+2024-09-16,Todos Santos_Or,,-7.0,,,
 2024-09-16,Tomave,22.0,-5.0,,,
 2024-09-16,Trancas,21.0,7.0,,,
 2024-09-16,Tucumillas,19.0,5.0,,,8.0
@@ -52215,6 +52265,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-17,Tinguipaya,23.0,3.4,,,
 2024-09-17,Tiraque,23.0,5.0,,,
 2024-09-17,Tiraque_M (GPRS),18.55,10.44,63.72,33.26,
+2024-09-17,Todos Santos_Or,,-5.0,,,
 2024-09-17,Toma Ravelo_M (GPRS),,,,,0.4
 2024-09-17,Tomave,18.4,-4.1,,,
 2024-09-17,Trancas,36.0,5.0,,,
@@ -52384,6 +52435,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-18,Tinguipaya,24.3,3.2,,,
 2024-09-18,Tiraque,25.0,6.0,,,
 2024-09-18,Tiraque_M (GPRS),18.73,11.88,58.2,38.91,
+2024-09-18,Todos Santos_Or,,-6.5,,,
 2024-09-18,Tomave,23.0,-4.5,,,
 2024-09-18,Trancas,36.0,11.0,,,
 2024-09-18,Tucumillas,21.0,6.0,,,
@@ -52567,6 +52619,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-19,Tinguipaya,25.1,4.2,,,
 2024-09-19,Tiraque,24.0,5.0,,,
 2024-09-19,Tiraque_M (GPRS),18.72,12.67,54.71,39.47,
+2024-09-19,Todos Santos_Or,,-7.5,,,
 2024-09-19,Toma Ravelo_M (GPRS),,,,,0.7
 2024-09-19,Tomave,22.0,-3.5,,,
 2024-09-19,Trancas,37.0,20.0,,,
@@ -52737,6 +52790,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-20,Tinguipaya,25.2,3.2,,,
 2024-09-20,Tiraque,23.0,6.0,,,
 2024-09-20,Tiraque_M (GPRS),20.61,11.24,51.1,21.01,
+2024-09-20,Todos Santos_Or,,-5.0,,,
 2024-09-20,Tomave,23.1,-4.0,,,
 2024-09-20,Trancas,30.0,18.0,,,
 2024-09-20,Tucumillas,21.0,8.0,,,
@@ -52899,6 +52953,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-21,Tinguipaya,26.2,7.1,,,
 2024-09-21,Tiraque,26.0,7.0,,,
 2024-09-21,Tiraque_M (GPRS),18.49,12.16,61.66,35.76,
+2024-09-21,Todos Santos_Or,,-3.5,,,
 2024-09-21,Tomave,23.5,-3.5,,,
 2024-09-21,Trancas,34.0,18.0,,,
 2024-09-21,Tucumillas,23.5,9.0,,,
@@ -53059,6 +53114,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-22,Tinguipaya,25.4,7.2,,,
 2024-09-22,Tiraque,24.0,7.0,,,
 2024-09-22,Tiraque_M (GPRS),21.97,11.26,53.95,15.88,
+2024-09-22,Todos Santos_Or,,-1.0,,,
 2024-09-22,Toma Ravelo_M (GPRS),,,,,0.3
 2024-09-22,Tomave,24.0,-2.5,,,
 2024-09-22,Trancas,37.0,16.0,,,
@@ -53223,6 +53279,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-23,Tinguipaya,26.1,6.4,,,
 2024-09-23,Tiraque,25.0,8.0,,,
 2024-09-23,Tiraque_M (GPRS),19.7,12.5,55.33,37.32,
+2024-09-23,Todos Santos_Or,,-2.5,,,
 2024-09-23,Toma Ravelo_M (GPRS),,,,,0.2
 2024-09-23,Tomave,24.2,2.5,,,
 2024-09-23,Trancas,35.0,21.0,,,
@@ -53393,6 +53450,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-24,Tinguipaya,25.4,7.0,,,
 2024-09-24,Tiraque,23.0,6.0,,,
 2024-09-24,Tiraque_M (GPRS),20.15,11.5,62.51,33.5,
+2024-09-24,Todos Santos_Or,,-1.5,,,
 2024-09-24,Toma Ravelo_M (GPRS),,,,,0.6
 2024-09-24,Tomave,24.0,2.0,,,
 2024-09-24,Trancas,35.0,16.0,,,
@@ -53560,6 +53618,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-25,Tinguipaya,25.2,8.2,,,
 2024-09-25,Tiraque,25.0,7.0,,,
 2024-09-25,Tiraque_M (GPRS),19.1,13.08,56.75,28.96,
+2024-09-25,Todos Santos_Or,,-4.0,,,
 2024-09-25,Tomave,23.0,4.0,,,
 2024-09-25,Trancas,30.0,15.0,,,
 2024-09-25,Tucumillas,28.0,12.0,,,21.0
@@ -53658,6 +53717,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-26,Llallagua,20.0,4.1,,,
 2024-09-26,Magdalena,32.0,26.0,82.8,58.5,
 2024-09-26,Mairana_M (GPRS),27.15,21.37,66.71,53.3,
+2024-09-26,Minero (Unagro),,,,,30.2
 2024-09-26,Mizque - SDC (GPRS),23.33,17.11,60.87,40.87,
 2024-09-26,Mojo,20.0,4.0,,,
 2024-09-26,Molle Molle,22.2,13.9,,,
@@ -53732,6 +53792,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-26,Tinguipaya,24.3,6.2,,,
 2024-09-26,Tiraque,27.0,7.0,,,
 2024-09-26,Tiraque_M (GPRS),15.56,12.42,64.33,45.99,
+2024-09-26,Todos Santos_Or,,-2.0,,,
 2024-09-26,Tomave,22.5,2.5,,,
 2024-09-26,Trancas,15.0,10.0,,,
 2024-09-26,Tucumillas,29.0,8.0,,,2.0
@@ -53921,6 +53982,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-27,Tinguipaya,24.2,6.1,,,
 2024-09-27,Tiraque,28.0,8.0,,,
 2024-09-27,Tiraque_M (GPRS),17.86,11.37,65.31,40.38,
+2024-09-27,Todos Santos_Or,,-3.5,,,
 2024-09-27,Toma Ravelo_M (GPRS),,,,,0.3
 2024-09-27,Tomave,23.0,-2.5,,,
 2024-09-27,Trancas,26.0,8.0,,,5.0
@@ -54100,6 +54162,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-28,Tinguipaya,22.1,5.2,,,
 2024-09-28,Tiraque,26.0,6.0,,,
 2024-09-28,Tiraque_M (GPRS),19.82,10.92,63.35,31.69,
+2024-09-28,Todos Santos_Or,,-2.5,,,
 2024-09-28,Tomave,24.0,-3.5,,,
 2024-09-28,Trancas,32.0,8.0,,,
 2024-09-28,Tucumillas,24.0,7.0,,,
@@ -54269,6 +54332,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-29,Tinguipaya,24.3,5.3,,,
 2024-09-29,Tiraque,27.0,8.0,,,
 2024-09-29,Tiraque_M (GPRS),18.97,11.02,65.53,30.99,
+2024-09-29,Todos Santos_Or,,-1.0,,,
 2024-09-29,Toma Ravelo_M (GPRS),,,,,5.3
 2024-09-29,Tomave,23.2,-3.4,,,
 2024-09-29,Trancas,33.0,15.0,,,
@@ -54439,6 +54503,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-30,Tinguipaya,26.2,6.2,,,
 2024-09-30,Tiraque,28.0,8.0,,,
 2024-09-30,Tiraque_M (GPRS),19.84,11.89,58.13,27.93,
+2024-09-30,Todos Santos_Or,,0.0,,,
 2024-09-30,Tomave,24.0,2.0,,,
 2024-09-30,Trancas,38.0,20.0,,,
 2024-09-30,Tucumillas,22.0,8.0,,,
@@ -54597,6 +54662,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-01,Tinguipaya,26.2,6.3,,,
 2024-10-01,Tiraque,28.0,7.0,,,
 2024-10-01,Tiraque_M (GPRS),22.49,12.65,59.7,21.02,
+2024-10-01,Todos Santos_Or,,-4.0,,,
 2024-10-01,Tomave,24.0,-2.0,,,
 2024-10-01,Trancas,36.0,15.0,,,
 2024-10-01,Tucumillas,27.0,9.0,,,
@@ -54759,6 +54825,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-02,Tinguipaya,25.1,7.2,,,
 2024-10-02,Tiraque,26.0,8.0,,,
 2024-10-02,Tiraque_M (GPRS),22.62,12.56,63.56,25.63,
+2024-10-02,Todos Santos_Or,,-3.0,,,
 2024-10-02,Tomave,24.6,-1.5,,,
 2024-10-02,Trancas,29.0,14.0,,,
 2024-10-02,Tucumillas,31.0,11.0,,,
@@ -54934,6 +55001,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-03,Tinguipaya,24.2,7.1,,,
 2024-10-03,Tiraque,24.0,7.0,,,
 2024-10-03,Tiraque_M (GPRS),17.14,12.01,71.44,48.32,
+2024-10-03,Todos Santos_Or,,0.0,,,
 2024-10-03,Toma Ravelo_M (GPRS),,,,,0.4
 2024-10-03,Tomave,24.0,3.0,,,
 2024-10-03,Trancas,27.0,10.0,,,
@@ -55111,6 +55179,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-04,Tinguipaya,23.4,6.3,,,
 2024-10-04,Tiraque,26.0,8.0,,,
 2024-10-04,Tiraque_M (GPRS),19.24,13.44,53.9,31.97,
+2024-10-04,Todos Santos_Or,,1.0,,,
 2024-10-04,Tomave,24.1,2.2,,,
 2024-10-04,Trancas,32.0,12.0,,,
 2024-10-04,Tucumillas,26.0,11.0,,,
@@ -55266,6 +55335,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-05,Tinguipaya,24.3,6.2,,,
 2024-10-05,Tiraque,25.0,7.0,,,
 2024-10-05,Tiraque_M (GPRS),19.77,11.63,46.34,23.54,
+2024-10-05,Todos Santos_Or,,0.5,,,
 2024-10-05,Tomave,24.0,3.5,,,
 2024-10-05,Trancas,35.0,17.0,,,
 2024-10-05,Tucumillas,28.0,12.0,,,
@@ -55418,6 +55488,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-06,Tinguipaya,23.2,7.1,,,
 2024-10-06,Tiraque,24.0,6.0,,,
 2024-10-06,Tiraque_M (GPRS),18.4,12.34,48.42,33.34,
+2024-10-06,Todos Santos_Or,,2.0,,,
 2024-10-06,Tomave,24.6,0.0,,,
 2024-10-06,Trancas,35.0,18.0,,,
 2024-10-06,Tucumillas,30.0,12.5,,,
@@ -55580,6 +55651,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-07,Tinguipaya,25.1,6.3,,,
 2024-10-07,Tiraque,26.0,8.0,,,
 2024-10-07,Tiraque_M (GPRS),18.73,12.99,33.81,27.48,
+2024-10-07,Todos Santos_Or,,1.5,,,
 2024-10-07,Tomave,25.0,4.0,,,
 2024-10-07,Trancas,38.0,20.0,,,
 2024-10-07,Tucumillas,32.0,13.5,,,
@@ -55680,6 +55752,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-08,Llallagua,20.0,4.0,,,
 2024-10-08,Magdalena,35.0,27.0,78.1,46.8,
 2024-10-08,Mairana_M (GPRS),30.9,25.65,61.91,39.29,
+2024-10-08,Minero (Unagro),,,,,21.2
 2024-10-08,Mizque - SDC (GPRS),28.63,17.38,46.75,21.92,
 2024-10-08,Mojo,24.3,8.0,,,
 2024-10-08,Molle Molle,23.3,14.4,,,
@@ -55751,6 +55824,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-08,Tinguipaya,20.1,7.2,,,
 2024-10-08,Tiraque,23.0,6.0,,,
 2024-10-08,Tiraque_M (GPRS),17.97,11.24,43.08,28.07,
+2024-10-08,Todos Santos_Or,,-3.0,,,
 2024-10-08,Tomave,23.0,5.1,,,
 2024-10-08,Totora i_M (GPRS),,,,,0.5
 2024-10-08,Trancas,26.0,19.0,,,
@@ -55879,6 +55953,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-09,Mairana_M (GPRS),26.49,20.12,93.3,64.2,
 2024-10-09,Mecapaca,,,,,15.5
 2024-10-09,Mecapaca_M (GPRS),,,,,11.7
+2024-10-09,Minero (Unagro),,,,,4.4
 2024-10-09,Mizque - SDC (GPRS),26.59,20.8,43.57,30.78,
 2024-10-09,Mojo,26.0,6.3,,,
 2024-10-09,Molle Molle,22.8,13.3,,,
@@ -55966,6 +56041,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-09,Tinguipaya,22.4,5.3,,,1.0
 2024-10-09,Tiraque,25.0,7.0,,,
 2024-10-09,Tiraque_M (GPRS),15.0,12.01,62.03,47.16,
+2024-10-09,Todos Santos_Or,,-2.0,,,
 2024-10-09,Toma Ravelo_M (GPRS),,,,,1.2
 2024-10-09,Tomave,21.1,3.0,,,1.2
 2024-10-09,Totora i_M (GPRS),,,,,1.4
@@ -56164,6 +56240,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-10,Tinguipaya,24.3,6.2,,,
 2024-10-10,Tiraque,23.0,6.0,,,
 2024-10-10,Tiraque_M (GPRS),17.67,12.2,57.53,34.78,
+2024-10-10,Todos Santos_Or,,-4.0,,,
 2024-10-10,Tomave,19.5,1.5,,,
 2024-10-10,Trancas,20.0,13.0,,,
 2024-10-10,Tucumillas,26.0,10.0,,,
@@ -56342,6 +56419,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-11,Tinguipaya,26.2,5.3,,,
 2024-10-11,Tiraque,26.0,5.0,,,
 2024-10-11,Tiraque_M (GPRS),18.91,12.55,55.0,23.63,
+2024-10-11,Todos Santos_Or,,-2.0,,,
 2024-10-11,Tomave,24.0,1.0,,,
 2024-10-11,Trancas,28.0,9.0,,,2.1
 2024-10-11,Tucumillas,28.0,9.0,,,6.0
@@ -56512,6 +56590,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-12,Tinguipaya,25.3,6.7,,,
 2024-10-12,Tiraque,24.0,5.0,,,
 2024-10-12,Tiraque_M (GPRS),19.57,12.33,60.68,32.44,
+2024-10-12,Todos Santos_Or,,-3.5,,,
 2024-10-12,Tomave,25.0,-4.0,,,
 2024-10-12,Trancas,28.0,11.0,,,
 2024-10-12,Tucumillas,27.0,9.5,,,4.5
@@ -56663,6 +56742,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-13,Tinguipaya,23.2,6.2,,,
 2024-10-13,Tiraque,26.0,6.0,,,
 2024-10-13,Tiraque_M (GPRS),17.62,11.94,59.23,38.7,
+2024-10-13,Todos Santos_Or,,-2.5,,,
 2024-10-13,Tomave,24.0,-1.5,,,
 2024-10-13,Trancas,28.0,17.0,,,
 2024-10-13,Tucumillas,30.5,10.0,,,
@@ -56821,6 +56901,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-14,Tinguipaya,25.2,5.2,,,
 2024-10-14,Tiraque,25.0,5.0,,,
 2024-10-14,Tiraque_M (GPRS),18.39,12.23,55.53,31.58,
+2024-10-14,Todos Santos_Or,,-1.0,,,
 2024-10-14,Tomave,22.1,4.0,,,
 2024-10-14,Trancas,30.0,12.0,,,
 2024-10-14,Tucumillas,28.0,13.0,,,
@@ -57005,6 +57086,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-15,Tinguipaya,24.2,6.3,,,2.0
 2024-10-15,Tiraque,23.0,6.0,,,
 2024-10-15,Tiraque_M (GPRS),21.94,13.77,48.6,26.43,
+2024-10-15,Todos Santos_Or,,0.0,,,
 2024-10-15,Toma Ravelo_M (GPRS),,,,,0.2
 2024-10-15,Tomave,24.0,1.0,,,
 2024-10-15,Totora i_M (GPRS),,,,,2.0
@@ -57121,6 +57203,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-16,Magdalena,32.0,27.0,69.1,51.8,
 2024-10-16,Mairana_M (GPRS),25.05,13.94,100.0,57.28,5.2
 2024-10-16,Mataral,,,,,16.5
+2024-10-16,Minero (Unagro),,,,,19.8
 2024-10-16,Misicuni,,,,,8.4
 2024-10-16,Mizque - SDC (GPRS),24.34,16.43,71.25,36.51,1.3
 2024-10-16,Mojo,26.2,6.2,,,
@@ -57212,6 +57295,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-16,Tinguipaya,21.4,7.2,,,
 2024-10-16,Tiraque,26.0,7.0,,,5.0
 2024-10-16,Tiraque_M (GPRS),18.52,7.47,86.6,32.56,0.9
+2024-10-16,Todos Santos_Or,,1.0,,,
 2024-10-16,Toma Ravelo_M (GPRS),,,,,2.9
 2024-10-16,Tomave,21.1,0.5,,,
 2024-10-16,Trancas,28.0,15.0,,,30.0
@@ -57419,6 +57503,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-17,Tinguipaya,23.2,4.2,,,
 2024-10-17,Tiraque,27.0,6.0,,,
 2024-10-17,Tiraque_M (GPRS),20.3,13.38,51.93,12.99,
+2024-10-17,Todos Santos_Or,,3.0,,,
 2024-10-17,Toma Ravelo_M (GPRS),,,,,2.0
 2024-10-17,Tomave,23.0,-1.5,,,0.5
 2024-10-17,Trancas,27.0,20.0,,,13.0
@@ -57602,6 +57687,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-18,Tinguipaya,20.2,5.2,,,
 2024-10-18,Tiraque,26.0,5.0,,,
 2024-10-18,Tiraque_M (GPRS),20.67,13.61,55.82,30.72,
+2024-10-18,Todos Santos_Or,,2.5,,,
 2024-10-18,Tomave,24.0,-0.5,,,
 2024-10-18,Trancas,20.0,15.0,,,
 2024-10-18,Tucumillas,27.5,10.5,,,5.0
@@ -57791,6 +57877,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-19,Tinguipaya,24.3,6.3,,,
 2024-10-19,Tiraque,30.0,6.0,,,
 2024-10-19,Tiraque_M (GPRS),9.86,9.86,65.96,65.96,0.1
+2024-10-19,Todos Santos_Or,,0.0,,,
 2024-10-19,Toma Ravelo_M (GPRS),,,,,0.3
 2024-10-19,Tomave,25.0,-0.6,,,
 2024-10-19,Trancas,28.0,14.0,,,10.2
@@ -57964,6 +58051,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-20,Tinguipaya,23.3,7.2,,,
 2024-10-20,Tiraque,29.0,5.0,,,
 2024-10-20,Tiraque_M (GPRS),12.21,12.21,43.2,43.2,
+2024-10-20,Todos Santos_Or,,0.0,,,
 2024-10-20,Tomave,25.1,0.5,,,
 2024-10-20,Trancas,28.0,17.0,,,
 2024-10-20,Tucumillas,28.0,12.0,,,
@@ -58119,6 +58207,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-21,Tinguipaya,25.2,4.3,,,
 2024-10-21,Tiraque,27.0,6.0,,,
 2024-10-21,Tiraque_M (GPRS),12.28,12.28,47.82,47.82,
+2024-10-21,Todos Santos_Or,,1.0,,,
 2024-10-21,Tomave,25.0,-0.5,,,
 2024-10-21,Trancas,27.0,17.0,,,
 2024-10-21,Tucumillas,25.0,12.0,,,
@@ -58290,6 +58379,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-22,Tinguipaya,26.3,6.2,,,
 2024-10-22,Tiraque,24.0,5.0,,,
 2024-10-22,Tiraque_M (GPRS),10.44,10.44,70.87,70.87,
+2024-10-22,Todos Santos_Or,,-1.5,,,
 2024-10-22,Toma Ravelo_M (GPRS),,,,,0.2
 2024-10-22,Tomave,22.1,3.5,,,
 2024-10-22,Trancas,26.0,20.0,,,
@@ -58467,6 +58557,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-23,Tinguipaya,27.1,7.3,,,
 2024-10-23,Tiraque,27.0,7.0,,,
 2024-10-23,Tiraque_M (GPRS),19.68,7.68,78.37,37.42,
+2024-10-23,Todos Santos_Or,,-2.5,,,
 2024-10-23,Toma Ravelo_M (GPRS),,,,,0.6
 2024-10-23,Tomave,23.0,4.0,,,
 2024-10-23,Trancas,29.0,18.0,,,1.0
@@ -58643,6 +58734,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-24,Tinguipaya,26.3,4.2,,,
 2024-10-24,Tiraque,29.0,7.0,,,
 2024-10-24,Tiraque_M (GPRS),24.18,8.51,82.1,8.03,
+2024-10-24,Todos Santos_Or,,-1.0,,,
 2024-10-24,Toma Ravelo_M (GPRS),,,,,17.2
 2024-10-24,Tomave,24.1,2.5,,,
 2024-10-24,Trancas,29.0,20.0,,,
@@ -58741,6 +58833,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-25,Llallagua,24.0,3.0,,,
 2024-10-25,Magdalena,37.0,26.0,87.9,87.9,
 2024-10-25,Mairana_M (GPRS),24.79,24.79,73.26,73.26,
+2024-10-25,Minero (Unagro),,,,,28.6
 2024-10-25,Mizque - SDC (GPRS),31.81,13.77,93.2,23.27,
 2024-10-25,Mojo,27.0,4.2,,,
 2024-10-25,Molle Molle,24.4,13.3,,,
@@ -58813,6 +58906,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-25,Tinguipaya,28.1,6.2,,,
 2024-10-25,Tiraque,25.0,8.0,,,9.0
 2024-10-25,Tiraque_M (GPRS),21.14,7.58,94.6,34.82,
+2024-10-25,Todos Santos_Or,,1.5,,,
 2024-10-25,Tomave,24.6,-2.5,,,
 2024-10-25,Totora i_M (GPRS),,,,,0.1
 2024-10-25,Trancas,29.0,21.0,,,
@@ -58937,6 +59031,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-26,Llallagua,17.0,7.1,,,
 2024-10-26,Mairana_M (GPRS),18.28,18.28,98.3,98.3,20.8
 2024-10-26,Mataral,,,,,22.5
+2024-10-26,Minero (Unagro),,,,,16.4
 2024-10-26,Misicuni,,,,,5.2
 2024-10-26,Mizque - SDC (GPRS),20.71,13.62,90.3,58.52,2.4
 2024-10-26,Mojo,20.2,8.0,,,
@@ -59021,6 +59116,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-26,Tinguipaya,27.2,5.4,,,3.8
 2024-10-26,Tiraque,20.0,6.0,,,
 2024-10-26,Tiraque_M (GPRS),13.59,7.85,93.5,63.98,4.5
+2024-10-26,Todos Santos_Or,,2.5,,,
 2024-10-26,Toma Ravelo_M (GPRS),,,,,13.8
 2024-10-26,Tomave,25.0,0.5,,,
 2024-10-26,Trancas,18.0,12.0,,,
@@ -59225,6 +59321,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-27,Tinguipaya,24.3,7.3,,,
 2024-10-27,Tiraque,23.0,5.0,,,
 2024-10-27,Tiraque_M (GPRS),18.98,8.11,88.0,45.14,2.4
+2024-10-27,Todos Santos_Or,,1.0,,,
 2024-10-27,Toma Ravelo_M (GPRS),,,,,1.0
 2024-10-27,Tomave,25.1,1.0,,,
 2024-10-27,Trancas,26.0,14.0,,,
@@ -59401,6 +59498,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-28,Tinguipaya,21.3,6.4,,,
 2024-10-28,Tiraque,25.0,7.0,,,5.0
 2024-10-28,Tiraque_M (GPRS),19.69,9.7,83.5,36.61,
+2024-10-28,Todos Santos_Or,,3.0,,,
 2024-10-28,Tomave,25.0,2.0,,,
 2024-10-28,Trancas,23.0,13.0,,,
 2024-10-28,Tucumillas,32.0,11.5,,,
@@ -59577,6 +59675,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-29,Tinguipaya,24.1,7.2,,,
 2024-10-29,Tiraque,24.0,6.0,,,15.0
 2024-10-29,Tiraque_M (GPRS),17.74,9.03,87.7,44.48,
+2024-10-29,Todos Santos_Or,,2.0,,,
 2024-10-29,Tomave,24.8,4.0,,,
 2024-10-29,Trancas,26.0,16.0,,,
 2024-10-29,Tucumillas,30.0,11.0,,,
@@ -59773,6 +59872,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-30,Tinguipaya,26.3,7.1,,,
 2024-10-30,Tiraque,21.0,5.0,,,
 2024-10-30,Tiraque_M (GPRS),18.05,7.92,87.8,40.18,2.3
+2024-10-30,Todos Santos_Or,,-2.0,,,
 2024-10-30,Toma Ravelo_M (GPRS),,,,,0.4
 2024-10-30,Tomave,23.0,1.5,,,
 2024-10-30,Totora i_M (GPRS),,,,,0.3
@@ -59892,6 +59992,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-31,Llallagua,20.0,5.1,,,0.5
 2024-10-31,Magdalena,28.0,28.0,78.2,78.2,
 2024-10-31,Mairana_M (GPRS),19.6,19.6,89.2,89.2,4.2
+2024-10-31,Minero (Unagro),,,,,20.4
 2024-10-31,Misicuni,,,,,10.5
 2024-10-31,Mizque - SDC (GPRS),31.36,13.1,82.2,25.79,
 2024-10-31,Mojo,22.0,5.0,,,8.0
@@ -59969,6 +60070,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-31,Tinguipaya,27.1,6.3,,,
 2024-10-31,Tiraque,25.0,7.0,,,
 2024-10-31,Tiraque_M (GPRS),20.35,6.87,85.9,36.43,2.2
+2024-10-31,Todos Santos_Or,,-3.0,,,
 2024-10-31,Toma Ravelo_M (GPRS),,,,,3.7
 2024-10-31,Tomave,23.5,1.0,,,
 2024-10-31,Trancas,29.0,19.0,,,6.2
@@ -60081,6 +60183,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-01,Magdalena,35.0,25.0,93.3,49.5,
 2024-11-01,Mairana_M (GPRS),27.75,19.34,91.8,47.63,
 2024-11-01,Mecapaca_M (GPRS),,,,,0.1
+2024-11-01,Minero (Unagro),,,,,5.4
 2024-11-01,Mizque - SDC (GPRS),30.04,12.53,84.7,10.51,
 2024-11-01,Mojo,21.0,1.0,,,21.0
 2024-11-01,Molle Molle,24.4,11.1,,,2.5
@@ -60160,6 +60263,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-01,Tinguipaya,26.2,6.3,,,1.0
 2024-11-01,Tiraque,,,,,13.0
 2024-11-01,Tiraque_M (GPRS),20.87,8.25,77.12,11.68,3.7
+2024-11-01,Todos Santos_Or,,0.0,,,
 2024-11-01,Toma Ravelo_M (GPRS),,,,,0.5
 2024-11-01,Tomave,23.0,1.0,,,
 2024-11-01,Trancas,27.0,18.0,,,
@@ -60335,6 +60439,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-02,Tinguipaya,25.1,7.2,,,
 2024-11-02,Tiraque,29.0,6.0,,,
 2024-11-02,Tiraque_M (GPRS),23.82,7.16,82.5,10.99,
+2024-11-02,Todos Santos_Or,,1.0,,,
 2024-11-02,Tomave,21.5,2.5,,,
 2024-11-02,Trancas,33.0,15.0,,,
 2024-11-02,Tupiza,28.6,8.6,,,
@@ -60508,6 +60613,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-03,Tinguipaya,24.2,7.1,,,
 2024-11-03,Tiraque,25.0,6.0,,,
 2024-11-03,Tiraque_M (GPRS),19.6,6.74,81.0,28.9,
+2024-11-03,Todos Santos_Or,,-3.0,,,
 2024-11-03,Toma Ravelo_M (GPRS),,,,,0.7
 2024-11-03,Tomave,25.0,3.5,,,
 2024-11-03,Trancas,26.0,19.0,,,
@@ -60612,6 +60718,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-04,Padilla,31.0,12.0,,,
 2024-11-04,Pailon - Pozo del Tigre (GPRS),35.8,28.51,79.14,51.1,
 2024-11-04,Pairumani,29.0,13.0,,,
+2024-11-04,Palca,,,,,7.6
 2024-11-04,Palca_LP,,,,,3.9
 2024-11-04,Palos Blancos S.(GPRS),,,,,0.4
 2024-11-04,Palos Blancos_M (GPRS),,,,,27.1
@@ -60681,6 +60788,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-04,Tinguipaya,23.4,6.3,,,
 2024-11-04,Tiraque,27.0,7.0,,,
 2024-11-04,Tiraque_M (GPRS),22.74,8.46,81.5,21.26,
+2024-11-04,Todos Santos_Or,,-2.0,,,
 2024-11-04,Toma Ravelo_M (GPRS),,,,,0.8
 2024-11-04,Tomave,23.5,2.8,,,
 2024-11-04,Trancas,27.0,17.0,,,4.5
@@ -60798,6 +60906,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-05,Padilla,29.0,13.0,,,4.8
 2024-11-05,Pailon - Pozo del Tigre (GPRS),36.06,22.7,98.1,48.69,
 2024-11-05,Pairumani,28.0,12.0,,,16.4
+2024-11-05,Palca,,,,,3.1
 2024-11-05,Palos Blancos,,,,,12.0
 2024-11-05,Palos Blancos S.(GPRS),,,,,0.4
 2024-11-05,Pampas de Lequezana,23.8,10.5,,,13.7
@@ -60866,6 +60975,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-05,Tinguipaya,24.3,6.2,,,
 2024-11-05,Tiraque,26.0,6.0,,,
 2024-11-05,Tiraque_M (GPRS),20.87,9.32,85.3,30.28,
+2024-11-05,Todos Santos_Or,,0.0,,,
 2024-11-05,Toma Ravelo_M (GPRS),,,,,2.2
 2024-11-05,Tomave,23.8,-0.5,,,
 2024-11-05,Trancas,28.0,16.0,,,3.0
@@ -61082,6 +61192,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-06,Tinguipaya,23.2,7.1,,,
 2024-11-06,Tiraque,25.0,5.0,,,
 2024-11-06,Tiraque_M (GPRS),20.43,9.57,86.6,41.19,
+2024-11-06,Todos Santos_Or,,-2.0,,,
 2024-11-06,Toma Ravelo_M (GPRS),,,,,9.2
 2024-11-06,Tomave,25.0,-0.6,,,
 2024-11-06,Totora i_M (GPRS),,,,,2.7
@@ -61283,6 +61394,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-07,Tinguipaya,25.1,6.3,,,
 2024-11-07,Tiraque,,,,,12.5
 2024-11-07,Tiraque_M (GPRS),19.44,9.56,85.5,34.27,0.5
+2024-11-07,Todos Santos_Or,,-4.0,,,
 2024-11-07,Toma Ravelo_M (GPRS),,,,,0.2
 2024-11-07,Tomave,25.0,1.0,,,
 2024-11-07,Totora i_M (GPRS),,,,,13.9
@@ -61477,6 +61589,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-08,Tinguipaya,20.1,7.2,,,
 2024-11-08,Tiraque,,,,,14.0
 2024-11-08,Tiraque_M (GPRS),19.83,7.62,84.2,40.38,1.9
+2024-11-08,Todos Santos_Or,,-1.0,,,
 2024-11-08,Toma Ravelo_M (GPRS),,,,,0.8
 2024-11-08,Tomave,25.0,1.5,,,
 2024-11-08,Trancas,26.0,18.0,,,5.1
@@ -61659,6 +61772,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-09,Tinguipaya,22.4,5.3,,,
 2024-11-09,Tiraque,26.0,6.0,,,
 2024-11-09,Tiraque_M (GPRS),19.96,6.18,80.4,38.48,5.1
+2024-11-09,Todos Santos_Or,,1.5,,,
 2024-11-09,Toma Ravelo_M (GPRS),,,,,1.5
 2024-11-09,Tomave,25.0,-1.5,,,
 2024-11-09,Trancas,28.0,18.0,,,
@@ -61824,6 +61938,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-10,Tinguipaya,24.3,6.2,,,
 2024-11-10,Tiraque,27.0,7.0,,,
 2024-11-10,Tiraque_M (GPRS),21.4,8.24,73.03,21.18,0.2
+2024-11-10,Todos Santos_Or,,2.0,,,
 2024-11-10,Tomave,25.0,1.0,,,
 2024-11-10,Trancas,30.0,19.0,,,
 2024-11-10,Tupiza,28.6,10.0,,,
@@ -61912,6 +62027,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-11,Llallagua,22.0,6.0,,,
 2024-11-11,Magdalena,26.0,26.0,87.9,87.9,
 2024-11-11,Mairana_M (GPRS),31.23,19.34,95.2,49.21,
+2024-11-11,Minero (Unagro),,,,,20.8
 2024-11-11,Mizque - SDC (GPRS),33.03,17.69,69.47,14.93,
 2024-11-11,Mojo,23.3,8.0,,,
 2024-11-11,Molle Molle,27.2,12.8,,,
@@ -61983,6 +62099,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-11,Tinguipaya,26.2,5.3,,,
 2024-11-11,Tiraque,25.0,6.0,,,
 2024-11-11,Tiraque_M (GPRS),21.93,8.7,73.0,24.87,
+2024-11-11,Todos Santos_Or,,1.0,,,
 2024-11-11,Tomave,25.2,4.5,,,
 2024-11-11,Trancas,28.0,14.0,,,
 2024-11-11,Tupiza,28.8,10.6,,,
@@ -62097,6 +62214,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-12,Mairana_M (GPRS),19.73,19.73,71.15,71.15,
 2024-11-12,Mecapaca,,,,,1.0
 2024-11-12,Mecapaca_M (GPRS),,,,,2.2
+2024-11-12,Minero (Unagro),,,,,1.4
 2024-11-12,Mizque - SDC (GPRS),20.22,20.22,57.29,57.29,
 2024-11-12,Mojo,23.2,6.0,,,
 2024-11-12,Molle Molle,25.0,12.2,,,
@@ -62107,6 +62225,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-12,Padilla,17.0,10.0,,,
 2024-11-12,Pailon - Pozo del Tigre (GPRS),18.66,18.66,84.6,84.6,10.2
 2024-11-12,Pairumani,30.0,13.0,,,
+2024-11-12,Palca,,,,,11.8
 2024-11-12,Palca_LP,,,,,1.4
 2024-11-12,Palos Blancos S.(GPRS),,,,,0.2
 2024-11-12,Palos Blancos_M (GPRS),,,,,0.2
@@ -62177,6 +62296,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-12,Tinguipaya,25.3,6.7,,,
 2024-11-12,Tiraque,24.0,5.0,,,
 2024-11-12,Tiraque_M (GPRS),13.65,13.65,50.77,50.77,
+2024-11-12,Todos Santos_Or,,0.0,,,
 2024-11-12,Toma Ravelo_M (GPRS),,,,,0.1
 2024-11-12,Tomave,25.0,2.8,,,
 2024-11-12,Trancas,15.0,9.0,,,6.2
@@ -62368,6 +62488,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-13,Tinguipaya,23.2,6.3,,,2.0
 2024-11-13,Tiraque,,,,,15.5
 2024-11-13,Tiraque_M (GPRS),9.4,9.4,76.49,76.49,
+2024-11-13,Todos Santos_Or,,0.0,,,
 2024-11-13,Toma Ravelo_M (GPRS),,,,,0.6
 2024-11-13,Tomave,25.0,3.8,,,
 2024-11-13,Trancas,26.0,14.0,,,
@@ -62539,6 +62660,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-14,Tinguipaya,25.2,5.2,,,
 2024-11-14,Tiraque,24.0,6.0,,,
 2024-11-14,Tiraque_M (GPRS),11.87,11.87,66.5,66.5,8.5
+2024-11-14,Todos Santos_Or,,-1.0,,,17.0
 2024-11-14,Tomave,20.5,4.0,,,0.5
 2024-11-14,Trancas,28.0,9.0,,,
 2024-11-14,Tupiza,25.9,14.0,,,
@@ -62705,6 +62827,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-15,Tinguipaya,24.2,6.3,,,
 2024-11-15,Tiraque,26.0,6.0,,,
 2024-11-15,Tiraque_M (GPRS),11.5,11.5,67.24,67.24,
+2024-11-15,Todos Santos_Or,,0.0,,,1.3
 2024-11-15,Tomave,22.0,4.5,,,
 2024-11-15,Trancas,26.0,14.0,,,
 2024-11-15,Tupiza,24.4,10.5,,,
@@ -62810,6 +62933,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-16,Padilla,30.0,11.0,,,
 2024-11-16,Pailon - Pozo del Tigre (GPRS),36.72,25.99,84.9,41.68,
 2024-11-16,Pairumani,29.0,13.0,,,
+2024-11-16,Palca,,,,,4.0
 2024-11-16,Pampas de Lequezana,20.1,11.4,,,
 2024-11-16,Paracti,,,,,8.0
 2024-11-16,Parotani,31.0,13.0,,,
@@ -62868,6 +62992,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-16,Tinguipaya,21.4,7.2,,,3.0
 2024-11-16,Tiraque,27.0,7.0,,,
 2024-11-16,Tiraque_M (GPRS),12.7,12.7,58.39,58.39,
+2024-11-16,Todos Santos_Or,,1.0,,,
 2024-11-16,Tomave,21.5,3.5,,,15.0
 2024-11-16,Trancas,32.0,20.0,,,
 2024-11-16,Tupiza,25.0,10.6,,,2.5
@@ -62998,6 +63123,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-17,Padilla,31.0,10.0,,,
 2024-11-17,Pailon - Pozo del Tigre (GPRS),29.81,29.81,68.87,68.87,
 2024-11-17,Pairumani,29.0,12.0,,,
+2024-11-17,Palca,,,,,14.2
 2024-11-17,Palca_LP,,,,,11.9
 2024-11-17,Palos Blancos S.(GPRS),,,,,0.2
 2024-11-17,Palos Blancos_M (GPRS),,,,,46.0
@@ -63072,6 +63198,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-17,Tinguipaya,23.2,4.2,,,
 2024-11-17,Tiraque,24.0,5.0,,,
 2024-11-17,Tiraque_M (GPRS),14.11,14.11,62.31,62.31,
+2024-11-17,Todos Santos_Or,,2.0,,,
 2024-11-17,Tomave,16.0,5.0,,,4.0
 2024-11-17,Totora i_M (GPRS),,,,,2.2
 2024-11-17,Trancas,28.0,20.0,,,
@@ -63198,6 +63325,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-18,Mairana_M (GPRS),22.36,22.36,75.33,75.33,
 2024-11-18,Mecapaca,,,,,3.0
 2024-11-18,Mecapaca_M (GPRS),,,,,5.3
+2024-11-18,Minero (Unagro),,,,,1.0
 2024-11-18,Mizque - SDC (GPRS),18.95,18.95,62.68,62.68,0.1
 2024-11-18,Mojo,15.0,7.2,,,11.2
 2024-11-18,Molle Molle,25.5,11.1,,,
@@ -63211,6 +63339,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-18,Padilla,26.0,13.0,,,3.0
 2024-11-18,Pailon - Pozo del Tigre (GPRS),25.51,25.51,87.5,87.5,
 2024-11-18,Pairumani,26.0,12.0,,,
+2024-11-18,Palca,,,,,6.5
 2024-11-18,Palca_LP,,,,,0.5
 2024-11-18,Palos Blancos,,,,,9.3
 2024-11-18,Palos Blancos S.(GPRS),,,,,0.2
@@ -63293,6 +63422,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-18,Tinguipaya,20.2,5.2,,,2.0
 2024-11-18,Tiraque,,,,,5.0
 2024-11-18,Tiraque_M (GPRS),11.98,11.98,74.79,74.79,0.3
+2024-11-18,Todos Santos_Or,,2.5,,,
 2024-11-18,Toma Ravelo_M (GPRS),,,,,2.8
 2024-11-18,Tomave,21.0,5.5,,,5.0
 2024-11-18,Totora i_M (GPRS),,,,,3.9
@@ -63434,6 +63564,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-19,Mairana_M (GPRS),20.52,20.52,92.9,92.9,8.0
 2024-11-19,Mecapaca,,,,,11.0
 2024-11-19,Mecapaca_M (GPRS),,,,,9.6
+2024-11-19,Minero (Unagro),,,,,0.2
 2024-11-19,Mizque - SDC (GPRS),18.23,18.23,67.66,67.66,
 2024-11-19,Mojo,21.2,7.0,,,8.0
 2024-11-19,Molle Molle,23.3,12.8,,,
@@ -63445,6 +63576,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-19,Padilla,27.0,14.0,,,
 2024-11-19,Pailon - Pozo del Tigre (GPRS),22.38,22.38,98.0,98.0,44.6
 2024-11-19,Pairumani,27.0,13.0,,,5.3
+2024-11-19,Palca,,,,,4.3
 2024-11-19,Palca_LP,,,,,5.3
 2024-11-19,Palos Blancos_M (GPRS),,,,,15.5
 2024-11-19,Pampas de Lequezana,19.6,9.0,,,27.4
@@ -63530,6 +63662,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-19,Tinguipaya,24.3,6.2,,,4.5
 2024-11-19,Tiraque,,,,,7.5
 2024-11-19,Tiraque_M (GPRS),10.78,10.78,71.17,71.17,1.2
+2024-11-19,Todos Santos_Or,,1.0,,,
 2024-11-19,Toma Ravelo_M (GPRS),,,,,12.9
 2024-11-19,Tomave,23.5,4.0,,,
 2024-11-19,Totora i_M (GPRS),,,,,35.8
@@ -63664,6 +63797,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-20,Padilla,23.0,12.0,,,2.6
 2024-11-20,Pailon - Pozo del Tigre (GPRS),31.63,24.53,99.7,64.86,
 2024-11-20,Pairumani,29.0,14.0,,,
+2024-11-20,Palca,,,,,3.1
 2024-11-20,Palos Blancos S.(GPRS),,,,,0.2
 2024-11-20,Palos Blancos_M (GPRS),,,,,0.1
 2024-11-20,Pampas de Lequezana,21.0,10.2,,,1.5
@@ -63737,6 +63871,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-20,Tinguipaya,27.2,7.2,,,
 2024-11-20,Tiraque,,,,,5.0
 2024-11-20,Tiraque_M (GPRS),13.07,13.07,62.76,62.76,
+2024-11-20,Todos Santos_Or,,2.0,,,
 2024-11-20,Toma Ravelo_M (GPRS),,,,,0.3
 2024-11-20,Tomave,23.0,4.5,,,
 2024-11-20,Trancas,20.0,13.0,,,5.1
@@ -63864,6 +63999,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-21,Magdalena,25.0,25.0,93.3,93.3,
 2024-11-21,Mairana_M (GPRS),20.13,20.13,97.0,97.0,
 2024-11-21,Mecapaca_M (GPRS),,,,,0.1
+2024-11-21,Minero (Unagro),,,,,10.4
 2024-11-21,Mizque - SDC (GPRS),18.58,18.58,72.1,72.1,
 2024-11-21,Mojo,23.4,9.0,,,
 2024-11-21,Molle Molle,27.8,12.8,,,
@@ -63876,6 +64012,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-21,Padilla,20.0,14.0,,,57.6
 2024-11-21,Pailon - Pozo del Tigre (GPRS),29.54,24.27,100.0,78.56,
 2024-11-21,Pairumani,29.0,13.0,,,
+2024-11-21,Palca,,,,,3.2
 2024-11-21,Palca_LP,,,,,1.0
 2024-11-21,Palos Blancos S.(GPRS),,,,,0.2
 2024-11-21,Palos Blancos_M (GPRS),,,,,0.7
@@ -63954,6 +64091,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-21,Tinguipaya,25.2,4.3,,,
 2024-11-21,Tiraque,,,,,7.0
 2024-11-21,Tiraque_M (GPRS),11.49,11.49,78.4,78.4,
+2024-11-21,Todos Santos_Or,,3.5,,,
 2024-11-21,Toma Ravelo_M (GPRS),,,,,0.2
 2024-11-21,Tomave,25.0,3.5,,,
 2024-11-21,Trancas,22.0,17.0,,,2.2
@@ -64095,6 +64233,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-22,Mairana_M (GPRS),18.22,18.22,99.5,99.5,8.6
 2024-11-22,Mecapaca,,,,,3.3
 2024-11-22,Mecapaca_M (GPRS),,,,,4.0
+2024-11-22,Minero (Unagro),,,,,11.2
 2024-11-22,Mizque - SDC (GPRS),14.23,14.23,87.9,87.9,2.4
 2024-11-22,Mojo,23.0,3.0,,,
 2024-11-22,Molle Molle,23.9,11.1,,,4.1
@@ -64106,6 +64245,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-22,Padilla,27.0,13.0,,,8.2
 2024-11-22,Pailon - Pozo del Tigre (GPRS),26.16,26.16,92.6,92.6,5.2
 2024-11-22,Pairumani,29.0,12.0,,,22.1
+2024-11-22,Palca,,,,,9.8
 2024-11-22,Palca_LP,,,,,12.6
 2024-11-22,Palos Blancos_M (GPRS),,,,,7.0
 2024-11-22,Pampas de Lequezana,19.1,9.6,,,
@@ -64189,6 +64329,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-22,Tinguipaya,26.3,6.2,,,
 2024-11-22,Tiraque,,,,,3.0
 2024-11-22,Tiraque_M (GPRS),7.78,7.78,91.9,91.9,5.2
+2024-11-22,Todos Santos_Or,,4.0,,,12.4
 2024-11-22,Toma Ravelo_M (GPRS),,,,,10.4
 2024-11-22,Tomave,22.0,4.5,,,
 2024-11-22,Trancas,27.0,16.0,,,
@@ -64317,6 +64458,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-23,Mataral,,,,,23.5
 2024-11-23,Mecapaca,,,,,1.2
 2024-11-23,Mecapaca_M (GPRS),,,,,2.7
+2024-11-23,Minero (Unagro),,,,,21.2
 2024-11-23,Mizque - SDC (GPRS),16.53,16.53,86.5,86.5,2.2
 2024-11-23,Mojo,24.0,9.0,,,
 2024-11-23,Molle Molle,24.4,11.1,,,6.6
@@ -64328,6 +64470,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-23,Padilla,28.0,14.0,,,
 2024-11-23,Pailon - Pozo del Tigre (GPRS),24.98,24.98,99.5,99.5,15.0
 2024-11-23,Pairumani,28.0,12.0,,,
+2024-11-23,Palca,,,,,6.5
 2024-11-23,Palca_LP,,,,,6.7
 2024-11-23,Palos Blancos S.(GPRS),,,,,0.2
 2024-11-23,Palos Blancos_M (GPRS),,,,,3.0
@@ -64400,6 +64543,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-23,Tinguipaya,27.1,7.3,,,
 2024-11-23,Tiraque,,,,,19.5
 2024-11-23,Tiraque_M (GPRS),11.01,11.01,84.1,84.1,0.5
+2024-11-23,Todos Santos_Or,,3.0,,,1.9
 2024-11-23,Toma Ravelo_M (GPRS),,,,,5.2
 2024-11-23,Tomave,24.5,6.5,,,
 2024-11-23,Trancas,28.0,13.0,,,
@@ -64534,6 +64678,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-24,Padilla,32.0,12.0,,,
 2024-11-24,Pailon - Pozo del Tigre (GPRS),33.98,27.01,90.9,59.41,
 2024-11-24,Pairumani,27.0,13.0,,,
+2024-11-24,Palca,,,,,7.6
 2024-11-24,Palca_LP,,,,,8.4
 2024-11-24,Palos Blancos S.(GPRS),,,,,0.2
 2024-11-24,Palos Blancos_M (GPRS),,,,,2.7
@@ -64608,6 +64753,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-24,Tinguipaya,26.3,4.2,,,
 2024-11-24,Tiraque,23.0,7.0,,,
 2024-11-24,Tiraque_M (GPRS),11.14,11.14,89.1,89.1,16.8
+2024-11-24,Todos Santos_Or,,5.0,,,
 2024-11-24,Toma Ravelo_M (GPRS),,,,,12.0
 2024-11-24,Tomave,22.5,7.0,,,
 2024-11-24,Trancas,28.0,21.0,,,
@@ -64725,6 +64871,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-25,Padilla,31.0,14.0,,,
 2024-11-25,Pailon - Pozo del Tigre (GPRS),30.07,30.07,74.27,74.27,
 2024-11-25,Pairumani,27.0,12.0,,,5.0
+2024-11-25,Palca,,,,,9.2
 2024-11-25,Palca_LP,,,,,0.5
 2024-11-25,Pampas de Lequezana,22.6,10.8,,,
 2024-11-25,Paracti,,,,,9.0
@@ -64793,6 +64940,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-25,Tinguipaya,28.1,6.2,,,1.0
 2024-11-25,Tiraque,26.0,8.0,,,
 2024-11-25,Tiraque_M (GPRS),14.89,14.89,64.58,64.58,
+2024-11-25,Todos Santos_Or,,4.0,,,11.5
 2024-11-25,Tomave,22.0,6.1,,,
 2024-11-25,Totora i_M (GPRS),,,,,12.7
 2024-11-25,Trancas,30.0,19.0,,,
@@ -64914,6 +65062,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-26,Padilla,30.0,15.0,,,
 2024-11-26,Pailon - Pozo del Tigre (GPRS),30.59,30.59,72.78,72.78,
 2024-11-26,Pairumani,28.0,13.0,,,8.5
+2024-11-26,Palca,,,,,5.3
 2024-11-26,Palos Blancos S.(GPRS),,,,,0.2
 2024-11-26,Pampas de Lequezana,23.1,11.5,,,
 2024-11-26,Paracti,,,,,11.0
@@ -64977,6 +65126,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-26,Tinguipaya,27.2,5.4,,,0.9
 2024-11-26,Tiraque,27.0,6.0,,,
 2024-11-26,Tiraque_M (GPRS),12.59,12.59,73.82,73.82,
+2024-11-26,Todos Santos_Or,,2.0,,,
 2024-11-26,Tomave,23.5,6.5,,,1.2
 2024-11-26,Totora i_M (GPRS),,,,,0.6
 2024-11-26,Trancas,29.0,19.0,,,5.1
@@ -65092,6 +65242,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-27,Llallagua,17.0,9.1,,,
 2024-11-27,Magdalena,27.0,27.0,82.9,82.9,
 2024-11-27,Mairana_M (GPRS),22.66,22.66,85.7,85.7,
+2024-11-27,Minero (Unagro),,,,,1.4
 2024-11-27,Mizque - SDC (GPRS),18.18,18.18,79.03,79.03,
 2024-11-27,Mojo,23.0,7.2,,,4.5
 2024-11-27,Molle Molle,25.5,14.4,,,
@@ -65101,6 +65252,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-27,Padilla,31.0,16.0,,,
 2024-11-27,Pailon - Pozo del Tigre (GPRS),29.75,29.75,71.21,71.21,
 2024-11-27,Pairumani,27.0,11.0,,,10.5
+2024-11-27,Palca,,,,,3.1
 2024-11-27,Palca_LP,,,,,1.9
 2024-11-27,Palos Blancos,,,,,7.4
 2024-11-27,Pampas de Lequezana,22.9,12.4,,,27.5
@@ -65171,6 +65323,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-27,Tinguipaya,24.3,7.3,,,0.2
 2024-11-27,Tiraque,26.0,7.0,,,
 2024-11-27,Tiraque_M (GPRS),12.88,12.88,73.3,73.3,
+2024-11-27,Todos Santos_Or,,3.5,,,
 2024-11-27,Tomave,25.0,4.5,,,1.5
 2024-11-27,Totora i_M (GPRS),,,,,0.6
 2024-11-27,Trancas,31.0,18.0,,,3.2
@@ -65302,6 +65455,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-28,Padilla,32.0,17.0,,,
 2024-11-28,Pailon - Pozo del Tigre (GPRS),34.59,26.69,79.52,49.47,1.4
 2024-11-28,Pairumani,29.0,12.0,,,15.5
+2024-11-28,Palca,,,,,3.2
 2024-11-28,Palca_LP,,,,,2.8
 2024-11-28,Palos Blancos S.(GPRS),,,,,0.2
 2024-11-28,Pampas de Lequezana,23.1,12.0,,,
@@ -65373,6 +65527,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-28,Tinguipaya,21.3,6.4,,,
 2024-11-28,Tiraque,,,,,15.5
 2024-11-28,Tiraque_M (GPRS),11.26,11.26,78.48,78.48,0.9
+2024-11-28,Todos Santos_Or,,4.5,,,
 2024-11-28,Toma Ravelo_M (GPRS),,,,,2.2
 2024-11-28,Tomave,24.4,5.5,,,
 2024-11-28,Totora i_M (GPRS),,,,,10.9
@@ -65515,6 +65670,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-29,Padilla,31.0,16.0,,,
 2024-11-29,Pailon - Pozo del Tigre (GPRS),33.59,26.36,86.1,54.46,
 2024-11-29,Pairumani,28.0,11.0,,,5.0
+2024-11-29,Palca,,,,,4.3
 2024-11-29,Palca_LP,,,,,0.8
 2024-11-29,Palos Blancos_M (GPRS),,,,,5.4
 2024-11-29,Pampas de Lequezana,19.9,11.2,,,6.1
@@ -65590,6 +65746,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-29,Tinguipaya,24.1,7.2,,,
 2024-11-29,Tiraque,,,,,3.5
 2024-11-29,Tiraque_M (GPRS),11.11,11.11,88.3,88.3,6.3
+2024-11-29,Todos Santos_Or,,2.5,,,
 2024-11-29,Toma Ravelo_M (GPRS),,,,,0.8
 2024-11-29,Tomave,22.0,5.0,,,
 2024-11-29,Totora i_M (GPRS),,,,,0.1
@@ -65719,6 +65876,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-30,Padilla,26.0,17.0,,,
 2024-11-30,Pailon - Pozo del Tigre (GPRS),30.14,30.14,73.95,73.95,
 2024-11-30,Pairumani,28.0,13.0,,,3.5
+2024-11-30,Palca,,,,,4.1
 2024-11-30,Palos Blancos,,,,,38.5
 2024-11-30,Palos Blancos S.(GPRS),,,,,0.2
 2024-11-30,Palos Blancos_M (GPRS),,,,,0.3
@@ -65786,6 +65944,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-30,Tinguipaya,26.3,7.1,,,2.0
 2024-11-30,Tiraque,,,,,2.0
 2024-11-30,Tiraque_M (GPRS),13.85,13.85,66.8,66.8,0.1
+2024-11-30,Todos Santos_Or,,2.0,,,
 2024-11-30,Toma Ravelo_M (GPRS),,,,,0.4
 2024-11-30,Tomave,25.0,4.5,,,
 2024-11-30,Totora i_M (GPRS),,,,,0.1
@@ -65903,6 +66062,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-01,Llallagua,,,,,5.2
 2024-12-01,Mairana_M (GPRS),22.36,22.36,78.72,78.72,0.4
 2024-12-01,Mecapaca_M (GPRS),,,,,18.1
+2024-12-01,Minero (Unagro),,,,,0.6
 2024-12-01,Mizque - SDC (GPRS),31.65,15.55,87.5,25.14,0.7
 2024-12-01,Mojo,27.3,7.3,,,
 2024-12-01,Omereque - SDC (GPRS),33.85,20.57,75.94,28.33,
@@ -65911,6 +66071,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-01,Padilla,32.0,15.0,,,
 2024-12-01,Pailon - Pozo del Tigre (GPRS),28.9,28.9,76.67,76.67,
 2024-12-01,Pairumani,,,,,3.4
+2024-12-01,Palca,,,,,9.8
 2024-12-01,Palos Blancos,,,,,1.0
 2024-12-01,Palos Blancos_M (GPRS),,,,,0.5
 2024-12-01,Pampas de Lequezana,23.0,11.4,,,
@@ -65942,6 +66103,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-01,San Calixto,,,,,18.4
 2024-12-01,San Jacinto_M (GPRS),30.99,18.09,95.7,38.16,
 2024-12-01,San Javier,34.0,32.0,55.6,52.1,
+2024-12-01,San Juan de Yapacaní,,,,,2.0
 2024-12-01,San Julian - Comunidad Los Angeles (GPRS),37.44,27.33,83.7,44.1,0.1
 2024-12-01,San Julian - Nucleo 32 (GPRS),36.45,27.62,,,
 2024-12-01,San Pablo de Lipez,18.0,5.0,,,
@@ -65966,11 +66128,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-01,Talula_Tako Tako,27.0,11.0,,,
 2024-12-01,Tarapaya,28.0,7.1,,,
 2024-12-01,Tarija,31.0,19.0,87.5,40.1,
+2024-12-01,Taypillanga,,,,,5.0
 2024-12-01,Templo (GPRS),4.78,4.78,83.8,83.8,11.7
 2024-12-01,Temporal - SDC (GPRS),28.62,16.54,38.81,0.02,0.2
 2024-12-01,Tinguipaya,22.3,7.1,,,
 2024-12-01,Tiraque,23.0,6.0,,,10.0
 2024-12-01,Tiraque_M (GPRS),20.75,11.24,83.6,40.05,12.8
+2024-12-01,Todos Santos_Or,,6.5,,,
 2024-12-01,Toma Ravelo_M (GPRS),,,,,3.9
 2024-12-01,Tomave,18.0,5.0,,,0.3
 2024-12-01,Tupiza,22.0,9.0,,,
@@ -66072,6 +66236,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-02,Llallagua,,,,,10.2
 2024-12-02,Magdalena,28.0,28.0,78.2,78.2,
 2024-12-02,Mairana_M (GPRS),23.21,23.21,80.7,80.7,
+2024-12-02,Minero (Unagro),,,,,15.6
 2024-12-02,Mizque - SDC (GPRS),25.13,15.06,89.9,49.44,0.5
 2024-12-02,Mojo,25.0,10.0,,,
 2024-12-02,Nuevo Mundo,,,,,4.2
@@ -66105,6 +66270,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-02,Samasa,23.4,6.2,,,
 2024-12-02,San Jacinto_M (GPRS),24.6,11.5,94.7,55.35,
 2024-12-02,San Jose de Chiquitos,34.0,26.0,88.0,52.3,
+2024-12-02,San Juan de Yapacaní,,,,,42.6
 2024-12-02,San Julian - Comunidad Los Angeles (GPRS),30.33,30.33,69.59,69.59,0.1
 2024-12-02,San Julian - Nucleo 32 (GPRS),36.97,20.16,,,
 2024-12-02,San Lucas,,,,,8.0
@@ -66136,6 +66302,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-02,Tinguipaya,19.1,8.2,,,
 2024-12-02,Tiraque,25.0,7.0,,,
 2024-12-02,Tiraque_M (GPRS),19.44,10.03,87.3,47.72,
+2024-12-02,Todos Santos_Or,,5.5,,,
 2024-12-02,Tomave,22.5,6.5,,,5.5
 2024-12-02,Tupiza,20.5,11.0,,,
 2024-12-02,Tupiza_1_H (GPRS),,,,,6.6
@@ -66256,6 +66423,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-03,Mecapaca_M (GPRS),,,,,31.5
 2024-12-03,Mizque - SDC (GPRS),23.27,15.04,84.3,43.03,1.0
 2024-12-03,Mojo,25.2,7.2,,,2.2
+2024-12-03,Molle Molle,,,,,27.9
 2024-12-03,Nuevo Mundo,,,,,16.6
 2024-12-03,Omereque - SDC (GPRS),18.89,17.79,94.3,88.2,10.5
 2024-12-03,Orinoca - UTO (GPRS),19.54,8.26,,,
@@ -66263,6 +66431,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-03,Oruro (GPRS),20.0,7.0,92.7,39.8,
 2024-12-03,Padilla,18.0,11.0,,,3.0
 2024-12-03,Pailon - Pozo del Tigre (GPRS),25.09,18.73,99.3,73.69,3.8
+2024-12-03,Palca,,,,,20.1
 2024-12-03,Palos Blancos_M (GPRS),,,,,13.1
 2024-12-03,Pampas de Lequezana,19.3,10.3,,,
 2024-12-03,Paracti,,,,,11.5
@@ -66301,6 +66470,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-03,San Calixto,,,,,12.0
 2024-12-03,San Jacinto_M (GPRS),20.87,12.55,84.9,59.96,
 2024-12-03,San Jose de Chiquitos,23.0,19.0,99.1,82.5,
+2024-12-03,San Juan de Yapacaní,,,,,16.0
 2024-12-03,San Julian - Comunidad Los Angeles (GPRS),19.36,19.36,92.1,92.1,
 2024-12-03,San Julian - Nucleo 32 (GPRS),23.56,19.04,,,4.0
 2024-12-03,San Pablo de Lipez,20.0,4.0,,,
@@ -66326,11 +66496,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-03,Tarata,,,,,1.5
 2024-12-03,Tarija,14.0,14.0,76.2,76.2,
 2024-12-03,Taruma,,,,,42.0
+2024-12-03,Taypillanga,,,,,6.0
 2024-12-03,Templo (GPRS),4.89,4.89,93.2,93.2,13.3
 2024-12-03,Temporal - SDC (GPRS),23.68,12.82,89.5,0.04,4.3
 2024-12-03,Tinguipaya,21.0,7.3,,,
 2024-12-03,Tiraque,22.0,5.0,,,12.5
 2024-12-03,Tiraque_M (GPRS),10.42,10.42,81.5,81.5,0.1
+2024-12-03,Todos Santos_Or,,4.0,,,
 2024-12-03,Toma Ravelo_M (GPRS),,,,,5.4
 2024-12-03,Tomave,25.0,4.0,,,
 2024-12-03,Totora i_M (GPRS),,,,,0.2
@@ -66445,6 +66617,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-04,Oruro UTO (GPRS),19.79,11.95,,,
 2024-12-04,Padilla,23.0,12.0,,,
 2024-12-04,Pailon - Pozo del Tigre (GPRS),23.16,23.16,70.9,70.9,7.6
+2024-12-04,Palca,,,,,3.1
 2024-12-04,Palos Blancos_M (GPRS),,,,,2.8
 2024-12-04,Pampas de Lequezana,21.7,13.1,,,
 2024-12-04,Parotani,31.0,13.0,,,
@@ -66503,6 +66676,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-04,Tinguipaya,21.2,6.2,,,
 2024-12-04,Tiraque,27.0,8.0,,,
 2024-12-04,Tiraque_M (GPRS),13.31,13.31,67.89,67.89,1.2
+2024-12-04,Todos Santos_Or,,6.0,,,
 2024-12-04,Toma Ravelo_M (GPRS),,,,,0.1
 2024-12-04,Tomave,25.1,2.5,,,
 2024-12-04,Tupiza,22.0,7.0,,,
@@ -66646,6 +66820,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-05,Tinguipaya,21.0,5.2,,,
 2024-12-05,Tiraque,26.0,7.0,,,
 2024-12-05,Tiraque_M (GPRS),13.65,13.65,66.02,66.02,
+2024-12-05,Todos Santos_Or,,5.0,,,
 2024-12-05,Tomave,25.5,1.5,,,
 2024-12-05,Tupiza,28.4,5.2,,,
 2024-12-05,Uyuni,24.0,2.5,,,
@@ -66727,6 +66902,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-06,Llallagua,24.0,7.0,,,
 2024-12-06,Magdalena,32.0,27.0,83.0,66.0,
 2024-12-06,Mairana_M (GPRS),21.05,21.05,82.6,82.6,
+2024-12-06,Minero (Unagro),,,,,31.2
 2024-12-06,Mizque - SDC (GPRS),17.38,17.38,77.62,77.62,1.1
 2024-12-06,Mojo,29.0,8.3,,,
 2024-12-06,Omereque - SDC (GPRS),19.85,16.61,84.3,73.73,
@@ -66760,6 +66936,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-06,San Jacinto_M (GPRS),28.57,16.86,89.5,45.73,
 2024-12-06,San Javier,32.0,32.0,66.0,66.0,
 2024-12-06,San Jose de Chiquitos,33.0,28.0,78.2,58.8,
+2024-12-06,San Juan de Yapacaní,,,,,6.8
 2024-12-06,San Julian,,,,,8.0
 2024-12-06,San Julian - Comunidad Los Angeles (GPRS),26.35,26.35,89.1,89.1,0.1
 2024-12-06,San Julian - Nucleo 32 (GPRS),25.72,25.72,,,5.0
@@ -66787,6 +66964,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-06,Tinguipaya,21.2,6.2,,,
 2024-12-06,Tiraque,24.0,6.0,,,7.0
 2024-12-06,Tiraque_M (GPRS),15.24,15.24,62.58,62.58,
+2024-12-06,Todos Santos_Or,,3.5,,,
 2024-12-06,Tomave,25.2,1.6,,,
 2024-12-06,Tupiza,30.0,10.9,,,
 2024-12-06,Univalle (GPRS),,,,,6.62
@@ -66884,8 +67062,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-07,La Violeta,26.0,,,,
 2024-12-07,Llallagua,,,,,13.2
 2024-12-07,Mairana_M (GPRS),19.98,19.98,97.2,97.2,0.8
+2024-12-07,Minero (Unagro),,,,,12.8
 2024-12-07,Mizque - SDC (GPRS),16.5,16.5,84.9,84.9,0.3
 2024-12-07,Mojo,25.0,11.0,,,
+2024-12-07,Molle Molle,,,,,4.3
 2024-12-07,Montero_Muyurina,,,,,34.3
 2024-12-07,Omereque - SDC (GPRS),21.55,20.49,82.3,67.73,
 2024-12-07,Oronkota PTI,30.5,22.3,,,
@@ -66893,6 +67073,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-07,Padilla,30.0,16.0,,,
 2024-12-07,Pailon - Pozo del Tigre (GPRS),26.81,26.81,90.5,90.5,0.8
 2024-12-07,Pairumani,,,,,2.0
+2024-12-07,Palca,,,,,3.5
 2024-12-07,Palos Blancos S.(GPRS),,,,,0.2
 2024-12-07,Pampas de Lequezana,20.6,13.5,,,
 2024-12-07,Paracti,,,,,22.0
@@ -66918,6 +67099,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-07,San Benito,,,,,1.5
 2024-12-07,San Buenaventura_M (GPRS),,,,,1.1
 2024-12-07,San Jacinto_M (GPRS),26.36,21.63,70.85,45.69,
+2024-12-07,San Juan de Yapacaní,,,,,14.6
 2024-12-07,San Julian,,,,,7.0
 2024-12-07,San Julian - Comunidad Los Angeles (GPRS),30.73,24.13,94.4,68.29,0.1
 2024-12-07,San Julian - Nucleo 32 (GPRS),25.72,25.72,,,7.2
@@ -66949,6 +67131,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-07,Tinguipaya,24.0,7.0,,,
 2024-12-07,Tiraque,23.0,7.0,,,13.5
 2024-12-07,Tiraque_M (GPRS),9.09,9.09,87.9,87.9,10.9
+2024-12-07,Todos Santos_Or,,5.5,,,
 2024-12-07,Toma Ravelo_M (GPRS),,,,,0.5
 2024-12-07,Tomave,25.0,5.5,,,
 2024-12-07,Tupiza,29.4,14.0,,,
@@ -67051,8 +67234,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-08,La Violeta,26.0,,,,
 2024-12-08,Llallagua,17.0,8.0,,,
 2024-12-08,Mairana_M (GPRS),20.39,20.39,95.4,95.4,1.4
+2024-12-08,Minero (Unagro),,,,,16.8
 2024-12-08,Mizque - SDC (GPRS),14.74,14.74,90.5,90.5,0.1
 2024-12-08,Mojo,26.3,11.2,,,
+2024-12-08,Molle Molle,,,,,3.6
 2024-12-08,Montero_Muyurina,,,,,12.8
 2024-12-08,Narvaez,,,,,8.5
 2024-12-08,Nuevo Mundo,,,,,21.4
@@ -67061,6 +67246,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-08,Oruro (GPRS),21.0,8.0,86.6,39.8,
 2024-12-08,Padilla,23.0,14.0,,,1.5
 2024-12-08,Pailon - Pozo del Tigre (GPRS),26.2,26.2,90.1,90.1,3.6
+2024-12-08,Palca,,,,,4.0
 2024-12-08,Palos Blancos,,,,,10.2
 2024-12-08,Palos Blancos_M (GPRS),,,,,8.3
 2024-12-08,Pampas de Lequezana,24.5,12.1,,,
@@ -67087,6 +67273,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-08,San Benito,,,,,1.0
 2024-12-08,San Buenaventura_M (GPRS),,,,,2.7
 2024-12-08,San Jacinto_M (GPRS),19.72,14.05,93.6,65.56,
+2024-12-08,San Juan de Yapacaní,,,,,73.4
 2024-12-08,San Julian,,,,,8.0
 2024-12-08,San Julian - Comunidad Los Angeles (GPRS),26.62,26.62,86.9,86.9,0.1
 2024-12-08,San Julian - Nucleo 32 (GPRS),30.6,23.85,,,0.2
@@ -67119,6 +67306,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-08,Tinguipaya,21.3,6.2,,,
 2024-12-08,Tiraque,26.0,8.0,,,2.0
 2024-12-08,Tiraque_M (GPRS),10.51,10.51,88.3,88.3,1.6
+2024-12-08,Todos Santos_Or,,4.5,,,
 2024-12-08,Toma Ravelo_M (GPRS),,,,,4.4
 2024-12-08,Tomave,25.8,7.0,,,
 2024-12-08,Tupiza,26.2,13.9,,,
@@ -67231,6 +67419,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-09,Magdalena,26.0,26.0,93.4,93.4,
 2024-12-09,Mairana_M (GPRS),21.57,21.57,86.0,86.0,0.4
 2024-12-09,Mecapaca_M (GPRS),,,,,3.2
+2024-12-09,Minero (Unagro),,,,,5.8
 2024-12-09,Mizque - SDC (GPRS),,,,,0.7
 2024-12-09,Mojo,27.0,7.3,,,
 2024-12-09,Montero_Muyurina,,,,,14.1
@@ -67276,6 +67465,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-09,San Calixto,,,,,9.4
 2024-12-09,San Jacinto_M (GPRS),26.91,15.71,83.3,47.96,
 2024-12-09,San Jose de Chiquitos,33.0,28.0,83.0,58.8,
+2024-12-09,San Juan de Yapacaní,,,,,12.8
 2024-12-09,San Julian - Comunidad Los Angeles (GPRS),,,,,0.1
 2024-12-09,San Julian - Nucleo 32 (GPRS),26.12,26.12,,,1.2
 2024-12-09,San Pablo de Lipez,14.9,3.0,,,
@@ -67299,11 +67489,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-09,Tarapaya,30.1,9.5,,,
 2024-12-09,Tarija,16.0,16.0,87.2,87.2,
 2024-12-09,Taruma,,,,,20.0
+2024-12-09,Taypillanga,,,,,1.0
 2024-12-09,Templo (GPRS),6.57,6.57,87.9,87.9,
 2024-12-09,Temporal - SDC (GPRS),26.78,11.34,73.27,0.03,
 2024-12-09,Tinguipaya,22.4,5.4,,,
 2024-12-09,Tiraque,27.0,8.0,,,5.0
 2024-12-09,Tiraque_M (GPRS),14.57,14.57,57.61,57.61,
+2024-12-09,Todos Santos_Or,,2.5,,,
 2024-12-09,Toma Ravelo_M (GPRS),,,,,1.5
 2024-12-09,Tomave,25.4,8.0,,,
 2024-12-09,Totora i_M (GPRS),,,,,0.8
@@ -67440,6 +67632,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-10,San Benito,,,,,13.0
 2024-12-10,San Jacinto_M (GPRS),26.3,16.67,82.6,40.17,
 2024-12-10,San Jose de Chiquitos,32.0,26.0,83.0,62.2,
+2024-12-10,San Juan de Yapacaní,,,,,5.2
 2024-12-10,San Julian - Comunidad Los Angeles (GPRS),24.46,24.46,85.5,85.5,0.1
 2024-12-10,San Julian - Nucleo 32 (GPRS),30.31,22.65,,,
 2024-12-10,San Pablo de Lipez,16.0,2.1,,,
@@ -67468,6 +67661,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-10,Tinguipaya,21.2,6.2,,,
 2024-12-10,Tiraque,25.0,6.0,,,12.5
 2024-12-10,Tiraque_M (GPRS),10.91,10.91,72.7,72.7,2.4
+2024-12-10,Todos Santos_Or,,0.0,,,0.3
 2024-12-10,Tomave,25.0,5.5,,,
 2024-12-10,Tupiza,24.2,12.0,,,
 2024-12-10,Tupiza_1_H (GPRS),,,,,0.7
@@ -67560,6 +67754,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-11,Mataral,,,,,12.6
 2024-12-11,Mizque - SDC (GPRS),20.25,20.25,67.61,67.61,0.4
 2024-12-11,Mojo,27.4,8.0,,,
+2024-12-11,Molle Molle,,,,,4.3
 2024-12-11,Nuevo Mundo,,,,,8.3
 2024-12-11,Omereque - SDC (GPRS),23.24,20.07,74.43,63.04,1.3
 2024-12-11,Oronkota PTI,35.2,19.8,,,
@@ -67623,6 +67818,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-11,Tinguipaya,20.0,7.0,,,
 2024-12-11,Tiraque,27.0,8.0,,,
 2024-12-11,Tiraque_M (GPRS),12.68,12.68,68.25,68.25,0.3
+2024-12-11,Todos Santos_Or,,1.5,,,
 2024-12-11,Toma Ravelo_M (GPRS),,,,,1.1
 2024-12-11,Tomave,26.0,4.0,,,1.5
 2024-12-11,Tupiza,28.4,13.2,,,
@@ -67748,6 +67944,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-12,Samasa,25.2,9.4,,,
 2024-12-12,San Jacinto_M (GPRS),27.75,20.76,74.22,50.44,
 2024-12-12,San Jose de Chiquitos,32.0,30.0,74.0,62.2,
+2024-12-12,San Juan de Yapacaní,,,,,6.2
 2024-12-12,San Julian - Comunidad Los Angeles (GPRS),30.47,30.47,73.75,73.75,0.1
 2024-12-12,San Julian - Nucleo 32 (GPRS),29.19,29.19,,,
 2024-12-12,San Pablo de Lipez,18.2,4.0,,,
@@ -67774,6 +67971,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-12,Tinguipaya,24.0,6.2,,,
 2024-12-12,Tiraque,25.0,7.0,,,
 2024-12-12,Tiraque_M (GPRS),13.58,13.58,66.15,66.15,
+2024-12-12,Todos Santos_Or,,4.5,,,
 2024-12-12,Tomave,25.0,4.8,,,0.5
 2024-12-12,Totora i_M (GPRS),,,,,0.3
 2024-12-12,Tupiza,29.0,13.4,,,
@@ -67870,8 +68068,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-13,Llallagua,23.0,7.0,,,
 2024-12-13,Magdalena,25.0,25.0,93.3,93.3,
 2024-12-13,Mairana_M (GPRS),24.59,24.59,74.43,74.43,
+2024-12-13,Minero (Unagro),,,,,2.0
 2024-12-13,Mizque - SDC (GPRS),20.36,20.36,57.38,57.38,
 2024-12-13,Mojo,26.2,5.3,,,
+2024-12-13,Molle Molle,,,,,4.3
 2024-12-13,Omereque - SDC (GPRS),23.34,18.63,70.56,55.3,
 2024-12-13,Oronkota PTI,35.2,21.3,,,
 2024-12-13,Oruro (GPRS),23.0,7.0,86.5,33.1,
@@ -67903,6 +68103,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-13,San Buenaventura_M (GPRS),,,,,4.9
 2024-12-13,San Jacinto_M (GPRS),27.94,14.05,97.0,45.63,
 2024-12-13,San Jose de Chiquitos,36.0,25.0,93.3,46.8,
+2024-12-13,San Juan de Yapacaní,,,,,8.0
 2024-12-13,San Julian - Comunidad Los Angeles (GPRS),28.84,28.84,81.1,81.1,
 2024-12-13,San Julian - Nucleo 32 (GPRS),27.43,27.43,,,3.0
 2024-12-13,San Pablo de Lipez,19.0,5.0,,,
@@ -67923,11 +68124,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-13,Tarabuco,24.5,6.3,,,
 2024-12-13,Tarapaya,30.5,5.9,,,1.5
 2024-12-13,Tarija,24.0,24.0,64.4,64.4,
+2024-12-13,Taypillanga,,,,,1.0
 2024-12-13,Templo (GPRS),7.78,7.78,86.4,86.4,
 2024-12-13,Temporal - SDC (GPRS),29.78,14.74,7.13,0.02,
 2024-12-13,Tinguipaya,23.0,7.4,,,
 2024-12-13,Tiraque,27.0,10.0,,,
 2024-12-13,Tiraque_M (GPRS),15.15,15.15,58.33,58.33,
+2024-12-13,Todos Santos_Or,,5.5,,,
 2024-12-13,Tomave,25.4,6.5,,,
 2024-12-13,Tupiza,30.0,13.6,,,
 2024-12-13,Urriolagoytia,,,,,12.0
@@ -68023,6 +68226,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-14,Llallagua,19.1,9.0,,,
 2024-12-14,Magdalena,24.0,24.0,99.1,99.1,
 2024-12-14,Mairana_M (GPRS),20.16,20.16,96.3,96.3,1.6
+2024-12-14,Minero (Unagro),,,,,0.2
 2024-12-14,Mizque - SDC (GPRS),17.81,17.81,75.36,75.36,1.3
 2024-12-14,Mojo,25.3,9.2,,,
 2024-12-14,Montero_Muyurina,,,,,0.9
@@ -68058,6 +68262,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-14,Sachapera,,,,,3.8
 2024-12-14,Samasa,25.4,7.1,,,
 2024-12-14,San Jacinto_M (GPRS),21.61,13.23,95.1,61.69,
+2024-12-14,San Juan de Yapacaní,,,,,33.8
 2024-12-14,San Julian,,,,,4.0
 2024-12-14,San Julian - Comunidad Los Angeles (GPRS),23.15,23.15,95.5,95.5,
 2024-12-14,San Julian - Nucleo 32 (GPRS),29.66,22.45,,,4.8
@@ -68088,6 +68293,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-14,Tinguipaya,22.2,8.3,,,
 2024-12-14,Tiraque,24.0,7.0,,,
 2024-12-14,Tiraque_M (GPRS),9.86,9.86,80.7,80.7,0.4
+2024-12-14,Todos Santos_Or,,7.0,,,
 2024-12-14,Toma Ravelo_M (GPRS),,,,,9.3
 2024-12-14,Tomave,26.0,5.5,,,
 2024-12-14,Tupiza,23.4,15.0,,,
@@ -68175,6 +68381,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-15,Mairana_M (GPRS),20.19,20.19,77.34,77.34,
 2024-12-15,Mizque - SDC (GPRS),13.95,13.95,80.3,80.3,1.0
 2024-12-15,Mojo,21.2,9.0,,,
+2024-12-15,Molle Molle,,,,,11.7
 2024-12-15,Nuevo Mundo,,,,,3.2
 2024-12-15,Omereque - SDC (GPRS),20.17,18.15,78.01,63.48,
 2024-12-15,Orinoca - UTO (GPRS),21.9,6.03,,,
@@ -68234,6 +68441,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-15,Tinguipaya,23.2,7.2,,,
 2024-12-15,Tiraque,25.0,8.0,,,
 2024-12-15,Tiraque_M (GPRS),11.36,11.36,76.11,76.11,0.1
+2024-12-15,Todos Santos_Or,,6.0,,,
 2024-12-15,Toma Ravelo_M (GPRS),,,,,3.8
 2024-12-15,Tomave,24.1,3.0,,,
 2024-12-15,Totora i_M (GPRS),,,,,0.2
@@ -68386,11 +68594,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-16,Tarabuco,16.2,8.2,,,
 2024-12-16,Tarapaya,22.0,11.6,,,
 2024-12-16,Tarija,26.0,17.0,81.8,47.2,
+2024-12-16,Taypillanga,,,,,2.0
 2024-12-16,Templo (GPRS),12.97,-0.49,99.9,58.23,
 2024-12-16,Temporal - SDC (GPRS),28.46,13.42,40.12,0.03,
 2024-12-16,Tinguipaya,22.3,6.2,,,
 2024-12-16,Tiraque,27.0,10.0,,,
 2024-12-16,Tiraque_M (GPRS),19.24,7.59,84.0,44.81,
+2024-12-16,Todos Santos_Or,,5.0,,,
 2024-12-16,Tomave,21.0,2.2,,,
 2024-12-16,Tupiza,27.4,13.0,,,
 2024-12-16,Univalle (GPRS),,,,,6.29
@@ -68530,6 +68740,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-17,Tinguipaya,23.1,6.0,,,
 2024-12-17,Tiraque,26.0,8.0,,,
 2024-12-17,Tiraque_M (GPRS),12.21,12.21,58.45,58.45,
+2024-12-17,Todos Santos_Or,,6.5,,,
 2024-12-17,Tomave,21.5,3.0,,,
 2024-12-17,Tupiza,28.0,15.2,,,
 2024-12-17,Uyuni,24.5,5.3,,,
@@ -68623,6 +68834,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-18,Oruro (GPRS),22.0,7.0,80.6,28.2,
 2024-12-18,Padilla,31.0,11.0,,,
 2024-12-18,Pailon - Pozo del Tigre (GPRS),35.92,26.11,82.5,44.19,
+2024-12-18,Palca,,,,,3.3
 2024-12-18,Pampas de Lequezana,22.4,15.0,,,
 2024-12-18,Paracti,,,,,8.5
 2024-12-18,Parotani,32.0,16.0,,,
@@ -68645,6 +68857,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-18,San Buenaventura_M (GPRS),,,,,10.2
 2024-12-18,San Jacinto_M (GPRS),30.53,14.3,98.6,44.89,
 2024-12-18,San Jose de Chiquitos,34.0,29.0,78.3,52.3,
+2024-12-18,San Juan de Yapacaní,,,,,7.2
 2024-12-18,San Julian,,,,,5.0
 2024-12-18,San Julian - Comunidad Los Angeles (GPRS),35.22,25.37,88.4,50.62,2.1
 2024-12-18,San Julian - Nucleo 32 (GPRS),33.52,25.34,,,1.0
@@ -68673,6 +68886,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-18,Tinguipaya,24.2,5.2,,,
 2024-12-18,Tiraque,24.0,7.0,,,
 2024-12-18,Tiraque_M (GPRS),13.85,13.85,51.15,51.15,
+2024-12-18,Todos Santos_Or,,4.5,,,
 2024-12-18,Tomave,25.2,4.5,,,
 2024-12-18,Tupiza,29.8,15.0,,,
 2024-12-18,Uyuni,24.0,6.0,,,
@@ -68768,6 +68982,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-19,Llallagua,,,,,19.1
 2024-12-19,Magdalena,25.0,25.0,93.3,93.3,
 2024-12-19,Mairana_M (GPRS),22.23,22.23,83.0,83.0,0.2
+2024-12-19,Minero (Unagro),,,,,0.2
 2024-12-19,Mizque - SDC (GPRS),29.14,14.42,95.0,30.98,
 2024-12-19,Mojo,24.2,7.0,,,4.5
 2024-12-19,Nuevo Mundo,,,,,3.1
@@ -68776,6 +68991,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-19,Oruro (GPRS),20.0,7.0,86.5,37.1,
 2024-12-19,Padilla,21.0,14.0,,,8.5
 2024-12-19,Pailon - Pozo del Tigre (GPRS),28.05,28.05,75.86,75.86,
+2024-12-19,Palca,,,,,3.8
 2024-12-19,Palos Blancos S.(GPRS),,,,,0.2
 2024-12-19,Pampas de Lequezana,20.0,7.2,,,
 2024-12-19,Paracti,,,,,14.0
@@ -68806,6 +69022,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-19,Samasa,24.2,8.4,,,
 2024-12-19,San Jacinto_M (GPRS),19.06,9.16,96.4,62.65,31.1
 2024-12-19,San Jose de Chiquitos,32.0,26.0,88.0,62.2,
+2024-12-19,San Juan de Yapacaní,,,,,2.6
 2024-12-19,San Julian - Comunidad Los Angeles (GPRS),27.72,27.72,78.91,78.91,0.2
 2024-12-19,San Julian - Nucleo 32 (GPRS),32.8,23.77,,,
 2024-12-19,San Pablo de Lipez,19.2,6.0,,,
@@ -68837,6 +69054,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-19,Tinguipaya,25.0,6.2,,,
 2024-12-19,Tiraque,26.0,9.0,,,
 2024-12-19,Tiraque_M (GPRS),14.18,14.18,57.82,57.82,
+2024-12-19,Todos Santos_Or,,6.0,,,
 2024-12-19,Toma Ravelo_M (GPRS),,,,,3.6
 2024-12-19,Tomave,26.0,6.0,,,
 2024-12-19,Tupiza,27.4,14.4,,,
@@ -68944,8 +69162,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-20,Magdalena,26.0,26.0,93.4,93.4,
 2024-12-20,Mairana_M (GPRS),19.41,19.41,100.0,100.0,13.0
 2024-12-20,Mataral,,,,,10.7
+2024-12-20,Minero (Unagro),,,,,4.2
 2024-12-20,Mizque - SDC (GPRS),15.83,15.83,94.4,94.4,2.1
 2024-12-20,Mojo,25.0,5.4,,,3.2
+2024-12-20,Molle Molle,,,,,22.9
 2024-12-20,Montero_Muyurina,,,,,3.8
 2024-12-20,Omereque - SDC (GPRS),19.12,17.89,95.7,94.3,9.5
 2024-12-20,Oronkota PTI,25.3,22.3,,,3.2
@@ -68984,6 +69204,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-20,San Benito,,,,,3.0
 2024-12-20,San Jacinto_M (GPRS),28.72,15.44,71.96,31.03,2.1
 2024-12-20,San Jose de Chiquitos,32.0,25.0,93.3,62.2,
+2024-12-20,San Juan de Yapacaní,,,,,14.2
 2024-12-20,San Julian,,,,,10.0
 2024-12-20,San Julian - Comunidad Los Angeles (GPRS),26.37,26.37,89.6,89.6,0.3
 2024-12-20,San Julian - Nucleo 32 (GPRS),23.44,23.44,,,1.0
@@ -69012,11 +69233,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-20,Tarapaya,25.9,9.9,,,
 2024-12-20,Tarata,,,,,4.0
 2024-12-20,Tarija,16.0,16.0,67.0,67.0,
+2024-12-20,Taypillanga,,,,,2.0
 2024-12-20,Templo (GPRS),2.25,2.25,97.1,97.1,15.4
 2024-12-20,Temporal - SDC (GPRS),24.72,11.13,64.3,0.04,13.2
 2024-12-20,Tinguipaya,21.0,7.2,,,
 2024-12-20,Tiraque,24.0,7.0,,,26.5
 2024-12-20,Tiraque_M (GPRS),9.06,9.06,90.5,90.5,8.7
+2024-12-20,Todos Santos_Or,,5.5,,,
 2024-12-20,Toma Ravelo_M (GPRS),,,,,10.6
 2024-12-20,Tomave,25.6,6.5,,,
 2024-12-20,Tupiza,23.0,12.0,,,
@@ -69114,6 +69337,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-21,La Violeta,22.0,,,,
 2024-12-21,Llallagua,20.0,5.2,,,
 2024-12-21,Mairana_M (GPRS),18.69,18.69,100.0,100.0,1.6
+2024-12-21,Minero (Unagro),,,,,3.6
 2024-12-21,Mizque - SDC (GPRS),27.28,13.5,92.7,45.09,2.3
 2024-12-21,Mojo,23.0,6.2,,,
 2024-12-21,Montero_Muyurina,,,,,4.2
@@ -69151,6 +69375,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-21,Samasa,24.2,6.4,,,
 2024-12-21,San Buenaventura_M (GPRS),,,,,2.0
 2024-12-21,San Jacinto_M (GPRS),28.39,17.82,91.2,43.17,
+2024-12-21,San Juan de Yapacaní,,,,,4.6
 2024-12-21,San Julian - Comunidad Los Angeles (GPRS),35.44,24.66,97.5,51.22,0.1
 2024-12-21,San Julian - Nucleo 32 (GPRS),34.5,25.07,,,3.2
 2024-12-21,San Pablo de Lipez,16.0,4.1,,,
@@ -69181,6 +69406,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-21,Tinguipaya,25.0,6.2,,,
 2024-12-21,Tiraque,25.0,8.0,,,
 2024-12-21,Tiraque_M (GPRS),20.02,8.89,85.7,42.47,0.1
+2024-12-21,Todos Santos_Or,,4.5,,,
 2024-12-21,Tomave,24.5,5.5,,,
 2024-12-21,Tupiza,27.4,11.4,,,
 2024-12-21,Urriolagoytia,,,,,6.0
@@ -69291,6 +69517,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-22,Magdalena,30.0,29.0,78.3,74.0,
 2024-12-22,Mairana_M (GPRS),18.88,18.88,95.6,95.6,10.2
 2024-12-22,Mataral,,,,,11.2
+2024-12-22,Minero (Unagro),,,,,27.8
 2024-12-22,Mizque - SDC (GPRS),15.77,15.77,82.0,82.0,1.1
 2024-12-22,Mojo,19.0,7.0,,,2.4
 2024-12-22,Montero_Muyurina,,,,,6.4
@@ -69335,6 +69562,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-22,Samaipata,,,,,4.0
 2024-12-22,Samasa,22.0,5.2,,,
 2024-12-22,San Jacinto_M (GPRS),19.2,12.16,99.9,75.99,0.9
+2024-12-22,San Juan de Yapacaní,,,,,0.4
 2024-12-22,San Julian - Comunidad Los Angeles (GPRS),26.74,26.74,86.7,86.7,0.2
 2024-12-22,San Julian - Nucleo 32 (GPRS),27.43,22.39,,,1.4
 2024-12-22,San Pablo de Lipez,17.0,3.0,,,5.0
@@ -69366,6 +69594,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-22,Tinguipaya,22.0,7.3,,,
 2024-12-22,Tiraque,23.0,5.0,,,7.0
 2024-12-22,Tiraque_M (GPRS),9.04,9.04,80.2,80.2,0.3
+2024-12-22,Todos Santos_Or,,6.0,,,
 2024-12-22,Toma Ravelo_M (GPRS),,,,,46.6
 2024-12-22,Tomave,23.0,6.0,,,
 2024-12-22,Tupiza,21.2,13.0,,,4.5
@@ -69468,6 +69697,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-23,Llallagua,,,,,6.5
 2024-12-23,Magdalena,,,99.1,99.1,
 2024-12-23,Mairana_M (GPRS),18.62,18.62,92.7,92.7,
+2024-12-23,Minero (Unagro),,,,,3.4
 2024-12-23,Mizque - SDC (GPRS),15.87,15.87,80.6,80.6,0.9
 2024-12-23,Mojo,25.0,5.0,,,
 2024-12-23,Narvaez,,,,,17.0
@@ -69538,6 +69768,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-23,Tinguipaya,19.4,6.2,,,
 2024-12-23,Tiraque,26.0,7.0,,,
 2024-12-23,Tiraque_M (GPRS),10.47,10.47,67.18,67.18,0.5
+2024-12-23,Todos Santos_Or,,3.5,,,
 2024-12-23,Toma Ravelo_M (GPRS),,,,,1.3
 2024-12-23,Tomave,26.0,3.5,,,
 2024-12-23,Totora i_M (GPRS),,,,,1.0
@@ -69633,6 +69864,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-24,Magdalena,25.0,25.0,93.3,93.3,
 2024-12-24,Mairana_M (GPRS),20.78,20.78,83.7,83.7,
 2024-12-24,Mecapaca_M (GPRS),,,,,0.4
+2024-12-24,Minero (Unagro),,,,,0.2
 2024-12-24,Mizque - SDC (GPRS),19.09,19.09,67.62,67.62,0.7
 2024-12-24,Mojo,23.0,5.3,,,10.5
 2024-12-24,Montero_Muyurina,,,,,0.6
@@ -69668,6 +69900,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-24,Samasa,22.4,4.2,,,
 2024-12-24,San Jacinto_M (GPRS),26.09,11.57,97.0,55.29,
 2024-12-24,San Jose de Chiquitos,32.0,27.0,88.0,62.2,
+2024-12-24,San Juan de Yapacaní,,,,,13.4
 2024-12-24,San Julian - Comunidad Los Angeles (GPRS),26.55,26.55,88.6,88.6,0.4
 2024-12-24,San Julian - Nucleo 32 (GPRS),26.39,26.39,,,3.8
 2024-12-24,San Pablo de Lipez,12.8,-3.1,,,
@@ -69694,6 +69927,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-24,Tinguipaya,21.3,5.2,,,
 2024-12-24,Tiraque,25.0,7.0,,,
 2024-12-24,Tiraque_M (GPRS),11.74,11.74,72.85,72.85,
+2024-12-24,Todos Santos_Or,,0.0,,,
 2024-12-24,Tomave,25.6,2.0,,,
 2024-12-24,Tupiza,22.4,10.0,,,
 2024-12-24,Tupiza_1_H (GPRS),,,,,4.2
@@ -69851,6 +70085,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-25,Tinguipaya,24.2,7.2,,,
 2024-12-25,Tiraque,23.0,5.0,,,22.5
 2024-12-25,Tiraque_M (GPRS),17.41,5.78,86.3,38.88,4.6
+2024-12-25,Todos Santos_Or,,-1.0,,,
 2024-12-25,Toma Ravelo_M (GPRS),,,,,7.6
 2024-12-25,Tomave,23.4,5.5,,,
 2024-12-25,Tupiza,21.2,11.2,,,
@@ -70000,6 +70235,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-26,Tinguipaya,25.3,6.2,,,
 2024-12-26,Tiraque,27.0,8.0,,,
 2024-12-26,Tiraque_M (GPRS),11.01,11.01,68.97,68.97,
+2024-12-26,Todos Santos_Or,,-7.5,,,
 2024-12-26,Tomave,21.0,0.5,,,
 2024-12-26,Tupiza,26.0,8.9,,,
 2024-12-26,Uyuni,21.0,-0.2,,,
@@ -70129,6 +70365,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-27,Tinguipaya,23.1,5.2,,,
 2024-12-27,Tiraque,25.0,9.0,,,
 2024-12-27,Tiraque_M (GPRS),10.95,10.95,68.65,68.65,
+2024-12-27,Todos Santos_Or,,-6.0,,,
 2024-12-27,Tomave,24.5,2.5,,,
 2024-12-27,Tupiza,26.4,12.2,,,
 2024-12-27,Uyuni,20.0,0.2,,,
@@ -70255,6 +70492,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-28,Tinguipaya,18.4,5.1,,,5.4
 2024-12-28,Tiraque,27.0,6.0,,,
 2024-12-28,Tiraque_M (GPRS),10.65,10.65,68.37,68.37,
+2024-12-28,Todos Santos_Or,,-3.5,,,
 2024-12-28,Tomave,24.0,0.5,,,
 2024-12-28,Tupiza,23.2,13.0,,,
 2024-12-28,Uyuni,21.2,2.0,,,
@@ -70390,6 +70628,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-29,Tinguipaya,21.2,7.3,,,
 2024-12-29,Tiraque,24.0,6.0,,,
 2024-12-29,Tiraque_M (GPRS),10.16,10.16,73.63,73.63,
+2024-12-29,Todos Santos_Or,,0.0,,,
 2024-12-29,Toma Ravelo_M (GPRS),,,,,0.1
 2024-12-29,Tomave,25.4,1.0,,,
 2024-12-29,Totora i_M (GPRS),,,,,0.1
@@ -70519,6 +70758,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-30,Tinguipaya,20.1,7.2,,,6.3
 2024-12-30,Tiraque,26.0,8.0,,,
 2024-12-30,Tiraque_M (GPRS),12.33,12.33,64.84,64.84,
+2024-12-30,Todos Santos_Or,,1.5,,,
 2024-12-30,Tomave,25.6,2.5,,,
 2024-12-30,Tupiza,23.4,12.0,,,
 2024-12-30,Uyuni,22.1,4.0,,,
@@ -70657,6 +70897,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-31,Tinguipaya,21.2,8.2,,,
 2024-12-31,Tiraque,27.0,9.0,,,
 2024-12-31,Tiraque_M (GPRS),12.76,12.76,64.97,64.97,
+2024-12-31,Todos Santos_Or,,3.0,,,
 2024-12-31,Toma Ravelo_M (GPRS),,,,,0.1
 2024-12-31,Tomave,24.4,1.8,,,
 2024-12-31,Tupiza,28.2,11.6,,,
