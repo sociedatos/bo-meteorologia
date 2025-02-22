@@ -1,0 +1,41 @@
+name: Update forecasts senamhi
+on:
+  schedule:
+    - cron: '20 */2 * * *'
+jobs:
+  update:
+    name: update data
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@main
+        with:
+          ref: main
+          lfs: true
+      - name: setup python
+        uses: actions/setup-python@v1
+        with:
+          python-version: '3.9'
+      - name: install python and dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r update/requirements.txt
+      - name: run update script
+        id: run_update_script
+        run: |
+          python update/update.forecasts.py
+      - name: git status
+        id: git-status
+        run: |
+          git config --global user.email "psiport@hotmail.com"
+          git config --global user.name "pr0nstar"
+          echo ::set-output name=result::$(git status | tr -d "\n" | grep -c "nothing to commit")
+      - name: commit
+        if: steps.git-status.outputs.result == 0
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          git pull
+          git add -A
+          git commit -m "[ci] actualización forecasts senamhi"
+          git push -q "https://$GH_TOKEN@github.com/pr0nstar/bo-meteorologia-test.git" main
