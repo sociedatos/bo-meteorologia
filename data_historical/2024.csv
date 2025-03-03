@@ -14712,6 +14712,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-04,Caranavi_H (GPRS),,,,,13.5
 2024-03-04,Carmen Pampa,30.2,15.4,,,1.6
 2024-03-04,Carura_M (GPRS),,,,,10.7
+2024-03-04,Carura_M - Guanay (GPRS),,,,,10.7
 2024-03-04,Catacora,,,,,2.7
 2024-03-04,Cayarani,,,,,10.1
 2024-03-04,Cañas,,,,,1.0
@@ -16105,6 +16106,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-09,Caranavi_H (GPRS),,,,,0.7
 2024-03-09,Carmen Pampa,30.3,16.5,,,21.5
 2024-03-09,Carura_M (GPRS),,,,,4.1
+2024-03-09,Carura_M - Guanay (GPRS),,,,,4.1
 2024-03-09,Catacora,,,,,0.1
 2024-03-09,Cayarani,,,,,13.5
 2024-03-09,Cañas,,17.0,,,
@@ -16341,6 +16343,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-10,Caranavi_H (GPRS),,,,,14.3
 2024-03-10,Carmen Pampa,30.5,15.6,,,19.3
 2024-03-10,Carura_M (GPRS),,,,,9.7
+2024-03-10,Carura_M - Guanay (GPRS),,,,,9.7
 2024-03-10,Catacora,,,,,1.5
 2024-03-10,Cayarani,,,,,49.3
 2024-03-10,Cañas,,14.0,,,
@@ -16822,6 +16825,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-12,Caranavi,35.0,20.0,,,
 2024-03-12,Carmen Pampa,31.4,16.3,,,
 2024-03-12,Carura_M (GPRS),,,,,0.7
+2024-03-12,Carura_M - Guanay (GPRS),,,,,0.7
 2024-03-12,Cañas,,,,,3.6
 2024-03-12,Challapata Aut,,,,,1.2
 2024-03-12,Chaqui,,,,,14.0
@@ -17277,6 +17281,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-14,Caranavi_H (GPRS),,,,,18.5
 2024-03-14,Carmen Pampa,30.5,15.4,,,3.5
 2024-03-14,Carura_M (GPRS),,,,,0.1
+2024-03-14,Carura_M - Guanay (GPRS),,,,,0.1
 2024-03-14,Catacora,,,,,9.6
 2024-03-14,Cayarani,,,,,4.2
 2024-03-14,Cañas,,14.0,,,
@@ -17729,6 +17734,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-16,Caranavi_H (GPRS),,,,,10.3
 2024-03-16,Carmen Pampa,30.6,16.5,,,14.9
 2024-03-16,Carura_M (GPRS),,,,,62.5
+2024-03-16,Carura_M - Guanay (GPRS),,,,,62.5
 2024-03-16,Catacora,,,,,1.6
 2024-03-16,Cayarani,,,,,10.1
 2024-03-16,Cañas,,15.0,,,16.5
@@ -17964,6 +17970,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-17,Caranavi_H (GPRS),,,,,9.8
 2024-03-17,Carmen Pampa,30.2,15.8,,,4.6
 2024-03-17,Carura_M (GPRS),,,,,21.9
+2024-03-17,Carura_M - Guanay (GPRS),,,,,21.9
 2024-03-17,Catacora,,,,,6.7
 2024-03-17,Cayarani,,,,,2.1
 2024-03-17,Cañas,,16.0,,,18.6
@@ -18218,6 +18225,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-18,Caranavi_H (GPRS),,,,,3.3
 2024-03-18,Carmen Pampa,30.3,15.4,,,
 2024-03-18,Carura_M (GPRS),,,,,3.5
+2024-03-18,Carura_M - Guanay (GPRS),,,,,3.5
 2024-03-18,Catacora,,,,,15.7
 2024-03-18,Cayarani,,,,,21.2
 2024-03-18,Cañas,,15.0,,,
@@ -18945,6 +18953,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-21,Caranavi_H (GPRS),,,,,26.3
 2024-03-21,Carmen Pampa,31.1,16.5,,,1.8
 2024-03-21,Carura_M (GPRS),,,,,5.6
+2024-03-21,Carura_M - Guanay (GPRS),,,,,5.6
 2024-03-21,Cayarani,,,,,2.6
 2024-03-21,Cañas,,15.0,,,
 2024-03-21,Challapata Aut,21.3,3.0,,,
@@ -19192,6 +19201,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-22,Caranavi_H (GPRS),,,,,5.1
 2024-03-22,Carmen Pampa,30.2,15.7,,,
 2024-03-22,Carura_M (GPRS),,,,,2.9
+2024-03-22,Carura_M - Guanay (GPRS),,,,,2.9
 2024-03-22,Catacora,,,,,4.2
 2024-03-22,Cayarani,,,,,0.8
 2024-03-22,Cañas,,13.0,,,
@@ -22412,6 +22422,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-06,Caranavi_H (GPRS),,,,,0.2
 2024-04-06,Carmen Pampa,25.4,13.8,,,0.8
 2024-04-06,Carura_M (GPRS),,,,,0.1
+2024-04-06,Carura_M - Guanay (GPRS),,,,,0.1
 2024-04-06,Cayarani,,,,,3.2
 2024-04-06,Cañas,21.0,16.0,,,4.0
 2024-04-06,Challapata Aut,20.4,6.7,,,0.8
@@ -24518,6 +24529,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-15,Caranavi_H (GPRS),,,,,1.4
 2024-04-15,Carmen Pampa,26.7,16.8,,,15.9
 2024-04-15,Carura_M (GPRS),,,,,0.1
+2024-04-15,Carura_M - Guanay (GPRS),,,,,0.1
 2024-04-15,Cayarani,,,,,8.7
 2024-04-15,Cañas,18.0,13.0,,,
 2024-04-15,Challapata Aut,19.3,0.6,,,
@@ -29319,6 +29331,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-10,Caranavi_H (GPRS),,,,,0.1
 2024-05-10,Carmen Pampa,29.1,15.6,,,16.8
 2024-05-10,Carura_M (GPRS),,,,,3.3
+2024-05-10,Carura_M - Guanay (GPRS),,,,,3.3
 2024-05-10,Cayarani,,,,,1.9
 2024-05-10,Cañas,26.0,10.0,,,
 2024-05-10,Challapata Aut,19.1,0.7,,,
@@ -30107,6 +30120,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-14,Caranavi_H (GPRS),,,,,2.0
 2024-05-14,Carmen Pampa,28.9,15.7,,,0.4
 2024-05-14,Carura_M (GPRS),,,,,3.2
+2024-05-14,Carura_M - Guanay (GPRS),,,,,3.2
 2024-05-14,Cayarani,,,,,0.5
 2024-05-14,Cañas,13.0,9.0,,,
 2024-05-14,Challapata Aut,18.7,3.8,,,
@@ -31161,6 +31175,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-19,Caranavi_H (GPRS),,,,,1.2
 2024-05-19,Carmen Pampa,27.7,14.8,,,2.8
 2024-05-19,Carura_M (GPRS),,,,,0.1
+2024-05-19,Carura_M - Guanay (GPRS),,,,,0.1
 2024-05-19,Cañas,17.0,5.0,,,
 2024-05-19,Challapata Aut,15.4,-3.1,,,
 2024-05-19,Chaqui,20.0,-1.1,,,
@@ -32259,6 +32274,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-25,Caranavi_H (GPRS),,,,,2.0
 2024-05-25,Carmen Pampa,29.4,16.1,,,9.7
 2024-05-25,Carura_M (GPRS),,,,,0.2
+2024-05-25,Carura_M - Guanay (GPRS),,,,,0.2
 2024-05-25,Cañas,14.0,1.0,,,
 2024-05-25,Challapata Aut,15.2,-3.6,,,
 2024-05-25,Chaqui,21.1,-0.3,,,
@@ -36035,6 +36051,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-16,Carabuco,,3.9,,,
 2024-06-16,Caranavi,30.0,21.5,,,11.0
 2024-06-16,Carura_M (GPRS),,,,,8.6
+2024-06-16,Carura_M - Guanay (GPRS),,,,,8.6
 2024-06-16,Cañas,32.0,8.0,,,
 2024-06-16,Challapata Aut,18.6,,,,
 2024-06-16,Chaqui,20.6,-0.2,,,
@@ -36228,6 +36245,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-17,Caranavi,29.5,21.0,,,10.5
 2024-06-17,Caranavi_H (GPRS),,,,,10.3
 2024-06-17,Carura_M (GPRS),,,,,19.8
+2024-06-17,Carura_M - Guanay (GPRS),,,,,19.8
 2024-06-17,Cayarani,,,,,7.4
 2024-06-17,Cañas,27.0,8.0,,,
 2024-06-17,Challapata Aut,17.9,,,,
@@ -36618,6 +36636,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-19,Caranavi,31.5,19.0,,,
 2024-06-19,Caranavi_H (GPRS),,,,,11.4
 2024-06-19,Carura_M (GPRS),,,,,2.5
+2024-06-19,Carura_M - Guanay (GPRS),,,,,2.5
 2024-06-19,Cayarani,,,,,0.4
 2024-06-19,Cañas,33.0,6.0,,,
 2024-06-19,Challapata Aut,16.5,,,,
@@ -36808,6 +36827,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-20,Caranavi,32.0,19.5,,,
 2024-06-20,Caranavi_H (GPRS),,,,,0.4
 2024-06-20,Carura_M (GPRS),,,,,0.1
+2024-06-20,Carura_M - Guanay (GPRS),,,,,0.1
 2024-06-20,Cayarani,,,,,0.2
 2024-06-20,Cañas,34.0,4.0,,,
 2024-06-20,Challapata Aut,12.0,,,,
@@ -37948,6 +37968,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-27,Carabuco,,-2.5,,,
 2024-06-27,Caranavi,31.5,16.5,,,
 2024-06-27,Carura_M (GPRS),,,,,2.2
+2024-06-27,Carura_M - Guanay (GPRS),,,,,2.2
 2024-06-27,Cañas,30.0,2.5,,,
 2024-06-27,Challapata Aut,14.7,,,,
 2024-06-27,Chaqui,22.1,-2.0,,,
@@ -39817,6 +39838,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-08,Caranavi,29.0,14.0,,,8.5
 2024-07-08,Caranavi_H (GPRS),,,,,2.5
 2024-07-08,Carura_M (GPRS),,,,,0.2
+2024-07-08,Carura_M - Guanay (GPRS),,,,,0.2
 2024-07-08,Cayarani,,,,,3.2
 2024-07-08,Cañas,12.0,6.0,,,
 2024-07-08,Chaqui,19.9,-3.1,,,
@@ -40014,6 +40036,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-09,Caranavi,27.5,13.0,,,11.0
 2024-07-09,Caranavi_H (GPRS),,,,,1.0
 2024-07-09,Carura_M (GPRS),,,,,1.2
+2024-07-09,Carura_M - Guanay (GPRS),,,,,1.2
 2024-07-09,Cayarani,,,,,0.3
 2024-07-09,Cañas,18.0,3.0,,,
 2024-07-09,Chaqui,19.9,-4.0,,,
@@ -40205,6 +40228,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-10,Caranavi,27.0,12.5,,,6.5
 2024-07-10,Caranavi_H (GPRS),,,,,0.1
 2024-07-10,Carura_M (GPRS),,,,,2.2
+2024-07-10,Carura_M - Guanay (GPRS),,,,,2.2
 2024-07-10,Cañas,18.0,4.0,,,
 2024-07-10,Chaqui,17.1,-2.1,,,
 2024-07-10,Chillca,22.5,-11.5,,,
@@ -40586,6 +40610,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-12,Caranavi,30.0,14.5,,,
 2024-07-12,Caranavi_H (GPRS),,,,,2.9
 2024-07-12,Carura_M (GPRS),,,,,6.3
+2024-07-12,Carura_M - Guanay (GPRS),,,,,6.3
 2024-07-12,Cayarani,,,,,8.6
 2024-07-12,Cañas,18.0,5.0,,,
 2024-07-12,Chaqui,17.2,-4.0,,,
@@ -40782,6 +40807,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-13,Caranavi,29.5,15.0,,,4.0
 2024-07-13,Caranavi_H (GPRS),,,,,5.8
 2024-07-13,Carura_M (GPRS),,,,,9.0
+2024-07-13,Carura_M - Guanay (GPRS),,,,,9.0
 2024-07-13,Cayarani,,,,,10.0
 2024-07-13,Cañas,19.0,3.0,,,
 2024-07-13,Chaqui,18.6,-2.3,,,
@@ -40962,6 +40988,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-14,Carabuco,,-2.0,,,
 2024-07-14,Caranavi,29.0,14.0,,,6.0
 2024-07-14,Carura_M (GPRS),,,,,0.3
+2024-07-14,Carura_M - Guanay (GPRS),,,,,0.3
 2024-07-14,Cañas,16.0,6.0,,,
 2024-07-14,Chaqui,17.7,-2.8,,,
 2024-07-14,Chillca,22.4,-11.7,,,
@@ -41130,6 +41157,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-15,Carabuco,,-2.5,,,
 2024-07-15,Caranavi,28.5,14.0,,,9.5
 2024-07-15,Carura_M (GPRS),,,,,0.2
+2024-07-15,Carura_M - Guanay (GPRS),,,,,0.2
 2024-07-15,Cañas,25.0,9.0,,,
 2024-07-15,Chaqui,18.1,-4.1,,,
 2024-07-15,Chillca,22.7,-11.8,,,
@@ -41479,6 +41507,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-17,Carabuco,,-3.5,,,
 2024-07-17,Caranavi,29.0,13.0,,,
 2024-07-17,Carura_M (GPRS),,,,,0.1
+2024-07-17,Carura_M - Guanay (GPRS),,,,,0.1
 2024-07-17,Cañas,30.0,3.0,,,
 2024-07-17,Chaqui,20.7,0.0,,,
 2024-07-17,Charazani (GPRS),8.6,6.05,78.17,29.44,
@@ -42681,6 +42710,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-24,Carabuco,,0.0,,,
 2024-07-24,Caranavi,33.5,18.0,,,
 2024-07-24,Carura_M (GPRS),,,,,0.8
+2024-07-24,Carura_M - Guanay (GPRS),,,,,0.8
 2024-07-24,Cañas,31.0,5.0,,,
 2024-07-24,Chaqui,21.7,1.1,,,
 2024-07-24,Charazani (GPRS),16.57,8.29,74.02,46.24,
@@ -43357,6 +43387,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-28,Carabuco,,0.0,,,
 2024-07-28,Caranavi,32.5,16.5,,,
 2024-07-28,Carura_M (GPRS),,,,,0.3
+2024-07-28,Carura_M - Guanay (GPRS),,,,,0.3
 2024-07-28,Cayarani,,,,,0.7
 2024-07-28,Cañas,32.0,13.0,,,
 2024-07-28,Chaqui,19.7,-0.2,,,
@@ -43718,6 +43749,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-30,Caranavi,35.0,18.0,,,
 2024-07-30,Caranavi_H (GPRS),,,,,1.2
 2024-07-30,Carura_M (GPRS),,,,,1.1
+2024-07-30,Carura_M - Guanay (GPRS),,,,,1.1
 2024-07-30,Cayarani,,,,,2.9
 2024-07-30,Cañas,14.0,5.5,,,
 2024-07-30,Chaqui,20.0,-1.1,,,
@@ -44936,6 +44968,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-06,Caranavi,28.0,20.0,,,10.5
 2024-08-06,Caranavi_H (GPRS),,,,,8.9
 2024-08-06,Carura_M (GPRS),,,,,4.0
+2024-08-06,Carura_M - Guanay (GPRS),,,,,4.0
 2024-08-06,Cayarani,,,,,7.5
 2024-08-06,Cañas,,8.0,,,
 2024-08-06,Chaqui,19.1,1.0,,,
@@ -45496,6 +45529,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-09,Caranavi,28.5,21.5,,,10.5
 2024-08-09,Caranavi_H (GPRS),,,,,3.1
 2024-08-09,Carura_M (GPRS),,,,,8.8
+2024-08-09,Carura_M - Guanay (GPRS),,,,,8.8
 2024-08-09,Cayarani,,,,,1.3
 2024-08-09,Cañas,,5.0,,,
 2024-08-09,Chaqui,18.4,-3.4,,,
@@ -47707,6 +47741,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-22,Carabuco,,-1.0,,,
 2024-08-22,Caranavi,30.0,21.5,,,9.0
 2024-08-22,Carura_M (GPRS),,,,,0.5
+2024-08-22,Carura_M - Guanay (GPRS),,,,,0.5
 2024-08-22,Cañas,,7.0,,,
 2024-08-22,Chaqui,22.6,7.2,,,
 2024-08-22,Charazani (GPRS),18.38,12.82,60.73,47.78,
@@ -51249,6 +51284,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-12,Carabuco,,1.5,,,
 2024-09-12,Caranavi,35.0,17.5,,,
 2024-09-12,Carura_M (GPRS),,,,,13.6
+2024-09-12,Carura_M - Guanay (GPRS),,,,,13.6
 2024-09-12,Cañas,37.0,14.0,,,
 2024-09-12,Chaqui,22.2,4.0,,,
 2024-09-12,Chillca,21.3,-2.1,,,
@@ -51425,6 +51461,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-13,Caranavi,35.5,18.5,,,
 2024-09-13,Caranavi_H (GPRS),,,,,20.0
 2024-09-13,Carura_M (GPRS),,,,,7.8
+2024-09-13,Carura_M - Guanay (GPRS),,,,,7.8
 2024-09-13,Cayarani,,,,,0.5
 2024-09-13,Cañas,37.0,13.0,,,
 2024-09-13,Chaqui,23.1,2.3,,,
@@ -51799,6 +51836,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-15,Caranavi,30.5,21.0,,,14.0
 2024-09-15,Caranavi_H (GPRS),,,,,70.2
 2024-09-15,Carura_M (GPRS),,,,,16.4
+2024-09-15,Carura_M - Guanay (GPRS),,,,,16.4
 2024-09-15,Cayarani,,,,,24.0
 2024-09-15,Cañas,13.0,11.0,,,
 2024-09-15,Chaqui,20.2,1.1,,,
@@ -53062,6 +53100,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-22,Carabuco,,3.9,,,
 2024-09-22,Caranavi,33.5,19.5,,,
 2024-09-22,Carura_M (GPRS),,,,,10.0
+2024-09-22,Carura_M - Guanay (GPRS),,,,,10.0
 2024-09-22,Cañas,36.0,13.0,,,
 2024-09-22,Chaqui,23.8,5.8,,,
 2024-09-22,Chillca,20.5,-4.4,,,
@@ -53910,6 +53949,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-27,Caranavi,31.5,21.0,,,11.5
 2024-09-27,Caranavi_H (GPRS),,,,,35.4
 2024-09-27,Carura_M (GPRS),,,,,5.1
+2024-09-27,Carura_M - Guanay (GPRS),,,,,5.1
 2024-09-27,Cayarani,,,,,7.8
 2024-09-27,Cañas,14.0,8.0,,,
 2024-09-27,Chaqui,21.8,5.0,,,
@@ -54948,6 +54988,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-03,Caranavi,28.5,20.2,,,14.5
 2024-10-03,Caranavi_H (GPRS),,,,,71.2
 2024-10-03,Carura_M (GPRS),,,,,3.2
+2024-10-03,Carura_M - Guanay (GPRS),,,,,3.2
 2024-10-03,Cayarani,,,,,4.6
 2024-10-03,Cañas,33.0,13.0,,,
 2024-10-03,Chaqui,22.7,4.9,,,0.8
@@ -55129,6 +55170,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-04,Caranavi,30.0,19.0,,,
 2024-10-04,Caranavi_H (GPRS),,,,,4.5
 2024-10-04,Carura_M (GPRS),,,,,28.6
+2024-10-04,Carura_M - Guanay (GPRS),,,,,28.6
 2024-10-04,Cayarani,,,,,0.2
 2024-10-04,Cañas,25.0,7.0,,,
 2024-10-04,Chaqui,23.8,4.0,,,
@@ -57457,6 +57499,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-17,Caranavi,30.0,20.1,,,
 2024-10-17,Caranavi_H (GPRS),,,,,5.2
 2024-10-17,Carura_M (GPRS),,,,,0.2
+2024-10-17,Carura_M - Guanay (GPRS),,,,,0.2
 2024-10-17,Cañas,32.0,15.0,,,
 2024-10-17,Chaqui,22.8,3.6,,,2.1
 2024-10-17,Chillca,23.2,7.3,,,
@@ -57659,6 +57702,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-18,Carabuco,,1.9,,,
 2024-10-18,Caranavi,31.0,20.0,,,
 2024-10-18,Carura_M (GPRS),,,,,1.3
+2024-10-18,Carura_M - Guanay (GPRS),,,,,1.3
 2024-10-18,Cañas,,,,,18.0
 2024-10-18,Chaqui,19.4,4.1,,,
 2024-10-18,Chillca,20.2,6.0,,,
@@ -57844,6 +57888,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-19,Carabuco,,3.1,,,
 2024-10-19,Caranavi,33.5,19.4,,,
 2024-10-19,Carura_M (GPRS),,,,,27.5
+2024-10-19,Carura_M - Guanay (GPRS),,,,,27.5
 2024-10-19,Cañas,,,,,28.0
 2024-10-19,Chaqui,21.7,2.8,,,1.6
 2024-10-19,Chillca,21.6,5.5,,,
@@ -58038,6 +58083,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-20,Carabuco,,2.9,,,
 2024-10-20,Caranavi,34.0,19.0,,,
 2024-10-20,Carura_M (GPRS),,,,,0.8
+2024-10-20,Carura_M - Guanay (GPRS),,,,,0.8
 2024-10-20,Cañas,31.0,12.0,,,
 2024-10-20,Chaqui,24.9,3.8,,,
 2024-10-20,Chillca,22.7,6.2,,,
@@ -59083,6 +59129,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-26,Carabuco,,5.7,,,
 2024-10-26,Caranavi,37.0,20.5,,,
 2024-10-26,Carura_M (GPRS),,,,,2.5
+2024-10-26,Carura_M - Guanay (GPRS),,,,,2.5
 2024-10-26,Cayarani,,,,,17.9
 2024-10-26,Cañas,34.0,14.0,,,
 2024-10-26,Chaqui,18.0,5.7,,,4.9
@@ -59294,6 +59341,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-27,Caranavi,38.0,21.0,,,
 2024-10-27,Caranavi_H (GPRS),,,,,1.3
 2024-10-27,Carura_M (GPRS),,,,,2.5
+2024-10-27,Carura_M - Guanay (GPRS),,,,,2.5
 2024-10-27,Cayarani,,,,,10.8
 2024-10-27,Cañas,,,,,24.0
 2024-10-27,Chaqui,19.4,6.9,,,8.8
@@ -60064,6 +60112,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-31,Carabuco,,6.0,,,
 2024-10-31,Caranavi,35.0,19.0,,,
 2024-10-31,Carura_M (GPRS),,,,,0.5
+2024-10-31,Carura_M - Guanay (GPRS),,,,,0.5
 2024-10-31,Cañas,,,,,13.0
 2024-10-31,Chaqui,20.8,5.1,,,
 2024-10-31,Chillca,22.7,7.1,,,
@@ -60259,6 +60308,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-01,Caranavi,36.0,20.5,,,
 2024-11-01,Caranavi_H (GPRS),,,,,0.3
 2024-11-01,Carura_M (GPRS),,,,,2.1
+2024-11-01,Carura_M - Guanay (GPRS),,,,,2.1
 2024-11-01,Cayarani,,,,,11.1
 2024-11-01,Cañas,34.5,12.0,,,20.0
 2024-11-01,Chaqui,21.3,3.7,,,
@@ -60456,6 +60506,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-02,Caranavi,36.5,21.5,,,
 2024-11-02,Caranavi_H (GPRS),,,,,8.9
 2024-11-02,Carura_M (GPRS),,,,,25.3
+2024-11-02,Carura_M - Guanay (GPRS),,,,,25.3
 2024-11-02,Cayarani,,,,,11.4
 2024-11-02,Cañas,31.0,13.0,,,
 2024-11-02,Chaqui,23.4,3.8,,,
@@ -61183,6 +61234,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-06,Carabuco,,8.0,,,
 2024-11-06,Caranavi_H (GPRS),,,,,53.9
 2024-11-06,Carura_M (GPRS),,,,,42.3
+2024-11-06,Carura_M - Guanay (GPRS),,,,,42.3
 2024-11-06,Cayarani,,,,,17.2
 2024-11-06,Cañas,26.0,17.0,,,2.0
 2024-11-06,Chaqui,20.3,7.6,,,3.1
@@ -61402,6 +61454,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-07,Carabuco,,6.0,,,
 2024-11-07,Caranavi_H (GPRS),,,,,0.6
 2024-11-07,Carura_M (GPRS),,,,,10.5
+2024-11-07,Carura_M - Guanay (GPRS),,,,,10.5
 2024-11-07,Cayarani,,,,,1.6
 2024-11-07,Cañas,30.0,15.0,,,12.0
 2024-11-07,Chaqui,15.9,8.6,,,
@@ -61605,6 +61658,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-08,Capinota,,,,,2.7
 2024-11-08,Carabuco,,6.9,,,
 2024-11-08,Carura_M (GPRS),,,,,0.2
+2024-11-08,Carura_M - Guanay (GPRS),,,,,0.2
 2024-11-08,Cayarani,,,,,1.9
 2024-11-08,Cañas,23.0,14.0,,,4.5
 2024-11-08,Chaqui,19.1,7.2,,,2.9
@@ -62324,6 +62378,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-12,Caranavi,,,,,13.0
 2024-11-12,Caranavi_H (GPRS),,,,,19.1
 2024-11-12,Carura_M (GPRS),,,,,47.1
+2024-11-12,Carura_M - Guanay (GPRS),,,,,47.1
 2024-11-12,Cañas,30.0,11.0,,,14.0
 2024-11-12,Chaqui,19.7,5.6,,,
 2024-11-12,Chinchaya,,,,,11.8
@@ -63236,6 +63291,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-17,Carabuco,,6.5,,,
 2024-11-17,Caranavi_H (GPRS),,,,,1.5
 2024-11-17,Carura_M (GPRS),,,,,0.6
+2024-11-17,Carura_M - Guanay (GPRS),,,,,0.6
 2024-11-17,Cañas,35.5,15.0,,,24.0
 2024-11-17,Chaqui,22.1,6.7,,,
 2024-11-17,Charazani (GPRS),16.13,9.31,77.79,65.93,
@@ -63689,6 +63745,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-19,Caranavi,,,,,8.0
 2024-11-19,Caranavi_H (GPRS),,,,,11.2
 2024-11-19,Carura_M (GPRS),,,,,13.0
+2024-11-19,Carura_M - Guanay (GPRS),,,,,13.0
 2024-11-19,Catacora,,,,,2.4
 2024-11-19,Cayarani,,,,,3.9
 2024-11-19,Cañas,25.0,16.0,,,18.0
@@ -63929,6 +63986,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-20,Carabuco,,6.5,,,
 2024-11-20,Caranavi,,,,,11.0
 2024-11-20,Carura_M (GPRS),,,,,0.3
+2024-11-20,Carura_M - Guanay (GPRS),,,,,0.3
 2024-11-20,Catacora,,,,,5.5
 2024-11-20,Cayarani,,,,,8.0
 2024-11-20,Cañas,24.0,14.0,,,3.0
@@ -64141,6 +64199,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-21,Caranavi,,,,,4.5
 2024-11-21,Caranavi_H (GPRS),,,,,2.7
 2024-11-21,Carura_M (GPRS),,,,,8.5
+2024-11-21,Carura_M - Guanay (GPRS),,,,,8.5
 2024-11-21,Catacora,,,,,3.7
 2024-11-21,Cayarani,,,,,10.4
 2024-11-21,Cañas,29.0,18.0,,,
@@ -64376,6 +64435,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-22,Caranavi,,,,,7.0
 2024-11-22,Caranavi_H (GPRS),,,,,5.5
 2024-11-22,Carura_M (GPRS),,,,,6.4
+2024-11-22,Carura_M - Guanay (GPRS),,,,,6.4
 2024-11-22,Catacora,,,,,12.5
 2024-11-22,Cayarani,,,,,30.0
 2024-11-22,Cañas,27.0,15.0,,,2.0
@@ -64610,6 +64670,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-23,Caranavi,,,,,3.5
 2024-11-23,Caranavi_H (GPRS),,,,,13.8
 2024-11-23,Carura_M (GPRS),,,,,0.9
+2024-11-23,Carura_M - Guanay (GPRS),,,,,0.9
 2024-11-23,Catacora,,,,,6.7
 2024-11-23,Cayarani,,,,,4.0
 2024-11-23,Cañas,30.0,18.0,,,
@@ -64824,6 +64885,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-24,Carabuco,,5.5,,,
 2024-11-24,Caranavi_H (GPRS),,,,,0.7
 2024-11-24,Carura_M (GPRS),,,,,8.9
+2024-11-24,Carura_M - Guanay (GPRS),,,,,8.9
 2024-11-24,Catacora,,,,,13.2
 2024-11-24,Cayarani,,,,,29.2
 2024-11-24,Cañas,32.0,15.0,,,
@@ -65032,6 +65094,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-25,Carabuco,,6.7,,,
 2024-11-25,Caranavi_H (GPRS),,,,,10.5
 2024-11-25,Carura_M (GPRS),,,,,1.6
+2024-11-25,Carura_M - Guanay (GPRS),,,,,1.6
 2024-11-25,Catacora,,,,,3.0
 2024-11-25,Cayarani,,,,,1.2
 2024-11-25,Cañas,33.0,17.0,,,
@@ -65225,6 +65288,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-26,Carabuco,,7.5,,,
 2024-11-26,Caranavi_H (GPRS),,,,,0.2
 2024-11-26,Carura_M (GPRS),,,,,1.9
+2024-11-26,Carura_M - Guanay (GPRS),,,,,1.9
 2024-11-26,Cayarani,,,,,0.9
 2024-11-26,Cañas,34.0,13.0,,,24.0
 2024-11-26,Chaqui,22.3,8.6,,,
@@ -65420,6 +65484,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-27,Carabuco,,6.6,,,
 2024-11-27,Caranavi_H (GPRS),,,,,1.1
 2024-11-27,Carura_M (GPRS),,,,,36.3
+2024-11-27,Carura_M - Guanay (GPRS),,,,,36.3
 2024-11-27,Cayarani,,,,,0.8
 2024-11-27,Cañas,32.0,16.0,,,32.0
 2024-11-27,Chaqui,22.9,8.2,,,
@@ -65838,6 +65903,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-29,Caranavi,,,,,6.0
 2024-11-29,Caranavi_H (GPRS),,,,,0.1
 2024-11-29,Carura_M (GPRS),,,,,5.1
+2024-11-29,Carura_M - Guanay (GPRS),,,,,5.1
 2024-11-29,Catacora,,,,,16.4
 2024-11-29,Cayarani,,,,,1.3
 2024-11-29,Cañas,32.0,18.0,,,18.0
@@ -66060,6 +66126,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-30,Caranavi,,,,,10.5
 2024-11-30,Caranavi_H (GPRS),,,,,6.1
 2024-11-30,Carura_M (GPRS),,,,,0.8
+2024-11-30,Carura_M - Guanay (GPRS),,,,,0.8
 2024-11-30,Catacora,,,,,5.2
 2024-11-30,Cañas,28.0,16.0,,,18.0
 2024-11-30,Chaqui,19.3,6.6,,,
@@ -66262,6 +66329,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-01,Carabuco,,6.3,,,6.8
 2024-12-01,Caranavi_H (GPRS),,,,,3.9
 2024-12-01,Carura_M (GPRS),,,,,0.3
+2024-12-01,Carura_M - Guanay (GPRS),,,,,0.3
 2024-12-01,Catacora,,,,,14.7
 2024-12-01,Cayarani,,,,,42.1
 2024-12-01,Cañas,,,,,18.0
@@ -66655,6 +66723,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-03,Carabuco,,6.5,,,11.6
 2024-12-03,Caranavi_H (GPRS),,,,,2.1
 2024-12-03,Carura_M (GPRS),,,,,53.5
+2024-12-03,Carura_M - Guanay (GPRS),,,,,53.5
 2024-12-03,Cayarani,,,,,16.6
 2024-12-03,Cañas,,,,,4.0
 2024-12-03,Chaqui,18.9,6.2,,,0.3
@@ -66878,6 +66947,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-04,Carabuco,,7.0,,,
 2024-12-04,Caranavi_H (GPRS),,,,,6.1
 2024-12-04,Carura_M (GPRS),,,,,0.6
+2024-12-04,Carura_M - Guanay (GPRS),,,,,0.6
 2024-12-04,Cayarani,,,,,6.2
 2024-12-04,Cañas,26.0,14.0,,,
 2024-12-04,Chaqui,23.2,5.4,,,
@@ -67401,6 +67471,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-07,Carabuco,,6.3,,,
 2024-12-07,Caranavi_H (GPRS),,,,,35.2
 2024-12-07,Carura_M (GPRS),,,,,10.2
+2024-12-07,Carura_M - Guanay (GPRS),,,,,10.2
 2024-12-07,Cayarani,,,,,17.4
 2024-12-07,Cañas,33.5,16.0,,,
 2024-12-07,Chaqui,20.0,9.9,,,
@@ -67588,6 +67659,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-08,Carabuco,,5.9,,,
 2024-12-08,Caranavi_H (GPRS),,,,,4.2
 2024-12-08,Carura_M (GPRS),,,,,5.5
+2024-12-08,Carura_M - Guanay (GPRS),,,,,5.5
 2024-12-08,Catacora,,,,,2.5
 2024-12-08,Cayarani,,,,,27.4
 2024-12-08,Cañas,,,,,3.5
@@ -67791,6 +67863,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-09,Carabuco,,7.5,,,3.2
 2024-12-09,Caranavi_H (GPRS),,,,,26.1
 2024-12-09,Carura_M (GPRS),,,,,34.3
+2024-12-09,Carura_M - Guanay (GPRS),,,,,34.3
 2024-12-09,Catacora,,,,,7.8
 2024-12-09,Cayarani,,,,,7.8
 2024-12-09,Cañas,23.0,16.0,,,
@@ -68181,6 +68254,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-11,Carabuco,,5.3,,,
 2024-12-11,Caranavi_H (GPRS),,,,,6.3
 2024-12-11,Carura_M (GPRS),,,,,12.8
+2024-12-11,Carura_M - Guanay (GPRS),,,,,12.8
 2024-12-11,Cayarani,,,,,11.0
 2024-12-11,Cañas,32.0,17.0,,,
 2024-12-11,Chaqui,24.8,5.7,,,
@@ -68537,6 +68611,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-13,Carabuco,,5.3,,,3.4
 2024-12-13,Caranavi_H (GPRS),,,,,11.7
 2024-12-13,Carura_M (GPRS),,,,,5.5
+2024-12-13,Carura_M - Guanay (GPRS),,,,,5.5
 2024-12-13,Catacora,,,,,4.7
 2024-12-13,Cayarani,,,,,3.0
 2024-12-13,Cañas,33.0,16.0,,,
@@ -68905,6 +68980,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-15,Carabuco,,5.5,,,
 2024-12-15,Caranavi_H (GPRS),,,,,2.0
 2024-12-15,Carura_M (GPRS),,,,,0.2
+2024-12-15,Carura_M - Guanay (GPRS),,,,,0.2
 2024-12-15,Cayarani,,,,,10.1
 2024-12-15,Cañas,26.0,15.0,,,
 2024-12-15,Chaqui,14.8,8.9,,,4.9
@@ -69075,6 +69151,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-16,Capinota,29.0,15.0,,,
 2024-12-16,Carabuco,,4.9,,,
 2024-12-16,Carura_M (GPRS),,,,,0.7
+2024-12-16,Carura_M - Guanay (GPRS),,,,,0.7
 2024-12-16,Cayarani,,,,,10.0
 2024-12-16,Cañas,31.0,15.0,,,
 2024-12-16,Chaqui,17.8,6.9,,,
@@ -69788,6 +69865,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-20,Carabuco,,5.1,,,18.9
 2024-12-20,Caranavi_H (GPRS),,,,,15.2
 2024-12-20,Carura_M (GPRS),,,,,0.4
+2024-12-20,Carura_M - Guanay (GPRS),,,,,0.4
 2024-12-20,Catacora,,,,,3.2
 2024-12-20,Cayarani,,,,,12.1
 2024-12-20,Cañas,23.0,12.0,,,
@@ -69995,6 +70073,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-21,Carabuco,,5.3,,,
 2024-12-21,Caranavi_H (GPRS),,,,,2.0
 2024-12-21,Carura_M (GPRS),,,,,0.8
+2024-12-21,Carura_M - Guanay (GPRS),,,,,0.8
 2024-12-21,Catacora,,,,,0.1
 2024-12-21,Cayarani,,,,,2.4
 2024-12-21,Cañas,34.0,15.0,,,
@@ -70183,6 +70262,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-22,Capinota,28.5,14.0,,,
 2024-12-22,Carabuco,,5.5,,,
 2024-12-22,Carura_M (GPRS),,,,,5.1
+2024-12-22,Carura_M - Guanay (GPRS),,,,,5.1
 2024-12-22,Cayarani,,,,,10.4
 2024-12-22,Cañas,,,,,18.0
 2024-12-22,Chaqui,13.0,8.8,,,14.5
@@ -70392,6 +70472,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-23,Carabuco,,7.0,,,
 2024-12-23,Caranavi_H (GPRS),,,,,3.0
 2024-12-23,Carura_M (GPRS),,,,,18.3
+2024-12-23,Carura_M - Guanay (GPRS),,,,,18.3
 2024-12-23,Cayarani,,,,,0.6
 2024-12-23,Cañas,,,,,23.0
 2024-12-23,Chaqui,17.3,4.4,,,6.5
@@ -70758,6 +70839,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-25,Carabuco,,6.9,,,
 2024-12-25,Caranavi_H (GPRS),,,,,0.8
 2024-12-25,Carura_M (GPRS),,,,,0.1
+2024-12-25,Carura_M - Guanay (GPRS),,,,,0.1
 2024-12-25,Cayarani,,,,,11.1
 2024-12-25,Cañas,27.0,13.0,,,
 2024-12-25,Chaqui,14.8,5.1,,,
@@ -70937,6 +71019,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-26,Carabuco,,2.0,,,
 2024-12-26,Caranavi_H (GPRS),,,,,29.2
 2024-12-26,Carura_M (GPRS),,,,,18.6
+2024-12-26,Carura_M - Guanay (GPRS),,,,,18.6
 2024-12-26,Cayarani,,,,,1.5
 2024-12-26,Cañas,26.0,11.0,,,
 2024-12-26,Chaqui,17.4,2.2,,,
