@@ -19777,6 +19777,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-24,Palos Blancos_M (GPRS),34.08,22.18,100.0,54.21,
 2024-03-24,Pampas de Lequezana,24.8,12.6,,,
 2024-03-24,Parotani,29.0,14.0,,,
+2024-03-24,Pico de loro_H- SDC (GPRS),,,,,0.1
 2024-03-24,Pinos Sud,,,,,62.1
 2024-03-24,Pocona - SDC (GPRS),26.37,23.1,43.13,30.47,
 2024-03-24,Pojo - SDC (GPRS),27.78,24.64,57.25,29.67,
@@ -19985,6 +19986,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-25,Pampas de Lequezana,26.0,10.4,,,
 2024-03-25,Paracti,,,,,6.0
 2024-03-25,Parotani,31.0,13.0,,,
+2024-03-25,Pico de loro_H- SDC (GPRS),,,,,0.1
 2024-03-25,Pinos Sud,,,,,1.2
 2024-03-25,Pocona - SDC (GPRS),22.52,17.48,75.42,44.84,1.8
 2024-03-25,Pojo - SDC (GPRS),25.1,18.61,79.24,50.64,1.2
@@ -20210,6 +20212,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-26,Palca_LP,23.0,6.5,,,
 2024-03-26,Palmar Grande,38.0,21.0,,,
 2024-03-26,Palos Blancos S.(GPRS),,,,,4.0
+2024-03-26,Palos Blancos_H (GPRS),,,,,15.3
 2024-03-26,Palos Blancos_M (GPRS),,,,,10.2
 2024-03-26,Pampas de Lequezana,20.1,13.0,,,
 2024-03-26,Parotani,30.0,15.0,,,
@@ -21329,6 +21332,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-03-31,Palmar Grande,35.0,24.0,,,
 2024-03-31,Palos Blancos,,,,,5.6
 2024-03-31,Palos Blancos S.(GPRS),31.0,23.0,96.6,64.5,
+2024-03-31,Palos Blancos_H (GPRS),,,,,0.1
 2024-03-31,Palos Blancos_M (GPRS),,,,,4.4
 2024-03-31,Pampas de Lequezana,21.0,10.1,,,
 2024-03-31,Parotani,31.0,9.0,,,
@@ -21574,6 +21578,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-01,Paracti,,,,,17.5
 2024-04-01,Parotani,29.0,12.0,,,7.6
 2024-04-01,Pasankeri ,,,,,1.8
+2024-04-01,Pico de loro_H- SDC (GPRS),,,,,2.0
 2024-04-01,Pinos Sud,,,,,5.3
 2024-04-01,Pocona - SDC (GPRS),26.1,25.24,67.37,41.38,0.8
 2024-04-01,Pojo - SDC (GPRS),26.28,22.48,73.33,50.46,
@@ -21583,6 +21588,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-01,Potosí,16.0,9.0,70.4,51.1,
 2024-04-01,Presa Misicuni (GPRS),,,,,10.9
 2024-04-01,Pucarani,,,,,2.4
+2024-04-01,Puente Abra_H- SDC (GPRS),,,,,3.5
 2024-04-01,Puente Chiñata_H- SDC (GPRS),,,,,10.9
 2024-04-01,Puerto Rico S.(GPRS),32.6,24.2,100.0,65.1,
 2024-04-01,Puerto Suarez,35.0,28.0,88.1,59.2,
@@ -21828,6 +21834,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-02,Palmar Grande,,,,,0.5
 2024-04-02,Palos Blancos,,,,,42.0
 2024-04-02,Palos Blancos S.(GPRS),,,,,11.6
+2024-04-02,Palos Blancos_H (GPRS),,,,,260.0
 2024-04-02,Palos Blancos_M (GPRS),,,,,32.2
 2024-04-02,Pampas de Lequezana,19.0,8.1,,,
 2024-04-02,Paracti,,,,,1.5
@@ -21841,6 +21848,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-02,Potosi Los Pinos,18.0,6.0,,,
 2024-04-02,Potosí,17.0,9.0,71.0,41.8,
 2024-04-02,Presa Misicuni (GPRS),,,,,10.8
+2024-04-02,Puente Abra_H- SDC (GPRS),,,,,3.9
 2024-04-02,Puente Chiñata_H- SDC (GPRS),,,,,6.3
 2024-04-02,Puerto Rico S.(GPRS),,,,,9.0
 2024-04-02,Puerto Suarez,37.0,27.0,93.4,47.1,
@@ -22103,6 +22111,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-03,Paracti,,,,,2.0
 2024-04-03,Parotani,31.0,11.0,,,
 2024-04-03,Pasankeri ,,,,,0.3
+2024-04-03,Pico de loro_H- SDC (GPRS),,,,,0.9
 2024-04-03,Pocona - SDC (GPRS),24.08,22.67,52.78,48.12,
 2024-04-03,Pojo - SDC (GPRS),26.01,24.77,61.01,49.21,
 2024-04-03,Porco,23.0,11.0,,,
@@ -22345,6 +22354,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-04,Paracti,,,,,1.5
 2024-04-04,Parotani,30.0,9.0,,,
 2024-04-04,Pasankeri ,,,,,0.1
+2024-04-04,Pico de loro_H- SDC (GPRS),,,,,0.1
 2024-04-04,Pocona - SDC (GPRS),24.64,10.82,54.32,47.63,
 2024-04-04,Pojo - SDC (GPRS),25.31,15.92,69.74,58.45,
 2024-04-04,Porco,20.5,11.5,,,
@@ -22583,10 +22593,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-05,Palca,,,,,2.5
 2024-04-05,Palca_LP,24.0,8.0,,,
 2024-04-05,Palos Blancos S.(GPRS),33.5,24.1,98.3,62.6,
+2024-04-05,Palos Blancos_H (GPRS),,,,,0.3
 2024-04-05,Palos Blancos_M (GPRS),,,,,0.1
 2024-04-05,Pampas de Lequezana,24.7,15.4,,,
 2024-04-05,Paracti,,,,,4.0
 2024-04-05,Parotani,31.0,10.0,,,
+2024-04-05,Pico de loro_H- SDC (GPRS),,,,,0.1
 2024-04-05,Pinos Sud,,,,,3.2
 2024-04-05,Pocona - SDC (GPRS),22.5,19.63,67.52,51.58,0.4
 2024-04-05,Pojo - SDC (GPRS),24.97,22.81,67.53,55.41,0.1
@@ -23289,6 +23301,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-08,Pampas de Lequezana,20.8,9.0,,,
 2024-04-08,Paracti,,,,,32.0
 2024-04-08,Parotani,28.0,11.0,,,16.9
+2024-04-08,Pico de loro_H- SDC (GPRS),,,,,6.2
 2024-04-08,Pinos Sud,,,,,38.2
 2024-04-08,Pocona - SDC (GPRS),23.33,21.43,56.66,48.77,
 2024-04-08,Pojo - SDC (GPRS),25.43,22.41,61.59,49.08,0.2
@@ -23299,6 +23312,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-08,Potosi Los Pinos,21.1,6.2,,,
 2024-04-08,Potosí,17.0,11.0,81.2,48.0,
 2024-04-08,Presa Misicuni (GPRS),,,,,19.5
+2024-04-08,Puente Abra_H- SDC (GPRS),,,,,5.3
 2024-04-08,Puerto Rico S.(GPRS),,,,,1.6
 2024-04-08,Puerto Suarez,35.0,26.0,87.9,55.8,
 2024-04-08,Puerto Suarez Aeropuerto,,,,,17.7
@@ -23560,6 +23574,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-09,Potosi Los Pinos,24.0,5.0,,,
 2024-04-09,Potosí,20.0,7.0,80.7,23.9,
 2024-04-09,Presa Misicuni (GPRS),15.43,7.54,92.6,58.7,
+2024-04-09,Puente Abra_H- SDC (GPRS),,,,,0.1
 2024-04-09,Puente Aruma,,,,,14.5
 2024-04-09,Puerto Rico S.(GPRS),31.7,25.2,100.0,70.3,
 2024-04-09,Puerto Suarez,37.0,28.0,78.2,47.1,
@@ -23801,10 +23816,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-10,Palca_LP,19.0,8.0,,,
 2024-04-10,Palmar Grande,,,,,12.6
 2024-04-10,Palos Blancos S.(GPRS),,,,,9.4
+2024-04-10,Palos Blancos_H (GPRS),,,,,12.9
 2024-04-10,Palos Blancos_M (GPRS),,,,,0.1
 2024-04-10,Pampas de Lequezana,25.2,10.4,,,
 2024-04-10,Paracti,,,,,6.0
 2024-04-10,Parotani,31.0,11.0,,,
+2024-04-10,Pico de loro_H- SDC (GPRS),,,,,5.7
 2024-04-10,Pinos Sud,,,,,3.1
 2024-04-10,Pocona - SDC (GPRS),22.81,21.76,49.13,44.43,1.4
 2024-04-10,Pojo - SDC (GPRS),23.46,20.97,67.26,57.57,5.9
@@ -24327,6 +24344,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-12,Palca,,,,,0.8
 2024-04-12,Palca_LP,18.5,8.5,,,2.9
 2024-04-12,Palos Blancos S.(GPRS),,,,,23.4
+2024-04-12,Palos Blancos_H (GPRS),,,,,47.9
 2024-04-12,Palos Blancos_M (GPRS),,,,,18.6
 2024-04-12,Pampas de Lequezana,23.4,14.6,,,
 2024-04-12,Paracti,,,,,4.0
@@ -24831,6 +24849,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-14,Palmar Grande,,,,,1.1
 2024-04-14,Palos Blancos,,,,,1.4
 2024-04-14,Palos Blancos S.(GPRS),27.1,22.1,99.7,83.6,
+2024-04-14,Palos Blancos_H (GPRS),,,,,0.2
 2024-04-14,Palos Blancos_M (GPRS),,,,,5.9
 2024-04-14,Pampas de Lequezana,24.2,13.4,,,
 2024-04-14,Paracti,,,,,14.6
@@ -25070,6 +25089,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-15,Palca_LP,24.5,5.5,,,
 2024-04-15,Palmar Grande,,,,,1.1
 2024-04-15,Palos Blancos S.(GPRS),32.3,24.4,96.4,62.9,
+2024-04-15,Palos Blancos_H (GPRS),,,,,1.0
 2024-04-15,Palos Blancos_M (GPRS),,,,,0.4
 2024-04-15,Pampas de Lequezana,20.8,11.0,,,
 2024-04-15,Paracti,,,,,1.5
@@ -25549,6 +25569,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-17,Pairumani,27.0,14.0,,,
 2024-04-17,Palca_LP,19.0,5.5,,,
 2024-04-17,Palos Blancos S.(GPRS),,,,,2.4
+2024-04-17,Palos Blancos_H (GPRS),,,,,3.0
 2024-04-17,Palos Blancos_M (GPRS),,,,,4.7
 2024-04-17,Pampas de Lequezana,25.1,4.0,,,
 2024-04-17,Paracti,,,,,2.0
@@ -25559,6 +25580,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-17,Potolo_M (GPRS),0.0,0.0,0.0,0.0,
 2024-04-17,Potosi Los Pinos,23.0,-1.0,,,
 2024-04-17,Presa Misicuni (GPRS),13.68,5.5,90.9,53.12,
+2024-04-17,Puente Abra_H- SDC (GPRS),,,,,0.1
 2024-04-17,Puerto Rico S.(GPRS),26.5,22.1,100.0,81.8,
 2024-04-17,Puerto Suarez Aeropuerto,,,,,28.4
 2024-04-17,Puerto Villarroel_H (GPRS),,,,,2.9
@@ -25755,6 +25777,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-18,Pairumani,28.0,13.0,,,
 2024-04-18,Palca_LP,21.0,6.0,,,
 2024-04-18,Palos Blancos S.(GPRS),,,,,0.4
+2024-04-18,Palos Blancos_H (GPRS),,,,,0.1
 2024-04-18,Palos Blancos_M (GPRS),,,,,0.2
 2024-04-18,Pampas de Lequezana,19.0,9.5,,,
 2024-04-18,Paracti,,,,,1.5
@@ -26516,6 +26539,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-22,Palca,,,,,0.8
 2024-04-22,Palca_LP,25.0,8.5,,,
 2024-04-22,Palos Blancos S.(GPRS),34.5,23.4,95.2,53.5,
+2024-04-22,Palos Blancos_H (GPRS),,,,,0.5
 2024-04-22,Palos Blancos_M (GPRS),35.79,22.65,100.0,52.58,
 2024-04-22,Pampas de Lequezana,25.2,11.3,,,8.3
 2024-04-22,Parotani,29.0,11.0,,,
@@ -28193,6 +28217,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-04-30,Palca,,,,,3.5
 2024-04-30,Palca_LP,23.5,5.5,,,
 2024-04-30,Palos Blancos S.(GPRS),34.7,25.2,91.6,51.9,
+2024-04-30,Palos Blancos_H (GPRS),,,,,1.0
 2024-04-30,Palos Blancos_M (GPRS),36.18,24.96,100.0,53.6,
 2024-04-30,Pampas de Lequezana,25.8,14.5,,,
 2024-04-30,Parotani,29.0,11.0,,,
@@ -28884,11 +28909,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-03,Palca_LP,16.0,8.0,,,6.4
 2024-05-03,Palmar Grande,,,,,1.0
 2024-05-03,Palos Blancos S.(GPRS),,,,,2.2
+2024-05-03,Palos Blancos_H (GPRS),,,,,38.0
 2024-05-03,Palos Blancos_M (GPRS),,,,,15.0
 2024-05-03,Pampas de Lequezana,22.7,11.4,,,
 2024-05-03,Paracti,,,,,19.3
 2024-05-03,Parotani,29.0,9.0,,,2.6
 2024-05-03,Pasankeri ,,,,,5.3
+2024-05-03,Pico de loro_H- SDC (GPRS),,,,,3.3
 2024-05-03,Pocona - SDC (GPRS),22.32,15.47,71.1,50.7,
 2024-05-03,Pojo - SDC (GPRS),18.12,15.86,92.5,73.43,7.6
 2024-05-03,Porco,18.0,6.0,,,
@@ -28897,6 +28924,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-03,Potosí,18.0,7.0,60.6,31.7,
 2024-05-03,Presa Misicuni (GPRS),,,,,1.0
 2024-05-03,Pucarani,,,,,5.4
+2024-05-03,Puente Abra_H- SDC (GPRS),,,,,0.6
 2024-05-03,Puerto Rico S.(GPRS),32.4,24.6,100.0,69.3,
 2024-05-03,Puerto Suarez,35.0,25.0,87.9,52.5,
 2024-05-03,Puerto Suarez Aeropuerto (F),35.0,25.0,87.9,52.5,
@@ -30196,6 +30224,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-09,Puerto Rico S.(GPRS),33.8,24.6,100.0,64.8,
 2024-05-09,Puerto Suarez,30.0,27.0,88.1,69.7,
 2024-05-09,Puerto Suarez Aeropuerto (F),30.0,27.0,88.1,69.7,
+2024-05-09,Puerto Villarroel_H (GPRS),,,,,0.2
 2024-05-09,Puna,20.0,5.0,,,
 2024-05-09,Putucuni Calientes (GPRS),9.22,3.55,89.8,71.73,0.5
 2024-05-09,Ravelo,22.0,1.0,,,
@@ -31064,6 +31093,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-13,Puerto Rico S.(GPRS),33.4,24.2,100.0,62.0,
 2024-05-13,Puerto Suarez,20.0,18.0,93.1,77.1,
 2024-05-13,Puerto Suarez Aeropuerto (F),20.0,18.0,93.1,77.1,
+2024-05-13,Puerto Villarroel_H (GPRS),,,,,8.2
 2024-05-13,Puna,21.9,3.9,,,
 2024-05-13,Putucuni Calientes (GPRS),9.04,5.38,82.0,59.23,
 2024-05-13,Ravelo,25.0,1.0,,,
@@ -31284,6 +31314,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-14,Pairumani,28.0,12.0,,,
 2024-05-14,Palca_LP,19.5,7.5,,,
 2024-05-14,Palos Blancos S.(GPRS),,,,,4.0
+2024-05-14,Palos Blancos_H (GPRS),,,,,1.0
 2024-05-14,Palos Blancos_M (GPRS),,,,,10.3
 2024-05-14,Pampas de Lequezana,20.9,12.3,,,
 2024-05-14,Paracti,,,,,3.0
@@ -31523,6 +31554,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-15,Pairumani,27.0,13.0,,,
 2024-05-15,Palca_LP,18.5,8.0,,,
 2024-05-15,Palos Blancos S.(GPRS),,,,,3.2
+2024-05-15,Palos Blancos_H (GPRS),,,,,5.0
 2024-05-15,Palos Blancos_M (GPRS),,,,,0.7
 2024-05-15,Pampas de Lequezana,21.0,13.6,,,
 2024-05-15,Parotani,29.0,11.0,,,
@@ -31761,6 +31793,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-16,Potosi Los Pinos,18.0,2.6,,,
 2024-05-16,Potosí,17.0,8.0,49.0,31.4,
 2024-05-16,Presa Misicuni (GPRS),15.27,6.8,92.4,47.98,
+2024-05-16,Puente Abra_H- SDC (GPRS),,,,,0.1
 2024-05-16,Puerto Rico S.(GPRS),22.7,17.7,100.0,84.6,
 2024-05-16,Puerto Suarez,33.0,14.0,93.0,40.6,
 2024-05-16,Puerto Suarez Aeropuerto (F),33.0,14.0,93.0,40.6,
@@ -32208,18 +32241,22 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-18,Palca_LP,21.5,6.0,,,7.3
 2024-05-18,Palmar Grande,,,,,0.5
 2024-05-18,Palos Blancos S.(GPRS),27.3,21.5,96.1,72.1,
+2024-05-18,Palos Blancos_H (GPRS),,,,,1.0
 2024-05-18,Palos Blancos_M (GPRS),27.11,21.35,100.0,75.14,
 2024-05-18,Pampas de Lequezana,23.0,5.0,,,
 2024-05-18,Paracti,,,,,2.0
 2024-05-18,Parotani,30.0,12.0,,,1.2
 2024-05-18,Pasankeri ,,,,,5.8
+2024-05-18,Pico de loro_H- SDC (GPRS),,,,,0.9
 2024-05-18,Pocona - SDC (GPRS),20.91,16.09,67.05,49.76,
 2024-05-18,Pojo - SDC (GPRS),23.2,15.27,78.63,47.64,
 2024-05-18,Porco,17.0,3.0,,,
 2024-05-18,Potosi Los Pinos,19.0,-3.0,,,
 2024-05-18,Presa Misicuni (GPRS),15.93,6.04,88.8,24.21,
 2024-05-18,Pucarani,,,,,3.4
+2024-05-18,Puente Abra_H- SDC (GPRS),,,,,0.9
 2024-05-18,Puerto Rico S.(GPRS),31.3,21.8,100.0,62.4,
+2024-05-18,Puerto Villarroel_H (GPRS),,,,,1.0
 2024-05-18,Puna,20.1,1.5,,,
 2024-05-18,Putucuni Calientes (GPRS),9.38,5.64,80.3,57.96,1.1
 2024-05-18,Ravelo,24.0,3.0,,,
@@ -32422,12 +32459,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-19,Pampas de Lequezana,21.2,6.3,,,
 2024-05-19,Paracti,,,,,1.0
 2024-05-19,Parotani,31.0,9.0,,,
+2024-05-19,Pico de loro_H- SDC (GPRS),,,,,0.1
 2024-05-19,Pocona - SDC (GPRS),15.71,9.99,88.3,63.39,
 2024-05-19,Pojo - SDC (GPRS),17.7,13.9,76.6,64.56,
 2024-05-19,Porco,19.0,4.0,,,
 2024-05-19,Potosi Los Pinos,18.0,-4.0,,,
 2024-05-19,Presa Misicuni (GPRS),15.16,2.93,92.3,30.38,
 2024-05-19,Puerto Rico S.(GPRS),21.6,18.0,99.1,86.6,
+2024-05-19,Puerto Villarroel_H (GPRS),,,,,0.4
 2024-05-19,Puna,20.0,-1.5,,,
 2024-05-19,Putucuni Calientes (GPRS),10.92,6.38,52.48,27.61,
 2024-05-19,Quiabaya,,,,,7.1
@@ -32617,6 +32656,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-20,Pairumani,27.0,12.0,,,
 2024-05-20,Palca_LP,21.0,5.0,,,
 2024-05-20,Palos Blancos S.(GPRS),25.1,17.3,97.4,65.2,
+2024-05-20,Palos Blancos_H (GPRS),,,,,15.0
 2024-05-20,Palos Blancos_M (GPRS),,,,,2.9
 2024-05-20,Pampas de Lequezana,20.6,5.1,,,
 2024-05-20,Parotani,30.0,8.0,,,
@@ -33663,6 +33703,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-25,Pairumani,28.0,11.0,,,
 2024-05-25,Palca_LP,22.0,2.0,,,
 2024-05-25,Palos Blancos S.(GPRS),,,,,0.8
+2024-05-25,Palos Blancos_H (GPRS),,,,,7.0
 2024-05-25,Palos Blancos_M (GPRS),,,,,0.5
 2024-05-25,Pampas de Lequezana,24.5,2.0,,,
 2024-05-25,Parotani,31.0,9.0,,,
@@ -34274,6 +34315,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-05-28,Pairumani,28.0,11.0,,,
 2024-05-28,Palca_LP,20.5,-1.0,,,
 2024-05-28,Palos Blancos S.(GPRS),,,,,1.2
+2024-05-28,Palos Blancos_H (GPRS),,,,,2.0
 2024-05-28,Palos Blancos_M (GPRS),,,,,0.1
 2024-05-28,Pampas de Lequezana,21.0,9.5,,,
 2024-05-28,Parotani,30.0,7.0,,,
@@ -37598,6 +37640,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-14,Puerto Rico S.(GPRS),32.9,23.0,98.6,56.8,
 2024-06-14,Puerto Suarez,36.0,24.0,73.0,36.6,
 2024-06-14,Puerto Suarez Aeropuerto (F),36.0,24.0,73.0,36.6,
+2024-06-14,Puerto Villarroel_H (GPRS),,,,,3.1
 2024-06-14,Puna,21.5,-1.5,,,
 2024-06-14,Putucuni Calientes (GPRS),11.14,6.22,30.34,25.42,
 2024-06-14,Ravelo,21.0,-5.0,,,
@@ -37797,6 +37840,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-15,Potosi Los Pinos,22.0,-4.0,,,
 2024-06-15,Presa Misicuni (GPRS),15.02,1.11,91.4,31.24,
 2024-06-15,Puerto Rico S.(GPRS),33.5,23.6,99.7,57.6,
+2024-06-15,Puerto Villarroel_H (GPRS),,,,,0.1
 2024-06-15,Puna,19.5,-8.1,,,
 2024-06-15,Putucuni Calientes (GPRS),10.4,4.75,44.77,35.81,
 2024-06-15,Ravelo,22.0,-5.0,,,
@@ -37988,6 +38032,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-16,Palca_LP,18.5,4.0,,,
 2024-06-16,Palmar Grande,21.0,18.0,,,
 2024-06-16,Palos Blancos S.(GPRS),,,,,5.0
+2024-06-16,Palos Blancos_H (GPRS),,,,,3.0
 2024-06-16,Palos Blancos_M (GPRS),,,,,5.2
 2024-06-16,Pampas de Lequezana,19.0,4.5,,,
 2024-06-16,Paracti,,,,,13.1
@@ -37999,6 +38044,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-16,Presa Misicuni (GPRS),13.52,2.69,97.6,53.15,
 2024-06-16,Puente Chiñata_H- SDC (GPRS),,,,,0.1
 2024-06-16,Puerto Rico S.(GPRS),33.8,23.1,98.6,50.3,
+2024-06-16,Puerto Villarroel_H (GPRS),,,,,0.9
 2024-06-16,Puna,19.1,-6.0,,,
 2024-06-16,Putucuni Calientes (GPRS),8.22,3.65,90.0,66.79,
 2024-06-16,Quiabaya,,,,,10.0
@@ -38625,6 +38671,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-19,Palca_LP,18.5,3.5,,,
 2024-06-19,Palmar Grande,30.0,12.0,,,
 2024-06-19,Palos Blancos S.(GPRS),,,,,28.6
+2024-06-19,Palos Blancos_H (GPRS),,,,,148.0
 2024-06-19,Palos Blancos_M (GPRS),,,,,25.5
 2024-06-19,Pampas de Lequezana,19.6,3.3,,,
 2024-06-19,Paracti,,,,,5.0
@@ -38638,6 +38685,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-19,Puerto Rico S.(GPRS),33.0,23.1,100.0,58.5,
 2024-06-19,Puerto Suarez,37.0,24.0,73.0,34.7,
 2024-06-19,Puerto Suarez Aeropuerto (F),37.0,24.0,73.0,34.7,
+2024-06-19,Puerto Villarroel_H (GPRS),,,,,0.3
 2024-06-19,Puna,18.9,-3.1,,,
 2024-06-19,Putucuni Calientes (GPRS),6.69,1.86,51.81,29.91,
 2024-06-19,Ravelo,22.0,-3.0,,,
@@ -39571,6 +39619,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-24,Palca_LP,21.5,5.0,,,
 2024-06-24,Palmar Grande,16.0,14.0,,,
 2024-06-24,Palos Blancos S.(GPRS),31.9,22.1,96.5,60.5,
+2024-06-24,Palos Blancos_H (GPRS),,,,,2.0
 2024-06-24,Palos Blancos_M (GPRS),31.98,22.31,100.0,64.67,
 2024-06-24,Pampas de Lequezana,22.1,7.4,,,
 2024-06-24,Parotani,28.0,6.0,,,
@@ -39958,6 +40007,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-06-26,Potosi Los Pinos,21.0,-2.0,,,
 2024-06-26,Presa Misicuni (GPRS),15.77,1.38,86.6,14.92,
 2024-06-26,Puerto Rico S.(GPRS),33.9,21.6,99.4,53.4,
+2024-06-26,Puerto Villarroel_H (GPRS),,,,,0.3
 2024-06-26,Puna,19.0,-1.5,,,
 2024-06-26,Putucuni Calientes (GPRS),10.63,5.04,29.32,22.86,
 2024-06-26,Ravelo,22.0,-6.0,,,
@@ -41882,6 +41932,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-06,Potosi Los Pinos,,-5.3,,,
 2024-07-06,Presa Misicuni (GPRS),11.08,0.88,92.4,51.23,
 2024-07-06,Puerto Rico S.(GPRS),31.0,22.6,99.6,64.9,
+2024-07-06,Puerto Villarroel_H (GPRS),,,,,0.2
 2024-07-06,Puna,19.5,-2.5,,,
 2024-07-06,Putucuni Calientes (GPRS),11.08,0.72,88.2,24.01,
 2024-07-06,Ravelo,19.0,-2.0,,,
@@ -42297,6 +42348,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-08,Puerto Rico S.(GPRS),27.5,17.6,87.8,54.9,
 2024-07-08,Puerto Suarez,17.0,13.0,81.3,58.8,
 2024-07-08,Puerto Suarez Aeropuerto (F),17.0,13.0,81.3,58.8,
+2024-07-08,Puerto Villarroel_H (GPRS),,,,,0.2
 2024-07-08,Puna,15.9,-0.9,,,
 2024-07-08,Putucuni Calientes (GPRS),7.41,1.75,84.9,57.63,
 2024-07-08,Quillacas (GPRS),0.0,0.0,,,
@@ -42507,6 +42559,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-09,Puerto Rico S.(GPRS),23.7,13.8,85.3,48.7,
 2024-07-09,Puerto Suarez,13.0,11.0,92.8,81.1,
 2024-07-09,Puerto Suarez Aeropuerto (F),13.0,11.0,92.8,81.1,
+2024-07-09,Puerto Villarroel_H (GPRS),,,,,0.1
 2024-07-09,Puna,15.5,-2.8,,,
 2024-07-09,Putucuni Calientes (GPRS),6.31,1.36,65.4,41.34,
 2024-07-09,Ravelo,19.0,-4.0,,,
@@ -42703,6 +42756,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-10,Palca_LP,20.5,,,,
 2024-07-10,Palmar Grande,16.0,10.0,,,
 2024-07-10,Palos Blancos S.(GPRS),,,,,1.6
+2024-07-10,Palos Blancos_H (GPRS),,,,,1.0
 2024-07-10,Palos Blancos_M (GPRS),,,,,6.0
 2024-07-10,Pampas de Lequezana,20.4,9.5,,,
 2024-07-10,Parotani,27.0,,,,
@@ -42715,6 +42769,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-10,Puerto Rico S.(GPRS),23.9,14.3,95.9,57.3,
 2024-07-10,Puerto Suarez,19.0,13.0,86.8,63.0,
 2024-07-10,Puerto Suarez Aeropuerto (F),19.0,13.0,86.8,63.0,
+2024-07-10,Puerto Villarroel_H (GPRS),,,,,0.4
 2024-07-10,Puna,14.9,-4.5,,,
 2024-07-10,Putucuni Calientes (GPRS),8.05,3.55,27.57,14.7,
 2024-07-10,Ravelo,20.0,-8.0,,,
@@ -42924,6 +42979,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-11,Puerto Rico S.(GPRS),28.7,16.0,93.2,55.7,
 2024-07-11,Puerto Suarez,25.0,13.0,81.3,40.8,
 2024-07-11,Puerto Suarez Aeropuerto (F),25.0,13.0,81.3,40.8,
+2024-07-11,Puerto Villarroel_H (GPRS),,,,,0.1
 2024-07-11,Puna,14.0,-1.9,,,
 2024-07-11,Putucuni Calientes (GPRS),2.96,-0.64,75.2,39.28,
 2024-07-11,Ravelo,18.0,-5.0,,,
@@ -43122,6 +43178,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-12,Palca_LP,17.5,,,,
 2024-07-12,Palmar Grande,19.0,6.0,,,
 2024-07-12,Palos Blancos S.(GPRS),,,,,9.8
+2024-07-12,Palos Blancos_H (GPRS),,,,,133.0
 2024-07-12,Palos Blancos_M (GPRS),,,,,28.0
 2024-07-12,Pampas de Lequezana,16.1,-6.4,,,
 2024-07-12,Paracti,,,,,23.0
@@ -43136,6 +43193,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-12,Puerto Rico S.(GPRS),24.6,15.0,87.1,57.5,
 2024-07-12,Puerto Suarez,17.0,12.0,92.7,62.8,
 2024-07-12,Puerto Suarez Aeropuerto (F),17.0,12.0,92.7,62.8,
+2024-07-12,Puerto Villarroel_H (GPRS),,,,,12.5
 2024-07-12,Puna,14.9,-6.9,,,
 2024-07-12,Putucuni Calientes (GPRS),2.43,-0.24,98.2,82.0,
 2024-07-12,Ravelo,15.0,0.0,,,
@@ -43336,6 +43394,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-13,Palca_LP,19.5,,,,
 2024-07-13,Palmar Grande,20.0,10.0,,,
 2024-07-13,Palos Blancos S.(GPRS),,,,,53.2
+2024-07-13,Palos Blancos_H (GPRS),,,,,1.0
 2024-07-13,Palos Blancos_M (GPRS),,,,,6.8
 2024-07-13,Pampas de Lequezana,18.0,-2.1,,,
 2024-07-13,Paracti,,,,,1.0
@@ -46106,6 +46165,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-27,Palca_LP,21.5,,,,
 2024-07-27,Palmar Grande,30.0,15.0,,,
 2024-07-27,Palos Blancos S.(GPRS),26.9,21.4,95.4,75.1,
+2024-07-27,Palos Blancos_H (GPRS),,,,,1.0
 2024-07-27,Palos Blancos_M (GPRS),28.16,20.2,100.0,81.04,
 2024-07-27,Pampas de Lequezana,20.2,-2.3,,,
 2024-07-27,Paracti,,,,,1.0
@@ -47888,6 +47948,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-05,Presa Misicuni (GPRS),10.62,1.15,92.3,52.42,
 2024-08-05,Puerto Rico S.(GPRS),35.3,22.9,100.0,46.5,
 2024-08-05,Puerto Suarez,38.0,26.0,64.8,39.5,
+2024-08-05,Puerto Villarroel_H (GPRS),,,,,0.1
 2024-08-05,Puna,20.5,-1.5,,,
 2024-08-05,Putucuni Calientes (GPRS),6.35,0.66,85.2,60.47,
 2024-08-05,Quillacas (GPRS),15.11,-2.39,29.47,0.0,
@@ -48084,6 +48145,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-06,Palca_LP,21.5,5.0,,,
 2024-08-06,Palmar Grande,32.0,18.0,,,
 2024-08-06,Palos Blancos S.(GPRS),,,,,1.0
+2024-08-06,Palos Blancos_H (GPRS),,,,,10.0
 2024-08-06,Palos Blancos_M (GPRS),,,,,22.5
 2024-08-06,Pampas de Lequezana,18.0,5.2,,,
 2024-08-06,Paracti,,,,,1.0
@@ -48494,6 +48556,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-08,Presa Misicuni (GPRS),12.6,-0.18,90.8,32.06,
 2024-08-08,Puerto Rico S.(GPRS),34.7,23.9,93.9,46.7,
 2024-08-08,Puerto Suarez,17.0,15.0,99.1,91.0,
+2024-08-08,Puerto Villarroel_H (GPRS),,,,,5.0
 2024-08-08,Puna,20.5,-7.1,,,
 2024-08-08,Putucuni Calientes (GPRS),5.71,2.26,65.76,31.17,1.8
 2024-08-08,Ravelo,19.0,-7.0,,,
@@ -51538,6 +51601,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-24,Potosi Los Pinos,23.0,-1.0,,,
 2024-08-24,Presa Misicuni (GPRS),14.21,2.28,90.3,43.52,
 2024-08-24,Puerto Rico S.(GPRS),37.0,22.7,86.0,41.9,
+2024-08-24,Puerto Villarroel_H (GPRS),,,,,0.1
 2024-08-24,Puna,22.0,-0.5,,,
 2024-08-24,Putucuni Calientes (GPRS),8.94,1.37,84.6,57.93,
 2024-08-24,Ravelo,22.0,-5.0,,,
@@ -51736,6 +51800,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-25,Potosi Los Pinos,22.0,-2.0,,,
 2024-08-25,Presa Misicuni (GPRS),13.72,4.32,94.6,51.03,
 2024-08-25,Puerto Rico S.(GPRS),27.0,17.3,65.9,40.5,
+2024-08-25,Puerto Villarroel_H (GPRS),,,,,0.1
 2024-08-25,Puna,21.9,0.2,,,
 2024-08-25,Putucuni Calientes (GPRS),9.58,4.88,73.01,57.64,
 2024-08-25,Ravelo,16.0,-2.0,,,
@@ -55403,6 +55468,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-13,Palca_LP,,,,,0.6
 2024-09-13,Palmar Grande,35.0,16.0,,,
 2024-09-13,Palos Blancos S.(GPRS),,,,,0.4
+2024-09-13,Palos Blancos_H (GPRS),,,,,13.0
 2024-09-13,Palos Blancos_M (GPRS),,,,,0.3
 2024-09-13,Pampas de Lequezana,20.0,5.0,,,
 2024-09-13,Parotani,27.0,8.0,,,
@@ -55823,11 +55889,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-15,Palca_LP,,,,,2.0
 2024-09-15,Palmar Grande,30.0,10.0,,,
 2024-09-15,Palos Blancos S.(GPRS),,,,,7.0
+2024-09-15,Palos Blancos_H (GPRS),,,,,70.0
 2024-09-15,Palos Blancos_M (GPRS),,,,,7.8
 2024-09-15,Pampas de Lequezana,21.4,5.3,,,
 2024-09-15,Paracti,,,,,7.0
 2024-09-15,Parotani,30.0,9.0,,,1.3
 2024-09-15,Pasankeri ,,,,,6.1
+2024-09-15,Pico de loro_H- SDC (GPRS),,,,,3.9
 2024-09-15,Pinos Sud,,,,,11.4
 2024-09-15,Pocona - SDC (GPRS),19.56,10.67,91.9,50.13,2.2
 2024-09-15,Pojo - SDC (GPRS),14.76,10.76,92.4,73.43,11.6
@@ -55836,7 +55904,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-15,Potosi Los Pinos,21.0,2.0,,,
 2024-09-15,Presa Misicuni (GPRS),,,,,7.6
 2024-09-15,Pucarani,,,,,9.2
+2024-09-15,Puente Abra_H- SDC (GPRS),,,,,1.8
 2024-09-15,Puerto Rico S.(GPRS),,,,,42.8
+2024-09-15,Puerto Villarroel_H (GPRS),,,,,10.3
 2024-09-15,Puna,24.5,0.9,,,
 2024-09-15,Punilla,,,,,3.7
 2024-09-15,Putucuni Calientes (GPRS),7.35,2.81,92.1,60.01,9.1
@@ -55878,6 +55948,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-15,Sauce Pilapata - SDC (GPRS),9.56,7.35,99.9,99.7,6.7
 2024-09-15,Sauce Pilata - SDC (GPRS),9.56,7.35,99.9,99.7,6.7
 2024-09-15,Sella Quebrada,22.0,7.0,,,
+2024-09-15,Sena_H (GPRS),,,,,0.4
 2024-09-15,Senkata-D8,,,,,4.5
 2024-09-15,Sopachuy,22.5,8.5,,,2.8
 2024-09-15,Soracachi (Auto),19.0,3.2,65.5,7.1,
@@ -57035,6 +57106,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-21,Palos Blancos_M (GPRS),38.22,22.15,100.0,37.79,
 2024-09-21,Pampas de Lequezana,20.5,2.0,,,
 2024-09-21,Parotani,30.0,8.0,,,
+2024-09-21,Pico de loro_H- SDC (GPRS),,,,,0.4
 2024-09-21,Pocona - SDC (GPRS),21.58,17.73,62.14,46.0,
 2024-09-21,Pojo - SDC (GPRS),26.75,20.0,63.53,37.68,
 2024-09-21,Porco,24.0,7.0,,,
@@ -58406,12 +58478,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-28,Palos Blancos_M (GPRS),35.92,20.29,99.51,35.22,
 2024-09-28,Pampas de Lequezana,19.4,7.5,,,
 2024-09-28,Parotani,27.0,10.0,,,1.2
+2024-09-28,Pico de loro_H- SDC (GPRS),,,,,1.9
 2024-09-28,Pocona - SDC (GPRS),22.11,16.39,56.29,41.24,
 2024-09-28,Pojo - SDC (GPRS),26.22,15.02,74.99,34.55,
 2024-09-28,Porco,22.0,7.0,,,
 2024-09-28,Porvenir - PSM,,,,,3.6
 2024-09-28,Potosi Los Pinos,20.0,4.0,,,
 2024-09-28,Presa Misicuni (GPRS),,,,,0.4
+2024-09-28,Puente Abra_H- SDC (GPRS),,,,,0.5
 2024-09-28,Puerto Rico S.(GPRS),33.7,22.6,98.6,46.6,
 2024-09-28,Puna,23.0,4.1,,,
 2024-09-28,Putucuni Calientes (GPRS),10.43,4.3,82.1,50.77,
@@ -59371,6 +59445,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-03,Pairumani,28.0,13.0,,,
 2024-10-03,Palca_LP,20.5,9.2,,,
 2024-10-03,Palos Blancos S.(GPRS),,,,,3.6
+2024-10-03,Palos Blancos_H (GPRS),,,,,7.0
 2024-10-03,Palos Blancos_M (GPRS),,,,,5.9
 2024-10-03,Pampas de Lequezana,24.9,10.5,,,
 2024-10-03,Parotani,32.0,12.0,,,1.1
@@ -59383,6 +59458,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-03,Presa Misicuni (GPRS),,,,,4.7
 2024-10-03,Puerto Rico S.(GPRS),37.6,23.4,95.5,40.1,
 2024-10-03,Puerto Suarez,30.0,24.0,73.0,54.6,
+2024-10-03,Puerto Villarroel_H (GPRS),,,,,0.3
 2024-10-03,Puna,22.9,7.9,,,
 2024-10-03,Putucuni Calientes (GPRS),8.18,4.71,91.9,63.94,1.9
 2024-10-03,Ravelo,23.0,10.0,,,
@@ -60554,6 +60630,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-09,Paracti,,,,,5.0
 2024-10-09,Parotani,29.0,8.0,,,6.2
 2024-10-09,Pasankeri ,,,,,22.5
+2024-10-09,Pico de loro_H- SDC (GPRS),,,,,1.3
 2024-10-09,Pinos Sud,,,,,21.3
 2024-10-09,Pocona - SDC (GPRS),21.24,17.0,63.39,47.48,
 2024-10-09,Pojo - SDC (GPRS),23.47,19.87,66.01,42.17,
@@ -60563,8 +60640,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-09,Potosí,19.0,7.0,70.0,25.7,
 2024-10-09,Presa Misicuni (GPRS),11.25,6.88,87.2,62.18,
 2024-10-09,Pucarani,,,,,19.8
+2024-10-09,Puente Abra_H- SDC (GPRS),,,,,0.1
 2024-10-09,Puerto Rico S.(GPRS),29.8,23.0,100.0,70.0,
 2024-10-09,Puerto Suarez,36.0,29.0,65.4,49.5,
+2024-10-09,Puerto Villarroel_H (GPRS),,,,,1.9
 2024-10-09,Puna,23.5,5.5,,,
 2024-10-09,Putucuni Calientes (GPRS),6.2,2.63,96.9,71.36,0.7
 2024-10-09,Ravelo,24.0,7.0,,,
@@ -60824,6 +60903,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-10,Sauce Pilata - SDC (GPRS),19.74,15.47,58.57,45.26,
 2024-10-10,Saykan Perulas,,,,,14.5
 2024-10-10,Sella Quebrada,21.0,12.0,,,
+2024-10-10,Sena_H (GPRS),,,,,0.1
 2024-10-10,Sopachuy,,,,,0.4
 2024-10-10,Soracachi (Auto),20.3,0.9,83.7,6.0,
 2024-10-10,Sorata,26.0,8.0,,,
@@ -61550,12 +61630,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-14,Pampas de Lequezana,22.3,5.6,,,
 2024-10-14,Paracti,,,,,4.0
 2024-10-14,Parotani,30.0,13.0,,,
+2024-10-14,Pico de loro_H- SDC (GPRS),,,,,0.8
 2024-10-14,Pocona - SDC (GPRS),21.82,18.13,53.17,41.31,
 2024-10-14,Pojo - SDC (GPRS),27.01,21.38,54.09,32.33,0.5
 2024-10-14,Porco,21.0,5.0,,,
 2024-10-14,Potosi Los Pinos,19.0,6.0,,,5.0
 2024-10-14,Presa Misicuni (GPRS),13.18,4.84,88.7,44.41,
 2024-10-14,Puerto Rico S.(GPRS),,,,,16.0
+2024-10-14,Puerto Villarroel_H (GPRS),,,,,0.1
 2024-10-14,Puna,22.5,8.0,,,
 2024-10-14,Putucuni Calientes (GPRS),10.44,4.88,74.43,50.98,
 2024-10-14,Ravelo,23.0,4.0,,,
@@ -61964,6 +62046,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-16,Parotani,30.0,9.0,,,12.6
 2024-10-16,Pasorapa (GPRS),,,,,10.2
 2024-10-16,Patacamaya (GPRS),3.79,2.46,,,
+2024-10-16,Pico de loro_H- SDC (GPRS),,,,,7.3
 2024-10-16,Pocona - SDC (GPRS),20.87,13.92,66.96,41.96,
 2024-10-16,Pojo - SDC (GPRS),19.67,14.62,88.3,59.69,0.6
 2024-10-16,Porco,17.0,6.0,,,1.5
@@ -61971,9 +62054,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-16,Potosí,13.0,11.0,53.5,43.6,
 2024-10-16,Presa Misicuni (GPRS),,,,,5.5
 2024-10-16,Pucarani,,,,,0.5
+2024-10-16,Puente Abra_H- SDC (GPRS),,,,,5.1
 2024-10-16,Puente Sucre,,,,,0.7
 2024-10-16,Puerto Rico S.(GPRS),,,,,5.2
 2024-10-16,Puerto Suarez,34.0,30.0,74.0,59.0,
+2024-10-16,Puerto Villarroel_H (GPRS),,,,,1.6
 2024-10-16,Puna,15.8,5.0,,,2.7
 2024-10-16,Putucuni Calientes (GPRS),8.77,5.16,80.5,57.03,1.0
 2024-10-16,Quillacas (GPRS),8.42,0.55,,,
@@ -62188,6 +62273,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-17,Pampas de Lequezana,21.4,5.6,,,
 2024-10-17,Parotani,32.0,11.0,,,8.9
 2024-10-17,Pasankeri ,,,,,7.4
+2024-10-17,Pico de loro_H- SDC (GPRS),,,,,0.1
 2024-10-17,Pinos Sud,,,,,10.4
 2024-10-17,Pocona - SDC (GPRS),25.52,17.89,48.59,28.12,
 2024-10-17,Pojo - SDC (GPRS),23.08,20.2,57.23,45.75,
@@ -62197,6 +62283,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-17,Potosi Los Pinos,19.0,2.0,,,1.2
 2024-10-17,Potosí,19.0,8.0,65.4,20.4,
 2024-10-17,Presa Misicuni (GPRS),,,,,7.9
+2024-10-17,Puente Abra_H- SDC (GPRS),,,,,0.4
 2024-10-17,Puente Sucre,,,,,20.7
 2024-10-17,Puerto Rico S.(GPRS),35.4,25.5,88.8,48.4,
 2024-10-17,Puerto Suarez,39.0,28.0,69.3,39.5,
@@ -62604,6 +62691,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-19,Pairumani,29.0,13.0,,,
 2024-10-19,Palca_LP,25.0,7.0,,,
 2024-10-19,Palos Blancos S.(GPRS),,,,,6.2
+2024-10-19,Palos Blancos_H (GPRS),,,,,388.0
 2024-10-19,Palos Blancos_M (GPRS),,,,,23.4
 2024-10-19,Pampas de Lequezana,22.5,6.4,,,
 2024-10-19,Parotani,32.0,13.0,,,
@@ -63178,6 +63266,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-22,Pairumani,29.0,12.0,,,
 2024-10-22,Palca_LP,24.0,7.0,,,
 2024-10-22,Palos Blancos S.(GPRS),34.6,21.7,97.2,45.1,
+2024-10-22,Palos Blancos_H (GPRS),,,,,1.0
 2024-10-22,Palos Blancos_M (GPRS),34.82,21.38,100.0,51.72,
 2024-10-22,Pampas de Lequezana,23.4,6.1,,,
 2024-10-22,Parotani,32.0,12.0,,,
@@ -63578,6 +63667,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-24,Pampas de Lequezana,24.0,3.0,,,
 2024-10-24,Parotani,30.0,11.0,,,
 2024-10-24,Pasankeri ,,,,,1.3
+2024-10-24,Pico de loro_H- SDC (GPRS),,,,,0.3
 2024-10-24,Pocona - SDC (GPRS),21.6,21.6,43.59,43.59,
 2024-10-24,Pojo - SDC (GPRS),22.76,22.76,54.55,54.55,0.4
 2024-10-24,Porco,21.0,8.0,,,
@@ -63999,6 +64089,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-26,Paracti,,,,,22.0
 2024-10-26,Parotani,30.0,10.0,,,26.9
 2024-10-26,Pasankeri ,,,,,0.2
+2024-10-26,Pico de loro_H- SDC (GPRS),,,,,9.1
 2024-10-26,Pinos Sud,,,,,3.2
 2024-10-26,Pocona - SDC (GPRS),18.94,11.63,96.4,54.25,46.2
 2024-10-26,Pojo - SDC (GPRS),18.3,14.37,93.8,72.72,0.9
@@ -64007,7 +64098,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-26,Potolo,,,,,12.5
 2024-10-26,Potosi Los Pinos,19.0,8.0,,,
 2024-10-26,Presa Misicuni (GPRS),,,,,6.2
+2024-10-26,Puente Abra_H- SDC (GPRS),,,,,5.8
 2024-10-26,Puerto Rico S.(GPRS),33.8,24.6,100.0,60.1,
+2024-10-26,Puerto Villarroel_H (GPRS),,,,,2.0
 2024-10-26,Puna,16.5,8.1,,,
 2024-10-26,Punilla,,,,,38.6
 2024-10-26,Putucuni Calientes (GPRS),2.6,2.6,91.2,91.2,9.5
@@ -64214,6 +64307,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-27,Paracti,,,,,1.0
 2024-10-27,Parotani,30.0,11.0,,,
 2024-10-27,Pasankeri ,,,,,2.3
+2024-10-27,Pico de loro_H- SDC (GPRS),,,,,5.2
 2024-10-27,Pinos Sud,,,,,5.0
 2024-10-27,Pocona - SDC (GPRS),21.66,10.07,95.6,50.3,0.3
 2024-10-27,Pojo - SDC (GPRS),22.43,13.91,88.7,53.57,0.1
@@ -64222,7 +64316,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-27,Potosi Los Pinos,21.0,5.0,,,4.8
 2024-10-27,Presa Misicuni (GPRS),,,,,5.3
 2024-10-27,Pucarani,,,,,6.2
+2024-10-27,Puente Abra_H- SDC (GPRS),,,,,1.1
 2024-10-27,Puerto Rico S.(GPRS),,,,,3.0
+2024-10-27,Puerto Villarroel_H (GPRS),,,,,0.1
 2024-10-27,Puna,20.1,9.0,,,10.5
 2024-10-27,Punilla,,,,,9.2
 2024-10-27,Putucuni Calientes (GPRS),3.39,3.39,98.3,69.54,9.7
@@ -64265,6 +64361,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-27,Sauce Pilapata - SDC (GPRS),9.87,9.87,99.7,99.7,0.7
 2024-10-27,Sauce Pilata - SDC (GPRS),9.87,9.87,99.7,99.7,0.7
 2024-10-27,Sella Quebrada,24.5,10.0,,,
+2024-10-27,Sena_H (GPRS),,,,,0.3
 2024-10-27,Sopachuy,,,,,3.8
 2024-10-27,Soracachi (Auto),18.4,4.3,89.9,35.5,
 2024-10-27,Sorata,25.0,9.0,,,
@@ -64614,6 +64711,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-29,Palos Blancos_M (GPRS),,,,,0.2
 2024-10-29,Pampas de Lequezana,24.1,8.4,,,
 2024-10-29,Parotani,30.0,13.0,,,
+2024-10-29,Pico de loro_H- SDC (GPRS),,,,,5.5
 2024-10-29,Pocona - SDC (GPRS),24.4,12.28,93.5,42.11,
 2024-10-29,Pojo - SDC (GPRS),25.44,16.07,81.3,47.91,
 2024-10-29,Porco,19.0,7.0,,,3.2
@@ -64824,6 +64922,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-30,Pampas de Lequezana,22.3,10.0,,,
 2024-10-30,Parotani,31.0,12.0,,,9.8
 2024-10-30,Pasankeri ,,,,,16.3
+2024-10-30,Pico de loro_H- SDC (GPRS),,,,,1.1
 2024-10-30,Pinos Sud,,,,,10.1
 2024-10-30,Pocona - SDC (GPRS),25.25,7.77,94.5,37.46,4.2
 2024-10-30,Pojo - SDC (GPRS),28.72,13.59,79.8,36.0,
@@ -64833,6 +64932,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-30,Potosí,15.0,8.0,86.6,47.4,
 2024-10-30,Presa Misicuni (GPRS),,,,,1.3
 2024-10-30,Pucarani,,,,,0.1
+2024-10-30,Puente Abra_H- SDC (GPRS),,,,,2.5
 2024-10-30,Puerto Rico S.(GPRS),,,,,4.2
 2024-10-30,Puerto Suarez,39.0,30.0,61.7,37.4,
 2024-10-30,Puna,21.5,5.6,,,
@@ -65044,6 +65144,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-31,Pampas de Lequezana,23.0,9.5,,,2.6
 2024-10-31,Parotani,29.0,13.0,,,
 2024-10-31,Pasankeri ,,,,,6.7
+2024-10-31,Pico de loro_H- SDC (GPRS),,,,,0.2
 2024-10-31,Pocona - SDC (GPRS),23.3,10.73,88.1,42.23,0.1
 2024-10-31,Pojo - SDC (GPRS),28.19,17.58,75.99,40.55,
 2024-10-31,Porco,22.0,8.0,,,
@@ -65051,6 +65152,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-31,Potosí,18.0,9.0,70.4,29.5,
 2024-10-31,Presa Misicuni (GPRS),,,,,0.3
 2024-10-31,Pucarani,,,,,18.0
+2024-10-31,Puente Abra_H- SDC (GPRS),,,,,0.1
 2024-10-31,Puente Sucre,,,,,2.9
 2024-10-31,Puerto Rico S.(GPRS),35.7,25.2,97.1,52.0,
 2024-10-31,Puerto Suarez,36.0,26.0,77.9,44.0,
@@ -65255,6 +65357,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-01,Paracti,,,,,10.5
 2024-11-01,Parotani,,,,,12.4
 2024-11-01,Pasankeri ,,,,,0.2
+2024-11-01,Pico de loro_H- SDC (GPRS),,,,,0.3
 2024-11-01,Pinos Sud,,,,,30.2
 2024-11-01,Pocona - SDC (GPRS),23.81,13.08,73.09,35.91,4.1
 2024-11-01,Pojo - SDC (GPRS),24.13,14.37,87.5,50.12,
@@ -65263,8 +65366,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-01,Potosi Los Pinos,23.0,2.0,,,
 2024-11-01,Potosí,19.0,8.0,45.5,16.0,
 2024-11-01,Presa Misicuni (GPRS),,,,,9.6
+2024-11-01,Puente Abra_H- SDC (GPRS),,,,,0.1
 2024-11-01,Puerto Rico S.(GPRS),34.4,24.7,95.3,54.8,
 2024-11-01,Puerto Suarez,32.0,23.0,87.8,54.8,
+2024-11-01,Puerto Villarroel_H (GPRS),,,,,42.0
 2024-11-01,Puna,19.0,3.5,,,
 2024-11-01,Punilla,,,,,7.2
 2024-11-01,Putucuni Calientes (GPRS),11.26,1.9,95.0,32.76,2.0
@@ -65468,6 +65573,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-02,Potosi Los Pinos,22.0,3.0,,,
 2024-11-02,Presa Misicuni (GPRS),19.26,7.2,87.5,15.37,
 2024-11-02,Puerto Rico S.(GPRS),29.3,23.2,99.6,75.8,
+2024-11-02,Puerto Villarroel_H (GPRS),,,,,25.8
 2024-11-02,Puna,17.1,3.0,,,
 2024-11-02,Putucuni Calientes (GPRS),13.77,2.37,96.8,21.52,0.1
 2024-11-02,Ravelo,26.0,4.0,,,
@@ -65661,6 +65767,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-03,Potosi Los Pinos,18.0,4.0,,,
 2024-11-03,Presa Misicuni (GPRS),15.33,7.0,87.8,44.08,
 2024-11-03,Puerto Rico S.(GPRS),,,,,0.2
+2024-11-03,Puerto Villarroel_H (GPRS),,,,,3.9
 2024-11-03,Puna,17.9,3.2,,,
 2024-11-03,Putucuni Calientes (GPRS),10.41,0.73,97.5,50.46,
 2024-11-03,Ravelo,25.0,4.0,,,16.5
@@ -66055,6 +66162,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-05,Paracti,,,,,18.0
 2024-11-05,Parotani,,,,,7.8
 2024-11-05,Pasankeri ,,,,,2.2
+2024-11-05,Pico de loro_H- SDC (GPRS),,,,,3.1
 2024-11-05,Pocona - SDC (GPRS),26.75,11.54,96.6,30.94,3.1
 2024-11-05,Pojo - SDC (GPRS),26.02,16.01,85.6,46.35,
 2024-11-05,Porco,21.0,9.0,,,
@@ -66064,6 +66172,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-05,Puente Sucre,,,,,0.5
 2024-11-05,Puerto Rico S.(GPRS),,,,,0.2
 2024-11-05,Puerto Suarez,34.0,29.0,73.8,52.3,
+2024-11-05,Puerto Villarroel_H (GPRS),,,,,0.3
 2024-11-05,Puna,20.0,6.1,,,
 2024-11-05,Putucuni Calientes (GPRS),4.33,4.33,91.4,91.4,0.2
 2024-11-05,Ravelo,24.0,10.0,,,9.7
@@ -66277,6 +66386,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-06,Pampas de Lequezana,25.0,11.0,,,
 2024-11-06,Paracti,,,,,8.0
 2024-11-06,Parotani,,,,,9.2
+2024-11-06,Pico de loro_H- SDC (GPRS),,,,,5.4
 2024-11-06,Pinos Sud,,,,,4.5
 2024-11-06,Pocona - SDC (GPRS),23.1,13.86,87.4,47.24,14.2
 2024-11-06,Pojo - SDC (GPRS),23.41,16.93,82.8,53.71,
@@ -66287,8 +66397,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-06,Potosí,18.0,11.0,61.6,31.7,
 2024-11-06,Presa Misicuni (GPRS),,,,,7.6
 2024-11-06,Pucarani,,,,,1.9
+2024-11-06,Puente Abra_H- SDC (GPRS),,,,,0.7
 2024-11-06,Puerto Rico S.(GPRS),29.9,23.7,98.4,73.9,
 2024-11-06,Puerto Suarez,35.0,28.0,78.2,49.5,
+2024-11-06,Puerto Villarroel_H (GPRS),,,,,23.9
 2024-11-06,Puna,20.9,4.9,,,
 2024-11-06,Punilla,,,,,15.4
 2024-11-06,Putucuni Calientes (GPRS),3.28,3.28,96.5,96.5,5.8
@@ -66494,6 +66606,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-07,Pampas de Lequezana,23.2,8.5,,,
 2024-11-07,Paracti,,,,,17.5
 2024-11-07,Parotani,,,,,4.8
+2024-11-07,Pico de loro_H- SDC (GPRS),,,,,1.3
 2024-11-07,Pinos Sud,,,,,26.1
 2024-11-07,Pocona - SDC (GPRS),25.45,14.12,91.3,39.69,
 2024-11-07,Pojo - SDC (GPRS),25.77,19.16,74.76,47.27,
@@ -66552,6 +66665,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-07,Sauce Pilata - SDC (GPRS),13.28,13.28,99.7,99.7,
 2024-11-07,Saykan Perulas,,,,,37.5
 2024-11-07,Sella Quebrada,19.5,12.5,,,10.9
+2024-11-07,Sena_H (GPRS),,,,,8.2
 2024-11-07,Sopachuy,,,,,77.8
 2024-11-07,Soracachi (Auto),21.0,2.4,68.0,5.8,
 2024-11-07,Sorata,26.0,13.0,,,1.0
@@ -66716,9 +66830,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-08,Potosi Los Pinos,,,,,4.5
 2024-11-08,Potosí,16.0,10.0,53.2,30.8,
 2024-11-08,Presa Misicuni (GPRS),,,,,7.1
+2024-11-08,Puente Abra_H- SDC (GPRS),,,,,0.3
 2024-11-08,Puente Sucre,,,,,0.5
 2024-11-08,Puerto Rico S.(GPRS),,,,,1.6
 2024-11-08,Puerto Suarez,33.0,26.0,87.9,46.0,
+2024-11-08,Puerto Villarroel_H (GPRS),,,,,0.2
 2024-11-08,Puna,19.9,5.9,,,
 2024-11-08,Punilla,,,,,9.2
 2024-11-08,Putucuni Calientes (GPRS),10.5,0.79,96.5,67.04,9.0
@@ -66762,6 +66878,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-08,Sauce Pilapata - SDC (GPRS),21.21,11.08,100.0,45.37,1.6
 2024-11-08,Sauce Pilata - SDC (GPRS),21.21,11.08,100.0,45.37,1.6
 2024-11-08,Sella Quebrada,25.0,11.0,,,7.0
+2024-11-08,Sena_H (GPRS),,,,,0.1
 2024-11-08,Sopachuy,26.5,14.5,,,
 2024-11-08,Soracachi (Auto),21.2,3.3,76.4,17.0,
 2024-11-08,Sorata,21.0,8.0,,,6.2
@@ -66918,6 +67035,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-09,Potosi Los Pinos,22.2,3.0,,,
 2024-11-09,Potosí,16.0,9.0,56.9,36.0,
 2024-11-09,Presa Misicuni (GPRS),,,,,0.3
+2024-11-09,Puente Abra_H- SDC (GPRS),,,,,0.1
 2024-11-09,Puerto Rico S.(GPRS),,,,,4.2
 2024-11-09,Puna,20.9,5.5,,,
 2024-11-09,Putucuni Calientes (GPRS),9.54,0.34,97.1,35.13,4.8
@@ -67509,6 +67627,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-12,Pucarani,,,,,1.2
 2024-11-12,Puerto Rico S.(GPRS),30.6,22.8,100.0,70.9,
 2024-11-12,Puerto Suarez,27.0,22.0,82.5,68.7,
+2024-11-12,Puerto Villarroel_H (GPRS),,,,,0.2
 2024-11-12,Puna,18.1,4.9,,,
 2024-11-12,Putucuni Calientes (GPRS),5.35,5.35,83.7,83.7,
 2024-11-12,Ravelo,19.0,9.0,,,1.0
@@ -67717,6 +67836,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-13,Potosí,19.0,10.0,75.7,29.8,
 2024-11-13,Presa Misicuni (GPRS),,,,,11.7
 2024-11-13,Pucarani,,,,,1.3
+2024-11-13,Puente Abra_H- SDC (GPRS),,,,,2.3
 2024-11-13,Puerto Rico S.(GPRS),,,,,68.8
 2024-11-13,Puerto Suarez,30.0,20.0,72.4,45.2,
 2024-11-13,Puna,16.9,6.0,,,0.3
@@ -67760,6 +67880,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-13,Sauce Pilapata - SDC (GPRS),12.06,12.06,75.78,75.78,0.1
 2024-11-13,Sauce Pilata - SDC (GPRS),12.06,12.06,75.78,75.78,0.1
 2024-11-13,Sella Quebrada,25.5,8.0,,,
+2024-11-13,Sena_H (GPRS),,,,,14.6
 2024-11-13,Sopachuy,26.5,10.5,,,
 2024-11-13,Soracachi (Auto),20.0,7.5,76.4,24.5,
 2024-11-13,Sorata,23.0,11.0,,,
@@ -68555,6 +68676,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-17,Sauce Pilapata - SDC (GPRS),14.77,14.77,65.41,65.41,
 2024-11-17,Sauce Pilata - SDC (GPRS),14.77,14.77,65.41,65.41,
 2024-11-17,Sella Quebrada,29.0,15.0,,,
+2024-11-17,Sena_H (GPRS),,,,,11.2
 2024-11-17,Senkata-D8,,,,,2.3
 2024-11-17,Sopachuy,30.5,14.0,,,
 2024-11-17,Soracachi (Auto),14.0,6.7,94.4,56.2,17.8
@@ -68737,6 +68859,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-18,Paracti,,,,,5.0
 2024-11-18,Parotani,,,,,1.6
 2024-11-18,Patacamaya (GPRS),17.98,8.17,90.09,52.7,
+2024-11-18,Pico de loro_H- SDC (GPRS),,,,,0.3
 2024-11-18,Pinos Sud,,,,,100.0
 2024-11-18,Pocona - SDC (GPRS),15.69,15.69,70.77,70.77,
 2024-11-18,Pojo - SDC (GPRS),21.25,21.25,59.95,59.95,
@@ -69045,6 +69168,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-19,Sauce Pilata - SDC (GPRS),19.6,10.79,100.0,55.05,1.1
 2024-11-19,Saykan Perulas,,,,,8.7
 2024-11-19,Sella Quebrada,22.0,13.0,,,25.1
+2024-11-19,Sena_H (GPRS),,,,,1.1
 2024-11-19,Senkata-D8,,,,,6.0
 2024-11-19,Sopachuy,,,,,10.7
 2024-11-19,Soracachi (Auto),15.5,6.7,95.2,54.0,0.4
@@ -69464,6 +69588,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-21,Puente Sucre,,,,,20.5
 2024-11-21,Puerto Rico S.(GPRS),,,,,13.8
 2024-11-21,Puerto Suarez,34.0,25.0,87.9,52.3,
+2024-11-21,Puerto Villarroel_H (GPRS),,,,,76.9
 2024-11-21,Puna,19.5,7.9,,,
 2024-11-21,Punilla,,,,,6.3
 2024-11-21,Putucuni Calientes (GPRS),7.07,7.07,89.7,89.7,2.7
@@ -69700,6 +69825,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-22,Paracti,,,,,9.0
 2024-11-22,Parotani,,,,,8.9
 2024-11-22,Pasankeri ,,,,,10.4
+2024-11-22,Pico de loro_H- SDC (GPRS),,,,,26.6
 2024-11-22,Pinos Sud,,,,,4.3
 2024-11-22,Pocona - SDC (GPRS),12.68,12.68,95.5,95.5,7.8
 2024-11-22,Pojo - SDC (GPRS),16.27,16.27,86.2,86.2,0.7
@@ -69711,9 +69837,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-22,Potosí,17.0,9.0,75.5,41.8,
 2024-11-22,Presa Misicuni (GPRS),,,,,6.2
 2024-11-22,Pucarani,,,,,4.3
+2024-11-22,Puente Abra_H- SDC (GPRS),,,,,6.4
 2024-11-22,Puente Sucre,,,,,0.8
 2024-11-22,Puerto Rico S.(GPRS),,,,,1.6
 2024-11-22,Puerto Suarez,32.0,24.0,93.3,62.2,
+2024-11-22,Puerto Villarroel_H (GPRS),,,,,0.1
 2024-11-22,Puna,17.9,5.9,,,9.9
 2024-11-22,Putucuni Calientes (GPRS),5.3,5.3,90.3,90.3,1.8
 2024-11-22,Quiabaya,,,,,8.3
@@ -69761,6 +69889,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-22,Sauce Pilapata - SDC (GPRS),17.36,9.84,100.0,76.01,16.9
 2024-11-22,Sauce Pilata - SDC (GPRS),17.36,9.84,100.0,76.01,16.9
 2024-11-22,Sella Quebrada,25.5,13.0,,,
+2024-11-22,Sena_H (GPRS),,,,,0.4
 2024-11-22,Senkata-D8,,,,,0.2
 2024-11-22,Sopachuy,,,,,16.9
 2024-11-22,Soracachi (Auto),13.7,8.8,80.0,60.5,
@@ -69936,6 +70065,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-23,Paracti,,,,,12.0
 2024-11-23,Parotani,,,,,2.3
 2024-11-23,Pasankeri ,,,,,0.3
+2024-11-23,Pico de loro_H- SDC (GPRS),,,,,0.6
 2024-11-23,Pocona - SDC (GPRS),13.87,13.87,95.8,95.8,3.4
 2024-11-23,Pojo - SDC (GPRS),17.26,17.26,89.7,89.7,0.6
 2024-11-23,Porco,19.0,6.0,,,
@@ -69944,6 +70074,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-23,Potosi Los Pinos,,,,,0.4
 2024-11-23,Presa Misicuni (GPRS),,,,,0.1
 2024-11-23,Puerto Rico S.(GPRS),,,,,12.6
+2024-11-23,Puerto Villarroel_H (GPRS),,,,,0.2
 2024-11-23,Puna,19.5,4.9,,,
 2024-11-23,Punilla,,,,,15.2
 2024-11-23,Putucuni Calientes (GPRS),4.86,4.86,98.7,98.7,0.9
@@ -69986,6 +70117,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-23,Sauce Pilapata - SDC (GPRS),19.83,11.98,100.0,62.16,9.3
 2024-11-23,Sauce Pilata - SDC (GPRS),19.83,11.98,100.0,62.16,9.3
 2024-11-23,Sella Quebrada,28.0,12.0,,,
+2024-11-23,Sena_H (GPRS),,,,,8.6
 2024-11-23,Senkata-D8,,,,,12.9
 2024-11-23,Sopachuy,,,,,7.1
 2024-11-23,Soracachi (Auto),17.4,5.4,92.2,47.2,5.0
@@ -70157,6 +70289,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-24,Paracti,,,,,8.0
 2024-11-24,Parotani,,,,,9.9
 2024-11-24,Pasankeri ,,,,,16.7
+2024-11-24,Pico de loro_H- SDC (GPRS),,,,,4.2
 2024-11-24,Pocona - SDC (GPRS),14.97,14.97,86.3,86.3,13.6
 2024-11-24,Pojo - SDC (GPRS),18.47,18.47,80.8,80.8,0.2
 2024-11-24,Porco,21.0,8.0,,,13.5
@@ -70166,6 +70299,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-24,Potosi Los Pinos,,,,,3.5
 2024-11-24,Presa Misicuni (GPRS),,,,,9.5
 2024-11-24,Pucarani,,,,,5.8
+2024-11-24,Puente Abra_H- SDC (GPRS),,,,,4.6
 2024-11-24,Puente Sucre,,,,,2.5
 2024-11-24,Puerto Rico S.(GPRS),,,,,27.8
 2024-11-24,Puna,19.0,6.9,,,
@@ -70367,6 +70501,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-25,Paracti,,,,,9.0
 2024-11-25,Parotani,29.0,14.0,,,
 2024-11-25,Pasankeri ,,,,,0.1
+2024-11-25,Pico de loro_H- SDC (GPRS),,,,,1.3
 2024-11-25,Pocona - SDC (GPRS),17.61,17.61,73.84,73.84,
 2024-11-25,Pojo - SDC (GPRS),,,,,0.1
 2024-11-25,Porco,25.0,9.0,,,
@@ -70416,6 +70551,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-25,Sauce Pilata - SDC (GPRS),15.77,15.77,78.58,78.58,
 2024-11-25,Saykan Perulas,,,,,15.6
 2024-11-25,Sella Quebrada,28.5,14.0,,,
+2024-11-25,Sena_H (GPRS),,,,,11.8
 2024-11-25,Sopachuy,31.5,17.5,,,
 2024-11-25,Soracachi (Auto),19.2,6.7,93.9,41.6,
 2024-11-25,Sorata,26.0,12.0,,,6.1
@@ -70576,6 +70712,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-26,Paracti,,,,,11.0
 2024-11-26,Parotani,31.0,11.0,,,
 2024-11-26,Pasankeri ,,,,,0.1
+2024-11-26,Pico de loro_H- SDC (GPRS),,,,,0.1
 2024-11-26,Pinos Sud,,,,,7.6
 2024-11-26,Pocona - SDC (GPRS),17.79,17.79,62.73,62.73,
 2024-11-26,Pojo - SDC (GPRS),19.16,19.16,79.71,79.71,
@@ -70586,6 +70723,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-26,Presa Misicuni (GPRS),,,,,0.2
 2024-11-26,Puerto Rico S.(GPRS),33.9,24.9,93.2,54.8,
 2024-11-26,Puerto Suarez,38.0,29.0,73.8,42.0,
+2024-11-26,Puerto Villarroel_H (GPRS),,,,,0.2
 2024-11-26,Puna,20.1,8.1,,,
 2024-11-26,Putucuni Calientes (GPRS),4.98,4.98,79.31,79.31,0.9
 2024-11-26,Ravelo,22.0,11.0,,,
@@ -70789,6 +70927,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-27,Paracti,,,,,10.0
 2024-11-27,Parotani,,,,,18.6
 2024-11-27,Pasankeri ,,,,,18.6
+2024-11-27,Pico de loro_H- SDC (GPRS),,,,,6.3
 2024-11-27,Pinos Sud,,,,,33.4
 2024-11-27,Pocona - SDC (GPRS),18.12,18.12,63.78,63.78,
 2024-11-27,Pojo - SDC (GPRS),19.16,19.16,77.37,77.37,
@@ -70799,6 +70938,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-27,Presa Misicuni (GPRS),,,,,1.7
 2024-11-27,Puerto Rico S.(GPRS),30.9,21.7,100.0,73.2,
 2024-11-27,Puerto Suarez,36.0,30.0,65.6,41.4,
+2024-11-27,Puerto Villarroel_H (GPRS),,,,,0.2
 2024-11-27,Puna,19.0,7.9,,,
 2024-11-27,Putucuni Calientes (GPRS),6.51,6.51,79.14,79.14,
 2024-11-27,Ravelo,24.0,10.0,,,
@@ -71007,6 +71147,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-28,Paracti,,,,,15.0
 2024-11-28,Parotani,30.0,12.0,,,
 2024-11-28,Pasankeri ,,,,,14.3
+2024-11-28,Pico de loro_H- SDC (GPRS),,,,,12.3
 2024-11-28,Pinos Sud,,,,,60.3
 2024-11-28,Pocona - SDC (GPRS),22.18,12.93,94.0,44.22,9.3
 2024-11-28,Pojo - SDC (GPRS),26.69,16.99,95.3,45.84,0.3
@@ -71017,6 +71158,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-28,Potosí,19.0,9.0,80.9,39.5,
 2024-11-28,Presa Misicuni (GPRS),,,,,0.5
 2024-11-28,Pucarani,,,,,21.8
+2024-11-28,Puente Abra_H- SDC (GPRS),,,,,1.7
 2024-11-28,Puerto Rico S.(GPRS),,,,,2.2
 2024-11-28,Puerto Suarez,37.0,30.0,65.6,46.8,
 2024-11-28,Puna,20.0,7.1,,,
@@ -71236,6 +71378,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-29,Paracti,,,,,16.0
 2024-11-29,Parotani,,,,,6.6
 2024-11-29,Pasankeri ,,,,,1.8
+2024-11-29,Pico de loro_H- SDC (GPRS),,,,,15.7
 2024-11-29,Pinos Sud,,,,,32.3
 2024-11-29,Pocona - SDC (GPRS),13.91,13.91,87.5,87.5,1.7
 2024-11-29,Pojo - SDC (GPRS),24.26,16.73,89.7,53.49,0.4
@@ -71247,6 +71390,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-29,Potosí,16.0,9.0,80.9,51.1,
 2024-11-29,Presa Misicuni (GPRS),,,,,12.7
 2024-11-29,Pucarani,,,,,2.0
+2024-11-29,Puente Abra_H- SDC (GPRS),,,,,12.2
 2024-11-29,Puerto Rico S.(GPRS),32.9,23.4,100.0,63.8,
 2024-11-29,Puerto Suarez,39.0,30.0,69.7,31.1,
 2024-11-29,Puna,19.0,6.5,,,
@@ -71458,6 +71602,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-30,Pananti,,,,,3.0
 2024-11-30,Paracti,,,,,17.0
 2024-11-30,Parotani,29.0,9.0,,,
+2024-11-30,Pico de loro_H- SDC (GPRS),,,,,5.5
 2024-11-30,Pinos Sud,,,,,10.2
 2024-11-30,Pocona - SDC (GPRS),18.46,18.46,63.85,63.85,0.1
 2024-11-30,Pojo - SDC (GPRS),20.42,20.42,65.84,65.84,0.1
@@ -71689,7 +71834,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-01,Potosi Los Pinos,,,,,3.5
 2024-12-01,Presa Misicuni (GPRS),,,,,4.1
 2024-12-01,Pucarani,,,,,0.1
+2024-12-01,Puente Abra_H- SDC (GPRS),,,,,0.3
 2024-12-01,Puerto Rico S.(GPRS),,,,,0.2
+2024-12-01,Puerto Villarroel_H (GPRS),,,,,0.9
 2024-12-01,Puna,18.9,5.9,,,
 2024-12-01,Punilla,,,,,9.3
 2024-12-01,Putucuni Calientes (GPRS),2.22,2.22,95.2,95.2,15.0
@@ -72119,6 +72266,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-03,Parotani,,,,,11.4
 2024-12-03,Pasankeri ,,,,,13.7
 2024-12-03,Patacamaya (GPRS),17.42,7.06,,,
+2024-12-03,Pico de loro_H- SDC (GPRS),,,,,0.7
 2024-12-03,Pinos Sud,,,,,6.7
 2024-12-03,Pocona - SDC (GPRS),13.44,13.44,90.6,90.6,2.8
 2024-12-03,Pojo - SDC (GPRS),20.86,14.64,93.8,63.73,
@@ -72129,8 +72277,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-03,Potosí,16.0,9.0,80.9,47.7,
 2024-12-03,Presa Misicuni (GPRS),,,,,14.2
 2024-12-03,Pucarani,,,,,17.6
+2024-12-03,Puente Abra_H- SDC (GPRS),,,,,4.8
 2024-12-03,Puerto Rico S.(GPRS),32.9,24.3,97.5,65.4,
 2024-12-03,Puerto Suarez,27.0,23.0,93.2,77.9,
+2024-12-03,Puerto Villarroel_H (GPRS),,,,,12.2
 2024-12-03,Puna,17.9,4.8,,,
 2024-12-03,Punilla,,,,,12.5
 2024-12-03,Putucuni Calientes (GPRS),3.69,3.69,97.7,97.7,16.8
@@ -72349,6 +72499,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-04,Pucarani,,,,,1.8
 2024-12-04,Puerto Rico S.(GPRS),,,,,31.0
 2024-12-04,Puerto Suarez,27.0,22.0,93.2,73.5,
+2024-12-04,Puerto Villarroel_H (GPRS),,,,,0.2
 2024-12-04,Puna,19.1,5.5,,,
 2024-12-04,Putucuni Calientes (GPRS),7.24,7.24,74.97,74.97,0.1
 2024-12-04,Quillacas (GPRS),23.44,6.77,27.38,21.11,
@@ -72905,10 +73056,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-07,Pairumani,,,,,2.0
 2024-12-07,Palca,,,,,3.5
 2024-12-07,Palos Blancos S.(GPRS),,,,,0.2
+2024-12-07,Palos Blancos_H (GPRS),,,,,6.0
 2024-12-07,Palos Blancos_M (GPRS),29.16,23.26,99.99,77.23,
 2024-12-07,Pampas de Lequezana,20.6,13.5,,,
 2024-12-07,Paracti,,,,,22.0
 2024-12-07,Parotani,,,,,18.6
+2024-12-07,Pico de loro_H- SDC (GPRS),,,,,12.7
 2024-12-07,Pocona - SDC (GPRS),14.45,14.45,79.07,79.07,2.1
 2024-12-07,Pojo - SDC (GPRS),21.45,16.01,95.8,63.94,0.2
 2024-12-07,Porco,21.0,12.0,,,4.0
@@ -72916,7 +73069,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-07,Potosi Los Pinos,,,,,6.2
 2024-12-07,Presa Misicuni (GPRS),,,,,2.2
 2024-12-07,Pucarani,,,,,0.1
+2024-12-07,Puente Abra_H- SDC (GPRS),,,,,0.8
 2024-12-07,Puerto Rico S.(GPRS),,,,,9.6
+2024-12-07,Puerto Villarroel_H (GPRS),,,,,18.9
 2024-12-07,Puna,15.0,6.0,,,10.2
 2024-12-07,Punilla,,,,,8.6
 2024-12-07,Putucuni Calientes (GPRS),5.49,5.49,88.9,88.9,6.7
@@ -72955,6 +73110,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-07,Sauce Pilapata - SDC (GPRS),17.84,11.09,99.2,58.36,0.9
 2024-12-07,Sauce Pilata - SDC (GPRS),17.84,11.09,99.2,58.36,0.9
 2024-12-07,Sella Quebrada,26.0,14.5,,,
+2024-12-07,Sena_H (GPRS),,,,,0.8
 2024-12-07,Sopachuy,32.0,12.5,,,
 2024-12-07,Sorata,,,,,9.0
 2024-12-07,Sucre SENAMHI,28.0,15.0,,,
@@ -73116,14 +73272,17 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-08,Pampas de Lequezana,24.5,12.1,,,
 2024-12-08,Paracti,,,,,18.0
 2024-12-08,Parotani,,,,,3.2
+2024-12-08,Pico de loro_H- SDC (GPRS),,,,,0.2
 2024-12-08,Pocona - SDC (GPRS),14.81,14.81,80.6,80.6,1.7
 2024-12-08,Pojo - SDC (GPRS),24.53,16.8,86.3,58.74,0.6
 2024-12-08,Porco,22.0,8.0,,,
 2024-12-08,Porvenir - PSM,,,,,1.0
 2024-12-08,Potosi Los Pinos,,,,,3.2
 2024-12-08,Presa Misicuni (GPRS),,,,,2.2
+2024-12-08,Puente Abra_H- SDC (GPRS),,,,,0.3
 2024-12-08,Puerto Rico S.(GPRS),31.4,23.4,100.0,68.6,
 2024-12-08,Puerto Suarez,35.0,31.0,61.9,43.8,
+2024-12-08,Puerto Villarroel_H (GPRS),,,,,8.1
 2024-12-08,Puna,17.5,7.5,,,
 2024-12-08,Punilla,,,,,14.2
 2024-12-08,Putucuni Calientes (GPRS),10.44,3.0,96.3,73.03,0.1
@@ -73329,6 +73488,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-09,Pairumani,,,,,1.0
 2024-12-09,Palca_LP,,,,,4.2
 2024-12-09,Palos Blancos S.(GPRS),,,,,0.2
+2024-12-09,Palos Blancos_H (GPRS),,,,,31.0
 2024-12-09,Palos Blancos_M (GPRS),,,,,5.3
 2024-12-09,Pampas de Lequezana,21.0,10.1,,,
 2024-12-09,Paracti,,,,,10.0
@@ -73345,6 +73505,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-09,Pucarani,,,,,0.2
 2024-12-09,Puerto Rico S.(GPRS),,,,,2.0
 2024-12-09,Puerto Suarez,33.0,26.0,78.2,55.3,
+2024-12-09,Puerto Villarroel_H (GPRS),,,,,18.8
 2024-12-09,Puna,24.0,6.0,,,
 2024-12-09,Putucuni Calientes (GPRS),,,,,0.1
 2024-12-09,Quiabaya,,,,,2.0
@@ -73555,6 +73716,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-10,Potosí,18.0,11.0,76.2,42.0,
 2024-12-10,Presa Misicuni (GPRS),15.36,6.29,94.2,53.56,
 2024-12-10,Pucarani,,,,,0.8
+2024-12-10,Puente Abra_H- SDC (GPRS),,,,,3.8
 2024-12-10,Puerto Rico S.(GPRS),33.5,24.0,100.0,53.3,
 2024-12-10,Puerto Suarez,34.0,28.0,83.0,49.2,
 2024-12-10,Puna,19.9,9.0,,,
@@ -73740,10 +73902,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-11,Pailon - Pozo del Tigre (GPRS),36.0,25.06,96.1,47.26,
 2024-12-11,Pairumani,28.0,12.0,,,
 2024-12-11,Palos Blancos S.(GPRS),,,,,0.2
+2024-12-11,Palos Blancos_H (GPRS),,,,,12.0
 2024-12-11,Palos Blancos_M (GPRS),,,,,0.1
 2024-12-11,Pampas de Lequezana,25.0,13.2,,,
 2024-12-11,Paracti,,,,,14.5
 2024-12-11,Parotani,,,,,3.9
+2024-12-11,Pico de loro_H- SDC (GPRS),,,,,3.0
 2024-12-11,Pocona - SDC (GPRS),16.75,16.75,80.1,80.1,
 2024-12-11,Pojo - SDC (GPRS),19.81,19.81,71.19,71.19,
 2024-12-11,Porco,24.0,8.0,,,
@@ -73752,8 +73916,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-11,Potosí,22.0,12.0,71.0,26.0,
 2024-12-11,Presa Misicuni (GPRS),,,,,2.6
 2024-12-11,Pucarani,,,,,1.1
+2024-12-11,Puente Abra_H- SDC (GPRS),,,,,5.6
 2024-12-11,Puerto Rico S.(GPRS),34.6,25.8,96.4,59.5,
 2024-12-11,Puerto Suarez,36.0,30.0,69.7,49.7,
+2024-12-11,Puerto Villarroel_H (GPRS),,,,,1.3
 2024-12-11,Puna,24.5,8.8,,,
 2024-12-11,Putucuni Calientes (GPRS),7.49,7.49,60.46,60.46,1.8
 2024-12-11,Ravelo,,,,,4.2
@@ -73932,6 +74098,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-12,Pailon - Pozo del Tigre (GPRS),30.07,30.07,77.52,77.52,
 2024-12-12,Pairumani,29.0,13.0,,,
 2024-12-12,Palos Blancos S.(GPRS),30.2,23.4,98.9,71.1,
+2024-12-12,Palos Blancos_H (GPRS),,,,,1.0
 2024-12-12,Palos Blancos_M (GPRS),31.02,23.67,99.99,71.17,
 2024-12-12,Pampas de Lequezana,20.5,15.6,,,
 2024-12-12,Paracti,,,,,8.0
@@ -73982,6 +74149,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-12,Sauce Pilapata - SDC (GPRS),23.97,14.52,78.81,37.53,
 2024-12-12,Sauce Pilata - SDC (GPRS),23.97,14.52,78.81,37.53,
 2024-12-12,Sella Quebrada,29.0,15.0,,,
+2024-12-12,Sena_H (GPRS),,,,,16.9
 2024-12-12,Sopachuy,31.5,17.5,,,
 2024-12-12,Sorata,,,,,11.3
 2024-12-12,Sucre SENAMHI,26.8,15.5,,,
@@ -74180,6 +74348,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-13,Sauce Pilapata - SDC (GPRS),25.14,10.93,100.0,38.98,
 2024-12-13,Sauce Pilata - SDC (GPRS),25.14,10.93,100.0,38.98,
 2024-12-13,Sella Quebrada,28.0,15.0,,,
+2024-12-13,Sena_H (GPRS),,,,,0.3
 2024-12-13,Sopachuy,31.5,16.5,,,
 2024-12-13,Sucre SENAMHI,,,,,0.6
 2024-12-13,Sultaca_M (GPRS),21.91,8.23,99.73,20.4,
@@ -74345,9 +74514,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-14,Porvenir - PSM,,,,,0.3
 2024-12-14,Potosi Los Pinos,,,,,7.5
 2024-12-14,Presa Misicuni (GPRS),12.95,6.8,95.0,67.25,
+2024-12-14,Puente Abra_H- SDC (GPRS),,,,,0.1
 2024-12-14,Puente Sucre,,,,,5.0
 2024-12-14,Puerto Rico S.(GPRS),,,,,2.6
 2024-12-14,Puerto Suarez,29.0,26.0,82.9,73.6,
+2024-12-14,Puerto Villarroel_H (GPRS),,,,,23.9
 2024-12-14,Puna,19.9,7.0,,,
 2024-12-14,Punilla,,,,,24.6
 2024-12-14,Putucuni Calientes (GPRS),4.44,4.44,98.6,98.6,5.4
@@ -74762,6 +74933,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-16,Sauce Pilapata - SDC (GPRS),19.48,10.39,94.3,56.89,
 2024-12-16,Sauce Pilata - SDC (GPRS),19.48,10.39,94.3,56.89,
 2024-12-16,Sella Quebrada,26.0,13.5,,,
+2024-12-16,Sena_H (GPRS),,,,,0.1
 2024-12-16,Sopachuy,24.5,14.0,,,
 2024-12-16,Soracachi (Auto),,,,,0.8
 2024-12-16,Soracachi (GPRS),20.72,10.13,65.73,37.64,
@@ -74903,6 +75075,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-17,Palos Blancos_M (GPRS),35.43,22.11,100.0,42.09,
 2024-12-17,Pampas de Lequezana,22.3,13.4,,,
 2024-12-17,Parotani,30.0,15.0,,,
+2024-12-17,Pico de loro_H- SDC (GPRS),,,,,0.4
 2024-12-17,Pocona - SDC (GPRS),15.45,15.45,72.08,72.08,
 2024-12-17,Pojo - SDC (GPRS),18.54,18.54,65.82,65.82,
 2024-12-17,Porco,22.0,7.0,,,
@@ -75287,6 +75460,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-19,Paracti,,,,,14.0
 2024-12-19,Parotani,29.0,14.0,,,
 2024-12-19,Pasankeri ,,,,,4.5
+2024-12-19,Pico de loro_H- SDC (GPRS),,,,,1.5
 2024-12-19,Pinos Sud,,,,,20.3
 2024-12-19,Pocona - SDC (GPRS),22.95,13.03,97.3,43.65,
 2024-12-19,Pojo - SDC (GPRS),19.13,19.13,73.99,73.99,0.5
@@ -75340,6 +75514,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-19,Sauce Pilata - SDC (GPRS),22.07,10.62,100.0,52.67,0.4
 2024-12-19,Saykan Perulas,,,,,6.6
 2024-12-19,Sella Quebrada,18.0,12.5,,,4.5
+2024-12-19,Sena_H (GPRS),,,,,0.4
 2024-12-19,Senkata-D8,,,,,1.1
 2024-12-19,Sopachuy,22.5,15.5,,,
 2024-12-19,Sorata,,,,,18.4
@@ -75503,11 +75678,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-20,Pailon - Pozo del Tigre (GPRS),24.8,24.8,96.1,96.1,5.8
 2024-12-20,Pairumani,,,,,28.3
 2024-12-20,Palos Blancos S.(GPRS),32.0,24.0,98.4,59.1,
+2024-12-20,Palos Blancos_H (GPRS),,,,,189.0
 2024-12-20,Palos Blancos_M (GPRS),,,,,0.5
 2024-12-20,Pampas de Lequezana,24.6,9.6,,,
 2024-12-20,Paracti,,,,,44.0
 2024-12-20,Parotani,,,,,19.2
 2024-12-20,Pasankeri ,,,,,1.7
+2024-12-20,Pico de loro_H- SDC (GPRS),,,,,12.9
 2024-12-20,Pocona - SDC (GPRS),13.68,13.68,88.7,88.7,28.9
 2024-12-20,Pojo - SDC (GPRS),26.5,15.03,95.3,47.8,0.8
 2024-12-20,Porco,19.0,7.0,,,8.0
@@ -75516,8 +75693,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-20,Potosi Los Pinos,,,,,0.2
 2024-12-20,Potosí,18.0,10.0,65.8,31.7,
 2024-12-20,Presa Misicuni (GPRS),,,,,7.7
+2024-12-20,Puente Abra_H- SDC (GPRS),,,,,15.1
 2024-12-20,Puerto Rico S.(GPRS),,,,,1.2
 2024-12-20,Puerto Suarez,36.0,27.0,78.1,46.8,
+2024-12-20,Puerto Villarroel_H (GPRS),,,,,126.5
 2024-12-20,Puna,19.5,5.9,,,
 2024-12-20,Punilla,,,,,28.6
 2024-12-20,Putucuni Calientes (GPRS),0.35,0.35,94.6,94.6,6.5
@@ -75708,12 +75887,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-21,Pailon - Pozo del Tigre (GPRS),35.16,24.41,97.1,52.66,
 2024-12-21,Pairumani,,,,,23.2
 2024-12-21,Palos Blancos S.(GPRS),31.6,23.4,96.9,60.1,
+2024-12-21,Palos Blancos_H (GPRS),,,,,2.0
 2024-12-21,Palos Blancos_M (GPRS),,,,,7.4
 2024-12-21,Pampas de Lequezana,19.3,13.0,,,25.8
 2024-12-21,Pananti,,,,,3.3
 2024-12-21,Paracti,,,,,21.0
 2024-12-21,Parotani,,,,,3.6
 2024-12-21,Pasankeri ,,,,,2.3
+2024-12-21,Pico de loro_H- SDC (GPRS),,,,,0.3
 2024-12-21,Pocona - SDC (GPRS),25.75,11.8,94.2,38.17,
 2024-12-21,Pojo - SDC (GPRS),24.65,13.98,95.0,59.17,0.1
 2024-12-21,Porco,23.0,6.0,,,
@@ -75721,9 +75902,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-21,Potosi Los Pinos,20.0,5.8,,,
 2024-12-21,Presa Misicuni (GPRS),,,,,1.3
 2024-12-21,Pucarani,,,,,5.7
+2024-12-21,Puente Abra_H- SDC (GPRS),,,,,0.6
 2024-12-21,Puente Sucre,,,,,8.0
 2024-12-21,Puerto Rico S.(GPRS),,,,,0.2
 2024-12-21,Puerto Suarez,36.0,31.0,62.4,44.0,
+2024-12-21,Puerto Villarroel_H (GPRS),,,,,0.1
 2024-12-21,Puna,18.5,5.0,,,
 2024-12-21,Putucuni Calientes (GPRS),8.47,8.47,75.36,75.36,4.9
 2024-12-21,Quiabaya,,,,,10.0
@@ -75927,11 +76110,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-22,Palca_LP,,,,,1.7
 2024-12-22,Palos Blancos,,,,,20.4
 2024-12-22,Palos Blancos S.(GPRS),,,,,0.2
+2024-12-22,Palos Blancos_H (GPRS),,,,,12.0
 2024-12-22,Palos Blancos_M (GPRS),,,,,3.3
 2024-12-22,Pampas de Lequezana,21.6,11.5,,,24.1
 2024-12-22,Pananti,,,,,71.7
 2024-12-22,Paracti,,,,,18.0
 2024-12-22,Parotani,,,,,7.7
+2024-12-22,Pico de loro_H- SDC (GPRS),,,,,7.3
 2024-12-22,Pinos Sud,,,,,14.2
 2024-12-22,Pocona - SDC (GPRS),13.23,13.23,83.9,83.9,0.5
 2024-12-22,Pojo - SDC (GPRS),16.6,16.6,82.1,82.1,0.4
@@ -75945,6 +76130,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-22,Puente Sucre,,,,,4.0
 2024-12-22,Puerto Rico S.(GPRS),,,,,2.2
 2024-12-22,Puerto Suarez,26.0,26.0,87.9,82.8,
+2024-12-22,Puerto Villarroel_H (GPRS),,,,,87.6
 2024-12-22,Puna,16.0,6.0,,,4.3
 2024-12-22,Punilla,,,,,18.6
 2024-12-22,Putucuni Calientes (GPRS),2.79,2.79,89.4,89.4,7.6
@@ -76136,9 +76322,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-23,Palca_LP,,,,,0.5
 2024-12-23,Palos Blancos,,,,,4.2
 2024-12-23,Palos Blancos S.(GPRS),,,,,0.2
+2024-12-23,Palos Blancos_H (GPRS),,,,,29.0
 2024-12-23,Palos Blancos_M (GPRS),,,,,1.8
 2024-12-23,Pampas de Lequezana,17.4,9.0,,,
 2024-12-23,Parotani,30.0,11.0,,,
+2024-12-23,Pico de loro_H- SDC (GPRS),,,,,2.6
 2024-12-23,Pinos Sud,,,,,13.6
 2024-12-23,Pocona - SDC (GPRS),15.12,15.12,62.41,62.41,
 2024-12-23,Pojo - SDC (GPRS),19.22,19.22,66.21,66.21,
@@ -76191,6 +76379,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-23,Sauce Pilata - SDC (GPRS),,,,,1.6
 2024-12-23,Saykan Perulas,,,,,38.5
 2024-12-23,Sella Quebrada,28.0,11.0,,,8.4
+2024-12-23,Sena_H (GPRS),,,,,0.9
 2024-12-23,Sopachuy,26.5,11.0,,,
 2024-12-23,Sucre SENAMHI,22.6,12.0,,,30.4
 2024-12-23,Sultaca_M (GPRS),,,,,3.4
@@ -76339,6 +76528,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-24,Pananti,,,,,34.2
 2024-12-24,Paracti,,,,,8.0
 2024-12-24,Parotani,32.0,9.0,,,
+2024-12-24,Pico de loro_H- SDC (GPRS),,,,,0.1
 2024-12-24,Pinos Sud,,,,,14.0
 2024-12-24,Pocona - SDC (GPRS),16.22,16.22,72.78,72.78,
 2024-12-24,Pojo - SDC (GPRS),18.57,18.57,67.51,67.51,
@@ -76544,6 +76734,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-25,Potosí,14.0,11.0,66.1,43.9,
 2024-12-25,Presa Misicuni (GPRS),,,,,4.7
 2024-12-25,Puerto Rico S.(GPRS),,,,,5.4
+2024-12-25,Puerto Villarroel_H (GPRS),,,,,22.4
 2024-12-25,Puna,16.7,4.9,,,
 2024-12-25,Punilla,,,,,15.8
 2024-12-25,Putucuni Calientes (GPRS),5.22,5.22,79.66,79.66,
@@ -77251,6 +77442,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-29,Palos Blancos_M (GPRS),33.81,20.72,100.0,50.78,
 2024-12-29,Pampas de Lequezana,21.5,12.6,,,
 2024-12-29,Parotani,,,,,12.8
+2024-12-29,Pico de loro_H- SDC (GPRS),,,,,12.4
 2024-12-29,Pinos Sud,,,,,4.5
 2024-12-29,Pocona - SDC (GPRS),13.9,13.9,70.53,70.53,
 2024-12-29,Pojo - SDC (GPRS),18.9,18.9,58.25,58.25,
@@ -77258,6 +77450,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-29,Potosi Los Pinos,17.0,7.0,,,
 2024-12-29,Presa Misicuni (GPRS),,,,,2.6
 2024-12-29,Pucarani,,,,,0.1
+2024-12-29,Puente Abra_H- SDC (GPRS),,,,,5.6
 2024-12-29,Puerto Rico S.(GPRS),34.8,25.3,96.1,49.6,
 2024-12-29,Puerto Suarez,37.0,25.0,77.8,32.6,
 2024-12-29,Puna,18.5,5.0,,,
