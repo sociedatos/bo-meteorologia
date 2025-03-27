@@ -1,7 +1,7 @@
 name: Update forecasts senamhi
 on:
   schedule:
-    - cron: '20 */2 * * *'
+    - cron: '20 10-22/2 * * *'
 jobs:
   update:
     name: update data
