@@ -35,12 +35,15 @@ METEO_DATA = {
     'multiDim': False
 }
 
+requests.packages.urllib3.disable_warnings()
+
 
 def get_stations():
     req = requests.post(
         STATIONS_URL,
         json=STATIONS_DATA,
-        headers=BASE_HEADERS
+        headers=BASE_HEADERS,
+        verify=False,
     )
 
     stations = req.json()['data']
@@ -67,7 +70,8 @@ def do_download_station_data(station_id, station, request_date):
             METEO_URL,
             json=meteo_data,
             headers=BASE_HEADERS,
-            timeout=90
+            timeout=90,
+            verify=False,
         )
         assert(req.status_code == 200)
         return req.content

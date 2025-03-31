@@ -42,6 +42,8 @@ DF_COLUMNS = [
     'presion',
 ]
 
+requests.packages.urllib3.disable_warnings()
+
 
 def download_latest():
     time_to = pd.to_datetime('now')
@@ -60,7 +62,8 @@ def download_latest():
             QUERY_URL,
             json=QUERY_DATA,
             headers=QUERY_HEADERS,
-            timeout=QUERY_TIMEOUT
+            timeout=QUERY_TIMEOUT,
+            verify=False,
         )
         print(req.content)
 
@@ -68,7 +71,11 @@ def download_latest():
         if ('succes' not in req) or (not req['succes']) or ('Error' in req['message']):
             continue
 
-        req = requests.get(DOWNLOAD_URL, timeout=QUERY_TIMEOUT)
+        req = requests.get(
+            DOWNLOAD_URL,
+            timeout=QUERY_TIMEOUT,
+            verify=False,
+        )
 
         req_io = io.BytesIO(req.content)
         req_df = gpd.read_file(req_io)

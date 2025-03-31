@@ -82,7 +82,8 @@ def get_forecasts(stations, now):
 
 def do_process_for_storage(df_t):
     df_t = df_t.groupby(['fecha', 'fecha_diff']).apply(
-        lambda _: _['valor']
+        lambda _: _['valor'],
+        include_groups=False
     ).droplevel(2)
     df_t = df_t[~df_t.index.duplicated()].unstack(level=1).ffill()
 
@@ -119,7 +120,6 @@ def update_store(station_forecasts, now):
 
     station_forecasts = station_forecasts.reset_index()
 
-    stored_forecasts = pd.DataFrame([])
     if not os.path.isfile(fn):
         station_forecasts.to_csv(fn, index=False)
         return
