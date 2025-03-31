@@ -65345,6 +65345,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-01,Mojo,21.0,1.0,,,21.0
 2024-11-01,Molle Molle,24.4,11.1,,,2.5
 2024-11-01,Narvaez,,,,,40.0
+2024-11-01,Opoqueri,20.0,1.0,,,
 2024-11-01,Oronkota PTI,38.5,16.2,,,
 2024-11-01,Oruro (GPRS),20.0,2.0,86.0,30.0,
 2024-11-01,Padilla,27.0,12.0,,,
@@ -65556,11 +65557,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-02,Mojo,19.2,3.2,,,
 2024-11-02,Molle Molle,32.2,12.8,,,
 2024-11-02,Nuevo Mundo,,,,,6.0
+2024-11-02,Opoqueri,17.0,5.0,,,
 2024-11-02,Oronkota PTI,38.6,16.5,,,
 2024-11-02,Oruro (GPRS),21.0,4.0,69.4,32.5,
 2024-11-02,Padilla,31.0,8.0,,,
 2024-11-02,Pailon - Pozo del Tigre (GPRS),32.61,25.37,91.8,59.65,
 2024-11-02,Pairumani,28.0,12.0,,,
+2024-11-02,Palca_LP,29.0,7.0,,,
 2024-11-02,Palos Blancos S.(GPRS),,,,,3.0
 2024-11-02,Palos Blancos_M (GPRS),,,,,4.2
 2024-11-02,Pampas de Lequezana,24.0,9.1,,,
@@ -65751,11 +65754,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-03,Molle Molle,26.7,12.2,,,
 2024-11-03,Narvaez,,,,,4.5
 2024-11-03,Nuevo Mundo,,,,,34.0
+2024-11-03,Opoqueri,20.0,5.1,,,
 2024-11-03,Oronkota PTI,32.7,18.2,,,
 2024-11-03,Oruro (GPRS),20.0,5.0,74.8,39.8,
 2024-11-03,Padilla,30.0,16.0,,,
 2024-11-03,Pailon - Pozo del Tigre (GPRS),36.13,24.65,91.2,46.68,
 2024-11-03,Pairumani,29.0,13.0,,,
+2024-11-03,Palca_LP,24.0,7.0,,,
 2024-11-03,Palos Blancos S.(GPRS),,,,,3.8
 2024-11-03,Palos Blancos_M (GPRS),,,,,0.5
 2024-11-03,Pampas de Lequezana,21.4,9.6,,,2.5
@@ -65941,6 +65946,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-04,Mizque - SDC (GPRS),33.46,14.54,88.7,15.17,
 2024-11-04,Mojo,20.0,5.0,,,8.0
 2024-11-04,Molle Molle,28.9,11.1,,,
+2024-11-04,Opoqueri,18.0,5.0,,,
 2024-11-04,Oronkota PTI,36.7,19.2,,,
 2024-11-04,Oruro (GPRS),22.0,5.0,80.6,35.2,
 2024-11-04,Padilla,31.0,12.0,,,
@@ -66149,12 +66155,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-05,Mojo,23.0,8.3,,,
 2024-11-05,Molle Molle,28.3,12.2,,,6.6
 2024-11-05,Narvaez,,,,,62.5
+2024-11-05,Opoqueri,22.0,6.3,,,
 2024-11-05,Oronkota PTI,32.3,20.3,,,
 2024-11-05,Oruro (GPRS),22.0,6.0,86.7,35.2,
 2024-11-05,Padilla,29.0,13.0,,,4.8
 2024-11-05,Pailon - Pozo del Tigre (GPRS),36.06,22.7,98.1,48.69,
 2024-11-05,Pairumani,28.0,12.0,,,16.4
 2024-11-05,Palca,,,,,3.1
+2024-11-05,Palca_LP,25.0,7.0,,,
 2024-11-05,Palos Blancos,,,,,12.0
 2024-11-05,Palos Blancos S.(GPRS),,,,,0.4
 2024-11-05,Palos Blancos_M (GPRS),38.65,24.14,95.33,41.67,
@@ -66375,11 +66383,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-06,Molle Molle,24.4,12.2,,,6.1
 2024-11-06,Narvaez,,,,,10.0
 2024-11-06,Nuevo Mundo,,,,,16.2
+2024-11-06,Opoqueri,20.0,8.0,,,
 2024-11-06,Oronkota PTI,31.5,19.9,,,8.5
 2024-11-06,Oruro (GPRS),12.0,10.0,75.7,66.3,
 2024-11-06,Padilla,28.0,14.0,,,18.0
 2024-11-06,Pailon - Pozo del Tigre (GPRS),30.46,23.36,97.5,69.27,0.8
 2024-11-06,Pairumani,27.0,13.0,,,8.1
+2024-11-06,Palca_LP,26.0,6.0,,,
 2024-11-06,Palos Blancos,,,,,8.0
 2024-11-06,Palos Blancos S.(GPRS),,,,,0.2
 2024-11-06,Palos Blancos_M (GPRS),,,,,47.8
@@ -66595,11 +66605,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-07,Montero_Muyurina,,,,,0.8
 2024-11-07,Narvaez,,,,,40.5
 2024-11-07,Omereque - SDC (GPRS),32.28,23.22,62.42,28.26,
+2024-11-07,Opoqueri,17.0,3.0,,,
 2024-11-07,Oronkota PTI,26.5,18.5,,,2.1
 2024-11-07,Oruro (GPRS),6.0,6.0,75.0,65.6,
 2024-11-07,Padilla,25.0,13.0,,,12.0
 2024-11-07,Pailon - Pozo del Tigre (GPRS),27.66,27.66,82.1,82.1,
 2024-11-07,Pairumani,28.0,13.0,,,3.3
+2024-11-07,Palca_LP,29.0,9.0,,,
 2024-11-07,Palos Blancos,,,,,14.0
 2024-11-07,Palos Blancos S.(GPRS),,,,,0.2
 2024-11-07,Palos Blancos_M (GPRS),,,,,0.6
@@ -66813,11 +66825,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-08,Molle Molle,25.5,10.5,,,43.2
 2024-11-08,Narvaez,,,,,24.5
 2024-11-08,Omereque - SDC (GPRS),31.78,19.86,68.98,27.43,
+2024-11-08,Opoqueri,20.0,10.0,,,
 2024-11-08,Oronkota PTI,31.5,18.2,,,
 2024-11-08,Oruro (GPRS),23.0,6.0,80.5,38.0,
 2024-11-08,Padilla,28.0,12.0,,,1.2
 2024-11-08,Pailon - Pozo del Tigre (GPRS),34.83,22.25,94.6,48.75,27.0
 2024-11-08,Pairumani,29.0,12.0,,,1.0
+2024-11-08,Palca_LP,27.0,8.0,,,
 2024-11-08,Palos Blancos S.(GPRS),,,,,0.4
 2024-11-08,Palos Blancos_M (GPRS),,,,,13.1
 2024-11-08,Pampas de Lequezana,21.0,7.2,,,2.8
@@ -67019,11 +67033,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-09,Narvaez,,,,,4.0
 2024-11-09,Nuevo Mundo,,,,,28.1
 2024-11-09,Omereque - SDC (GPRS),32.64,18.92,73.98,24.0,
+2024-11-09,Opoqueri,22.0,9.0,,,
 2024-11-09,Oronkota PTI,32.5,19.3,,,
 2024-11-09,Oruro (GPRS),20.0,10.0,70.6,45.6,
 2024-11-09,Padilla,27.0,14.0,,,
 2024-11-09,Pailon - Pozo del Tigre (GPRS),37.43,21.93,87.9,26.01,
 2024-11-09,Pairumani,28.0,13.0,,,
+2024-11-09,Palca_LP,26.0,7.0,,,
 2024-11-09,Palos Blancos S.(GPRS),,,,,0.2
 2024-11-09,Palos Blancos_M (GPRS),,,,,4.7
 2024-11-09,Pampas de Lequezana,20.5,9.3,,,
@@ -67208,11 +67224,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-10,Molle Molle,27.2,9.4,,,
 2024-11-10,Nuevo Mundo,,,,,3.6
 2024-11-10,Omereque - SDC (GPRS),33.92,17.17,64.63,23.02,
+2024-11-10,Opoqueri,21.0,7.0,,,
 2024-11-10,Oronkota PTI,36.8,20.2,,,
 2024-11-10,Oruro (GPRS),23.0,5.0,86.3,38.0,
 2024-11-10,Padilla,31.0,11.0,,,
 2024-11-10,Pailon - Pozo del Tigre (GPRS),38.23,27.3,82.0,30.05,
 2024-11-10,Pairumani,29.0,13.0,,,
+2024-11-10,Palca_LP,27.0,6.0,,,
 2024-11-10,Palos Blancos S.(GPRS),,,,,0.2
 2024-11-10,Palos Blancos_M (GPRS),36.35,23.13,100.0,44.19,
 2024-11-10,Pampas de Lequezana,24.3,10.0,,,
@@ -67393,11 +67411,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-11,Mojo,23.3,8.0,,,
 2024-11-11,Molle Molle,27.2,12.8,,,
 2024-11-11,Omereque - SDC (GPRS),35.82,16.97,68.99,15.3,
+2024-11-11,Opoqueri,20.0,7.0,,,
 2024-11-11,Oronkota PTI,36.5,19.8,,,
 2024-11-11,Oruro (GPRS),24.0,8.0,80.8,35.7,
 2024-11-11,Padilla,32.0,13.0,,,2.5
 2024-11-11,Pailon - Pozo del Tigre (GPRS),37.11,18.07,95.8,45.97,
 2024-11-11,Pairumani,30.0,12.0,,,
+2024-11-11,Palca_LP,29.0,7.0,,,
 2024-11-11,Palos Blancos S.(GPRS),,,,,0.2
 2024-11-11,Palos Blancos_M (GPRS),37.63,24.96,97.85,37.22,
 2024-11-11,Pampas de Lequezana,22.0,8.4,,,
@@ -67603,6 +67623,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-12,Molle Molle,25.0,12.2,,,
 2024-11-12,Montero_Muyurina,,,,,23.8
 2024-11-12,Omereque - SDC (GPRS),23.5,20.7,70.47,60.05,
+2024-11-12,Opoqueri,23.0,8.0,,,
 2024-11-12,Oronkota PTI,32.4,15.6,,,30.2
 2024-11-12,Oruro (GPRS),20.0,5.0,86.3,51.7,
 2024-11-12,Padilla,17.0,10.0,,,
@@ -67816,6 +67837,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-13,Molle Molle,27.8,9.4,,,
 2024-11-13,Narvaez,,,,,25.0
 2024-11-13,Omereque - SDC (GPRS),20.82,17.44,55.1,47.63,
+2024-11-13,Opoqueri,21.0,8.0,,,
 2024-11-13,Oronkota PTI,36.1,16.2,,,
 2024-11-13,Oruro (GPRS),22.0,5.0,86.3,40.3,
 2024-11-13,Padilla,27.0,8.0,,,
@@ -68017,6 +68039,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-14,Mojo,23.4,6.0,,,
 2024-11-14,Molle Molle,25.5,9.4,,,
 2024-11-14,Omereque - SDC (GPRS),20.31,16.09,56.86,44.46,
+2024-11-14,Opoqueri,21.0,8.0,,,10.1
 2024-11-14,Oronkota PTI,32.9,18.2,,,
 2024-11-14,Oruro (GPRS),22.0,11.0,70.8,49.1,
 2024-11-14,Padilla,30.0,6.0,,,
@@ -68211,11 +68234,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-15,Mojo,22.1,6.3,,,
 2024-11-15,Molle Molle,23.3,10.5,,,
 2024-11-15,Omereque - SDC (GPRS),20.94,19.18,53.61,42.4,
+2024-11-15,Opoqueri,20.0,7.0,,,2.0
 2024-11-15,Oronkota PTI,32.5,17.7,,,
 2024-11-15,Oruro (GPRS),22.0,9.0,81.2,49.3,
 2024-11-15,Padilla,28.0,8.0,,,
 2024-11-15,Pailon - Pozo del Tigre (GPRS),27.98,27.98,51.75,51.75,
 2024-11-15,Pairumani,29.0,14.0,,,
+2024-11-15,Palca_LP,24.0,8.0,,,
 2024-11-15,Palos Blancos S.(GPRS),,,,,0.2
 2024-11-15,Palos Blancos_M (GPRS),34.18,20.31,100.0,40.15,
 2024-11-15,Pampas de Lequezana,25.0,12.6,,,
@@ -68405,12 +68430,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-16,Mojo,21.0,7.0,,,3.5
 2024-11-16,Molle Molle,23.9,11.1,,,
 2024-11-16,Omereque - SDC (GPRS),21.65,16.68,66.46,53.13,
+2024-11-16,Opoqueri,19.0,7.0,,,
 2024-11-16,Oronkota PTI,35.1,19.0,,,
 2024-11-16,Oruro (GPRS),22.0,7.0,80.6,49.3,
 2024-11-16,Padilla,30.0,11.0,,,
 2024-11-16,Pailon - Pozo del Tigre (GPRS),36.72,25.99,84.9,41.68,
 2024-11-16,Pairumani,29.0,13.0,,,
 2024-11-16,Palca,,,,,4.0
+2024-11-16,Palca_LP,24.0,6.0,,,
 2024-11-16,Palos Blancos S.(GPRS),33.6,23.6,90.1,49.9,
 2024-11-16,Palos Blancos_M (GPRS),35.08,23.55,97.27,45.27,
 2024-11-16,Pampas de Lequezana,20.1,11.4,,,
@@ -68610,6 +68637,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-17,Mojo,15.0,10.0,,,
 2024-11-17,Molle Molle,26.1,12.2,,,
 2024-11-17,Omereque - SDC (GPRS),22.27,17.39,70.0,55.47,
+2024-11-17,Opoqueri,20.0,7.1,,,0.2
 2024-11-17,Orinoca - UTO (GPRS),14.21,6.39,61.56,50.82,
 2024-11-17,Oronkota PTI,35.5,18.0,,,
 2024-11-17,Oruro (GPRS),16.0,6.0,92.6,71.5,
@@ -68843,6 +68871,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-18,Montero_Muyurina,,,,,2.8
 2024-11-18,Narvaez,,,,,105.0
 2024-11-18,Omereque - SDC (GPRS),23.31,18.79,74.34,59.01,
+2024-11-18,Opoqueri,17.6,1.9,,,
 2024-11-18,Orinoca - UTO (GPRS),16.06,6.54,87.64,46.11,0.4
 2024-11-18,Oronkota PTI,31.2,21.2,,,
 2024-11-18,Oruro (GPRS),17.0,7.0,92.7,63.0,
@@ -69093,6 +69122,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-19,Narvaez,,,,,11.5
 2024-11-19,Nuevo Mundo,,,,,8.2
 2024-11-19,Omereque - SDC (GPRS),20.29,18.76,78.42,70.72,
+2024-11-19,Opoqueri,18.3,2.3,,,
 2024-11-19,Oronkota PTI,36.5,17.5,,,11.5
 2024-11-19,Oruro (GPRS),18.0,6.0,92.6,58.9,
 2024-11-19,Padilla,27.0,14.0,,,
@@ -69331,12 +69361,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-20,Montero_Muyurina,,,,,2.6
 2024-11-20,Narvaez,,,,,5.3
 2024-11-20,Omereque - SDC (GPRS),21.47,20.02,67.33,62.88,
+2024-11-20,Opoqueri,20.4,3.1,,,0.1
 2024-11-20,Oronkota PTI,24.9,14.2,,,
 2024-11-20,Oruro (GPRS),18.0,6.0,86.7,51.7,
 2024-11-20,Padilla,23.0,12.0,,,2.6
 2024-11-20,Pailon - Pozo del Tigre (GPRS),31.63,24.53,99.7,64.86,
 2024-11-20,Pairumani,29.0,14.0,,,
 2024-11-20,Palca,,,,,3.1
+2024-11-20,Palca_LP,24.0,9.0,,,
 2024-11-20,Palos Blancos S.(GPRS),,,,,0.2
 2024-11-20,Palos Blancos_M (GPRS),,,,,0.1
 2024-11-20,Pampas de Lequezana,21.0,10.2,,,1.5
@@ -69565,6 +69597,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-21,Narvaez,,,,,4.0
 2024-11-21,Nuevo Mundo,,,,,3.4
 2024-11-21,Omereque - SDC (GPRS),22.4,20.44,67.86,64.8,
+2024-11-21,Opoqueri,19.7,9.9,,,
 2024-11-21,Oronkota PTI,31.5,18.4,,,
 2024-11-21,Oruro (GPRS),18.0,7.0,80.6,50.6,
 2024-11-21,Padilla,20.0,14.0,,,57.6
@@ -69812,6 +69845,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-22,Montero_Muyurina,,,,,12.2
 2024-11-22,Nuevo Mundo,,,,,109.0
 2024-11-22,Omereque - SDC (GPRS),19.08,17.32,94.2,77.36,
+2024-11-22,Opoqueri,17.9,1.1,,,32.0
 2024-11-22,Oronkota PTI,30.1,16.9,,,23.6
 2024-11-22,Oruro (GPRS),16.0,7.0,86.5,54.5,
 2024-11-22,Padilla,27.0,13.0,,,8.2
@@ -70052,6 +70086,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-23,Montero_Muyurina,,,,,1.2
 2024-11-23,Nuevo Mundo,,,,,38.1
 2024-11-23,Omereque - SDC (GPRS),20.97,18.22,94.6,79.27,0.2
+2024-11-23,Opoqueri,20.0,1.2,,,
 2024-11-23,Oronkota PTI,33.5,21.2,,,1.5
 2024-11-23,Oruro (GPRS),19.0,9.0,81.0,45.3,
 2024-11-23,Padilla,28.0,14.0,,,
@@ -70276,6 +70311,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-24,Mojo,25.1,10.2,,,
 2024-11-24,Molle Molle,26.7,11.1,,,8.1
 2024-11-24,Omereque - SDC (GPRS),21.75,17.79,86.0,69.96,0.2
+2024-11-24,Opoqueri,20.1,1.3,,,
 2024-11-24,Oronkota PTI,33.0,21.6,,,
 2024-11-24,Oruro (GPRS),18.0,9.0,86.7,55.0,
 2024-11-24,Padilla,32.0,12.0,,,
@@ -70488,6 +70524,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-25,Molle Molle,28.3,12.2,,,
 2024-11-25,Narvaez,,,,,32.0
 2024-11-25,Omereque - SDC (GPRS),22.71,18.0,80.7,62.19,
+2024-11-25,Opoqueri,19.3,2.4,,,2.2
 2024-11-25,Oronkota PTI,30.3,21.8,,,
 2024-11-25,Oruro (GPRS),22.0,10.0,81.2,37.7,
 2024-11-25,Padilla,31.0,14.0,,,
@@ -70699,12 +70736,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-26,Molle Molle,25.5,15.0,,,
 2024-11-26,Narvaez,,,,,15.0
 2024-11-26,Omereque - SDC (GPRS),21.54,20.37,78.13,72.76,
+2024-11-26,Opoqueri,20.5,8.4,,,
 2024-11-26,Oronkota PTI,37.9,21.2,,,
 2024-11-26,Oruro (GPRS),22.0,8.0,86.6,40.3,
 2024-11-26,Padilla,30.0,15.0,,,
 2024-11-26,Pailon - Pozo del Tigre (GPRS),30.59,30.59,72.78,72.78,
 2024-11-26,Pairumani,28.0,13.0,,,8.5
 2024-11-26,Palca,,,,,5.3
+2024-11-26,Palca_LP,27.0,10.0,,,
 2024-11-26,Palos Blancos S.(GPRS),,,,,0.2
 2024-11-26,Palos Blancos_M (GPRS),34.72,26.1,96.4,59.38,
 2024-11-26,Pampas de Lequezana,23.1,11.5,,,
@@ -70912,6 +70951,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-27,Mojo,23.0,7.2,,,4.5
 2024-11-27,Molle Molle,25.5,14.4,,,
 2024-11-27,Omereque - SDC (GPRS),21.24,20.55,75.67,70.85,
+2024-11-27,Opoqueri,18.0,2.5,,,14.0
 2024-11-27,Oronkota PTI,32.9,21.8,,,13.0
 2024-11-27,Oruro (GPRS),20.0,8.0,86.6,42.3,
 2024-11-27,Padilla,31.0,16.0,,,
@@ -71134,6 +71174,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-28,Molle Molle,23.8,11.7,,,10.2
 2024-11-28,Muyuquiri,,,,,15.0
 2024-11-28,Omereque - SDC (GPRS),22.84,20.95,69.41,64.14,
+2024-11-28,Opoqueri,18.5,4.2,,,
 2024-11-28,Oronkota PTI,33.5,19.5,,,
 2024-11-28,Oruro (GPRS),18.0,8.0,86.6,51.1,
 2024-11-28,Padilla,32.0,17.0,,,
@@ -71364,6 +71405,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-29,Molle Molle,23.9,11.7,,,4.1
 2024-11-29,Nuevo Mundo,,,,,4.3
 2024-11-29,Omereque - SDC (GPRS),21.86,20.01,71.11,61.06,
+2024-11-29,Opoqueri,20.8,2.8,,,
 2024-11-29,Oronkota PTI,32.6,18.5,,,
 2024-11-29,Oruro (GPRS),20.0,7.0,86.5,39.8,
 2024-11-29,Padilla,31.0,16.0,,,
@@ -71589,12 +71631,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-30,Mojo,21.0,7.0,,,3.2
 2024-11-30,Molle Molle,24.4,13.9,,,
 2024-11-30,Omereque - SDC (GPRS),23.51,20.91,72.45,62.01,
+2024-11-30,Opoqueri,19.8,1.0,,,
 2024-11-30,Oronkota PTI,28.8,18.1,,,0.5
 2024-11-30,Oruro (GPRS),21.0,8.0,70.8,39.8,
 2024-11-30,Padilla,26.0,17.0,,,
 2024-11-30,Pailon - Pozo del Tigre (GPRS),30.14,30.14,73.95,73.95,
 2024-11-30,Pairumani,28.0,13.0,,,3.5
 2024-11-30,Palca,,,,,4.1
+2024-11-30,Palca_LP,25.0,6.0,,,
 2024-11-30,Palos Blancos,,,,,38.5
 2024-11-30,Palos Blancos S.(GPRS),,,,,0.2
 2024-11-30,Palos Blancos_M (GPRS),,,,,0.3
@@ -71811,6 +71855,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-01,Mizque - SDC (GPRS),31.65,15.55,87.5,25.14,0.7
 2024-12-01,Mojo,27.3,7.3,,,
 2024-12-01,Omereque - SDC (GPRS),33.85,20.57,75.94,28.33,
+2024-12-01,Opoqueri,23.5,9.8,,,
 2024-12-01,Oronkota PTI,36.5,14.4,,,
 2024-12-01,Oruro (GPRS),17.0,10.0,86.8,55.0,
 2024-12-01,Padilla,32.0,15.0,,,
@@ -72027,11 +72072,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-02,Mojo,25.0,10.0,,,
 2024-12-02,Nuevo Mundo,,,,,4.2
 2024-12-02,Omereque - SDC (GPRS),31.33,18.6,93.7,40.74,
+2024-12-02,Opoqueri,24.0,1.1,,,
 2024-12-02,Oronkota PTI,30.4,19.8,,,
 2024-12-02,Oruro (GPRS),19.0,7.0,86.6,50.9,
 2024-12-02,Padilla,22.0,14.0,,,6.8
 2024-12-02,Pailon - Pozo del Tigre (GPRS),30.66,30.66,70.24,70.24,
 2024-12-02,Pairumani,,,,,3.1
+2024-12-02,Palca_LP,27.0,8.0,,,
 2024-12-02,Palos Blancos S.(GPRS),,,,,0.2
 2024-12-02,Palos Blancos_M (GPRS),,,,,8.2
 2024-12-02,Pampas de Lequezana,20.6,9.0,,,
@@ -72251,6 +72298,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-03,Nuevo Mundo,,,,,16.6
 2024-12-03,Okinawa I,,,,,23.2
 2024-12-03,Omereque - SDC (GPRS),18.89,17.79,94.3,88.2,10.5
+2024-12-03,Opoqueri,22.4,4.0,,,
 2024-12-03,Orinoca - UTO (GPRS),19.54,8.26,,,
 2024-12-03,Oronkota PTI,29.8,19.0,,,
 2024-12-03,Oruro (GPRS),20.0,7.0,92.7,39.8,
@@ -72474,6 +72522,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-04,Mojo,26.0,7.0,,,
 2024-12-04,Nuevo Mundo,,,,,7.0
 2024-12-04,Omereque - SDC (GPRS),18.73,17.19,83.0,75.13,
+2024-12-04,Opoqueri,22.1,7.0,,,
 2024-12-04,Orinoca - UTO (GPRS),20.69,8.28,43.79,8.74,
 2024-12-04,Oronkota PTI,29.8,16.2,,,
 2024-12-04,Oruro (GPRS),20.0,7.0,86.5,32.2,
@@ -72482,6 +72531,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-04,Pailon - Pozo del Tigre (GPRS),23.16,23.16,70.9,70.9,7.6
 2024-12-04,Pairumani,28.0,13.0,,,
 2024-12-04,Palca,,,,,3.1
+2024-12-04,Palca_LP,26.0,8.0,,,
 2024-12-04,Palos Blancos S.(GPRS),24.7,21.9,93.5,77.3,
 2024-12-04,Palos Blancos_M (GPRS),,,,,2.8
 2024-12-04,Pampas de Lequezana,21.7,13.1,,,
@@ -72658,6 +72708,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-05,Mizque - SDC (GPRS),15.83,15.83,78.69,78.69,0.9
 2024-12-05,Mojo,28.0,7.1,,,
 2024-12-05,Omereque - SDC (GPRS),19.49,17.06,84.3,71.01,
+2024-12-05,Opoqueri,23.0,5.0,,,
 2024-12-05,Orinoca - UTO (GPRS),22.16,5.23,,,
 2024-12-05,Oronkota PTI,35.5,18.9,,,
 2024-12-05,Oruro (GPRS),22.0,7.0,80.6,30.0,
@@ -72665,6 +72716,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-05,Padilla,28.0,10.0,,,
 2024-12-05,Pailon - Pozo del Tigre (GPRS),25.19,25.19,80.2,80.2,
 2024-12-05,Pairumani,29.0,14.0,,,
+2024-12-05,Palca_LP,22.0,10.0,,,
 2024-12-05,Pampas de Lequezana,23.4,14.5,,,
 2024-12-05,Parotani,30.0,11.0,,,
 2024-12-05,Patacamaya (GPRS),16.47,16.47,,,
@@ -72842,6 +72894,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-06,Mizque - SDC (GPRS),17.38,17.38,77.62,77.62,1.1
 2024-12-06,Mojo,29.0,8.3,,,
 2024-12-06,Omereque - SDC (GPRS),19.85,16.61,84.3,73.73,
+2024-12-06,Opoqueri,22.0,2.6,,,
 2024-12-06,Orinoca - UTO (GPRS),22.61,11.94,25.72,12.79,
 2024-12-06,Oronkota PTI,34.9,19.8,,,
 2024-12-06,Oruro (GPRS),23.0,8.0,80.9,26.8,
@@ -72849,6 +72902,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-06,Padilla,29.0,13.0,,,
 2024-12-06,Pailon - Pozo del Tigre (GPRS),31.9,23.89,100.0,61.87,
 2024-12-06,Pairumani,29.0,13.0,,,
+2024-12-06,Palca_LP,23.0,9.0,,,
 2024-12-06,Palos Blancos S.(GPRS),32.2,23.4,93.9,57.4,
 2024-12-06,Palos Blancos_M (GPRS),31.46,25.06,99.95,64.09,
 2024-12-06,Pampas de Lequezana,20.0,12.7,,,
@@ -73049,12 +73103,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-07,Montero_Muyurina,,,,,34.3
 2024-12-07,Okinawa I,,,,,25.3
 2024-12-07,Omereque - SDC (GPRS),21.55,20.49,82.3,67.73,
+2024-12-07,Opoqueri,21.0,6.0,,,
 2024-12-07,Oronkota PTI,30.5,22.3,,,
 2024-12-07,Oruro (GPRS),23.0,10.0,70.8,33.1,
 2024-12-07,Padilla,30.0,16.0,,,
 2024-12-07,Pailon - Pozo del Tigre (GPRS),26.81,26.81,90.5,90.5,0.8
 2024-12-07,Pairumani,,,,,2.0
 2024-12-07,Palca,,,,,3.5
+2024-12-07,Palca_LP,22.0,10.0,,,
 2024-12-07,Palos Blancos S.(GPRS),,,,,0.2
 2024-12-07,Palos Blancos_H (GPRS),,,,,6.0
 2024-12-07,Palos Blancos_M (GPRS),29.16,23.26,99.99,77.23,
@@ -73260,12 +73316,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-08,Nuevo Mundo,,,,,21.4
 2024-12-08,Okinawa I,,,,,6.1
 2024-12-08,Omereque - SDC (GPRS),20.14,19.61,76.04,73.64,1.5
+2024-12-08,Opoqueri,21.1,6.0,,,
 2024-12-08,Oronkota PTI,36.5,21.2,,,
 2024-12-08,Oruro (GPRS),21.0,8.0,86.6,39.8,
 2024-12-08,Padilla,23.0,14.0,,,1.5
 2024-12-08,Pailon - Pozo del Tigre (GPRS),26.2,26.2,90.1,90.1,3.6
 2024-12-08,Pairumani,29.0,14.0,,,
 2024-12-08,Palca,,,,,4.0
+2024-12-08,Palca_LP,23.0,9.0,,,
 2024-12-08,Palos Blancos,,,,,10.2
 2024-12-08,Palos Blancos S.(GPRS),29.2,23.7,99.2,75.0,
 2024-12-08,Palos Blancos_M (GPRS),,,,,8.3
@@ -73481,6 +73539,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-09,Narvaez,,,,,3.5
 2024-12-09,Nuevo Mundo,,,,,7.8
 2024-12-09,Omereque - SDC (GPRS),20.41,19.01,75.93,71.44,
+2024-12-09,Opoqueri,22.2,5.5,,,
 2024-12-09,Oronkota PTI,35.5,18.2,,,
 2024-12-09,Oruro (GPRS),20.0,6.0,92.6,39.8,
 2024-12-09,Padilla,26.0,13.0,,,2.5
@@ -73696,11 +73755,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-10,Montero_Muyurina,,,,,4.1
 2024-12-10,Nuevo Mundo,,,,,18.7
 2024-12-10,Omereque - SDC (GPRS),20.64,18.16,96.0,85.4,
+2024-12-10,Opoqueri,21.0,5.6,,,
 2024-12-10,Oronkota PTI,31.9,19.8,,,
 2024-12-10,Oruro (GPRS),21.0,6.0,86.4,37.4,
 2024-12-10,Padilla,30.0,11.0,,,1.3
 2024-12-10,Pailon - Pozo del Tigre (GPRS),29.29,21.54,100.0,67.36,
 2024-12-10,Pairumani,28.0,13.0,,,
+2024-12-10,Palca_LP,25.0,8.0,,,
 2024-12-10,Palos Blancos S.(GPRS),,,,,0.2
 2024-12-10,Palos Blancos_M (GPRS),,,,,9.7
 2024-12-10,Pampas de Lequezana,23.7,11.9,,,
@@ -73896,11 +73957,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-11,Molle Molle,,,,,4.3
 2024-12-11,Nuevo Mundo,,,,,8.3
 2024-12-11,Omereque - SDC (GPRS),23.24,20.07,74.43,63.04,1.3
+2024-12-11,Opoqueri,19.0,7.5,,,
 2024-12-11,Oronkota PTI,35.2,19.8,,,
 2024-12-11,Oruro (GPRS),22.0,9.0,75.5,34.9,
 2024-12-11,Padilla,29.0,14.0,,,
 2024-12-11,Pailon - Pozo del Tigre (GPRS),36.0,25.06,96.1,47.26,
 2024-12-11,Pairumani,28.0,12.0,,,
+2024-12-11,Palca_LP,26.0,10.0,,,
 2024-12-11,Palos Blancos S.(GPRS),,,,,0.2
 2024-12-11,Palos Blancos_H (GPRS),,,,,12.0
 2024-12-11,Palos Blancos_M (GPRS),,,,,0.1
@@ -74092,11 +74155,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-12,Muyuquiri,,,,,15.0
 2024-12-12,Narvaez,,,,,7.0
 2024-12-12,Omereque - SDC (GPRS),22.79,18.52,74.36,62.24,
+2024-12-12,Opoqueri,23.0,6.0,,,5.3
 2024-12-12,Oronkota PTI,35.6,19.7,,,
 2024-12-12,Oruro (GPRS),21.0,7.0,86.5,34.9,
 2024-12-12,Padilla,31.0,13.0,,,
 2024-12-12,Pailon - Pozo del Tigre (GPRS),30.07,30.07,77.52,77.52,
 2024-12-12,Pairumani,29.0,13.0,,,
+2024-12-12,Palca_LP,21.0,8.0,,,
 2024-12-12,Palos Blancos S.(GPRS),30.2,23.4,98.9,71.1,
 2024-12-12,Palos Blancos_H (GPRS),,,,,1.0
 2024-12-12,Palos Blancos_M (GPRS),31.02,23.67,99.99,71.17,
@@ -74291,11 +74356,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-13,Mojo,26.2,5.3,,,
 2024-12-13,Molle Molle,,,,,4.3
 2024-12-13,Omereque - SDC (GPRS),23.34,18.63,70.56,55.3,
+2024-12-13,Opoqueri,21.3,3.1,,,
 2024-12-13,Oronkota PTI,35.2,21.3,,,
 2024-12-13,Oruro (GPRS),23.0,7.0,86.5,33.1,
 2024-12-13,Padilla,29.0,14.0,,,7.0
 2024-12-13,Pailon - Pozo del Tigre (GPRS),27.27,27.27,85.5,85.5,0.4
 2024-12-13,Pairumani,28.0,14.0,,,
+2024-12-13,Palca_LP,25.0,8.0,,,
 2024-12-13,Palos Blancos S.(GPRS),36.8,24.7,91.7,42.7,
 2024-12-13,Palos Blancos_M (GPRS),,,,,4.7
 2024-12-13,Pampas de Lequezana,24.1,12.8,,,1.0
@@ -74496,11 +74563,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-14,Montero_Muyurina,,,,,0.9
 2024-12-14,Nuevo Mundo,,,,,19.6
 2024-12-14,Omereque - SDC (GPRS),19.78,18.42,94.6,83.2,38.8
+2024-12-14,Opoqueri,21.1,8.5,,,
 2024-12-14,Oronkota PTI,33.2,19.8,,,
 2024-12-14,Oruro (GPRS),22.0,9.0,80.9,24.7,
 2024-12-14,Padilla,20.0,13.0,,,6.0
 2024-12-14,Pailon - Pozo del Tigre (GPRS),31.31,21.93,92.0,56.08,1.8
 2024-12-14,Pairumani,29.0,13.0,,,
+2024-12-14,Palca_LP,24.0,8.0,,,
 2024-12-14,Palos Blancos S.(GPRS),35.5,24.4,89.3,43.2,
 2024-12-14,Palos Blancos_M (GPRS),34.99,22.77,100.0,49.82,
 2024-12-14,Pampas de Lequezana,22.2,10.2,,,
@@ -74689,12 +74758,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-15,Molle Molle,,,,,11.7
 2024-12-15,Nuevo Mundo,,,,,3.2
 2024-12-15,Omereque - SDC (GPRS),20.17,18.15,78.01,63.48,
+2024-12-15,Opoqueri,24.5,5.1,,,
 2024-12-15,Orinoca - UTO (GPRS),21.9,6.03,,,
 2024-12-15,Oronkota PTI,30.1,17.2,,,
 2024-12-15,Oruro UTO (GPRS),16.59,14.22,,,
 2024-12-15,Padilla,24.0,11.0,,,1.0
 2024-12-15,Pailon - Pozo del Tigre (GPRS),28.25,28.25,64.37,64.37,
 2024-12-15,Pairumani,29.0,13.0,,,
+2024-12-15,Palca_LP,25.0,7.0,,,
 2024-12-15,Palos Blancos S.(GPRS),,,,,0.2
 2024-12-15,Palos Blancos_M (GPRS),,,,,0.9
 2024-12-15,Pampas de Lequezana,20.5,10.9,,,
@@ -74874,6 +74945,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-16,Mizque - SDC (GPRS),25.92,16.24,70.71,36.45,0.5
 2024-12-16,Mojo,24.0,6.3,,,0.5
 2024-12-16,Omereque - SDC (GPRS),28.74,19.77,68.44,34.15,
+2024-12-16,Opoqueri,20.0,6.0,,,
 2024-12-16,Orinoca - UTO (GPRS),21.19,11.47,33.46,5.98,
 2024-12-16,Oronkota PTI,32.5,19.2,,,
 2024-12-16,Oruro (GPRS),22.0,10.0,62.3,26.6,
@@ -74881,6 +74953,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-16,Padilla,26.0,13.0,,,
 2024-12-16,Pailon - Pozo del Tigre (GPRS),36.98,24.21,91.5,37.72,
 2024-12-16,Pairumani,29.0,14.0,,,
+2024-12-16,Palca_LP,25.0,8.0,,,
 2024-12-16,Palos Blancos S.(GPRS),30.6,21.4,96.2,61.4,
 2024-12-16,Palos Blancos_M (GPRS),,,,,0.8
 2024-12-16,Pampas de Lequezana,25.4,12.0,,,
@@ -75066,11 +75139,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-17,Mojo,25.0,6.2,,,
 2024-12-17,Montero_Muyurina,,,,,0.5
 2024-12-17,Omereque - SDC (GPRS),23.06,20.16,65.84,54.39,
+2024-12-17,Opoqueri,20.8,4.0,,,
 2024-12-17,Oronkota PTI,32.5,19.5,,,
 2024-12-17,Oruro (GPRS),11.0,6.0,86.4,70.8,
 2024-12-17,Padilla,29.0,14.0,,,
 2024-12-17,Pailon - Pozo del Tigre (GPRS),29.23,29.23,75.51,75.51,
 2024-12-17,Pairumani,29.0,13.0,,,
+2024-12-17,Palca_LP,24.0,7.0,,,
 2024-12-17,Palos Blancos S.(GPRS),,,,,0.2
 2024-12-17,Palos Blancos_M (GPRS),35.43,22.11,100.0,42.09,
 2024-12-17,Pampas de Lequezana,22.3,13.4,,,
@@ -75247,12 +75322,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-18,Mojo,27.3,5.2,,,
 2024-12-18,Muyuquiri,,,,,5.0
 2024-12-18,Omereque - SDC (GPRS),20.17,18.38,76.65,70.44,
+2024-12-18,Opoqueri,22.0,1.1,,,10.5
 2024-12-18,Oronkota PTI,31.2,21.3,,,
 2024-12-18,Oruro (GPRS),22.0,7.0,80.6,28.2,
 2024-12-18,Padilla,31.0,11.0,,,
 2024-12-18,Pailon - Pozo del Tigre (GPRS),35.92,26.11,82.5,44.19,
 2024-12-18,Pairumani,28.0,14.0,,,
 2024-12-18,Palca,,,,,3.3
+2024-12-18,Palca_LP,25.0,6.0,,,
 2024-12-18,Palos Blancos S.(GPRS),35.9,24.1,90.0,41.2,
 2024-12-18,Palos Blancos_M (GPRS),35.88,23.64,98.28,43.95,
 2024-12-18,Pampas de Lequezana,22.4,15.0,,,
@@ -75447,6 +75524,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-19,Mojo,24.2,7.0,,,4.5
 2024-12-19,Nuevo Mundo,,,,,3.1
 2024-12-19,Omereque - SDC (GPRS),23.35,21.92,66.05,60.83,
+2024-12-19,Opoqueri,23.0,2.1,,,18.3
 2024-12-19,Oronkota PTI,36.5,21.8,,,
 2024-12-19,Oruro (GPRS),20.0,7.0,86.5,37.1,
 2024-12-19,Padilla,21.0,14.0,,,8.5
@@ -75672,11 +75750,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-20,Montero_Muyurina,,,,,3.8
 2024-12-20,Okinawa I,,,,,8.2
 2024-12-20,Omereque - SDC (GPRS),19.12,17.89,95.7,94.3,9.5
+2024-12-20,Opoqueri,21.0,1.1,,,5.1
 2024-12-20,Oronkota PTI,25.3,22.3,,,3.2
 2024-12-20,Oruro (GPRS),19.0,7.0,86.5,45.0,
 2024-12-20,Padilla,31.0,14.0,,,
 2024-12-20,Pailon - Pozo del Tigre (GPRS),24.8,24.8,96.1,96.1,5.8
 2024-12-20,Pairumani,,,,,28.3
+2024-12-20,Palca_LP,20.0,10.0,,,
 2024-12-20,Palos Blancos S.(GPRS),32.0,24.0,98.4,59.1,
 2024-12-20,Palos Blancos_H (GPRS),,,,,189.0
 2024-12-20,Palos Blancos_M (GPRS),,,,,0.5
@@ -75881,11 +75961,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-21,Montero_Muyurina,,,,,4.2
 2024-12-21,Narvaez,,,,,40.0
 2024-12-21,Omereque - SDC (GPRS),20.16,19.7,79.19,75.55,0.4
+2024-12-21,Opoqueri,23.0,8.0,,,12.5
 2024-12-21,Oronkota PTI,32.2,16.8,,,
 2024-12-21,Oruro (GPRS),22.0,9.0,70.4,32.8,
 2024-12-21,Padilla,30.0,13.0,,,5.0
 2024-12-21,Pailon - Pozo del Tigre (GPRS),35.16,24.41,97.1,52.66,
 2024-12-21,Pairumani,,,,,23.2
+2024-12-21,Palca_LP,26.0,8.0,,,
 2024-12-21,Palos Blancos S.(GPRS),31.6,23.4,96.9,60.1,
 2024-12-21,Palos Blancos_H (GPRS),,,,,2.0
 2024-12-21,Palos Blancos_M (GPRS),,,,,7.4
@@ -76102,6 +76184,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-22,Narvaez,,,,,62.0
 2024-12-22,Nuevo Mundo,,,,,9.7
 2024-12-22,Omereque - SDC (GPRS),18.92,16.54,87.7,78.08,6.5
+2024-12-22,Opoqueri,20.1,6.2,,,9.6
 2024-12-22,Oronkota PTI,32.5,21.2,,,1.3
 2024-12-22,Oruro (GPRS),18.0,15.0,50.9,42.0,
 2024-12-22,Padilla,24.0,14.0,,,
@@ -76314,6 +76397,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-23,Mojo,25.0,5.0,,,
 2024-12-23,Narvaez,,,,,17.0
 2024-12-23,Omereque - SDC (GPRS),20.79,16.95,90.5,69.17,0.4
+2024-12-23,Opoqueri,20.0,2.1,,,
 2024-12-23,Oronkota PTI,25.2,18.3,,,
 2024-12-23,Oruro (GPRS),22.0,6.0,80.5,37.7,
 2024-12-23,Padilla,29.0,11.0,,,
@@ -76516,11 +76600,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-24,Mojo,23.0,5.3,,,10.5
 2024-12-24,Montero_Muyurina,,,,,0.6
 2024-12-24,Omereque - SDC (GPRS),21.42,17.67,83.5,67.72,
+2024-12-24,Opoqueri,23.0,1.7,,,
 2024-12-24,Oronkota PTI,31.2,16.2,,,
 2024-12-24,Oruro (GPRS),23.0,6.0,80.6,18.7,
 2024-12-24,Padilla,30.0,10.0,,,
 2024-12-24,Pailon - Pozo del Tigre (GPRS),27.8,27.8,77.05,77.05,
 2024-12-24,Pairumani,28.0,13.0,,,
+2024-12-24,Palca_LP,29.0,8.0,,,
 2024-12-24,Palos Blancos,,,,,7.3
 2024-12-24,Palos Blancos S.(GPRS),33.8,23.9,92.4,54.7,
 2024-12-24,Palos Blancos_M (GPRS),,,,,1.8
@@ -76714,11 +76800,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-25,Mizque - SDC (GPRS),15.5,15.5,64.52,64.52,1.8
 2024-12-25,Mojo,19.0,5.1,,,8.0
 2024-12-25,Omereque - SDC (GPRS),19.31,18.06,63.34,52.67,
+2024-12-25,Opoqueri,23.1,2.5,,,
 2024-12-25,Oronkota PTI,30.5,20.6,,,
 2024-12-25,Oruro (GPRS),23.0,6.0,80.8,20.1,
 2024-12-25,Padilla,24.0,11.0,,,
 2024-12-25,Pailon - Pozo del Tigre (GPRS),22.13,22.13,80.4,80.4,13.8
 2024-12-25,Pairumani,28.0,12.0,,,
+2024-12-25,Palca_LP,27.0,9.0,,,
 2024-12-25,Palos Blancos,,,,,23.4
 2024-12-25,Palos Blancos S.(GPRS),,,,,0.2
 2024-12-25,Palos Blancos_M (GPRS),,,,,1.8
@@ -76904,11 +76992,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-26,Mizque - SDC (GPRS),14.61,14.61,63.74,63.74,1.2
 2024-12-26,Mojo,21.3,3.0,,,
 2024-12-26,Omereque - SDC (GPRS),17.83,13.53,76.86,60.08,
+2024-12-26,Opoqueri,21.7,1.8,,,
 2024-12-26,Oronkota PTI,25.5,15.3,,,
 2024-12-26,Oruro (GPRS),22.0,5.0,80.5,18.5,
 2024-12-26,Padilla,27.0,5.0,,,
 2024-12-26,Pailon - Pozo del Tigre (GPRS),24.08,24.08,62.38,62.38,
 2024-12-26,Pairumani,29.0,13.0,,,
+2024-12-26,Palca_LP,28.0,8.0,,,
 2024-12-26,Palos Blancos S.(GPRS),,,,,0.2
 2024-12-26,Palos Blancos_M (GPRS),,,,,24.6
 2024-12-26,Pampas de Lequezana,22.0,11.0,,,
@@ -77085,11 +77175,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-27,Mizque - SDC (GPRS),27.26,13.81,80.6,30.86,0.8
 2024-12-27,Mojo,22.0,5.3,,,
 2024-12-27,Omereque - SDC (GPRS),22.27,18.27,65.68,50.94,
+2024-12-27,Opoqueri,22.0,2.1,,,
 2024-12-27,Oronkota PTI,28.2,16.1,,,
 2024-12-27,Oruro (GPRS),22.0,3.0,74.5,21.4,
 2024-12-27,Padilla,28.0,7.0,,,
 2024-12-27,Pailon - Pozo del Tigre (GPRS),25.57,25.57,63.33,63.33,
 2024-12-27,Pairumani,28.0,14.0,,,
+2024-12-27,Palca_LP,26.0,6.0,,,
 2024-12-27,Palos Blancos S.(GPRS),34.1,23.4,89.3,43.2,
 2024-12-27,Palos Blancos_M (GPRS),34.05,20.93,100.0,45.05,
 2024-12-27,Pampas de Lequezana,18.4,5.1,,,
@@ -77257,11 +77349,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-28,Mizque - SDC (GPRS),16.97,16.97,59.37,59.37,
 2024-12-28,Mojo,20.3,8.6,,,
 2024-12-28,Omereque - SDC (GPRS),21.86,18.37,67.23,55.96,
+2024-12-28,Opoqueri,21.0,2.5,,,
 2024-12-28,Oronkota PTI,31.5,18.0,,,
 2024-12-28,Oruro (GPRS),23.0,8.0,60.9,33.1,
 2024-12-28,Padilla,26.0,8.0,,,
 2024-12-28,Pailon - Pozo del Tigre (GPRS),27.73,27.73,54.49,54.49,
 2024-12-28,Pairumani,,,,,16.2
+2024-12-28,Palca_LP,25.0,7.0,,,
 2024-12-28,Palos Blancos S.(GPRS),,,,,0.2
 2024-12-28,Palos Blancos_M (GPRS),35.15,22.72,99.98,45.1,
 2024-12-28,Pampas de Lequezana,24.1,10.4,,,
@@ -77432,11 +77526,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-29,Mizque - SDC (GPRS),26.54,17.1,66.22,31.53,
 2024-12-29,Mojo,23.2,7.3,,,
 2024-12-29,Omereque - SDC (GPRS),23.1,20.58,53.72,45.27,
+2024-12-29,Opoqueri,20.1,2.1,,,
 2024-12-29,Oronkota PTI,30.9,19.8,,,
 2024-12-29,Oruro (GPRS),21.0,8.0,80.8,32.5,
 2024-12-29,Padilla,24.0,14.0,,,
 2024-12-29,Pailon - Pozo del Tigre (GPRS),26.95,26.95,61.05,61.05,
 2024-12-29,Pairumani,29.0,14.0,,,
+2024-12-29,Palca_LP,25.0,8.0,,,
 2024-12-29,Palos Blancos,,,,,1.2
 2024-12-29,Palos Blancos S.(GPRS),34.0,21.9,93.2,46.1,
 2024-12-29,Palos Blancos_M (GPRS),33.81,20.72,100.0,50.78,
@@ -77608,11 +77704,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-30,Mizque - SDC (GPRS),18.91,18.91,52.99,52.99,
 2024-12-30,Mojo,24.2,7.1,,,
 2024-12-30,Omereque - SDC (GPRS),22.98,19.41,62.4,50.4,
+2024-12-30,Opoqueri,22.0,2.5,,,
 2024-12-30,Oronkota PTI,31.5,18.2,,,
 2024-12-30,Oruro (GPRS),23.0,7.0,80.6,28.8,
 2024-12-30,Padilla,26.0,10.0,,,
 2024-12-30,Pailon - Pozo del Tigre (GPRS),29.17,29.17,57.04,57.04,
 2024-12-30,Pairumani,28.0,13.0,,,
+2024-12-30,Palca_LP,26.0,7.0,,,
 2024-12-30,Palos Blancos,,,,,8.3
 2024-12-30,Palos Blancos S.(GPRS),,,,,0.4
 2024-12-30,Palos Blancos_M (GPRS),35.31,22.14,100.0,45.3,
@@ -77788,11 +77886,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-31,Mojo,25.0,10.1,,,
 2024-12-31,Narvaez,,,,,5.0
 2024-12-31,Omereque - SDC (GPRS),22.07,18.29,72.82,60.9,
+2024-12-31,Opoqueri,20.0,1.5,,,
 2024-12-31,Oronkota PTI,31.9,19.3,,,15.6
 2024-12-31,Oruro (GPRS),22.0,7.0,75.2,28.5,
 2024-12-31,Padilla,31.0,13.0,,,
 2024-12-31,Pailon - Pozo del Tigre (GPRS),29.3,29.3,64.58,64.58,
 2024-12-31,Pairumani,29.0,14.0,,,
+2024-12-31,Palca_LP,26.0,8.0,,,
 2024-12-31,Palos Blancos,,,,,14.5
 2024-12-31,Palos Blancos S.(GPRS),,,,,0.2
 2024-12-31,Palos Blancos_M (GPRS),36.61,23.43,99.4,46.95,
