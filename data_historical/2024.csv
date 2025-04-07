@@ -40944,6 +40944,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-01,San Andres,28.0,-3.5,,,
 2024-07-01,San Benito,22.0,-1.0,,,
 2024-07-01,San Buenaventura_M (GPRS),25.92,16.03,98.29,56.19,
+2024-07-01,San Calixto,17.6,4.4,,,
 2024-07-01,San Jacinto Sud,30.5,-4.0,,,
 2024-07-01,San Jacinto_M (GPRS),24.8,-1.72,96.3,13.86,
 2024-07-01,San Joaquin,29.0,17.0,76.6,47.9,
@@ -41144,6 +41145,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-02,San Andres,34.0,0.0,,,
 2024-07-02,San Benito,24.0,-4.0,,,
 2024-07-02,San Buenaventura_M (GPRS),29.95,20.66,99.94,58.0,
+2024-07-02,San Calixto,18.4,3.6,,,
 2024-07-02,San Jacinto Sud,34.0,-4.0,,,
 2024-07-02,San Jacinto_M (GPRS),21.82,1.15,87.9,18.49,
 2024-07-02,San Javier,25.0,25.0,64.6,64.6,
@@ -41350,6 +41352,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-03,San Andres,30.0,0.0,,,
 2024-07-03,San Benito,24.0,-5.0,,,
 2024-07-03,San Buenaventura_M (GPRS),31.52,21.95,99.76,57.04,
+2024-07-03,San Calixto,19.4,3.4,,,
 2024-07-03,San Jacinto Sud,33.0,-3.0,,,
 2024-07-03,San Jacinto_M (GPRS),22.19,1.8,82.6,17.17,
 2024-07-03,San Jose de Chiquitos,36.0,18.0,81.9,30.3,
@@ -41553,6 +41556,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-04,San Andres,26.0,0.0,,,
 2024-07-04,San Benito,26.0,-4.0,,,
 2024-07-04,San Buenaventura_M (GPRS),32.29,22.31,99.95,54.1,
+2024-07-04,San Calixto,19.6,5.0,,,
 2024-07-04,San Jacinto Sud,29.0,0.0,,,
 2024-07-04,San Jacinto_M (GPRS),19.97,3.77,98.7,41.45,
 2024-07-04,San Javier,32.0,23.0,77.5,43.0,
@@ -41754,6 +41758,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-05,San Andres,14.0,4.0,,,
 2024-07-05,San Benito,24.0,-4.0,,,
 2024-07-05,San Buenaventura_M (GPRS),33.48,23.98,93.68,53.95,
+2024-07-05,San Calixto,18.8,3.6,,,
 2024-07-05,San Jacinto Sud,19.0,11.5,,,
 2024-07-05,San Jacinto_M (GPRS),13.33,10.77,81.7,72.08,
 2024-07-05,San Javier,22.0,22.0,93.2,93.2,
@@ -41949,6 +41954,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-06,San Andres,19.0,3.0,,,
 2024-07-06,San Benito,22.0,-1.0,,,
 2024-07-06,San Buenaventura_M (GPRS),28.98,20.39,95.93,56.51,
+2024-07-06,San Calixto,19.2,3.0,,,
 2024-07-06,San Jacinto Sud,23.0,5.5,,,
 2024-07-06,San Jacinto_M (GPRS),16.78,2.69,95.3,48.54,
 2024-07-06,San Josecito,,,,,2.5
@@ -42153,6 +42159,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-07,San Andres,9.0,1.0,,,
 2024-07-07,San Benito,24.0,0.0,,,
 2024-07-07,San Buenaventura_M (GPRS),25.19,19.09,96.5,76.0,
+2024-07-07,San Calixto,18.6,2.6,,,
 2024-07-07,San Jacinto Sud,10.0,2.0,,,
 2024-07-07,San Jacinto_M (GPRS),7.35,5.14,84.2,71.95,
 2024-07-07,San Juan de Yapacaní,,,,,0.8
@@ -42367,6 +42374,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-08,San Andres,14.0,12.0,,,
 2024-07-08,San Benito,22.0,0.0,,,
 2024-07-08,San Buenaventura_M (GPRS),,,,,3.0
+2024-07-08,San Calixto,18.2,3.0,,,
 2024-07-08,San Jacinto Sud,19.0,5.0,,,
 2024-07-08,San Jacinto_M (GPRS),12.24,3.17,71.56,46.01,
 2024-07-08,San Javier,16.0,13.0,44.1,38.6,
@@ -42578,6 +42586,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-09,San Antonio (INGECONS2020),,,,,1.1
 2024-07-09,San Benito,24.0,-2.0,,,
 2024-07-09,San Buenaventura_M (GPRS),,,,,12.5
+2024-07-09,San Calixto,17.8,2.2,,,
 2024-07-09,San Jacinto Sud,18.0,3.5,,,
 2024-07-09,San Jacinto_M (GPRS),11.7,2.02,75.98,42.93,
 2024-07-09,San Javier,9.0,9.0,75.4,75.4,
@@ -42788,6 +42797,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-10,San Antonio (INGECONS2020),,,,,2.2
 2024-07-10,San Benito,26.0,-4.0,,,
 2024-07-10,San Buenaventura_M (GPRS),,,,,5.4
+2024-07-10,San Calixto,17.6,3.0,,,
 2024-07-10,San Jacinto Sud,18.0,2.5,,,
 2024-07-10,San Jacinto_M (GPRS),12.75,2.44,71.7,37.49,
 2024-07-10,San Javier,10.0,10.0,80.9,80.9,
@@ -42996,6 +43006,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-11,San Antonio (INGECONS2020),,,,,1.2
 2024-07-11,San Benito,20.0,-5.0,,,
 2024-07-11,San Buenaventura_M (GPRS),,,,,1.8
+2024-07-11,San Calixto,15.8,4.2,,,
 2024-07-11,San Jacinto Sud,20.0,-3.5,,,
 2024-07-11,San Jacinto_M (GPRS),13.89,-0.39,90.7,33.49,
 2024-07-11,San Jose de Chiquitos,24.0,14.0,81.4,40.8,
@@ -43211,6 +43222,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-12,San Antonio (INGECONS2020),,,,,10.3
 2024-07-12,San Benito,21.0,3.0,,,
 2024-07-12,San Buenaventura_M (GPRS),,,,,0.5
+2024-07-12,San Calixto,17.6,1.0,,,
 2024-07-12,San Jacinto Sud,18.0,-7.5,,,
 2024-07-12,San Jacinto_M (GPRS),11.24,-2.48,80.4,22.37,
 2024-07-12,San Javier,13.0,12.0,66.1,57.8,
@@ -43421,6 +43433,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-13,San Antonio (INGECONS2020),,,,,42.5
 2024-07-13,San Benito,21.0,-3.0,,,
 2024-07-13,San Buenaventura_M (GPRS),,,,,0.3
+2024-07-13,San Calixto,18.8,1.6,,,
 2024-07-13,San Jacinto Sud,17.5,-2.0,,,
 2024-07-13,San Jacinto_M (GPRS),10.69,-2.9,86.4,39.96,
 2024-07-13,San Julian - Comunidad Los Angeles (GPRS),20.7,13.64,55.15,33.05,0.4
@@ -43613,6 +43626,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-14,San Antonio (INGECONS2020),,,,,1.3
 2024-07-14,San Benito,20.0,-2.0,,,
 2024-07-14,San Buenaventura_M (GPRS),23.29,14.29,99.41,42.7,
+2024-07-14,San Calixto,20.0,1.8,,,
 2024-07-14,San Jacinto Sud,23.0,-7.5,,,
 2024-07-14,San Jacinto_M (GPRS),17.18,-5.68,94.4,11.5,
 2024-07-14,San Julian - Comunidad Los Angeles (GPRS),23.06,14.1,51.3,28.94,
@@ -43806,6 +43820,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-15,San Andres,23.0,-5.0,,,
 2024-07-15,San Benito,20.0,-3.0,,,
 2024-07-15,San Buenaventura_M (GPRS),24.73,14.56,91.05,36.88,
+2024-07-15,San Calixto,18.2,1.6,,,
 2024-07-15,San Jacinto Sud,24.0,-7.0,,,
 2024-07-15,San Jacinto_M (GPRS),18.34,-3.55,93.0,14.09,
 2024-07-15,San Javier,22.0,15.0,44.1,28.5,
@@ -44007,6 +44022,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-16,San Andres,25.0,-3.0,,,
 2024-07-16,San Benito,19.0,-3.0,,,
 2024-07-16,San Buenaventura_M (GPRS),27.13,15.89,83.8,35.44,
+2024-07-16,San Calixto,18.0,2.8,,,
 2024-07-16,San Jacinto Sud,28.0,-5.0,,,
 2024-07-16,San Jacinto_M (GPRS),16.6,-0.95,87.6,27.71,
 2024-07-16,San Javier,29.0,19.0,55.4,45.0,
@@ -44212,6 +44228,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-17,San Andres,28.0,-3.0,,,
 2024-07-17,San Benito,22.0,-3.0,,,
 2024-07-17,San Buenaventura_M (GPRS),29.64,18.23,95.86,40.73,
+2024-07-17,San Calixto,16.0,4.2,,,
 2024-07-17,San Jacinto Sud,25.0,-2.0,,,
 2024-07-17,San Jacinto_M (GPRS),14.57,1.27,86.4,39.3,
 2024-07-17,San Javier,25.0,25.0,50.0,50.0,
@@ -44413,6 +44430,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-18,San Andres,31.0,-1.0,,,
 2024-07-18,San Benito,24.0,-3.0,,,
 2024-07-18,San Buenaventura_M (GPRS),31.17,18.95,95.78,42.58,
+2024-07-18,San Calixto,17.2,3.2,,,
 2024-07-18,San Jacinto Sud,35.5,-4.5,,,
 2024-07-18,San Jacinto_M (GPRS),22.18,0.29,86.9,17.17,
 2024-07-18,San Jose de Chiquitos,35.0,21.0,59.7,30.0,
@@ -44614,6 +44632,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-19,San Andres,32.0,-1.0,,,
 2024-07-19,San Benito,27.0,-4.0,,,
 2024-07-19,San Buenaventura_M (GPRS),32.55,20.33,85.21,36.64,
+2024-07-19,San Calixto,17.8,2.7,,,
 2024-07-19,San Jacinto Sud,30.0,0.0,,,
 2024-07-19,San Jacinto_M (GPRS),15.02,3.43,87.5,42.86,
 2024-07-19,San Javier,32.0,22.0,59.9,29.2,
@@ -44808,6 +44827,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-20,San Andres,30.0,-1.0,,,
 2024-07-20,San Benito,21.0,-4.0,,,
 2024-07-20,San Buenaventura_M (GPRS),32.08,22.11,83.76,40.56,
+2024-07-20,San Calixto,15.4,1.4,,,
 2024-07-20,San Jacinto Sud,30.0,4.0,,,
 2024-07-20,San Jacinto_M (GPRS),20.28,7.06,95.2,44.23,
 2024-07-20,San Julian - Comunidad Los Angeles (GPRS),32.27,19.4,67.87,34.29,
@@ -45001,6 +45021,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-21,San Andres,29.0,1.0,,,
 2024-07-21,San Benito,22.0,-5.0,,,
 2024-07-21,San Buenaventura_M (GPRS),33.0,22.09,91.05,44.48,
+2024-07-21,San Calixto,16.0,1.2,,,
 2024-07-21,San Jacinto Sud,32.0,2.5,,,
 2024-07-21,San Jacinto_M (GPRS),22.03,5.25,98.3,38.67,
 2024-07-21,San Julian - Comunidad Los Angeles (GPRS),31.79,20.5,64.28,42.18,
@@ -45198,6 +45219,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-22,San Andres,29.0,2.0,,,
 2024-07-22,San Benito,22.0,-2.0,,,
 2024-07-22,San Buenaventura_M (GPRS),33.37,23.21,86.71,42.02,
+2024-07-22,San Calixto,12.8,1.0,,,
 2024-07-22,San Ignacio de Moxos (GPRS),21.0,21.0,87.5,87.5,
 2024-07-22,San Jacinto Sud,27.5,3.0,,,
 2024-07-22,San Jacinto_M (GPRS),21.73,4.3,97.5,43.41,
@@ -45400,6 +45422,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-23,San Andres,29.5,5.0,,,
 2024-07-23,San Benito,22.0,-2.0,,,
 2024-07-23,San Buenaventura_M (GPRS),32.65,22.77,90.3,39.98,
+2024-07-23,San Calixto,15.2,2.2,,,
 2024-07-23,San Jacinto Sud,30.0,3.5,,,
 2024-07-23,San Jacinto_M (GPRS),19.63,7.51,93.2,49.26,
 2024-07-23,San Javier,32.0,32.0,29.2,29.2,
@@ -45602,6 +45625,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-24,San Andres,37.0,6.0,,,
 2024-07-24,San Benito,25.0,-2.0,,,
 2024-07-24,San Buenaventura_M (GPRS),33.42,22.68,92.04,45.37,
+2024-07-24,San Calixto,17.6,3.2,,,
 2024-07-24,San Ignacio de Moxos (GPRS),31.0,31.0,54.8,54.8,
 2024-07-24,San Jacinto Sud,38.0,3.0,,,
 2024-07-24,San Jacinto_M (GPRS),29.11,6.92,95.3,11.17,
@@ -45802,6 +45826,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-25,San Andres,31.0,8.0,,,
 2024-07-25,San Benito,23.0,-1.0,,,
 2024-07-25,San Buenaventura_M (GPRS),33.66,23.32,98.55,52.01,
+2024-07-25,San Calixto,16.4,3.2,,,
 2024-07-25,San Jacinto Sud,27.5,7.5,,,
 2024-07-25,San Jacinto_M (GPRS),17.21,11.61,80.8,53.64,
 2024-07-25,San Javier,24.0,20.0,82.1,56.7,
@@ -45997,6 +46022,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-26,San Andres,30.0,5.0,,,
 2024-07-26,San Benito,25.0,-2.0,,,
 2024-07-26,San Buenaventura_M (GPRS),34.0,24.77,92.09,56.41,
+2024-07-26,San Calixto,20.0,4.6,,,
 2024-07-26,San Jacinto Sud,34.0,5.0,,,
 2024-07-26,San Jacinto_M (GPRS),24.6,7.9,97.8,26.98,
 2024-07-26,San Jose de Chiquitos,37.0,26.0,57.1,30.6,
@@ -46190,6 +46216,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-27,San Andres,30.0,6.0,,,
 2024-07-27,San Benito,29.0,2.0,,,
 2024-07-27,San Buenaventura_M (GPRS),33.2,24.24,99.23,52.73,
+2024-07-27,San Calixto,18.6,5.8,,,
 2024-07-27,San Jacinto Sud,31.0,1.5,,,
 2024-07-27,San Jacinto_M (GPRS),25.16,4.79,88.7,31.97,
 2024-07-27,San Julian - Comunidad Los Angeles (GPRS),35.48,22.54,77.2,36.71,
@@ -46385,6 +46412,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-28,San Andres,24.0,7.0,,,
 2024-07-28,San Benito,23.0,2.0,,,
 2024-07-28,San Buenaventura_M (GPRS),30.07,24.57,89.69,72.16,
+2024-07-28,San Calixto,16.4,4.0,,,
 2024-07-28,San Jacinto Sud,29.0,11.5,,,
 2024-07-28,San Jacinto_M (GPRS),21.84,14.13,77.32,51.04,
 2024-07-28,San Julian - Comunidad Los Angeles (GPRS),35.74,23.0,71.72,34.62,
@@ -46589,6 +46617,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-29,San Andres,9.0,6.0,,,
 2024-07-29,San Benito,23.0,4.0,,,
 2024-07-29,San Buenaventura_M (GPRS),31.29,22.58,89.98,57.48,
+2024-07-29,San Calixto,15.8,4.4,,,
 2024-07-29,San Jacinto Sud,12.0,9.0,,,
 2024-07-29,San Jacinto_M (GPRS),8.92,7.69,93.6,78.87,1.3
 2024-07-29,San Jose de Chiquitos,26.0,18.0,72.3,57.1,
@@ -46799,6 +46828,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-30,San Antonio (INGECONS2020),,,,,5.1
 2024-07-30,San Benito,24.0,1.0,,,
 2024-07-30,San Buenaventura_M (GPRS),25.76,19.05,99.85,62.91,
+2024-07-30,San Calixto,16.2,5.0,,,
 2024-07-30,San Jacinto Sud,26.0,7.0,,,
 2024-07-30,San Jacinto_M (GPRS),13.18,7.64,89.3,62.09,
 2024-07-30,San Jose de Chiquitos,27.0,16.0,81.6,47.4,
@@ -46998,6 +47028,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-31,San Andres,25.0,4.0,,,
 2024-07-31,San Benito,25.0,1.0,,,
 2024-07-31,San Buenaventura_M (GPRS),30.69,20.36,99.89,54.1,
+2024-07-31,San Calixto,17.4,3.6,,,
 2024-07-31,San Jacinto Sud,37.0,1.0,,,
 2024-07-31,San Jacinto_M (GPRS),19.52,5.23,99.0,41.06,
 2024-07-31,San Javier,34.0,20.0,67.8,31.5,
@@ -47191,6 +47222,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-01,San Andres,37.5,5.0,,,
 2024-08-01,San Benito,26.0,-2.0,,,
 2024-08-01,San Buenaventura_M (GPRS),31.72,22.79,96.25,55.68,
+2024-08-01,San Calixto,20.0,4.8,,,
 2024-08-01,San Jacinto Sud,40.0,0.0,,,
 2024-08-01,San Jacinto_M (GPRS),29.62,5.52,85.8,15.55,
 2024-08-01,San Javier,33.0,29.0,47.9,38.2,
@@ -47385,6 +47417,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-02,San Andres,36.0,7.0,,,
 2024-08-02,San Benito,26.0,-2.0,,,
 2024-08-02,San Buenaventura_M (GPRS),33.09,23.52,95.12,53.53,
+2024-08-02,San Calixto,19.0,4.0,,,
 2024-08-02,San Jacinto Sud,40.0,3.5,,,
 2024-08-02,San Jacinto_M (GPRS),32.07,9.48,57.61,3.38,
 2024-08-02,San Jose de Chiquitos,36.0,27.0,69.1,34.4,
@@ -47575,6 +47608,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-03,San Andres,35.0,7.0,,,
 2024-08-03,San Benito,26.0,-4.0,,,
 2024-08-03,San Buenaventura_M (GPRS),32.98,23.07,98.11,56.55,
+2024-08-03,San Calixto,20.0,4.2,,,
 2024-08-03,San Jacinto Sud,38.0,3.0,,,
 2024-08-03,San Jacinto_M (GPRS),28.48,8.75,56.54,4.61,
 2024-08-03,San Javier,31.0,31.0,48.5,48.5,
@@ -47762,6 +47796,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-04,San Andres,36.0,6.0,,,
 2024-08-04,San Benito,22.0,0.0,,,
 2024-08-04,San Buenaventura_M (GPRS),,,,,0.7
+2024-08-04,San Calixto,19.8,3.8,,,
 2024-08-04,San Jacinto Sud,31.5,9.0,,,
 2024-08-04,San Jacinto_M (GPRS),26.06,5.39,97.6,31.55,
 2024-08-04,San Juan de Yapacaní,,,,,11.4
@@ -48173,6 +48208,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-06,San Andres,34.0,7.0,,,
 2024-08-06,San Benito,22.0,7.0,,,
 2024-08-06,San Buenaventura_M (GPRS),,,,,0.7
+2024-08-06,San Calixto,16.8,6.0,,,
 2024-08-06,San Jacinto Sud,34.0,6.0,,,
 2024-08-06,San Jacinto_M (GPRS),23.61,9.53,89.1,19.61,
 2024-08-06,San Juan Del Potrero,,,,,1.5
@@ -48371,6 +48407,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-07,San Andres,30.5,8.0,,,
 2024-08-07,San Benito,22.0,2.0,,,
 2024-08-07,San Buenaventura_M (GPRS),,,,,0.7
+2024-08-07,San Calixto,16.0,4.0,,,
 2024-08-07,San Jacinto Sud,31.5,6.0,,,
 2024-08-07,San Jacinto_M (GPRS),25.46,10.11,86.4,5.95,
 2024-08-07,San Javier,23.0,23.0,82.5,82.5,
@@ -48575,6 +48612,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-08,San Andres,17.0,5.0,,,
 2024-08-08,San Benito,23.0,-2.0,,,
 2024-08-08,San Buenaventura_M (GPRS),,,,,1.5
+2024-08-08,San Calixto,17.0,2.0,,,
 2024-08-08,San Jacinto Sud,20.0,6.0,,,
 2024-08-08,San Jacinto_M (GPRS),11.76,8.09,75.32,54.29,
 2024-08-08,San Javier,15.0,15.0,92.9,92.9,
@@ -48795,6 +48833,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-09,San Andres,24.0,1.0,,,
 2024-08-09,San Benito,23.0,2.0,,,
 2024-08-09,San Buenaventura_M (GPRS),,,,,4.8
+2024-08-09,San Calixto,19.0,3.0,,,
 2024-08-09,San Jacinto Sud,17.0,3.5,,,
 2024-08-09,San Jacinto_M (GPRS),12.16,-5.71,83.8,21.47,
 2024-08-09,San Javier,10.0,10.0,86.6,86.6,
@@ -48972,6 +49011,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-10,San Andres,23.0,0.0,,,
 2024-08-10,San Benito,20.0,6.0,,,
 2024-08-10,San Borja,21.0,21.0,37.3,37.3,
+2024-08-10,San Calixto,19.8,3.4,,,
 2024-08-10,San Jacinto Sud,29.0,-7.0,,,
 2024-08-10,San Jacinto_M (GPRS),24.29,-2.09,80.1,6.48,
 2024-08-10,San Julian - Comunidad Los Angeles (GPRS),25.68,10.38,90.0,28.42,3.3
@@ -49136,6 +49176,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-11,Samasa,17.0,0.6,,,
 2024-08-11,San Andres,21.0,-2.0,,,
 2024-08-11,San Benito,22.0,-4.0,,,
+2024-08-11,San Calixto,19.6,3.6,,,
 2024-08-11,San Jacinto Sud,29.0,-4.0,,,
 2024-08-11,San Jacinto_M (GPRS),19.58,3.32,53.78,15.37,
 2024-08-11,San Javier,12.0,12.0,66.1,66.1,
@@ -49307,6 +49348,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-12,San Andres,22.0,-4.5,,,
 2024-08-12,San Benito,20.0,-1.0,,,
 2024-08-12,San Borja,22.0,22.0,37.6,37.6,
+2024-08-12,San Calixto,15.2,3.0,,,
 2024-08-12,San Jacinto Sud,24.0,-1.0,,,
 2024-08-12,San Jacinto_M (GPRS),14.84,2.74,65.86,27.51,
 2024-08-12,San Javier,22.0,18.0,39.1,26.5,
@@ -49481,6 +49523,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-13,Samasa,20.0,3.2,,,
 2024-08-13,San Andres,26.0,-2.0,,,
 2024-08-13,San Benito,23.0,-1.0,,,
+2024-08-13,San Calixto,20.0,3.8,,,
 2024-08-13,San Jacinto Sud,28.0,-1.0,,,
 2024-08-13,San Jacinto_M (GPRS),10.56,2.87,80.8,39.56,
 2024-08-13,San Jose de Chiquitos,29.0,15.0,71.4,32.5,
@@ -49654,6 +49697,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-14,Samasa,22.0,4.2,,,
 2024-08-14,San Andres,29.0,-2.0,,,
 2024-08-14,San Benito,26.0,2.0,,,
+2024-08-14,San Calixto,20.6,3.4,,,
 2024-08-14,San Jacinto Sud,33.0,-2.0,,,
 2024-08-14,San Jacinto_M (GPRS),30.15,0.69,84.1,4.22,
 2024-08-14,San Javier,15.0,13.0,76.0,71.4,
@@ -49833,6 +49877,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-15,Samasa,23.0,1.0,,,
 2024-08-15,San Andres,32.0,0.0,,,
 2024-08-15,San Benito,26.0,0.0,,,
+2024-08-15,San Calixto,18.4,4.8,,,
 2024-08-15,San Jacinto Sud,33.0,0.0,,,
 2024-08-15,San Jacinto_M (GPRS),30.15,3.77,92.2,11.66,
 2024-08-15,San Jose de Chiquitos,37.0,19.0,87.4,30.6,
@@ -50029,6 +50074,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-16,San Andres,30.0,0.0,,,
 2024-08-16,San Benito,25.0,0.0,,,
 2024-08-16,San Buenaventura_M (GPRS),34.28,23.66,82.69,39.04,
+2024-08-16,San Calixto,18.0,3.2,,,
 2024-08-16,San Jacinto Sud,33.0,3.0,,,
 2024-08-16,San Jacinto_M (GPRS),27.4,4.77,92.0,25.15,
 2024-08-16,San Jose de Chiquitos,37.0,25.0,68.7,28.7,
@@ -50227,6 +50273,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-17,San Benito,25.0,0.0,,,
 2024-08-17,San Borja,35.0,35.0,38.7,38.7,
 2024-08-17,San Buenaventura_M (GPRS),36.42,23.6,92.17,41.95,
+2024-08-17,San Calixto,17.8,3.6,,,
 2024-08-17,San Jacinto Sud,32.5,5.0,,,
 2024-08-17,San Jacinto_M (GPRS),22.85,8.52,85.4,35.8,
 2024-08-17,San Javier,34.0,30.0,54.6,40.9,
@@ -50421,6 +50468,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-18,San Andres,33.0,6.0,,,
 2024-08-18,San Benito,25.0,0.0,,,
 2024-08-18,San Buenaventura_M (GPRS),36.01,24.63,91.37,45.93,
+2024-08-18,San Calixto,19.8,3.8,,,
 2024-08-18,San Jacinto Sud,34.0,6.0,,,
 2024-08-18,San Jacinto_M (GPRS),29.43,6.78,94.5,23.5,
 2024-08-18,San Javier,21.0,21.0,87.6,87.6,
@@ -50610,6 +50658,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-19,San Andres,30.0,8.0,,,
 2024-08-19,San Benito,25.0,2.0,,,
 2024-08-19,San Buenaventura_M (GPRS),36.12,24.77,93.88,48.23,
+2024-08-19,San Calixto,19.2,4.6,,,
 2024-08-19,San Jacinto Sud,34.0,7.0,,,
 2024-08-19,San Jacinto_M (GPRS),24.34,10.33,87.9,40.01,
 2024-08-19,San Javier,25.0,25.0,73.2,73.2,
@@ -50806,6 +50855,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-20,San Andres,29.0,10.0,,,
 2024-08-20,San Benito,25.0,4.0,,,
 2024-08-20,San Buenaventura_M (GPRS),36.44,24.88,91.92,43.15,
+2024-08-20,San Calixto,18.0,5.0,,,
 2024-08-20,San Jacinto Sud,31.0,10.5,,,
 2024-08-20,San Jacinto_M (GPRS),21.58,13.19,74.6,50.33,
 2024-08-20,San Javier,30.0,30.0,51.3,51.3,
@@ -51007,6 +51057,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-21,San Andres,34.0,8.0,,,
 2024-08-21,San Benito,26.0,3.0,,,
 2024-08-21,San Buenaventura_M (GPRS),36.69,25.47,92.62,43.82,
+2024-08-21,San Calixto,20.4,6.0,,,
 2024-08-21,San Jacinto Sud,37.0,8.0,,,
 2024-08-21,San Jacinto_M (GPRS),31.53,12.03,87.2,5.8,
 2024-08-21,San Javier,22.0,22.0,82.4,82.4,
@@ -51211,6 +51262,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-22,San Andres,25.0,7.0,,,
 2024-08-22,San Benito,26.0,2.0,,,
 2024-08-22,San Buenaventura_M (GPRS),35.22,25.05,92.37,49.81,
+2024-08-22,San Calixto,22.6,4.8,,,
 2024-08-22,San Jacinto Sud,27.5,5.0,,,
 2024-08-22,San Jacinto_M (GPRS),16.99,9.19,84.0,54.56,0.3
 2024-08-22,San Jose de Chiquitos,25.0,25.0,82.7,82.7,
@@ -51415,6 +51467,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-23,San Andres,29.0,1.0,,,
 2024-08-23,San Benito,25.0,2.0,,,
 2024-08-23,San Buenaventura_M (GPRS),33.76,22.89,94.68,52.76,
+2024-08-23,San Calixto,22.4,4.4,,,
 2024-08-23,San Jacinto Sud,31.5,2.5,,,
 2024-08-23,San Jacinto_M (GPRS),17.57,7.33,78.92,30.62,
 2024-08-23,San Javier,25.0,19.0,67.6,64.6,
@@ -51617,6 +51670,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-24,San Andres,20.0,3.0,,,
 2024-08-24,San Benito,25.0,2.0,,,
 2024-08-24,San Buenaventura_M (GPRS),,,,,0.6
+2024-08-24,San Calixto,22.2,4.8,,,
 2024-08-24,San Jacinto Sud,24.0,6.5,,,
 2024-08-24,San Jacinto_M (GPRS),17.0,8.31,72.17,41.93,
 2024-08-24,San Juan Del Potrero,,,,,3.0
@@ -51816,6 +51870,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-25,San Andres,18.0,4.0,,,
 2024-08-25,San Benito,26.0,4.0,,,
 2024-08-25,San Buenaventura_M (GPRS),,,,,22.4
+2024-08-25,San Calixto,22.0,5.0,,,
 2024-08-25,San Jacinto Sud,17.5,4.5,,,
 2024-08-25,San Jacinto_M (GPRS),8.9,3.64,78.1,59.7,
 2024-08-25,San Javier,19.0,16.0,47.6,31.9,
@@ -52009,6 +52064,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-26,San Andres,27.0,-3.0,,,
 2024-08-26,San Benito,25.0,2.0,,,
 2024-08-26,San Buenaventura_M (GPRS),26.46,16.47,77.71,33.0,
+2024-08-26,San Calixto,19.0,5.0,,,
 2024-08-26,San Jacinto Sud,29.0,-3.0,,,
 2024-08-26,San Jacinto_M (GPRS),18.58,2.52,92.7,23.84,
 2024-08-26,San Javier,12.0,12.0,50.0,50.0,
@@ -52202,6 +52258,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-27,San Andres,23.0,-1.0,,,
 2024-08-27,San Benito,26.0,1.0,,,
 2024-08-27,San Buenaventura_M (GPRS),29.73,18.22,84.39,30.95,
+2024-08-27,San Calixto,17.4,3.4,,,
 2024-08-27,San Jacinto Sud,24.0,0.5,,,
 2024-08-27,San Jacinto_M (GPRS),15.36,6.25,72.34,39.32,
 2024-08-27,San Javier,27.0,15.0,62.4,44.4,
@@ -52397,6 +52454,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-28,San Andres,27.0,1.0,,,
 2024-08-28,San Benito,24.0,1.0,,,
 2024-08-28,San Buenaventura_M (GPRS),31.43,20.04,91.49,40.72,
+2024-08-28,San Calixto,17.0,5.0,,,
 2024-08-28,San Jacinto Sud,27.5,0.5,,,
 2024-08-28,San Jacinto_M (GPRS),17.03,5.5,83.8,36.5,
 2024-08-28,San Jose de Chiquitos,34.0,18.0,76.8,31.8,
@@ -52595,6 +52653,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-29,San Andres,28.0,5.0,,,
 2024-08-29,San Benito,26.0,0.0,,,
 2024-08-29,San Buenaventura_M (GPRS),34.74,23.47,91.2,47.15,
+2024-08-29,San Calixto,17.2,4.0,,,
 2024-08-29,San Jacinto Sud,29.0,3.0,,,
 2024-08-29,San Jacinto_M (GPRS),22.16,8.47,74.32,31.7,
 2024-08-29,San Javier,34.0,26.0,54.4,27.9,
@@ -52793,6 +52852,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-30,San Andres,27.0,6.0,,,
 2024-08-30,San Benito,23.0,0.0,,,
 2024-08-30,San Buenaventura_M (GPRS),37.68,23.0,80.35,30.1,
+2024-08-30,San Calixto,16.2,3.8,,,
 2024-08-30,San Jacinto Sud,33.0,6.0,,,
 2024-08-30,San Jacinto_M (GPRS),19.91,9.84,67.82,41.9,
 2024-08-30,San Jose de Chiquitos,35.0,25.0,64.6,32.0,
@@ -52981,6 +53041,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-31,San Andres,22.0,6.0,,,
 2024-08-31,San Benito,22.0,0.0,,,
 2024-08-31,San Buenaventura_M (GPRS),34.93,24.88,77.02,35.1,
+2024-08-31,San Calixto,15.8,4.6,,,
 2024-08-31,San Jacinto Sud,24.0,6.0,,,
 2024-08-31,San Jacinto_M (GPRS),17.25,10.33,72.56,48.53,
 2024-08-31,San Javier,23.0,23.0,68.4,68.4,
@@ -53172,6 +53233,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-01,San Andres,26.0,9.0,,,
 2024-09-01,San Benito,22.0,4.0,,,
 2024-09-01,San Buenaventura_M (GPRS),31.03,20.82,82.85,40.99,
+2024-09-01,San Calixto,14.4,4.2,,,
 2024-09-01,San Jacinto Sud,27.0,9.0,,,
 2024-09-01,San Jacinto_M (GPRS),12.39,5.01,71.32,28.28,
 2024-09-01,San Javier,18.0,18.0,51.6,51.6,
@@ -53368,6 +53430,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-02,San Andres,37.5,6.0,,,
 2024-09-02,San Benito,25.0,3.0,,,
 2024-09-02,San Buenaventura_M (GPRS),33.08,22.16,86.92,33.09,
+2024-09-02,San Calixto,15.2,4.0,,,
 2024-09-02,San Jacinto Sud,35.0,4.0,,,
 2024-09-02,San Jacinto_M (GPRS),21.35,9.99,69.75,27.2,
 2024-09-02,San Javier,35.0,18.0,63.1,30.0,
@@ -53574,6 +53637,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-03,San Benito,26.0,3.0,,,
 2024-09-03,San Borja,28.0,28.0,61.3,61.3,
 2024-09-03,San Buenaventura_M (GPRS),35.71,23.37,89.42,37.01,
+2024-09-03,San Calixto,19.2,5.2,,,
 2024-09-03,San Ignacio de Moxos (GPRS),28.0,28.0,57.6,57.6,
 2024-09-03,San Jacinto Sud,33.5,4.0,,,
 2024-09-03,San Jacinto_M (GPRS),26.79,11.51,67.55,21.44,
@@ -53766,6 +53830,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-04,San Andres,27.0,6.0,,,
 2024-09-04,San Benito,29.0,3.0,,,
 2024-09-04,San Buenaventura_M (GPRS),36.3,24.5,91.28,43.89,
+2024-09-04,San Calixto,20.8,5.4,,,
 2024-09-04,San Jacinto Sud,28.0,5.5,,,
 2024-09-04,San Jacinto_M (GPRS),17.85,10.93,67.11,38.47,
 2024-09-04,San Javier,21.0,21.0,77.2,77.2,
@@ -53959,6 +54024,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-05,San Andres,25.0,8.0,,,
 2024-09-05,San Benito,25.0,4.0,,,
 2024-09-05,San Buenaventura_M (GPRS),31.66,22.62,71.63,34.81,
+2024-09-05,San Calixto,18.0,6.0,,,
 2024-09-05,San Jacinto Sud,25.5,10.0,,,
 2024-09-05,San Jacinto_M (GPRS),13.86,10.3,71.19,58.73,
 2024-09-05,San Jose de Chiquitos,32.0,21.0,77.2,45.8,
@@ -54151,6 +54217,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-06,San Andres,35.5,5.0,,,
 2024-09-06,San Benito,28.0,3.0,,,
 2024-09-06,San Buenaventura_M (GPRS),30.3,21.5,82.04,41.6,
+2024-09-06,San Calixto,19.8,4.6,,,
 2024-09-06,San Jacinto Sud,37.0,4.0,,,
 2024-09-06,San Jacinto_M (GPRS),25.39,9.67,78.79,24.75,
 2024-09-06,San Javier,32.0,22.0,56.7,35.5,
@@ -54339,6 +54406,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-07,San Andres,33.0,10.0,,,
 2024-09-07,San Benito,28.0,2.0,,,
 2024-09-07,San Buenaventura_M (GPRS),31.07,22.83,89.88,61.18,
+2024-09-07,San Calixto,18.2,5.6,,,
 2024-09-07,San Jacinto Sud,35.0,9.0,,,
 2024-09-07,San Jacinto_M (GPRS),23.33,12.97,69.96,26.7,
 2024-09-07,San Javier,33.0,33.0,33.6,33.6,
@@ -54525,6 +54593,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-08,San Andres,31.0,9.0,,,
 2024-09-08,San Benito,28.0,2.0,,,
 2024-09-08,San Buenaventura_M (GPRS),35.22,24.78,94.65,49.3,
+2024-09-08,San Calixto,20.0,4.8,,,
 2024-09-08,San Jacinto Sud,31.0,9.0,,,
 2024-09-08,San Jacinto_M (GPRS),25.18,10.45,88.0,36.75,
 2024-09-08,San Javier,29.0,29.0,51.1,51.1,
@@ -54713,6 +54782,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-09,San Andres,34.0,9.0,,,
 2024-09-09,San Benito,22.0,1.0,,,
 2024-09-09,San Buenaventura_M (GPRS),35.96,25.37,90.5,49.02,
+2024-09-09,San Calixto,20.2,5.0,,,
 2024-09-09,San Jacinto Sud,31.0,10.0,,,
 2024-09-09,San Jacinto_M (GPRS),18.61,13.87,77.74,31.67,
 2024-09-09,San Jose de Chiquitos,38.0,21.0,82.2,32.8,
@@ -54905,6 +54975,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-10,San Andres,36.0,6.0,,,
 2024-09-10,San Benito,30.0,4.0,,,
 2024-09-10,San Buenaventura_M (GPRS),39.1,24.68,80.96,33.79,
+2024-09-10,San Calixto,19.0,5.4,,,
 2024-09-10,San Jacinto Sud,37.0,7.0,,,
 2024-09-10,San Jacinto_M (GPRS),27.48,12.36,71.29,16.62,
 2024-09-10,San Javier,35.0,23.0,77.5,30.0,
@@ -55095,6 +55166,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-11,San Andres,35.0,15.0,,,
 2024-09-11,San Benito,30.0,3.0,,,
 2024-09-11,San Buenaventura_M (GPRS),37.8,25.42,83.55,38.01,
+2024-09-11,San Calixto,22.2,6.2,,,
 2024-09-11,San Jacinto Sud,38.0,7.0,,,
 2024-09-11,San Jacinto_M (GPRS),31.44,14.28,59.88,10.86,
 2024-09-11,San Jose de Chiquitos,38.0,22.0,82.4,30.8,
@@ -55291,6 +55363,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-12,San Andres,28.0,10.0,,,
 2024-09-12,San Benito,24.0,5.0,,,
 2024-09-12,San Buenaventura_M (GPRS),33.91,25.18,98.05,58.65,
+2024-09-12,San Calixto,17.8,6.4,,,
 2024-09-12,San Jacinto Sud,30.0,13.5,,,
 2024-09-12,San Jacinto_M (GPRS),20.06,13.94,78.53,46.33,
 2024-09-12,San Javier,25.0,24.0,82.7,82.6,
@@ -55497,6 +55570,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-13,San Andres,35.0,11.0,,,
 2024-09-13,San Benito,29.0,5.0,,,
 2024-09-13,San Buenaventura_M (GPRS),36.18,26.52,91.88,54.95,
+2024-09-13,San Calixto,22.0,7.4,,,
 2024-09-13,San Jacinto Sud,36.0,11.0,,,
 2024-09-13,San Jacinto_M (GPRS),23.79,9.44,90.0,36.3,
 2024-09-13,San Jose de Chiquitos,24.0,24.0,82.6,82.6,
@@ -55700,6 +55774,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-14,San Andres,15.0,15.0,,,
 2024-09-14,San Benito,24.0,7.0,,,
 2024-09-14,San Buenaventura_M (GPRS),,,,,0.8
+2024-09-14,San Calixto,20.6,7.2,,,
 2024-09-14,San Jacinto Sud,15.0,13.5,,,
 2024-09-14,San Jacinto_M (GPRS),12.57,11.47,79.16,70.47,
 2024-09-14,San Javier,21.0,21.0,82.2,82.2,
@@ -56129,6 +56204,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-16,San Andres,23.0,5.0,,,
 2024-09-16,San Benito,25.0,9.0,,,
 2024-09-16,San Buenaventura_M (GPRS),32.39,22.35,76.63,31.71,
+2024-09-16,San Calixto,17.4,6.4,,,
 2024-09-16,San Jacinto Sud,24.0,4.0,,,
 2024-09-16,San Jacinto_M (GPRS),17.64,10.0,71.52,42.08,
 2024-09-16,San Javier,17.0,17.0,87.2,87.2,
@@ -56534,6 +56610,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-18,San Andres,35.0,10.0,,,
 2024-09-18,San Benito,28.0,6.0,,,
 2024-09-18,San Buenaventura_M (GPRS),37.35,25.36,83.08,41.55,
+2024-09-18,San Calixto,19.0,6.8,,,
 2024-09-18,San Jacinto Sud,34.0,6.5,,,
 2024-09-18,San Jacinto_M (GPRS),25.53,13.02,63.26,17.17,
 2024-09-18,San Jose de Chiquitos,33.0,23.0,93.2,43.3,
@@ -56938,6 +57015,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-20,San Andres,32.0,15.0,,,
 2024-09-20,San Benito,28.0,4.0,,,
 2024-09-20,San Buenaventura_M (GPRS),38.65,27.21,79.26,40.54,
+2024-09-20,San Calixto,21.0,6.6,,,
 2024-09-20,San Jacinto Sud,33.5,10.5,,,
 2024-09-20,San Jacinto_M (GPRS),23.31,16.8,59.77,24.38,
 2024-09-20,San Javier,26.0,26.0,73.3,73.3,
@@ -57129,6 +57207,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-21,San Andres,36.0,16.0,,,
 2024-09-21,San Benito,30.0,6.0,,,
 2024-09-21,San Buenaventura_M (GPRS),38.31,26.79,80.9,44.18,
+2024-09-21,San Calixto,21.2,7.8,,,
 2024-09-21,San Jacinto Sud,36.0,10.0,,,
 2024-09-21,San Jacinto_M (GPRS),27.38,15.12,64.79,22.92,
 2024-09-21,San Javier,26.0,24.0,73.0,68.9,
@@ -57507,6 +57586,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-23,San Andres,37.5,17.0,,,
 2024-09-23,San Benito,30.0,6.0,,,
 2024-09-23,San Buenaventura_M (GPRS),40.38,26.17,80.19,29.18,
+2024-09-23,San Calixto,21.2,6.0,,,
 2024-09-23,San Jacinto Sud,38.0,15.0,,,
 2024-09-23,San Jacinto_M (GPRS),32.92,18.8,75.04,24.67,
 2024-09-23,San Jose de Chiquitos,39.0,30.0,61.7,29.2,
@@ -57703,6 +57783,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-24,San Andres,33.5,17.5,,,
 2024-09-24,San Benito,28.0,5.0,,,
 2024-09-24,San Buenaventura_M (GPRS),40.11,26.46,78.7,32.62,
+2024-09-24,San Calixto,21.0,5.4,,,
 2024-09-24,San Jacinto Sud,37.0,17.5,,,0.4
 2024-09-24,San Jacinto_M (GPRS),32.57,13.42,98.4,30.31,
 2024-09-24,San Javier,24.0,24.0,82.6,82.6,
@@ -57895,6 +57976,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-25,San Andres,32.0,13.0,,,6.7
 2024-09-25,San Benito,27.0,5.0,,,
 2024-09-25,San Buenaventura_M (GPRS),39.74,27.87,77.16,34.13,
+2024-09-25,San Calixto,21.4,5.2,,,
 2024-09-25,San Jacinto Sud,31.0,13.5,,,2.5
 2024-09-25,San Jacinto_M (GPRS),28.45,11.29,94.0,38.56,0.7
 2024-09-25,San Jose de Chiquitos,26.0,26.0,82.8,82.8,
@@ -58092,6 +58174,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-26,San Andres,15.0,10.0,,,10.5
 2024-09-26,San Benito,25.0,9.0,,,
 2024-09-26,San Buenaventura_M (GPRS),34.79,25.23,86.19,58.35,
+2024-09-26,San Calixto,18.6,7.6,,,
 2024-09-26,San Jacinto Sud,15.0,12.5,,,0.5
 2024-09-26,San Jacinto_M (GPRS),12.3,5.92,98.9,80.1,0.2
 2024-09-26,San Jose de Chiquitos,32.0,26.0,77.9,51.8,
@@ -58301,6 +58384,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-27,San Andres,28.0,5.0,,,10.0
 2024-09-27,San Benito,26.0,8.0,,,
 2024-09-27,San Buenaventura_M (GPRS),31.08,22.43,80.24,40.45,
+2024-09-27,San Calixto,19.8,6.8,,,
 2024-09-27,San Jacinto Sud,29.0,6.0,,,4.3
 2024-09-27,San Jacinto_M (GPRS),18.82,9.02,90.4,48.44,0.2
 2024-09-27,San Jose de Chiquitos,29.0,21.0,77.2,47.9,
@@ -58893,6 +58977,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-30,San Andres,38.5,15.0,,,
 2024-09-30,San Benito,28.0,5.0,,,
 2024-09-30,San Buenaventura_M (GPRS),37.71,26.37,84.25,40.88,
+2024-09-30,San Calixto,20.0,7.8,,,
 2024-09-30,San Jacinto Sud,40.0,13.0,,,
 2024-09-30,San Jacinto_M (GPRS),31.6,18.63,68.71,15.1,
 2024-09-30,San Javier,37.0,27.0,73.5,39.2,
@@ -59083,6 +59168,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-01,San Andres,37.0,16.0,,,
 2024-10-01,San Benito,30.0,8.0,,,
 2024-10-01,San Buenaventura_M (GPRS),38.9,26.78,80.64,33.71,
+2024-10-01,San Calixto,21.4,7.2,,,
 2024-10-01,San Jacinto Sud,37.0,11.0,,,
 2024-10-01,San Jacinto_M (GPRS),32.28,13.57,82.3,20.29,
 2024-10-01,San Jose de Chiquitos,40.0,27.0,78.1,29.5,
@@ -59273,6 +59359,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-02,San Andres,28.0,15.0,,,
 2024-10-02,San Benito,29.0,6.0,,,
 2024-10-02,San Buenaventura_M (GPRS),39.61,28.31,72.48,36.37,
+2024-10-02,San Calixto,21.8,7.0,,,
 2024-10-02,San Jacinto Sud,31.0,14.0,,,
 2024-10-02,San Jacinto_M (GPRS),23.46,18.7,61.29,41.65,
 2024-10-02,San Javier,25.0,25.0,68.8,68.8,
@@ -59474,6 +59561,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-03,San Andres,28.0,10.0,,,
 2024-10-03,San Benito,28.0,2.0,,,
 2024-10-03,San Buenaventura_M (GPRS),32.42,24.99,80.12,48.01,
+2024-10-03,San Calixto,17.0,9.2,,,
 2024-10-03,San Jacinto Sud,29.0,12.0,,,
 2024-10-03,San Jacinto_M (GPRS),18.13,11.8,65.69,41.87,
 2024-10-03,San Javier,23.0,23.0,60.2,60.2,
@@ -59674,6 +59762,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-04,San Andres,33.0,9.0,,,
 2024-10-04,San Benito,29.0,7.0,,,
 2024-10-04,San Buenaventura_M (GPRS),37.32,24.83,70.71,24.55,
+2024-10-04,San Calixto,20.8,7.0,,,
 2024-10-04,San Jacinto Sud,33.0,6.5,,,
 2024-10-04,San Jacinto_M (GPRS),29.33,9.63,61.55,28.66,
 2024-10-04,San Jose de Chiquitos,35.0,24.0,82.6,40.9,
@@ -59858,6 +59947,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-05,San Andres,34.0,11.0,,,
 2024-10-05,San Benito,28.0,5.0,,,
 2024-10-05,San Buenaventura_M (GPRS),39.5,26.82,69.48,31.9,
+2024-10-05,San Calixto,21.8,6.6,,,
 2024-10-05,San Jacinto Sud,35.0,9.0,,,
 2024-10-05,San Jacinto_M (GPRS),26.36,16.44,49.0,24.64,
 2024-10-05,San Javier,36.0,36.0,36.6,36.6,
@@ -60039,6 +60129,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-06,San Andres,,,,,13.1
 2024-10-06,San Benito,26.0,7.0,,,
 2024-10-06,San Buenaventura_M (GPRS),40.2,27.32,71.75,34.83,
+2024-10-06,San Calixto,21.4,6.2,,,
 2024-10-06,San Jacinto Sud,35.0,12.5,,,
 2024-10-06,San Jacinto_M (GPRS),25.2,17.8,61.41,38.14,
 2024-10-06,San Javier,25.0,24.0,73.0,68.8,
@@ -60229,6 +60320,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-07,San Andres,39.0,17.0,,,
 2024-10-07,San Benito,27.0,7.0,,,
 2024-10-07,San Buenaventura_M (GPRS),39.18,27.47,76.74,32.26,
+2024-10-07,San Calixto,18.6,6.0,,,
 2024-10-07,San Jacinto Sud,38.0,13.5,,,
 2024-10-07,San Jacinto_M (GPRS),29.08,19.05,62.15,21.25,
 2024-10-07,San Javier,26.0,26.0,73.3,73.3,
@@ -60431,6 +60523,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-08,San Andres,30.0,18.0,,,
 2024-10-08,San Benito,27.0,6.0,,,
 2024-10-08,San Buenaventura_M (GPRS),39.0,26.89,76.84,34.64,
+2024-10-08,San Calixto,17.6,6.4,,,
 2024-10-08,San Jacinto Sud,30.0,18.5,,,
 2024-10-08,San Jacinto_M (GPRS),24.63,18.67,78.51,49.77,
 2024-10-08,San Jose de Chiquitos,41.0,29.0,73.8,28.0,
@@ -60879,6 +60972,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-10,San Andres,,,,,4.3
 2024-10-10,San Benito,25.0,6.0,,,
 2024-10-10,San Buenaventura_M (GPRS),,,,,21.0
+2024-10-10,San Calixto,20.8,5.4,,,
 2024-10-10,San Jacinto Sud,24.0,14.5,,,
 2024-10-10,San Jacinto_M (GPRS),19.48,14.66,84.2,56.49,
 2024-10-10,San Jose de Chiquitos,32.0,23.0,82.6,51.8,
@@ -61087,6 +61181,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-11,San Andres,,,,,2.7
 2024-10-11,San Benito,28.0,4.0,,,
 2024-10-11,San Buenaventura_M (GPRS),38.09,26.4,80.64,35.8,
+2024-10-11,San Calixto,22.2,5.0,,,
 2024-10-11,San Jacinto Sud,29.0,8.0,,,1.0
 2024-10-11,San Jacinto_M (GPRS),26.07,9.11,91.1,19.78,
 2024-10-11,San Jose de Chiquitos,34.0,23.0,82.5,43.5,
@@ -61284,6 +61379,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-12,San Andres,31.0,14.0,,,
 2024-10-12,San Benito,28.0,7.0,,,
 2024-10-12,San Buenaventura_M (GPRS),39.02,26.02,79.38,31.23,
+2024-10-12,San Calixto,21.8,5.2,,,
 2024-10-12,San Jacinto Sud,30.5,8.0,,,
 2024-10-12,San Jacinto_M (GPRS),26.76,15.4,84.6,30.38,
 2024-10-12,San Julian - Comunidad Los Angeles (GPRS),37.25,30.86,54.46,36.13,0.3
@@ -61467,6 +61563,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-13,San Andres,32.0,18.0,,,
 2024-10-13,San Benito,28.0,7.0,,,
 2024-10-13,San Buenaventura_M (GPRS),39.97,27.3,73.01,32.0,
+2024-10-13,San Calixto,17.4,7.4,,,
 2024-10-13,San Jacinto Sud,33.0,17.0,,,
 2024-10-13,San Jacinto_M (GPRS),28.26,17.07,88.5,42.71,
 2024-10-13,San Julian - Comunidad Los Angeles (GPRS),39.02,30.07,60.26,35.74,
@@ -61650,6 +61747,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-14,San Andres,30.0,15.0,,,
 2024-10-14,San Benito,28.0,8.0,,,
 2024-10-14,San Buenaventura_M (GPRS),36.42,26.11,84.13,39.51,
+2024-10-14,San Calixto,18.8,5.6,,,
 2024-10-14,San Jacinto Sud,36.0,17.0,,,
 2024-10-14,San Jacinto_M (GPRS),31.18,12.28,95.3,30.9,
 2024-10-14,San Julian - Comunidad Los Angeles (GPRS),32.09,29.09,64.11,56.53,
@@ -62484,6 +62582,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-18,Palos Blancos_M (GPRS),35.64,23.9,98.31,43.47,
 2024-10-18,Pampas de Lequezana,24.3,7.2,,,
 2024-10-18,Parotani,31.0,12.0,,,
+2024-10-18,Peña Amarilla_H (SAT),,,,,44.2
 2024-10-18,Pinos Sud,,,,,24.4
 2024-10-18,Pocona - SDC (GPRS),27.11,16.15,56.11,31.55,
 2024-10-18,Pojo - SDC (GPRS),21.51,19.33,61.72,51.22,
@@ -62512,6 +62611,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-18,San Andres,,,,,9.4
 2024-10-18,San Benito,28.0,7.0,,,
 2024-10-18,San Buenaventura_M (GPRS),36.01,25.85,86.47,50.22,
+2024-10-18,San Calixto,21.0,6.6,,,
 2024-10-18,San Jacinto Sud,24.0,15.0,,,
 2024-10-18,San Jacinto_M (GPRS),19.86,14.94,94.6,69.11,
 2024-10-18,San Javier,23.0,22.0,93.2,87.7,
@@ -62606,6 +62706,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-19,Camargo_H (GPRS),,,,,3.2
 2024-10-19,Camargo_M (GPRS),,,,,3.2
 2024-10-19,Camata,30.0,18.0,,,
+2024-10-19,Camiaco_H (SAT),,,,,8.2
 2024-10-19,Camiri,21.0,21.0,77.2,77.2,
 2024-10-19,Campanario,19.5,-1.0,,,10.0
 2024-10-19,Capinota,30.0,14.0,,,
@@ -62719,6 +62820,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-19,San Andres,27.0,9.0,,,19.8
 2024-10-19,San Benito,26.0,6.0,,,
 2024-10-19,San Buenaventura_M (GPRS),,,,,41.0
+2024-10-19,San Calixto,22.0,7.2,,,
 2024-10-19,San Jacinto Sud,30.0,10.0,,,2.0
 2024-10-19,San Jacinto_M (GPRS),26.4,13.59,94.9,35.97,11.3
 2024-10-19,San Javier,29.0,18.0,93.0,54.4,
@@ -62896,6 +62998,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-20,Pojo - SDC (GPRS),18.56,18.56,51.92,51.92,
 2024-10-20,Porco,23.0,8.0,,,
 2024-10-20,Porvenir - PSM,,,,,0.2
+2024-10-20,Porvenir_H (SAT),,,,,0.2
 2024-10-20,Potosi Los Pinos,23.0,4.0,,,
 2024-10-20,Presa Misicuni (GPRS),18.9,7.34,81.4,16.27,
 2024-10-20,Puerto Rico S.(GPRS),,,,,29.2
@@ -62914,6 +63017,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-20,San Andres,29.0,12.0,,,
 2024-10-20,San Benito,28.0,4.0,,,
 2024-10-20,San Buenaventura_M (GPRS),,,,,0.3
+2024-10-20,San Calixto,22.2,7.0,,,
 2024-10-20,San Jacinto Sud,34.0,10.0,,,
 2024-10-20,San Jacinto_M (GPRS),30.19,15.41,84.3,29.85,
 2024-10-20,San Javier,34.0,31.0,51.6,40.9,
@@ -63101,6 +63205,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-21,San Andres,27.0,14.0,,,
 2024-10-21,San Benito,30.0,4.0,,,
 2024-10-21,San Buenaventura_M (GPRS),36.28,25.76,89.3,45.55,
+2024-10-21,San Calixto,22.0,6.6,,,
 2024-10-21,San Jacinto Sud,34.0,13.0,,,
 2024-10-21,San Jacinto_M (GPRS),27.6,17.91,79.21,40.62,
 2024-10-21,San Jose de Chiquitos,37.0,28.0,73.6,39.2,
@@ -63275,6 +63380,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-22,Porco,20.0,9.0,,,
 2024-10-22,Poroma (CHQ),,,,,4.0
 2024-10-22,Porvenir - PSM,,,,,12.8
+2024-10-22,Porvenir_H (SAT),,,,,10.4
 2024-10-22,Potosi Los Pinos,21.0,7.0,,,
 2024-10-22,Potosí,17.0,9.0,75.5,44.5,
 2024-10-22,Presa Misicuni (GPRS),,,,,0.7
@@ -63296,6 +63402,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-22,San Andres,26.0,14.0,,,
 2024-10-22,San Benito,23.0,10.0,,,
 2024-10-22,San Buenaventura_M (GPRS),29.69,23.7,99.92,70.52,
+2024-10-22,San Calixto,20.8,7.8,,,
 2024-10-22,San Jacinto Sud,32.0,17.0,,,
 2024-10-22,San Jacinto_M (GPRS),27.28,20.63,65.96,41.05,
 2024-10-22,San Javier,23.0,23.0,87.7,87.7,
@@ -63386,6 +63493,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-23,Calacoto,25.5,0.0,,,
 2024-10-23,Camargo_M (GPRS),34.24,21.06,47.72,8.37,
 2024-10-23,Camata,35.0,17.0,,,
+2024-10-23,Camiaco_H (SAT),,,,,0.2
 2024-10-23,Camiri,25.0,25.0,64.6,64.6,
 2024-10-23,Campamento 2 - Suñasivi,,,,,5.0
 2024-10-23,Campanario,24.0,4.0,,,
@@ -63472,6 +63580,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-23,Pocona - SDC (GPRS),19.04,19.04,51.66,51.66,
 2024-10-23,Pojo - SDC (GPRS),20.86,20.86,54.8,54.8,
 2024-10-23,Porco,24.0,7.0,,,
+2024-10-23,Porvenir_H (SAT),,,,,0.2
 2024-10-23,Potosi Los Pinos,24.0,6.0,,,9.0
 2024-10-23,Potosí,19.0,10.0,70.6,34.3,
 2024-10-23,Presa Misicuni (GPRS),13.31,8.26,93.7,60.02,
@@ -63494,6 +63603,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-23,San Andres,26.0,15.0,,,29.3
 2024-10-23,San Benito,24.0,9.0,,,
 2024-10-23,San Buenaventura_M (GPRS),35.34,25.62,93.75,47.78,
+2024-10-23,San Calixto,21.4,8.2,,,
 2024-10-23,San Jacinto Sud,34.0,16.0,,,33.0
 2024-10-23,San Jacinto_M (GPRS),31.44,16.16,97.0,34.18,22.9
 2024-10-23,San Javier,35.0,22.0,93.2,43.8,
@@ -63894,6 +64004,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-25,San Andres,25.0,16.0,,,
 2024-10-25,San Benito,30.0,8.0,,,
 2024-10-25,San Buenaventura_M (GPRS),38.29,27.51,80.94,40.35,
+2024-10-25,San Calixto,20.0,8.0,,,
 2024-10-25,San Jacinto Sud,33.5,13.5,,,
 2024-10-25,San Jacinto_M (GPRS),29.92,13.63,97.6,41.36,
 2024-10-25,San Javier,34.0,33.0,58.8,55.6,
@@ -63964,6 +64075,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-26, Paniagua_M (GPRS),,,,,6.5
 2024-10-26,4 Esquinas (GPRS),12.38,3.38,,,4.9
 2024-10-26,Abapo,,,,,5.4
+2024-10-26,Abapo_H (SAT),,,,,5.6
 2024-10-26,Acasio,17.0,12.1,,,23.0
 2024-10-26,Achiri,20.5,-2.0,,,
 2024-10-26,Achumani,23.4,6.3,,,4.6
@@ -63988,6 +64100,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-26,Camargo_H (GPRS),,,,,1.5
 2024-10-26,Camargo_M (GPRS),,,,,1.2
 2024-10-26,Camata,31.0,18.0,,,69.8
+2024-10-26,Camiaco_H (SAT),,,,,118.0
 2024-10-26,Camiri,26.0,23.0,60.2,60.2,
 2024-10-26,Campamento 2 - Suñasivi,,,,,8.0
 2024-10-26,Campamento Villa Tunari,,,,,28.5
@@ -64118,6 +64231,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-26,San Andres,26.0,17.0,,,
 2024-10-26,San Benito,18.0,11.0,,,2.5
 2024-10-26,San Buenaventura_M (GPRS),35.41,20.49,99.9,50.04,
+2024-10-26,San Calixto,20.2,10.0,,,
 2024-10-26,San Jacinto Sud,16.0,14.0,,,11.0
 2024-10-26,San Jacinto_M (GPRS),15.29,10.91,98.6,78.12,
 2024-10-26,San Javier,26.0,26.0,82.8,82.8,
@@ -64307,12 +64421,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-27,Paracti,,,,,1.0
 2024-10-27,Parotani,30.0,11.0,,,
 2024-10-27,Pasankeri ,,,,,2.3
+2024-10-27,Peña Amarilla_H (SAT),,,,,0.2
 2024-10-27,Pico de loro_H- SDC (GPRS),,,,,5.2
 2024-10-27,Pinos Sud,,,,,5.0
 2024-10-27,Pocona - SDC (GPRS),21.66,10.07,95.6,50.3,0.3
 2024-10-27,Pojo - SDC (GPRS),22.43,13.91,88.7,53.57,0.1
 2024-10-27,Porco,22.0,8.0,,,
 2024-10-27,Porvenir - PSM,,,,,25.0
+2024-10-27,Porvenir_H (SAT),,,,,61.2
 2024-10-27,Potosi Los Pinos,21.0,5.0,,,4.8
 2024-10-27,Presa Misicuni (GPRS),,,,,5.3
 2024-10-27,Pucarani,,,,,6.2
@@ -64362,6 +64478,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-27,Sauce Pilata - SDC (GPRS),9.87,9.87,99.7,99.7,0.7
 2024-10-27,Sella Quebrada,24.5,10.0,,,
 2024-10-27,Sena_H (GPRS),,,,,0.3
+2024-10-27,Sena_H (SAT),,,,,0.2
 2024-10-27,Sopachuy,,,,,3.8
 2024-10-27,Soracachi (Auto),18.4,4.3,89.9,35.5,
 2024-10-27,Sorata,25.0,9.0,,,
@@ -64537,6 +64654,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-28,San Andres,27.0,11.0,,,
 2024-10-28,San Benito,25.0,11.0,,,
 2024-10-28,San Buenaventura_M (GPRS),34.49,24.43,90.19,50.38,
+2024-10-28,San Calixto,18.6,6.6,,,
 2024-10-28,San Jacinto Sud,27.5,15.0,,,
 2024-10-28,San Jacinto_M (GPRS),23.43,13.09,91.8,45.91,
 2024-10-28,San Javier,33.0,27.0,78.1,55.3,
@@ -64737,6 +64855,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-29,San Andres,28.0,12.0,,,
 2024-10-29,San Benito,27.0,12.0,,,
 2024-10-29,San Buenaventura_M (GPRS),36.78,25.05,94.26,44.5,
+2024-10-29,San Calixto,19.8,8.0,,,
 2024-10-29,San Jacinto Sud,28.5,13.0,,,
 2024-10-29,San Jacinto_M (GPRS),24.82,16.38,86.0,44.47,
 2024-10-29,San Jose de Chiquitos,36.0,24.0,99.1,44.1,
@@ -65265,6 +65384,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-01,Calachaka Jahuira,,,,,0.3
 2024-11-01,Camargo_M (GPRS),29.18,17.18,54.04,9.54,
 2024-11-01,Camata,34.0,18.0,,,
+2024-11-01,Camiaco_H (SAT),,,,,21.4
 2024-11-01,Camiri,30.0,20.0,93.2,45.3,
 2024-11-01,Campamento 2 - Suñasivi,,,,,0.8
 2024-11-01,Campamento Villa Tunari,,,,,8.5
@@ -65390,6 +65510,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-01,San Andres,29.0,13.0,,,
 2024-11-01,San Benito,,,,,7.0
 2024-11-01,San Buenaventura_M (GPRS),38.31,26.12,89.53,40.18,
+2024-11-01,San Calixto,22.0,6.0,,,
 2024-11-01,San Jacinto Sud,29.5,13.0,,,18.5
 2024-11-01,San Jacinto_M (GPRS),26.35,11.49,98.6,41.42,3.7
 2024-11-01,San Jose de Chiquitos,30.0,30.0,74.0,74.0,
@@ -65592,6 +65713,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-02,San Andres,31.0,14.0,,,
 2024-11-02,San Benito,28.0,8.0,,,
 2024-11-02,San Buenaventura_M (GPRS),36.68,25.86,93.56,47.44,
+2024-11-02,San Calixto,22.8,7.6,,,
 2024-11-02,San Ignacio de Moxos (GPRS),32.0,27.0,88.0,66.0,
 2024-11-02,San Jacinto Sud,33.0,11.0,,,
 2024-11-02,San Jacinto_M (GPRS),30.94,15.29,92.8,25.9,
@@ -65790,6 +65912,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-03,San Andres,30.0,16.0,,,
 2024-11-03,San Benito,27.0,10.0,,,
 2024-11-03,San Buenaventura_M (GPRS),35.62,26.19,98.55,57.06,
+2024-11-03,San Calixto,20.0,9.0,,,
 2024-11-03,San Jacinto Sud,31.0,17.0,,,
 2024-11-03,San Jacinto_M (GPRS),26.65,14.44,99.1,43.58,
 2024-11-03,San Juan de Yapacaní,,,,,4.2
@@ -65858,6 +65981,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-04, Paniagua_M (GPRS),,,,,6.3
 2024-11-04,4 Esquinas (GPRS),17.02,3.87,,,0.4
 2024-11-04,Abapo,,,,,1.7
+2024-11-04,Abapo_H (SAT),,,,,0.2
 2024-11-04,Acasio,33.0,10.1,,,
 2024-11-04,Achiri,22.5,-2.0,,,
 2024-11-04,Aguadas (GPRS),19.7,4.26,91.8,25.91,0.3
@@ -66296,6 +66420,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-06,Camargo_H (GPRS),,,,,13.5
 2024-11-06,Camargo_M (GPRS),,,,,14.1
 2024-11-06,Camata,32.5,17.5,,,
+2024-11-06,Camiaco_H (SAT),,,,,65.6
 2024-11-06,Camiri,22.0,22.0,77.4,77.4,
 2024-11-06,Campamento 2 - Suñasivi,,,,,6.3
 2024-11-06,Campamento Villa Tunari,,,,,20.9
@@ -66396,6 +66521,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-06,Pampas de Lequezana,25.0,11.0,,,
 2024-11-06,Paracti,,,,,8.0
 2024-11-06,Parotani,,,,,9.2
+2024-11-06,Peña Amarilla_H (SAT),,,,,0.6
 2024-11-06,Pico de loro_H- SDC (GPRS),,,,,5.4
 2024-11-06,Pinos Sud,,,,,4.5
 2024-11-06,Pocona - SDC (GPRS),23.1,13.86,87.4,47.24,14.2
@@ -66431,6 +66557,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-06,San Andres,30.0,17.0,,,3.6
 2024-11-06,San Benito,,,,,1.0
 2024-11-06,San Buenaventura_M (GPRS),,,,,38.5
+2024-11-06,San Calixto,21.6,8.8,,,
 2024-11-06,San Jacinto Sud,31.0,16.0,,,
 2024-11-06,San Jacinto_M (GPRS),26.4,14.26,98.8,51.98,
 2024-11-06,San Javier,22.0,22.0,93.2,93.2,
@@ -66618,6 +66745,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-07,Pampas de Lequezana,23.2,8.5,,,
 2024-11-07,Paracti,,,,,17.5
 2024-11-07,Parotani,,,,,4.8
+2024-11-07,Peña Amarilla_H (SAT),,,,,2.0
 2024-11-07,Pico de loro_H- SDC (GPRS),,,,,1.3
 2024-11-07,Pinos Sud,,,,,26.1
 2024-11-07,Pocona - SDC (GPRS),25.45,14.12,91.3,39.69,
@@ -66651,6 +66779,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-07,San Andres,27.0,15.5,,,
 2024-11-07,San Benito,,,,,4.0
 2024-11-07,San Buenaventura_M (GPRS),,,,,9.1
+2024-11-07,San Calixto,22.4,8.0,,,
 2024-11-07,San Jacinto Sud,25.0,15.0,,,8.0
 2024-11-07,San Jacinto_M (GPRS),21.7,15.48,97.6,62.29,10.4
 2024-11-07,San Javier,22.0,22.0,99.1,99.1,
@@ -66678,6 +66807,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-07,Saykan Perulas,,,,,37.5
 2024-11-07,Sella Quebrada,19.5,12.5,,,10.9
 2024-11-07,Sena_H (GPRS),,,,,8.2
+2024-11-07,Sena_H (SAT),,,,,8.8
 2024-11-07,Sopachuy,,,,,77.8
 2024-11-07,Soracachi (Auto),21.0,2.4,68.0,5.8,
 2024-11-07,Sorata,26.0,13.0,,,1.0
@@ -66749,6 +66879,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-08,Calachaka Jahuira,,,,,0.3
 2024-11-08,Camargo_M (GPRS),29.0,18.38,57.42,20.0,
 2024-11-08,Camata,33.5,19.0,,,
+2024-11-08,Camiaco_H (SAT),,,,,0.2
 2024-11-08,Camiri,26.0,26.0,73.3,73.3,
 2024-11-08,Campamento Villa Tunari,,,,,6.5
 2024-11-08,Campanario,20.0,3.0,,,
@@ -66840,6 +66971,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-08,Pocona - SDC (GPRS),24.86,13.23,90.8,39.01,20.1
 2024-11-08,Pojo - SDC (GPRS),26.62,15.48,81.6,40.36,
 2024-11-08,Porco,19.0,7.0,,,
+2024-11-08,Porvenir_H (SAT),,,,,1.2
 2024-11-08,Potolo,,,,,3.0
 2024-11-08,Potosi Los Pinos,,,,,4.5
 2024-11-08,Potosí,16.0,10.0,53.2,30.8,
@@ -66868,6 +67000,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-08,San Andres,31.0,15.0,,,
 2024-11-08,San Benito,,,,,4.0
 2024-11-08,San Buenaventura_M (GPRS),,,,,6.1
+2024-11-08,San Calixto,21.4,9.0,,,
 2024-11-08,San Jacinto Sud,28.5,13.5,,,5.6
 2024-11-08,San Jacinto_M (GPRS),23.8,15.42,94.1,50.81,2.8
 2024-11-08,San Jose de Chiquitos,33.0,27.0,88.0,58.8,
@@ -66893,6 +67026,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-08,Sauce Pilata - SDC (GPRS),21.21,11.08,100.0,45.37,1.6
 2024-11-08,Sella Quebrada,25.0,11.0,,,7.0
 2024-11-08,Sena_H (GPRS),,,,,0.1
+2024-11-08,Sena_H (SAT),,,,,0.4
 2024-11-08,Sopachuy,26.5,14.5,,,
 2024-11-08,Soracachi (Auto),21.2,3.3,76.4,17.0,
 2024-11-08,Sorata,21.0,8.0,,,6.2
@@ -67048,6 +67182,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-09,Pojo - SDC (GPRS),25.32,13.19,77.52,40.64,
 2024-11-09,Porco,22.0,5.0,,,
 2024-11-09,Poroma (CHQ),,,,,14.2
+2024-11-09,Porvenir_H (SAT),,,,,0.2
 2024-11-09,Potosi Los Pinos,22.2,3.0,,,
 2024-11-09,Potosí,16.0,9.0,56.9,36.0,
 2024-11-09,Presa Misicuni (GPRS),,,,,0.3
@@ -67071,6 +67206,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-09,San Benito,,,,,4.0
 2024-11-09,San Borja,32.0,32.0,66.0,66.0,
 2024-11-09,San Buenaventura_M (GPRS),,,,,0.1
+2024-11-09,San Calixto,21.2,7.2,,,
 2024-11-09,San Jacinto Sud,29.5,15.5,,,
 2024-11-09,San Jacinto_M (GPRS),25.86,15.9,92.2,51.5,
 2024-11-09,San Josecito,,,,,2.0
@@ -67235,6 +67371,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-10,Palos Blancos_M (GPRS),36.35,23.13,100.0,44.19,
 2024-11-10,Pampas de Lequezana,24.3,10.0,,,
 2024-11-10,Parotani,30.0,11.0,,,
+2024-11-10,Peña Amarilla_H (SAT),,,,,0.2
 2024-11-10,Pocona - SDC (GPRS),26.01,13.12,74.2,25.3,5.4
 2024-11-10,Pojo - SDC (GPRS),26.23,14.83,75.18,39.76,
 2024-11-10,Porco,24.0,7.0,,,
@@ -67259,6 +67396,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-10,San Andres,34.5,18.0,,,
 2024-11-10,San Benito,26.0,7.0,,,
 2024-11-10,San Buenaventura_M (GPRS),,,,,4.8
+2024-11-10,San Calixto,22.4,7.4,,,
 2024-11-10,San Jacinto Sud,33.0,15.0,,,
 2024-11-10,San Jacinto_M (GPRS),29.99,14.4,95.5,36.43,
 2024-11-10,San Javier,34.0,33.0,58.8,52.3,
@@ -67448,6 +67586,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-11,San Andres,28.0,17.0,,,
 2024-11-11,San Benito,29.0,9.0,,,
 2024-11-11,San Buenaventura_M (GPRS),37.08,27.21,89.79,50.27,
+2024-11-11,San Calixto,22.0,7.0,,,
 2024-11-11,San Jacinto Sud,31.0,14.0,,,
 2024-11-11,San Jacinto_M (GPRS),26.99,19.34,79.51,49.27,
 2024-11-11,San Jose de Chiquitos,35.0,27.0,82.9,49.5,
@@ -67849,11 +67988,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-13,Pampas de Lequezana,25.8,5.2,,,
 2024-11-13,Paracti,,,,,4.0
 2024-11-13,Parotani,30.0,10.0,,,
+2024-11-13,Peña Amarilla_H (SAT),,,,,4.6
 2024-11-13,Pinos Sud,,,,,2.0
 2024-11-13,Pocona - SDC (GPRS),13.91,13.91,78.56,78.56,1.5
 2024-11-13,Pojo - SDC (GPRS),18.76,18.76,59.03,59.03,
 2024-11-13,Porco,19.0,8.0,,,3.0
 2024-11-13,Porvenir - PSM,,,,,10.8
+2024-11-13,Porvenir_H (SAT),,,,,130.8
 2024-11-13,Potosi Los Pinos,,,,,4.0
 2024-11-13,Potosí,19.0,10.0,75.7,29.8,
 2024-11-13,Presa Misicuni (GPRS),,,,,11.7
@@ -67878,6 +68019,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-13,San Andres,27.5,10.0,,,1.3
 2024-11-13,San Benito,26.0,12.0,,,
 2024-11-13,San Buenaventura_M (GPRS),,,,,5.0
+2024-11-13,San Calixto,19.4,8.2,,,
 2024-11-13,San Jacinto Sud,29.0,10.0,,,
 2024-11-13,San Jacinto_M (GPRS),25.58,9.33,92.1,21.88,
 2024-11-13,San Jose de Chiquitos,28.0,20.0,82.1,61.3,
@@ -67903,6 +68045,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-13,Sauce Pilata - SDC (GPRS),12.06,12.06,75.78,75.78,0.1
 2024-11-13,Sella Quebrada,25.5,8.0,,,
 2024-11-13,Sena_H (GPRS),,,,,14.6
+2024-11-13,Sena_H (SAT),,,,,14.2
 2024-11-13,Sopachuy,26.5,10.5,,,
 2024-11-13,Soracachi (Auto),20.0,7.5,76.4,24.5,
 2024-11-13,Sorata,23.0,11.0,,,
@@ -68271,6 +68414,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-15,San Andres,32.0,10.0,,,
 2024-11-15,San Benito,26.0,10.0,,,
 2024-11-15,San Buenaventura_M (GPRS),34.26,24.37,88.42,41.36,
+2024-11-15,San Calixto,17.6,7.2,,,
 2024-11-15,San Jacinto Sud,31.0,10.5,,,
 2024-11-15,San Jacinto_M (GPRS),27.12,17.13,52.72,33.02,
 2024-11-15,San Javier,30.0,30.0,61.7,61.7,
@@ -68465,6 +68609,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-16,San Andres,32.0,12.0,,,
 2024-11-16,San Benito,28.0,7.0,,,
 2024-11-16,San Buenaventura_M (GPRS),36.37,26.86,85.64,42.06,
+2024-11-16,San Calixto,17.4,7.8,,,
 2024-11-16,San Jacinto Sud,34.0,13.0,,,
 2024-11-16,San Jacinto_M (GPRS),30.5,15.89,88.8,29.68,
 2024-11-16,San Javier,34.0,31.0,65.8,52.1,
@@ -68654,11 +68799,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-17,Parotani,30.0,12.0,,,
 2024-11-17,Pasankeri ,,,,,5.2
 2024-11-17,Patacamaya (GPRS),14.41,13.94,,,
+2024-11-17,Peña Amarilla_H (SAT),,,,,1.2
 2024-11-17,Pinos Sud,,,,,110.3
 2024-11-17,Pocona - SDC (GPRS),24.07,10.05,88.4,41.2,
 2024-11-17,Pojo - SDC (GPRS),27.41,14.93,80.7,46.09,0.2
 2024-11-17,Porco,18.0,8.0,,,18.0
 2024-11-17,Porvenir - PSM,,,,,35.6
+2024-11-17,Porvenir_H (SAT),,,,,9.2
 2024-11-17,Potosi Los Pinos,23.0,5.0,,,
 2024-11-17,Presa Misicuni (GPRS),,,,,0.8
 2024-11-17,Pucarani,,,,,5.6
@@ -68705,6 +68852,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-17,Sauce Pilata - SDC (GPRS),14.77,14.77,65.41,65.41,
 2024-11-17,Sella Quebrada,29.0,15.0,,,
 2024-11-17,Sena_H (GPRS),,,,,11.2
+2024-11-17,Sena_H (SAT),,,,,3.2
 2024-11-17,Senkata-D8,,,,,2.3
 2024-11-17,Sopachuy,30.5,14.0,,,
 2024-11-17,Soracachi (Auto),14.0,6.7,94.4,56.2,17.8
@@ -69029,6 +69177,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-19,Camargo_H (GPRS),,,,,18.6
 2024-11-19,Camargo_M (GPRS),,,,,17.8
 2024-11-19,Camata,,,,,11.3
+2024-11-19,Camiaco_H (SAT),,,,,114.0
 2024-11-19,Camiri,19.0,19.0,87.4,87.4,
 2024-11-19,Campamento 2 - Suñasivi,,,,,7.7
 2024-11-19,Campamento Villa Tunari,,,,,40.6
@@ -69143,6 +69292,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-19,Porco,16.0,7.0,,,7.0
 2024-11-19,Poroma (CHQ),,,,,26.0
 2024-11-19,Porvenir - PSM,,,,,9.6
+2024-11-19,Porvenir_H (SAT),,,,,8.8
 2024-11-19,Potolo,,,,,19.5
 2024-11-19,Potosi Los Pinos,,,,,10.0
 2024-11-19,Potosí,14.0,7.0,92.7,58.2,
@@ -69199,6 +69349,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-19,Saykan Perulas,,,,,8.7
 2024-11-19,Sella Quebrada,22.0,13.0,,,25.1
 2024-11-19,Sena_H (GPRS),,,,,1.1
+2024-11-19,Sena_H (SAT),,,,,1.0
 2024-11-19,Senkata-D8,,,,,6.0
 2024-11-19,Sopachuy,,,,,10.7
 2024-11-19,Soracachi (Auto),15.5,6.7,95.2,54.0,0.4
@@ -69256,6 +69407,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-20, Paniagua_M (GPRS),,,,,2.6
 2024-11-20,4 Esquinas (GPRS),9.17,9.17,,,0.4
 2024-11-20,Abapo,,,,,1.5
+2024-11-20,Abapo_H (SAT),,,,,2.2
 2024-11-20,Acasio,24.0,13.1,,,
 2024-11-20,Achiri,20.5,2.0,,,
 2024-11-20,Achumani,,,,,0.4
@@ -69278,6 +69430,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-20,Calacoto,,,,,1.8
 2024-11-20,Camargo_M (GPRS),27.66,18.94,62.41,31.47,
 2024-11-20,Camata,28.0,17.0,,,
+2024-11-20,Camiaco_H (SAT),,,,,2.0
 2024-11-20,Camiri,20.0,20.0,87.5,87.5,
 2024-11-20,Campamento 2 - Suñasivi,,,,,6.2
 2024-11-20,Campamento Villa Tunari,,,,,102.5
@@ -69405,6 +69558,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-20,San Andres,25.0,13.0,,,3.9
 2024-11-20,San Benito,26.0,14.0,,,
 2024-11-20,San Buenaventura_M (GPRS),,,,,29.5
+2024-11-20,San Calixto,15.2,7.6,,,
 2024-11-20,San Jacinto Sud,27.5,14.0,,,3.0
 2024-11-20,San Jacinto_M (GPRS),20.89,15.55,92.3,62.44,
 2024-11-20,San Jose de Chiquitos,31.0,25.0,93.4,65.8,
@@ -69483,6 +69637,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-21, Paniagua_M (GPRS),,,,,7.6
 2024-11-21,4 Esquinas (GPRS),7.98,7.98,,,26.9
 2024-11-21,Abapo,,,,,11.6
+2024-11-21,Abapo_H (SAT),,,,,9.6
 2024-11-21,Acasio,23.1,13.0,,,
 2024-11-21,Achiri,19.0,2.5,,,
 2024-11-21,Achocalla,,,,,2.3
@@ -69724,6 +69879,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-22, Paniagua_M (GPRS),,,,,12.0
 2024-11-22,4 Esquinas (GPRS),5.0,5.0,,,5.1
 2024-11-22,Abapo,,,,,5.3
+2024-11-22,Abapo_H (SAT),,,,,8.4
 2024-11-22,Acasio,17.0,13.0,,,18.0
 2024-11-22,Achiri,16.0,2.5,,,11.3
 2024-11-22,Achocalla,,,,,5.8
@@ -69752,6 +69908,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-22,Camargo_H (GPRS),,,,,1.7
 2024-11-22,Camargo_M (GPRS),,,,,1.7
 2024-11-22,Camata,,,,,12.0
+2024-11-22,Camiaco_H (SAT),,,,,25.2
 2024-11-22,Camiri,22.0,22.0,93.2,93.2,
 2024-11-22,Campamento Villa Tunari,,,,,20.7
 2024-11-22,Campanario,20.5,4.0,,,
@@ -69859,6 +70016,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-22,Paracti,,,,,9.0
 2024-11-22,Parotani,,,,,8.9
 2024-11-22,Pasankeri ,,,,,10.4
+2024-11-22,Peña Amarilla_H (SAT),,,,,0.2
 2024-11-22,Pico de loro_H- SDC (GPRS),,,,,26.6
 2024-11-22,Pinos Sud,,,,,4.3
 2024-11-22,Pocona - SDC (GPRS),12.68,12.68,95.5,95.5,7.8
@@ -69866,6 +70024,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-22,Porco,17.0,7.0,,,
 2024-11-22,Poroma (CHQ),,,,,43.0
 2024-11-22,Porvenir - PSM,,,,,4.2
+2024-11-22,Porvenir_H (SAT),,,,,0.8
 2024-11-22,Potolo,,,,,26.0
 2024-11-22,Potosi Los Pinos,21.0,7.0,,,
 2024-11-22,Potosí,17.0,9.0,75.5,41.8,
@@ -69924,6 +70083,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-22,Sauce Pilata - SDC (GPRS),17.36,9.84,100.0,76.01,16.9
 2024-11-22,Sella Quebrada,25.5,13.0,,,
 2024-11-22,Sena_H (GPRS),,,,,0.4
+2024-11-22,Sena_H (SAT),,,,,0.4
 2024-11-22,Senkata-D8,,,,,0.2
 2024-11-22,Sopachuy,,,,,16.9
 2024-11-22,Soracachi (Auto),13.7,8.8,80.0,60.5,
@@ -70100,12 +70260,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-23,Paracti,,,,,12.0
 2024-11-23,Parotani,,,,,2.3
 2024-11-23,Pasankeri ,,,,,0.3
+2024-11-23,Peña Amarilla_H (SAT),,,,,21.2
 2024-11-23,Pico de loro_H- SDC (GPRS),,,,,0.6
 2024-11-23,Pocona - SDC (GPRS),13.87,13.87,95.8,95.8,3.4
 2024-11-23,Pojo - SDC (GPRS),17.26,17.26,89.7,89.7,0.6
 2024-11-23,Porco,19.0,6.0,,,
 2024-11-23,Poroma (CHQ),,,,,15.0
 2024-11-23,Porvenir - PSM,,,,,21.2
+2024-11-23,Porvenir_H (SAT),,,,,6.4
 2024-11-23,Potosi Los Pinos,,,,,0.4
 2024-11-23,Presa Misicuni (GPRS),,,,,0.1
 2024-11-23,Puerto Rico S.(GPRS),,,,,12.6
@@ -70128,6 +70290,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-23,San Andres,30.0,17.0,,,
 2024-11-23,San Benito,,,,,10.0
 2024-11-23,San Buenaventura_M (GPRS),,,,,24.4
+2024-11-23,San Calixto,17.4,7.8,,,
 2024-11-23,San Jacinto Sud,30.0,17.0,,,
 2024-11-23,San Jacinto_M (GPRS),27.02,16.1,95.9,52.16,
 2024-11-23,San Javier,28.0,28.0,78.2,78.2,
@@ -70153,6 +70316,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-23,Sauce Pilata - SDC (GPRS),19.83,11.98,100.0,62.16,9.3
 2024-11-23,Sella Quebrada,28.0,12.0,,,
 2024-11-23,Sena_H (GPRS),,,,,8.6
+2024-11-23,Sena_H (SAT),,,,,9.4
 2024-11-23,Senkata-D8,,,,,12.9
 2024-11-23,Sopachuy,,,,,7.1
 2024-11-23,Soracachi (Auto),17.4,5.4,92.2,47.2,5.0
@@ -70325,6 +70489,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-24,Paracti,,,,,8.0
 2024-11-24,Parotani,,,,,9.9
 2024-11-24,Pasankeri ,,,,,16.7
+2024-11-24,Peña Amarilla_H (SAT),,,,,1.2
 2024-11-24,Pico de loro_H- SDC (GPRS),,,,,4.2
 2024-11-24,Pocona - SDC (GPRS),14.97,14.97,86.3,86.3,13.6
 2024-11-24,Pojo - SDC (GPRS),18.47,18.47,80.8,80.8,0.2
@@ -70538,11 +70703,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-25,Paracti,,,,,9.0
 2024-11-25,Parotani,29.0,14.0,,,
 2024-11-25,Pasankeri ,,,,,0.1
+2024-11-25,Peña Amarilla_H (SAT),,,,,0.2
 2024-11-25,Pico de loro_H- SDC (GPRS),,,,,1.3
 2024-11-25,Pocona - SDC (GPRS),17.61,17.61,73.84,73.84,
 2024-11-25,Pojo - SDC (GPRS),,,,,0.1
 2024-11-25,Porco,25.0,9.0,,,
 2024-11-25,Porvenir - PSM,,,,,2.0
+2024-11-25,Porvenir_H (SAT),,,,,1.0
 2024-11-25,Potosi Los Pinos,20.0,6.0,,,
 2024-11-25,Potosí,22.0,10.0,70.6,26.0,
 2024-11-25,Presa Misicuni (GPRS),,,,,1.5
@@ -70589,6 +70756,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-25,Saykan Perulas,,,,,15.6
 2024-11-25,Sella Quebrada,28.5,14.0,,,
 2024-11-25,Sena_H (GPRS),,,,,11.8
+2024-11-25,Sena_H (SAT),,,,,13.0
 2024-11-25,Sopachuy,31.5,17.5,,,
 2024-11-25,Soracachi (Auto),19.2,6.7,93.9,41.6,
 2024-11-25,Sorata,26.0,12.0,,,6.1
@@ -70777,6 +70945,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-26,San Andres,29.0,17.0,,,16.3
 2024-11-26,San Benito,25.0,14.0,,,
 2024-11-26,San Buenaventura_M (GPRS),35.26,26.42,93.36,55.72,
+2024-11-26,San Calixto,20.0,9.2,,,
 2024-11-26,San Jacinto Sud,31.0,14.5,,,9.5
 2024-11-26,San Jacinto_M (GPRS),28.43,16.86,96.3,52.98,
 2024-11-26,San Javier,24.0,24.0,93.3,93.3,
@@ -71646,12 +71815,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-30,Pananti,,,,,3.0
 2024-11-30,Paracti,,,,,17.0
 2024-11-30,Parotani,29.0,9.0,,,
+2024-11-30,Peña Amarilla_H (SAT),,,,,0.4
 2024-11-30,Pico de loro_H- SDC (GPRS),,,,,5.5
 2024-11-30,Pinos Sud,,,,,10.2
 2024-11-30,Pocona - SDC (GPRS),18.46,18.46,63.85,63.85,0.1
 2024-11-30,Pojo - SDC (GPRS),20.42,20.42,65.84,65.84,0.1
 2024-11-30,Porco,19.0,7.0,,,11.0
 2024-11-30,Poroma (CHQ),,,,,2.0
+2024-11-30,Porvenir_H (SAT),,,,,0.2
 2024-11-30,Potosi Los Pinos,,,,,5.0
 2024-11-30,Presa Misicuni (GPRS),14.74,9.14,94.1,59.67,
 2024-11-30,Puente Sucre,,,,,3.0
@@ -71671,6 +71842,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-30,San Andres,29.0,16.0,,,3.5
 2024-11-30,San Benito,26.0,13.0,,,
 2024-11-30,San Buenaventura_M (GPRS),36.23,25.19,92.6,48.98,
+2024-11-30,San Calixto,19.6,8.2,,,
 2024-11-30,San Jacinto Sud,30.0,18.0,,,2.5
 2024-11-30,San Jacinto_M (GPRS),27.59,15.12,96.3,46.67,
 2024-11-30,San Javier,34.0,34.0,59.0,59.0,
@@ -71972,6 +72144,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-02, Paniagua_M (GPRS),,,,,1.9
 2024-12-02,4 Esquinas (GPRS),12.23,12.23,,,
 2024-12-02,Abapo,,,,,7.4
+2024-12-02,Abapo_H (SAT),,,,,7.4
 2024-12-02,Acasio,30.0,12.0,,,
 2024-12-02,Achiri,22.0,3.0,,,
 2024-12-02,Aguadas (GPRS),11.11,11.11,71.14,71.14,
@@ -72110,6 +72283,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-02,San Andres,27.0,18.0,,,
 2024-12-02,San Benito,27.0,13.0,,,
 2024-12-02,San Buenaventura_M (GPRS),36.33,26.19,91.76,50.1,
+2024-12-02,San Calixto,21.8,7.8,,,
 2024-12-02,San Jacinto Sud,28.0,18.0,,,
 2024-12-02,San Jacinto_M (GPRS),24.6,11.5,94.7,55.35,
 2024-12-02,San Jose de Chiquitos,34.0,26.0,88.0,52.3,
@@ -72181,6 +72355,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-03, Paniagua_M (GPRS),,,,,56.6
 2024-12-03,4 Esquinas (GPRS),6.9,6.9,,,14.3
 2024-12-03,Abapo,,,,,6.2
+2024-12-03,Abapo_H (SAT),,,,,1.6
 2024-12-03,Acasio,21.0,11.1,,,
 2024-12-03,Achiri,21.0,3.0,,,
 2024-12-03,Achocalla,,,,,19.5
@@ -72538,6 +72713,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-04,Parotani,31.0,13.0,,,
 2024-12-04,Pasankeri ,,,,,0.6
 2024-12-04,Patacamaya (GPRS),20.87,5.49,64.73,18.5,
+2024-12-04,Peña Amarilla_H (SAT),,,,,5.4
 2024-12-04,Pocona - SDC (GPRS),14.22,14.22,86.2,86.2,
 2024-12-04,Pojo - SDC (GPRS),16.2,16.2,84.1,84.1,
 2024-12-04,Porco,24.0,6.0,,,
@@ -72569,6 +72745,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-04,San Andres,26.0,14.0,,,
 2024-12-04,San Benito,28.0,98.0,,,
 2024-12-04,San Buenaventura_M (GPRS),,,,,36.5
+2024-12-04,San Calixto,20.2,8.6,,,
 2024-12-04,San Jacinto Sud,29.0,13.0,,,
 2024-12-04,San Jacinto_M (GPRS),24.62,14.06,91.3,46.29,
 2024-12-04,San Jose de Chiquitos,27.0,21.0,87.5,69.1,
@@ -72650,6 +72827,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-05,Cabaña Forestal Oruro,,,,,0.6
 2024-12-05,Caiza D,28.0,9.0,,,
 2024-12-05,Camata,28.0,17.0,,,
+2024-12-05,Camiaco_H (SAT),,,,,0.6
 2024-12-05,Camiri,22.0,22.0,77.4,77.4,
 2024-12-05,Campanario,22.5,5.5,,,
 2024-12-05,Capinota,31.0,15.5,,,
@@ -72724,6 +72902,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-05,Pojo - SDC (GPRS),17.81,17.81,72.04,72.04,
 2024-12-05,Porco,19.0,8.0,,,
 2024-12-05,Porvenir - PSM,,,,,7.8
+2024-12-05,Porvenir_H (SAT),,,,,2.2
 2024-12-05,Potosi Los Pinos,22.3,6.0,,,
 2024-12-05,Potosí,21.0,11.0,61.6,24.5,
 2024-12-05,Presa Misicuni (GPRS),15.53,6.95,96.1,51.16,
@@ -72744,6 +72923,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-05,Samasa,26.2,5.2,,,
 2024-12-05,San Andres,28.0,16.0,,,
 2024-12-05,San Benito,28.0,10.0,,,
+2024-12-05,San Calixto,17.6,9.2,,,
 2024-12-05,San Jacinto Sud,31.5,14.0,,,
 2024-12-05,San Jacinto_M (GPRS),28.45,13.65,95.9,45.18,
 2024-12-05,San Jose de Chiquitos,32.0,24.0,82.8,55.1,
@@ -72825,6 +73005,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-06,Caiza D,30.0,8.2,,,
 2024-12-06,Camargo_M (GPRS),34.32,19.45,59.66,11.99,
 2024-12-06,Camata,30.0,16.5,,,0.9
+2024-12-06,Camiaco_H (SAT),,,,,0.2
 2024-12-06,Camiri,24.0,24.0,73.0,73.0,
 2024-12-06,Campamento 2 - Suñasivi,,,,,8.9
 2024-12-06,Campanario,24.0,4.5,,,
@@ -72914,6 +73095,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-06,Pojo - SDC (GPRS),20.66,20.66,61.58,61.58,
 2024-12-06,Porco,27.0,8.0,,,
 2024-12-06,Porvenir - PSM,,,,,4.8
+2024-12-06,Porvenir_H (SAT),,,,,2.0
 2024-12-06,Potosi Los Pinos,21.0,7.1,,,
 2024-12-06,Potosí,22.0,12.0,53.7,26.3,
 2024-12-06,Presa Misicuni (GPRS),17.03,9.36,93.5,52.41,
@@ -72958,6 +73140,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-06,Sauce Pilapata - SDC (GPRS),17.79,17.79,60.07,60.07,
 2024-12-06,Sauce Pilata - SDC (GPRS),17.79,17.79,60.07,60.07,
 2024-12-06,Sella Quebrada,29.0,12.0,,,
+2024-12-06,Sena_H (SAT),,,,,0.4
 2024-12-06,Sopachuy,23.5,14.5,,,
 2024-12-06,Soracachi (GPRS),19.31,10.53,,,
 2024-12-06,Sorata,,,,,12.4
@@ -73005,6 +73188,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-06,Ñoquejza,21.1,5.1,,,
 2024-12-07, Paniagua_M (GPRS),,,,,46.5
 2024-12-07,4 Esquinas (GPRS),9.41,9.41,,,3.2
+2024-12-07,Abapo_H (SAT),,,,,0.6
 2024-12-07,Acasio,,,,,2.1
 2024-12-07,Achiri,,,,,0.4
 2024-12-07,Aguadas (GPRS),9.42,9.42,81.7,81.7,1.8
@@ -73025,6 +73209,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-07,Camargo_H (GPRS),,,,,2.2
 2024-12-07,Camargo_M (GPRS),,,,,2.1
 2024-12-07,Camata,28.0,18.0,,,
+2024-12-07,Camiaco_H (SAT),,,,,36.6
 2024-12-07,Camiri,25.0,25.0,77.8,77.8,
 2024-12-07,Campamento Villa Tunari,,,,,2.2
 2024-12-07,Campanario,25.0,2.0,,,
@@ -73144,6 +73329,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-07,San Andres,29.0,20.0,,,
 2024-12-07,San Benito,,,,,1.5
 2024-12-07,San Buenaventura_M (GPRS),,,,,1.1
+2024-12-07,San Calixto,17.8,10.0,,,
 2024-12-07,San Jacinto Sud,31.0,17.5,,,
 2024-12-07,San Jacinto_M (GPRS),26.36,21.63,70.85,45.69,
 2024-12-07,San Juan de Yapacaní,,,,,14.6
@@ -73167,6 +73353,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-07,Sauce Pilata - SDC (GPRS),17.84,11.09,99.2,58.36,0.9
 2024-12-07,Sella Quebrada,26.0,14.5,,,
 2024-12-07,Sena_H (GPRS),,,,,0.8
+2024-12-07,Sena_H (SAT),,,,,0.6
 2024-12-07,Sopachuy,32.0,12.5,,,
 2024-12-07,Sorata,,,,,9.0
 2024-12-07,Sucre SENAMHI,28.0,15.0,,,
@@ -73211,6 +73398,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-08, Paniagua_M (GPRS),,,,,28.2
 2024-12-08,4 Esquinas (GPRS),12.85,5.05,,,1.3
 2024-12-08,Abapo,,,,,5.2
+2024-12-08,Abapo_H (SAT),,,,,3.0
 2024-12-08,Acasio,28.1,12.1,,,
 2024-12-08,Achiri,,,,,5.2
 2024-12-08,Aguadas (GPRS),14.8,3.99,96.3,59.5,6.5
@@ -73335,6 +73523,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-08,Pojo - SDC (GPRS),24.53,16.8,86.3,58.74,0.6
 2024-12-08,Porco,22.0,8.0,,,
 2024-12-08,Porvenir - PSM,,,,,1.0
+2024-12-08,Porvenir_H (SAT),,,,,0.8
 2024-12-08,Potosi Los Pinos,,,,,3.2
 2024-12-08,Presa Misicuni (GPRS),,,,,2.2
 2024-12-08,Puente Abra_H- SDC (GPRS),,,,,0.3
@@ -73358,6 +73547,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-08,San Andres,,,,,3.6
 2024-12-08,San Benito,,,,,1.0
 2024-12-08,San Buenaventura_M (GPRS),,,,,2.7
+2024-12-08,San Calixto,17.6,7.8,,,
 2024-12-08,San Jacinto Sud,24.0,16.0,,,
 2024-12-08,San Jacinto_M (GPRS),19.72,14.05,93.6,65.56,
 2024-12-08,San Juan de Yapacaní,,,,,73.4
@@ -73428,6 +73618,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-09, Paniagua_M (GPRS),,,,,15.4
 2024-12-09,4 Esquinas (GPRS),8.98,8.98,,,4.7
 2024-12-09,Abapo,,,,,15.5
+2024-12-09,Abapo_H (SAT),,,,,7.2
 2024-12-09,Acasio,29.0,10.0,,,
 2024-12-09,Achiri,,,,,3.7
 2024-12-09,Achocalla,,,,,3.1
@@ -73454,6 +73645,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-09,Calachaka Jahuira,,,,,12.0
 2024-12-09,Camargo_M (GPRS),30.45,19.12,55.05,16.66,
 2024-12-09,Camata,31.0,17.0,,,
+2024-12-09,Camiaco_H (SAT),,,,,15.6
 2024-12-09,Camiri,18.0,18.0,99.1,99.1,
 2024-12-09,Campamento Villa Tunari,,,,,40.0
 2024-12-09,Campanario,24.0,4.0,,,
@@ -73558,6 +73750,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-09,Pojo - SDC (GPRS),27.28,16.93,95.5,42.19,
 2024-12-09,Porco,26.0,8.0,,,
 2024-12-09,Porvenir - PSM,,,,,0.4
+2024-12-09,Porvenir_H (SAT),,,,,0.2
 2024-12-09,Potosi Los Pinos,,,,,0.5
 2024-12-09,Potosí,21.0,11.0,58.2,30.0,
 2024-12-09,Presa Misicuni (GPRS),,,,,0.7
@@ -73658,6 +73851,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-10, Paniagua_M (GPRS),30.73,21.44,97.94,56.87,
 2024-12-10,4 Esquinas (GPRS),6.12,6.12,,,
 2024-12-10,Abapo,,,,,15.4
+2024-12-10,Abapo_H (SAT),,,,,13.2
 2024-12-10,Acasio,26.1,9.1,,,
 2024-12-10,Achiri,22.5,4.0,,,
 2024-12-10,Achumani,,,,,0.3
@@ -73797,6 +73991,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-10,San Andres,,,,,3.0
 2024-12-10,San Benito,,,,,13.0
 2024-12-10,San Buenaventura_M (GPRS),35.29,25.0,99.9,60.28,
+2024-12-10,San Calixto,20.6,8.4,,,
 2024-12-10,San Jacinto Sud,31.0,16.0,,,
 2024-12-10,San Jacinto_M (GPRS),26.3,16.67,82.6,40.17,
 2024-12-10,San Jose de Chiquitos,32.0,26.0,83.0,62.2,
@@ -73997,6 +74192,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-11,San Andres,28.0,15.0,,,
 2024-12-11,San Benito,25.0,9.0,,,
 2024-12-11,San Buenaventura_M (GPRS),,,,,10.9
+2024-12-11,San Calixto,21.0,9.0,,,
 2024-12-11,San Jacinto Sud,32.5,17.0,,,
 2024-12-11,San Jacinto_M (GPRS),28.18,16.23,93.2,51.3,
 2024-12-11,San Jose de Chiquitos,36.0,27.0,82.9,46.8,
@@ -74168,6 +74364,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-12,Pampas de Lequezana,20.5,15.6,,,
 2024-12-12,Paracti,,,,,8.0
 2024-12-12,Parotani,31.0,12.0,,,
+2024-12-12,Peña Amarilla_H (SAT),,,,,18.8
 2024-12-12,Pocona - SDC (GPRS),19.26,19.26,62.62,62.62,
 2024-12-12,Pojo - SDC (GPRS),20.27,20.27,71.7,71.7,
 2024-12-12,Porco,23.0,10.0,,,
@@ -74193,6 +74390,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-12,San Andres,29.0,18.0,,,
 2024-12-12,San Benito,26.0,8.0,,,
 2024-12-12,San Buenaventura_M (GPRS),30.38,25.82,99.92,81.53,
+2024-12-12,San Calixto,16.6,8.2,,,
 2024-12-12,San Jacinto Sud,32.0,16.5,,,
 2024-12-12,San Jacinto_M (GPRS),27.75,20.76,74.22,50.44,
 2024-12-12,San Jose de Chiquitos,32.0,30.0,74.0,62.2,
@@ -74215,6 +74413,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-12,Sauce Pilata - SDC (GPRS),23.97,14.52,78.81,37.53,
 2024-12-12,Sella Quebrada,29.0,15.0,,,
 2024-12-12,Sena_H (GPRS),,,,,16.9
+2024-12-12,Sena_H (SAT),,,,,20.0
 2024-12-12,Sopachuy,31.5,17.5,,,
 2024-12-12,Sorata,,,,,11.3
 2024-12-12,Sucre SENAMHI,26.8,15.5,,,
@@ -74369,11 +74568,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-13,Pananti,,,,,7.8
 2024-12-13,Paracti,,,,,9.5
 2024-12-13,Parotani,29.0,13.0,,,
+2024-12-13,Peña Amarilla_H (SAT),,,,,0.2
 2024-12-13,Pinos Sud,,,,,2.3
 2024-12-13,Pocona - SDC (GPRS),20.39,20.39,52.97,52.97,
 2024-12-13,Pojo - SDC (GPRS),23.31,23.31,53.96,53.96,
 2024-12-13,Porco,27.0,8.0,,,
 2024-12-13,Porvenir - PSM,,,,,17.8
+2024-12-13,Porvenir_H (SAT),,,,,3.4
 2024-12-13,Potolo,,,,,4.0
 2024-12-13,Potosi Los Pinos,19.0,4.0,,,
 2024-12-13,Potosí,20.0,11.0,61.6,32.3,
@@ -74395,6 +74596,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-13,San Andres,,,,,3.5
 2024-12-13,San Benito,30.0,8.0,,,
 2024-12-13,San Buenaventura_M (GPRS),,,,,4.9
+2024-12-13,San Calixto,20.4,7.6,,,
 2024-12-13,San Jacinto Sud,31.5,17.0,,,
 2024-12-13,San Jacinto_M (GPRS),27.94,14.05,97.0,45.63,
 2024-12-13,San Jose de Chiquitos,36.0,25.0,93.3,46.8,
@@ -74416,6 +74618,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-13,Sauce Pilata - SDC (GPRS),25.14,10.93,100.0,38.98,
 2024-12-13,Sella Quebrada,28.0,15.0,,,
 2024-12-13,Sena_H (GPRS),,,,,0.3
+2024-12-13,Sena_H (SAT),,,,,0.4
 2024-12-13,Sopachuy,31.5,16.5,,,
 2024-12-13,Sucre SENAMHI,,,,,0.6
 2024-12-13,Sultaca_M (GPRS),21.91,8.23,99.73,20.4,
@@ -74605,6 +74808,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-14,San Andres,,,,,4.8
 2024-12-14,San Benito,25.0,13.0,,,
 2024-12-14,San Buenaventura_M (GPRS),32.09,24.21,99.9,63.65,
+2024-12-14,San Calixto,20.2,8.8,,,
 2024-12-14,San Jacinto Sud,27.0,14.0,,,0.5
 2024-12-14,San Jacinto_M (GPRS),21.61,13.23,95.1,61.69,
 2024-12-14,San Juan de Yapacaní,,,,,33.8
@@ -74794,6 +74998,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-15,San Andres,,,,,1.5
 2024-12-15,San Benito,25.0,12.0,,,
 2024-12-15,San Buenaventura_M (GPRS),,,,,35.1
+2024-12-15,San Calixto,20.8,8.4,,,
 2024-12-15,San Jacinto Sud,30.0,14.0,,,
 2024-12-15,San Jacinto_M (GPRS),24.93,15.72,83.8,30.85,
 2024-12-15,San Julian - Comunidad Los Angeles (GPRS),29.42,29.42,63.01,63.01,0.1
@@ -74986,6 +75191,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-16,San Andres,27.0,18.0,,,
 2024-12-16,San Benito,26.0,14.0,,,
 2024-12-16,San Buenaventura_M (GPRS),,,,,0.7
+2024-12-16,San Calixto,20.0,8.0,,,
 2024-12-16,San Jacinto Sud,29.0,14.0,,,
 2024-12-16,San Jacinto_M (GPRS),24.09,14.4,94.2,52.84,
 2024-12-16,San Jose de Chiquitos,35.0,29.0,78.3,49.5,
@@ -75007,6 +75213,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-16,Sauce Pilata - SDC (GPRS),19.48,10.39,94.3,56.89,
 2024-12-16,Sella Quebrada,26.0,13.5,,,
 2024-12-16,Sena_H (GPRS),,,,,0.1
+2024-12-16,Sena_H (SAT),,,,,0.4
 2024-12-16,Sopachuy,24.5,14.0,,,
 2024-12-16,Soracachi (Auto),,,,,0.8
 2024-12-16,Soracachi (GPRS),20.72,10.13,65.73,37.64,
@@ -75073,6 +75280,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-17,Calachaka Jahuira,,,,,1.2
 2024-12-17,Camargo_M (GPRS),31.78,19.29,54.44,17.84,
 2024-12-17,Camata,31.0,16.0,,,
+2024-12-17,Camiaco_H (SAT),,,,,4.0
 2024-12-17,Camiri,24.0,24.0,73.0,73.0,
 2024-12-17,Campanario,,,,,1.6
 2024-12-17,Capinota,31.0,16.0,,,
@@ -75174,6 +75382,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-17,San Andres,28.0,18.0,,,
 2024-12-17,San Benito,27.0,10.0,,,
 2024-12-17,San Buenaventura_M (GPRS),,,,,11.8
+2024-12-17,San Calixto,19.0,7.0,,,
 2024-12-17,San Jacinto Sud,28.0,16.0,,,
 2024-12-17,San Jacinto_M (GPRS),24.17,13.93,93.7,52.41,
 2024-12-17,San Jose de Chiquitos,34.0,28.0,83.0,52.3,
@@ -75358,6 +75567,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-18,San Andres,30.0,19.0,,,
 2024-12-18,San Benito,29.0,8.0,,,
 2024-12-18,San Buenaventura_M (GPRS),,,,,10.2
+2024-12-18,San Calixto,19.2,7.2,,,
 2024-12-18,San Jacinto Sud,34.0,13.5,,,
 2024-12-18,San Jacinto_M (GPRS),30.53,14.3,98.6,44.89,
 2024-12-18,San Jose de Chiquitos,34.0,29.0,78.3,52.3,
@@ -75593,6 +75803,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-19,Saykan Perulas,,,,,6.6
 2024-12-19,Sella Quebrada,18.0,12.5,,,4.5
 2024-12-19,Sena_H (GPRS),,,,,0.4
+2024-12-19,Sena_H (SAT),,,,,0.8
 2024-12-19,Senkata-D8,,,,,1.1
 2024-12-19,Sopachuy,22.5,15.5,,,
 2024-12-19,Sorata,,,,,18.4
@@ -75668,6 +75879,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-20,Calachaka Jahuira,,,,,12.9
 2024-12-20,Camargo_M (GPRS),31.9,14.73,90.33,11.51,
 2024-12-20,Camata,27.0,17.0,,,8.5
+2024-12-20,Camiaco_H (SAT),,,,,4.4
 2024-12-20,Camiri,21.0,21.0,87.6,87.6,
 2024-12-20,Campamento 2 - Suñasivi,,,,,6.5
 2024-12-20,Campamento Villa Tunari,,,,,120.0
@@ -75981,6 +76193,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-21,Pojo - SDC (GPRS),24.65,13.98,95.0,59.17,0.1
 2024-12-21,Porco,23.0,6.0,,,
 2024-12-21,Porvenir - PSM,,,,,0.3
+2024-12-21,Porvenir_H (SAT),,,,,0.2
 2024-12-21,Potosi Los Pinos,20.0,5.8,,,
 2024-12-21,Presa Misicuni (GPRS),,,,,1.3
 2024-12-21,Pucarani,,,,,5.7
@@ -76232,6 +76445,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-22,San Andres,,,,,3.5
 2024-12-22,San Benito,20.0,12.0,,,
 2024-12-22,San Buenaventura_M (GPRS),27.3,23.41,99.91,84.54,
+2024-12-22,San Calixto,17.0,9.4,,,
 2024-12-22,San Jacinto Sud,23.5,16.0,,,4.5
 2024-12-22,San Jacinto_M (GPRS),19.2,12.16,99.9,75.99,0.9
 2024-12-22,San Juan de Yapacaní,,,,,0.4
@@ -76301,6 +76515,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-22,Ñucchu,,,,,31.5
 2024-12-23, Paniagua_M (GPRS),,,,,24.5
 2024-12-23,4 Esquinas (GPRS),7.02,7.02,,,3.0
+2024-12-23,Abapo_H (SAT),,,,,0.2
 2024-12-23,Acasio,,,,,38.5
 2024-12-23,Achiri,,,,,6.7
 2024-12-23,Aguadas (GPRS),9.88,9.88,67.48,67.48,1.8
@@ -76416,6 +76631,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-23,Pojo - SDC (GPRS),19.22,19.22,66.21,66.21,
 2024-12-23,Porco,23.0,8.0,,,
 2024-12-23,Porvenir - PSM,,,,,6.2
+2024-12-23,Porvenir_H (SAT),,,,,2.2
 2024-12-23,Potolo,,,,,4.6
 2024-12-23,Potosi Los Pinos,,,,,5.0
 2024-12-23,Potosí,18.0,9.0,70.4,34.0,
@@ -76439,6 +76655,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-23,San Andres,,,,,2.1
 2024-12-23,San Benito,25.0,12.0,,,
 2024-12-23,San Buenaventura_M (GPRS),,,,,34.6
+2024-12-23,San Calixto,21.4,8.0,,,
 2024-12-23,San Jacinto Sud,29.5,12.5,,,8.3
 2024-12-23,San Jacinto_M (GPRS),27.38,15.51,95.0,44.8,8.3
 2024-12-23,San Javier,26.0,26.0,82.8,82.8,
@@ -76464,6 +76681,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-23,Saykan Perulas,,,,,38.5
 2024-12-23,Sella Quebrada,28.0,11.0,,,8.4
 2024-12-23,Sena_H (GPRS),,,,,0.9
+2024-12-23,Sena_H (SAT),,,,,1.0
 2024-12-23,Sopachuy,26.5,11.0,,,
 2024-12-23,Sucre SENAMHI,22.6,12.0,,,30.4
 2024-12-23,Sultaca_M (GPRS),,,,,3.4
@@ -76641,6 +76859,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-24,San Andres,,,,,3.5
 2024-12-24,San Benito,29.0,9.0,,,
 2024-12-24,San Buenaventura_M (GPRS),33.68,24.8,98.24,59.61,
+2024-12-24,San Calixto,23.0,9.0,,,
 2024-12-24,San Jacinto Sud,29.0,14.5,,,
 2024-12-24,San Jacinto_M (GPRS),26.09,11.57,97.0,55.29,
 2024-12-24,San Jose de Chiquitos,32.0,27.0,88.0,62.2,
@@ -76727,6 +76946,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-25,Caiza D,24.0,9.0,,,
 2024-12-25,Camargo_M (GPRS),24.08,15.02,51.58,25.57,
 2024-12-25,Camata,26.0,17.0,,,
+2024-12-25,Camiaco_H (SAT),,,,,3.8
 2024-12-25,Camiri,19.0,19.0,87.4,87.4,
 2024-12-25,Campamento 2 - Suñasivi,,,,,8.0
 2024-12-25,Campamento Villa Tunari,,,,,12.3
@@ -76813,11 +77033,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-25,Pampas de Lequezana,20.5,11.5,,,
 2024-12-25,Paracti,,,,,20.0
 2024-12-25,Parotani,,,,,17.7
+2024-12-25,Peña Amarilla_H (SAT),,,,,44.4
 2024-12-25,Pinos Sud,,,,,45.4
 2024-12-25,Pocona - SDC (GPRS),12.42,12.42,63.99,63.99,2.5
 2024-12-25,Pojo - SDC (GPRS),15.16,15.16,66.7,66.7,
 2024-12-25,Porco,19.0,7.0,,,2.0
 2024-12-25,Porvenir - PSM,,,,,0.4
+2024-12-25,Porvenir_H (SAT),,,,,0.6
 2024-12-25,Potosi Los Pinos,,,,,0.5
 2024-12-25,Potosí,14.0,11.0,66.1,43.9,
 2024-12-25,Presa Misicuni (GPRS),,,,,4.7
@@ -76838,6 +77060,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-25,San Andres,,,,,4.1
 2024-12-25,San Benito,22.0,13.0,,,
 2024-12-25,San Buenaventura_M (GPRS),,,,,15.8
+2024-12-25,San Calixto,21.6,9.2,,,
 2024-12-25,San Jacinto Sud,24.0,12.0,,,1.0
 2024-12-25,San Jacinto_M (GPRS),20.35,14.04,65.52,47.04,
 2024-12-25,San Julian,,,,,10.0
@@ -77027,6 +77250,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-26,San Andres,,,,,2.0
 2024-12-26,San Benito,25.0,5.0,,,
 2024-12-26,San Buenaventura_M (GPRS),,,,,14.0
+2024-12-26,San Calixto,22.6,7.6,,,
 2024-12-26,San Jacinto Sud,27.5,9.0,,,
 2024-12-26,San Jacinto_M (GPRS),23.24,10.63,96.7,44.85,
 2024-12-26,San Javier,28.0,28.0,47.7,47.7,
@@ -77209,6 +77433,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-27,San Andres,,,,,3.4
 2024-12-27,San Benito,28.0,7.0,,,
 2024-12-27,San Buenaventura_M (GPRS),34.32,23.09,93.92,42.15,
+2024-12-27,San Calixto,21.2,7.8,,,
 2024-12-27,San Jacinto Sud,29.0,10.0,,,
 2024-12-27,San Jacinto_M (GPRS),25.4,15.03,83.3,39.2,
 2024-12-27,San Jose de Chiquitos,33.0,24.0,82.6,52.0,
@@ -77381,6 +77606,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-28,San Andres,29.0,13.0,,,
 2024-12-28,San Benito,27.0,10.0,,,
 2024-12-28,San Buenaventura_M (GPRS),35.75,25.18,89.4,45.57,
+2024-12-28,San Calixto,18.2,8.0,,,
 2024-12-28,San Jacinto Sud,27.0,12.0,,,
 2024-12-28,San Jacinto_M (GPRS),23.44,11.76,95.1,42.7,
 2024-12-28,San Julian - Comunidad Los Angeles (GPRS),28.12,28.12,59.75,59.75,0.2
@@ -77563,6 +77789,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-29,San Andres,32.0,14.0,,,
 2024-12-29,San Benito,23.0,12.0,,,
 2024-12-29,San Buenaventura_M (GPRS),35.05,25.02,91.45,46.38,
+2024-12-29,San Calixto,19.4,8.2,,,
 2024-12-29,San Jacinto Sud,31.0,11.0,,,
 2024-12-29,San Jacinto_M (GPRS),26.68,17.55,70.55,36.89,
 2024-12-29,San Julian - Comunidad Los Angeles (GPRS),28.96,28.96,56.62,56.62,0.1
@@ -77740,6 +77967,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-30,San Andres,29.0,15.0,,,
 2024-12-30,San Benito,28.0,11.0,,,
 2024-12-30,San Buenaventura_M (GPRS),36.66,24.49,86.52,33.47,
+2024-12-30,San Calixto,20.2,7.2,,,
 2024-12-30,San Jacinto Sud,30.0,13.5,,,
 2024-12-30,San Jacinto_M (GPRS),25.84,14.99,98.9,48.9,
 2024-12-30,San Jose de Chiquitos,35.0,30.0,65.8,49.5,
@@ -77922,6 +78150,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-31,San Andres,30.0,16.0,,,
 2024-12-31,San Benito,28.0,10.0,,,
 2024-12-31,San Buenaventura_M (GPRS),36.17,25.13,99.9,50.68,
+2024-12-31,San Calixto,21.8,7.8,,,
 2024-12-31,San Jacinto Sud,31.0,16.0,,,2.5
 2024-12-31,San Jacinto_M (GPRS),27.75,13.87,99.7,48.98,
 2024-12-31,San Javier,30.0,30.0,65.6,65.6,
