@@ -59119,6 +59119,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-01,Ixiamas S.(GPRS),36.2,25.2,81.5,39.5,
 2024-10-01,Ixiamas_M (GPRS),-3.56,-30.24,89.51,37.11,
 2024-10-01,Jesús de Machaca_M (GPRS),16.75,5.02,25.53,15.09,
+2024-10-01,La Asunta,32.0,19.0,,,
 2024-10-01,La Barranca  (Chuquisaca),29.5,8.0,,,
 2024-10-01,La Merced,35.0,17.0,,,
 2024-10-01,La Torre,35.0,17.0,,,
@@ -59309,6 +59310,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-02,Ixiamas S.(GPRS),37.0,26.0,81.0,41.0,
 2024-10-02,Ixiamas_M (GPRS),5.84,-24.65,92.93,38.05,
 2024-10-02,Jesús de Machaca_M (GPRS),16.49,6.6,34.65,18.01,
+2024-10-02,La Asunta,30.0,18.0,,,
 2024-10-02,La Barranca  (Chuquisaca),25.5,12.5,,,
 2024-10-02,La Merced,28.0,17.0,,,
 2024-10-02,La Torre,32.0,16.0,,,
@@ -59710,6 +59712,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-04,Ixiamas S.(GPRS),34.8,22.8,75.8,28.5,
 2024-10-04,Ixiamas_M (GPRS),-10.66,-30.09,90.41,27.69,
 2024-10-04,Jesús de Machaca_M (GPRS),16.54,6.39,65.87,37.92,
+2024-10-04,La Asunta,29.5,21.0,,,
 2024-10-04,La Asunta_H (GPRS),,,,,0.2
 2024-10-04,La Barranca  (Chuquisaca),25.0,6.5,,,
 2024-10-04,La Merced,33.0,11.0,,,
@@ -59902,6 +59905,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-05,Ixiamas S.(GPRS),37.9,24.3,84.4,33.4,
 2024-10-05,Ixiamas_M (GPRS),-9.95,-32.89,95.47,33.28,
 2024-10-05,Jesús de Machaca_M (GPRS),16.5,5.95,58.93,33.06,
+2024-10-05,La Asunta,34.0,20.0,,,
 2024-10-05,La Barranca  (Chuquisaca),27.5,8.5,,,
 2024-10-05,La Merced,33.0,13.0,,,
 2024-10-05,La Torre,33.0,15.0,,,
@@ -60086,6 +60090,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-06,Ixiamas S.(GPRS),38.5,25.0,84.4,32.0,
 2024-10-06,Ixiamas_M (GPRS),-11.92,-33.38,95.95,34.72,
 2024-10-06,Jesús de Machaca_M (GPRS),14.22,5.88,60.13,26.99,
+2024-10-06,La Asunta,32.0,20.0,,,
 2024-10-06,La Merced,34.0,16.0,,,
 2024-10-06,La Torre,32.0,15.0,,,
 2024-10-06,La Violeta,26.0,13.0,,,
@@ -60270,6 +60275,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-07,Ixiamas_M (GPRS),-6.25,-33.28,90.47,37.17,
 2024-10-07,Jesús de Machaca_M (GPRS),15.45,6.33,61.27,36.45,
 2024-10-07,Jihuacuta,,,,,0.3
+2024-10-07,La Asunta,37.0,20.0,,,
 2024-10-07,La Barranca  (Chuquisaca),27.0,9.0,,,
 2024-10-07,La Merced,36.0,18.0,,,
 2024-10-07,La Torre,32.0,14.0,,,
@@ -60471,6 +60477,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-08,Jihuacuta,,,,,2.4
 2024-10-08,Juntas,,,,,31.0
 2024-10-08,Korila,,,,,4.6
+2024-10-08,La Asunta,36.0,20.5,,,
 2024-10-08,La Barranca  (Chuquisaca),24.0,10.0,,,
 2024-10-08,La Merced,23.0,18.0,,,
 2024-10-08,La Torre,29.0,11.0,,,
@@ -60690,6 +60697,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-09,Jesús de Machaca_M (GPRS),14.01,2.89,98.5,42.37,6.1
 2024-10-09,Jihuacuta,,,,,0.1
 2024-10-09,Korila,,,,,7.1
+2024-10-09,La Asunta,35.0,18.0,,,
 2024-10-09,La Asunta_H (GPRS),,,,,12.5
 2024-10-09,La Barranca  (Chuquisaca),,,,,5.5
 2024-10-09,La Merced,23.0,15.0,,,51.5
@@ -60912,6 +60920,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-10,Ixiamas S.(GPRS),,,,,1.0
 2024-10-10,Ixiamas_M (GPRS),,,,,2.1
 2024-10-10,Jesús de Machaca_M (GPRS),14.02,3.08,45.71,17.94,0.1
+2024-10-10,La Asunta,34.0,20.0,,,
 2024-10-10,La Asunta_H (GPRS),,,,,2.4
 2024-10-10,La Barranca  (Chuquisaca),25.0,7.0,,,
 2024-10-10,La Merced,26.0,15.0,,,
@@ -61125,6 +61134,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-11,Ixiamas S.(GPRS),36.4,26.4,77.9,39.7,
 2024-10-11,Ixiamas_M (GPRS),-13.46,-36.66,80.38,39.85,
 2024-10-11,Jesús de Machaca_M (GPRS),16.43,1.84,23.0,6.18,
+2024-10-11,La Asunta,35.0,21.0,,,
 2024-10-11,La Barranca  (Chuquisaca),24.0,7.0,,,
 2024-10-11,La Merced,31.0,11.0,,,
 2024-10-11,La Torre,30.0,10.0,,,
@@ -61332,6 +61342,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-12,Jesús de Machaca_M (GPRS),16.83,3.56,56.69,25.44,
 2024-10-12,Juntas,,,,,0.2
 2024-10-12,Korila,,,,,3.2
+2024-10-12,La Asunta,30.0,20.0,,,
 2024-10-12,La Asunta_H (GPRS),,,,,10.7
 2024-10-12,La Barranca  (Chuquisaca),25.0,8.5,,,
 2024-10-12,La Merced,30.0,12.0,,,
@@ -61520,6 +61531,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-13,Ixiamas S.(GPRS),38.1,26.7,77.9,28.9,
 2024-10-13,Ixiamas_M (GPRS),-5.75,-36.37,83.14,29.53,
 2024-10-13,Jesús de Machaca_M (GPRS),15.65,4.76,71.07,35.99,0.7
+2024-10-13,La Asunta,33.0,20.0,,,
 2024-10-13,La Merced,33.0,12.0,,,
 2024-10-13,La Torre,32.0,10.0,,,
 2024-10-13,La Violeta,24.0,15.0,,,
@@ -61702,6 +61714,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-14,Jesús de Machaca_M (GPRS),15.59,6.4,71.61,37.36,0.5
 2024-10-14,Juntas,,,,,15.4
 2024-10-14,Korila,,,,,0.1
+2024-10-14,La Asunta,36.0,18.5,,,
 2024-10-14,La Asunta_H (GPRS),,,,,0.1
 2024-10-14,La Barranca  (Chuquisaca),25.5,10.0,,,
 2024-10-14,La Merced,33.0,16.0,,,2.0
@@ -61901,6 +61914,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-15,Ixiamas_M (GPRS),-4.74,-34.28,78.84,32.79,
 2024-10-15,Jesús de Machaca_M (GPRS),17.28,6.4,77.61,29.55,2.2
 2024-10-15,Korila,,,,,3.3
+2024-10-15,La Asunta,35.0,20.0,,,
 2024-10-15,La Barranca  (Chuquisaca),27.0,9.0,,,
 2024-10-15,La Chimba,,,,,0.4
 2024-10-15,La Merced,33.0,15.0,,,4.0
@@ -62108,6 +62122,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-16,Ixiamas_M (GPRS),-6.82,-29.26,79.1,36.31,
 2024-10-16,Jesús de Machaca_M (GPRS),18.33,-5.85,79.38,26.36,
 2024-10-16,Korila,,,,,3.9
+2024-10-16,La Asunta,34.0,19.0,,,
 2024-10-16,La Barranca  (Chuquisaca),,,,,2.5
 2024-10-16,La Chimba,,,,,5.2
 2024-10-16,La Merced,34.0,15.0,,,1.5
@@ -62341,6 +62356,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-17,Ixiamas_M (GPRS),,,,,9.1
 2024-10-17,Jesús de Machaca_M (GPRS),19.95,-6.3,58.63,6.23,
 2024-10-17,Jihuacuta,,,,,0.2
+2024-10-17,La Asunta,33.0,20.0,,,
 2024-10-17,La Asunta_H (GPRS),,,,,3.3
 2024-10-17,La Barranca  (Chuquisaca),26.0,7.0,,,
 2024-10-17,La Chimba,,,,,2.8
@@ -62555,6 +62571,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-18,Jihuacuta,,,,,0.3
 2024-10-18,Juntas,,,,,2.0
 2024-10-18,Korila,,,,,0.2
+2024-10-18,La Asunta,30.0,21.0,,,
 2024-10-18,La Barranca  (Chuquisaca),23.0,8.5,,,
 2024-10-18,La Merced,30.0,18.0,,,
 2024-10-18,La Torre,30.0,13.0,,,
@@ -62768,6 +62785,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-19,Ixiamas_M (GPRS),,,,,8.7
 2024-10-19,Jesús de Machaca_M (GPRS),20.41,-3.5,63.21,4.86,
 2024-10-19,Jihuacuta,,,,,0.1
+2024-10-19,La Asunta,34.5,22.0,,,
 2024-10-19,La Barranca  (Chuquisaca),24.0,6.0,,,
 2024-10-19,La Merced,30.0,17.0,,,
 2024-10-19,La Torre,,,,,7.0
@@ -62969,6 +62987,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-20,Ixiamas_M (GPRS),,,,,23.4
 2024-10-20,Jesús de Machaca_M (GPRS),21.38,-3.64,52.68,13.66,
 2024-10-20,Korila,,,,,0.5
+2024-10-20,La Asunta,34.0,21.0,,,
 2024-10-20,La Merced,32.0,15.0,,,
 2024-10-20,La Torre,33.0,13.0,,,
 2024-10-20,La Violeta,26.0,13.0,,,
@@ -63157,6 +63176,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-21,Ixiamas S.(GPRS),34.9,24.5,91.2,48.0,
 2024-10-21,Ixiamas_M (GPRS),-3.46,-28.56,95.91,46.89,
 2024-10-21,Jesús de Machaca_M (GPRS),22.62,-2.33,80.0,8.78,
+2024-10-21,La Asunta,34.0,21.0,,,
 2024-10-21,La Barranca  (Chuquisaca),27.5,7.0,,,
 2024-10-21,La Merced,34.0,16.0,,,
 2024-10-21,La Torre,31.0,14.0,,,
@@ -63349,6 +63369,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-22,Ixiamas_M (GPRS),-8.21,-27.02,99.62,80.56,
 2024-10-22,Jesús de Machaca_M (GPRS),18.85,3.34,77.06,28.26,
 2024-10-22,Juntas,,,,,23.8
+2024-10-22,La Asunta,33.0,21.5,,,
 2024-10-22,La Asunta_H (GPRS),,,,,0.2
 2024-10-22,La Barranca  (Chuquisaca),24.0,11.0,,,
 2024-10-22,La Merced,34.0,20.0,,,
@@ -63551,6 +63572,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-23,Ixiamas S.(GPRS),,,,,0.6
 2024-10-23,Ixiamas_M (GPRS),,,,,6.5
 2024-10-23,Jesús de Machaca_M (GPRS),21.84,-4.16,46.33,12.43,
+2024-10-23,La Asunta,35.0,19.0,,,
 2024-10-23,La Barranca  (Chuquisaca),24.0,11.5,,,
 2024-10-23,La Merced,36.0,16.0,,,1.0
 2024-10-23,La Torre,33.0,17.1,,,
@@ -63752,6 +63774,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-24,Ixiamas_M (GPRS),4.96,-31.29,91.04,45.38,
 2024-10-24,Jesús de Machaca_M (GPRS),22.24,-0.32,86.4,7.28,
 2024-10-24,Jihuacuta,,,,,0.2
+2024-10-24,La Asunta,34.0,20.0,,,
 2024-10-24,La Barranca  (Chuquisaca),,,,,2.0
 2024-10-24,La Merced,30.0,16.0,,,
 2024-10-24,La Torre,32.0,16.6,,,
@@ -63951,6 +63974,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-25,Jesús de Machaca_M (GPRS),21.78,5.48,67.9,10.01,
 2024-10-25,Jihuacuta,,,,,2.1
 2024-10-25,Korila,,,,,0.8
+2024-10-25,La Asunta,34.0,20.0,,,
 2024-10-25,La Barranca  (Chuquisaca),26.5,7.5,,,
 2024-10-25,La Merced,15.0,13.0,,,14.0
 2024-10-25,La Torre,34.0,15.2,,,
@@ -64394,6 +64418,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-27,Jesús de Machaca_M (GPRS),20.65,-1.23,91.1,18.86,0.3
 2024-10-27,Jihuacuta,,,,,0.2
 2024-10-27,Korila,,,,,3.5
+2024-10-27,La Asunta,30.5,20.0,,,
 2024-10-27,La Asunta_H (GPRS),,,,,4.3
 2024-10-27,La Merced,30.0,16.0,,,
 2024-10-27,La Torre,31.0,15.0,,,
@@ -64604,6 +64629,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-28,Ixiamas_M (GPRS),-1.59,-28.91,94.11,41.09,
 2024-10-28,Jesús de Machaca_M (GPRS),21.12,4.57,88.7,28.0,
 2024-10-28,Korila,,,,,2.2
+2024-10-28,La Asunta,32.0,20.0,,,
 2024-10-28,La Barranca  (Chuquisaca),23.0,8.5,,,
 2024-10-28,La Chimba,,,,,11.1
 2024-10-28,La Merced,30.0,15.0,,,
@@ -64802,6 +64828,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-29,Ixiamas_M (GPRS),7.1,-27.55,99.56,48.75,
 2024-10-29,Jesús de Machaca_M (GPRS),18.6,1.97,98.7,27.61,
 2024-10-29,Korila,,,,,2.4
+2024-10-29,La Asunta,34.0,21.0,,,
 2024-10-29,La Asunta_H (GPRS),,,,,0.1
 2024-10-29,La Barranca  (Chuquisaca),21.5,10.0,,,
 2024-10-29,La Merced,33.0,18.0,,,
@@ -65013,6 +65040,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-30,Ixiamas_M (GPRS),-8.15,-32.31,95.77,40.64,
 2024-10-30,Jesús de Machaca_M (GPRS),19.17,0.86,98.7,31.13,3.3
 2024-10-30,Korila,,,,,3.8
+2024-10-30,La Asunta,33.0,20.0,,,
 2024-10-30,La Barranca  (Chuquisaca),23.0,11.5,,,
 2024-10-30,La Chimba,,,,,2.4
 2024-10-30,La Merced,33.0,18.0,,,1.8
@@ -65450,6 +65478,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-01,Jesús de Machaca_M (GPRS),19.82,-5.07,65.94,5.12,
 2024-11-01,Juntas,,,,,16.0
 2024-11-01,Korila,,,,,2.6
+2024-11-01,La Asunta,29.0,21.0,,,
 2024-11-01,La Barranca  (Chuquisaca),23.0,9.0,,,
 2024-11-01,La Chimba,,,,,3.1
 2024-11-01,La Merced,38.0,15.0,,,8.0
@@ -65667,6 +65696,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-02,Ixiamas S.(GPRS),35.2,25.5,96.5,49.1,
 2024-11-02,Ixiamas_M (GPRS),,,,,0.4
 2024-11-02,Jesús de Machaca_M (GPRS),21.18,0.67,78.89,6.55,
+2024-11-02,La Asunta,30.0,20.0,,,
 2024-11-02,La Merced,33.0,16.0,,,
 2024-11-02,La Torre,30.4,14.6,,,
 2024-11-02,La Violeta,28.0,12.0,,,
@@ -65864,6 +65894,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-03,Ixiamas_M (GPRS),-2.63,-28.48,89.73,43.07,
 2024-11-03,Jesús de Machaca_M (GPRS),18.84,-2.57,71.64,21.67,
 2024-11-03,Juntas,,,,,36.5
+2024-11-03,La Asunta,29.0,19.0,,,
 2024-11-03,La Merced,30.0,16.0,,,
 2024-11-03,La Torre,33.2,16.0,,,
 2024-11-03,La Violeta,25.0,14.0,,,
@@ -66265,6 +66296,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-05,Jesús de Machaca_M (GPRS),10.76,10.76,43.99,43.99,
 2024-11-05,Juntas,,,,,9.0
 2024-11-05,Korila,,,,,1.2
+2024-11-05,La Asunta,32.0,20.5,,,
 2024-11-05,La Asunta_H (GPRS),,,,,9.0
 2024-11-05,La Barranca  (Chuquisaca),24.0,7.0,,,41.5
 2024-11-05,La Merced,28.0,18.0,,,23.5
@@ -67153,6 +67185,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-09,Ixiamas S.(GPRS),,,,,0.6
 2024-11-09,Ixiamas_M (GPRS),,,,,4.6
 2024-11-09,Jesús de Machaca_M (GPRS),19.22,-1.1,81.7,23.27,
+2024-11-09,La Asunta,31.0,20.0,,,
 2024-11-09,La Barranca  (Chuquisaca),23.0,9.0,,,8.0
 2024-11-09,La Merced,30.0,18.0,,,
 2024-11-09,La Torre,,,,,10.0
@@ -67348,6 +67381,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-10,Jesús de Machaca_M (GPRS),20.98,1.18,57.84,17.37,
 2024-11-10,Juntas,,,,,16.2
 2024-11-10,Korila,,,,,0.1
+2024-11-10,La Asunta,32.0,19.0,,,
 2024-11-10,La Merced,33.0,18.0,,,
 2024-11-10,La Torre,34.0,15.0,,,
 2024-11-10,La Violeta,28.0,13.0,,,
@@ -67535,6 +67569,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-11,Ixiamas_M (GPRS),-3.47,-30.19,97.43,47.81,
 2024-11-11,Jesús de Machaca_M (GPRS),22.04,4.66,71.55,11.51,
 2024-11-11,Korila,,,,,1.7
+2024-11-11,La Asunta,33.0,21.0,,,
 2024-11-11,La Barranca  (Chuquisaca),27.0,8.5,,,
 2024-11-11,La Merced,32.0,16.0,,,
 2024-11-11,La Torre,30.0,15.0,,,
@@ -67961,6 +67996,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-13,Ixiamas_M (GPRS),,,,,33.2
 2024-11-13,Jesús de Machaca_M (GPRS),17.68,2.87,97.0,41.02,0.7
 2024-11-13,Korila,,,,,6.7
+2024-11-13,La Asunta,34.0,21.0,,,
 2024-11-13,La Asunta_H (GPRS),,,,,1.7
 2024-11-13,La Barranca  (Chuquisaca),22.5,8.0,,,
 2024-11-13,La Merced,28.0,19.0,,,
@@ -68168,6 +68204,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-14,Ixiamas_M (GPRS),-3.83,-28.64,94.15,41.36,
 2024-11-14,Jesús de Machaca_M (GPRS),8.09,8.09,87.8,87.8,3.3
 2024-11-14,Korila,,,,,5.1
+2024-11-14,La Asunta,32.0,19.0,,,
 2024-11-14,La Barranca  (Chuquisaca),22.0,9.0,,,
 2024-11-14,La Merced,29.0,9.0,,,
 2024-11-14,La Torre,29.0,12.0,,,
@@ -68364,6 +68401,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-15,Jihuacuta,,,,,1.3
 2024-11-15,Juntas,,,,,29.5
 2024-11-15,Korila,,,,,12.3
+2024-11-15,La Asunta,31.5,18.0,,,
 2024-11-15,La Barranca  (Chuquisaca),21.0,9.0,,,
 2024-11-15,La Merced,32.0,15.0,,,
 2024-11-15,La Torre,30.0,14.0,,,
@@ -68562,6 +68600,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-16,Jesús de Machaca_M (GPRS),18.97,4.12,97.5,32.68,5.7
 2024-11-16,Jihuacuta,,,,,5.0
 2024-11-16,Korila,,,,,1.4
+2024-11-16,La Asunta,33.0,20.0,,,
 2024-11-16,La Barranca  (Chuquisaca),25.0,9.0,,,
 2024-11-16,La Merced,30.0,16.0,,,17.0
 2024-11-16,La Torre,,,,,7.0
@@ -68769,6 +68808,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-17,Jesús de Machaca_M (GPRS),17.17,3.91,95.9,39.0,0.5
 2024-11-17,Jihuacuta,,,,,11.0
 2024-11-17,Juntas,,,,,39.8
+2024-11-17,La Asunta,32.0,21.0,,,
 2024-11-17,La Asunta_H (GPRS),,,,,12.4
 2024-11-17,La Merced,19.0,17.0,,,15.0
 2024-11-17,La Torre,,,,,9.0
@@ -69000,6 +69040,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-18,Jihuacuta,,,,,2.3
 2024-11-18,Juntas,,,,,9.5
 2024-11-18,Korila,,,,,0.8
+2024-11-18,La Asunta,33.0,20.5,,,
 2024-11-18,La Barranca  (Chuquisaca),24.5,8.0,,,
 2024-11-18,La Chimba,,,,,2.0
 2024-11-18,La Merced,21.0,15.0,,,2.0
@@ -69252,6 +69293,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-19,Ixiamas_M (GPRS),,,,,2.9
 2024-11-19,Jesús de Machaca_M (GPRS),16.17,3.79,96.0,41.93,8.9
 2024-11-19,Korila,,,,,9.6
+2024-11-19,La Asunta,34.0,20.0,,,
 2024-11-19,La Asunta_H (GPRS),,,,,3.5
 2024-11-19,La Barranca  (Chuquisaca),19.5,9.0,,,21.0
 2024-11-19,La Merced,25.0,16.0,,,
@@ -69498,6 +69540,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-20,Jihuacuta,,,,,4.2
 2024-11-20,Juntas,,,,,1.9
 2024-11-20,Korila,,,,,11.3
+2024-11-20,La Asunta,33.5,19.5,,,
 2024-11-20,La Asunta_H (GPRS),,,,,0.2
 2024-11-20,La Barranca  (Chuquisaca),18.0,10.5,,,1.0
 2024-11-20,La Merced,26.0,16.0,,,
@@ -70460,6 +70503,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-24,Jesús de Machaca_M (GPRS),15.84,6.78,95.2,53.4,10.5
 2024-11-24,Jihuacuta,,,,,0.1
 2024-11-24,Korila,,,,,7.3
+2024-11-24,La Asunta,33.0,19.0,,,
 2024-11-24,La Asunta_H (GPRS),,,,,0.1
 2024-11-24,La Barranca  (Chuquisaca),,,,,10.0
 2024-11-24,La Merced,31.0,19.0,,,
@@ -70674,6 +70718,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-25,Jesús de Machaca_M (GPRS),19.43,3.98,97.1,38.1,1.7
 2024-11-25,Juntas,,,,,32.0
 2024-11-25,Korila,,,,,5.6
+2024-11-25,La Asunta,32.0,20.0,,,
 2024-11-25,La Barranca  (Chuquisaca),26.5,10.5,,,
 2024-11-25,La Chimba,,,,,8.8
 2024-11-25,La Merced,33.0,19.0,,,4.5
@@ -70889,6 +70934,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-26,Jihuacuta,,,,,1.2
 2024-11-26,Juntas,,,,,10.0
 2024-11-26,Korila,,,,,0.5
+2024-11-26,La Asunta,31.5,18.5,,,
 2024-11-26,La Barranca  (Chuquisaca),25.0,12.0,,,
 2024-11-26,La Merced,35.0,17.0,,,
 2024-11-26,La Torre,31.5,15.1,,,
@@ -71105,6 +71151,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-27,Jihuacuta,,,,,4.1
 2024-11-27,Juntas,,,,,9.0
 2024-11-27,Korila,,,,,0.8
+2024-11-27,La Asunta,33.5,20.0,,,
 2024-11-27,La Asunta_H (GPRS),,,,,31.3
 2024-11-27,La Barranca  (Chuquisaca),24.0,13.0,,,
 2024-11-27,La Merced,33.0,19.0,,,
@@ -71559,6 +71606,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-29,Jihuacuta,,,,,7.0
 2024-11-29,Juntas,,,,,14.8
 2024-11-29,Korila,,,,,1.8
+2024-11-29,La Asunta,32.0,23.5,,,
 2024-11-29,La Barranca  (Chuquisaca),22.5,10.5,,,2.5
 2024-11-29,La Merced,30.0,20.0,,,
 2024-11-29,La Torre,30.0,15.0,,,
@@ -71787,6 +71835,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-30,Jesús de Machaca_M (GPRS),19.02,6.79,95.3,34.06,3.6
 2024-11-30,Jihuacuta,,,,,6.4
 2024-11-30,Korila,,,,,6.4
+2024-11-30,La Asunta,28.0,22.0,,,
 2024-11-30,La Asunta_H (GPRS),,,,,9.6
 2024-11-30,La Barranca  (Chuquisaca),22.0,11.0,,,
 2024-11-30,La Merced,29.0,18.0,,,20.0
@@ -72013,6 +72062,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-01,Jesús de Machaca_M (GPRS),18.91,3.92,94.9,42.92,
 2024-12-01,Jihuacuta,,,,,5.2
 2024-12-01,Korila,,,,,0.9
+2024-12-01,La Asunta,29.0,21.0,,,
 2024-12-01,La Asunta_H (GPRS),,,,,10.9
 2024-12-01,La Merced,33.0,20.0,,,20.0
 2024-12-01,La Torre,30.3,17.0,,,
@@ -72231,6 +72281,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-02,Jesús de Machaca_M (GPRS),21.18,5.34,83.1,28.53,4.7
 2024-12-02,Jihuacuta,,,,,2.3
 2024-12-02,Korila,,,,,5.7
+2024-12-02,La Asunta,32.0,22.0,,,
 2024-12-02,La Barranca  (Chuquisaca),21.5,11.0,,,
 2024-12-02,La Merced,24.0,17.0,,,12.0
 2024-12-02,La Torre,31.0,17.0,,,
@@ -72683,6 +72734,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-04,Jesús de Machaca_M (GPRS),7.89,7.89,36.35,36.35,
 2024-12-04,Jihuacuta,,,,,5.0
 2024-12-04,Korila,,,,,2.3
+2024-12-04,La Asunta,32.0,21.0,,,
 2024-12-04,La Asunta_H (GPRS),,,,,3.0
 2024-12-04,La Barranca  (Chuquisaca),22.5,9.5,,,
 2024-12-04,La Merced,27.0,15.0,,,
@@ -72875,6 +72927,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-05,Jesús de Machaca_M (GPRS),8.42,8.42,41.11,41.11,
 2024-12-05,Jihuacuta,,,,,4.1
 2024-12-05,Korila,,,,,0.6
+2024-12-05,La Asunta,28.0,20.5,,,
 2024-12-05,La Barranca  (Chuquisaca),24.5,13.0,,,
 2024-12-05,La Merced,30.0,14.0,,,
 2024-12-05,La Torre,33.0,17.7,,,
@@ -73062,6 +73115,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-06,Jesús de Machaca_M (GPRS),10.7,10.7,25.74,25.74,
 2024-12-06,Jihuacuta,,,,,3.0
 2024-12-06,Korila,,,,,6.2
+2024-12-06,La Asunta,29.5,18.5,,,
 2024-12-06,La Barranca  (Chuquisaca),26.5,9.5,,,
 2024-12-06,La Merced,32.0,16.0,,,
 2024-12-06,La Torre,35.0,14.0,,,3.0
@@ -73271,6 +73325,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-07,Jihuacuta,,,,,0.4
 2024-12-07,Juntas,,,,,4.5
 2024-12-07,Korila,,,,,1.2
+2024-12-07,La Asunta,30.0,20.0,,,
 2024-12-07,La Asunta_H (GPRS),,,,,6.8
 2024-12-07,La Barranca  (Chuquisaca),21.0,12.5,,,
 2024-12-07,La Merced,32.0,18.0,,,
@@ -73712,6 +73767,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-09,Ixiamas_M (GPRS),30.95,23.23,99.79,62.12,
 2024-12-09,Jesús de Machaca_M (GPRS),,,,,0.2
 2024-12-09,Korila,,,,,6.4
+2024-12-09,La Asunta,30.5,20.5,,,
 2024-12-09,La Asunta_H (GPRS),,,,,5.6
 2024-12-09,La Barranca  (Chuquisaca),24.0,11.0,,,
 2024-12-09,La Chimba,,,,,6.0
@@ -73932,6 +73988,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-10,Ixiamas_M (GPRS),34.19,23.73,99.85,53.02,
 2024-12-10,Jesús de Machaca_M (GPRS),11.22,11.22,70.33,70.33,
 2024-12-10,Korila,,,,,5.2
+2024-12-10,La Asunta,31.0,21.5,,,
 2024-12-10,La Asunta_H (GPRS),,,,,0.2
 2024-12-10,La Barranca  (Chuquisaca),20.5,12.0,,,
 2024-12-10,La Chimba,,,,,5.2
@@ -74338,6 +74395,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-12,Jesús de Machaca_M (GPRS),8.68,8.68,72.47,72.47,1.8
 2024-12-12,Juntas,,,,,0.3
 2024-12-12,Korila,,,,,2.4
+2024-12-12,La Asunta,32.0,22.0,,,
 2024-12-12,La Merced,30.0,18.0,,,
 2024-12-12,La Torre,34.0,17.2,,,
 2024-12-12,La Violeta,26.0,,,,
@@ -75136,6 +75194,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-16,Jesús de Machaca_M (GPRS),15.65,10.31,70.32,45.77,
 2024-12-16,Jihuacuta,,,,,0.1
 2024-12-16,Korila,,,,,5.5
+2024-12-16,La Asunta,32.0,21.0,,,
 2024-12-16,La Asunta_H (GPRS),,,,,0.9
 2024-12-16,La Barranca  (Chuquisaca),19.0,8.5,,,
 2024-12-16,La Merced,27.0,16.0,,,
@@ -75333,6 +75392,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-17,Jesús de Machaca_M (GPRS),18.58,-0.6,97.7,34.56,2.2
 2024-12-17,Jihuacuta,,,,,0.5
 2024-12-17,Korila,,,,,6.1
+2024-12-17,La Asunta,33.0,22.0,,,
 2024-12-17,La Barranca  (Chuquisaca),21.0,9.5,,,
 2024-12-17,La Merced,30.0,18.0,,,
 2024-12-17,La Torre,31.0,16.0,,,
@@ -75517,6 +75577,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-18,Ixiamas_M (GPRS),33.75,23.56,95.95,54.85,
 2024-12-18,Jesús de Machaca_M (GPRS),19.55,5.03,95.1,31.05,
 2024-12-18,Korila,,,,,5.5
+2024-12-18,La Asunta,33.0,21.0,,,
 2024-12-18,La Asunta_H (GPRS),,,,,3.4
 2024-12-18,La Barranca  (Chuquisaca),25.0,9.0,,,
 2024-12-18,La Merced,31.0,10.0,,,
@@ -75720,6 +75781,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-19,Ixiamas_M (GPRS),33.01,24.16,96.76,55.15,
 2024-12-19,Jesús de Machaca_M (GPRS),18.06,2.68,95.3,32.49,8.7
 2024-12-19,Korila,,,,,0.9
+2024-12-19,La Asunta,32.0,19.5,,,
 2024-12-19,La Barranca  (Chuquisaca),22.5,10.0,,,1.0
 2024-12-19,La Merced,23.0,16.0,,,2.4
 2024-12-19,La Torre,33.0,15.4,,,4.0
@@ -76159,6 +76221,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-21,Ixiamas_M (GPRS),33.77,25.01,99.77,54.8,
 2024-12-21,Jesús de Machaca_M (GPRS),20.4,0.07,94.2,28.58,0.6
 2024-12-21,Korila,,,,,2.3
+2024-12-21,La Asunta,32.0,21.0,,,
 2024-12-21,La Asunta_H (GPRS),,,,,1.3
 2024-12-21,La Merced,39.0,14.0,,,
 2024-12-21,La Torre,32.0,15.0,,,11.0
@@ -76379,6 +76442,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-22,Jesús de Machaca_M (GPRS),17.34,3.53,96.2,41.34,
 2024-12-22,Juntas,,,,,30.5
 2024-12-22,Korila,,,,,1.4
+2024-12-22,La Asunta,31.5,22.0,,,
 2024-12-22,La Barranca  (Chuquisaca),,,,,15.0
 2024-12-22,La Merced,25.0,15.0,,,42.0
 2024-12-22,La Torre,30.0,16.0,,,4.0
@@ -76598,6 +76662,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-23,Ixiamas_M (GPRS),30.75,22.6,99.75,57.42,
 2024-12-23,Jesús de Machaca_M (GPRS),20.66,-0.9,79.76,17.49,2.0
 2024-12-23,Korila,,,,,5.9
+2024-12-23,La Asunta,30.5,21.0,,,
 2024-12-23,La Barranca  (Chuquisaca),22.5,8.5,,,7.0
 2024-12-23,La Merced,29.0,15.0,,,25.0
 2024-12-23,La Torre,30.0,12.0,,,
@@ -76804,6 +76869,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-24,Ixiamas_M (GPRS),32.86,22.89,99.78,56.73,
 2024-12-24,Jesús de Machaca_M (GPRS),21.45,-4.23,70.7,8.64,
 2024-12-24,Korila,,,,,1.3
+2024-12-24,La Asunta,31.0,20.5,,,
 2024-12-24,La Barranca  (Chuquisaca),26.0,9.0,,,
 2024-12-24,La Merced,29.0,14.0,,,
 2024-12-24,La Torre,30.0,12.2,,,
@@ -77008,6 +77074,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-25,Jesús de Machaca_M (GPRS),20.99,-4.87,66.62,13.43,
 2024-12-25,Juntas,,,,,1.3
 2024-12-25,Korila,,,,,0.3
+2024-12-25,La Asunta,29.0,20.5,,,
 2024-12-25,La Asunta_H (GPRS),,,,,17.3
 2024-12-25,La Merced,24.0,13.0,,,5.0
 2024-12-25,La Torre,28.0,13.0,,,
@@ -77201,6 +77268,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-26,Jesús de Machaca_M (GPRS),20.55,-4.94,60.4,8.12,
 2024-12-26,Jihuacuta,,,,,1.1
 2024-12-26,Korila,,,,,5.1
+2024-12-26,La Asunta,30.0,22.0,,,
 2024-12-26,La Asunta_H (GPRS),,,,,8.5
 2024-12-26,La Barranca  (Chuquisaca),20.0,5.5,,,
 2024-12-26,La Merced,27.0,12.0,,,
@@ -77387,6 +77455,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-27,Jesús de Machaca_M (GPRS),20.35,-0.44,87.2,14.08,
 2024-12-27,Jihuacuta,,,,,1.0
 2024-12-27,Korila,,,,,0.1
+2024-12-27,La Asunta,31.0,20.5,,,
 2024-12-27,La Barranca  (Chuquisaca),21.5,7.5,,,
 2024-12-27,La Merced,29.0,13.0,,,
 2024-12-27,La Torre,29.0,13.0,,,
@@ -77563,6 +77632,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-28,Ixiamas_M (GPRS),34.99,23.14,99.57,44.75,
 2024-12-28,Jesús de Machaca_M (GPRS),19.49,0.6,88.8,22.65,
 2024-12-28,Juntas,,,,,4.8
+2024-12-28,La Asunta,33.0,22.5,,,
 2024-12-28,La Barranca  (Chuquisaca),21.0,8.5,,,
 2024-12-28,La Merced,28.0,13.0,,,
 2024-12-28,La Torre,24.0,15.0,,,
@@ -77741,6 +77811,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-29,Ixiamas_M (GPRS),35.6,22.38,97.81,37.62,
 2024-12-29,Jesús de Machaca_M (GPRS),19.75,3.39,82.4,24.86,
 2024-12-29,Juntas,,,,,0.7
+2024-12-29,La Asunta,30.0,21.0,,,
 2024-12-29,La Merced,32.0,14.0,,,
 2024-12-29,La Torre,28.0,15.0,,,
 2024-12-29,La Violeta,,,,,6.4
@@ -77919,6 +77990,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-30,Ixiamas_M (GPRS),35.7,23.11,95.77,39.51,
 2024-12-30,Jesús de Machaca_M (GPRS),20.78,-0.87,85.7,16.33,
 2024-12-30,Juntas,,,,,1.9
+2024-12-30,La Asunta,32.0,20.5,,,
 2024-12-30,La Barranca  (Chuquisaca),21.0,10.0,,,
 2024-12-30,La Merced,32.0,15.0,,,
 2024-12-30,La Torre,30.0,15.0,,,
@@ -78101,6 +78173,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-31,Jesús de Machaca_M (GPRS),20.02,1.51,76.94,20.82,
 2024-12-31,Juntas,,,,,15.4
 2024-12-31,Korila,,,,,0.1
+2024-12-31,La Asunta,34.0,22.0,,,
 2024-12-31,La Barranca  (Chuquisaca),24.0,10.5,,,
 2024-12-31,La Merced,30.0,16.0,,,6.2
 2024-12-31,La Torre,31.0,17.0,,,
