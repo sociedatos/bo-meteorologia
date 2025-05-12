@@ -72235,6 +72235,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-01,Sunjani (GPRS),6.45,6.45,88.9,88.9,10.5
 2024-12-01,Talula_Tako Tako,27.0,11.0,,,
 2024-12-01,Tarapaya,28.0,7.1,,,
+2024-12-01,Tarata,28.0,14.5,,,
 2024-12-01,Tarija,31.0,19.0,87.5,40.1,
 2024-12-01,Taypillanga,,,,,5.0
 2024-12-01,Templo (GPRS),4.78,4.78,83.8,83.8,11.7
@@ -72450,6 +72451,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-02,Sunjani (GPRS),11.83,11.83,65.74,65.74,1.8
 2024-12-02,Talula_Tako Tako,20.0,12.0,,,
 2024-12-02,Tarapaya,26.1,7.6,,,
+2024-12-02,Tarata,29.5,13.5,,,
 2024-12-02,Tarija,22.0,22.0,72.7,72.7,
 2024-12-02,Templo (GPRS),10.63,10.63,71.97,71.97,0.6
 2024-12-02,Temporal - SDC (GPRS),28.4,12.52,90.4,0.03,
@@ -72911,6 +72913,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-04,Sunjani (GPRS),10.31,10.31,82.5,82.5,
 2024-12-04,Talula_Tako Tako,26.0,11.6,,,
 2024-12-04,Tarapaya,28.0,4.9,,,
+2024-12-04,Tarata,27.2,11.0,,,
 2024-12-04,Tarija,14.0,14.0,81.5,81.5,
 2024-12-04,Templo (GPRS),7.31,7.31,82.0,82.0,
 2024-12-04,Temporal - SDC (GPRS),29.83,14.13,56.23,0.02,
@@ -73090,6 +73093,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-05,Sunjani (GPRS),6.2,6.2,95.3,95.3,
 2024-12-05,Talula_Tako Tako,28.0,10.0,,,
 2024-12-05,Tarapaya,29.4,8.0,,,
+2024-12-05,Tarata,28.5,12.8,,,
 2024-12-05,Tarija,20.0,20.0,63.6,63.6,
 2024-12-05,Templo (GPRS),8.33,8.33,84.8,84.8,
 2024-12-05,Temporal - SDC (GPRS),31.41,15.51,31.58,0.02,
@@ -73290,6 +73294,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-06,Sunjani (GPRS),8.29,8.29,87.7,87.7,0.3
 2024-12-06,Talula_Tako Tako,30.0,11.0,,,
 2024-12-06,Tarapaya,29.5,9.1,,,
+2024-12-06,Tarata,29.0,13.2,,,
 2024-12-06,Tarija,22.0,22.0,64.0,64.0,
 2024-12-06,Templo (GPRS),7.65,7.65,83.7,83.7,0.6
 2024-12-06,Temporal - SDC (GPRS),29.41,14.06,87.3,0.02,
@@ -73953,6 +73958,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-09,Sunjani (GPRS),14.7,7.26,95.0,46.44,
 2024-12-09,Talula_Tako Tako,26.5,14.0,,,
 2024-12-09,Tarapaya,30.1,9.5,,,
+2024-12-09,Tarata,27.5,12.5,,,
 2024-12-09,Tarija,16.0,16.0,87.2,87.2,
 2024-12-09,Taruma,,,,,20.0
 2024-12-09,Taypillanga,,,,,1.0
@@ -74572,6 +74578,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-12,Sunjani (GPRS),7.16,7.16,90.4,90.4,
 2024-12-12,Talula_Tako Tako,28.5,13.0,,,
 2024-12-12,Tarapaya,30.0,10.0,,,
+2024-12-12,Tarata,27.0,12.0,,,
 2024-12-12,Tarija,22.0,22.0,72.7,72.7,
 2024-12-12,Templo (GPRS),7.75,7.75,75.37,75.37,
 2024-12-12,Temporal - SDC (GPRS),28.59,14.14,4.69,0.02,
@@ -74778,6 +74785,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-13,Talula_Tako Tako,28.2,13.0,,,
 2024-12-13,Tarabuco,24.5,6.3,,,
 2024-12-13,Tarapaya,30.5,5.9,,,1.5
+2024-12-13,Tarata,30.5,11.5,,,
 2024-12-13,Tarija,24.0,24.0,64.4,64.4,
 2024-12-13,Taypillanga,,,,,1.0
 2024-12-13,Templo (GPRS),7.78,7.78,86.4,86.4,
@@ -74993,6 +75001,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-14,Talula_Tako Tako,22.0,10.0,,,18.4
 2024-12-14,Tarabuco,,,,,23.5
 2024-12-14,Tarapaya,31.0,11.3,,,
+2024-12-14,Tarata,26.8,14.5,,,
 2024-12-14,Tarija,19.0,19.0,72.2,72.2,
 2024-12-14,Templo (GPRS),4.99,4.99,98.2,98.2,2.2
 2024-12-14,Temporal - SDC (GPRS),27.71,15.3,35.89,0.03,0.1
@@ -75180,6 +75189,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-15,Talula_Tako Tako,21.6,12.0,,,
 2024-12-15,Tarabuco,16.3,7.5,,,
 2024-12-15,Tarapaya,31.4,11.8,,,
+2024-12-15,Tarata,25.0,14.8,,,
 2024-12-15,Templo (GPRS),6.25,6.25,89.5,89.5,2.2
 2024-12-15,Temporal - SDC (GPRS),27.75,17.85,4.73,0.02,
 2024-12-15,Tinguipaya,23.2,7.2,,,
@@ -75380,6 +75390,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-16,Talula_Tako Tako,20.5,12.0,,,
 2024-12-16,Tarabuco,16.2,8.2,,,
 2024-12-16,Tarapaya,22.0,11.6,,,
+2024-12-16,Tarata,27.2,14.0,,,
 2024-12-16,Tarija,26.0,17.0,81.8,47.2,
 2024-12-16,Taypillanga,,,,,2.0
 2024-12-16,Templo (GPRS),12.97,-0.49,99.9,58.23,
@@ -75567,6 +75578,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-17,Talula_Tako Tako,22.0,12.3,,,
 2024-12-17,Tarabuco,17.5,8.8,,,
 2024-12-17,Tarapaya,28.6,9.9,,,0.5
+2024-12-17,Tarata,26.2,12.8,,,
 2024-12-17,Tarija,21.0,21.0,63.8,63.8,
 2024-12-17,Templo (GPRS),2.39,2.39,99.9,99.9,3.8
 2024-12-17,Temporal - SDC (GPRS),27.98,13.58,49.38,0.02,
@@ -75759,6 +75771,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-18,Talula_Tako Tako,26.0,11.0,,,
 2024-12-18,Tarabuco,21.4,8.2,,,
 2024-12-18,Tarapaya,27.0,5.9,,,
+2024-12-18,Tarata,28.8,10.5,,,
 2024-12-18,Tarija,21.0,21.0,63.8,63.8,
 2024-12-18,Templo (GPRS),6.26,6.26,72.9,72.9,0.1
 2024-12-18,Temporal - SDC (GPRS),30.28,15.4,41.68,0.02,
@@ -76412,6 +76425,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-21,Talula_Tako Tako,25.0,10.5,,,
 2024-12-21,Tarabuco,21.3,11.3,,,
 2024-12-21,Tarapaya,28.1,4.0,,,
+2024-12-21,Tarata,28.0,13.0,,,
 2024-12-21,Tarija,22.0,22.0,52.6,52.6,
 2024-12-21,Taruma,,,,,10.0
 2024-12-21,Templo (GPRS),8.39,8.39,84.3,84.3,1.8
@@ -76858,6 +76872,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-23,Talula_Tako Tako,21.0,11.0,,,2.8
 2024-12-23,Tarabuco,17.4,6.3,,,7.0
 2024-12-23,Tarapaya,25.6,11.0,,,
+2024-12-23,Tarata,25.0,12.0,,,
 2024-12-23,Tarija,17.0,17.0,87.3,87.3,
 2024-12-23,Taruma,,,,,5.0
 2024-12-23,Templo (GPRS),6.51,6.51,85.1,85.1,5.6
@@ -77058,6 +77073,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-24,Talula_Tako Tako,25.0,10.0,,,
 2024-12-24,Tarabuco,19.5,10.4,,,
 2024-12-24,Tarapaya,24.9,6.2,,,0.5
+2024-12-24,Tarata,28.0,11.5,,,
 2024-12-24,Tarija,22.0,22.0,64.0,64.0,
 2024-12-24,Templo (GPRS),5.1,5.1,99.0,99.0,
 2024-12-24,Temporal - SDC (GPRS),29.2,14.36,41.17,0.03,
@@ -77263,6 +77279,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-25,Talula_Tako Tako,18.0,11.0,,,
 2024-12-25,Tarabuco,14.2,6.5,,,2.8
 2024-12-25,Tarapaya,21.7,9.8,,,
+2024-12-25,Tarata,25.5,12.8,,,
 2024-12-25,Tarija,15.0,15.0,62.4,62.4,
 2024-12-25,Taruma,,,,,3.0
 2024-12-25,Templo (GPRS),5.49,5.49,88.8,88.8,0.2
@@ -77455,6 +77472,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-26,Talula_Tako Tako,22.0,8.0,,,
 2024-12-26,Tarabuco,17.4,4.3,,,
 2024-12-26,Tarapaya,25.0,5.3,,,
+2024-12-26,Tarata,26.5,5.0,,,
 2024-12-26,Tarija,16.0,16.0,67.0,67.0,
 2024-12-26,Templo (GPRS),8.04,8.04,53.15,53.15,
 2024-12-26,Temporal - SDC (GPRS),28.24,11.28,26.13,0.02,
@@ -77639,6 +77657,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-27,Talula_Tako Tako,22.5,9.0,,,
 2024-12-27,Tarabuco,18.3,6.4,,,
 2024-12-27,Tarapaya,26.3,5.6,,,
+2024-12-27,Tarata,27.0,6.0,,,
 2024-12-27,Tarija,18.0,18.0,72.0,72.0,
 2024-12-27,Templo (GPRS),7.94,7.94,78.53,78.53,
 2024-12-27,Temporal - SDC (GPRS),29.08,13.54,51.94,0.02,
@@ -77814,6 +77833,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-28,Talula_Tako Tako,21.0,11.0,,,
 2024-12-28,Tarabuco,16.5,7.5,,,
 2024-12-28,Tarapaya,24.7,8.9,,,
+2024-12-28,Tarata,26.0,13.5,,,
 2024-12-28,Tarija,19.0,19.0,63.4,63.4,
 2024-12-28,Templo (GPRS),6.28,6.28,88.6,88.6,4.4
 2024-12-28,Temporal - SDC (GPRS),27.35,11.39,95.5,0.02,
@@ -78178,6 +78198,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-30,Talula_Tako Tako,21.0,14.0,,,
 2024-12-30,Tarabuco,18.3,8.3,,,
 2024-12-30,Tarapaya,25.0,5.2,,,8.0
+2024-12-30,Tarata,28.0,12.0,,,
 2024-12-30,Tarija,20.0,20.0,67.8,67.8,
 2024-12-30,Templo (GPRS),6.01,6.01,90.2,90.2,0.4
 2024-12-30,Temporal - SDC (GPRS),26.18,12.67,49.44,0.02,
@@ -78363,6 +78384,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-31,Sunjani (GPRS),7.29,7.29,81.2,81.2,5.0
 2024-12-31,Tarabuco,21.5,8.4,,,
 2024-12-31,Tarapaya,26.2,8.9,,,1.0
+2024-12-31,Tarata,28.0,12.0,,,
 2024-12-31,Tarija,20.0,20.0,77.2,77.2,
 2024-12-31,Templo (GPRS),4.34,4.34,100.0,100.0,7.4
 2024-12-31,Temporal - SDC (GPRS),26.31,13.53,58.6,0.02,
