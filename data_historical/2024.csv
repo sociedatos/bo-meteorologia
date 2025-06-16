@@ -73081,6 +73081,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-05,San Pedro de Tiquina_M (GPRS),14.44,10.78,73.31,51.63,
 2024-12-05,San Roque - El Alto (GPRS),15.54,4.35,92.9,47.9,
 2024-12-05,Santa Ana - Yacuma,22.0,22.0,99.1,99.1,
+2024-12-05,Santiago de Huata,19.0,5.0,,,
 2024-12-05,Santivañez,33.3,5.5,,,
 2024-12-05,Sara Ana,,,,,2.0
 2024-12-05,Sarco,35.5,16.1,,,
@@ -73496,6 +73497,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-07,San Pedro de Tiquina_M (GPRS),14.64,7.89,84.3,56.22,
 2024-12-07,San Roque - El Alto (GPRS),17.89,6.47,91.5,44.17,
 2024-12-07,Santa Ana - Yacuma,26.0,26.0,87.9,87.9,
+2024-12-07,Santiago de Huata,19.0,6.0,,,
 2024-12-07,Santiago de Machaca,,,,,0.5
 2024-12-07,Santivañez,,,,,11.7
 2024-12-07,Sara Ana,,,,,7.7
@@ -73716,6 +73718,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-08,San Pedro de Tiquina_M (GPRS),,,,,0.4
 2024-12-08,San Roque - El Alto (GPRS),16.1,5.56,96.7,45.18,
 2024-12-08,Santa Ana - Yacuma,25.0,25.0,92.0,92.0,
+2024-12-08,Santiago de Huata,20.0,3.0,,,
 2024-12-08,Santiago de Machaca,,,,,8.2
 2024-12-08,Santivañez,30.0,14.4,,,
 2024-12-08,Sarco,29.4,16.7,,,
@@ -74167,6 +74170,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-10,San Pedro de Tiquina_M (GPRS),,,,,1.0
 2024-12-10,San Roque - El Alto (GPRS),20.68,7.04,93.0,30.83,
 2024-12-10,Santa Ana - Yacuma,27.0,27.0,88.0,88.0,
+2024-12-10,Santiago de Huata,20.0,6.0,,,
 2024-12-10,Santivañez,32.2,16.7,,,
 2024-12-10,Sarco,,,,,4.0
 2024-12-10,Sauce Pilapata - SDC (GPRS),19.63,11.46,100.0,69.86,0.2
@@ -74369,6 +74373,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-11,San Pedro de Tiquina_M (GPRS),,,,,13.0
 2024-12-11,San Roque - El Alto (GPRS),19.68,4.07,82.5,36.33,
 2024-12-11,Santa Ana - Yacuma,25.0,25.0,99.1,99.1,
+2024-12-11,Santiago de Huata,19.0,3.0,,,
 2024-12-11,Santiago de Machaca,,,,,7.0
 2024-12-11,Santivañez,,,,,17.8
 2024-12-11,Sara Ana,,,,,20.0
@@ -74571,6 +74576,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-12,San Pedro de Tiquina_M (GPRS),13.92,8.58,75.0,48.47,
 2024-12-12,San Roque - El Alto (GPRS),15.94,3.27,90.0,35.93,
 2024-12-12,Santa Ana - Yacuma,24.0,24.0,99.1,99.1,
+2024-12-12,Santiago de Huata,21.0,4.0,,,
 2024-12-12,Santiago de Machaca,,,,,1.0
 2024-12-12,Santivañez,31.1,14.4,,,
 2024-12-12,Sarco,33.9,15.5,,,
@@ -74780,6 +74786,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-13,San Pedro de Tiquina_M (GPRS),16.15,9.53,74.64,45.54,
 2024-12-13,San Roque - El Alto (GPRS),19.23,4.16,87.2,33.63,
 2024-12-13,Santa Ana - Yacuma,25.0,25.0,93.3,93.3,
+2024-12-13,Santiago de Huata,19.0,3.0,,,
 2024-12-13,Santivañez,32.2,15.5,,,
 2024-12-13,Sarco,35.5,15.5,,,
 2024-12-13,Sauce Pilapata - SDC (GPRS),25.14,10.93,100.0,38.98,
@@ -75185,6 +75192,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-15,San Pedro de Buena Vista (GPRS),12.29,12.29,93.7,93.7,
 2024-12-15,San Pedro de Tiquina_M (GPRS),15.23,9.0,87.3,43.32,
 2024-12-15,San Roque - El Alto (GPRS),20.19,4.69,94.3,24.04,0.2
+2024-12-15,Santiago de Huata,19.0,6.0,,,
 2024-12-15,Santiago de Machaca,,,,,6.0
 2024-12-15,Santivañez,30.0,10.0,,,
 2024-12-15,Sara Ana,,,,,3.5
@@ -75384,6 +75392,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-16,San Pedro de Tiquina_M (GPRS),15.1,10.25,73.66,39.87,
 2024-12-16,San Roque - El Alto (GPRS),19.63,4.23,93.7,18.76,
 2024-12-16,Santa Ana - Yacuma,32.0,24.0,93.3,62.2,
+2024-12-16,Santiago de Huata,20.0,5.0,,,
 2024-12-16,Santiago de Machaca,,,,,2.5
 2024-12-16,Santivañez,31.1,12.2,,,
 2024-12-16,Sarco,33.0,17.0,,,
@@ -75579,6 +75588,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-17,San Pedro de Tiquina_M (GPRS),13.87,8.42,77.34,51.34,
 2024-12-17,San Roque - El Alto (GPRS),18.98,3.22,83.7,33.9,
 2024-12-17,Santa Ana - Yacuma,26.0,26.0,87.9,87.9,
+2024-12-17,Santiago de Huata,19.0,4.0,,,
 2024-12-17,Santivañez,31.1,13.3,,,
 2024-12-17,Sarco,33.9,16.1,,,
 2024-12-17,Sauce Pilapata - SDC (GPRS),14.17,14.17,75.32,75.32,
@@ -75770,6 +75780,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-18,San Pedro de Tiquina_M (GPRS),14.77,9.66,78.4,46.52,
 2024-12-18,San Roque - El Alto (GPRS),17.79,7.21,83.3,27.71,
 2024-12-18,Santa Ana - Yacuma,26.0,26.0,93.4,93.4,
+2024-12-18,Santiago de Huata,18.0,5.0,,,
 2024-12-18,Santiago de Machaca,,,,,12.5
 2024-12-18,Santivañez,33.3,11.1,,,
 2024-12-18,Sarco,32.2,15.0,,,
@@ -76659,6 +76670,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-22,San Pedro de Tiquina_M (GPRS),15.42,7.24,81.3,51.47,
 2024-12-22,San Roque - El Alto (GPRS),15.98,4.95,93.8,46.8,
 2024-12-22,Santa Ana - Yacuma,32.0,22.0,99.1,66.0,
+2024-12-22,Santiago de Huata,17.0,4.0,,,
 2024-12-22,Santiago de Machaca,,,,,6.5
 2024-12-22,Santivañez,,,,,5.1
 2024-12-22,Sara Ana,,,,,2.0
@@ -77081,6 +77093,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-24,San Pedro de Tiquina_M (GPRS),19.62,10.71,82.0,16.01,
 2024-12-24,San Roque - El Alto (GPRS),21.82,3.54,90.2,11.33,
 2024-12-24,Santa Ana - Yacuma,27.0,27.0,88.0,88.0,
+2024-12-24,Santiago de Huata,21.0,3.0,,,
 2024-12-24,Santivañez,,,,,8.1
 2024-12-24,Sarco,33.9,14.4,,,
 2024-12-24,Sauce Pilapata - SDC (GPRS),14.17,14.17,81.3,81.3,0.1
@@ -77285,6 +77298,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-25,San Pedro de Tiquina_M (GPRS),15.95,9.14,71.29,35.89,
 2024-12-25,San Roque - El Alto (GPRS),20.45,4.04,91.3,23.51,
 2024-12-25,Santa Ana - Yacuma,21.0,21.0,93.2,93.2,
+2024-12-25,Santiago de Huata,20.0,4.0,,,
 2024-12-25,Santiago de Machaca,,,,,13.2
 2024-12-25,Santivañez,,,,,4.1
 2024-12-25,Sara Ana,,,,,36.5
@@ -77480,6 +77494,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-26,San Pedro de Tiquina_M (GPRS),16.43,9.93,60.4,21.09,
 2024-12-26,San Roque - El Alto (GPRS),20.2,4.13,89.0,15.76,
 2024-12-26,Santa Ana - Yacuma,24.0,24.0,93.3,93.3,
+2024-12-26,Santiago de Huata,21.0,2.0,,,
 2024-12-26,Santiago de Machaca,,,,,5.5
 2024-12-26,Santivañez,30.0,5.5,,,
 2024-12-26,Sara Ana,,,,,2.0
@@ -77666,6 +77681,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-27,San Pedro de Tiquina_M (GPRS),16.87,10.05,64.18,32.04,
 2024-12-27,San Roque - El Alto (GPRS),22.08,4.53,82.8,18.81,
 2024-12-27,Santa Ana - Yacuma,26.0,26.0,77.9,77.9,
+2024-12-27,Santiago de Huata,19.0,2.0,,,
 2024-12-27,Santiago de Machaca,,,,,11.0
 2024-12-27,Santivañez,35.5,4.4,,,
 2024-12-27,Sarco,32.2,14.4,,,
@@ -77842,6 +77858,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-28,San Pedro de Tiquina_M (GPRS),16.87,10.78,65.03,36.81,
 2024-12-28,San Roque - El Alto (GPRS),18.02,4.0,88.3,33.02,
 2024-12-28,Santa Ana - Yacuma,27.0,27.0,82.9,82.9,
+2024-12-28,Santiago de Huata,20.0,3.0,,,
 2024-12-28,Santiago de Machaca,,,,,4.5
 2024-12-28,Santivañez,,,,,6.6
 2024-12-28,Sarco,32.2,15.5,,,
@@ -78029,6 +78046,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-29,San Pedro de Tiquina_M (GPRS),15.57,8.42,61.12,36.8,
 2024-12-29,San Roque - El Alto (GPRS),20.38,5.26,88.0,30.18,
 2024-12-29,Santa Ana - Yacuma,25.0,25.0,87.9,87.9,
+2024-12-29,Santiago de Huata,18.0,5.0,,,
 2024-12-29,Santiago de Machaca,,,,,3.5
 2024-12-29,Santivañez,33.3,5.5,,,
 2024-12-29,Sarco,,,,,6.4
@@ -78211,6 +78229,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-30,San Pedro de Tiquina_M (GPRS),16.22,9.27,63.72,20.31,
 2024-12-30,San Roque - El Alto (GPRS),19.07,2.77,87.1,23.05,4.2
 2024-12-30,Santa Ana - Yacuma,27.0,27.0,78.1,78.1,
+2024-12-30,Santiago de Huata,19.0,2.0,,,
 2024-12-30,Santiago de Machaca,,,,,8.6
 2024-12-30,Santivañez,32.2,6.7,,,
 2024-12-30,Sarco,32.2,13.7,,,
@@ -78399,6 +78418,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-31,San Pedro de Tiquina_M (GPRS),15.56,9.33,71.22,40.52,
 2024-12-31,San Roque - El Alto (GPRS),19.24,4.31,89.4,29.48,
 2024-12-31,Santa Ana - Yacuma,27.0,27.0,88.0,88.0,
+2024-12-31,Santiago de Huata,20.0,2.0,,,
 2024-12-31,Santivañez,30.0,4.4,,,
 2024-12-31,Sarco,31.7,15.0,,,
 2024-12-31,Sauce Pilapata - SDC (GPRS),23.13,13.03,78.38,42.97,
