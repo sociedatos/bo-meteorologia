@@ -59142,6 +59142,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-01,Pailon - Pozo del Tigre (GPRS),33.24,29.93,62.36,54.77,
 2024-10-01,Pairumani,28.0,11.0,,,
 2024-10-01,Palca_LP,26.5,7.3,,,
+2024-10-01,Palmar Grande,41.0,24.0,,,
 2024-10-01,Palos Blancos S.(GPRS),37.6,24.9,77.7,31.8,
 2024-10-01,Palos Blancos_M (GPRS),39.54,23.9,92.01,33.52,
 2024-10-01,Pampas de Lequezana,24.0,8.3,,,
@@ -59335,6 +59336,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-02,Pailon - Pozo del Tigre (GPRS),36.25,31.29,55.21,43.61,
 2024-10-02,Pairumani,29.0,12.0,,,
 2024-10-02,Palca_LP,26.5,7.5,,,
+2024-10-02,Palmar Grande,28.0,25.0,,,
 2024-10-02,Palos Blancos S.(GPRS),38.2,25.9,79.9,35.4,
 2024-10-02,Palos Blancos_M (GPRS),39.35,26.45,86.39,35.25,
 2024-10-02,Pampas de Lequezana,23.5,5.0,,,
@@ -59536,6 +59538,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-03,Pailon - Pozo del Tigre (GPRS),30.78,24.65,48.78,28.63,
 2024-10-03,Pairumani,28.0,13.0,,,
 2024-10-03,Palca_LP,20.5,9.2,,,
+2024-10-03,Palmar Grande,32.0,21.0,,,
 2024-10-03,Palos Blancos S.(GPRS),,,,,3.6
 2024-10-03,Palos Blancos_H (GPRS),,,,,7.0
 2024-10-03,Palos Blancos_M (GPRS),,,,,5.9
@@ -59741,6 +59744,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-04,Pailon - Pozo del Tigre (GPRS),32.99,24.73,46.12,23.75,
 2024-10-04,Pairumani,29.0,12.0,,,
 2024-10-04,Palca_LP,27.0,6.0,,,
+2024-10-04,Palmar Grande,37.0,14.0,,,
 2024-10-04,Palos Blancos S.(GPRS),,,,,20.4
 2024-10-04,Palos Blancos_M (GPRS),,,,,24.3
 2024-10-04,Pampas de Lequezana,20.0,5.4,,,
@@ -59932,6 +59936,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-05,Pailon - Pozo del Tigre (GPRS),38.14,26.51,46.43,29.12,
 2024-10-05,Pairumani,28.0,12.0,,,
 2024-10-05,Palca_LP,25.0,5.0,,,
+2024-10-05,Palmar Grande,41.0,14.0,,,
 2024-10-05,Palos Blancos S.(GPRS),35.9,21.9,92.0,40.0,
 2024-10-05,Palos Blancos_M (GPRS),36.53,20.85,100.0,42.7,
 2024-10-05,Pampas de Lequezana,25.6,9.6,,,
@@ -60116,6 +60121,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-06,Pailon - Pozo del Tigre (GPRS),37.49,28.56,51.87,35.49,
 2024-10-06,Pairumani,29.0,11.0,,,
 2024-10-06,Palca_LP,24.0,5.0,,,
+2024-10-06,Palmar Grande,42.0,21.0,,,
 2024-10-06,Palos Blancos S.(GPRS),36.5,22.1,88.3,37.9,
 2024-10-06,Palos Blancos_M (GPRS),37.9,19.79,100.0,36.8,
 2024-10-06,Pampas de Lequezana,24.1,4.1,,,
@@ -60305,6 +60311,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-07,Pairumani,30.0,12.0,,,
 2024-10-07,Palca,,,,,0.4
 2024-10-07,Palca_LP,23.0,4.4,,,
+2024-10-07,Palmar Grande,45.0,21.0,,,
 2024-10-07,Palos Blancos S.(GPRS),37.3,22.9,82.0,32.2,
 2024-10-07,Palos Blancos_M (GPRS),38.14,21.64,99.79,35.92,
 2024-10-07,Pampas de Lequezana,20.0,6.0,,,
@@ -60509,6 +60516,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-08,Pairumani,29.0,13.0,,,
 2024-10-08,Palca,,,,,3.8
 2024-10-08,Palca_LP,23.0,5.0,,,
+2024-10-08,Palmar Grande,33.0,24.0,,,
 2024-10-08,Palos Blancos S.(GPRS),35.8,23.7,87.0,42.3,
 2024-10-08,Palos Blancos_M (GPRS),36.53,22.64,99.86,43.41,
 2024-10-08,Pampas de Lequezana,24.4,5.3,,,11.3
@@ -61379,6 +61387,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-12,Pailon - Pozo del Tigre (GPRS),36.65,30.45,55.92,43.49,
 2024-10-12,Pairumani,29.0,12.0,,,
 2024-10-12,Palca_LP,23.0,6.0,,,
+2024-10-12,Palmar Grande,34.0,17.0,,,
 2024-10-12,Palos Blancos S.(GPRS),35.7,23.3,92.7,40.7,
 2024-10-12,Palos Blancos_M (GPRS),37.67,22.22,100.0,36.89,
 2024-10-12,Pampas de Lequezana,23.6,7.1,,,
@@ -61566,6 +61575,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-13,Pailon - Pozo del Tigre (GPRS),36.9,30.32,56.17,39.52,
 2024-10-13,Pairumani,28.0,13.0,,,
 2024-10-13,Palca_LP,22.0,6.0,,,
+2024-10-13,Palmar Grande,28.0,15.0,,,
 2024-10-13,Palos Blancos S.(GPRS),,,,,0.8
 2024-10-13,Palos Blancos_M (GPRS),38.97,22.05,98.35,34.11,
 2024-10-13,Pampas de Lequezana,23.5,3.3,,,
@@ -61752,6 +61762,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-14,Pailon - Pozo del Tigre (GPRS),29.35,22.05,99.0,61.51,
 2024-10-14,Pairumani,29.0,12.0,,,16.4
 2024-10-14,Palca_LP,23.0,5.0,,,0.6
+2024-10-14,Palmar Grande,41.0,15.0,,,
 2024-10-14,Palos Blancos S.(GPRS),,,,,3.6
 2024-10-14,Palos Blancos_M (GPRS),38.07,22.68,96.3,33.65,
 2024-10-14,Pampas de Lequezana,22.3,5.6,,,
@@ -61957,6 +61968,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-15,Pailon - Pozo del Tigre (GPRS),35.79,28.43,67.94,47.16,23.8
 2024-10-15,Pairumani,28.0,13.0,,,
 2024-10-15,Palca_LP,26.0,6.0,,,1.0
+2024-10-15,Palmar Grande,37.0,15.0,,,
 2024-10-15,Palos Blancos S.(GPRS),38.0,24.3,81.6,28.0,
 2024-10-15,Palos Blancos_M (GPRS),39.42,23.98,89.13,30.48,
 2024-10-15,Pampas de Lequezana,24.0,8.0,,,1.5
@@ -62403,6 +62415,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-17,Pailon - Pozo del Tigre (GPRS),31.95,23.94,85.9,56.58,3.0
 2024-10-17,Pairumani,28.0,12.0,,,
 2024-10-17,Palca_LP,26.0,4.0,,,6.8
+2024-10-17,Palmar Grande,37.0,21.0,,,
 2024-10-17,Palos Blancos S.(GPRS),,,,,0.2
 2024-10-17,Palos Blancos_M (GPRS),,,,,6.8
 2024-10-17,Pampas de Lequezana,21.4,5.6,,,
@@ -62616,6 +62629,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-18,Pailon - Pozo del Tigre (GPRS),34.96,28.82,72.72,50.08,
 2024-10-18,Pairumani,29.0,13.0,,,
 2024-10-18,Palca_LP,27.0,6.0,,,
+2024-10-18,Palmar Grande,26.0,24.0,,,
 2024-10-18,Palos Blancos,,,,,18.3
 2024-10-18,Palos Blancos S.(GPRS),35.2,25.5,82.6,42.3,
 2024-10-18,Palos Blancos_M (GPRS),35.64,23.9,98.31,43.47,
@@ -63034,6 +63048,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-20,Pailon - Pozo del Tigre (GPRS),25.82,25.82,66.55,66.55,
 2024-10-20,Pairumani,30.0,13.0,,,
 2024-10-20,Palca_LP,29.0,5.0,,,
+2024-10-20,Palmar Grande,37.0,19.0,,,
 2024-10-20,Palos Blancos S.(GPRS),34.5,21.4,86.0,42.0,
 2024-10-20,Palos Blancos_M (GPRS),35.64,21.0,100.0,44.34,
 2024-10-20,Pampas de Lequezana,26.1,8.2,,,
@@ -63224,6 +63239,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-21,Pailon - Pozo del Tigre (GPRS),30.19,30.19,61.19,61.19,
 2024-10-21,Pairumani,29.0,13.0,,,
 2024-10-21,Palca_LP,26.0,6.0,,,
+2024-10-21,Palmar Grande,38.0,22.0,,,
 2024-10-21,Palos Blancos S.(GPRS),36.5,24.9,79.7,38.5,
 2024-10-21,Palos Blancos_M (GPRS),37.62,23.32,97.54,39.46,
 2024-10-21,Pampas de Lequezana,25.3,10.4,,,
@@ -63418,6 +63434,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-22,Pailon - Pozo del Tigre (GPRS),33.19,25.38,84.3,51.14,
 2024-10-22,Pairumani,29.0,12.0,,,
 2024-10-22,Palca_LP,24.0,7.0,,,
+2024-10-22,Palmar Grande,35.0,24.0,,,
 2024-10-22,Palos Blancos S.(GPRS),34.6,21.7,97.2,45.1,
 2024-10-22,Palos Blancos_H (GPRS),,,,,1.0
 2024-10-22,Palos Blancos_M (GPRS),34.82,21.38,100.0,51.72,
@@ -63825,6 +63842,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-24,Pailon - Pozo del Tigre (GPRS),30.72,30.72,66.16,66.16,
 2024-10-24,Pairumani,31.0,13.0,,,
 2024-10-24,Palca_LP,29.0,9.0,,,
+2024-10-24,Palmar Grande,27.0,25.0,,,
 2024-10-24,Palos Blancos S.(GPRS),,,,,5.2
 2024-10-24,Palos Blancos_M (GPRS),37.69,24.38,95.46,39.59,
 2024-10-24,Pampas de Lequezana,24.0,3.0,,,
@@ -64029,6 +64047,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-25,Pailon - Pozo del Tigre (GPRS),37.17,22.77,100.0,42.91,
 2024-10-25,Pairumani,29.0,12.0,,,
 2024-10-25,Palca_LP,26.0,8.0,,,
+2024-10-25,Palmar Grande,37.0,23.0,,,
 2024-10-25,Palos Blancos S.(GPRS),35.7,26.8,82.0,45.0,
 2024-10-25,Palos Blancos_M (GPRS),37.11,25.5,95.41,42.73,
 2024-10-25,Pampas de Lequezana,25.4,5.0,,,
@@ -64252,6 +64271,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-26,Pailon - Pozo del Tigre (GPRS),22.7,22.7,100.0,100.0,1.0
 2024-10-26,Pairumani,27.0,12.0,,,15.4
 2024-10-26,Palca_LP,22.0,9.4,,,
+2024-10-26,Palmar Grande,30.0,21.0,,,
 2024-10-26,Palos Blancos S.(GPRS),,,,,0.4
 2024-10-26,Palos Blancos_M (GPRS),,,,,1.7
 2024-10-26,Pampas de Lequezana,23.0,10.2,,,5.0
@@ -64473,6 +64493,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-27,Pailon - Pozo del Tigre (GPRS),31.17,22.31,100.0,55.75,27.4
 2024-10-27,Pairumani,28.0,13.0,,,5.0
 2024-10-27,Palca_LP,24.0,6.0,,,4.5
+2024-10-27,Palmar Grande,35.0,15.0,,,
 2024-10-27,Palos Blancos S.(GPRS),,,,,3.8
 2024-10-27,Palos Blancos_M (GPRS),,,,,6.1
 2024-10-27,Pampas de Lequezana,24.2,4.1,,,
@@ -64686,6 +64707,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-28,Pailon - Pozo del Tigre (GPRS),26.94,26.94,81.1,81.1,
 2024-10-28,Pairumani,29.0,13.0,,,2.0
 2024-10-28,Palca_LP,24.0,6.0,,,
+2024-10-28,Palmar Grande,37.0,20.0,,,
 2024-10-28,Palos Blancos S.(GPRS),34.2,22.5,88.7,44.5,
 2024-10-28,Palos Blancos_M (GPRS),35.41,21.58,100.0,46.25,
 2024-10-28,Pampas de Lequezana,23.5,8.2,,,
@@ -64887,6 +64909,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-29,Pailon - Pozo del Tigre (GPRS),27.59,27.59,82.1,82.1,
 2024-10-29,Pairumani,28.0,14.0,,,
 2024-10-29,Palca_LP,25.0,8.0,,,
+2024-10-29,Palmar Grande,40.0,21.0,,,
 2024-10-29,Palos Blancos S.(GPRS),35.1,24.5,85.2,42.6,
 2024-10-29,Palos Blancos_M (GPRS),,,,,0.2
 2024-10-29,Pampas de Lequezana,24.1,8.4,,,
@@ -65100,6 +65123,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-30,Pailon - Pozo del Tigre (GPRS),27.72,27.72,78.21,78.21,4.2
 2024-10-30,Pairumani,29.0,13.0,,,2.0
 2024-10-30,Palca_LP,25.0,8.0,,,7.3
+2024-10-30,Palmar Grande,42.0,22.0,,,
 2024-10-30,Palos Blancos S.(GPRS),34.5,23.9,85.2,47.2,
 2024-10-30,Palos Blancos_M (GPRS),,,,,2.7
 2024-10-30,Pampas de Lequezana,22.3,10.0,,,
@@ -65756,6 +65780,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-02,Pailon - Pozo del Tigre (GPRS),32.61,25.37,91.8,59.65,
 2024-11-02,Pairumani,28.0,12.0,,,
 2024-11-02,Palca_LP,29.0,7.0,,,
+2024-11-02,Palmar Grande,38.0,,,,
 2024-11-02,Palos Blancos S.(GPRS),,,,,3.0
 2024-11-02,Palos Blancos_M (GPRS),,,,,4.2
 2024-11-02,Pampas de Lequezana,24.0,9.1,,,
@@ -66153,6 +66178,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-04,Pairumani,29.0,13.0,,,
 2024-11-04,Palca,,,,,7.6
 2024-11-04,Palca_LP,,,,,3.9
+2024-11-04,Palmar Grande,36.0,,,,
 2024-11-04,Palos Blancos S.(GPRS),,,,,0.4
 2024-11-04,Palos Blancos_M (GPRS),,,,,27.1
 2024-11-04,Pampas de Lequezana,25.6,10.0,,,
@@ -67260,6 +67286,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-09,Pailon - Pozo del Tigre (GPRS),37.43,21.93,87.9,26.01,
 2024-11-09,Pairumani,28.0,13.0,,,
 2024-11-09,Palca_LP,26.0,7.0,,,
+2024-11-09,Palmar Grande,34.0,,,,
 2024-11-09,Palos Blancos S.(GPRS),,,,,0.2
 2024-11-09,Palos Blancos_M (GPRS),,,,,4.7
 2024-11-09,Pampas de Lequezana,20.5,9.3,,,
@@ -67455,6 +67482,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-10,Pailon - Pozo del Tigre (GPRS),38.23,27.3,82.0,30.05,
 2024-11-10,Pairumani,29.0,13.0,,,
 2024-11-10,Palca_LP,27.0,6.0,,,
+2024-11-10,Palmar Grande,38.0,,,,
 2024-11-10,Palos Blancos S.(GPRS),,,,,0.2
 2024-11-10,Palos Blancos_M (GPRS),36.35,23.13,100.0,44.19,
 2024-11-10,Pampas de Lequezana,24.3,10.0,,,
@@ -67646,6 +67674,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-11,Pailon - Pozo del Tigre (GPRS),37.11,18.07,95.8,45.97,
 2024-11-11,Pairumani,30.0,12.0,,,
 2024-11-11,Palca_LP,29.0,7.0,,,
+2024-11-11,Palmar Grande,30.0,,,,
 2024-11-11,Palos Blancos S.(GPRS),,,,,0.2
 2024-11-11,Palos Blancos_M (GPRS),37.63,24.96,97.85,37.22,
 2024-11-11,Pampas de Lequezana,22.0,8.4,,,
@@ -68077,6 +68106,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-13,Pailon - Pozo del Tigre (GPRS),20.88,20.88,56.69,56.69,
 2024-11-13,Pairumani,29.0,12.0,,,1.8
 2024-11-13,Palca_LP,,,,,0.6
+2024-11-13,Palmar Grande,33.0,,,,
 2024-11-13,Palos Blancos S.(GPRS),,,,,0.2
 2024-11-13,Palos Blancos_M (GPRS),,,,,1.4
 2024-11-13,Pampas de Lequezana,25.8,5.2,,,
@@ -68285,6 +68315,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-14,Pailon - Pozo del Tigre (GPRS),25.64,25.64,62.99,62.99,
 2024-11-14,Pairumani,28.0,13.0,,,
 2024-11-14,Palca_LP,,,,,0.8
+2024-11-14,Palmar Grande,36.0,,,,
 2024-11-14,Palos Blancos S.(GPRS),,,,,0.2
 2024-11-14,Palos Blancos_M (GPRS),34.3,19.96,100.0,42.31,
 2024-11-14,Pampas de Lequezana,23.6,10.5,,,
@@ -68482,6 +68513,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-15,Pailon - Pozo del Tigre (GPRS),27.98,27.98,51.75,51.75,
 2024-11-15,Pairumani,29.0,14.0,,,
 2024-11-15,Palca_LP,24.0,8.0,,,
+2024-11-15,Palmar Grande,38.0,,,,
 2024-11-15,Palos Blancos S.(GPRS),,,,,0.2
 2024-11-15,Palos Blancos_M (GPRS),34.18,20.31,100.0,40.15,
 2024-11-15,Pampas de Lequezana,25.0,12.6,,,
@@ -68682,6 +68714,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-16,Pairumani,29.0,13.0,,,
 2024-11-16,Palca,,,,,4.0
 2024-11-16,Palca_LP,24.0,6.0,,,
+2024-11-16,Palmar Grande,41.0,,,,
 2024-11-16,Palos Blancos S.(GPRS),33.6,23.6,90.1,49.9,
 2024-11-16,Palos Blancos_M (GPRS),35.08,23.55,97.27,45.27,
 2024-11-16,Pampas de Lequezana,20.1,11.4,,,
@@ -68894,6 +68927,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-17,Pairumani,29.0,12.0,,,
 2024-11-17,Palca,,,,,14.2
 2024-11-17,Palca_LP,,,,,11.9
+2024-11-17,Palmar Grande,42.0,,,,
 2024-11-17,Palos Blancos S.(GPRS),,,,,0.2
 2024-11-17,Palos Blancos_M (GPRS),,,,,46.0
 2024-11-17,Pampas de Lequezana,24.3,9.0,,,
@@ -69386,6 +69420,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-19,Pairumani,27.0,13.0,,,5.3
 2024-11-19,Palca,,,,,4.3
 2024-11-19,Palca_LP,,,,,5.3
+2024-11-19,Palmar Grande,26.0,,,,
 2024-11-19,Palos Blancos S.(GPRS),29.0,22.2,98.4,67.1,
 2024-11-19,Palos Blancos_M (GPRS),,,,,15.5
 2024-11-19,Pampas de Lequezana,19.6,9.0,,,27.4
@@ -70369,6 +70404,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-23,Pairumani,28.0,12.0,,,
 2024-11-23,Palca,,,,,6.5
 2024-11-23,Palca_LP,,,,,6.7
+2024-11-23,Palmar Grande,37.0,,,,
 2024-11-23,Palos Blancos S.(GPRS),,,,,0.2
 2024-11-23,Palos Blancos_M (GPRS),,,,,3.0
 2024-11-23,Pampas de Lequezana,20.3,11.0,,,2.0
@@ -70600,6 +70636,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-24,Pairumani,27.0,13.0,,,
 2024-11-24,Palca,,,,,7.6
 2024-11-24,Palca_LP,,,,,8.4
+2024-11-24,Palmar Grande,41.0,,,,
 2024-11-24,Palos Blancos S.(GPRS),,,,,0.2
 2024-11-24,Palos Blancos_M (GPRS),,,,,2.7
 2024-11-24,Pampas de Lequezana,23.8,11.5,,,
@@ -70816,6 +70853,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-25,Pairumani,27.0,12.0,,,5.0
 2024-11-25,Palca,,,,,9.2
 2024-11-25,Palca_LP,,,,,0.5
+2024-11-25,Palmar Grande,42.0,,,,
 2024-11-25,Palos Blancos S.(GPRS),36.2,25.4,89.4,44.6,
 2024-11-25,Palos Blancos_M (GPRS),37.08,25.25,99.61,46.28,
 2024-11-25,Pampas de Lequezana,22.6,10.8,,,
@@ -71033,6 +71071,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-26,Pairumani,28.0,13.0,,,8.5
 2024-11-26,Palca,,,,,5.3
 2024-11-26,Palca_LP,27.0,10.0,,,
+2024-11-26,Palmar Grande,40.0,,,,
 2024-11-26,Palos Blancos S.(GPRS),,,,,0.2
 2024-11-26,Palos Blancos_M (GPRS),34.72,26.1,96.4,59.38,
 2024-11-26,Pampas de Lequezana,23.1,11.5,,,
@@ -71251,6 +71290,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-27,Pairumani,27.0,11.0,,,10.5
 2024-11-27,Palca,,,,,3.1
 2024-11-27,Palca_LP,,,,,1.9
+2024-11-27,Palmar Grande,40.0,,,,
 2024-11-27,Palos Blancos,,,,,7.4
 2024-11-27,Palos Blancos S.(GPRS),33.1,24.1,92.9,55.8,
 2024-11-27,Palos Blancos_M (GPRS),34.47,23.95,100.0,57.19,
@@ -71475,6 +71515,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-28,Pairumani,29.0,12.0,,,15.5
 2024-11-28,Palca,,,,,3.2
 2024-11-28,Palca_LP,,,,,2.8
+2024-11-28,Palmar Grande,38.0,,,,
 2024-11-28,Palos Blancos S.(GPRS),,,,,0.2
 2024-11-28,Palos Blancos_M (GPRS),34.02,24.53,99.98,58.1,
 2024-11-28,Pampas de Lequezana,23.1,12.0,,,
@@ -72167,6 +72208,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-01,Pairumani,,,,,3.4
 2024-12-01,Palca,,,,,9.8
 2024-12-01,Palca_LP,,,,,10.6
+2024-12-01,Palmar Grande,37.0,24.0,,,
 2024-12-01,Palos Blancos,,,,,1.0
 2024-12-01,Palos Blancos S.(GPRS),34.2,25.3,92.1,52.4,
 2024-12-01,Palos Blancos_M (GPRS),,,,,0.5
@@ -72222,6 +72264,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-01,Santiago de Huata,,,,,27.4
 2024-12-01,Santiago de Machaca,,,,,4.5
 2024-12-01,Santivañez,31.0,5.5,,,
+2024-12-01,Sara Ana,35.0,26.0,,,
 2024-12-01,Sarco,,,,,0.2
 2024-12-01,Sauce Pilapata - SDC (GPRS),25.18,14.85,87.5,38.33,
 2024-12-01,Sauce Pilata - SDC (GPRS),25.18,14.85,87.5,38.33,
@@ -72387,6 +72430,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-02,Pailon - Pozo del Tigre (GPRS),30.66,30.66,70.24,70.24,
 2024-12-02,Pairumani,,,,,3.1
 2024-12-02,Palca_LP,27.0,8.0,,,
+2024-12-02,Palmar Grande,22.0,20.0,,,
 2024-12-02,Palos Blancos S.(GPRS),,,,,0.2
 2024-12-02,Palos Blancos_M (GPRS),,,,,8.2
 2024-12-02,Pampas de Lequezana,20.6,9.0,,,
@@ -72619,6 +72663,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-03,Pairumani,29.0,12.0,,,
 2024-12-03,Palca,,,,,20.1
 2024-12-03,Palca_LP,,,,,23.4
+2024-12-03,Palmar Grande,24.0,20.0,,,
 2024-12-03,Palos Blancos S.(GPRS),32.0,22.5,99.1,56.8,
 2024-12-03,Palos Blancos_M (GPRS),,,,,13.1
 2024-12-03,Pampas de Lequezana,19.3,10.3,,,
@@ -72680,6 +72725,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-03,Santa Ana - Yacuma,27.0,27.0,82.9,82.9,
 2024-12-03,Santiago de Huata,,,,,11.3
 2024-12-03,Santivañez,34.4,3.3,,,
+2024-12-03,Sara Ana,23.0,23.0,,,
 2024-12-03,Sarco,,,,,4.2
 2024-12-03,Sauce Pilapata - SDC (GPRS),15.1,10.76,100.0,78.57,3.7
 2024-12-03,Sauce Pilata - SDC (GPRS),15.1,10.76,100.0,78.57,3.7
@@ -72846,6 +72892,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-04,Pairumani,28.0,13.0,,,
 2024-12-04,Palca,,,,,3.1
 2024-12-04,Palca_LP,26.0,8.0,,,
+2024-12-04,Palmar Grande,31.0,19.0,,,
 2024-12-04,Palos Blancos S.(GPRS),24.7,21.9,93.5,77.3,
 2024-12-04,Palos Blancos_M (GPRS),,,,,2.8
 2024-12-04,Pampas de Lequezana,21.7,13.1,,,
@@ -72901,6 +72948,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-04,Santa Ana - Yacuma,22.0,22.0,99.1,99.1,
 2024-12-04,Santiago de Huata,,,,,3.2
 2024-12-04,Santivañez,32.2,4.4,,,
+2024-12-04,Sara Ana,24.5,23.0,,,
 2024-12-04,Sarco,33.3,15.5,,,
 2024-12-04,Sauce Pilapata - SDC (GPRS),16.02,9.87,100.0,84.1,1.0
 2024-12-04,Sauce Pilata - SDC (GPRS),16.02,9.87,100.0,84.1,1.0
@@ -73038,6 +73086,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-05,Pailon - Pozo del Tigre (GPRS),25.19,25.19,80.2,80.2,
 2024-12-05,Pairumani,29.0,14.0,,,
 2024-12-05,Palca_LP,22.0,10.0,,,
+2024-12-05,Palmar Grande,38.0,20.0,,,
 2024-12-05,Pampas de Lequezana,23.4,14.5,,,
 2024-12-05,Parotani,30.0,11.0,,,
 2024-12-05,Patacamaya (GPRS),16.47,16.47,,,
@@ -73232,6 +73281,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-06,Pailon - Pozo del Tigre (GPRS),31.9,23.89,100.0,61.87,
 2024-12-06,Pairumani,29.0,13.0,,,
 2024-12-06,Palca_LP,23.0,9.0,,,
+2024-12-06,Palmar Grande,38.0,21.0,,,
 2024-12-06,Palos Blancos S.(GPRS),32.2,23.4,93.9,57.4,
 2024-12-06,Palos Blancos_M (GPRS),31.46,25.06,99.95,64.09,
 2024-12-06,Pampas de Lequezana,20.0,12.7,,,
@@ -73284,6 +73334,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-06,Santa Ana - Yacuma,26.0,26.0,93.4,93.4,
 2024-12-06,Santiago de Huata,,,,,1.6
 2024-12-06,Santivañez,34.4,6.7,,,
+2024-12-06,Sara Ana,31.0,22.5,,,
 2024-12-06,Sarco,33.3,19.0,,,
 2024-12-06,Sauce Pilapata - SDC (GPRS),17.79,17.79,60.07,60.07,
 2024-12-06,Sauce Pilata - SDC (GPRS),17.79,17.79,60.07,60.07,
@@ -73448,6 +73499,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-07,Pairumani,,,,,2.0
 2024-12-07,Palca,,,,,3.5
 2024-12-07,Palca_LP,22.0,10.0,,,
+2024-12-07,Palmar Grande,35.0,22.0,,,
 2024-12-07,Palos Blancos S.(GPRS),,,,,0.2
 2024-12-07,Palos Blancos_H (GPRS),,,,,6.0
 2024-12-07,Palos Blancos_M (GPRS),29.16,23.26,99.99,77.23,
@@ -73667,6 +73719,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-08,Pairumani,29.0,14.0,,,
 2024-12-08,Palca,,,,,4.0
 2024-12-08,Palca_LP,23.0,9.0,,,
+2024-12-08,Palmar Grande,27.0,14.0,,,6.3
 2024-12-08,Palos Blancos,,,,,10.2
 2024-12-08,Palos Blancos S.(GPRS),29.2,23.7,99.2,75.0,
 2024-12-08,Palos Blancos_M (GPRS),,,,,8.3
@@ -73721,6 +73774,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-08,Santiago de Huata,20.0,3.0,,,
 2024-12-08,Santiago de Machaca,,,,,8.2
 2024-12-08,Santivañez,30.0,14.4,,,
+2024-12-08,Sara Ana,30.0,24.0,,,
 2024-12-08,Sarco,29.4,16.7,,,
 2024-12-08,Sauce Pilapata - SDC (GPRS),21.81,11.85,100.0,59.27,8.4
 2024-12-08,Sauce Pilata - SDC (GPRS),21.81,11.85,100.0,59.27,8.4
@@ -73897,6 +73951,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-09,Pailon - Pozo del Tigre (GPRS),,,,,8.6
 2024-12-09,Pairumani,,,,,1.0
 2024-12-09,Palca_LP,,,,,4.2
+2024-12-09,Palmar Grande,27.0,14.0,,,1.2
 2024-12-09,Palos Blancos S.(GPRS),,,,,0.2
 2024-12-09,Palos Blancos_H (GPRS),,,,,31.0
 2024-12-09,Palos Blancos_M (GPRS),,,,,5.3
@@ -74120,6 +74175,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-10,Pailon - Pozo del Tigre (GPRS),29.29,21.54,100.0,67.36,
 2024-12-10,Pairumani,28.0,13.0,,,
 2024-12-10,Palca_LP,25.0,8.0,,,
+2024-12-10,Palmar Grande,30.0,20.0,,,
 2024-12-10,Palos Blancos S.(GPRS),,,,,0.2
 2024-12-10,Palos Blancos_M (GPRS),,,,,9.7
 2024-12-10,Pampas de Lequezana,23.7,11.9,,,
@@ -74173,6 +74229,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-10,Santa Ana - Yacuma,27.0,27.0,88.0,88.0,
 2024-12-10,Santiago de Huata,20.0,6.0,,,
 2024-12-10,Santivañez,32.2,16.7,,,
+2024-12-10,Sara Ana,29.0,24.5,,,
 2024-12-10,Sarco,,,,,4.0
 2024-12-10,Sauce Pilapata - SDC (GPRS),19.63,11.46,100.0,69.86,0.2
 2024-12-10,Sauce Pilata - SDC (GPRS),19.63,11.46,100.0,69.86,0.2
@@ -74327,6 +74384,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-11,Pailon - Pozo del Tigre (GPRS),36.0,25.06,96.1,47.26,
 2024-12-11,Pairumani,28.0,12.0,,,
 2024-12-11,Palca_LP,26.0,10.0,,,
+2024-12-11,Palmar Grande,31.0,21.0,,,
 2024-12-11,Palos Blancos S.(GPRS),,,,,0.2
 2024-12-11,Palos Blancos_H (GPRS),,,,,12.0
 2024-12-11,Palos Blancos_M (GPRS),,,,,0.1
@@ -74530,6 +74588,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-12,Pailon - Pozo del Tigre (GPRS),30.07,30.07,77.52,77.52,
 2024-12-12,Pairumani,29.0,13.0,,,
 2024-12-12,Palca_LP,21.0,8.0,,,
+2024-12-12,Palmar Grande,38.0,24.0,,,
 2024-12-12,Palos Blancos S.(GPRS),30.2,23.4,98.9,71.1,
 2024-12-12,Palos Blancos_H (GPRS),,,,,1.0
 2024-12-12,Palos Blancos_M (GPRS),31.02,23.67,99.99,71.17,
@@ -74581,6 +74640,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-12,Santiago de Huata,21.0,4.0,,,
 2024-12-12,Santiago de Machaca,,,,,1.0
 2024-12-12,Santivañez,31.1,14.4,,,
+2024-12-12,Sara Ana,31.0,26.0,,,
 2024-12-12,Sarco,33.9,15.5,,,
 2024-12-12,Sauce Pilapata - SDC (GPRS),23.97,14.52,78.81,37.53,
 2024-12-12,Sauce Pilata - SDC (GPRS),23.97,14.52,78.81,37.53,
@@ -74738,6 +74798,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-13,Pailon - Pozo del Tigre (GPRS),27.27,27.27,85.5,85.5,0.4
 2024-12-13,Pairumani,28.0,14.0,,,
 2024-12-13,Palca_LP,25.0,8.0,,,
+2024-12-13,Palmar Grande,37.0,24.0,,,
 2024-12-13,Palos Blancos S.(GPRS),36.8,24.7,91.7,42.7,
 2024-12-13,Palos Blancos_M (GPRS),,,,,4.7
 2024-12-13,Pampas de Lequezana,24.1,12.8,,,1.0
@@ -74790,6 +74851,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-13,Santa Ana - Yacuma,25.0,25.0,93.3,93.3,
 2024-12-13,Santiago de Huata,19.0,3.0,,,
 2024-12-13,Santivañez,32.2,15.5,,,
+2024-12-13,Sara Ana,36.0,22.5,,,
 2024-12-13,Sarco,35.5,15.5,,,
 2024-12-13,Sauce Pilapata - SDC (GPRS),25.14,10.93,100.0,38.98,
 2024-12-13,Sauce Pilata - SDC (GPRS),25.14,10.93,100.0,38.98,
@@ -74954,6 +75016,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-14,Pailon - Pozo del Tigre (GPRS),31.31,21.93,92.0,56.08,1.8
 2024-12-14,Pairumani,29.0,13.0,,,
 2024-12-14,Palca_LP,24.0,8.0,,,
+2024-12-14,Palmar Grande,34.0,18.0,,,0.1
 2024-12-14,Palos Blancos S.(GPRS),35.5,24.4,89.3,43.2,
 2024-12-14,Palos Blancos_M (GPRS),34.99,22.77,100.0,49.82,
 2024-12-14,Pampas de Lequezana,22.2,10.2,,,
@@ -75008,6 +75071,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-14,Santiago de Huata,,,,,4.5
 2024-12-14,Santiago de Machaca,,,,,9.5
 2024-12-14,Santivañez,30.0,8.9,,,
+2024-12-14,Sara Ana,35.0,26.0,,,
 2024-12-14,Sarco,,,,,2.4
 2024-12-14,Sauce Pilapata - SDC (GPRS),20.37,9.11,100.0,65.69,4.0
 2024-12-14,Sauce Pilata - SDC (GPRS),20.37,9.11,100.0,65.69,4.0
@@ -75154,6 +75218,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-15,Pailon - Pozo del Tigre (GPRS),28.25,28.25,64.37,64.37,
 2024-12-15,Pairumani,29.0,13.0,,,
 2024-12-15,Palca_LP,25.0,7.0,,,
+2024-12-15,Palmar Grande,36.0,21.0,,,
 2024-12-15,Palos Blancos S.(GPRS),,,,,0.2
 2024-12-15,Palos Blancos_M (GPRS),,,,,0.9
 2024-12-15,Pampas de Lequezana,20.5,10.9,,,
@@ -75349,6 +75414,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-16,Pailon - Pozo del Tigre (GPRS),36.98,24.21,91.5,37.72,
 2024-12-16,Pairumani,29.0,14.0,,,
 2024-12-16,Palca_LP,25.0,8.0,,,
+2024-12-16,Palmar Grande,38.0,18.0,,,
 2024-12-16,Palos Blancos S.(GPRS),30.6,21.4,96.2,61.4,
 2024-12-16,Palos Blancos_M (GPRS),,,,,0.8
 2024-12-16,Pampas de Lequezana,25.4,12.0,,,
@@ -75399,6 +75465,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-16,Santiago de Huata,20.0,5.0,,,
 2024-12-16,Santiago de Machaca,,,,,2.5
 2024-12-16,Santivañez,31.1,12.2,,,
+2024-12-16,Sara Ana,32.0,22.0,,,
 2024-12-16,Sarco,33.0,17.0,,,
 2024-12-16,Sauce Pilapata - SDC (GPRS),19.48,10.39,94.3,56.89,
 2024-12-16,Sauce Pilata - SDC (GPRS),19.48,10.39,94.3,56.89,
@@ -75549,6 +75616,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-17,Pailon - Pozo del Tigre (GPRS),29.23,29.23,75.51,75.51,
 2024-12-17,Pairumani,29.0,13.0,,,
 2024-12-17,Palca_LP,24.0,7.0,,,
+2024-12-17,Palmar Grande,34.0,21.0,,,
 2024-12-17,Palos Blancos S.(GPRS),,,,,0.2
 2024-12-17,Palos Blancos_M (GPRS),35.43,22.11,100.0,42.09,
 2024-12-17,Pampas de Lequezana,22.3,13.4,,,
@@ -75594,6 +75662,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-17,Santa Ana - Yacuma,26.0,26.0,87.9,87.9,
 2024-12-17,Santiago de Huata,19.0,4.0,,,
 2024-12-17,Santivañez,31.1,13.3,,,
+2024-12-17,Sara Ana,36.0,22.0,,,
 2024-12-17,Sarco,33.9,16.1,,,
 2024-12-17,Sauce Pilapata - SDC (GPRS),14.17,14.17,75.32,75.32,
 2024-12-17,Sauce Pilata - SDC (GPRS),14.17,14.17,75.32,75.32,
@@ -75740,6 +75809,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-18,Pairumani,28.0,14.0,,,
 2024-12-18,Palca,,,,,3.3
 2024-12-18,Palca_LP,25.0,6.0,,,
+2024-12-18,Palmar Grande,40.0,21.0,,,
 2024-12-18,Palos Blancos S.(GPRS),35.9,24.1,90.0,41.2,
 2024-12-18,Palos Blancos_M (GPRS),35.88,23.64,98.28,43.95,
 2024-12-18,Pampas de Lequezana,22.4,15.0,,,
@@ -75788,6 +75858,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-18,Santiago de Huata,18.0,5.0,,,
 2024-12-18,Santiago de Machaca,,,,,12.5
 2024-12-18,Santivañez,33.3,11.1,,,
+2024-12-18,Sara Ana,33.0,21.0,,,
 2024-12-18,Sarco,32.2,15.0,,,
 2024-12-18,Sauce Pilapata - SDC (GPRS),23.45,14.47,76.94,36.66,
 2024-12-18,Sauce Pilata - SDC (GPRS),23.45,14.47,76.94,36.66,
@@ -75949,6 +76020,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-19,Pairumani,28.0,13.0,,,
 2024-12-19,Palca,,,,,3.8
 2024-12-19,Palca_LP,,,,,6.1
+2024-12-19,Palmar Grande,34.0,23.0,,,
 2024-12-19,Palos Blancos S.(GPRS),,,,,0.2
 2024-12-19,Palos Blancos_M (GPRS),35.56,24.72,98.5,46.88,
 2024-12-19,Pampas de Lequezana,20.0,7.2,,,
@@ -76004,6 +76076,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-19,Santiago de Huata,,,,,4.9
 2024-12-19,Santiago de Machaca,,,,,7.6
 2024-12-19,Santivañez,30.0,8.9,,,
+2024-12-19,Sara Ana,35.0,24.0,,,
 2024-12-19,Sarco,32.2,17.0,,,
 2024-12-19,Sauce Pilapata - SDC (GPRS),22.07,10.62,100.0,52.67,0.4
 2024-12-19,Sauce Pilata - SDC (GPRS),22.07,10.62,100.0,52.67,0.4
@@ -76178,6 +76251,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-20,Pailon - Pozo del Tigre (GPRS),24.8,24.8,96.1,96.1,5.8
 2024-12-20,Pairumani,,,,,28.3
 2024-12-20,Palca_LP,20.0,10.0,,,
+2024-12-20,Palmar Grande,39.0,18.0,,,
 2024-12-20,Palos Blancos S.(GPRS),32.0,24.0,98.4,59.1,
 2024-12-20,Palos Blancos_H (GPRS),,,,,189.0
 2024-12-20,Palos Blancos_M (GPRS),,,,,0.5
@@ -76235,6 +76309,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-20,Santiago de Huata,,,,,5.8
 2024-12-20,Santiago de Machaca,,,,,3.7
 2024-12-20,Santivañez,,,,,15.7
+2024-12-20,Sara Ana,31.0,22.3,,,
 2024-12-20,Sarco,,,,,10.9
 2024-12-20,Sauce Pilapata - SDC (GPRS),21.89,11.75,96.1,66.12,24.4
 2024-12-20,Sauce Pilata - SDC (GPRS),21.89,11.75,96.1,66.12,24.4
@@ -76392,6 +76467,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-21,Pailon - Pozo del Tigre (GPRS),35.16,24.41,97.1,52.66,
 2024-12-21,Pairumani,,,,,23.2
 2024-12-21,Palca_LP,26.0,8.0,,,
+2024-12-21,Palmar Grande,40.0,22.0,,,
 2024-12-21,Palos Blancos S.(GPRS),31.6,23.4,96.9,60.1,
 2024-12-21,Palos Blancos_H (GPRS),,,,,2.0
 2024-12-21,Palos Blancos_M (GPRS),,,,,7.4
@@ -76620,6 +76696,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-22,Pailon - Pozo del Tigre (GPRS),26.69,26.69,87.2,87.2,
 2024-12-22,Pairumani,,,,,15.0
 2024-12-22,Palca_LP,,,,,1.7
+2024-12-22,Palmar Grande,33.0,21.8,,,36.2
 2024-12-22,Palos Blancos,,,,,20.4
 2024-12-22,Palos Blancos S.(GPRS),,,,,0.2
 2024-12-22,Palos Blancos_H (GPRS),,,,,12.0
@@ -76840,6 +76917,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-23,Pailon - Pozo del Tigre (GPRS),23.3,23.3,98.6,98.6,18.4
 2024-12-23,Pairumani,29.0,13.0,,,
 2024-12-23,Palca_LP,,,,,0.5
+2024-12-23,Palmar Grande,34.0,20.0,,,
 2024-12-23,Palos Blancos,,,,,4.2
 2024-12-23,Palos Blancos S.(GPRS),,,,,0.2
 2024-12-23,Palos Blancos_H (GPRS),,,,,29.0
@@ -76896,6 +76974,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-23,Santiago de Huata,,,,,4.3
 2024-12-23,Santiago de Machaca,,,,,12.6
 2024-12-23,Santivañez,31.1,7.8,,,
+2024-12-23,Sara Ana,32.0,23.0,,,
 2024-12-23,Sarco,,,,,0.8
 2024-12-23,Sauce Pilapata - SDC (GPRS),20.44,10.93,100.0,49.46,1.6
 2024-12-23,Sauce Pilata - SDC (GPRS),,,,,1.6
@@ -77051,6 +77130,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-24,Pailon - Pozo del Tigre (GPRS),27.8,27.8,77.05,77.05,
 2024-12-24,Pairumani,28.0,13.0,,,
 2024-12-24,Palca_LP,29.0,8.0,,,
+2024-12-24,Palmar Grande,35.0,21.0,,,6.4
 2024-12-24,Palos Blancos,,,,,7.3
 2024-12-24,Palos Blancos S.(GPRS),33.8,23.9,92.4,54.7,
 2024-12-24,Palos Blancos_M (GPRS),,,,,1.8
@@ -77103,6 +77183,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-24,Santa Ana - Yacuma,27.0,27.0,88.0,88.0,
 2024-12-24,Santiago de Huata,21.0,3.0,,,
 2024-12-24,Santivañez,,,,,8.1
+2024-12-24,Sara Ana,30.5,23.5,,,
 2024-12-24,Sarco,33.9,14.4,,,
 2024-12-24,Sauce Pilapata - SDC (GPRS),14.17,14.17,81.3,81.3,0.1
 2024-12-24,Sauce Pilata - SDC (GPRS),14.17,14.17,81.3,81.3,0.1
@@ -77259,6 +77340,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-25,Pailon - Pozo del Tigre (GPRS),22.13,22.13,80.4,80.4,13.8
 2024-12-25,Pairumani,28.0,12.0,,,
 2024-12-25,Palca_LP,27.0,9.0,,,
+2024-12-25,Palmar Grande,30.0,18.0,,,
 2024-12-25,Palos Blancos,,,,,23.4
 2024-12-25,Palos Blancos S.(GPRS),,,,,0.2
 2024-12-25,Palos Blancos_M (GPRS),,,,,1.8
@@ -77460,6 +77542,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-26,Pailon - Pozo del Tigre (GPRS),24.08,24.08,62.38,62.38,
 2024-12-26,Pairumani,29.0,13.0,,,
 2024-12-26,Palca_LP,28.0,8.0,,,
+2024-12-26,Palmar Grande,32.0,18.0,,,
 2024-12-26,Palos Blancos S.(GPRS),,,,,0.2
 2024-12-26,Palos Blancos_M (GPRS),,,,,24.6
 2024-12-26,Pampas de Lequezana,22.0,11.0,,,
@@ -77650,6 +77733,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-27,Pailon - Pozo del Tigre (GPRS),25.57,25.57,63.33,63.33,
 2024-12-27,Pairumani,28.0,14.0,,,
 2024-12-27,Palca_LP,26.0,6.0,,,
+2024-12-27,Palmar Grande,37.0,17.0,,,
 2024-12-27,Palos Blancos S.(GPRS),34.1,23.4,89.3,43.2,
 2024-12-27,Palos Blancos_M (GPRS),34.05,20.93,100.0,45.05,
 2024-12-27,Pampas de Lequezana,18.4,5.1,,,
@@ -77695,6 +77779,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-27,Santiago de Huata,19.0,2.0,,,
 2024-12-27,Santiago de Machaca,,,,,11.0
 2024-12-27,Santivañez,35.5,4.4,,,
+2024-12-27,Sara Ana,34.0,20.0,,,
 2024-12-27,Sarco,32.2,14.4,,,
 2024-12-27,Sauce Pilapata - SDC (GPRS),21.17,9.94,96.5,50.28,
 2024-12-27,Sauce Pilata - SDC (GPRS),21.17,9.94,96.5,50.28,
@@ -77830,6 +77915,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-28,Pailon - Pozo del Tigre (GPRS),27.73,27.73,54.49,54.49,
 2024-12-28,Pairumani,,,,,16.2
 2024-12-28,Palca_LP,25.0,7.0,,,
+2024-12-28,Palmar Grande,38.0,18.0,,,
 2024-12-28,Palos Blancos S.(GPRS),,,,,0.2
 2024-12-28,Palos Blancos_M (GPRS),35.15,22.72,99.98,45.1,
 2024-12-28,Pampas de Lequezana,24.1,10.4,,,
@@ -77872,6 +77958,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-28,Santiago de Huata,20.0,3.0,,,
 2024-12-28,Santiago de Machaca,,,,,4.5
 2024-12-28,Santivañez,,,,,6.6
+2024-12-28,Sara Ana,35.0,24.0,,,
 2024-12-28,Sarco,32.2,15.5,,,
 2024-12-28,Sauce Pilapata - SDC (GPRS),12.05,12.05,79.74,79.74,
 2024-12-28,Sauce Pilata - SDC (GPRS),12.05,12.05,79.74,79.74,
@@ -78013,6 +78100,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-29,Pailon - Pozo del Tigre (GPRS),26.95,26.95,61.05,61.05,
 2024-12-29,Pairumani,29.0,14.0,,,
 2024-12-29,Palca_LP,25.0,8.0,,,
+2024-12-29,Palmar Grande,37.0,20.0,,,
 2024-12-29,Palos Blancos,,,,,1.2
 2024-12-29,Palos Blancos S.(GPRS),34.0,21.9,93.2,46.1,
 2024-12-29,Palos Blancos_M (GPRS),33.81,20.72,100.0,50.78,
@@ -78060,6 +78148,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-29,Santiago de Huata,18.0,5.0,,,
 2024-12-29,Santiago de Machaca,,,,,3.5
 2024-12-29,Santivañez,33.3,5.5,,,
+2024-12-29,Sara Ana,33.5,23.5,,,
 2024-12-29,Sarco,,,,,6.4
 2024-12-29,Sauce Pilapata - SDC (GPRS),20.78,10.26,94.4,46.59,
 2024-12-29,Sauce Pilata - SDC (GPRS),20.78,10.26,94.4,46.59,
@@ -78196,6 +78285,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-30,Pailon - Pozo del Tigre (GPRS),29.17,29.17,57.04,57.04,
 2024-12-30,Pairumani,28.0,13.0,,,
 2024-12-30,Palca_LP,26.0,7.0,,,
+2024-12-30,Palmar Grande,39.0,20.0,,,
 2024-12-30,Palos Blancos,,,,,8.3
 2024-12-30,Palos Blancos S.(GPRS),,,,,0.4
 2024-12-30,Palos Blancos_M (GPRS),35.31,22.14,100.0,45.3,
@@ -78243,6 +78333,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-30,Santiago de Huata,19.0,2.0,,,
 2024-12-30,Santiago de Machaca,,,,,8.6
 2024-12-30,Santivañez,32.2,6.7,,,
+2024-12-30,Sara Ana,35.0,22.0,,,
 2024-12-30,Sarco,32.2,13.7,,,
 2024-12-30,Sauce Pilapata - SDC (GPRS),14.09,14.09,72.41,72.41,
 2024-12-30,Sauce Pilata - SDC (GPRS),14.09,14.09,72.41,72.41,
@@ -78385,6 +78476,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-31,Pailon - Pozo del Tigre (GPRS),29.3,29.3,64.58,64.58,
 2024-12-31,Pairumani,29.0,14.0,,,
 2024-12-31,Palca_LP,26.0,8.0,,,
+2024-12-31,Palmar Grande,40.0,21.0,,,
 2024-12-31,Palos Blancos,,,,,14.5
 2024-12-31,Palos Blancos S.(GPRS),,,,,0.2
 2024-12-31,Palos Blancos_M (GPRS),36.61,23.43,99.4,46.95,
@@ -78432,6 +78524,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-31,Santa Ana - Yacuma,27.0,27.0,88.0,88.0,
 2024-12-31,Santiago de Huata,20.0,2.0,,,
 2024-12-31,Santivañez,30.0,4.4,,,
+2024-12-31,Sara Ana,36.5,22.0,,,
 2024-12-31,Sarco,31.7,15.0,,,
 2024-12-31,Sauce Pilapata - SDC (GPRS),23.13,13.03,78.38,42.97,
 2024-12-31,Sauce Pilata - SDC (GPRS),23.13,13.03,78.38,42.97,
