@@ -45471,6 +45471,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-23,Tucumillas,21.0,4.0,,,
 2024-07-23,Tupiza,25.0,3.4,,,
 2024-07-23,Turumayo,28.0,5.0,,,
+2024-07-23,Univalle (GPRS),,,,,1.0
 2024-07-23,Uyuni,14.0,-6.2,,,
 2024-07-23,Viacha_M (GPRS),16.44,-7.21,97.3,10.93,
 2024-07-23,Vila Vila - SDC (GPRS),19.65,7.82,68.46,31.98,
@@ -46641,6 +46642,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-29,Sauce Pilapata - SDC (GPRS),12.16,8.8,97.2,76.93,
 2024-07-29,Sauce Pilata - SDC (GPRS),12.16,8.8,97.2,76.93,
 2024-07-29,Sella Quebrada,,,,,4.1
+2024-07-29,Sena_H (GPRS),,,,,0.1
 2024-07-29,Sopachuy,15.5,11.5,,,
 2024-07-29,Sorata,23.5,4.0,,,4.5
 2024-07-29,Sucre SENAMHI,19.0,10.0,,,
@@ -46832,6 +46834,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-07-30,San Jacinto Sud,26.0,7.0,,,
 2024-07-30,San Jacinto_M (GPRS),13.18,7.64,89.3,62.09,
 2024-07-30,San Jose de Chiquitos,27.0,16.0,81.6,47.4,
+2024-07-30,San Juan Del Potrero,,,,,3.0
 2024-07-30,San Julian - Comunidad Los Angeles (GPRS),26.66,18.23,57.95,42.2,
 2024-07-30,San Julian - Nucleo 32 (GPRS),24.36,17.94,,,
 2024-07-30,San Lucas,26.0,6.0,,,
@@ -47842,6 +47845,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-04,Tucumillas,29.0,10.5,,,
 2024-08-04,Tupiza,25.4,0.0,,,
 2024-08-04,Turumayo,29.0,9.0,,,
+2024-08-04,Univalle (GPRS),,,,,3.40282346638529e+38
 2024-08-04,Uyuni,14.0,-10.0,,,
 2024-08-04,Viacha_M (GPRS),12.71,-5.25,74.54,13.9,
 2024-08-04,Vila Vila - SDC (GPRS),19.55,12.31,56.68,39.28,
@@ -48884,6 +48888,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-09,Tucumillas,18.0,-4.0,,,
 2024-08-09,Tupiza,24.0,5.2,,,
 2024-08-09,Turumayo,15.0,1.0,,,
+2024-08-09,Univalle (GPRS),,,,,-0.74
 2024-08-09,Uyuni,12.0,-10.0,,,
 2024-08-09,Viacha_M (GPRS),14.28,-5.38,91.5,17.08,
 2024-08-09,Vila Vila - SDC (GPRS),19.61,9.77,75.85,29.64,
@@ -49923,6 +49928,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-15,Tucumillas,24.0,5.0,,,
 2024-08-15,Tupiza,28.0,0.1,,,
 2024-08-15,Turumayo,34.0,2.0,,,
+2024-08-15,Univalle (GPRS),,,,,7.1
 2024-08-15,Uyuni,14.2,-6.2,,,
 2024-08-15,Viacha_M (GPRS),18.74,-5.76,96.7,17.51,
 2024-08-15,Vila Vila - SDC (GPRS),28.24,7.73,56.5,11.67,
@@ -51107,6 +51113,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-21,Tucumillas,29.0,12.0,,,
 2024-08-21,Tupiza,25.8,12.4,,,
 2024-08-21,Turumayo,35.0,8.0,,,
+2024-08-21,Univalle (GPRS),,,,,3.89
 2024-08-21,Uyuni,15.0,-0.3,,,
 2024-08-21,Viacha_M (GPRS),17.95,-2.98,97.5,17.64,
 2024-08-21,Vila Vila - SDC (GPRS),26.7,17.98,41.41,21.35,
@@ -52702,6 +52709,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-08-29,Tucumillas,21.0,2.0,,,
 2024-08-29,Tupiza,29.6,5.6,,,
 2024-08-29,Turumayo,27.0,4.0,,,
+2024-08-29,Univalle (GPRS),,,,,5.21
 2024-08-29,Uyuni,18.0,-3.0,,,
 2024-08-29,Viacha_M (GPRS),18.54,-4.98,96.7,21.03,
 2024-08-29,Vila Vila - SDC (GPRS),24.1,11.66,45.73,16.37,
@@ -53282,6 +53290,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-01,Tucumillas,21.0,0.5,,,
 2024-09-01,Tupiza,25.4,11.4,,,
 2024-09-01,Turumayo,25.0,8.0,,,
+2024-09-01,Univalle (GPRS),,,,,2.28
 2024-09-01,Uyuni,17.1,-2.3,,,
 2024-09-01,Viacha_M (GPRS),6.03,-0.06,78.89,31.18,
 2024-09-01,Vila Vila - SDC (GPRS),18.7,9.27,61.24,26.65,
@@ -53687,6 +53696,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-03,Tucumillas,25.0,5.0,,,
 2024-09-03,Tupiza,29.4,5.2,,,
 2024-09-03,Turumayo,31.0,7.0,,,
+2024-09-03,Univalle (GPRS),,,,,5.53
 2024-09-03,Uyuni,18.8,-4.2,,,
 2024-09-03,Viacha_M (GPRS),14.22,1.76,82.7,24.03,
 2024-09-03,Vila Vila - SDC (GPRS),26.7,18.94,30.1,9.23,
@@ -56003,6 +56013,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-09-15,San Jacinto Sud,27.5,9.0,,,
 2024-09-15,San Jacinto_M (GPRS),17.69,10.79,67.88,41.0,
 2024-09-15,San Javier,17.0,17.0,87.2,87.2,
+2024-09-15,San Juan Del Potrero,,,,,15.0
 2024-09-15,San Juan de Yapacaní,,,,,7.2
 2024-09-15,San Julian - Comunidad Los Angeles (GPRS),20.19,16.99,88.8,64.81,0.9
 2024-09-15,San Julian - Nucleo 32 (GPRS),20.48,17.5,,,
@@ -62227,6 +62238,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-16,San Calixto,,,,,2.2
 2024-10-16,San Jacinto Sud,31.0,14.0,,,10.5
 2024-10-16,San Jacinto_M (GPRS),27.81,13.14,96.8,33.26,10.5
+2024-10-16,San Juan Del Potrero,,,,,19.5
 2024-10-16,San Juan de Yapacaní,,,,,32.4
 2024-10-16,San Julian - Comunidad Los Angeles (GPRS),26.99,24.58,90.1,73.76,0.3
 2024-10-16,San Julian - Nucleo 32 (GPRS),31.59,21.25,,,
@@ -62421,6 +62433,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-17,Pampas de Lequezana,21.4,5.6,,,
 2024-10-17,Parotani,32.0,11.0,,,8.9
 2024-10-17,Pasankeri ,,,,,7.4
+2024-10-17,Peña Amarilla_H (SAT),,,,,44.2
 2024-10-17,Pico de loro_H- SDC (GPRS),,,,,0.1
 2024-10-17,Pinos Sud,,,,,10.4
 2024-10-17,Pocona - SDC (GPRS),25.52,17.89,48.59,28.12,
@@ -62669,6 +62682,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-18,San Jacinto_M (GPRS),19.86,14.94,94.6,69.11,
 2024-10-18,San Javier,23.0,22.0,93.2,87.7,
 2024-10-18,San Jose de Chiquitos,37.0,22.0,82.4,39.2,
+2024-10-18,San Juan Del Potrero,,,,,22.0
 2024-10-18,San Juan de Yapacaní,,,,,4.4
 2024-10-18,San Julian - Comunidad Los Angeles (GPRS),35.36,28.38,71.42,40.63,
 2024-10-18,San Julian - Nucleo 32 (GPRS),33.89,30.09,,,
@@ -64311,6 +64325,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-10-26,San Jacinto Sud,16.0,14.0,,,11.0
 2024-10-26,San Jacinto_M (GPRS),15.29,10.91,98.6,78.12,
 2024-10-26,San Javier,26.0,26.0,82.8,82.8,
+2024-10-26,San Juan Del Potrero,,,,,35.5
 2024-10-26,San Juan de Yapacaní,,,,,73.4
 2024-10-26,San Julian,,,,,15.0
 2024-10-26,San Julian - Comunidad Los Angeles (GPRS),23.93,20.39,97.3,80.3,0.3
@@ -66431,6 +66446,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-05,San Jacinto_M (GPRS),22.53,14.93,92.6,53.03,
 2024-11-05,San Jose de Chiquitos,27.0,23.0,93.2,78.1,
 2024-11-05,San Josecito,,,,,35.0
+2024-11-05,San Juan Del Potrero,,,,,15.5
 2024-11-05,San Julian - Comunidad Los Angeles (GPRS),36.96,23.73,93.1,45.2,
 2024-11-05,San Julian - Nucleo 32 (GPRS),36.32,24.27,,,0.4
 2024-11-05,San Lucas,26.0,13.5,,,
@@ -66893,6 +66909,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-07,San Javier,22.0,22.0,99.1,99.1,
 2024-11-07,San Jose de Chiquitos,32.0,22.0,99.1,62.2,
 2024-11-07,San Josecito,,,,,33.0
+2024-11-07,San Juan Del Potrero,,,,,21.5
 2024-11-07,San Juan de Yapacaní,,,,,10.0
 2024-11-07,San Julian - Comunidad Los Angeles (GPRS),35.19,25.17,93.9,49.98,0.1
 2024-11-07,San Julian - Nucleo 32 (GPRS),27.29,27.29,,,
@@ -68945,6 +68962,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-17,Potosi Los Pinos,23.0,5.0,,,
 2024-11-17,Presa Misicuni (GPRS),,,,,0.8
 2024-11-17,Pucarani,,,,,5.6
+2024-11-17,Puente Challavito_H (GPRS),,,,,9.6
 2024-11-17,Puerto Rico S.(GPRS),,,,,1.0
 2024-11-17,Puna,21.1,6.5,,,
 2024-11-17,Putucuni Calientes (GPRS),6.41,6.41,83.0,83.0,1.0
@@ -69018,6 +69036,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-17,Tupiza_1_H (GPRS),,,,,10.9
 2024-11-17,Tupiza_2_H (GPRS),,,,,0.5
 2024-11-17,Turumayo,33.0,15.0,,,
+2024-11-17,Univalle (GPRS),,,,,6.92
 2024-11-17,Uyuni,23.2,9.0,,,
 2024-11-17,Viacha_M (GPRS),15.51,4.91,91.2,54.16,13.8
 2024-11-17,Vila Vila - SDC (GPRS),17.3,17.3,60.29,60.29,
@@ -69708,6 +69727,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-20,San Jacinto_M (GPRS),20.89,15.55,92.3,62.44,
 2024-11-20,San Jose de Chiquitos,31.0,25.0,93.4,65.8,
 2024-11-20,San Josecito,,,,,3.0
+2024-11-20,San Juan Del Potrero,,,,,1.5
 2024-11-20,San Juan de Yapacaní,,,,,0.4
 2024-11-20,San Julian - Comunidad Los Angeles (GPRS),26.15,26.15,91.7,91.7,0.2
 2024-11-20,San Julian - Nucleo 32 (GPRS),26.05,26.05,,,4.0
@@ -69950,6 +69970,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-21,San Javier,23.0,23.0,99.1,99.1,
 2024-11-21,San Jose de Chiquitos,33.0,26.0,93.4,58.8,
 2024-11-21,San Josecito,,,,,2.5
+2024-11-21,San Juan Del Potrero,,,,,2.0
 2024-11-21,San Juan de Yapacaní,,,,,30.2
 2024-11-21,San Julian - Comunidad Los Angeles (GPRS),29.35,29.35,77.87,77.87,0.2
 2024-11-21,San Julian - Nucleo 32 (GPRS),32.15,23.98,,,1.4
@@ -70209,6 +70230,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-22,San Jacinto_M (GPRS),16.24,16.24,94.6,94.6,
 2024-11-22,San Jose de Chiquitos,32.0,24.0,93.4,62.2,
 2024-11-22,San Josecito,,,,,1.5
+2024-11-22,San Juan Del Potrero,,,,,12.0
 2024-11-22,San Juan de Yapacaní,,,,,4.6
 2024-11-22,San Julian,,,,,99.0
 2024-11-22,San Julian - Comunidad Los Angeles (GPRS),23.41,23.41,100.0,100.0,0.1
@@ -70446,6 +70468,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-23,San Jacinto_M (GPRS),27.02,16.1,95.9,52.16,
 2024-11-23,San Javier,28.0,28.0,78.2,78.2,
 2024-11-23,San Josecito,,,,,3.0
+2024-11-23,San Juan Del Potrero,,,,,18.0
 2024-11-23,San Juan de Yapacaní,,,,,1.4
 2024-11-23,San Julian - Comunidad Los Angeles (GPRS),26.35,26.35,90.0,90.0,0.7
 2024-11-23,San Julian - Nucleo 32 (GPRS),34.37,24.41,,,1.0
@@ -71998,6 +72021,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-30,Presa Misicuni (GPRS),14.74,9.14,94.1,59.67,
 2024-11-30,Puente Sucre,,,,,3.0
 2024-11-30,Puerto Rico S.(GPRS),,,,,12.8
+2024-11-30,Puerto Villarroel_H (GPRS),,,,,4.8
 2024-11-30,Puna,19.5,6.6,,,
 2024-11-30,Putucuni Calientes (GPRS),5.86,5.86,85.5,85.5,2.3
 2024-11-30,Ravelo,21.0,10.0,,,9.0
@@ -72158,6 +72182,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-01,Cuatro Cañadas - CEA-2 (GPRS),28.94,28.94,76.88,76.88,
 2024-12-01,Cuatro Cañadas - Colonia Chihuahua (GPRS),29.34,29.34,73.21,73.21,
 2024-12-01,Culpina,29.0,10.0,,,
+2024-12-01,Culta,17.0,6.0,,,
 2024-12-01,Desaguadero_M,16.15,6.39,89.9,45.11,
 2024-12-01,Dorado Chico,,,,,27.2
 2024-12-01,El Belen,20.0,,,,
@@ -72253,6 +72278,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-01,San Julian - Comunidad Los Angeles (GPRS),37.44,27.33,83.7,44.1,0.1
 2024-12-01,San Julian - Nucleo 32 (GPRS),36.45,27.62,,,
 2024-12-01,San Lucas,31.0,17.0,,,
+2024-12-01,San Martin,22.1,9.0,,,
 2024-12-01,San Pablo de Lipez,18.0,5.0,,,
 2024-12-01,San Pedro - Río Victoria (GPRS),35.23,26.26,86.3,55.48,
 2024-12-01,San Pedro - San Antonio (GPRS),27.57,27.57,86.3,86.3,0.2
@@ -72384,6 +72410,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-02,Cuatro Cañadas - CEA-2 (GPRS),29.8,29.8,72.59,72.59,
 2024-12-02,Cuatro Cañadas - Colonia Chihuahua (GPRS),35.8,24.67,97.6,50.77,
 2024-12-02,Culpina,22.0,10.0,,,
+2024-12-02,Culta,16.0,4.0,,,
 2024-12-02,Desaguadero_M,17.73,7.75,80.4,34.4,2.3
 2024-12-02,El Belen,17.6,,,,
 2024-12-02,El Común Caraparí,,,,,15.8
@@ -72466,10 +72493,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-02,San Jacinto Sud,28.0,18.0,,,
 2024-12-02,San Jacinto_M (GPRS),24.6,11.5,94.7,55.35,
 2024-12-02,San Jose de Chiquitos,34.0,26.0,88.0,52.3,
+2024-12-02,San Juan Del Potrero,,,,,50.0
 2024-12-02,San Juan de Yapacaní,,,,,42.6
 2024-12-02,San Julian - Comunidad Los Angeles (GPRS),30.33,30.33,69.59,69.59,0.1
 2024-12-02,San Julian - Nucleo 32 (GPRS),36.97,20.16,,,
 2024-12-02,San Lucas,,,,,8.0
+2024-12-02,San Martin,22.0,9.1,,,
 2024-12-02,San Pablo de Lipez,19.1,3.1,,,
 2024-12-02,San Pedro - Río Victoria (GPRS),28.85,28.85,77.6,77.6,
 2024-12-02,San Pedro - San Antonio (GPRS),29.33,29.33,77.8,77.8,
@@ -72608,6 +72637,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-03,Cuatro Cañadas - CEA-2 (GPRS),18.24,18.24,94.7,94.7,24.8
 2024-12-03,Cuatro Cañadas - Colonia Chihuahua (GPRS),25.19,18.58,98.1,73.43,14.4
 2024-12-03,Culpina,20.0,10.0,,,
+2024-12-03,Culta,15.0,3.0,,,
 2024-12-03,Desaguadero_M,9.59,9.59,72.22,72.22,
 2024-12-03,Dorado Chico,,,,,27.3
 2024-12-03,El Belen,18.0,,,,
@@ -72715,6 +72745,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-03,San Julian - Comunidad Los Angeles (GPRS),19.36,19.36,92.1,92.1,
 2024-12-03,San Julian - Nucleo 32 (GPRS),23.56,19.04,,,4.0
 2024-12-03,San Lucas,24.0,17.0,,,
+2024-12-03,San Martin,21.0,6.0,,,
 2024-12-03,San Pablo de Lipez,20.0,4.0,,,
 2024-12-03,San Pedro - Río Victoria (GPRS),21.97,18.53,94.8,86.1,23.8
 2024-12-03,San Pedro - San Antonio (GPRS),23.05,18.55,94.1,83.3,0.2
@@ -72757,6 +72788,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-03,Tucumillas,26.0,10.0,,,13.5
 2024-12-03,Tupiza,24.0,10.0,,,
 2024-12-03,Turumayo,24.0,11.0,,,
+2024-12-03,Univalle (GPRS),,,,,6.83
 2024-12-03,Urriolagoytia,,,,,6.0
 2024-12-03,Uyuni,25.0,8.0,,,
 2024-12-03,Viacha_M (GPRS),6.55,6.55,90.1,90.1,5.6
@@ -72847,6 +72879,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-04,Cuatro Cañadas - CEA-2 (GPRS),23.09,23.09,71.72,71.72,0.6
 2024-12-04,Cuatro Cañadas - Colonia Chihuahua (GPRS),22.38,22.38,76.58,76.58,0.8
 2024-12-04,Culpina,23.0,9.0,,,
+2024-12-04,Culta,17.0,5.0,,,
 2024-12-04,Desaguadero_M,8.35,8.35,42.81,42.81,
 2024-12-04,El Belen,20.0,,,,
 2024-12-04,El Tejar (Tarija),26.8,13.4,,,
@@ -72938,6 +72971,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-04,San Julian - Comunidad Los Angeles (GPRS),23.48,23.48,75.78,75.78,0.1
 2024-12-04,San Julian - Nucleo 32 (GPRS),22.91,22.91,,,4.6
 2024-12-04,San Lucas,30.0,17.0,,,
+2024-12-04,San Martin,22.1,5.0,,,
 2024-12-04,San Pablo de Lipez,15.0,-3.0,,,
 2024-12-04,San Pedro - Río Victoria (GPRS),21.38,21.38,85.4,85.4,16.8
 2024-12-04,San Pedro - San Antonio (GPRS),22.25,22.25,81.5,81.5,0.4
@@ -73049,6 +73083,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-05,Cuatro Cañadas - CEA-2 (GPRS),23.69,23.69,85.4,85.4,
 2024-12-05,Cuatro Cañadas - Colonia Chihuahua (GPRS),24.47,24.47,85.3,85.3,
 2024-12-05,Culpina,26.0,6.0,,,
+2024-12-05,Culta,14.0,3.0,,,
 2024-12-05,Desaguadero_M,8.54,8.54,33.79,33.79,
 2024-12-05,El Belen,19.0,,,,
 2024-12-05,El Tejar (Tarija),30.3,14.6,,,
@@ -73122,6 +73157,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-05,San Julian - Comunidad Los Angeles (GPRS),24.16,24.16,89.4,89.4,0.1
 2024-12-05,San Julian - Nucleo 32 (GPRS),28.86,23.51,,,
 2024-12-05,San Lucas,29.0,19.0,,,
+2024-12-05,San Martin,24.0,5.1,,,
 2024-12-05,San Pablo de Lipez,14.6,-4.0,,,
 2024-12-05,San Pedro - Río Victoria (GPRS),22.67,22.67,90.2,90.2,
 2024-12-05,San Pedro - San Antonio (GPRS),21.97,21.97,92.7,92.7,
@@ -73159,6 +73195,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-05,Tucumillas,25.0,10.5,,,
 2024-12-05,Tupiza,28.4,5.2,,,
 2024-12-05,Turumayo,31.0,14.0,,,
+2024-12-05,Univalle (GPRS),,,,,6.62
 2024-12-05,Uyuni,24.0,2.5,,,
 2024-12-05,Viacha_M (GPRS),9.5,9.5,96.4,96.4,
 2024-12-05,Vila Vila - SDC (GPRS),16.92,16.92,68.63,68.63,
@@ -73198,6 +73235,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-06,Buena Vista S.(GPRS),26.6,23.1,99.3,83.9,
 2024-12-06,Cabaña Forestal Oruro,25.1,4.9,,,
 2024-12-06,Caiza D,30.0,8.2,,,
+2024-12-06,Camargo_H (GPRS),,,,,2.2
 2024-12-06,Camargo_M (GPRS),34.32,19.45,59.66,11.99,
 2024-12-06,Camata,30.0,16.5,,,0.9
 2024-12-06,Camiaco_H (SAT),,,,,0.2
@@ -73206,6 +73244,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-06,Campanario,24.0,4.5,,,
 2024-12-06,Capinota,30.5,14.2,,,
 2024-12-06,Carabuco,,6.0,,,
+2024-12-06,Caranavi_H (GPRS),,,,,35.2
 2024-12-06,Carura_M - Guanay (GPRS),33.3,24.9,89.56,48.52,
 2024-12-06,Cañas,33.0,15.0,,,
 2024-12-06,Chaqui,26.9,6.1,,,
@@ -73229,6 +73268,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-06,Comarapa,,,,,0.7
 2024-12-06,Concepcion,30.0,22.0,99.1,54.6,
 2024-12-06,Coripata,28.0,17.5,,,
+2024-12-06,Coroico_H (GPRS),,,,,2.5
 2024-12-06,Cosapa,16.3,2.0,,,
 2024-12-06,Cotagaita (GPRS),34.84,19.56,54.72,13.04,
 2024-12-06,Cotagaita Mosoj Llajta,35.0,12.0,,,
@@ -73237,8 +73277,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-06,Cuatro Cañadas - CEA-2 (GPRS),24.81,24.81,92.3,92.3,
 2024-12-06,Cuatro Cañadas - Colonia Chihuahua (GPRS),26.88,26.88,84.0,84.0,0.2
 2024-12-06,Culpina,28.0,6.0,,,
+2024-12-06,Culta,15.0,4.0,,,
 2024-12-06,Desaguadero_M,10.18,10.18,32.76,32.76,
 2024-12-06,El Belen,17.0,,,,
+2024-12-06,El Puente_H (GPRS),,,,,0.9
 2024-12-06,El Tejar (La Paz),,,,,2.5
 2024-12-06,El Tejar (Tarija),30.3,14.9,,,
 2024-12-06,El Villar,23.0,14.0,,,
@@ -73259,6 +73301,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-06,Jihuacuta,,,,,3.0
 2024-12-06,Korila,,,,,6.2
 2024-12-06,La Asunta,29.5,18.5,,,
+2024-12-06,La Asunta_H (GPRS),,,,,6.8
 2024-12-06,La Barranca  (Chuquisaca),26.5,9.5,,,
 2024-12-06,La Merced,32.0,16.0,,,
 2024-12-06,La Torre,35.0,14.0,,,3.0
@@ -73299,11 +73342,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-06,Presa Misicuni (GPRS),17.03,9.36,93.5,52.41,
 2024-12-06,Puerto Rico S.(GPRS),32.9,24.0,100.0,66.2,
 2024-12-06,Puerto Suarez,34.0,26.0,87.9,59.0,
+2024-12-06,Puerto Villarroel_H (GPRS),,,,,20.7
 2024-12-06,Puna,20.5,6.5,,,
 2024-12-06,Putucuni Calientes (GPRS),6.03,6.03,88.8,88.8,
 2024-12-06,Ravelo,25.0,9.0,,,
 2024-12-06,Reyes,30.0,25.0,93.4,73.8,
 2024-12-06,Riberalta,26.0,26.0,87.9,87.9,
+2024-12-06,Riberalta_H (GPRS),,,,,12.0
 2024-12-06,Rurrenabaque,29.0,23.0,99.1,83.1,
 2024-12-06,Sacabamba (GPRS),25.97,15.53,51.15,34.98,
 2024-12-06,Sacabaya,26.2,5.0,,,
@@ -73324,6 +73369,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-06,San Julian - Comunidad Los Angeles (GPRS),26.35,26.35,89.1,89.1,0.1
 2024-12-06,San Julian - Nucleo 32 (GPRS),25.72,25.72,,,5.0
 2024-12-06,San Lucas,30.0,15.0,,,
+2024-12-06,San Martin,25.1,6.0,,,
 2024-12-06,San Pablo de Lipez,15.0,-2.0,,,
 2024-12-06,San Pedro - Río Victoria (GPRS),25.41,25.41,90.4,90.4,10.8
 2024-12-06,San Pedro - San Antonio (GPRS),25.09,25.09,91.7,91.7,0.2
@@ -73339,6 +73385,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-06,Sauce Pilapata - SDC (GPRS),17.79,17.79,60.07,60.07,
 2024-12-06,Sauce Pilata - SDC (GPRS),17.79,17.79,60.07,60.07,
 2024-12-06,Sella Quebrada,29.0,12.0,,,
+2024-12-06,Sena_H (GPRS),,,,,10.5
 2024-12-06,Sena_H (SAT),,,,,0.4
 2024-12-06,Sopachuy,23.5,14.5,,,
 2024-12-06,Soracachi (GPRS),19.31,10.53,,,
@@ -73371,6 +73418,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-06,Villa Copacabana,,,,,0.1
 2024-12-06,Villa Puni,17.5,8.5,,,
 2024-12-06,Villa Rivero_M (GPRS),30.72,18.35,59.09,15.29,
+2024-12-06,Villa Tunari_H (GPRS),,,,,18.4
 2024-12-06,Villamontes,34.0,24.0,77.6,49.2,
 2024-12-06,Villazon,30.1,8.2,,,
 2024-12-06,Vino Tinto,,,,,5.1
@@ -73450,6 +73498,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-07,Cuatro Cañadas - CEA-2 (GPRS),25.34,25.34,91.7,91.7,7.2
 2024-12-07,Cuatro Cañadas - Colonia Chihuahua (GPRS),27.61,27.61,81.8,81.8,4.0
 2024-12-07,Culpina,22.0,10.0,,,
+2024-12-07,Culta,16.0,3.0,,,1.2
 2024-12-07,Desaguadero_M,8.67,8.67,40.32,40.32,
 2024-12-07,Dorado Chico,,,,,7.3
 2024-12-07,El Belen,16.6,,,,
@@ -73541,6 +73590,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-07,San Julian - Comunidad Los Angeles (GPRS),30.73,24.13,94.4,68.29,0.1
 2024-12-07,San Julian - Nucleo 32 (GPRS),25.72,25.72,,,7.2
 2024-12-07,San Lucas,25.0,17.0,,,
+2024-12-07,San Martin,24.0,8.0,,,
 2024-12-07,San Pablo de Lipez,16.0,-3.0,,,
 2024-12-07,San Pedro - Río Victoria (GPRS),30.19,24.0,94.9,71.05,14.8
 2024-12-07,San Pedro - San Antonio (GPRS),29.73,23.82,95.9,74.36,
@@ -73662,11 +73712,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-08,Cosapa,16.4,4.3,,,
 2024-12-08,Cotagaita (GPRS),32.58,18.61,57.61,23.48,
 2024-12-08,Cotagaita Mosoj Llajta,27.0,14.0,,,
+2024-12-08,Cotagaita_H (GPRS),,,,,0.3
 2024-12-08,Covendo_M (GPRS),,,,,1.0
 2024-12-08,Cristal Mayu,28.0,22.0,,,42.0
 2024-12-08,Cuatro Cañadas - CEA-2 (GPRS),26.06,26.06,89.3,89.3,1.0
 2024-12-08,Cuatro Cañadas - Colonia Chihuahua (GPRS),26.7,26.7,86.4,86.4,2.0
 2024-12-08,Culpina,20.0,12.0,,,
+2024-12-08,Culta,17.0,5.0,,,
 2024-12-08,Desaguadero_M,9.92,9.92,76.5,76.5,9.3
 2024-12-08,Dorado Chico,,,,,7.5
 2024-12-08,El Belen,17.4,,,,
@@ -73763,6 +73815,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-08,San Julian - Comunidad Los Angeles (GPRS),26.62,26.62,86.9,86.9,0.1
 2024-12-08,San Julian - Nucleo 32 (GPRS),30.6,23.85,,,0.2
 2024-12-08,San Lucas,26.0,15.0,,,
+2024-12-08,San Martin,24.1,8.0,,,
 2024-12-08,San Pablo de Lipez,17.0,-2.0,,,
 2024-12-08,San Pedro - Río Victoria (GPRS),31.67,23.41,96.6,67.56,0.2
 2024-12-08,San Pedro - San Antonio (GPRS),25.34,25.34,93.1,93.1,
@@ -73900,6 +73953,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-09,Cuatro Cañadas - CEA-2 (GPRS),,,,,3.2
 2024-12-09,Cuatro Cañadas - Colonia Chihuahua (GPRS),26.11,26.11,90.5,90.5,4.2
 2024-12-09,Culpina,26.0,7.0,,,
+2024-12-09,Culta,15.0,2.0,,,
 2024-12-09,Desaguadero_M,10.37,10.37,74.35,74.35,0.4
 2024-12-09,Dorado Chico,,,,,5.2
 2024-12-09,El Belen,14.2,,,,
@@ -73998,6 +74052,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-09,San Julian - Comunidad Los Angeles (GPRS),,,,,0.1
 2024-12-09,San Julian - Nucleo 32 (GPRS),26.12,26.12,,,1.2
 2024-12-09,San Lucas,31.0,17.0,,,
+2024-12-09,San Martin,23.1,7.0,,,
 2024-12-09,San Pablo de Lipez,14.9,3.0,,,
 2024-12-09,San Pedro - Río Victoria (GPRS),,,,,1.2
 2024-12-09,San Pedro - San Antonio (GPRS),,,,,0.2
@@ -74128,6 +74183,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-10,Cuatro Cañadas - CEA-2 (GPRS),29.41,21.2,99.9,66.66,3.2
 2024-12-10,Cuatro Cañadas - Colonia Chihuahua (GPRS),29.96,24.01,86.9,67.14,3.6
 2024-12-10,Culpina,22.0,9.0,,,
+2024-12-10,Culta,16.0,3.0,,,3.5
 2024-12-10,Desaguadero_M,11.08,11.08,75.11,75.11,
 2024-12-10,El Belen,17.0,,,,
 2024-12-10,El Común Caraparí,,,,,0.1
@@ -74215,10 +74271,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-10,San Jacinto Sud,31.0,16.0,,,
 2024-12-10,San Jacinto_M (GPRS),26.3,16.67,82.6,40.17,
 2024-12-10,San Jose de Chiquitos,32.0,26.0,83.0,62.2,
+2024-12-10,San Juan Del Potrero,,,,,20.0
 2024-12-10,San Juan de Yapacaní,,,,,5.2
 2024-12-10,San Julian - Comunidad Los Angeles (GPRS),24.46,24.46,85.5,85.5,0.1
 2024-12-10,San Julian - Nucleo 32 (GPRS),30.31,22.65,,,
 2024-12-10,San Lucas,30.0,19.0,,,
+2024-12-10,San Martin,24.0,8.0,,,
 2024-12-10,San Pablo de Lipez,16.0,2.1,,,
 2024-12-10,San Pedro - Río Victoria (GPRS),30.41,23.05,94.6,65.98,0.4
 2024-12-10,San Pedro - San Antonio (GPRS),29.9,22.65,93.7,70.74,
@@ -74339,6 +74397,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-11,Cuatro Cañadas - CEA-2 (GPRS),25.8,25.8,83.8,83.8,
 2024-12-11,Cuatro Cañadas - Colonia Chihuahua (GPRS),36.31,26.96,79.15,46.41,
 2024-12-11,Culpina,29.0,9.0,,,
+2024-12-11,Culta,14.0,4.0,,,
 2024-12-11,Desaguadero_M,11.02,11.02,64.38,64.38,
 2024-12-11,El Belen,19.0,,,,
 2024-12-11,El Reloj,,,,,2.8
@@ -74425,6 +74484,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-11,San Julian - Comunidad Los Angeles (GPRS),36.31,25.63,94.0,48.46,0.1
 2024-12-11,San Julian - Nucleo 32 (GPRS),27.35,27.35,,,0.2
 2024-12-11,San Lucas,31.0,12.0,,,
+2024-12-11,San Martin,24.1,8.0,,,
 2024-12-11,San Pablo de Lipez,17.0,5.0,,,
 2024-12-11,San Pedro - Río Victoria (GPRS),33.96,24.53,94.5,61.27,
 2024-12-11,San Pedro - San Antonio (GPRS),25.82,25.82,84.7,84.7,
@@ -74545,6 +74605,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-12,Cuatro Cañadas - CEA-2 (GPRS),28.88,28.88,83.0,83.0,
 2024-12-12,Cuatro Cañadas - Colonia Chihuahua (GPRS),37.04,29.91,76.45,47.0,
 2024-12-12,Culpina,27.0,11.0,,,
+2024-12-12,Culta,15.0,3.0,,,
 2024-12-12,Desaguadero_M,10.38,10.38,72.53,72.53,
 2024-12-12,Dorado Chico,,,,,2.7
 2024-12-12,El Belen,14.0,,,,
@@ -74629,6 +74690,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-12,San Julian - Comunidad Los Angeles (GPRS),30.47,30.47,73.75,73.75,0.1
 2024-12-12,San Julian - Nucleo 32 (GPRS),29.19,29.19,,,
 2024-12-12,San Lucas,28.0,13.0,,,
+2024-12-12,San Martin,24.0,6.1,,,
 2024-12-12,San Pablo de Lipez,18.2,4.0,,,
 2024-12-12,San Pedro - Río Victoria (GPRS),27.73,27.73,85.9,85.9,
 2024-12-12,San Pedro - San Antonio (GPRS),27.75,27.75,85.6,85.6,0.2
@@ -74755,6 +74817,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-13,Cuatro Cañadas - CEA-2 (GPRS),27.17,27.17,87.1,87.1,
 2024-12-13,Cuatro Cañadas - Colonia Chihuahua (GPRS),35.39,28.07,85.0,51.8,
 2024-12-13,Culpina,25.0,9.0,,,
+2024-12-13,Culta,16.0,5.0,,,
 2024-12-13,Desaguadero_M,5.99,5.99,86.2,86.2,0.6
 2024-12-13,El Belen,18.0,,,,
 2024-12-13,El Reloj,,,,,1.0
@@ -74837,10 +74900,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-13,San Jacinto Sud,31.5,17.0,,,
 2024-12-13,San Jacinto_M (GPRS),27.94,14.05,97.0,45.63,
 2024-12-13,San Jose de Chiquitos,36.0,25.0,93.3,46.8,
+2024-12-13,San Juan Del Potrero,,,,,16.0
 2024-12-13,San Juan de Yapacaní,,,,,8.0
 2024-12-13,San Julian - Comunidad Los Angeles (GPRS),28.84,28.84,81.1,81.1,
 2024-12-13,San Julian - Nucleo 32 (GPRS),27.43,27.43,,,3.0
 2024-12-13,San Lucas,28.0,13.0,,,
+2024-12-13,San Martin,24.0,6.1,,,
 2024-12-13,San Pablo de Lipez,19.0,5.0,,,
 2024-12-13,San Pedro - Río Victoria (GPRS),25.77,25.77,92.4,92.4,1.8
 2024-12-13,San Pedro - San Antonio (GPRS),26.85,26.85,90.8,90.8,
@@ -74968,6 +75033,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-14,Cuatro Cañadas - CEA-2 (GPRS),22.86,22.86,92.6,92.6,1.2
 2024-12-14,Cuatro Cañadas - Colonia Chihuahua (GPRS),32.32,23.23,93.7,51.46,
 2024-12-14,Culpina,22.0,9.0,,,
+2024-12-14,Culta,15.0,4.0,,,
 2024-12-14,Desaguadero_M,6.32,6.32,80.1,80.1,2.5
 2024-12-14,Dorado Chico,,,,,3.5
 2024-12-14,El Belen,17.0,,,,
@@ -75055,11 +75121,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-14,San Calixto,20.2,8.8,,,
 2024-12-14,San Jacinto Sud,27.0,14.0,,,0.5
 2024-12-14,San Jacinto_M (GPRS),21.61,13.23,95.1,61.69,
+2024-12-14,San Juan Del Potrero,,,,,2.0
 2024-12-14,San Juan de Yapacaní,,,,,33.8
 2024-12-14,San Julian,,,,,4.0
 2024-12-14,San Julian - Comunidad Los Angeles (GPRS),23.15,23.15,95.5,95.5,
 2024-12-14,San Julian - Nucleo 32 (GPRS),29.66,22.45,,,4.8
 2024-12-14,San Lucas,25.0,17.0,,,
+2024-12-14,San Martin,24.6,7.1,,,
 2024-12-14,San Pablo de Lipez,17.1,4.1,,,
 2024-12-14,San Pedro - Río Victoria (GPRS),21.74,21.74,92.8,92.8,19.2
 2024-12-14,San Pedro - San Antonio (GPRS),21.81,21.81,94.2,94.2,
@@ -75178,6 +75246,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-15,Cuatro Cañadas - CEA-2 (GPRS),35.18,28.09,66.31,38.29,
 2024-12-15,Cuatro Cañadas - Colonia Chihuahua (GPRS),37.88,29.71,58.05,30.99,
 2024-12-15,Culpina,21.0,7.0,,,
+2024-12-15,Culta,14.0,2.0,,,
 2024-12-15,Desaguadero_M,6.78,6.78,83.7,83.7,
 2024-12-15,El Belen,18.0,,,,
 2024-12-15,El Tejar (Tarija),27.8,15.0,,,
@@ -75253,6 +75322,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-15,San Julian - Comunidad Los Angeles (GPRS),29.42,29.42,63.01,63.01,0.1
 2024-12-15,San Julian - Nucleo 32 (GPRS),27.76,27.76,,,12.4
 2024-12-15,San Lucas,24.0,10.0,,,
+2024-12-15,San Martin,24.1,8.0,,,
 2024-12-15,San Pablo de Lipez,18.1,5.0,,,
 2024-12-15,San Pedro - Río Victoria (GPRS),33.12,28.11,81.8,51.95,1.8
 2024-12-15,San Pedro - San Antonio (GPRS),27.46,27.46,78.98,78.98,0.2
@@ -75293,6 +75363,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-15,Tupiza,24.6,15.2,,,
 2024-12-15,Tupiza_1_H (GPRS),,,,,0.3
 2024-12-15,Turumayo,,,,,2.6
+2024-12-15,Univalle (GPRS),,,,,6.29
 2024-12-15,Uyuni,23.2,3.7,,,
 2024-12-15,Viacha_M (GPRS),18.09,4.06,98.8,28.3,6.6
 2024-12-15,Vila Vila - SDC (GPRS),19.52,10.62,88.1,46.3,1.1
@@ -75372,6 +75443,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-16,Cuatro Cañadas - CEA-2 (GPRS),36.17,24.88,94.3,40.96,
 2024-12-16,Cuatro Cañadas - Colonia Chihuahua (GPRS),37.95,29.91,64.48,37.62,
 2024-12-16,Culpina,21.0,10.0,,,
+2024-12-16,Culta,13.0,3.0,,,
 2024-12-16,Desaguadero_M,16.19,9.98,75.13,42.37,
 2024-12-16,El Belen,16.0,,,,
 2024-12-16,El Tejar (Tarija),27.3,14.9,,,
@@ -75454,6 +75526,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-16,San Julian - Comunidad Los Angeles (GPRS),39.61,25.69,93.9,34.9,
 2024-12-16,San Julian - Nucleo 32 (GPRS),36.72,26.18,,,3.2
 2024-12-16,San Lucas,25.0,17.5,,,
+2024-12-16,San Martin,22.4,6.1,,,
 2024-12-16,San Pablo de Lipez,20.0,7.0,,,
 2024-12-16,San Pedro - Río Victoria (GPRS),34.91,24.84,92.6,51.35,
 2024-12-16,San Pedro - San Antonio (GPRS),34.58,25.1,94.9,53.95,
@@ -75576,6 +75649,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-17,Cuatro Cañadas - CEA-2 (GPRS),28.93,28.93,76.35,76.35,
 2024-12-17,Cuatro Cañadas - Colonia Chihuahua (GPRS),37.04,29.71,74.18,43.87,
 2024-12-17,Culpina,22.0,9.0,,,
+2024-12-17,Culta,15.0,5.0,,,
 2024-12-17,Desaguadero_M,16.32,3.19,92.8,42.17,
 2024-12-17,El Belen,15.0,,,,
 2024-12-17,El Tejar (Tarija),24.6,15.8,,,0.4
@@ -75652,6 +75726,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-17,San Julian - Comunidad Los Angeles (GPRS),28.9,28.9,81.9,81.9,
 2024-12-17,San Julian - Nucleo 32 (GPRS),27.69,27.69,,,0.2
 2024-12-17,San Lucas,26.0,15.5,,,
+2024-12-17,San Martin,22.0,6.1,,,
 2024-12-17,San Pablo de Lipez,21.0,7.1,,,
 2024-12-17,San Pedro - Río Victoria (GPRS),27.07,27.07,85.8,85.8,
 2024-12-17,San Pedro - San Antonio (GPRS),26.92,26.92,88.4,88.4,
@@ -75768,6 +75843,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-18,Cuatro Cañadas - CEA-2 (GPRS),26.58,26.58,84.6,84.6,
 2024-12-18,Cuatro Cañadas - Colonia Chihuahua (GPRS),35.92,25.91,82.7,46.27,0.4
 2024-12-18,Culpina,28.0,8.0,,,
+2024-12-18,Culta,17.0,4.0,,,3.4
 2024-12-18,Desaguadero_M,15.99,7.3,87.0,44.44,3.3
 2024-12-18,Dorado Chico,,,,,1.5
 2024-12-18,El Belen,18.0,,,,
@@ -75847,6 +75923,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-18,San Julian - Comunidad Los Angeles (GPRS),35.22,25.37,88.4,50.62,2.1
 2024-12-18,San Julian - Nucleo 32 (GPRS),33.52,25.34,,,1.0
 2024-12-18,San Lucas,25.0,18.5,,,
+2024-12-18,San Martin,22.8,6.0,,,
 2024-12-18,San Pablo de Lipez,18.1,5.0,,,
 2024-12-18,San Pedro - Río Victoria (GPRS),26.28,26.28,88.0,88.0,
 2024-12-18,San Pedro - San Antonio (GPRS),31.39,24.65,91.7,72.75,
@@ -75975,6 +76052,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-19,Cuatro Cañadas - CEA-2 (GPRS),33.44,22.97,100.0,57.71,
 2024-12-19,Cuatro Cañadas - Colonia Chihuahua (GPRS),33.96,22.9,100.0,54.46,
 2024-12-19,Culpina,21.0,11.0,,,
+2024-12-19,Culta,16.0,3.0,,,
 2024-12-19,Desaguadero_M,16.47,5.8,83.5,45.19,0.6
 2024-12-19,El Belen,16.0,,,,
 2024-12-19,El Puente,,,,,2.3
@@ -76065,6 +76143,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-19,San Julian - Comunidad Los Angeles (GPRS),27.72,27.72,78.91,78.91,0.2
 2024-12-19,San Julian - Nucleo 32 (GPRS),32.8,23.77,,,
 2024-12-19,San Lucas,27.0,9.0,,,
+2024-12-19,San Martin,22.0,6.0,,,
 2024-12-19,San Pablo de Lipez,19.2,6.0,,,
 2024-12-19,San Pedro - Río Victoria (GPRS),33.58,24.16,94.8,60.07,6.0
 2024-12-19,San Pedro - San Antonio (GPRS),32.91,23.41,96.2,64.66,
@@ -76203,6 +76282,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-20,Cuatro Cañadas - CEA-2 (GPRS),29.8,24.1,98.0,68.54,7.0
 2024-12-20,Cuatro Cañadas - Colonia Chihuahua (GPRS),25.12,25.12,92.2,92.2,10.0
 2024-12-20,Culpina,26.0,7.0,,,
+2024-12-20,Culta,17.0,5.0,,,
 2024-12-20,Desaguadero_M,15.97,4.24,84.7,46.08,0.4
 2024-12-20,Dorado Chico,,,,,18.2
 2024-12-20,El Belen,17.0,,,,
@@ -76293,11 +76373,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-20,San Jacinto Sud,33.5,9.0,,,3.0
 2024-12-20,San Jacinto_M (GPRS),28.72,15.44,71.96,31.03,2.1
 2024-12-20,San Jose de Chiquitos,32.0,25.0,93.3,62.2,
+2024-12-20,San Juan Del Potrero,,,,,17.0
 2024-12-20,San Juan de Yapacaní,,,,,14.2
 2024-12-20,San Julian,,,,,10.0
 2024-12-20,San Julian - Comunidad Los Angeles (GPRS),26.37,26.37,89.6,89.6,0.3
 2024-12-20,San Julian - Nucleo 32 (GPRS),23.44,23.44,,,1.0
 2024-12-20,San Lucas,,,,,41.0
+2024-12-20,San Martin,23.4,7.0,,,
 2024-12-20,San Pablo de Lipez,17.1,5.0,,,
 2024-12-20,San Pedro - Río Victoria (GPRS),24.46,24.46,94.3,94.3,0.2
 2024-12-20,San Pedro - San Antonio (GPRS),24.07,24.07,95.6,95.6,
@@ -76428,6 +76510,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-21,Cuatro Cañadas - CEA-2 (GPRS),26.84,26.84,90.7,90.7,0.2
 2024-12-21,Cuatro Cañadas - Colonia Chihuahua (GPRS),35.53,29.58,76.32,51.02,
 2024-12-21,Culpina,25.0,8.0,,,
+2024-12-21,Culta,14.0,5.0,,,2.3
 2024-12-21,Desaguadero_M,17.82,3.64,85.1,40.41,0.1
 2024-12-21,El Belen,18.0,,,,
 2024-12-21,El Tejar (La Paz),,,,,2.2
@@ -76512,6 +76595,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-21,San Julian - Comunidad Los Angeles (GPRS),35.44,24.66,97.5,51.22,0.1
 2024-12-21,San Julian - Nucleo 32 (GPRS),34.5,25.07,,,3.2
 2024-12-21,San Lucas,28.0,13.0,,,
+2024-12-21,San Martin,22.1,7.1,,,
 2024-12-21,San Pablo de Lipez,16.0,4.1,,,
 2024-12-21,San Pedro - Río Victoria (GPRS),27.44,27.44,86.5,86.5,2.8
 2024-12-21,San Pedro - San Antonio (GPRS),27.49,27.49,86.6,86.6,
@@ -76645,6 +76729,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-22,Cuatro Cañadas - CEA-2 (GPRS),26.25,26.25,88.7,88.7,1.6
 2024-12-22,Cuatro Cañadas - Colonia Chihuahua (GPRS),27.94,21.53,100.0,81.9,
 2024-12-22,Culpina,17.0,10.0,,,1.1
+2024-12-22,Culta,15.0,4.0,,,
 2024-12-22,Desaguadero_M,14.95,5.61,86.1,46.21,
 2024-12-22,Dorado Chico,,,,,8.3
 2024-12-22,El Belen,14.0,,,,
@@ -76741,10 +76826,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-22,San Calixto,17.0,9.4,,,
 2024-12-22,San Jacinto Sud,23.5,16.0,,,4.5
 2024-12-22,San Jacinto_M (GPRS),19.2,12.16,99.9,75.99,0.9
+2024-12-22,San Juan Del Potrero,,,,,9.0
 2024-12-22,San Juan de Yapacaní,,,,,0.4
 2024-12-22,San Julian - Comunidad Los Angeles (GPRS),26.74,26.74,86.7,86.7,0.2
 2024-12-22,San Julian - Nucleo 32 (GPRS),27.43,22.39,,,1.4
 2024-12-22,San Lucas,17.0,14.0,,,
+2024-12-22,San Martin,22.0,7.7,,,
 2024-12-22,San Pablo de Lipez,17.0,3.0,,,5.0
 2024-12-22,San Pedro - Río Victoria (GPRS),25.11,25.11,92.0,92.0,2.2
 2024-12-22,San Pedro - San Antonio (GPRS),25.84,25.84,90.8,90.8,
@@ -76874,6 +76961,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-23,Cuatro Cañadas - CEA-2 (GPRS),23.76,23.76,90.7,90.7,11.8
 2024-12-23,Cuatro Cañadas - Colonia Chihuahua (GPRS),24.49,24.49,91.2,91.2,36.8
 2024-12-23,Culpina,23.0,6.0,,,
+2024-12-23,Culta,16.0,3.0,,,
 2024-12-23,Desaguadero_M,18.02,-0.02,80.7,17.98,2.2
 2024-12-23,El Belen,18.0,,,,
 2024-12-23,El Común Caraparí,,,,,7.4
@@ -76963,6 +77051,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-23,San Julian - Comunidad Los Angeles (GPRS),25.44,25.44,85.1,85.1,0.3
 2024-12-23,San Julian - Nucleo 32 (GPRS),24.06,24.06,,,11.0
 2024-12-23,San Lucas,26.0,15.0,,,
+2024-12-23,San Martin,23.0,7.1,,,
 2024-12-23,San Pablo de Lipez,13.0,-4.0,,,
 2024-12-23,San Pedro - Río Victoria (GPRS),24.74,24.74,83.7,83.7,1.4
 2024-12-23,San Pedro - San Antonio (GPRS),24.2,24.2,87.8,87.8,0.2
@@ -77089,6 +77178,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-24,Cuatro Cañadas - CEA-2 (GPRS),26.65,26.65,84.4,84.4,
 2024-12-24,Cuatro Cañadas - Colonia Chihuahua (GPRS),34.69,26.96,84.8,55.05,
 2024-12-24,Culpina,24.0,7.0,,,
+2024-12-24,Culta,15.0,4.0,,,
 2024-12-24,Desaguadero_M,20.31,0.44,60.69,13.96,
 2024-12-24,El Belen,22.0,,,,
 2024-12-24,El Tejar (La Paz),,,,,1.0
@@ -77173,6 +77263,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-24,San Julian - Comunidad Los Angeles (GPRS),26.55,26.55,88.6,88.6,0.4
 2024-12-24,San Julian - Nucleo 32 (GPRS),26.39,26.39,,,3.8
 2024-12-24,San Lucas,25.0,14.0,,,
+2024-12-24,San Martin,22.0,7.0,,,
 2024-12-24,San Pablo de Lipez,12.8,-3.1,,,
 2024-12-24,San Pedro - Río Victoria (GPRS),27.16,27.16,84.1,84.1,
 2024-12-24,San Pedro - San Antonio (GPRS),27.11,27.11,84.4,84.4,
@@ -77297,6 +77388,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-25,Cuatro Cañadas - CEA-2 (GPRS),31.25,16.34,94.3,37.0,5.2
 2024-12-25,Cuatro Cañadas - Colonia Chihuahua (GPRS),30.82,21.93,80.0,39.2,11.8
 2024-12-25,Culpina,18.0,6.0,,,
+2024-12-25,Culta,13.0,2.0,,,
 2024-12-25,Desaguadero_M,17.37,-0.47,64.0,19.33,
 2024-12-25,Dorado Chico,,,,,3.7
 2024-12-25,El Belen,18.0,,,,
@@ -77381,6 +77473,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-25,San Julian - Comunidad Los Angeles (GPRS),23.4,23.4,73.89,73.89,0.2
 2024-12-25,San Julian - Nucleo 32 (GPRS),31.49,18.0,,,1.6
 2024-12-25,San Lucas,24.0,18.0,,,
+2024-12-25,San Martin,23.7,6.1,,,
 2024-12-25,San Pablo de Lipez,15.2,-3.0,,,
 2024-12-25,San Pedro - Río Victoria (GPRS),31.89,17.18,91.1,49.13,0.2
 2024-12-25,San Pedro - San Antonio (GPRS),25.37,25.37,67.16,67.16,
@@ -77501,6 +77594,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-26,Cuatro Cañadas - CEA-2 (GPRS),23.82,23.82,62.12,62.12,
 2024-12-26,Cuatro Cañadas - Colonia Chihuahua (GPRS),32.92,23.82,65.01,34.52,
 2024-12-26,Culpina,20.0,3.0,,,
+2024-12-26,Culta,15.0,2.0,,,
 2024-12-26,Desaguadero_M,17.18,-1.14,57.15,12.9,
 2024-12-26,El Belen,21.0,,,,
 2024-12-26,El Tejar (Tarija),25.9,10.7,,,
@@ -77579,6 +77673,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-26,San Julian - Comunidad Los Angeles (GPRS),24.91,24.91,62.48,62.48,0.3
 2024-12-26,San Julian - Nucleo 32 (GPRS),23.44,23.44,,,0.8
 2024-12-26,San Lucas,24.0,7.0,,,
+2024-12-26,San Martin,24.1,8.0,,,
 2024-12-26,San Pablo de Lipez,13.6,-2.0,,,
 2024-12-26,San Pedro - Río Victoria (GPRS),25.47,25.47,60.37,60.37,
 2024-12-26,San Pedro - San Antonio (GPRS),24.12,24.12,67.28,67.28,
@@ -77695,6 +77790,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-27,Cuatro Cañadas - CEA-2 (GPRS),25.2,25.2,70.4,70.4,
 2024-12-27,Cuatro Cañadas - Colonia Chihuahua (GPRS),34.29,24.61,73.96,31.71,
 2024-12-27,Culpina,22.0,5.0,,,
+2024-12-27,Culta,14.0,3.0,,,
 2024-12-27,Desaguadero_M,17.56,4.23,81.9,14.59,
 2024-12-27,El Belen,18.0,,,,
 2024-12-27,El Tejar (Tarija),29.6,12.4,,,
@@ -77768,6 +77864,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-27,San Julian - Comunidad Los Angeles (GPRS),26.09,26.09,65.55,65.55,0.1
 2024-12-27,San Julian - Nucleo 32 (GPRS),34.83,19.77,,,0.4
 2024-12-27,San Lucas,26.0,13.0,,,
+2024-12-27,San Martin,23.1,3.1,,,
 2024-12-27,San Pablo de Lipez,12.9,-2.4,,,
 2024-12-27,San Pedro - Río Victoria (GPRS),26.75,26.75,76.58,76.58,
 2024-12-27,San Pedro - San Antonio (GPRS),24.57,24.57,75.49,75.49,7.8
@@ -77880,6 +77977,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-28,Cuatro Cañadas - CEA-2 (GPRS),25.99,25.99,69.43,69.43,
 2024-12-28,Cuatro Cañadas - Colonia Chihuahua (GPRS),35.69,25.66,69.52,32.79,
 2024-12-28,Culpina,20.0,6.0,,,
+2024-12-28,Culta,17.0,5.0,,,
 2024-12-28,Desaguadero_M,17.62,9.0,72.33,34.0,
 2024-12-28,El Belen,16.0,,,,
 2024-12-28,El Villar,25.0,12.5,,,
@@ -77947,6 +78045,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-28,San Julian - Comunidad Los Angeles (GPRS),28.12,28.12,59.75,59.75,0.2
 2024-12-28,San Julian - Nucleo 32 (GPRS),36.27,21.21,,,
 2024-12-28,San Lucas,24.0,14.0,,,
+2024-12-28,San Martin,23.0,7.0,,,
 2024-12-28,San Pablo de Lipez,16.6,-4.0,,,
 2024-12-28,San Pedro - Río Victoria (GPRS),26.73,26.73,73.26,73.26,
 2024-12-28,San Pedro - San Antonio (GPRS),26.08,26.08,71.24,71.24,
@@ -78063,6 +78162,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-29,Cuatro Cañadas - CEA-2 (GPRS),26.98,26.98,59.0,59.0,
 2024-12-29,Cuatro Cañadas - Colonia Chihuahua (GPRS),36.78,26.44,63.4,31.94,
 2024-12-29,Culpina,23.0,7.0,,,
+2024-12-29,Culta,15.0,4.0,,,
 2024-12-29,Desaguadero_M,16.66,4.3,83.4,36.37,
 2024-12-29,Dorado Chico,,,,,4.8
 2024-12-29,El Belen,16.0,,,,
@@ -78137,6 +78237,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-29,San Julian - Comunidad Los Angeles (GPRS),28.96,28.96,56.62,56.62,0.1
 2024-12-29,San Julian - Nucleo 32 (GPRS),26.91,26.91,,,
 2024-12-29,San Lucas,,,,,6.5
+2024-12-29,San Martin,22.1,7.6,,,
 2024-12-29,San Pablo de Lipez,15.2,-3.0,,,
 2024-12-29,San Pedro - Río Victoria (GPRS),27.44,27.44,68.13,68.13,
 2024-12-29,San Pedro - San Antonio (GPRS),27.62,27.62,65.89,65.89,
@@ -78248,6 +78349,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-30,Cuatro Cañadas - CEA-2 (GPRS),30.06,30.06,56.1,56.1,
 2024-12-30,Cuatro Cañadas - Colonia Chihuahua (GPRS),37.62,27.61,66.95,32.28,
 2024-12-30,Culpina,22.0,7.0,,,
+2024-12-30,Culta,16.0,5.0,,,1.8
 2024-12-30,Desaguadero_M,18.12,2.86,81.8,26.08,
 2024-12-30,El Belen,17.0,,,,
 2024-12-30,El Tejar (Tarija),27.9,13.4,,,
@@ -78322,6 +78424,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-30,San Julian - Comunidad Los Angeles (GPRS),28.24,28.24,64.44,64.44,0.1
 2024-12-30,San Julian - Nucleo 32 (GPRS),27.82,27.82,,,
 2024-12-30,San Lucas,25.0,13.0,,,
+2024-12-30,San Martin,22.0,6.1,,,
 2024-12-30,San Pablo de Lipez,13.6,-2.8,,,
 2024-12-30,San Pedro - Río Victoria (GPRS),35.67,22.89,92.7,46.74,
 2024-12-30,San Pedro - San Antonio (GPRS),26.68,26.68,77.32,77.32,
@@ -78434,6 +78537,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-31,Cristal Mayu,34.0,24.0,,,
 2024-12-31,Cuatro Cañadas - CEA-2 (GPRS),28.82,28.82,69.06,69.06,
 2024-12-31,Cuatro Cañadas - Colonia Chihuahua (GPRS),36.86,28.86,67.79,42.76,
+2024-12-31,Culta,14.0,4.0,,,
 2024-12-31,Desaguadero_M,17.11,6.91,79.7,40.48,
 2024-12-31,El Belen,18.0,,,,
 2024-12-31,El Común Caraparí,,,,,0.3
@@ -78514,6 +78618,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-31,San Julian - Comunidad Los Angeles (GPRS),28.83,28.83,73.38,73.38,
 2024-12-31,San Julian - Nucleo 32 (GPRS),28.35,28.35,,,
 2024-12-31,San Lucas,,,,,6.0
+2024-12-31,San Martin,23.0,6.5,,,
 2024-12-31,San Pablo de Lipez,14.0,-3.0,,,
 2024-12-31,San Pedro - Río Victoria (GPRS),26.79,26.79,85.1,85.1,
 2024-12-31,San Pedro - San Antonio (GPRS),27.03,27.03,83.4,83.4,5.2
