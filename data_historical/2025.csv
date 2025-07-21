@@ -20238,6 +20238,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-04-01,Cruzpata (Escoma),,,,,7.3
 2025-04-01,Cuatro Cañadas - CEA-2 (GPRS),18.84,15.97,88.5,72.06,5.2
 2025-04-01,Cuatro Cañadas - Colonia Chihuahua (GPRS),18.41,15.65,95.6,80.9,7.4
+2025-04-01,Culta,18.0,2.3,,,6.3
 2025-04-01,Desaguadero_M,10.7,7.17,88.2,71.49,17.7
 2025-04-01,El Belen,15.0,4.0,,,2.6
 2025-04-01,El Común Caraparí,,,,,3.1
@@ -20454,6 +20455,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-04-02,Cuatro Cañadas - CEA-2 (GPRS),22.39,17.18,93.3,70.98,
 2025-04-02,Cuatro Cañadas - Colonia Chihuahua (GPRS),21.88,17.62,96.2,79.8,
 2025-04-02,Cuesta del Zorro (Catacora),,,,,5.2
+2025-04-02,Culta,22.0,3.1,,,
 2025-04-02,Desaguadero_M,10.38,6.52,92.3,75.14,2.2
 2025-04-02,El Belen,16.0,3.0,,,
 2025-04-02,El Reloj,,,,,1.8
@@ -20665,6 +20667,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-04-03,Cuatro Cañadas - CEA-2 (GPRS),27.32,21.56,88.3,68.81,
 2025-04-03,Cuatro Cañadas - Colonia Chihuahua (GPRS),27.7,23.58,91.9,68.7,
 2025-04-03,Cuesta del Zorro (Catacora),,,,,4.8
+2025-04-03,Culta,18.0,4.1,,,2.5
 2025-04-03,Desaguadero_M,10.9,5.34,95.8,78.07,
 2025-04-03,El Belen,17.0,0.0,,,
 2025-04-03,El Reloj,,,,,3.5
@@ -20873,6 +20876,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-04-04,Cuatro Cañadas - CEA-2 (GPRS),26.07,22.92,75.15,65.33,
 2025-04-04,Cuatro Cañadas - Colonia Chihuahua (GPRS),25.02,21.94,82.9,71.87,
 2025-04-04,Cuesta del Zorro (Catacora),,,,,5.5
+2025-04-04,Culta,23.0,5.0,,,
 2025-04-04,Desaguadero_M,12.4,8.15,80.9,64.71,
 2025-04-04,El Belen,16.0,4.0,,,
 2025-04-04,El Común Caraparí,,,,,1.7
@@ -21089,6 +21093,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-04-05,Cuatro Cañadas - CEA-2 (GPRS),23.42,19.31,72.32,59.74,
 2025-04-05,Cuatro Cañadas - Colonia Chihuahua (GPRS),23.7,20.21,75.03,62.35,
 2025-04-05,Cuesta del Zorro (Catacora),,,,,1.2
+2025-04-05,Culta,19.0,3.2,,,5.5
 2025-04-05,Desaguadero_M,11.35,7.89,82.7,70.12,5.8
 2025-04-05,El Belen,15.0,5.0,,,
 2025-04-05,El Común Caraparí,,,,,3.6
@@ -21295,6 +21300,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-04-06,Cruzpata (Escoma),,,,,4.5
 2025-04-06,Cuatro Cañadas - CEA-2 (GPRS),24.62,19.7,67.89,50.19,
 2025-04-06,Cuatro Cañadas - Colonia Chihuahua (GPRS),25.54,21.02,66.75,55.85,
+2025-04-06,Culta,20.0,2.0,,,
 2025-04-06,Desaguadero_M,12.15,7.96,87.7,62.04,
 2025-04-06,El Belen,17.0,1.0,,,
 2025-04-06,El Tejar (La Paz),,,,,0.3
@@ -21482,6 +21488,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-04-07,Covendo_M (GPRS),27.91,20.95,99.9,67.93,
 2025-04-07,Cuatro Cañadas - CEA-2 (GPRS),24.3,20.75,83.9,71.71,
 2025-04-07,Cuatro Cañadas - Colonia Chihuahua (GPRS),27.11,22.01,87.3,70.52,
+2025-04-07,Culta,17.0,2.0,,,
 2025-04-07,Desaguadero_M,12.34,6.42,87.6,62.76,
 2025-04-07,El Belen,16.0,0.0,,,
 2025-04-07,El Villar,22.0,13.5,,,
@@ -21671,6 +21678,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-04-08,Cruzpata (Escoma),,,,,1.4
 2025-04-08,Cuatro Cañadas - CEA-2 (GPRS),24.89,19.96,77.71,60.56,
 2025-04-08,Cuatro Cañadas - Colonia Chihuahua (GPRS),21.94,19.39,86.9,76.6,
+2025-04-08,Culta,20.0,2.2,,,
 2025-04-08,Desaguadero_M,12.54,6.51,89.3,60.8,
 2025-04-08,El Belen,16.0,3.0,,,
 2025-04-08,El Reloj,,,,,0.5
@@ -21856,6 +21864,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-04-09,Cuatro Cañadas - CEA-2 (GPRS),26.9,21.67,87.6,58.24,
 2025-04-09,Cuatro Cañadas - Colonia Chihuahua (GPRS),27.05,21.94,93.5,66.91,
 2025-04-09,Cuesta del Zorro (Catacora),,,,,0.7
+2025-04-09,Culta,17.0,1.0,,,
 2025-04-09,Desaguadero_M,11.9,5.08,87.0,63.02,
 2025-04-09,El Belen,15.0,6.0,,,4.8
 2025-04-09,El Reloj,,,,,1.0
@@ -22048,6 +22057,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-04-10,Cuatro Cañadas - CEA-2 (GPRS),28.3,22.85,80.2,69.52,
 2025-04-10,Cuatro Cañadas - Colonia Chihuahua (GPRS),25.94,22.07,95.6,83.0,20.6
 2025-04-10,Cuesta del Zorro (Catacora),,,,,1.3
+2025-04-10,Culta,21.0,2.0,,,
 2025-04-10,Desaguadero_M,8.81,4.49,71.33,49.76,
 2025-04-10,El Belen,17.0,0.0,,,
 2025-04-10,El Tejar (La Paz),,,,,0.2
@@ -22235,6 +22245,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-04-11,Cuatro Cañadas - CEA-2 (GPRS),30.99,24.17,90.1,66.94,
 2025-04-11,Cuatro Cañadas - Colonia Chihuahua (GPRS),30.84,25.54,93.3,71.0,
 2025-04-11,Cuesta del Zorro (Catacora),,,,,4.8
+2025-04-11,Culta,17.3,4.0,,,
 2025-04-11,Desaguadero_M,11.09,5.67,65.27,48.14,
 2025-04-11,El Belen,15.0,4.0,,,
 2025-04-11,El Común Caraparí,,,,,1.1
@@ -22426,6 +22437,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-04-12,Cruzpata (Escoma),,,,,2.4
 2025-04-12,Cuatro Cañadas - CEA-2 (GPRS),24.96,23.58,98.1,95.0,0.2
 2025-04-12,Cuatro Cañadas - Colonia Chihuahua (GPRS),25.15,25.15,95.7,95.7,0.6
+2025-04-12,Culta,19.0,2.0,,,
 2025-04-12,Desaguadero_M,11.09,3.32,67.61,44.16,
 2025-04-12,El Belen,16.0,0.0,,,0.8
 2025-04-12,El Común Caraparí,,,,,2.0
@@ -22623,6 +22635,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-04-13,Covendo_M (GPRS),24.84,21.81,99.91,98.55,3.5
 2025-04-13,Cruzpata (Escoma),,,,,11.5
 2025-04-13,Cuatro Cañadas - CEA-2 (GPRS),24.41,20.75,94.3,82.1,0.4
+2025-04-13,Culta,20.0,1.1,,,
 2025-04-13,Desaguadero_M,10.89,4.34,71.22,39.48,
 2025-04-13,El Belen,17.0,1.0,,,
 2025-04-13,El Villar,,,,,9.3
@@ -22820,6 +22833,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-04-14,Covendo_M (GPRS),24.64,20.84,99.89,89.07,6.5
 2025-04-14,Cruzpata (Escoma),,,,,13.2
 2025-04-14,Cuatro Cañadas - CEA-2 (GPRS),26.33,22.46,84.7,68.67,
+2025-04-14,Culta,23.0,1.0,,,
 2025-04-14,Desaguadero_M,11.95,4.76,65.85,32.05,
 2025-04-14,El Belen,16.0,2.0,,,8.0
 2025-04-14,El Tejar (La Paz),,,,,7.1
@@ -23011,6 +23025,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-04-15,Cruzpata (Escoma),,,,,1.0
 2025-04-15,Cuatro Cañadas - CEA-2 (GPRS),27.19,24.04,92.6,78.21,1.2
 2025-04-15,Cuesta del Zorro (Catacora),,,,,2.5
+2025-04-15,Culta,19.0,2.0,,,
 2025-04-15,Desaguadero_M,13.32,3.77,75.95,34.99,
 2025-04-15,El Belen,17.0,0.0,,,
 2025-04-15,El Villar,23.0,14.0,,,
@@ -23191,6 +23206,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-04-16,Cruzpata (Escoma),,,,,2.5
 2025-04-16,Cuatro Cañadas - CEA-2 (GPRS),26.01,24.17,92.9,79.94,
 2025-04-16,Cuesta del Zorro (Catacora),,,,,0.9
+2025-04-16,Culta,22.0,1.1,,,
 2025-04-16,Desaguadero_M,11.68,2.46,78.89,44.37,
 2025-04-16,El Belen,18.0,0.0,,,
 2025-04-16,El Villar,23.8,11.5,,,
@@ -23390,6 +23406,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-04-17,Covendo_M (GPRS),24.96,23.14,99.91,99.85,
 2025-04-17,Cruzpata (Escoma),,,,,1.2
 2025-04-17,Cuatro Cañadas - CEA-2 (GPRS),28.44,23.97,96.3,77.95,
+2025-04-17,Culta,18.0,1.5,,,
 2025-04-17,Desaguadero_M,12.14,4.03,66.96,43.8,
 2025-04-17,El Belen,16.0,0.0,,,
 2025-04-17,El Villar,19.5,13.0,,,
@@ -23599,6 +23616,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-04-18,Cruzpata (Escoma),,,,,7.2
 2025-04-18,Cuatro Cañadas - CEA-2 (GPRS),29.16,25.94,93.7,79.77,1.2
 2025-04-18,Cuesta del Zorro (Catacora),,,,,4.2
+2025-04-18,Culta,18.0,2.0,,,
 2025-04-18,Desaguadero_M,12.99,3.85,95.8,67.32,
 2025-04-18,El Belen,18.0,0.0,,,
 2025-04-18,El Tejar (La Paz),,,,,3.4
@@ -23793,6 +23811,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-04-19,Covendo_M (GPRS),27.28,24.61,99.92,95.77,
 2025-04-19,Cruzpata (Escoma),,,,,4.0
 2025-04-19,Cuatro Cañadas - CEA-2 (GPRS),28.43,23.05,97.7,75.07,7.2
+2025-04-19,Culta,19.0,3.0,,,
 2025-04-19,Desaguadero_M,11.68,4.62,85.2,61.98,
 2025-04-19,El Belen,17.6,0.0,,,
 2025-04-19,El Reloj,,,,,0.5
@@ -23996,6 +24015,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-04-20,Covendo_M (GPRS),26.49,21.44,99.91,82.94,
 2025-04-20,Cruzpata (Escoma),,,,,2.4
 2025-04-20,Cuatro Cañadas - CEA-2 (GPRS),29.29,24.36,91.2,67.13,
+2025-04-20,Culta,19.1,4.0,,,0.2
 2025-04-20,Desaguadero_M,12.4,8.15,80.5,62.76,
 2025-04-20,El Belen,17.0,2.0,,,
 2025-04-20,El Común Caraparí,,,,,4.3
@@ -24206,6 +24226,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-04-21,Cruzpata (Escoma),,,,,3.3
 2025-04-21,Cuatro Cañadas - CEA-2 (GPRS),25.03,22.39,93.7,82.3,
 2025-04-21,Cuesta del Zorro (Catacora),,,,,8.5
+2025-04-21,Culta,18.0,2.5,,,1.0
 2025-04-21,Desaguadero_M,11.07,6.06,88.9,73.1,
 2025-04-21,El Belen,17.0,1.0,,,
 2025-04-21,El Común Caraparí,,,,,3.3
@@ -24438,6 +24459,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-04-22,Cruzpata (Escoma),,,,,6.2
 2025-04-22,Cuatro Cañadas - CEA-2 (GPRS),25.75,22.46,86.7,75.64,
 2025-04-22,Cuesta del Zorro (Catacora),,,,,6.1
+2025-04-22,Culta,18.0,3.0,,,
 2025-04-22,Desaguadero_M,9.92,6.33,85.2,58.96,
 2025-04-22,El Belen,13.0,5.0,,,10.8
 2025-04-22,El Común Caraparí,,,,,16.5
@@ -24687,6 +24709,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-04-23,Covendo_M (GPRS),22.5,20.77,99.88,99.82,1374.8
 2025-04-23,Cruzpata (Escoma),,,,,12.4
 2025-04-23,Cuatro Cañadas - CEA-2 (GPRS),25.48,23.51,96.4,87.8,
+2025-04-23,Culta,19.0,2.0,,,
 2025-04-23,Desaguadero_M,10.5,5.6,80.6,65.29,
 2025-04-23,El Belen,15.0,1.0,,,8.6
 2025-04-23,El Común Caraparí,,,,,4.0
@@ -24922,6 +24945,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-04-24,Cotagaita Mosoj Llajta,27.0,3.0,,,
 2025-04-24,Covendo_M (GPRS),27.06,21.32,99.91,84.73,
 2025-04-24,Cuatro Cañadas - CEA-2 (GPRS),27.32,23.74,98.5,83.9,
+2025-04-24,Culta,19.2,-3.6,,,
 2025-04-24,Desaguadero_M,8.87,1.94,75.09,36.86,
 2025-04-24,El Belen,15.0,0.0,,,
 2025-04-24,El Reloj,,,,,10.0
@@ -25125,6 +25149,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-04-25,Cotagaita Mosoj Llajta,28.0,0.5,,,
 2025-04-25,Covendo_M (GPRS),29.69,22.98,99.91,78.48,13310.3
 2025-04-25,Cuatro Cañadas - CEA-2 (GPRS),28.76,24.83,96.3,79.57,
+2025-04-25,Culta,17.0,-4.8,,,
 2025-04-25,Desaguadero_M,10.31,2.14,82.9,45.09,
 2025-04-25,El Belen,16.0,-2.0,,,
 2025-04-25,El Reloj,,,,,0.3
@@ -25315,6 +25340,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-04-26,Cotagaita Mosoj Llajta,27.0,-2.0,,,
 2025-04-26,Covendo_M (GPRS),30.47,22.95,99.86,72.06,1106.7
 2025-04-26,Cuatro Cañadas - CEA-2 (GPRS),29.35,25.09,92.3,72.47,
+2025-04-26,Culta,19.0,1.0,,,
 2025-04-26,Desaguadero_M,11.29,1.35,70.93,30.62,
 2025-04-26,El Belen,17.0,-2.0,,,
 2025-04-26,El Villar,27.0,11.0,,,
@@ -25499,6 +25525,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-04-27,Cotagaita Mosoj Llajta,27.0,-1.0,,,
 2025-04-27,Covendo_M (GPRS),30.14,24.07,99.88,75.95,1159.0
 2025-04-27,Cuatro Cañadas - CEA-2 (GPRS),26.81,25.02,98.1,77.21,
+2025-04-27,Culta,18.0,-2.0,,,
 2025-04-27,Desaguadero_M,10.05,3.44,72.15,39.93,
 2025-04-27,El Belen,16.0,1.0,,,
 2025-04-27,El Común Caraparí,,,,,2.4
@@ -25696,6 +25723,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-04-28,Cruzpata (Escoma),,,,,2.2
 2025-04-28,Cuatro Cañadas - CEA-2 (GPRS),19.7,18.91,94.4,86.6,3.4
 2025-04-28,Cuesta del Zorro (Catacora),,,,,1.1
+2025-04-28,Culta,17.0,-1.0,,,
 2025-04-28,Desaguadero_M,10.9,3.73,82.9,64.77,
 2025-04-28,El Belen,15.0,3.0,,,
 2025-04-28,El Tejar (Tarija),,,,,0.5
@@ -25896,6 +25924,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-04-29,Covendo_M (GPRS),25.81,19.87,99.91,75.32,
 2025-04-29,Cruzpata (Escoma),,,,,5.0
 2025-04-29,Cuatro Cañadas - CEA-2 (GPRS),23.91,20.1,82.2,69.88,
+2025-04-29,Culta,16.0,1.0,,,
 2025-04-29,Desaguadero_M,11.55,6.41,65.41,50.87,
 2025-04-29,El Belen,18.0,5.0,,,
 2025-04-29,El Villar,16.8,12.0,,,
@@ -26088,6 +26117,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-04-30,Covendo_M (GPRS),28.46,19.81,99.92,65.68,
 2025-04-30,Cruzpata (Escoma),,,,,1.0
 2025-04-30,Cuatro Cañadas - CEA-2 (GPRS),26.8,22.79,77.7,60.39,
+2025-04-30,Culta,20.0,-1.0,,,
 2025-04-30,Desaguadero_M,10.38,5.6,73.65,60.07,
 2025-04-30,El Belen,18.0,2.0,,,
 2025-04-30,El Villar,18.0,12.2,,,
@@ -26226,6 +26256,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-01,Aguadas (GPRS),14.64,1.64,96.9,38.27,0.1
 2025-05-01,Aguaraycito,26.0,21.0,,,
 2025-05-01,Aiquile (GPRS),22.06,14.48,90.3,58.97,
+2025-05-01,Alcantarí_Aeropuerto,22.7,8.5,,,
 2025-05-01,Alto Peñas (GPRS),11.85,7.72,79.63,64.1,
 2025-05-01,Andamarca,17.0,1.4,,,
 2025-05-01,Anzaldo_M (GPRS),20.77,12.4,84.6,40.83,
@@ -26263,6 +26294,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-01,Cotagaita Mosoj Llajta,27.0,1.0,,,
 2025-05-01,Covendo_M (GPRS),31.37,21.64,99.93,61.44,
 2025-05-01,Cuatro Cañadas - CEA-2 (GPRS),28.77,23.84,88.2,69.41,
+2025-05-01,Culta,19.0,-3.0,,,
 2025-05-01,Desaguadero_M,11.43,6.19,88.2,64.29,1.3
 2025-05-01,El Belen,16.0,,,,
 2025-05-01,El Tejar (Tarija),28.3,16.0,,,
@@ -26341,6 +26373,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-01,San Julian - Comunidad Los Angeles (GPRS),29.86,23.95,95.7,67.0,0.1
 2025-05-01,San Julian - Nucleo 32 (GPRS),29.27,25.17,88.7,71.68,
 2025-05-01,San Martin,17.0,-5.0,,,
+2025-05-01,San Pablo de Lipez,13.0,-5.0,,,
 2025-05-01,San Pablo de Lipez (GPRS),10.84,1.16,43.92,27.02,
 2025-05-01,San Pedro - Río Victoria (GPRS),28.92,23.0,88.7,70.13,
 2025-05-01,San Pedro - San Antonio (GPRS),29.55,22.59,95.3,70.67,
@@ -26406,6 +26439,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-02,Aguadas (GPRS),14.11,4.03,84.5,50.89,
 2025-05-02,Aguaraycito,28.0,20.0,,,
 2025-05-02,Aiquile (GPRS),23.46,12.65,95.3,50.41,
+2025-05-02,Alcantarí_Aeropuerto,22.2,8.7,,,
 2025-05-02,Alto Obrajes_Barrio Magisterio,,,,,3.5
 2025-05-02,Alto Peñas (GPRS),12.46,7.46,74.54,57.06,
 2025-05-02,Andamarca,16.0,-3.2,,,3.1
@@ -26447,6 +26481,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-02,Cotagaita Mosoj Llajta,26.0,3.0,,,
 2025-05-02,Covendo_M (GPRS),32.47,22.26,99.92,58.97,0.1
 2025-05-02,Cuatro Cañadas - CEA-2 (GPRS),30.41,24.96,92.4,68.84,
+2025-05-02,Culta,17.0,-2.0,,,
 2025-05-02,Desaguadero_M,11.36,3.32,84.0,49.32,
 2025-05-02,El Belen,16.0,,,,
 2025-05-02,El Común Caraparí,,,,,9.4
@@ -26534,6 +26569,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-02,San Julian - Comunidad Los Angeles (GPRS),31.01,26.04,90.7,69.94,0.1
 2025-05-02,San Julian - Nucleo 32 (GPRS),31.0,25.63,93.9,71.18,
 2025-05-02,San Martin,18.0,-5.3,,,
+2025-05-02,San Pablo de Lipez,14.0,-4.0,,,
 2025-05-02,San Pablo de Lipez (GPRS),9.26,2.85,47.23,31.67,
 2025-05-02,San Pedro - Río Victoria (GPRS),30.11,25.51,93.1,74.36,
 2025-05-02,San Pedro - San Antonio (GPRS),30.95,25.89,91.6,73.76,
@@ -26616,6 +26652,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-03,Cabaña Forestal Oruro,17.7,5.4,,,0.8
 2025-05-03,Cachimayu,,,,,13.5
 2025-05-03,Caiza D,26.0,5.0,,,
+2025-05-03,Calachaka Jahuira,,,,,6.7
 2025-05-03,Calacoto,,,,,2.0
 2025-05-03,Camargo_M (GPRS),20.82,13.64,65.34,36.77,
 2025-05-03,Camata,29.0,,,,
@@ -26650,6 +26687,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-03,Cotagaita Mosoj Llajta,26.0,0.0,,,
 2025-05-03,Covendo_M (GPRS),30.47,21.97,99.92,68.8,
 2025-05-03,Cuatro Cañadas - CEA-2 (GPRS),22.2,21.48,100.0,99.9,81.2
+2025-05-03,Culta,18.0,-1.0,,,
 2025-05-03,Desaguadero_M,11.51,7.83,76.63,69.01,0.7
 2025-05-03,El Belen,17.0,,,,
 2025-05-03,El Tejar (La Paz),,,,,4.7
@@ -26736,6 +26774,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-03,San Julian - Comunidad Los Angeles (GPRS),24.32,23.62,98.8,96.6,
 2025-05-03,San Julian - Nucleo 32 (GPRS),24.19,23.68,99.6,96.8,
 2025-05-03,San Martin,16.5,-2.0,,,
+2025-05-03,San Pablo de Lipez,13.0,-5.0,,,
 2025-05-03,San Pablo de Lipez (GPRS),9.61,-0.43,68.42,31.2,
 2025-05-03,San Pedro - Río Victoria (GPRS),25.01,23.68,93.7,87.5,0.6
 2025-05-03,San Pedro - San Antonio (GPRS),23.52,22.31,96.8,94.5,
@@ -26815,6 +26854,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-04,Cabaña Forestal Oruro,18.8,5.5,,,
 2025-05-04,Cachimayu,,,,,3.5
 2025-05-04,Caiza D,25.9,4.0,,,
+2025-05-04,Calachaka Jahuira,,,,,17.0
 2025-05-04,Calacoto,,,,,0.8
 2025-05-04,Camargo_M (GPRS),21.73,12.99,83.74,42.58,
 2025-05-04,Camata,28.0,,,,
@@ -26849,6 +26889,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-04,Cotagaita Mosoj Llajta,27.0,3.0,,,
 2025-05-04,Covendo_M (GPRS),29.99,20.63,99.93,72.23,0.4
 2025-05-04,Cuatro Cañadas - CEA-2 (GPRS),28.02,22.09,100.0,80.4,
+2025-05-04,Culta,17.0,-2.0,,,
 2025-05-04,Desaguadero_M,9.93,7.5,79.88,70.28,3.4
 2025-05-04,El Belen,16.0,,,,3.0
 2025-05-04,El Reloj,,,,,6.3
@@ -26937,6 +26978,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-04,San Julian - Comunidad Los Angeles (GPRS),29.85,22.64,100.0,71.62,
 2025-05-04,San Julian - Nucleo 32 (GPRS),29.7,22.68,100.0,77.36,
 2025-05-04,San Martin,17.1,2.1,,,
+2025-05-04,San Pablo de Lipez,12.1,-6.0,,,
 2025-05-04,San Pablo de Lipez (GPRS),7.86,-1.52,27.01,10.41,
 2025-05-04,San Pedro - Río Victoria (GPRS),28.49,22.54,96.7,75.93,
 2025-05-04,San Pedro - San Antonio (GPRS),28.13,22.08,98.2,81.3,
@@ -27003,6 +27045,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-05,Aguadas (GPRS),13.11,5.55,93.6,60.93,
 2025-05-05,Aguaraycito,,,,,9.0
 2025-05-05,Aiquile (GPRS),23.05,14.87,93.8,53.48,
+2025-05-05,Alcantarí_Aeropuerto,19.0,9.3,,,
 2025-05-05,Alto Peñas (GPRS),9.03,6.23,97.2,84.0,
 2025-05-05,Ancoraimes,,,,,6.8
 2025-05-05,Andamarca,20.4,4.2,,,
@@ -27013,6 +27056,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-05,Azurduy,26.5,11.0,,,
 2025-05-05,Cabaña Forestal Oruro,19.4,7.6,,,0.4
 2025-05-05,Caiza D,28.0,5.0,,,
+2025-05-05,Calachaka Jahuira,,,,,4.3
 2025-05-05,Camargo_M (GPRS),20.51,12.55,75.45,43.46,
 2025-05-05,Camata,30.0,,,,
 2025-05-05,Camiri,25.0,21.0,93.2,73.2,
@@ -27044,6 +27088,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-05,Cotagaita Mosoj Llajta,28.0,-1.0,,,
 2025-05-05,Covendo_M (GPRS),28.91,21.04,99.89,72.79,
 2025-05-05,Cuatro Cañadas - CEA-2 (GPRS),29.69,25.35,94.1,75.02,
+2025-05-05,Culta,19.0,-1.0,,,0.9
 2025-05-05,Desaguadero_M,9.79,7.11,81.9,64.58,0.1
 2025-05-05,El Belen,14.0,,,,
 2025-05-05,El Común Caraparí,,,,,4.6
@@ -27127,6 +27172,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-05,San Julian - Comunidad Los Angeles (GPRS),30.94,25.71,97.6,70.98,0.1
 2025-05-05,San Julian - Nucleo 32 (GPRS),30.99,26.35,93.7,75.24,0.2
 2025-05-05,San Martin,19.0,2.8,,,
+2025-05-05,San Pablo de Lipez,14.0,-5.0,,,
 2025-05-05,San Pablo de Lipez (GPRS),9.0,-0.66,22.46,7.51,
 2025-05-05,San Pedro - Río Victoria (GPRS),30.49,24.89,96.8,77.59,
 2025-05-05,San Pedro - San Antonio (GPRS),30.47,25.32,93.6,76.73,
@@ -27197,6 +27243,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-06,Aguadas (GPRS),13.97,3.93,93.8,52.21,
 2025-05-06,Aguaraycito,,,,,10.0
 2025-05-06,Aiquile (GPRS),22.92,13.77,94.6,50.74,
+2025-05-06,Alcantarí_Aeropuerto,21.7,9.8,,,
 2025-05-06,Alto Obrajes_Barrio Magisterio,,,,,0.8
 2025-05-06,Alto Peñas (GPRS),12.36,7.73,82.2,68.2,
 2025-05-06,Ancoraimes,,,,,1.8
@@ -27208,6 +27255,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-06,Azurduy,24.5,10.0,,,
 2025-05-06,Cabaña Forestal Oruro,18.7,4.7,,,
 2025-05-06,Caiza D,27.0,5.1,,,
+2025-05-06,Calachaka Jahuira,,,,,0.7
 2025-05-06,Calacoto,,,,,0.1
 2025-05-06,Camargo_M (GPRS),23.47,13.9,78.99,27.37,
 2025-05-06,Camata,29.0,,,,
@@ -27239,6 +27287,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-06,Cotagaita Mosoj Llajta,27.0,0.0,,,
 2025-05-06,Covendo_M (GPRS),29.37,21.87,99.94,72.09,
 2025-05-06,Cuatro Cañadas - CEA-2 (GPRS),29.62,23.91,95.5,72.87,
+2025-05-06,Culta,19.1,-2.0,,,
 2025-05-06,Desaguadero_M,12.01,7.03,79.47,57.54,
 2025-05-06,El Belen,15.0,,,,
 2025-05-06,El Común Caraparí,,,,,3.9
@@ -27324,6 +27373,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-06,San Julian - Comunidad Los Angeles (GPRS),30.22,24.86,93.7,68.5,
 2025-05-06,San Julian - Nucleo 32 (GPRS),30.28,25.76,89.5,69.94,0.2
 2025-05-06,San Martin,19.1,3.0,,,
+2025-05-06,San Pablo de Lipez,13.0,-4.0,,,
 2025-05-06,San Pablo de Lipez (GPRS),8.76,0.08,29.2,11.96,
 2025-05-06,San Pedro - Río Victoria (GPRS),30.14,25.28,89.5,75.78,
 2025-05-06,San Pedro - San Antonio (GPRS),30.27,25.12,92.2,77.18,
@@ -27393,6 +27443,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-07,Aguadas (GPRS),14.8,2.15,97.3,52.44,0.1
 2025-05-07,Aguaraycito,,,,,1.0
 2025-05-07,Aiquile (GPRS),23.4,12.9,94.7,48.14,
+2025-05-07,Alcantarí_Aeropuerto,22.6,8.4,,,
 2025-05-07,Alto Peñas (GPRS),12.25,8.5,73.59,64.47,
 2025-05-07,Andamarca,20.0,2.1,,,
 2025-05-07,Anzaldo_M (GPRS),22.04,12.64,85.67,35.32,
@@ -27428,6 +27479,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-07,Cotagaita Mosoj Llajta,28.0,-3.0,,,
 2025-05-07,Covendo_M (GPRS),30.39,23.09,99.93,68.86,
 2025-05-07,Cuatro Cañadas - CEA-2 (GPRS),30.28,25.68,88.9,70.01,
+2025-05-07,Culta,19.0,-1.2,,,
 2025-05-07,Desaguadero_M,12.14,4.49,95.0,68.3,
 2025-05-07,El Belen,17.2,,,,
 2025-05-07,El Común Caraparí,,,,,2.2
@@ -27506,6 +27558,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-07,San Julian - Comunidad Los Angeles (GPRS),31.81,26.24,88.8,64.6,0.1
 2025-05-07,San Julian - Nucleo 32 (GPRS),31.26,27.2,88.1,69.69,
 2025-05-07,San Martin,19.0,3.1,,,
+2025-05-07,San Pablo de Lipez,12.0,-4.1,,,
 2025-05-07,San Pablo de Lipez (GPRS),10.56,0.53,14.89,4.32,
 2025-05-07,San Pedro - Río Victoria (GPRS),30.53,26.36,87.2,75.08,0.2
 2025-05-07,San Pedro - San Antonio (GPRS),31.54,26.84,88.0,73.15,
@@ -27569,6 +27622,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-08,Aguadas (GPRS),14.08,2.15,86.5,55.43,
 2025-05-08,Aguaraycito,27.0,21.0,,,
 2025-05-08,Aiquile (GPRS),24.78,13.45,94.7,47.14,
+2025-05-08,Alcantarí_Aeropuerto,22.1,8.4,,,
 2025-05-08,Alto Peñas (GPRS),12.64,7.0,81.7,63.29,
 2025-05-08,Andamarca,19.8,1.4,,,
 2025-05-08,Anzaldo_M (GPRS),20.32,11.99,88.94,45.77,
@@ -27606,6 +27660,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-08,Cotagaita Mosoj Llajta,27.0,-2.0,,,
 2025-05-08,Covendo_M (GPRS),30.02,22.93,99.91,67.77,0.2
 2025-05-08,Cuatro Cañadas - CEA-2 (GPRS),30.54,26.14,87.2,68.7,
+2025-05-08,Culta,21.0,-2.0,,,
 2025-05-08,Desaguadero_M,12.01,4.43,92.3,71.2,
 2025-05-08,El Belen,16.0,,,,
 2025-05-08,El Común Caraparí,,,,,1.3
@@ -27685,6 +27740,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-08,San Julian - Comunidad Los Angeles (GPRS),31.89,26.16,88.7,63.83,
 2025-05-08,San Julian - Nucleo 32 (GPRS),31.52,27.01,87.0,69.18,
 2025-05-08,San Martin,18.1,-3.1,,,
+2025-05-08,San Pablo de Lipez,14.0,-5.0,,,
 2025-05-08,San Pablo de Lipez (GPRS),9.58,0.69,31.8,12.63,
 2025-05-08,San Pedro - Río Victoria (GPRS),30.01,26.31,87.2,73.61,
 2025-05-08,San Pedro - San Antonio (GPRS),30.91,26.12,87.8,73.64,
@@ -27751,6 +27807,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-09,Aguadas (GPRS),15.78,4.7,71.12,31.95,
 2025-05-09,Aguaraycito,29.0,17.0,,,
 2025-05-09,Aiquile (GPRS),26.27,12.5,94.5,31.29,
+2025-05-09,Alcantarí_Aeropuerto,23.0,10.5,,,
 2025-05-09,Alto Obrajes_Barrio Magisterio,,,,,4.8
 2025-05-09,Alto Peñas (GPRS),12.74,8.3,48.07,30.65,
 2025-05-09,Ancoraimes,,,,,0.1
@@ -27761,6 +27818,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-09,Azurduy,24.5,10.0,,,
 2025-05-09,Cabaña Forestal Oruro,18.4,1.2,,,
 2025-05-09,Caiza D,28.0,6.0,,,
+2025-05-09,Calachaka Jahuira,,,,,1.2
 2025-05-09,Camargo_M (GPRS),24.78,12.71,40.05,5.37,
 2025-05-09,Camata,30.0,,,,
 2025-05-09,Camiri,24.0,22.0,93.2,87.8,
@@ -27789,6 +27847,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-09,Cotagaita Mosoj Llajta,28.0,0.0,,,
 2025-05-09,Covendo_M (GPRS),27.54,23.41,99.92,85.53,
 2025-05-09,Cuatro Cañadas - CEA-2 (GPRS),30.14,26.27,87.7,71.11,
+2025-05-09,Culta,19.0,0.0,,,
 2025-05-09,Desaguadero_M,10.71,1.22,96.2,47.57,0.1
 2025-05-09,El Belen,18.0,,,,3.4
 2025-05-09,El Común Caraparí,,,,,1.7
@@ -27868,6 +27927,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-09,San Julian - Comunidad Los Angeles (GPRS),31.66,26.82,84.1,65.5,
 2025-05-09,San Julian - Nucleo 32 (GPRS),31.2,26.48,90.7,71.51,
 2025-05-09,San Martin,18.0,2.1,,,
+2025-05-09,San Pablo de Lipez,13.0,-4.0,,,
 2025-05-09,San Pablo de Lipez (GPRS),7.62,-3.21,22.81,6.35,
 2025-05-09,San Pedro - Río Victoria (GPRS),30.04,26.32,86.8,74.95,
 2025-05-09,San Pedro - San Antonio (GPRS),31.13,26.54,88.3,73.27,
@@ -27936,6 +27996,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-10,Aguadas (GPRS),8.11,3.37,94.1,74.8,0.1
 2025-05-10,Aguaraycito,30.0,22.0,,,
 2025-05-10,Aiquile (GPRS),18.51,14.94,88.9,70.99,
+2025-05-10,Alcantarí_Aeropuerto,17.2,8.8,,,
 2025-05-10,Alto Peñas (GPRS),9.79,4.42,95.7,71.11,
 2025-05-10,Andamarca,19.8,3.2,,,
 2025-05-10,Anzaldo_M (GPRS),12.4,10.77,100.0,94.79,
@@ -27972,6 +28033,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-10,Cotagaita Mosoj Llajta,27.0,5.0,,,
 2025-05-10,Covendo_M (GPRS),22.98,19.06,99.92,98.82,8.3
 2025-05-10,Cuatro Cañadas - CEA-2 (GPRS),22.99,21.94,94.7,89.6,0.2
+2025-05-10,Culta,17.0,2.0,,,
 2025-05-10,Desaguadero_M,12.01,3.64,88.8,66.41,
 2025-05-10,El Belen,14.0,,,,
 2025-05-10,El Reloj,,,,,1.2
@@ -28055,6 +28117,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-10,San Julian - Comunidad Los Angeles (GPRS),26.43,21.99,92.8,74.09,
 2025-05-10,San Julian - Nucleo 32 (GPRS),25.24,21.57,94.5,84.7,2.6
 2025-05-10,San Martin,19.1,-2.1,,,
+2025-05-10,San Pablo de Lipez,12.8,-3.0,,,
 2025-05-10,San Pablo de Lipez (GPRS),10.17,0.68,14.55,9.27,
 2025-05-10,San Pedro - Río Victoria (GPRS),23.93,21.89,87.8,80.8,2.4
 2025-05-10,San Pedro - San Antonio (GPRS),24.09,22.83,84.7,82.3,
@@ -28121,6 +28184,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-11,Aguadas (GPRS),11.0,4.57,88.1,61.43,
 2025-05-11,Aguaraycito,30.0,15.0,,,
 2025-05-11,Aiquile (GPRS),20.54,14.56,86.2,62.2,
+2025-05-11,Alcantarí_Aeropuerto,19.0,8.8,,,
 2025-05-11,Alto Peñas (GPRS),10.32,3.39,92.7,65.43,
 2025-05-11,Andamarca,19.2,1.5,,,
 2025-05-11,Anzaldo_M (GPRS),12.95,9.8,100.0,80.06,
@@ -28130,6 +28194,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-11,Azurduy,24.0,10.0,,,1.2
 2025-05-11,Cabaña Forestal Oruro,18.7,3.6,,,
 2025-05-11,Caiza D,25.0,-2.2,,,
+2025-05-11,Calachaka Jahuira,,,,,14.7
 2025-05-11,Camargo_M (GPRS),17.39,12.51,71.61,52.38,
 2025-05-11,Camata,28.0,,,,
 2025-05-11,Camiri,16.0,16.0,87.2,64.0,
@@ -28160,6 +28225,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-11,Cotagaita Mosoj Llajta,26.0,6.0,,,
 2025-05-11,Covendo_M (GPRS),27.89,17.42,99.91,70.99,
 2025-05-11,Cuatro Cañadas - CEA-2 (GPRS),23.78,19.44,90.6,71.91,
+2025-05-11,Culta,18.0,2.5,,,
 2025-05-11,Desaguadero_M,10.77,1.94,95.1,64.9,
 2025-05-11,El Belen,15.0,,,,
 2025-05-11,El Tejar (La Paz),,,,,2.9
@@ -28239,6 +28305,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-11,San Julian - Comunidad Los Angeles (GPRS),26.5,20.68,88.6,60.8,
 2025-05-11,San Julian - Nucleo 32 (GPRS),25.5,20.52,90.6,67.11,
 2025-05-11,San Martin,18.1,-2.0,,,
+2025-05-11,San Pablo de Lipez,14.0,-4.0,,,
 2025-05-11,San Pablo de Lipez (GPRS),10.08,3.09,72.74,41.68,
 2025-05-11,San Pedro - Río Victoria (GPRS),25.18,21.55,79.32,69.06,
 2025-05-11,San Pedro - San Antonio (GPRS),25.06,20.7,85.2,70.79,
@@ -28306,6 +28373,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-12,Aguadas (GPRS),15.46,1.88,93.5,41.4,
 2025-05-12,Aguaraycito,31.0,13.0,,,
 2025-05-12,Aiquile (GPRS),22.09,13.13,86.7,51.24,
+2025-05-12,Alcantarí_Aeropuerto,21.6,7.4,,,
 2025-05-12,Alto Peñas (GPRS),11.98,7.22,79.39,63.05,
 2025-05-12,Andamarca,19.0,3.6,,,
 2025-05-12,Anzaldo_M (GPRS),18.05,10.79,100.0,56.8,
@@ -28314,6 +28382,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-12,Azurduy,22.0,9.0,,,
 2025-05-12,Cabaña Forestal Oruro,18.8,1.4,,,
 2025-05-12,Caiza D,25.0,4.0,,,
+2025-05-12,Calachaka Jahuira,,,,,0.3
 2025-05-12,Camargo_M (GPRS),20.1,10.83,79.79,41.07,
 2025-05-12,Camata,29.0,,,,
 2025-05-12,Camiri,20.0,14.0,87.1,72.0,
@@ -28342,6 +28411,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-12,Cotagaita Mosoj Llajta,27.0,2.0,,,
 2025-05-12,Covendo_M (GPRS),24.83,17.23,99.9,63.54,
 2025-05-12,Cuatro Cañadas - CEA-2 (GPRS),23.97,17.27,90.2,63.89,
+2025-05-12,Culta,20.0,1.4,,,
 2025-05-12,Desaguadero_M,9.2,2.14,95.3,80.2,
 2025-05-12,El Belen,19.0,,,,
 2025-05-12,El Tejar (Tarija),27.0,6.9,,,
@@ -28413,6 +28483,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-12,San Julian - Comunidad Los Angeles (GPRS),27.54,18.06,88.6,59.5,
 2025-05-12,San Julian - Nucleo 32 (GPRS),25.57,18.43,89.9,64.12,
 2025-05-12,San Martin,19.0,0.1,,,
+2025-05-12,San Pablo de Lipez,12.0,-2.5,,,
 2025-05-12,San Pablo de Lipez (GPRS),12.63,2.23,33.06,14.83,
 2025-05-12,San Pedro - Río Victoria (GPRS),24.79,19.51,84.0,65.98,
 2025-05-12,San Pedro - San Antonio (GPRS),24.65,19.09,83.1,67.83,
@@ -28474,6 +28545,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-13,Aguadas (GPRS),,,96.0,37.43,
 2025-05-13,Aguaraycito,32.0,14.0,,,
 2025-05-13,Aiquile (GPRS),,,95.6,58.22,
+2025-05-13,Alcantarí_Aeropuerto,22.3,7.5,,,
 2025-05-13,Alto Peñas (GPRS),,,70.96,51.91,
 2025-05-13,Andamarca,17.0,2.3,,,
 2025-05-13,Anzaldo_M (GPRS),,,100.0,42.33,
@@ -28510,6 +28582,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-13,Cotagaita Mosoj Llajta,27.0,1.0,,,
 2025-05-13,Covendo_M (GPRS),,,99.9,78.63,
 2025-05-13,Cuatro Cañadas - CEA-2 (GPRS),,,85.2,63.4,
+2025-05-13,Culta,20.1,-2.0,,,
 2025-05-13,Desaguadero_M,,,94.3,69.8,
 2025-05-13,El Belen,17.0,,,,
 2025-05-13,El Tejar (Tarija),24.7,5.0,,,
@@ -28579,6 +28652,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-13,San Julian - Comunidad Los Angeles (GPRS),,,83.2,59.24,
 2025-05-13,San Julian - Nucleo 32 (GPRS),,,82.2,65.44,
 2025-05-13,San Martin,19.0,-2.3,,,
+2025-05-13,San Pablo de Lipez,16.0,-2.0,,,
 2025-05-13,San Pablo de Lipez (GPRS),,,23.76,13.92,
 2025-05-13,San Pedro - Río Victoria (GPRS),,,91.9,65.87,
 2025-05-13,San Pedro - San Antonio (GPRS),,,86.8,67.18,
@@ -28640,6 +28714,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-14,Aguadas (GPRS),,,79.75,39.42,
 2025-05-14,Aguaraycito,33.0,17.0,,,
 2025-05-14,Aiquile (GPRS),,,95.5,54.18,
+2025-05-14,Alcantarí_Aeropuerto,22.5,7.2,,,
 2025-05-14,Alto Peñas (GPRS),,,58.8,48.68,
 2025-05-14,Andamarca,22.8,1.0,,,
 2025-05-14,Anzaldo_M (GPRS),,,97.24,36.77,
@@ -28648,6 +28723,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-14,Azurduy,27.0,11.0,,,
 2025-05-14,Cabaña Forestal Oruro,19.6,0.4,,,
 2025-05-14,Caiza D,26.9,-3.2,,,
+2025-05-14,Calachaka Jahuira,,,,,0.5
 2025-05-14,Camargo_M (GPRS),,,57.79,27.1,
 2025-05-14,Camata,29.5,,,,
 2025-05-14,Camiri,,,99.1,77.8,
@@ -28675,6 +28751,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-14,Cotagaita Mosoj Llajta,27.0,4.0,,,
 2025-05-14,Covendo_M (GPRS),,,99.92,81.5,
 2025-05-14,Cuatro Cañadas - CEA-2 (GPRS),,,92.6,67.59,
+2025-05-14,Culta,20.0,-1.2,,,
 2025-05-14,Desaguadero_M,,,87.7,51.68,
 2025-05-14,El Belen,18.0,,,,
 2025-05-14,El Tejar (Tarija),30.5,7.4,,,
@@ -28745,6 +28822,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-14,San Julian - Comunidad Los Angeles (GPRS),,,94.9,61.78,
 2025-05-14,San Julian - Nucleo 32 (GPRS),,,92.3,65.71,
 2025-05-14,San Martin,18.1,-1.0,,,
+2025-05-14,San Pablo de Lipez,18.0,-4.0,,,
 2025-05-14,San Pablo de Lipez (GPRS),,,30.19,14.39,
 2025-05-14,San Pedro - Río Victoria (GPRS),,,96.9,66.77,
 2025-05-14,San Pedro - San Antonio (GPRS),,,92.3,72.29,
@@ -28806,6 +28884,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-15,Aguadas (GPRS),,,68.47,20.19,
 2025-05-15,Aguaraycito,33.0,18.0,,,
 2025-05-15,Aiquile (GPRS),,,94.6,50.34,
+2025-05-15,Alcantarí_Aeropuerto,19.1,7.6,,,
 2025-05-15,Alto Peñas (GPRS),,,42.71,25.81,
 2025-05-15,Andamarca,21.0,4.2,,,
 2025-05-15,Anzaldo_M (GPRS),,,86.55,40.39,
@@ -28840,6 +28919,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-15,Cotagaita Mosoj Llajta,28.0,-1.0,,,
 2025-05-15,Covendo_M (GPRS),,,99.92,74.66,
 2025-05-15,Cuatro Cañadas - CEA-2 (GPRS),,,94.2,69.22,
+2025-05-15,Culta,20.1,1.4,,,
 2025-05-15,Desaguadero_M,,,86.5,52.33,
 2025-05-15,El Belen,16.0,,,,
 2025-05-15,El Tejar (Tarija),23.5,10.0,,,
@@ -28909,6 +28989,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-15,San Julian - Comunidad Los Angeles (GPRS),,,100.0,62.31,
 2025-05-15,San Julian - Nucleo 32 (GPRS),,,91.3,64.37,
 2025-05-15,San Martin,18.0,-3.0,,,
+2025-05-15,San Pablo de Lipez,17.0,-5.0,,,
 2025-05-15,San Pablo de Lipez (GPRS),,,22.18,13.09,
 2025-05-15,San Pedro - Río Victoria (GPRS),,,96.8,70.3,
 2025-05-15,San Pedro - San Antonio (GPRS),,,92.3,67.73,1450.0
@@ -28971,6 +29052,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-16,Aguadas (GPRS),,,66.14,66.14,
 2025-05-16,Aguaraycito,34.0,18.0,,,
 2025-05-16,Aiquile (GPRS),,,94.5,94.5,
+2025-05-16,Alcantarí_Aeropuerto,22.1,5.6,,,
 2025-05-16,Alto Peñas (GPRS),,,66.8,21.66,
 2025-05-16,Andamarca,18.5,-3.2,,,
 2025-05-16,Anzaldo_M (GPRS),,,84.37,64.9,
@@ -29005,6 +29087,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-16,Cotagaita Mosoj Llajta,27.0,-1.0,,,
 2025-05-16,Covendo_M (GPRS),,,99.92,99.88,
 2025-05-16,Cuatro Cañadas - CEA-2 (GPRS),,,96.9,96.9,0.2
+2025-05-16,Culta,20.0,-1.0,,,
 2025-05-16,Desaguadero_M,,,89.9,89.9,
 2025-05-16,El Belen,17.0,,,,
 2025-05-16,El Tejar (Tarija),24.8,9.5,,,
@@ -29078,6 +29161,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-16,San Julian - Comunidad Los Angeles (GPRS),,,90.3,90.3,
 2025-05-16,San Julian - Nucleo 32 (GPRS),,,94.6,94.6,
 2025-05-16,San Martin,18.0,-2.1,,,
+2025-05-16,San Pablo de Lipez,16.0,-2.0,,,
 2025-05-16,San Pablo de Lipez (GPRS),,,24.67,24.39,
 2025-05-16,San Pedro - Río Victoria (GPRS),,,96.3,96.3,
 2025-05-16,San Pedro - San Antonio (GPRS),,,94.3,94.3,
@@ -29140,6 +29224,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-17,Aguadas (GPRS),,,76.59,22.6,
 2025-05-17,Aguaraycito,33.0,17.0,,,
 2025-05-17,Aiquile (GPRS),,,94.8,31.79,
+2025-05-17,Alcantarí_Aeropuerto,22.3,6.6,,,
 2025-05-17,Alto Peñas (GPRS),,,58.33,23.62,
 2025-05-17,Andamarca,17.4,-3.2,,,
 2025-05-17,Apolo_M (GPRS),,,95.88,47.33,
@@ -29171,6 +29256,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-17,Cotagaita Mosoj Llajta,26.0,-1.5,,,
 2025-05-17,Covendo_M (GPRS),,,99.91,55.59,
 2025-05-17,Cuatro Cañadas - CEA-2 (GPRS),,,92.4,52.94,
+2025-05-17,Culta,21.0,-3.0,,,
 2025-05-17,Desaguadero_M,,,74.57,27.87,
 2025-05-17,El Belen,17.0,,,,
 2025-05-17,El Tejar (Tarija),25.4,10.1,,,
@@ -29238,6 +29324,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-17,San Julian - Comunidad Los Angeles (GPRS),,,87.5,50.18,
 2025-05-17,San Julian - Nucleo 32 (GPRS),,,92.4,58.89,
 2025-05-17,San Martin,17.0,-3.0,,,
+2025-05-17,San Pablo de Lipez,14.0,-5.0,,,
 2025-05-17,San Pablo de Lipez (GPRS),,,58.58,14.28,
 2025-05-17,San Pedro - Río Victoria (GPRS),,,93.1,63.35,
 2025-05-17,San Pedro - San Antonio (GPRS),,,91.2,59.09,
@@ -29298,6 +29385,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-18,Aguadas (GPRS),,,89.6,14.08,
 2025-05-18,Aguaraycito,29.0,18.0,,,
 2025-05-18,Aiquile (GPRS),,,95.8,13.64,
+2025-05-18,Alcantarí_Aeropuerto,19.7,6.1,,,
 2025-05-18,Alto Peñas (GPRS),,,72.7,23.28,
 2025-05-18,Andamarca,16.3,-3.8,,,
 2025-05-18,Apolo_M (GPRS),,,98.05,52.03,
@@ -29328,6 +29416,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-18,Cotagaita Mosoj Llajta,26.0,-2.0,,,
 2025-05-18,Covendo_M (GPRS),,,99.93,63.65,
 2025-05-18,Cuatro Cañadas - CEA-2 (GPRS),,,94.7,62.78,
+2025-05-18,Culta,20.0,-4.0,,,
 2025-05-18,Desaguadero_M,,,75.56,27.03,
 2025-05-18,El Belen,17.0,,,,
 2025-05-18,El Tejar (Tarija),26.0,6.4,,,
@@ -29393,6 +29482,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-18,San Julian - Comunidad Los Angeles (GPRS),,,92.0,58.07,
 2025-05-18,San Julian - Nucleo 32 (GPRS),,,97.1,62.14,
 2025-05-18,San Martin,15.0,-4.1,,,
+2025-05-18,San Pablo de Lipez,13.0,-7.0,,,
 2025-05-18,San Pablo de Lipez (GPRS),,,36.63,17.9,
 2025-05-18,San Pedro - Río Victoria (GPRS),,,94.7,67.36,
 2025-05-18,San Pedro - San Antonio (GPRS),,,93.8,65.74,544.8
@@ -29452,6 +29542,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-19,Aguadas (GPRS),,,94.4,31.94,
 2025-05-19,Aguaraycito,28.0,18.0,,,
 2025-05-19,Aiquile (GPRS),,,94.5,37.97,
+2025-05-19,Alcantarí_Aeropuerto,21.3,3.5,,,
 2025-05-19,Alto Peñas (GPRS),,,60.03,46.91,
 2025-05-19,Andamarca,14.1,-3.5,,,
 2025-05-19,Apolo_M (GPRS),,,98.58,67.07,
@@ -29486,6 +29577,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-19,Cotagaita Mosoj Llajta,26.0,-4.0,,,
 2025-05-19,Covendo_M (GPRS),,,99.92,75.59,
 2025-05-19,Cuatro Cañadas - CEA-2 (GPRS),,,91.4,80.6,0.8
+2025-05-19,Culta,17.4,-2.0,,,
 2025-05-19,Desaguadero_M,,,86.3,46.38,
 2025-05-19,El Belen,15.0,,,,
 2025-05-19,El Tejar (Tarija),26.4,7.5,,,
@@ -29558,6 +29650,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-19,San Julian - Comunidad Los Angeles (GPRS),,,87.8,71.37,
 2025-05-19,San Julian - Nucleo 32 (GPRS),,,89.5,76.76,
 2025-05-19,San Martin,15.1,-2.8,,,
+2025-05-19,San Pablo de Lipez,14.0,-5.5,,,
 2025-05-19,San Pablo de Lipez (GPRS),,,24.76,15.15,
 2025-05-19,San Pedro - Río Victoria (GPRS),,,93.1,80.3,1.4
 2025-05-19,San Pedro - San Antonio (GPRS),,,91.0,83.2,2.4
@@ -29621,6 +29714,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-20,Aguadas (GPRS),,,72.8,45.34,
 2025-05-20,Aguaraycito,24.0,19.0,,,
 2025-05-20,Aiquile (GPRS),,,94.3,62.17,
+2025-05-20,Alcantarí_Aeropuerto,17.3,5.5,,,
 2025-05-20,Alto Peñas (GPRS),,,50.49,42.71,
 2025-05-20,Andamarca,15.0,-4.0,,,
 2025-05-20,Anzaldo_M (GPRS),,,55.72,55.72,
@@ -29655,6 +29749,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-20,Cotagaita Mosoj Llajta,28.0,-5.0,,,
 2025-05-20,Covendo_M (GPRS),,,99.92,82.86,
 2025-05-20,Cuatro Cañadas - CEA-2 (GPRS),,,100.0,78.86,
+2025-05-20,Culta,20.0,-0.5,,,
 2025-05-20,Desaguadero_M,,,95.0,39.87,
 2025-05-20,El Belen,16.0,,,,
 2025-05-20,El Tejar (Tarija),25.3,9.8,,,
@@ -29730,6 +29825,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-20,San Julian - Comunidad Los Angeles (GPRS),,,98.8,73.26,
 2025-05-20,San Julian - Nucleo 32 (GPRS),,,95.5,72.15,
 2025-05-20,San Martin,17.0,-3.0,,,
+2025-05-20,San Pablo de Lipez,15.0,-6.0,,,
 2025-05-20,San Pablo de Lipez (GPRS),,,26.24,10.06,
 2025-05-20,San Pedro - Río Victoria (GPRS),,,95.9,80.7,
 2025-05-20,San Pedro - San Antonio (GPRS),,,98.2,84.4,
@@ -29794,6 +29890,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-21,Aguadas (GPRS),,,91.5,53.65,
 2025-05-21,Aguaraycito,,,,,2.5
 2025-05-21,Aiquile (GPRS),,,92.8,54.13,
+2025-05-21,Alcantarí_Aeropuerto,18.8,8.2,,,
 2025-05-21,Alto Peñas (GPRS),,,80.3,53.98,
 2025-05-21,Andamarca,22.7,-3.5,,,
 2025-05-21,Anzaldo_M (GPRS),,,100.0,48.1,
@@ -29826,6 +29923,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-21,Cotagaita Mosoj Llajta,27.0,-3.0,,,
 2025-05-21,Covendo_M (GPRS),,,99.92,75.51,
 2025-05-21,Cuatro Cañadas - CEA-2 (GPRS),,,96.6,82.9,0.2
+2025-05-21,Culta,22.0,-3.0,,,
 2025-05-21,Desaguadero_M,,,84.9,60.49,
 2025-05-21,El Belen,16.0,,,,
 2025-05-21,El Tejar (Tarija),23.2,10.0,,,
@@ -29896,6 +29994,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-21,San Julian - Comunidad Los Angeles (GPRS),,,95.0,83.6,
 2025-05-21,San Julian - Nucleo 32 (GPRS),,,96.9,84.2,
 2025-05-21,San Martin,17.0,-4.1,,,
+2025-05-21,San Pablo de Lipez,16.0,-5.0,,,
 2025-05-21,San Pablo de Lipez (GPRS),,,22.21,14.75,
 2025-05-21,San Pedro - Río Victoria (GPRS),,,91.2,87.2,
 2025-05-21,San Pedro - San Antonio (GPRS),,,93.3,87.7,
@@ -29957,6 +30056,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-22,Aguadas (GPRS),,,86.9,40.57,
 2025-05-22,Aguaraycito,,,,,3.0
 2025-05-22,Aiquile (GPRS),,,89.5,59.68,
+2025-05-22,Alcantarí_Aeropuerto,18.4,7.8,,,
 2025-05-22,Alto Peñas (GPRS),,,67.89,47.39,
 2025-05-22,Andamarca,21.2,-5.1,,,
 2025-05-22,Anzaldo_M (GPRS),,,100.0,42.16,
@@ -29992,6 +30092,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-22,Cotagaita Mosoj Llajta,27.0,-2.0,,,
 2025-05-22,Covendo_M (GPRS),,,99.92,90.74,0.1
 2025-05-22,Cuatro Cañadas - CEA-2 (GPRS),,,97.9,86.5,
+2025-05-22,Culta,20.0,-5.0,,,
 2025-05-22,Desaguadero_M,,,87.8,44.57,
 2025-05-22,El Belen,16.0,,,,
 2025-05-22,El Común Caraparí,,,,,8.1
@@ -30061,6 +30162,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-22,San Julian - Comunidad Los Angeles (GPRS),,,100.0,79.79,
 2025-05-22,San Julian - Nucleo 32 (GPRS),,,97.1,80.9,
 2025-05-22,San Martin,17.1,-4.0,,,
+2025-05-22,San Pablo de Lipez,14.5,-6.5,,,
 2025-05-22,San Pablo de Lipez (GPRS),,,25.29,11.62,
 2025-05-22,San Pedro - Río Victoria (GPRS),,,95.7,81.4,
 2025-05-22,San Pedro - San Antonio (GPRS),,,95.3,86.9,
@@ -30122,6 +30224,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-23,Aguadas (GPRS),,,95.6,52.31,
 2025-05-23,Aguaraycito,22.0,17.0,,,
 2025-05-23,Aiquile (GPRS),,,85.4,52.24,
+2025-05-23,Alcantarí_Aeropuerto,18.7,8.1,,,
 2025-05-23,Alto Peñas (GPRS),,,70.92,55.25,
 2025-05-23,Andamarca,19.3,-1.5,,,
 2025-05-23,Anzaldo_M (GPRS),,,92.01,40.6,
@@ -30158,6 +30261,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-23,Cotagaita Mosoj Llajta,28.0,-1.0,,,
 2025-05-23,Covendo_M (GPRS),,,99.92,85.96,
 2025-05-23,Cuatro Cañadas - CEA-2 (GPRS),,,90.9,81.7,
+2025-05-23,Culta,22.0,-3.0,,,
 2025-05-23,Desaguadero_M,,,94.4,66.53,
 2025-05-23,El Belen,16.0,,,,
 2025-05-23,El Tejar (Tarija),23.7,11.5,,,
@@ -30229,6 +30333,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-23,San Julian - Comunidad Los Angeles (GPRS),,,93.6,69.42,
 2025-05-23,San Julian - Nucleo 32 (GPRS),,,93.6,84.2,
 2025-05-23,San Martin,17.1,-3.5,,,
+2025-05-23,San Pablo de Lipez,14.0,-6.0,,,
 2025-05-23,San Pablo de Lipez (GPRS),,,24.17,12.14,
 2025-05-23,San Pedro - Río Victoria (GPRS),,,87.0,80.8,
 2025-05-23,San Pedro - San Antonio (GPRS),,,87.1,80.9,
@@ -30290,6 +30395,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-24,Aguadas (GPRS),,,92.6,36.93,
 2025-05-24,Aguaraycito,,,,,2.0
 2025-05-24,Aiquile (GPRS),,,95.5,47.51,
+2025-05-24,Alcantarí_Aeropuerto,23.2,6.2,,,
 2025-05-24,Alto Peñas (GPRS),,,81.4,48.03,
 2025-05-24,Ancoraimes,,,,,0.1
 2025-05-24,Andamarca,14.0,-3.5,,,
@@ -30326,6 +30432,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-24,Cotagaita Mosoj Llajta,27.0,-4.0,,,
 2025-05-24,Covendo_M (GPRS),,,99.89,72.65,
 2025-05-24,Cuatro Cañadas - CEA-2 (GPRS),,,94.4,75.86,
+2025-05-24,Culta,18.0,-4.0,,,
 2025-05-24,Desaguadero_M,,,77.04,61.6,
 2025-05-24,El Belen,18.0,,,,
 2025-05-24,El Común Caraparí,,,,,1.3
@@ -30397,6 +30504,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-24,San Julian - Comunidad Los Angeles (GPRS),,,100.0,74.96,
 2025-05-24,San Julian - Nucleo 32 (GPRS),,,94.4,75.47,
 2025-05-24,San Martin,17.0,-2.5,,,
+2025-05-24,San Pablo de Lipez,13.0,-7.0,,,
 2025-05-24,San Pablo de Lipez (GPRS),,,24.4,12.48,
 2025-05-24,San Pedro - Río Victoria (GPRS),,,96.9,80.1,
 2025-05-24,San Pedro - San Antonio (GPRS),,,98.6,78.03,0.4
@@ -30461,6 +30569,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-25,Aguadas (GPRS),,,87.9,48.76,
 2025-05-25,Aguaraycito,23.0,18.0,,,
 2025-05-25,Aiquile (GPRS),,,90.3,50.32,
+2025-05-25,Alcantarí_Aeropuerto,19.7,7.2,,,
 2025-05-25,Alto Peñas (GPRS),,,71.72,51.49,
 2025-05-25,Andamarca,22.1,-3.0,,,
 2025-05-25,Anzaldo_M (GPRS),,,91.65,37.43,
@@ -30496,6 +30605,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-25,Cotagaita Mosoj Llajta,28.0,-5.0,,,
 2025-05-25,Covendo_M (GPRS),,,99.92,87.03,
 2025-05-25,Cuatro Cañadas - CEA-2 (GPRS),,,85.7,64.2,
+2025-05-25,Culta,20.0,-2.0,,,
 2025-05-25,Desaguadero_M,,,84.5,70.38,
 2025-05-25,El Belen,15.0,,,,
 2025-05-25,El Común Caraparí,,,,,0.6
@@ -30567,6 +30677,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-25,San Julian - Comunidad Los Angeles (GPRS),,,78.55,58.66,
 2025-05-25,San Julian - Nucleo 32 (GPRS),,,82.7,55.9,
 2025-05-25,San Martin,17.1,-6.1,,,
+2025-05-25,San Pablo de Lipez,14.0,-6.0,,,
 2025-05-25,San Pablo de Lipez (GPRS),,,20.1,9.36,
 2025-05-25,San Pedro - Río Victoria (GPRS),,,90.5,74.11,
 2025-05-25,San Pedro - San Antonio (GPRS),,,88.4,72.04,7.4
@@ -30629,6 +30740,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-26,Aguadas (GPRS),,,83.7,43.86,
 2025-05-26,Aguaraycito,22.0,19.0,,,
 2025-05-26,Aiquile (GPRS),,,93.8,46.27,
+2025-05-26,Alcantarí_Aeropuerto,21.5,9.7,,,
 2025-05-26,Alto Peñas (GPRS),,,75.92,54.48,
 2025-05-26,Ancoraimes,,,,,0.5
 2025-05-26,Andamarca,19.5,1.5,,,
@@ -30665,6 +30777,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-26,Cotagaita Mosoj Llajta,26.0,-2.0,,,
 2025-05-26,Covendo_M (GPRS),,,99.31,68.85,
 2025-05-26,Cuatro Cañadas - CEA-2 (GPRS),,,96.6,73.19,
+2025-05-26,Culta,18.0,-4.1,,,
 2025-05-26,Desaguadero_M,,,89.4,67.06,
 2025-05-26,El Belen,16.0,,,,
 2025-05-26,El Común Caraparí,,,,,2.1
@@ -30733,6 +30846,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-26,San Julian - Comunidad Los Angeles (GPRS),,,90.0,69.76,
 2025-05-26,San Julian - Nucleo 32 (GPRS),,,91.3,68.9,
 2025-05-26,San Martin,17.0,-5.0,,,
+2025-05-26,San Pablo de Lipez,15.0,-5.0,,,
 2025-05-26,San Pablo de Lipez (GPRS),,,27.8,16.14,
 2025-05-26,San Pedro - Río Victoria (GPRS),,,93.0,75.56,
 2025-05-26,San Pedro - San Antonio (GPRS),,,92.0,77.62,97.4
@@ -30795,6 +30909,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-27,Aguadas (GPRS),,,46.83,11.65,
 2025-05-27,Aguaraycito,20.0,18.0,,,
 2025-05-27,Aiquile (GPRS),,,72.43,13.53,
+2025-05-27,Alcantarí_Aeropuerto,22.1,5.6,,,
 2025-05-27,Alto Obrajes_Barrio Magisterio,,,,,2.5
 2025-05-27,Alto Peñas (GPRS),,,36.11,22.37,
 2025-05-27,Andamarca,19.3,-4.2,,,
@@ -30829,6 +30944,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-27,Cotagaita Mosoj Llajta,26.0,-4.0,,,
 2025-05-27,Covendo_M (GPRS),,,99.91,77.57,
 2025-05-27,Cuatro Cañadas - CEA-2 (GPRS),,,90.1,74.84,
+2025-05-27,Culta,17.0,-4.3,,,
 2025-05-27,Desaguadero_M,,,66.67,25.46,
 2025-05-27,El Belen,19.0,,,,
 2025-05-27,El Tejar (Tarija),27.0,4.0,,,
@@ -30896,6 +31012,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-27,San Julian - Comunidad Los Angeles (GPRS),,,92.4,75.88,
 2025-05-27,San Julian - Nucleo 32 (GPRS),,,92.4,73.78,
 2025-05-27,San Martin,17.1,-6.1,,,
+2025-05-27,San Pablo de Lipez,12.0,-8.0,,,
 2025-05-27,San Pablo de Lipez (GPRS),,,23.42,12.53,
 2025-05-27,San Pedro - Río Victoria (GPRS),,,90.9,78.46,
 2025-05-27,San Pedro - San Antonio (GPRS),,,95.4,80.7,2629.6
@@ -30956,6 +31073,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-28,Aguadas (GPRS),,,43.44,18.36,
 2025-05-28,Aguaraycito,24.0,8.0,,,
 2025-05-28,Aiquile (GPRS),,,88.6,46.42,
+2025-05-28,Alcantarí_Aeropuerto,19.6,5.2,,,
 2025-05-28,Alto Peñas (GPRS),,,34.78,23.87,
 2025-05-28,Andamarca,19.7,-5.2,,,
 2025-05-28,Anzaldo_M (GPRS),,,70.42,11.92,
@@ -30987,6 +31105,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-28,Cotagaita Mosoj Llajta,28.0,-6.0,,,
 2025-05-28,Covendo_M (GPRS),,,99.92,95.99,
 2025-05-28,Cuatro Cañadas - CEA-2 (GPRS),,,78.21,60.88,7.4
+2025-05-28,Culta,16.2,-4.0,,,
 2025-05-28,Desaguadero_M,,,84.3,32.63,
 2025-05-28,El Belen,16.0,,,,
 2025-05-28,El Tejar (Tarija),17.0,3.4,,,
@@ -31053,6 +31172,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-28,San Julian - Comunidad Los Angeles (GPRS),,,92.8,87.9,1.5
 2025-05-28,San Julian - Nucleo 32 (GPRS),,,89.2,83.7,13.0
 2025-05-28,San Martin,17.0,-8.2,,,
+2025-05-28,San Pablo de Lipez,14.0,-6.0,,,
 2025-05-28,San Pablo de Lipez (GPRS),,,17.77,9.59,
 2025-05-28,San Pedro - Río Victoria (GPRS),,,85.3,81.9,16.0
 2025-05-28,San Pedro - San Antonio (GPRS),,,87.4,84.3,0.4
@@ -31113,6 +31233,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-29,Aguadas (GPRS),,,72.32,16.0,
 2025-05-29,Aguaraycito,24.0,4.0,,,
 2025-05-29,Aiquile (GPRS),,,92.1,64.91,
+2025-05-29,Alcantarí_Aeropuerto,19.0,2.5,,,
 2025-05-29,Alto Peñas (GPRS),,,43.95,31.99,
 2025-05-29,Andamarca,18.1,-6.3,,,
 2025-05-29,Anzaldo_M (GPRS),,,82.98,29.0,
@@ -31145,6 +31266,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-29,Cotagaita Mosoj Llajta,28.0,-5.0,,,
 2025-05-29,Covendo_M (GPRS),,,99.93,72.88,
 2025-05-29,Cuatro Cañadas - CEA-2 (GPRS),,,76.81,49.81,
+2025-05-29,Culta,23.0,-5.6,,,
 2025-05-29,Desaguadero_M,,,78.8,51.26,
 2025-05-29,El Belen,16.0,,,,
 2025-05-29,El Tejar (Tarija),22.0,1.0,,,
@@ -31209,6 +31331,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-29,San Julian - Comunidad Los Angeles (GPRS),,,74.74,46.84,
 2025-05-29,San Julian - Nucleo 32 (GPRS),,,78.53,59.68,
 2025-05-29,San Martin,17.1,-8.0,,,
+2025-05-29,San Pablo de Lipez,13.0,-7.0,,,
 2025-05-29,San Pablo de Lipez (GPRS),,,18.12,8.51,
 2025-05-29,San Pedro - Río Victoria (GPRS),,,71.09,61.01,
 2025-05-29,San Pedro - San Antonio (GPRS),,,74.08,56.46,
@@ -31267,6 +31390,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-30,Aguadas (GPRS),,,56.39,14.63,
 2025-05-30,Aguaraycito,25.0,5.0,,,
 2025-05-30,Aiquile (GPRS),,,95.4,38.16,
+2025-05-30,Alcantarí_Aeropuerto,21.4,2.8,,,
 2025-05-30,Alto Peñas (GPRS),,,49.08,27.7,
 2025-05-30,Andamarca,19.3,-4.6,,,
 2025-05-30,Anzaldo_M (GPRS),,,48.77,14.81,
@@ -31298,6 +31422,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-30,Cotagaita Mosoj Llajta,28.0,-6.0,,,
 2025-05-30,Covendo_M (GPRS),,,85.49,67.8,
 2025-05-30,Cuatro Cañadas - CEA-2 (GPRS),,,79.56,48.13,
+2025-05-30,Culta,20.0,-5.2,,,
 2025-05-30,Desaguadero_M,,,70.68,19.98,
 2025-05-30,El Belen,15.2,,,,
 2025-05-30,El Tejar (Tarija),20.0,1.0,,,
@@ -31358,6 +31483,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-30,San Julian - Comunidad Los Angeles (GPRS),,,81.1,44.37,
 2025-05-30,San Julian - Nucleo 32 (GPRS),,,85.3,57.3,
 2025-05-30,San Martin,16.0,-9.1,,,
+2025-05-30,San Pablo de Lipez,14.0,-6.0,,,
 2025-05-30,San Pablo de Lipez (GPRS),,,9.46,6.83,
 2025-05-30,San Pedro - Río Victoria (GPRS),,,78.27,62.87,
 2025-05-30,San Pedro - San Antonio (GPRS),,,82.7,61.84,
@@ -31417,6 +31543,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-31,Aguadas (GPRS),,,58.97,22.14,
 2025-05-31,Aguaraycito,24.0,4.0,,,
 2025-05-31,Aiquile (GPRS),,,92.4,37.03,
+2025-05-31,Alcantarí_Aeropuerto,21.1,3.5,,,
 2025-05-31,Alto Peñas (GPRS),,,31.48,21.43,
 2025-05-31,Andamarca,19.3,-4.5,,,
 2025-05-31,Anzaldo_M (GPRS),,,38.39,10.15,
@@ -31448,6 +31575,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-31,Cotagaita Mosoj Llajta,28.0,-6.5,,,
 2025-05-31,Covendo_M (GPRS),,,99.9,72.79,
 2025-05-31,Cuatro Cañadas - CEA-2 (GPRS),,,79.93,68.34,
+2025-05-31,Culta,18.0,-3.2,,,
 2025-05-31,Desaguadero_M,,,78.6,24.87,
 2025-05-31,El Belen,15.0,,,,
 2025-05-31,El Tejar (Tarija),19.0,2.5,,,
@@ -31508,6 +31636,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-31,San Julian - Comunidad Los Angeles (GPRS),,,78.47,61.84,
 2025-05-31,San Julian - Nucleo 32 (GPRS),,,80.1,61.22,
 2025-05-31,San Martin,16.0,-8.0,,,
+2025-05-31,San Pablo de Lipez,13.0,-6.5,,,
 2025-05-31,San Pablo de Lipez (GPRS),,,13.97,8.08,
 2025-05-31,San Pedro - Río Victoria (GPRS),,,79.09,62.85,
 2025-05-31,San Pedro - San Antonio (GPRS),,,78.63,65.98,
@@ -31563,6 +31692,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-01,Achumani,21.5,3.0,,,
 2025-06-01,Aguadas (GPRS),,,58.24,23.18,
 2025-06-01,Aiquile (GPRS),,,83.8,50.14,
+2025-06-01,Alcantarí_Aeropuerto,17.4,3.2,,,
 2025-06-01,Alto Peñas (GPRS),,,63.69,32.29,
 2025-06-01,Andamarca,14.3,-4.3,,,
 2025-06-01,Anzaldo_M (GPRS),,,83.26,19.71,
@@ -31590,6 +31720,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-01,Cotagaita Mosoj Llajta,28.0,-9.0,,,
 2025-06-01,Covendo_M (GPRS),,,90.61,84.39,
 2025-06-01,Cuatro Cañadas - CEA-2 (GPRS),,,84.3,67.05,
+2025-06-01,Culta,20.0,-4.0,,,
 2025-06-01,Desaguadero_M,,,52.99,28.33,
 2025-06-01,El Belen,15.0,-3.0,,,0.2
 2025-06-01,El Tejar (Tarija),17.4,2.0,,,
@@ -31604,6 +31735,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-01,Ixiamas S.(GPRS),,,81.3,75.9,
 2025-06-01,Jesús de Machaca_M (GPRS),,,64.85,16.66,
 2025-06-01,La Merced,25.0,,,,
+2025-06-01,La Torre,24.0,2.0,,,
 2025-06-01,Laguna Colorada (GPRS),,,52.57,20.7,
 2025-06-01,Laykacota,21.2,3.6,,,
 2025-06-01,Llallagua,15.0,-1.0,,,
@@ -31632,6 +31764,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-01,Sacabaya,18.0,-12.0,,,
 2025-06-01,Sacaca,26.7,-4.2,,,
 2025-06-01,Sacacani_M (GPRS),,,57.04,26.01,
+2025-06-01,Sacani Santiago (Catacora),,,,,1.0
 2025-06-01,Salinas I. (GPRS),,,17.1,3.5,
 2025-06-01,Salinas Iniaf (GPRS),,,17.1,3.5,
 2025-06-01,Salo_M (GPRS),,,31.2,3.72,
@@ -31691,6 +31824,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-02,Achumani,21.0,4.5,,,
 2025-06-02,Aguadas (GPRS),,,68.31,19.53,
 2025-06-02,Aiquile (GPRS),,,95.6,32.29,
+2025-06-02,Alcantarí_Aeropuerto,19.0,4.8,,,
 2025-06-02,Alto Peñas (GPRS),,,37.27,26.17,
 2025-06-02,Andamarca,18.1,-4.2,,,
 2025-06-02,Anzaldo_M (GPRS),,,44.2,11.0,
@@ -31717,6 +31851,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-02,Cotagaita Mosoj Llajta,27.0,-8.0,,,
 2025-06-02,Covendo_M (GPRS),,,99.92,68.09,
 2025-06-02,Cuatro Cañadas - CEA-2 (GPRS),,,86.2,67.18,
+2025-06-02,Culta,23.0,-6.0,,,
 2025-06-02,Desaguadero_M,,,69.42,28.71,
 2025-06-02,El Belen,14.0,-6.0,,,
 2025-06-02,El Tejar (Tarija),23.0,3.0,,,
@@ -31731,6 +31866,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-02,Ixiamas S.(GPRS),,,86.8,71.2,
 2025-06-02,Jesús de Machaca_M (GPRS),,,77.17,23.64,
 2025-06-02,La Merced,29.0,,,,
+2025-06-02,La Torre,22.0,3.0,,,
 2025-06-02,Laguna Colorada (GPRS),,,9.41,4.72,
 2025-06-02,Laykacota,20.4,3.5,,,
 2025-06-02,Llallagua,14.2,-1.1,,,
@@ -31758,6 +31894,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-02,Sacabaya,15.0,-9.1,,,
 2025-06-02,Sacaca,26.2,-5.2,,,
 2025-06-02,Sacacani_M (GPRS),,,56.96,22.66,
+2025-06-02,Sacani Santiago (Catacora),,,,,0.1
 2025-06-02,Salinas I. (GPRS),,,26.1,15.8,
 2025-06-02,Salinas Iniaf (GPRS),,,26.1,15.8,
 2025-06-02,Salo_M (GPRS),,,16.54,4.88,
@@ -31816,6 +31953,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-03,Achumani,20.5,4.1,,,
 2025-06-03,Aguadas (GPRS),,,66.07,25.82,
 2025-06-03,Aiquile (GPRS),,,93.4,37.74,
+2025-06-03,Alcantarí_Aeropuerto,20.8,4.4,,,
 2025-06-03,Alto Peñas (GPRS),,,40.41,30.59,
 2025-06-03,Andamarca,18.6,-4.0,,,
 2025-06-03,Anzaldo_M (GPRS),,,60.14,25.97,
@@ -31842,6 +31980,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-03,Cotagaita Mosoj Llajta,26.0,-7.0,,,
 2025-06-03,Covendo_M (GPRS),,,99.93,79.1,
 2025-06-03,Cuatro Cañadas - CEA-2 (GPRS),,,81.3,68.61,
+2025-06-03,Culta,21.0,-4.0,,,
 2025-06-03,Desaguadero_M,,,67.77,34.97,
 2025-06-03,El Belen,15.2,-7.0,,,
 2025-06-03,El Tejar (Tarija),24.5,1.0,,,
@@ -31856,6 +31995,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-03,Ixiamas S.(GPRS),,,91.4,75.6,
 2025-06-03,Jesús de Machaca_M (GPRS),,,86.5,28.33,
 2025-06-03,La Merced,29.0,,,,
+2025-06-03,La Torre,24.2,2.0,,,
 2025-06-03,Laguna Colorada (GPRS),,,44.13,18.45,
 2025-06-03,Laykacota,21.2,3.0,,,
 2025-06-03,Llallagua,15.0,-1.0,,,
@@ -31941,6 +32081,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-04,Achumani,19.8,4.5,,,
 2025-06-04,Aguadas (GPRS),,,76.55,30.48,
 2025-06-04,Aiquile (GPRS),,,95.7,31.99,
+2025-06-04,Alcantarí_Aeropuerto,20.5,4.3,,,
 2025-06-04,Alto Peñas (GPRS),,,54.15,35.4,
 2025-06-04,Andamarca,18.1,-4.2,,,
 2025-06-04,Anzaldo_M (GPRS),,,66.43,14.51,
@@ -31967,6 +32108,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-04,Cotagaita Mosoj Llajta,26.0,-6.0,,,
 2025-06-04,Covendo_M (GPRS),,,99.93,70.54,
 2025-06-04,Cuatro Cañadas - CEA-2 (GPRS),,,92.3,68.75,
+2025-06-04,Culta,22.0,-5.0,,,
 2025-06-04,Desaguadero_M,,,73.57,36.67,
 2025-06-04,El Belen,15.0,-6.0,,,
 2025-06-04,El Tejar (Tarija),25.0,2.0,,,
@@ -31981,6 +32123,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-04,Ixiamas S.(GPRS),,,96.3,68.3,
 2025-06-04,Jesús de Machaca_M (GPRS),,,86.9,28.93,
 2025-06-04,La Merced,27.0,,,,
+2025-06-04,La Torre,25.0,2.0,,,
 2025-06-04,Laguna Colorada (GPRS),,,36.57,26.86,
 2025-06-04,Laykacota,20.2,4.1,,,
 2025-06-04,Llallagua,14.0,2.0,,,
@@ -32067,6 +32210,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-05,Achumani,20.0,4.7,,,
 2025-06-05,Aguadas (GPRS),,,69.62,29.03,
 2025-06-05,Aiquile (GPRS),,,93.5,50.98,
+2025-06-05,Alcantarí_Aeropuerto,19.0,7.2,,,
 2025-06-05,Alto Peñas (GPRS),,,50.25,42.32,
 2025-06-05,Andamarca,19.2,-2.8,,,
 2025-06-05,Anzaldo_M (GPRS),,,76.58,21.64,
@@ -32093,6 +32237,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-05,Cotagaita Mosoj Llajta,28.0,-5.0,,,
 2025-06-05,Covendo_M (GPRS),,,99.9,67.22,
 2025-06-05,Cuatro Cañadas - CEA-2 (GPRS),,,92.3,62.87,
+2025-06-05,Culta,20.0,-4.0,,,
 2025-06-05,Desaguadero_M,,,78.08,41.81,
 2025-06-05,El Belen,15.0,-6.0,,,
 2025-06-05,El Tejar (Tarija),19.0,2.0,,,
@@ -32107,6 +32252,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-05,Ixiamas S.(GPRS),,,93.5,73.1,
 2025-06-05,Jesús de Machaca_M (GPRS),,,78.07,38.56,
 2025-06-05,La Merced,26.0,,,,
+2025-06-05,La Torre,26.0,8.0,,,
 2025-06-05,Laguna Colorada (GPRS),,,56.05,41.13,
 2025-06-05,Laykacota,19.6,3.6,,,
 2025-06-05,Llallagua,16.1,2.0,,,
@@ -32192,6 +32338,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-06,Achumani,19.5,5.0,,,
 2025-06-06,Aguadas (GPRS),,,85.5,39.3,
 2025-06-06,Aiquile (GPRS),,,93.1,58.34,
+2025-06-06,Alcantarí_Aeropuerto,17.4,7.2,,,
 2025-06-06,Alto Peñas (GPRS),,,67.99,53.35,
 2025-06-06,Andamarca,18.4,-3.2,,,
 2025-06-06,Anzaldo_M (GPRS),,,75.49,35.48,
@@ -32220,6 +32367,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-06,Cotagaita Mosoj Llajta,27.0,-4.0,,,
 2025-06-06,Covendo_M (GPRS),,,99.92,73.85,
 2025-06-06,Cuatro Cañadas - CEA-2 (GPRS),,,85.5,72.63,
+2025-06-06,Culta,18.0,-3.0,,,
 2025-06-06,Desaguadero_M,,,90.1,69.39,
 2025-06-06,El Belen,15.0,0.0,,,
 2025-06-06,El Tejar (Tarija),20.0,8.0,,,
@@ -32234,6 +32382,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-06,Ixiamas S.(GPRS),,,89.9,77.3,
 2025-06-06,Jesús de Machaca_M (GPRS),,,83.0,46.9,
 2025-06-06,La Merced,26.0,,,,
+2025-06-06,La Torre,25.4,4.0,,,
 2025-06-06,Laguna Colorada (GPRS),,,53.25,17.6,
 2025-06-06,Laykacota,18.4,3.0,,,
 2025-06-06,Llallagua,11.0,2.1,,,
@@ -32261,6 +32410,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-06,Sacabaya,15.5,-8.0,,,
 2025-06-06,Sacaca,20.0,2.6,,,
 2025-06-06,Sacacani_M (GPRS),,,86.5,58.69,
+2025-06-06,Sacani Santiago (Catacora),,,,,1.0
 2025-06-06,Salinas I. (GPRS),,,43.5,28.4,
 2025-06-06,Salinas Iniaf (GPRS),,,43.5,28.4,
 2025-06-06,Salo_M (GPRS),,,45.62,13.35,
@@ -32320,6 +32470,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-07,Achumani,19.0,4.5,,,
 2025-06-07,Aguadas (GPRS),,,75.71,19.73,
 2025-06-07,Aiquile (GPRS),,,95.1,33.95,
+2025-06-07,Alcantarí_Aeropuerto,19.3,,,,
 2025-06-07,Alto Peñas (GPRS),,,55.98,27.89,
 2025-06-07,Andamarca,17.1,-3.4,,,
 2025-06-07,Anzaldo_M (GPRS),,,86.41,16.98,
@@ -32346,6 +32497,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-07,Cotagaita Mosoj Llajta,28.0,-2.0,,,
 2025-06-07,Covendo_M (GPRS),,,99.91,74.21,
 2025-06-07,Cuatro Cañadas - CEA-2 (GPRS),,,94.2,70.27,
+2025-06-07,Culta,17.0,-4.0,,,
 2025-06-07,Desaguadero_M,,,87.1,42.01,
 2025-06-07,El Belen,16.0,-5.0,,,
 2025-06-07,El Tejar (Tarija),18.0,5.0,,,
@@ -32361,6 +32513,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-07,Ixiamas S.(GPRS),,,100.0,76.1,
 2025-06-07,Jesús de Machaca_M (GPRS),,,89.1,32.44,
 2025-06-07,La Merced,29.0,,,,
+2025-06-07,La Torre,26.0,6.0,,,
 2025-06-07,Laguna Colorada (GPRS),,,44.22,15.28,
 2025-06-07,Laykacota,18.4,4.2,,,
 2025-06-07,Llallagua,15.0,-1.0,,,
@@ -32447,6 +32600,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-08,Achumani,21.4,3.0,,,
 2025-06-08,Aguadas (GPRS),,,65.74,19.19,
 2025-06-08,Aiquile (GPRS),,,88.3,45.64,
+2025-06-08,Alcantarí_Aeropuerto,16.9,,,,
 2025-06-08,Alto Peñas (GPRS),,,32.09,24.59,
 2025-06-08,Andamarca,17.8,-3.0,,,
 2025-06-08,Anzaldo_M (GPRS),,,41.49,15.44,
@@ -32473,6 +32627,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-08,Cotagaita Mosoj Llajta,28.0,-6.0,,,
 2025-06-08,Covendo_M (GPRS),,,99.92,79.72,
 2025-06-08,Cuatro Cañadas - CEA-2 (GPRS),,,94.5,85.6,
+2025-06-08,Culta,19.5,-2.0,,,
 2025-06-08,Desaguadero_M,,,85.7,29.1,
 2025-06-08,El Belen,16.0,-9.0,,,
 2025-06-08,El Tejar (Tarija),20.7,6.1,,,
@@ -32487,6 +32642,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-08,Ixiamas S.(GPRS),,,100.0,93.4,
 2025-06-08,Jesús de Machaca_M (GPRS),,,79.69,23.44,
 2025-06-08,La Merced,30.0,,,,
+2025-06-08,La Torre,25.0,5.0,,,
 2025-06-08,Laguna Colorada (GPRS),,,63.27,18.66,
 2025-06-08,Laykacota,19.8,4.0,,,
 2025-06-08,Llallagua,16.0,-2.0,,,
@@ -32572,6 +32728,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-09,Achumani,20.0,5.0,,,
 2025-06-09,Aguadas (GPRS),,,71.02,23.35,
 2025-06-09,Aiquile (GPRS),,,90.9,52.55,
+2025-06-09,Alcantarí_Aeropuerto,18.2,4.5,,,
 2025-06-09,Alto Peñas (GPRS),,,53.55,43.3,
 2025-06-09,Andamarca,18.7,-4.1,,,
 2025-06-09,Anzaldo_M (GPRS),,,91.11,32.73,
@@ -32598,6 +32755,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-09,Cotagaita Mosoj Llajta,27.0,-5.0,,,
 2025-06-09,Covendo_M (GPRS),,,90.14,84.27,
 2025-06-09,Cuatro Cañadas - CEA-2 (GPRS),,,84.7,78.52,0.4
+2025-06-09,Culta,21.0,-4.3,,,
 2025-06-09,Desaguadero_M,,,82.8,37.05,
 2025-06-09,El Belen,15.0,-4.0,,,
 2025-06-09,El Tejar (Tarija),17.0,7.2,,,
@@ -32612,8 +32770,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-09,Incapampa - Coroico_M (GPRS),,,99.84,82.72,
 2025-06-09,Isla Suriqui_M (GPRS),,,95.2,70.5,
 2025-06-09,Ixiamas S.(GPRS),,,98.9,96.9,3.6
+2025-06-09,Jalsuri Pocota,,,,,0.4
 2025-06-09,Jesús de Machaca_M (GPRS),,,80.0,28.73,
 2025-06-09,La Merced,28.0,,,,
+2025-06-09,La Torre,25.5,6.0,,,
 2025-06-09,Laguna Colorada (GPRS),,,24.47,6.49,
 2025-06-09,Laykacota,20.0,3.0,,,
 2025-06-09,Llallagua,16.2,-1.1,,,
@@ -32642,6 +32802,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-09,Sacabaya,15.5,-10.5,,,
 2025-06-09,Sacaca,26.1,-4.1,,,
 2025-06-09,Sacacani_M (GPRS),,,78.31,40.38,
+2025-06-09,Sacani Santiago (Catacora),,,,,0.1
 2025-06-09,Salinas I. (GPRS),,,18.0,9.5,
 2025-06-09,Salinas Iniaf (GPRS),,,18.0,9.5,
 2025-06-09,Salo_M (GPRS),,,37.94,6.26,
@@ -32701,6 +32862,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-10,Achumani,19.5,3.0,,,
 2025-06-10,Aguadas (GPRS),,,78.51,30.35,
 2025-06-10,Aiquile (GPRS),,,84.4,57.91,
+2025-06-10,Alcantarí_Aeropuerto,20.5,5.1,,,
 2025-06-10,Alto Peñas (GPRS),,,42.2,32.26,
 2025-06-10,Andamarca,18.0,-4.2,,,
 2025-06-10,Anzaldo_M (GPRS),,,99.1,28.71,
@@ -32727,6 +32889,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-10,Cotagaita Mosoj Llajta,28.0,-8.0,,,
 2025-06-10,Covendo_M (GPRS),,,97.79,72.4,
 2025-06-10,Cuatro Cañadas - CEA-2 (GPRS),,,74.07,60.41,
+2025-06-10,Culta,20.0,-4.0,,,
 2025-06-10,Desaguadero_M,,,75.68,39.28,
 2025-06-10,El Belen,15.0,0.0,,,
 2025-06-10,El Tejar (Tarija),20.5,6.0,,,
@@ -32742,6 +32905,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-10,Ixiamas S.(GPRS),,,94.8,80.0,
 2025-06-10,Jesús de Machaca_M (GPRS),,,70.48,29.33,
 2025-06-10,La Merced,25.0,,,,
+2025-06-10,La Torre,24.0,2.0,,,
 2025-06-10,Laguna Colorada (GPRS),,,47.62,25.49,
 2025-06-10,Laykacota,19.4,4.1,,,
 2025-06-10,Llallagua,14.2,-1.0,,,
@@ -32769,6 +32933,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-10,Sacabaya,17.0,-10.0,,,
 2025-06-10,Sacaca,28.6,-5.3,,,
 2025-06-10,Sacacani_M (GPRS),,,80.3,33.93,
+2025-06-10,Sacani Santiago (Catacora),,,,,0.1
 2025-06-10,Salinas Iniaf (GPRS),,,24.4,14.1,
 2025-06-10,Salo_M (GPRS),,,28.5,5.87,
 2025-06-10,Samasa,19.4,1.0,,,
@@ -32825,6 +32990,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-11,Achumani,19.0,4.5,,,
 2025-06-11,Aguadas (GPRS),,,72.83,31.26,
 2025-06-11,Aiquile (GPRS),,,92.9,44.85,
+2025-06-11,Alcantarí_Aeropuerto,19.2,4.8,,,
 2025-06-11,Alto Peñas (GPRS),,,41.17,31.22,
 2025-06-11,Andamarca,18.6,-5.6,,,
 2025-06-11,Anzaldo_M (GPRS),,,85.6,21.07,
@@ -32851,6 +33017,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-11,Cotagaita Mosoj Llajta,27.0,-7.0,,,
 2025-06-11,Covendo_M (GPRS),,,98.71,74.91,0.1
 2025-06-11,Cuatro Cañadas - CEA-2 (GPRS),,,78.62,62.09,
+2025-06-11,Culta,22.0,-5.0,,,
 2025-06-11,Desaguadero_M,,,79.11,39.53,
 2025-06-11,El Belen,16.0,-5.0,,,
 2025-06-11,El Tejar (Tarija),20.0,5.0,,,
@@ -32866,6 +33033,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-11,Ixiamas S.(GPRS),,,91.6,85.5,
 2025-06-11,Jesús de Machaca_M (GPRS),,,80.3,33.48,
 2025-06-11,La Merced,26.0,,,,
+2025-06-11,La Torre,23.0,3.0,,,
 2025-06-11,Laguna Colorada (GPRS),,,60.23,36.8,
 2025-06-11,Laykacota,18.2,4.0,,,
 2025-06-11,Llallagua,18.1,-1.0,,,
@@ -32947,6 +33115,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-12,Achumani,19.4,2.0,,,
 2025-06-12,Aguadas (GPRS),,,81.6,10.33,
 2025-06-12,Aiquile (GPRS),,,94.1,19.84,
+2025-06-12,Alcantarí_Aeropuerto,17.3,4.3,,,
 2025-06-12,Alto Peñas (GPRS),,,33.39,28.21,
 2025-06-12,Andamarca,17.5,-5.1,,,
 2025-06-12,Anzaldo_M (GPRS),,,51.02,13.3,
@@ -32972,6 +33141,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-12,Cotagaita Mosoj Llajta,26.0,-6.0,,,
 2025-06-12,Covendo_M (GPRS),,,99.89,78.17,
 2025-06-12,Cuatro Cañadas - CEA-2 (GPRS),,,80.3,61.53,
+2025-06-12,Culta,19.0,-3.0,,,
 2025-06-12,Desaguadero_M,,,74.1,20.86,
 2025-06-12,El Belen,14.0,-8.0,,,
 2025-06-12,El Tejar (Tarija),27.0,3.0,,,
@@ -32986,6 +33156,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-12,Ixiamas S.(GPRS),,,96.6,66.4,
 2025-06-12,Jesús de Machaca_M (GPRS),,,81.5,26.17,
 2025-06-12,La Merced,28.0,,,,
+2025-06-12,La Torre,23.0,4.0,,,
 2025-06-12,Laguna Colorada (GPRS),,,56.6,12.43,
 2025-06-12,Laykacota,19.2,2.0,,,
 2025-06-12,Llallagua,17.0,1.0,,,
@@ -33067,6 +33238,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-13,Achumani,20.1,3.5,,,
 2025-06-13,Aguadas (GPRS),,,73.3,25.72,
 2025-06-13,Aiquile (GPRS),,,73.58,14.72,
+2025-06-13,Alcantarí_Aeropuerto,18.5,3.3,,,
 2025-06-13,Alto Peñas (GPRS),,,39.17,23.97,
 2025-06-13,Andamarca,17.5,-6.3,,,
 2025-06-13,Anzaldo_M (GPRS),,,46.45,11.22,
@@ -33092,6 +33264,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-13,Cotagaita Mosoj Llajta,25.0,-6.0,,,
 2025-06-13,Covendo_M (GPRS),,,99.89,71.05,
 2025-06-13,Cuatro Cañadas - CEA-2 (GPRS),,,86.9,66.97,
+2025-06-13,Culta,16.2,-5.0,,,
 2025-06-13,Desaguadero_M,,,80.9,19.39,
 2025-06-13,El Belen,15.0,-8.0,,,
 2025-06-13,El Tejar (Tarija),20.0,1.0,,,
@@ -33104,8 +33277,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-13,Incapampa - Coroico_M (GPRS),,,99.86,82.38,0.3
 2025-06-13,Isla Suriqui_M (GPRS),,,76.07,35.99,
 2025-06-13,Ixiamas S.(GPRS),,,94.1,74.2,
+2025-06-13,Jalsuri Pocota,,,,,0.5
 2025-06-13,Jesús de Machaca_M (GPRS),,,66.59,16.99,
 2025-06-13,La Merced,28.0,,,,
+2025-06-13,La Torre,23.5,4.0,,,
 2025-06-13,Laguna Colorada (GPRS),,,74.27,44.61,
 2025-06-13,Laykacota,19.2,2.5,,,
 2025-06-13,Llallagua,15.0,2.0,,,
@@ -33188,6 +33363,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-14,Achumani,19.5,2.0,,,
 2025-06-14,Aguadas (GPRS),,,59.98,16.17,
 2025-06-14,Aiquile (GPRS),,,93.2,44.19,
+2025-06-14,Alcantarí_Aeropuerto,18.2,3.7,,,
 2025-06-14,Alto Peñas (GPRS),,,33.31,27.63,
 2025-06-14,Andamarca,16.6,-5.2,,,
 2025-06-14,Anzaldo_M (GPRS),,,79.92,19.41,
@@ -33214,6 +33390,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-14,Cotagaita Mosoj Llajta,24.0,4.0,,,
 2025-06-14,Covendo_M (GPRS),,,99.91,81.44,0.2
 2025-06-14,Cuatro Cañadas - CEA-2 (GPRS),,,87.5,71.61,
+2025-06-14,Culta,21.0,-4.0,,,
 2025-06-14,Desaguadero_M,,,60.03,11.73,
 2025-06-14,El Belen,13.0,-7.0,,,
 2025-06-14,El Tejar (Tarija),25.0,3.5,,,
@@ -33227,8 +33404,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-14,Incapampa - Coroico_M (GPRS),,,99.85,97.91,
 2025-06-14,Isla Suriqui_M (GPRS),,,36.67,23.6,
 2025-06-14,Ixiamas S.(GPRS),,,88.6,76.4,
+2025-06-14,Jalsuri Pocota,,,,,0.5
 2025-06-14,Jesús de Machaca_M (GPRS),,,65.0,15.5,
 2025-06-14,La Merced,28.0,,,,
+2025-06-14,La Torre,22.0,4.0,,,
 2025-06-14,Laguna Colorada (GPRS),,,43.45,24.67,
 2025-06-14,Laykacota,18.7,2.4,,,
 2025-06-14,Llallagua,12.0,-1.2,,,
@@ -33313,6 +33492,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-15,Achumani,19.0,6.1,,,
 2025-06-15,Aguadas (GPRS),,,61.37,18.66,
 2025-06-15,Aiquile (GPRS),,,95.4,30.32,
+2025-06-15,Alcantarí_Aeropuerto,19.1,3.5,,,
 2025-06-15,Alto Peñas (GPRS),,,31.52,17.06,
 2025-06-15,Andamarca,16.8,-6.7,,,
 2025-06-15,Anzaldo_M (GPRS),,,67.94,16.93,
@@ -33338,6 +33518,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-15,Cotagaita Mosoj Llajta,26.0,-6.0,,,
 2025-06-15,Covendo_M (GPRS),,,99.89,97.29,11.2
 2025-06-15,Cuatro Cañadas - CEA-2 (GPRS),,,94.9,86.1,0.8
+2025-06-15,Culta,16.0,-6.0,,,
 2025-06-15,Desaguadero_M,,,69.6,24.22,
 2025-06-15,El Belen,15.0,-9.0,,,
 2025-06-15,El Tejar (Tarija),27.0,1.0,,,
@@ -33352,6 +33533,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-15,Ixiamas S.(GPRS),,,100.0,80.6,
 2025-06-15,Jesús de Machaca_M (GPRS),,,59.71,14.57,
 2025-06-15,La Merced,28.0,,,,
+2025-06-15,La Torre,24.0,4.0,,,
 2025-06-15,Laguna Colorada (GPRS),,,13.78,9.79,
 2025-06-15,Laykacota,20.2,3.0,,,
 2025-06-15,Llallagua,14.1,-2.0,,,
@@ -33437,6 +33619,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-16,Achumani,19.5,3.4,,,
 2025-06-16,Aguadas (GPRS),,,88.0,35.48,
 2025-06-16,Aiquile (GPRS),,,94.0,29.58,
+2025-06-16,Alcantarí_Aeropuerto,20.0,4.9,,,
 2025-06-16,Alto Peñas (GPRS),,,55.62,26.74,
 2025-06-16,Andamarca,16.1,-5.2,,,
 2025-06-16,Anzaldo_M (GPRS),,,70.31,28.22,
@@ -33447,6 +33630,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-16,Camargo_M (GPRS),,,32.3,5.69,
 2025-06-16,Camata,27.0,16.0,,,
 2025-06-16,Camiaco_H (SAT),,,,,2.8
+2025-06-16,Campamento 2 - Suñasivi,,,,,1.2
 2025-06-16,Carabuco,,1.0,,,
 2025-06-16,Caranavi_H (GPRS),,,,,2.9
 2025-06-16,Carura_M - Guanay (GPRS),,,98.95,82.18,2.2
@@ -33464,6 +33648,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-16,Cotagaita Mosoj Llajta,25.0,-9.0,,,
 2025-06-16,Covendo_M (GPRS),,,99.91,85.64,0.5
 2025-06-16,Cuatro Cañadas - CEA-2 (GPRS),,,93.4,73.6,
+2025-06-16,Culta,16.0,-3.0,,,
 2025-06-16,Desaguadero_M,,,62.44,28.59,
 2025-06-16,El Belen,15.0,-1.0,,,
 2025-06-16,El Tejar (Tarija),30.0,2.0,,,
@@ -33478,9 +33663,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-16,Incapampa - Coroico_M (GPRS),,,99.82,85.03,
 2025-06-16,Isla Suriqui_M (GPRS),,,85.5,39.5,
 2025-06-16,Ixiamas S.(GPRS),,,99.1,93.6,4.2
+2025-06-16,Jalsuri Pocota,,,,,1.0
 2025-06-16,Jesús de Machaca_M (GPRS),,,71.42,25.38,
 2025-06-16,La Asunta_H (GPRS),,,,,0.3
 2025-06-16,La Merced,29.0,,,,
+2025-06-16,La Torre,24.6,4.1,,,
 2025-06-16,Laguna Colorada (GPRS),,,14.71,8.25,
 2025-06-16,Laykacota,20.0,1.8,,,
 2025-06-16,Llallagua,14.0,-1.0,,,
@@ -33508,6 +33695,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-16,Sacabaya,16.5,-3.0,,,
 2025-06-16,Sacaca,27.6,-4.6,,,
 2025-06-16,Sacacani_M (GPRS),,,57.6,25.66,
+2025-06-16,Sacani Santiago (Catacora),,,,,0.1
 2025-06-16,Salinas Iniaf (GPRS),,,27.1,6.8,
 2025-06-16,Salo_M (GPRS),,,16.05,4.44,
 2025-06-16,Samasa,18.2,1.0,,,
@@ -33565,6 +33753,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-17,Achumani,16.0,6.0,,,0.4
 2025-06-17,Aguadas (GPRS),,,92.9,73.33,0.2
 2025-06-17,Aiquile (GPRS),,,94.3,44.93,
+2025-06-17,Alcantarí_Aeropuerto,19.7,4.5,,,
 2025-06-17,Alto Obrajes_Barrio Magisterio,,,,,0.6
 2025-06-17,Alto Peñas (GPRS),,,90.7,66.77,0.1
 2025-06-17,Andamarca,19.2,-6.7,,,
@@ -33573,6 +33762,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-17,Ayoma,21.2,-2.1,,,
 2025-06-17,Cabaña Forestal Oruro,17.4,-0.2,,,
 2025-06-17,Caiza D,21.4,-3.2,,,
+2025-06-17,Calachaka Jahuira,,,,,1.0
 2025-06-17,Camargo_M (GPRS),,,44.13,16.17,
 2025-06-17,Camata,28.0,15.5,,,9.0
 2025-06-17,Carabuco,,4.5,,,2.5
@@ -33596,6 +33786,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-17,Cotagaita Mosoj Llajta,26.0,-7.0,,,
 2025-06-17,Covendo_M (GPRS),,,99.92,87.22,0.5
 2025-06-17,Cuatro Cañadas - CEA-2 (GPRS),,,94.5,74.94,
+2025-06-17,Culta,16.2,-5.0,,,
 2025-06-17,Desaguadero_M,,,84.6,64.7,
 2025-06-17,El Belen,16.0,3.0,,,
 2025-06-17,El Tejar (La Paz),,,,,0.1
@@ -33610,9 +33801,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-17,Incapampa - Coroico_M (GPRS),,,99.86,99.79,15.0
 2025-06-17,Isla Suriqui_M (GPRS),,,95.7,72.79,2.2
 2025-06-17,Ixiamas S.(GPRS),,,98.1,87.2,
+2025-06-17,Jalsuri Pocota,,,,,1.0
 2025-06-17,Jesús de Machaca_M (GPRS),,,83.1,43.93,
 2025-06-17,La Asunta_H (GPRS),,,,,27.9
 2025-06-17,La Merced,32.0,,,,
+2025-06-17,La Torre,26.0,5.0,,,
 2025-06-17,Laguna Colorada (GPRS),,,26.61,23.65,
 2025-06-17,Laykacota,16.0,6.3,,,
 2025-06-17,Llallagua,15.1,2.0,,,
@@ -33671,6 +33864,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-17,Tarapaya,21.0,-6.2,,,
 2025-06-17,Templo (GPRS),,,98.7,90.9,0.3
 2025-06-17,Temporal - SDC (GPRS),,,65.66,1.62,
+2025-06-17,Terrazas de Achumani,,,,,0.3
 2025-06-17,Tinguipaya,19.3,2.2,,,
 2025-06-17,Tiraque_M (GPRS),,,83.4,44.86,
 2025-06-17,Todos Santos_Or,12.5,-5.3,,,
@@ -33705,6 +33899,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-18,Achumani,17.5,7.5,,,2.4
 2025-06-18,Aguadas (GPRS),,,87.6,49.87,
 2025-06-18,Aiquile (GPRS),,,87.8,43.96,
+2025-06-18,Alcantarí_Aeropuerto,18.8,6.4,,,
 2025-06-18,Alto Obrajes_Barrio Magisterio,,,,,4.6
 2025-06-18,Alto Peñas (GPRS),,,94.4,65.43,0.3
 2025-06-18,Ancoraimes,,,,,2.7
@@ -33734,6 +33929,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-18,Cotagaita Mosoj Llajta,26.0,0.0,,,
 2025-06-18,Covendo_M (GPRS),,,99.87,74.95,
 2025-06-18,Cuatro Cañadas - CEA-2 (GPRS),,,94.2,70.65,
+2025-06-18,Culta,18.0,-2.0,,,
 2025-06-18,Desaguadero_M,,,87.9,65.49,
 2025-06-18,El Belen,13.0,1.0,,,3.2
 2025-06-18,El Tejar (La Paz),,,,,4.5
@@ -33749,9 +33945,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-18,Incapampa - Coroico_M (GPRS),,,99.82,79.91,
 2025-06-18,Isla Suriqui_M (GPRS),,,95.1,76.58,1.5
 2025-06-18,Ixiamas S.(GPRS),,,96.2,72.0,
+2025-06-18,Jalsuri Pocota,,,,,2.0
 2025-06-18,Jesús de Machaca_M (GPRS),,,98.2,58.98,
 2025-06-18,La Asunta_H (GPRS),,,,,0.1
 2025-06-18,La Merced,28.0,,,,
+2025-06-18,La Torre,27.0,5.0,,,
 2025-06-18,Laguna Colorada (GPRS),,,54.97,16.92,
 2025-06-18,Laykacota,15.0,5.9,,,
 2025-06-18,Llallagua,15.2,2.1,,,
@@ -33781,6 +33979,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-18,Sacabaya,15.0,-2.1,,,
 2025-06-18,Sacaca,22.6,3.8,,,10.2
 2025-06-18,Sacacani_M (GPRS),,,97.6,68.53,0.6
+2025-06-18,Sacani Santiago (Catacora),,,,,0.1
 2025-06-18,Salinas Iniaf (GPRS),,,61.4,35.0,
 2025-06-18,Salla,,,,,4.7
 2025-06-18,Salo_M (GPRS),,,36.81,20.08,
@@ -33807,6 +34006,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-18,Tarapaya,19.2,-1.5,,,
 2025-06-18,Templo (GPRS),,,75.43,60.96,
 2025-06-18,Temporal - SDC (GPRS),,,71.27,0.36,
+2025-06-18,Terrazas de Achumani,,,,,2.0
 2025-06-18,Tinguipaya,20.2,4.1,,,
 2025-06-18,Tiraque_M (GPRS),,,72.66,50.03,
 2025-06-18,Todos Santos_Or,14.2,-0.2,,,
@@ -33840,6 +34040,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-19,Achumani,21.5,6.5,,,
 2025-06-19,Aguadas (GPRS),,,91.8,55.0,
 2025-06-19,Aiquile (GPRS),,,92.6,47.17,
+2025-06-19,Alcantarí_Aeropuerto,19.6,8.6,,,
 2025-06-19,Alto Peñas (GPRS),,,91.7,61.03,
 2025-06-19,Andamarca,17.2,-4.0,,,
 2025-06-19,Anzaldo_M (GPRS),,,76.56,35.63,
@@ -33869,6 +34070,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-19,Cotagaita Mosoj Llajta,27.0,-1.0,,,
 2025-06-19,Covendo_M (GPRS),,,99.91,97.08,2.9
 2025-06-19,Cuatro Cañadas - CEA-2 (GPRS),,,82.9,70.35,
+2025-06-19,Culta,21.0,-1.0,,,0.5
 2025-06-19,Desaguadero_M,,,91.7,71.88,0.9
 2025-06-19,El Belen,16.0,0.0,,,1.0
 2025-06-19,El Tejar (Tarija),15.5,6.0,,,
@@ -33883,9 +34085,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-19,Incapampa - Coroico_M (GPRS),,,99.84,91.76,
 2025-06-19,Isla Suriqui_M (GPRS),,,93.8,76.97,0.8
 2025-06-19,Ixiamas S.(GPRS),,,100.0,94.2,
+2025-06-19,Jalsuri Pocota,,,,,0.5
 2025-06-19,Jesús de Machaca_M (GPRS),,,89.7,67.94,1.5
 2025-06-19,La Asunta_H (GPRS),,,,,9.5
 2025-06-19,La Merced,27.0,,,,
+2025-06-19,La Torre,28.0,4.1,,,
 2025-06-19,Laguna Colorada (GPRS),,,20.03,6.83,
 2025-06-19,Laykacota,15.8,5.3,,,
 2025-06-19,Llallagua,14.2,2.0,,,
@@ -33915,6 +34119,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-19,Sacabaya,15.0,-12.0,,,
 2025-06-19,Sacaca,21.5,2.5,,,16.8
 2025-06-19,Sacacani_M (GPRS),,,97.5,69.7,0.2
+2025-06-19,Sacani Santiago (Catacora),,,,,0.1
 2025-06-19,Salinas Iniaf (GPRS),,,58.6,33.2,
 2025-06-19,Salo_M (GPRS),,,54.33,9.97,
 2025-06-19,Samasa,20.0,4.0,,,
@@ -33973,6 +34178,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-20,Achumani,20.0,6.0,,,
 2025-06-20,Aguadas (GPRS),,,93.3,42.3,
 2025-06-20,Aiquile (GPRS),,,82.6,66.28,
+2025-06-20,Alcantarí_Aeropuerto,20.2,6.5,,,
 2025-06-20,Alto Peñas (GPRS),,,88.0,58.8,
 2025-06-20,Andamarca,21.1,-2.0,,,
 2025-06-20,Anzaldo_M (GPRS),,,79.06,31.09,
@@ -33980,6 +34186,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-20,Ayoma,22.2,-2.1,,,
 2025-06-20,Cabaña Forestal Oruro,17.1,-0.6,,,
 2025-06-20,Caiza D,21.0,2.1,,,
+2025-06-20,Calachaka Jahuira,,,,,2.5
 2025-06-20,Camargo_M (GPRS),,,85.54,34.31,
 2025-06-20,Camata,28.0,16.5,,,8.6
 2025-06-20,Carabuco,,2.5,,,
@@ -34002,6 +34209,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-20,Cotagaita Mosoj Llajta,27.0,-1.0,,,
 2025-06-20,Covendo_M (GPRS),,,92.83,82.65,0.1
 2025-06-20,Cuatro Cañadas - CEA-2 (GPRS),,,70.93,50.49,
+2025-06-20,Culta,17.0,-4.0,,,
 2025-06-20,Desaguadero_M,,,86.4,46.87,
 2025-06-20,El Belen,16.0,0.0,,,
 2025-06-20,El Tejar (Tarija),22.0,1.4,,,
@@ -34016,6 +34224,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-20,Ixiamas S.(GPRS),,,93.8,89.8,0.8
 2025-06-20,Jesús de Machaca_M (GPRS),,,97.9,47.61,
 2025-06-20,La Merced,27.0,,,,
+2025-06-20,La Torre,26.0,3.0,,,
 2025-06-20,Laguna Colorada (GPRS),,,44.05,18.81,
 2025-06-20,Laykacota,22.0,5.8,,,
 2025-06-20,Llallagua,13.2,3.0,,,
@@ -34104,6 +34313,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-21,Achumani,22.5,4.0,,,
 2025-06-21,Aguadas (GPRS),,,80.1,13.43,
 2025-06-21,Aiquile (GPRS),,,94.3,48.46,
+2025-06-21,Alcantarí_Aeropuerto,21.1,5.0,,,
 2025-06-21,Alto Peñas (GPRS),,,40.23,24.84,
 2025-06-21,Andamarca,16.2,-4.6,,,
 2025-06-21,Anzaldo_M (GPRS),,,69.96,8.65,
@@ -34130,6 +34340,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-21,Cotagaita Mosoj Llajta,26.0,-2.0,,,
 2025-06-21,Covendo_M (GPRS),,,99.9,82.5,0.2
 2025-06-21,Cuatro Cañadas - CEA-2 (GPRS),,,77.21,58.41,
+2025-06-21,Culta,18.0,-5.0,,,
 2025-06-21,Desaguadero_M,,,77.77,34.66,
 2025-06-21,El Belen,16.0,-4.0,,,
 2025-06-21,El Tejar (Tarija),26.0,1.5,,,
@@ -34144,6 +34355,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-21,Ixiamas S.(GPRS),,,93.3,72.5,
 2025-06-21,Jesús de Machaca_M (GPRS),,,84.0,21.77,
 2025-06-21,La Merced,25.0,,,,
+2025-06-21,La Torre,26.0,3.0,,,
 2025-06-21,Laguna Colorada (GPRS),,,56.31,12.77,
 2025-06-21,Laykacota,22.4,5.4,,,
 2025-06-21,Llallagua,16.2,3.1,,,
@@ -34225,6 +34437,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-22,Achumani,21.4,3.0,,,
 2025-06-22,Aguadas (GPRS),,,26.79,21.67,
 2025-06-22,Aiquile (GPRS),,,93.1,23.85,
+2025-06-22,Alcantarí_Aeropuerto,22.4,5.2,,,
 2025-06-22,Alto Peñas (GPRS),,,34.23,20.85,
 2025-06-22,Andamarca,16.1,-5.1,,,
 2025-06-22,Anzaldo_M (GPRS),,,11.16,3.94,
@@ -34250,6 +34463,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-22,Cotagaita Mosoj Llajta,27.0,-2.0,,,
 2025-06-22,Covendo_M (GPRS),,,99.92,76.19,
 2025-06-22,Cuatro Cañadas - CEA-2 (GPRS),,,87.4,72.38,
+2025-06-22,Culta,19.0,-4.3,,,
 2025-06-22,Desaguadero_M,,,77.61,41.7,
 2025-06-22,El Belen,17.0,-7.0,,,
 2025-06-22,El Tejar (Tarija),30.0,5.0,,,
@@ -34262,8 +34476,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-22,Incapampa - Coroico_M (GPRS),,,99.83,86.53,0.2
 2025-06-22,Isla Suriqui_M (GPRS),,,80.4,40.41,
 2025-06-22,Ixiamas S.(GPRS),,,91.5,83.1,
+2025-06-22,Jalsuri Pocota,,,,,2.0
 2025-06-22,Jesús de Machaca_M (GPRS),,,68.98,21.67,
 2025-06-22,La Merced,24.0,,,,
+2025-06-22,La Torre,25.1,6.0,,,
 2025-06-22,Laguna Colorada (GPRS),,,5.08,1.08,
 2025-06-22,Laykacota,22.1,4.0,,,
 2025-06-22,Llallagua,14.0,1.0,,,
@@ -34347,6 +34563,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-23,Achumani,21.0,2.0,,,
 2025-06-23,Aguadas (GPRS),,,43.56,24.3,
 2025-06-23,Aiquile (GPRS),,,80.7,51.1,
+2025-06-23,Alcantarí_Aeropuerto,16.7,4.5,,,
 2025-06-23,Alto Peñas (GPRS),,,35.89,18.67,
 2025-06-23,Andamarca,17.1,-6.3,,,
 2025-06-23,Anzaldo_M (GPRS),,,20.53,7.42,
@@ -34372,6 +34589,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-23,Cotagaita Mosoj Llajta,26.0,-6.0,,,
 2025-06-23,Covendo_M (GPRS),,,99.92,79.97,
 2025-06-23,Cuatro Cañadas - CEA-2 (GPRS),,,93.7,78.78,0.2
+2025-06-23,Culta,18.0,-3.8,,,
 2025-06-23,Desaguadero_M,,,56.46,28.63,
 2025-06-23,El Belen,16.0,-7.0,,,
 2025-06-23,El Tejar (Tarija),,1.0,,,
@@ -34387,6 +34605,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-23,Ixiamas S.(GPRS),,,99.3,96.0,
 2025-06-23,Jesús de Machaca_M (GPRS),,,75.29,21.62,
 2025-06-23,La Merced,25.0,,,,
+2025-06-23,La Torre,24.2,3.0,,,
 2025-06-23,Laguna Colorada (GPRS),,,8.69,3.22,
 2025-06-23,Laykacota,21.0,2.3,,,
 2025-06-23,Llallagua,14.6,-2.0,,,
@@ -34473,6 +34692,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-24,Achumani,19.5,2.1,,,
 2025-06-24,Aguadas (GPRS),,,89.0,45.26,
 2025-06-24,Aiquile (GPRS),,,90.4,40.05,
+2025-06-24,Alcantarí_Aeropuerto,15.4,0.3,,,
 2025-06-24,Alto Peñas (GPRS),,,55.34,40.21,
 2025-06-24,Andamarca,16.0,-7.5,,,
 2025-06-24,Anzaldo_M (GPRS),,,90.85,40.19,
@@ -34501,6 +34721,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-24,Cotagaita Mosoj Llajta,25.0,-9.0,,,
 2025-06-24,Covendo_M (GPRS),,,93.72,70.28,3.8
 2025-06-24,Cuatro Cañadas - CEA-2 (GPRS),,,64.02,51.22,
+2025-06-24,Culta,20.0,-4.0,,,
 2025-06-24,Desaguadero_M,,,76.69,63.99,
 2025-06-24,El Belen,15.0,-3.0,,,
 2025-06-24,El Villar,8.5,1.0,,,
@@ -34518,6 +34739,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-24,Jesús de Machaca_M (GPRS),,,64.22,40.73,
 2025-06-24,La Asunta_H (GPRS),,,,,2.1
 2025-06-24,La Merced,25.0,,,,
+2025-06-24,La Torre,24.2,2.0,,,
+2025-06-24,Laguna Colorada (GPRS),,,46.85,3.29,
 2025-06-24,Laykacota,18.8,2.0,,,
 2025-06-24,Llallagua,10.0,-5.0,,,
 2025-06-24,Mecapaca_M (GPRS),,,77.64,46.98,
@@ -34602,6 +34825,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-25,Achumani,20.0,3.2,,,
 2025-06-25,Aguadas (GPRS),,,73.87,25.31,
 2025-06-25,Aiquile (GPRS),,,91.3,37.99,
+2025-06-25,Alcantarí_Aeropuerto,20.3,3.1,,,
 2025-06-25,Alto Peñas (GPRS),,,40.73,37.71,
 2025-06-25,Andamarca,18.5,-4.0,,,
 2025-06-25,Anzaldo_M (GPRS),,,77.43,26.57,
@@ -34629,6 +34853,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-25,Cotagaita_H (GPRS),,,,,0.7
 2025-06-25,Covendo_M (GPRS),,,99.92,79.67,0.5
 2025-06-25,Cuatro Cañadas - CEA-2 (GPRS),,,78.36,66.6,
+2025-06-25,Culta,19.0,-5.0,,,
 2025-06-25,Desaguadero_M,,,74.04,37.13,
 2025-06-25,El Belen,16.0,-5.0,,,
 2025-06-25,El Villar,18.5,1.0,,,
@@ -34645,6 +34870,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-25,Jesús de Machaca_M (GPRS),,,58.83,22.55,
 2025-06-25,Jihuacuta,,,,,1.0
 2025-06-25,La Merced,26.0,,,,
+2025-06-25,La Torre,24.0,2.0,,,
+2025-06-25,Laguna Colorada (GPRS),,,94.2,27.15,
 2025-06-25,Laykacota,20.4,2.0,,,
 2025-06-25,Llallagua,15.1,-1.0,,,
 2025-06-25,Mecapaca_M (GPRS),,,100.0,44.0,
@@ -34725,6 +34952,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-26,Achumani,19.1,4.5,,,
 2025-06-26,Aguadas (GPRS),,,74.52,34.92,
 2025-06-26,Aiquile (GPRS),,,89.6,28.2,
+2025-06-26,Alcantarí_Aeropuerto,19.5,7.1,,,
 2025-06-26,Alto Peñas (GPRS),,,56.39,36.43,
 2025-06-26,Andamarca,18.1,-4.3,,,
 2025-06-26,Anzaldo_M (GPRS),,,44.1,15.41,
@@ -34750,6 +34978,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-26,Cotagaita Mosoj Llajta,24.0,3.0,,,
 2025-06-26,Covendo_M (GPRS),,,99.91,85.18,
 2025-06-26,Cuatro Cañadas - CEA-2 (GPRS),,,90.4,65.94,
+2025-06-26,Culta,18.0,-3.0,,,
 2025-06-26,Desaguadero_M,,,58.33,29.11,
 2025-06-26,El Belen,14.0,-3.0,,,
 2025-06-26,El Villar,28.0,5.5,,,
@@ -34765,6 +34994,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-26,Jesús de Machaca_M (GPRS),,,75.07,36.28,
 2025-06-26,Jihuacuta,,,,,0.2
 2025-06-26,La Merced,25.0,,,,
+2025-06-26,La Torre,23.8,2.0,,,
+2025-06-26,Laguna Colorada (GPRS),,,77.32,45.41,
 2025-06-26,Laykacota,18.0,3.9,,,
 2025-06-26,Llallagua,14.0,-1.0,,,
 2025-06-26,Mecapaca_M (GPRS),,,45.75,18.63,
@@ -34792,6 +35023,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-26,Sacabaya,18.4,-6.0,,,
 2025-06-26,Sacaca,24.2,2.8,,,
 2025-06-26,Sacacani_M (GPRS),,,66.26,25.84,
+2025-06-26,Sacani Santiago (Catacora),,,,,1.0
 2025-06-26,Salinas Iniaf (GPRS),,,47.5,32.2,
 2025-06-26,Salo_M (GPRS),,,39.41,15.78,
 2025-06-26,Samasa,15.0,4.0,,,
@@ -34817,6 +35049,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-26,Tarapaya,21.8,1.5,,,
 2025-06-26,Templo (GPRS),,,57.33,31.82,
 2025-06-26,Temporal - SDC (GPRS),,,49.76,7.32,
+2025-06-26,Terrazas de Achumani,,,,,0.1
 2025-06-26,Tinguipaya,16.4,-1.4,,,
 2025-06-26,Tiraque_M (GPRS),,,53.61,45.59,
 2025-06-26,Todos Santos_Or,12.0,-7.0,,,
@@ -34847,6 +35080,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-27,Achumani,19.5,5.3,,,
 2025-06-27,Aguadas (GPRS),,,93.3,69.94,0.2
 2025-06-27,Aiquile (GPRS),,,95.4,44.66,
+2025-06-27,Alcantarí_Aeropuerto,17.8,4.2,,,
 2025-06-27,Alto Peñas (GPRS),,,83.6,56.07,
 2025-06-27,Andamarca,18.3,-3.5,,,
 2025-06-27,Anzaldo_M (GPRS),,,82.33,42.29,
@@ -34875,6 +35109,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-27,Cotagaita Mosoj Llajta,25.0,-4.0,,,
 2025-06-27,Covendo_M (GPRS),,,99.9,81.13,
 2025-06-27,Cuatro Cañadas - CEA-2 (GPRS),,,82.2,64.13,
+2025-06-27,Culta,20.0,-5.0,,,
 2025-06-27,Desaguadero_M,,,62.71,40.44,
 2025-06-27,El Belen,13.2,0.0,,,
 2025-06-27,El Villar,19.0,7.5,,,
@@ -34890,6 +35125,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-27,Jihuacuta,,,,,1.3
 2025-06-27,La Asunta_H (GPRS),,,,,16.0
 2025-06-27,La Merced,26.0,,,,
+2025-06-27,La Torre,25.0,2.0,,,
+2025-06-27,Laguna Colorada (GPRS),,,50.32,19.86,
 2025-06-27,Laykacota,18.2,4.8,,,
 2025-06-27,Llallagua,15.1,-7.0,,,
 2025-06-27,Mecapaca_M (GPRS),,,100.0,56.22,
@@ -34970,6 +35207,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-28,Achumani,20.0,5.5,,,
 2025-06-28,Aguadas (GPRS),,,82.0,59.3,
 2025-06-28,Aiquile (GPRS),,,88.9,30.42,
+2025-06-28,Alcantarí_Aeropuerto,19.8,5.1,,,
 2025-06-28,Alto Peñas (GPRS),,,56.32,36.52,
 2025-06-28,Andamarca,17.5,-4.5,,,
 2025-06-28,Anzaldo_M (GPRS),,,67.84,37.61,
@@ -34977,6 +35215,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-28,Ayoma,20.1,2.1,,,
 2025-06-28,Cabaña Forestal Oruro,16.4,-1.2,,,
 2025-06-28,Caiza D,21.2,-2.1,,,
+2025-06-28,Calachaka Jahuira,,,,,7.5
 2025-06-28,Camargo_M (GPRS),,,40.79,19.04,
 2025-06-28,Camata,26.0,16.0,,,12.0
 2025-06-28,Carabuco,,2.5,,,
@@ -34999,6 +35238,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-28,Cotagaita Mosoj Llajta,24.0,4.0,,,
 2025-06-28,Covendo_M (GPRS),,,99.92,71.41,
 2025-06-28,Cuatro Cañadas - CEA-2 (GPRS),,,92.9,66.07,
+2025-06-28,Culta,19.0,-4.0,,,
 2025-06-28,Desaguadero_M,,,72.29,37.53,
 2025-06-28,El Belen,15.0,-1.0,,,
 2025-06-28,El Villar,23.2,7.5,,,
@@ -35013,6 +35253,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-28,Jesús de Machaca_M (GPRS),,,89.4,42.3,
 2025-06-28,La Asunta_H (GPRS),,,,,0.1
 2025-06-28,La Merced,18.0,,,,
+2025-06-28,La Torre,25.2,1.0,,,
+2025-06-28,Laguna Colorada (GPRS),,,87.9,16.31,
 2025-06-28,Laykacota,19.8,5.0,,,
 2025-06-28,Llallagua,15.0,4.0,,,
 2025-06-28,Mecapaca_M (GPRS),,,100.0,64.91,
@@ -35039,6 +35281,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-28,Sacabaya,15.8,-1.8,,,
 2025-06-28,Sacaca,20.2,1.6,,,
 2025-06-28,Sacacani_M (GPRS),,,95.9,38.77,0.2
+2025-06-28,Sacani Santiago (Catacora),,,,,0.1
 2025-06-28,Salinas Iniaf (GPRS),,,41.2,35.2,
 2025-06-28,Salo_M (GPRS),,,34.5,21.91,
 2025-06-28,Samasa,17.4,4.0,,,
@@ -35095,6 +35338,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-29,Achumani,19.5,5.0,,,0.7
 2025-06-29,Aguadas (GPRS),,,77.75,48.41,
 2025-06-29,Aiquile (GPRS),,,88.5,42.43,
+2025-06-29,Alcantarí_Aeropuerto,18.4,5.5,,,
 2025-06-29,Alto Obrajes_Barrio Magisterio,,,,,1.5
 2025-06-29,Alto Peñas (GPRS),,,65.99,47.4,
 2025-06-29,Ancoraimes,,,,,0.1
@@ -35104,6 +35348,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-29,Ayoma,22.3,-2.1,,,
 2025-06-29,Cabaña Forestal Oruro,16.5,-2.5,,,
 2025-06-29,Caiza D,22.0,4.4,,,
+2025-06-29,Calachaka Jahuira,,,,,1.2
 2025-06-29,Camargo_M (GPRS),,,29.65,8.29,
 2025-06-29,Camata,25.0,15.5,,,
 2025-06-29,Carabuco,,0.0,,,
@@ -35124,6 +35369,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-29,Cotagaita Mosoj Llajta,26.0,-4.0,,,
 2025-06-29,Covendo_M (GPRS),,,99.89,81.05,
 2025-06-29,Cuatro Cañadas - CEA-2 (GPRS),,,80.1,64.63,
+2025-06-29,Culta,17.0,-3.0,,,
 2025-06-29,Desaguadero_M,,,81.5,38.3,
 2025-06-29,El Belen,15.0,-1.0,,,
 2025-06-29,El Tejar (La Paz),,,,,0.9
@@ -35140,6 +35386,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-29,Jesús de Machaca_M (GPRS),,,84.2,49.19,
 2025-06-29,Juntas,,,,,0.3
 2025-06-29,La Merced,22.0,,,,
+2025-06-29,La Torre,26.0,-1.0,,,
+2025-06-29,Laguna Colorada (GPRS),,,59.62,6.66,
 2025-06-29,Laykacota,18.9,4.6,,,
 2025-06-29,Llallagua,14.0,-2.0,,,
 2025-06-29,Mecapaca_M (GPRS),,,63.15,31.94,
@@ -35224,6 +35472,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-30,Achumani,19.0,7.2,,,
 2025-06-30,Aguadas (GPRS),,,93.0,50.77,
 2025-06-30,Aiquile (GPRS),,,87.3,56.55,
+2025-06-30,Alcantarí_Aeropuerto,17.1,4.5,,,
 2025-06-30,Alto Peñas (GPRS),,,84.2,58.87,
 2025-06-30,Andamarca,17.0,-5.2,,,
 2025-06-30,Anzaldo_M (GPRS),,,79.4,39.27,
@@ -35252,6 +35501,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-30,Cotagaita Mosoj Llajta,27.0,-9.0,,,
 2025-06-30,Covendo_M (GPRS),,,99.92,99.85,4.4
 2025-06-30,Cuatro Cañadas - CEA-2 (GPRS),,,61.64,59.95,
+2025-06-30,Culta,19.0,-4.0,,,
 2025-06-30,Desaguadero_M,,,80.4,74.08,
 2025-06-30,El Belen,15.0,2.0,,,
 2025-06-30,El Villar,11.0,2.5,,,
@@ -35270,6 +35520,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-30,Juntas,,,,,0.4
 2025-06-30,La Asunta_H (GPRS),,,,,12.9
 2025-06-30,La Merced,25.0,,,,
+2025-06-30,La Torre,25.0,0.0,,,
+2025-06-30,Laguna Colorada (GPRS),,,35.64,5.55,
 2025-06-30,Laykacota,18.4,5.0,,,
 2025-06-30,Llallagua,15.2,-2.2,,,
 2025-06-30,Mecapaca_M (GPRS),,,100.0,50.5,
@@ -35297,6 +35549,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-30,Sacabaya,17.0,-5.3,,,
 2025-06-30,Sacaca,24.6,2.3,,,
 2025-06-30,Sacacani_M (GPRS),,,98.9,65.45,
+2025-06-30,Sacani Santiago (Catacora),,,,,0.1
 2025-06-30,Salinas Iniaf (GPRS),,,27.9,15.8,
 2025-06-30,Salo_M (GPRS),,,37.17,4.04,
 2025-06-30,Samasa,20.0,0.0,,,
@@ -35322,6 +35575,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-30,Tarapaya,21.5,-6.5,,,
 2025-06-30,Templo (GPRS),,,80.2,60.7,
 2025-06-30,Temporal - SDC (GPRS),,,67.28,17.98,
+2025-06-30,Terrazas de Achumani,,,,,0.3
 2025-06-30,Tinguipaya,18.3,-1.3,,,
 2025-06-30,Tiraque_M (GPRS),,,70.35,55.6,
 2025-06-30,Todos Santos_Or,16.0,-10.0,,,
@@ -35371,6 +35625,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-01,Isla Suriqui_M (GPRS),,,88.8,50.32,
 2025-07-01,Ixiamas S.(GPRS),,,91.2,76.3,
 2025-07-01,Jesús de Machaca_M (GPRS),,,82.2,25.75,
+2025-07-01,Laguna Colorada (GPRS),,,44.4,7.56,
 2025-07-01,Mecapaca_M (GPRS),,,100.0,47.3,
 2025-07-01,Mizque - SDC (GPRS),,,80.0,61.97,
 2025-07-01,Omereque - SDC (GPRS),,,77.28,75.92,
@@ -35404,6 +35659,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-01,Toralapa Iniaf (GPRS),,,71.0,15.9,
 2025-07-01,Totora Qhocha_M,,,71.06,17.12,
 2025-07-01,Totora i_M (GPRS),,,16.31,4.76,
+2025-07-01,Tupiza,,-2.4,,,
 2025-07-01,Viacha_M (GPRS),,,98.8,27.92,
 2025-07-01,Vila Vila - SDC (GPRS),,,90.2,52.22,
 2025-07-01,Villa Rivero_M (GPRS),,,83.25,28.35,
@@ -35433,6 +35689,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-02,Isla Suriqui_M (GPRS),,,84.0,59.43,
 2025-07-02,Ixiamas S.(GPRS),,,87.2,71.0,
 2025-07-02,Jesús de Machaca_M (GPRS),,,82.6,24.55,
+2025-07-02,Laguna Colorada (GPRS),,,61.34,9.67,
 2025-07-02,Mecapaca_M (GPRS),,,100.0,37.13,
 2025-07-02,Mizque - SDC (GPRS),,,89.2,72.16,
 2025-07-02,Omereque - SDC (GPRS),,,81.3,77.15,
@@ -35466,6 +35723,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-02,Toralapa Iniaf (GPRS),,,55.7,18.4,
 2025-07-02,Totora Qhocha_M,,,72.76,10.15,
 2025-07-02,Totora i_M (GPRS),,,21.2,4.56,
+2025-07-02,Tupiza,,-4.0,,,
 2025-07-02,Viacha_M (GPRS),,,75.77,28.79,
 2025-07-02,Vila Vila - SDC (GPRS),,,77.05,37.49,
 2025-07-02,Villa Rivero_M (GPRS),,,58.32,21.15,
@@ -35494,6 +35752,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-03,Isla Suriqui_M (GPRS),,,85.8,54.8,
 2025-07-03,Ixiamas S.(GPRS),,,82.5,61.9,
 2025-07-03,Jesús de Machaca_M (GPRS),,,74.78,19.47,
+2025-07-03,Laguna Colorada (GPRS),,,65.07,11.57,
 2025-07-03,Mecapaca_M (GPRS),,,97.09,38.71,
 2025-07-03,Mizque - SDC (GPRS),,,93.6,53.43,
 2025-07-03,Omereque - SDC (GPRS),,,77.61,75.12,
@@ -35527,6 +35786,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-03,Toralapa Iniaf (GPRS),,,52.8,22.5,
 2025-07-03,Totora Qhocha_M,,,70.8,19.53,
 2025-07-03,Totora i_M (GPRS),,,31.64,8.09,
+2025-07-03,Tupiza,,-3.2,,,
 2025-07-03,Viacha_M (GPRS),,,68.13,19.82,
 2025-07-03,Vila Vila - SDC (GPRS),,,71.02,30.54,
 2025-07-03,Villa Rivero_M (GPRS),,,49.12,18.75,
@@ -35555,6 +35815,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-04,Isla Suriqui_M (GPRS),,,79.52,49.65,
 2025-07-04,Ixiamas S.(GPRS),,,87.1,68.2,
 2025-07-04,Jesús de Machaca_M (GPRS),,,64.35,23.12,
+2025-07-04,Laguna Colorada (GPRS),,,59.73,10.76,
 2025-07-04,Mecapaca_M (GPRS),,,49.05,20.47,
 2025-07-04,Mizque - SDC (GPRS),,,82.9,20.34,
 2025-07-04,Omereque - SDC (GPRS),,,69.83,61.9,
@@ -35588,6 +35849,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-04,Toralapa Iniaf (GPRS),,,47.9,12.3,
 2025-07-04,Totora Qhocha_M,,,66.3,12.82,
 2025-07-04,Totora i_M (GPRS),,,31.64,8.6,
+2025-07-04,Tupiza,,-3.4,,,
 2025-07-04,Viacha_M (GPRS),,,57.81,18.91,
 2025-07-04,Vila Vila - SDC (GPRS),,,25.91,12.27,
 2025-07-04,Villa Rivero_M (GPRS),,,35.48,18.98,
@@ -35616,6 +35878,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-05,Isla Suriqui_M (GPRS),,,72.65,37.92,
 2025-07-05,Ixiamas S.(GPRS),,,90.2,60.5,
 2025-07-05,Jesús de Machaca_M (GPRS),,,67.74,21.17,
+2025-07-05,Laguna Colorada (GPRS),,,65.05,9.69,
 2025-07-05,Mecapaca_M (GPRS),,,37.49,15.8,
 2025-07-05,Mizque - SDC (GPRS),,,73.2,21.77,
 2025-07-05,Omereque - SDC (GPRS),,,66.11,48.89,
@@ -35648,6 +35911,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-05,Toralapa Iniaf (GPRS),,,35.5,13.6,
 2025-07-05,Totora Qhocha_M,,,48.91,14.18,
 2025-07-05,Totora i_M (GPRS),,,28.06,8.59,
+2025-07-05,Tupiza,,-3.0,,,
 2025-07-05,Viacha_M (GPRS),,,65.96,20.34,
 2025-07-05,Vila Vila - SDC (GPRS),,,25.2,11.63,
 2025-07-05,Villa Rivero_M (GPRS),,,38.91,11.71,
@@ -35676,6 +35940,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-06,Isla Suriqui_M (GPRS),,,70.55,47.42,
 2025-07-06,Ixiamas S.(GPRS),,,86.0,58.9,
 2025-07-06,Jesús de Machaca_M (GPRS),,,62.01,25.08,
+2025-07-06,Laguna Colorada (GPRS),,,63.33,5.52,
 2025-07-06,Mecapaca_M (GPRS),,,58.97,24.13,
 2025-07-06,Mizque - SDC (GPRS),,,79.78,25.68,
 2025-07-06,Omereque - SDC (GPRS),,,74.36,64.5,
@@ -35708,6 +35973,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-06,Toralapa Iniaf (GPRS),,,39.1,10.8,
 2025-07-06,Totora Qhocha_M,,,62.84,10.73,
 2025-07-06,Totora i_M (GPRS),,,24.44,7.42,
+2025-07-06,Tupiza,,-3.6,,,
 2025-07-06,Viacha_M (GPRS),,,67.13,21.19,
 2025-07-06,Vila Vila - SDC (GPRS),,,31.33,13.22,
 2025-07-06,Villa Rivero_M (GPRS),,,36.35,13.25,
@@ -35736,6 +36002,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-07,Isla Suriqui_M (GPRS),,,65.14,52.32,
 2025-07-07,Ixiamas S.(GPRS),,,87.6,64.3,
 2025-07-07,Jesús de Machaca_M (GPRS),,,73.17,23.77,
+2025-07-07,Laguna Colorada (GPRS),,,63.79,6.2,
 2025-07-07,Mecapaca_M (GPRS),,,57.01,17.03,
 2025-07-07,Mizque - SDC (GPRS),,,76.25,26.28,
 2025-07-07,Omereque - SDC (GPRS),,,76.48,68.95,
@@ -35768,6 +36035,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-07,Toralapa Iniaf (GPRS),,,37.7,15.1,
 2025-07-07,Totora Qhocha_M,,,63.3,14.27,
 2025-07-07,Totora i_M (GPRS),,,19.58,5.27,
+2025-07-07,Tupiza,,-3.4,,,
 2025-07-07,Viacha_M (GPRS),,,65.11,15.92,
 2025-07-07,Vila Vila - SDC (GPRS),,,30.26,13.22,
 2025-07-07,Villa Rivero_M (GPRS),,,47.58,16.69,
@@ -35795,6 +36063,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-08,Isla Suriqui_M (GPRS),4.95,0.82,83.7,60.91,
 2025-07-08,Ixiamas S.(GPRS),19.8,17.0,85.4,58.9,
 2025-07-08,Jesús de Machaca_M (GPRS),-2.0,-7.8,78.65,26.91,
+2025-07-08,Laguna Colorada (GPRS),,,57.52,5.38,
 2025-07-08,Mecapaca_M (GPRS),7.03,4.59,100.0,43.67,
 2025-07-08,Mizque - SDC (GPRS),7.82,4.29,90.7,56.37,
 2025-07-08,Omereque - SDC (GPRS),18.55,14.36,73.71,69.87,
@@ -35824,9 +36093,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-08,Templo (GPRS),0.75,-4.01,30.69,13.89,
 2025-07-08,Temporal - SDC (GPRS),9.82,7.16,54.1,31.57,
 2025-07-08,Tiraque_M (GPRS),5.81,2.56,38.5,20.75,
+2025-07-08,Todos Santos_Or,,-9.6,,,
 2025-07-08,Toralapa Iniaf (GPRS),4.6,-3.3,59.0,25.5,
 2025-07-08,Totora Qhocha_M,3.7,-1.15,69.61,23.95,
 2025-07-08,Totora i_M (GPRS),4.08,-0.48,35.36,14.92,
+2025-07-08,Tupiza,,-1.4,,,
 2025-07-08,Viacha_M (GPRS),-1.71,-6.81,65.97,18.0,
 2025-07-08,Vila Vila - SDC (GPRS),8.66,5.16,63.28,48.29,
 2025-07-08,Villa Rivero_M (GPRS),7.24,2.1,58.23,21.57,
@@ -35855,6 +36126,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-09,Isla Suriqui_M (GPRS),5.47,1.55,86.4,51.61,
 2025-07-09,Ixiamas S.(GPRS),19.8,18.8,79.9,54.5,
 2025-07-09,Jesús de Machaca_M (GPRS),-0.38,-8.91,63.51,22.66,
+2025-07-09,Laguna Colorada (GPRS),,,54.18,4.78,
 2025-07-09,Mecapaca_M (GPRS),6.55,5.34,78.83,24.38,
 2025-07-09,Mizque - SDC (GPRS),7.06,4.74,92.8,56.69,
 2025-07-09,Omereque - SDC (GPRS),17.43,13.31,86.8,79.18,
@@ -35884,9 +36156,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-09,Templo (GPRS),3.56,0.86,23.03,17.95,
 2025-07-09,Temporal - SDC (GPRS),9.46,6.18,52.08,28.29,
 2025-07-09,Tiraque_M (GPRS),6.05,3.49,36.62,15.18,
+2025-07-09,Todos Santos_Or,,-8.0,,,
 2025-07-09,Toralapa Iniaf (GPRS),0.5,-2.9,44.3,16.2,
 2025-07-09,Totora Qhocha_M,2.32,0.62,64.94,16.16,
 2025-07-09,Totora i_M (GPRS),4.82,1.3,21.47,12.76,
+2025-07-09,Tupiza,,-2.4,,,
 2025-07-09,Viacha_M (GPRS),-2.35,-7.92,68.78,15.02,
 2025-07-09,Vila Vila - SDC (GPRS),7.19,5.56,71.18,39.76,
 2025-07-09,Villa Rivero_M (GPRS),5.88,1.02,48.07,21.48,
@@ -35914,6 +36188,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-10,Isla Suriqui_M (GPRS),5.34,1.41,88.0,32.71,
 2025-07-10,Ixiamas S.(GPRS),20.0,19.3,82.9,55.0,
 2025-07-10,Jesús de Machaca_M (GPRS),-4.93,-11.57,62.74,16.28,
+2025-07-10,Laguna Colorada (GPRS),,,57.11,4.1,
 2025-07-10,Mecapaca_M (GPRS),6.34,3.83,79.64,23.86,
 2025-07-10,Mizque - SDC (GPRS),7.76,3.69,92.7,56.26,
 2025-07-10,Omereque - SDC (GPRS),16.84,12.91,86.8,79.7,
@@ -35943,9 +36218,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-10,Templo (GPRS),3.1,0.21,21.45,10.53,
 2025-07-10,Temporal - SDC (GPRS),11.7,7.38,49.32,29.11,
 2025-07-10,Tiraque_M (GPRS),7.8,4.75,23.39,13.98,
+2025-07-10,Todos Santos_Or,,-7.0,,,
 2025-07-10,Toralapa Iniaf (GPRS),0.6,-1.1,32.7,10.9,
 2025-07-10,Totora Qhocha_M,2.94,0.95,52.75,11.67,
 2025-07-10,Totora i_M (GPRS),2.75,-0.38,26.99,9.1,
+2025-07-10,Tupiza,,-2.8,,,
 2025-07-10,Viacha_M (GPRS),-2.55,-8.62,64.93,23.55,
 2025-07-10,Vila Vila - SDC (GPRS),7.65,4.78,74.34,51.53,
 2025-07-10,Villa Rivero_M (GPRS),8.14,1.14,45.48,20.02,
@@ -35973,6 +36250,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-11,Isla Suriqui_M (GPRS),5.21,1.95,79.41,44.64,
 2025-07-11,Ixiamas S.(GPRS),21.4,20.2,88.1,61.3,
 2025-07-11,Jesús de Machaca_M (GPRS),-3.11,-8.38,60.72,24.87,
+2025-07-11,Laguna Colorada (GPRS),,,57.74,5.58,
 2025-07-11,Mecapaca_M (GPRS),6.37,3.7,96.34,56.46,
 2025-07-11,Mizque - SDC (GPRS),12.99,10.94,82.9,42.43,
 2025-07-11,Omereque - SDC (GPRS),17.91,17.24,70.32,66.76,
@@ -36002,9 +36280,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-11,Templo (GPRS),3.31,-1.53,21.83,16.64,
 2025-07-11,Temporal - SDC (GPRS),9.4,6.27,74.8,53.56,
 2025-07-11,Tiraque_M (GPRS),4.45,1.84,66.53,46.07,
+2025-07-11,Todos Santos_Or,,-9.5,,,
 2025-07-11,Toralapa Iniaf (GPRS),-0.5,-3.7,80.0,43.9,
 2025-07-11,Totora Qhocha_M,2.13,0.04,66.96,45.54,
 2025-07-11,Totora i_M (GPRS),4.29,0.87,48.9,36.21,
+2025-07-11,Tupiza,,0.0,,,
 2025-07-11,Viacha_M (GPRS),-2.56,-8.24,69.69,31.96,
 2025-07-11,Vila Vila - SDC (GPRS),11.36,10.36,77.4,50.28,
 2025-07-11,Villa Rivero_M (GPRS),7.42,2.99,72.37,40.25,
@@ -36032,6 +36312,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-12,Isla Suriqui_M (GPRS),4.76,1.81,89.3,56.63,
 2025-07-12,Ixiamas S.(GPRS),22.3,21.1,86.4,64.1,
 2025-07-12,Jesús de Machaca_M (GPRS),-0.89,-7.34,83.0,29.19,
+2025-07-12,Laguna Colorada (GPRS),,,55.26,6.7,
 2025-07-12,Mecapaca_M (GPRS),6.43,4.25,76.59,54.59,
 2025-07-12,Mizque - SDC (GPRS),13.2,10.98,79.5,48.47,
 2025-07-12,Omereque - SDC (GPRS),17.77,17.02,71.11,67.0,
@@ -36060,9 +36341,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-12,Templo (GPRS),0.1,-1.67,32.26,16.43,
 2025-07-12,Temporal - SDC (GPRS),9.95,6.17,75.87,49.6,
 2025-07-12,Tiraque_M (GPRS),4.09,2.58,68.81,40.5,
+2025-07-12,Todos Santos_Or,,-8.1,,,
 2025-07-12,Toralapa Iniaf (GPRS),-1.9,-4.0,88.3,42.3,
 2025-07-12,Totora Qhocha_M,1.27,-0.82,78.3,21.83,
 2025-07-12,Totora i_M (GPRS),4.28,1.4,66.4,40.84,
+2025-07-12,Tupiza,,0.0,,,
 2025-07-12,Viacha_M (GPRS),1.32,-6.61,92.6,41.35,
 2025-07-12,Vila Vila - SDC (GPRS),11.17,10.19,81.2,50.33,
 2025-07-12,Villa Rivero_M (GPRS),6.77,2.72,78.81,41.38,
@@ -36091,6 +36374,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-13,Isla Suriqui_M (GPRS),4.65,2.2,79.78,41.18,
 2025-07-13,Ixiamas S.(GPRS),21.4,20.2,94.6,74.4,
 2025-07-13,Jesús de Machaca_M (GPRS),-1.93,-8.18,62.34,16.79,
+2025-07-13,Laguna Colorada (GPRS),,,54.43,4.64,
 2025-07-13,Mecapaca_M (GPRS),6.93,5.47,87.2,40.27,
 2025-07-13,Mizque - SDC (GPRS),12.02,9.47,74.61,50.09,
 2025-07-13,Omereque - SDC (GPRS),16.9,15.9,66.9,65.32,
@@ -36119,9 +36403,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-13,Templo (GPRS),3.76,0.93,27.4,14.72,
 2025-07-13,Temporal - SDC (GPRS),10.68,8.56,52.05,33.44,
 2025-07-13,Tiraque_M (GPRS),7.33,4.21,51.25,26.64,
+2025-07-13,Todos Santos_Or,,-7.5,,,
 2025-07-13,Toralapa Iniaf (GPRS),1.3,-0.5,64.1,26.3,
 2025-07-13,Totora Qhocha_M,3.01,1.27,68.31,25.15,
 2025-07-13,Totora i_M (GPRS),10.03,3.79,23.08,6.26,
+2025-07-13,Tupiza,,-3.4,,,
 2025-07-13,Viacha_M (GPRS),-1.57,-7.77,77.08,16.31,
 2025-07-13,Vila Vila - SDC (GPRS),9.46,8.14,78.05,56.23,
 2025-07-13,Villa Rivero_M (GPRS),7.11,3.05,70.77,28.65,
@@ -36149,6 +36435,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-14,Isla Suriqui_M (GPRS),6.06,2.66,74.72,37.65,
 2025-07-14,Ixiamas S.(GPRS),21.4,20.7,85.0,70.6,
 2025-07-14,Jesús de Machaca_M (GPRS),-0.24,-8.78,63.32,18.62,
+2025-07-14,Laguna Colorada (GPRS),,,53.41,5.63,
 2025-07-14,Mecapaca_M (GPRS),6.98,4.96,95.81,39.73,
 2025-07-14,Mizque - SDC (GPRS),11.76,8.78,76.45,49.58,
 2025-07-14,Omereque - SDC (GPRS),17.46,16.05,66.03,62.24,
@@ -36159,6 +36446,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-14,Presa Misicuni (GPRS),1.32,-0.86,61.69,26.92,
 2025-07-14,Putucuni Calientes (GPRS),3.24,-1.45,26.04,16.74,
 2025-07-14,Quetenas (GPRS),-5.14,-11.16,37.52,8.04,
+2025-07-14,Río Chilenas (GPRS),9.5,-10.77,34.28,5.93,
 2025-07-14,Sacacani_M (GPRS),-2.04,-5.78,54.08,24.16,
 2025-07-14,Salinas Iniaf (GPRS),2.6,-2.1,19.0,11.3,
 2025-07-14,Salo_M (GPRS),-1.91,-6.44,28.49,4.77,
@@ -36176,12 +36464,431 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-14,Templo (GPRS),3.38,-0.72,30.3,15.01,
 2025-07-14,Temporal - SDC (GPRS),12.11,7.79,61.05,37.91,
 2025-07-14,Tiraque_M (GPRS),8.83,4.46,40.56,18.97,
+2025-07-14,Todos Santos_Or,,-9.1,,,
 2025-07-14,Toralapa Iniaf (GPRS),1.4,-0.1,58.6,20.0,
 2025-07-14,Totora Qhocha_M,3.62,1.54,74.65,18.39,
 2025-07-14,Totora i_M (GPRS),1.63,-3.06,18.63,7.12,
+2025-07-14,Tupiza,,-3.4,,,
 2025-07-14,Viacha_M (GPRS),-3.21,-6.81,74.39,25.04,
 2025-07-14,Vila Vila - SDC (GPRS),8.68,7.26,81.6,52.79,
 2025-07-14,Villa Rivero_M (GPRS),10.31,3.28,46.14,24.4,
 2025-07-14,Viscachas Chirage (GPRS),2.39,1.04,33.6,14.53,
 2025-07-14,Vivero Chimboco - SDC (GPRS),8.56,4.97,,,
 2025-07-14,Vivero Viloma - SDC (GPRS),12.48,10.18,57.06,36.27,
+2025-07-15, Paniagua_M (GPRS),18.16,16.94,91.11,80.84,
+2025-07-15,4 Esquinas (GPRS),-5.18,-7.91,63.6,17.47,
+2025-07-15,Aguadas (GPRS),-2.23,-4.85,51.74,16.3,
+2025-07-15,Aiquile (GPRS),6.46,4.07,93.4,36.97,
+2025-07-15,Alto Peñas (GPRS),4.21,1.86,39.41,24.97,
+2025-07-15,Anzaldo_M (GPRS),6.73,3.55,54.2,12.88,
+2025-07-15,Apolo_M (GPRS),16.92,15.5,86.94,69.09,
+2025-07-15,Camargo_M (GPRS),4.9,1.49,56.29,11.64,
+2025-07-15,Carura_M - Guanay (GPRS),18.85,18.68,98.89,85.0,
+2025-07-15,Chacala Iniaf (GPRS),-3.2,-4.3,18.8,7.3,
+2025-07-15,Chua Cocani_M (GPRS),3.77,0.03,76.94,53.35,
+2025-07-15,Covendo_M (GPRS),18.55,17.78,99.92,70.63,
+2025-07-15,Cuatro Cañadas - CEA-2 (GPRS),20.04,18.2,83.2,49.59,
+2025-07-15,Desaguadero_M,4.75,-0.08,82.6,26.5,
+2025-07-15,Huancane Corapata_M (GPRS),1.72,-1.94,56.3,32.59,
+2025-07-15,Huarisuyo (GPRS),-0.93,-5.62,65.37,34.6,
+2025-07-15,Incapampa - Coroico_M (GPRS),13.34,11.65,99.79,79.76,
+2025-07-15,Isla Suriqui_M (GPRS),4.06,2.4,72.17,46.7,
+2025-07-15,Ixiamas S.(GPRS),21.2,19.5,91.5,62.5,
+2025-07-15,Jesús de Machaca_M (GPRS),-0.24,-8.06,77.86,26.73,
+2025-07-15,Laguna Colorada (GPRS),,,51.49,9.99,
+2025-07-15,Mecapaca_M (GPRS),6.75,5.18,85.4,26.63,
+2025-07-15,Mizque - SDC (GPRS),9.81,6.13,92.1,40.16,
+2025-07-15,Omereque - SDC (GPRS),19.49,15.3,89.5,80.3,
+2025-07-15,Palos Blancos_M (GPRS),18.95,18.37,100.0,82.35,
+2025-07-15,Patacamaya I. (GPRS),0.2,-3.9,46.0,16.8,
+2025-07-15,Peña Amarilla_H (SAT),,,,,0.2
+2025-07-15,Pocona - SDC (GPRS),2.43,-1.95,92.5,14.51,
+2025-07-15,Pojo - SDC (GPRS),11.63,10.26,57.61,37.65,
+2025-07-15,Presa Misicuni (GPRS),1.29,-1.48,61.16,16.14,
+2025-07-15,Putucuni Calientes (GPRS),0.22,-2.69,31.66,18.72,
+2025-07-15,Quetenas (GPRS),-4.16,-11.29,37.69,12.13,
+2025-07-15,Río Chilenas (GPRS),9.37,-12.4,35.87,9.38,
+2025-07-15,Sacacani_M (GPRS),-2.04,-6.5,67.43,29.3,
+2025-07-15,Salinas Iniaf (GPRS),4.7,-1.1,21.9,11.8,
+2025-07-15,Salo_M (GPRS),-3.33,-9.26,32.77,5.35,
+2025-07-15,San Buenaventura_M (GPRS),21.53,20.92,84.18,63.94,
+2025-07-15,San Jacinto_M (GPRS),8.38,4.89,99.1,57.31,
+2025-07-15,San Julian - Comunidad Los Angeles (GPRS),20.93,18.79,77.63,48.03,
+2025-07-15,San Julian - Nucleo 32 (GPRS),19.49,18.24,76.32,54.07,
+2025-07-15,San Pablo de Lipez (GPRS),-2.1,-5.11,19.7,10.27,
+2025-07-15,San Pedro - San Antonio (GPRS),19.43,17.78,93.1,62.85,
+2025-07-15,San Pedro de Buena Vista (GPRS),12.54,10.49,40.28,23.56,
+2025-07-15,San Pedro de Tiquina_M (GPRS),6.51,4.61,68.73,49.64,
+2025-07-15,Sauce Pilapata - SDC (GPRS),13.27,10.88,21.27,21.27,
+2025-07-15,Sultaca_M (GPRS),9.83,8.44,16.89,7.15,
+2025-07-15,Sunjani (GPRS),-1.54,-4.55,46.3,17.32,
+2025-07-15,Templo (GPRS),3.1,0.55,25.72,15.28,
+2025-07-15,Temporal - SDC (GPRS),13.13,8.65,41.13,21.88,
+2025-07-15,Tiraque_M (GPRS),7.82,4.9,21.41,9.67,
+2025-07-15,Todos Santos_Or,,-9.0,,,
+2025-07-15,Toralapa Iniaf (GPRS),1.2,-1.8,30.0,8.4,
+2025-07-15,Totora Qhocha_M,3.9,1.08,55.61,11.01,
+2025-07-15,Totora i_M (GPRS),4.3,-0.77,24.15,5.58,
+2025-07-15,Tupiza,,-3.0,,,
+2025-07-15,Viacha_M (GPRS),-2.94,-4.71,70.87,26.28,
+2025-07-15,Vila Vila - SDC (GPRS),10.97,9.2,44.32,14.8,
+2025-07-15,Villa Rivero_M (GPRS),7.51,2.63,38.21,16.97,
+2025-07-15,Viscachas Chirage (GPRS),2.8,0.7,36.46,15.5,
+2025-07-15,Vivero Chimboco - SDC (GPRS),9.91,5.3,40.88,14.86,
+2025-07-15,Vivero Viloma - SDC (GPRS),14.07,7.23,37.79,22.13,
+2025-07-16, Paniagua_M (GPRS),17.73,15.89,91.1,67.32,
+2025-07-16,4 Esquinas (GPRS),-3.93,-6.26,55.31,12.85,
+2025-07-16,Aguadas (GPRS),-1.82,-4.01,40.58,13.35,
+2025-07-16,Aiquile (GPRS),5.82,3.49,83.5,17.75,
+2025-07-16,Alto Peñas (GPRS),5.59,3.0,52.35,32.04,
+2025-07-16,Anzaldo_M (GPRS),5.41,3.52,37.53,10.26,
+2025-07-16,Apolo_M (GPRS),16.2,14.28,91.62,55.45,
+2025-07-16,Camargo_M (GPRS),14.06,9.26,30.39,8.68,
+2025-07-16,Carura_M - Guanay (GPRS),18.65,18.34,95.37,64.33,
+2025-07-16,Chacala Iniaf (GPRS),-2.3,-4.1,27.0,13.8,
+2025-07-16,Chua Cocani_M (GPRS),6.72,1.28,66.69,51.78,
+2025-07-16,Covendo_M (GPRS),18.78,18.09,99.92,66.74,
+2025-07-16,Cuatro Cañadas - CEA-2 (GPRS),20.76,19.64,75.02,52.76,
+2025-07-16,Desaguadero_M,5.34,-0.14,70.66,25.52,
+2025-07-16,Huancane Corapata_M (GPRS),3.63,0.35,54.21,36.05,
+2025-07-16,Huarisuyo (GPRS),-0.3,-3.9,83.6,33.36,
+2025-07-16,Incapampa - Coroico_M (GPRS),12.31,11.29,99.84,69.95,
+2025-07-16,Isla Suriqui_M (GPRS),7.66,3.24,73.34,39.49,
+2025-07-16,Ixiamas S.(GPRS),20.2,19.4,96.2,65.4,
+2025-07-16,Jesús de Machaca_M (GPRS),1.12,-3.24,61.19,20.78,
+2025-07-16,Laguna Colorada (GPRS),7.03,-10.44,52.53,9.2,
+2025-07-16,Mecapaca_M (GPRS),7.27,5.24,86.92,32.38,
+2025-07-16,Mizque - SDC (GPRS),8.16,4.55,83.6,33.02,
+2025-07-16,Omereque - SDC (GPRS),19.2,13.97,78.13,67.98,
+2025-07-16,Palos Blancos_M (GPRS),19.03,17.65,100.0,71.76,
+2025-07-16,Patacamaya I. (GPRS),4.1,-1.4,49.1,17.8,
+2025-07-16,Pocona - SDC (GPRS),15.65,8.17,28.23,16.95,
+2025-07-16,Pojo - SDC (GPRS),13.07,9.14,61.32,40.52,
+2025-07-16,Presa Misicuni (GPRS),1.9,-0.23,58.03,13.46,
+2025-07-16,Putucuni Calientes (GPRS),2.9,-0.6,21.79,14.61,
+2025-07-16,Quetenas (GPRS),-2.87,-6.75,40.29,15.93,
+2025-07-16,Río Chilenas (GPRS),,,41.46,9.0,
+2025-07-16,Sacacani_M (GPRS),0.26,-4.27,63.66,31.45,
+2025-07-16,Salinas Iniaf (GPRS),3.7,-2.3,31.4,15.8,
+2025-07-16,Salo_M (GPRS),-2.46,-4.67,32.45,7.81,
+2025-07-16,San Buenaventura_M (GPRS),20.31,19.83,94.17,59.73,
+2025-07-16,San Jacinto_M (GPRS),8.7,6.82,99.2,59.88,
+2025-07-16,San Julian - Comunidad Los Angeles (GPRS),21.08,19.24,75.4,49.46,
+2025-07-16,San Julian - Nucleo 32 (GPRS),20.35,19.03,77.43,55.76,
+2025-07-16,San Pablo de Lipez (GPRS),-2.87,-4.97,30.59,17.66,
+2025-07-16,San Pedro - San Antonio (GPRS),22.11,20.22,84.7,64.29,
+2025-07-16,San Pedro de Buena Vista (GPRS),14.15,11.79,25.79,17.81,
+2025-07-16,San Pedro de Tiquina_M (GPRS),7.43,5.34,61.3,34.12,
+2025-07-16,Sauce Pilapata - SDC (GPRS),14.71,11.84,94.2,15.28,0.9
+2025-07-16,Sultaca_M (GPRS),12.72,8.87,13.98,9.88,
+2025-07-16,Sunjani (GPRS),-0.92,-2.71,32.23,13.22,
+2025-07-16,Templo (GPRS),3.33,1.03,16.77,13.59,
+2025-07-16,Temporal - SDC (GPRS),11.6,9.6,31.62,14.58,
+2025-07-16,Tiraque_M (GPRS),7.99,5.3,24.43,12.04,
+2025-07-16,Todos Santos_Or,,-7.0,,,
+2025-07-16,Toralapa Iniaf (GPRS),3.1,-2.2,36.2,10.3,
+2025-07-16,Totora Qhocha_M,7.41,2.72,55.77,9.89,
+2025-07-16,Totora i_M (GPRS),5.88,2.04,27.17,6.77,
+2025-07-16,Tupiza,,0.0,,,
+2025-07-16,Viacha_M (GPRS),0.75,-4.91,69.47,32.6,
+2025-07-16,Vila Vila - SDC (GPRS),10.3,6.02,18.98,10.51,
+2025-07-16,Villa Rivero_M (GPRS),10.02,3.46,39.09,10.85,
+2025-07-16,Viscachas Chirage (GPRS),3.41,1.77,27.1,12.1,
+2025-07-16,Vivero Chimboco - SDC (GPRS),9.01,5.33,33.4,8.69,
+2025-07-16,Vivero Viloma - SDC (GPRS),17.91,8.67,41.98,16.74,
+2025-07-17, Paniagua_M (GPRS),19.58,17.58,99.95,96.48,0.1
+2025-07-17,4 Esquinas (GPRS),-4.33,-7.71,82.0,50.0,
+2025-07-17,Aguadas (GPRS),-3.54,-6.04,80.6,49.05,
+2025-07-17,Aiquile (GPRS),12.84,11.64,76.77,54.31,
+2025-07-17,Alto Peñas (GPRS),1.06,-1.03,83.8,59.89,
+2025-07-17,Anzaldo_M (GPRS),8.2,3.5,96.41,39.49,
+2025-07-17,Apolo_M (GPRS),17.76,16.39,91.95,75.33,
+2025-07-17,Camargo_M (GPRS),12.7,7.95,65.36,39.79,
+2025-07-17,Caranavi_H (GPRS),,,,,4.2
+2025-07-17,Carura_M - Guanay (GPRS),19.95,19.33,98.87,84.45,0.1
+2025-07-17,Chacala Iniaf (GPRS),-1.5,-3.3,28.8,13.9,
+2025-07-17,Chua Cocani_M (GPRS),4.22,1.74,76.64,49.24,
+2025-07-17,Covendo_M (GPRS),20.32,19.9,99.89,89.6,10.2
+2025-07-17,Cuatro Cañadas - CEA-2 (GPRS),20.5,17.61,42.71,33.13,
+2025-07-17,Desaguadero_M,3.19,-1.52,80.3,64.02,
+2025-07-17,Guanay_H (GPRS),,,,,1.0
+2025-07-17,Huancane Corapata_M (GPRS),0.54,-2.28,78.64,60.72,
+2025-07-17,Huarisuyo (GPRS),-0.04,-2.73,95.4,61.0,
+2025-07-17,Incapampa - Coroico_M (GPRS),14.3,12.84,99.84,92.79,
+2025-07-17,Isla Suriqui_M (GPRS),5.41,4.42,82.4,55.59,
+2025-07-17,Ixiamas S.(GPRS),22.2,21.3,82.2,78.1,
+2025-07-17,Jesús de Machaca_M (GPRS),-2.91,-8.32,61.56,36.99,
+2025-07-17,La Asunta_H (GPRS),,,,,0.4
+2025-07-17,Laguna Colorada (GPRS),-3.35,-11.85,51.2,34.33,
+2025-07-17,Mecapaca_M (GPRS),10.1,6.94,100.0,50.06,
+2025-07-17,Mizque - SDC (GPRS),15.69,13.44,80.7,55.38,
+2025-07-17,Omereque - SDC (GPRS),19.8,18.3,81.4,70.11,
+2025-07-17,Palos Blancos_M (GPRS),20.16,19.65,99.98,99.92,6.0
+2025-07-17,Patacamaya I. (GPRS),4.6,-0.4,70.6,41.7,
+2025-07-17,Pocona - SDC (GPRS),9.93,7.83,98.7,62.52,
+2025-07-17,Pojo - SDC (GPRS),13.87,12.16,94.9,84.1,
+2025-07-17,Presa Misicuni (GPRS),0.98,-1.66,80.7,52.6,
+2025-07-17,Putucuni Calientes (GPRS),-0.07,-4.82,82.7,76.95,
+2025-07-17,Quetenas (GPRS),-8.82,-12.35,33.39,13.02,
+2025-07-17,Río Chilenas (GPRS),0.97,-16.69,59.95,16.75,
+2025-07-17,Sacacani_M (GPRS),-0.6,-5.45,96.4,63.22,
+2025-07-17,Salinas Iniaf (GPRS),3.3,-2.7,28.7,19.5,
+2025-07-17,Salo_M (GPRS),7.12,1.03,80.22,26.89,
+2025-07-17,San Buenaventura_M (GPRS),22.67,21.39,82.09,75.24,
+2025-07-17,San Jacinto_M (GPRS),5.9,4.93,83.4,64.44,
+2025-07-17,San Julian - Comunidad Los Angeles (GPRS),22.71,18.85,44.36,34.0,
+2025-07-17,San Julian - Nucleo 32 (GPRS),23.61,18.91,49.03,37.22,
+2025-07-17,San Pablo de Lipez (GPRS),-5.29,-6.76,26.11,13.18,
+2025-07-17,San Pedro - San Antonio (GPRS),23.32,18.86,42.28,29.53,
+2025-07-17,San Pedro de Buena Vista (GPRS),11.09,9.7,80.7,53.37,
+2025-07-17,San Pedro de Tiquina_M (GPRS),6.78,4.29,70.16,57.78,
+2025-07-17,Sauce Pilapata - SDC (GPRS),8.83,8.15,99.9,99.6,
+2025-07-17,Sultaca_M (GPRS),4.42,1.47,90.94,48.73,
+2025-07-17,Sunjani (GPRS),-3.46,-5.57,64.21,45.87,
+2025-07-17,Templo (GPRS),1.14,-4.68,65.86,48.91,
+2025-07-17,Temporal - SDC (GPRS),10.52,7.87,60.68,38.82,
+2025-07-17,Tiraque_M (GPRS),5.22,3.5,74.17,74.17,
+2025-07-17,Todos Santos_Or,,-6.5,,,
+2025-07-17,Toralapa Iniaf (GPRS),0.3,-2.8,88.6,57.8,
+2025-07-17,Totora Qhocha_M,4.42,0.88,85.5,63.59,
+2025-07-17,Totora i_M (GPRS),9.0,2.57,74.51,34.73,
+2025-07-17,Viacha_M (GPRS),-0.06,-3.66,95.0,59.49,
+2025-07-17,Vila Vila - SDC (GPRS),11.73,10.97,73.55,49.18,
+2025-07-17,Villa Rivero_M (GPRS),9.39,5.58,77.32,30.11,
+2025-07-17,Viscachas Chirage (GPRS),-1.05,-3.08,57.96,48.26,
+2025-07-17,Vivero Chimboco - SDC (GPRS),10.24,5.64,67.71,34.68,
+2025-07-17,Vivero Viloma - SDC (GPRS),12.38,9.39,65.47,45.03,
+2025-07-18, Paniagua_M (GPRS),16.46,16.06,99.94,86.48,
+2025-07-18,4 Esquinas (GPRS),1.91,-0.5,89.7,35.65,
+2025-07-18,Aguadas (GPRS),2.36,-0.48,86.2,33.59,
+2025-07-18,Aiquile (GPRS),9.16,5.16,92.6,43.75,
+2025-07-18,Alto Peñas (GPRS),3.8,1.72,62.53,44.12,
+2025-07-18,Anzaldo_M (GPRS),8.25,6.5,82.46,49.8,
+2025-07-18,Apolo_M (GPRS),15.22,14.12,99.96,83.17,
+2025-07-18,Camargo_M (GPRS),7.07,4.8,34.74,9.91,
+2025-07-18,Carura_M - Guanay (GPRS),19.1,18.43,98.78,73.05,
+2025-07-18,Chacala Iniaf (GPRS),-0.5,-1.9,48.1,24.9,
+2025-07-18,Chua Cocani_M (GPRS),2.85,-0.04,79.76,65.71,
+2025-07-18,Covendo_M (GPRS),17.84,17.17,96.76,72.53,
+2025-07-18,Cuatro Cañadas - CEA-2 (GPRS),16.21,12.5,72.38,34.2,
+2025-07-18,Desaguadero_M,5.61,1.1,87.3,57.02,
+2025-07-18,Huancane Corapata_M (GPRS),1.53,-2.28,77.11,50.89,
+2025-07-18,Huarisuyo (GPRS),-0.7,-3.74,94.3,48.1,
+2025-07-18,Incapampa - Coroico_M (GPRS),12.81,12.35,99.82,99.77,0.2
+2025-07-18,Isla Suriqui_M (GPRS),5.21,2.46,89.1,73.94,
+2025-07-18,Ixiamas S.(GPRS),19.9,18.7,64.3,55.2,
+2025-07-18,Jesús de Machaca_M (GPRS),4.64,-3.05,80.7,48.28,
+2025-07-18,Laguna Colorada (GPRS),-2.23,-10.1,55.54,27.85,
+2025-07-18,Mecapaca_M (GPRS),8.14,5.41,100.0,78.02,
+2025-07-18,Mizque - SDC (GPRS),13.59,8.68,87.4,51.64,
+2025-07-18,Omereque - SDC (GPRS),17.33,14.7,79.04,70.71,
+2025-07-18,Palos Blancos_M (GPRS),19.94,17.09,100.0,82.72,
+2025-07-18,Patacamaya I. (GPRS),1.2,-1.5,73.9,44.6,
+2025-07-18,Pocona - SDC (GPRS),9.21,7.3,98.6,44.72,
+2025-07-18,Pojo - SDC (GPRS),12.55,11.44,87.9,62.03,
+2025-07-18,Presa Misicuni (GPRS),5.32,3.11,86.4,44.04,
+2025-07-18,Putucuni Calientes (GPRS),2.84,0.52,64.57,44.75,
+2025-07-18,Quetenas (GPRS),-7.33,-11.3,50.45,21.56,
+2025-07-18,Río Chilenas (GPRS),8.17,-14.5,50.01,12.64,
+2025-07-18,Sacacani_M (GPRS),2.16,-2.94,87.4,58.35,
+2025-07-18,Salinas Iniaf (GPRS),3.3,-1.1,35.8,28.8,
+2025-07-18,Salo_M (GPRS),-1.09,-7.97,41.34,13.6,
+2025-07-18,San Buenaventura_M (GPRS),19.86,17.6,83.64,43.44,
+2025-07-18,San Jacinto_M (GPRS),1.92,-0.87,95.0,34.49,0.1
+2025-07-18,San Julian - Comunidad Los Angeles (GPRS),16.18,13.56,57.86,32.24,
+2025-07-18,San Julian - Nucleo 32 (GPRS),16.87,14.64,58.31,38.19,
+2025-07-18,San Pablo de Lipez (GPRS),-2.22,-4.82,41.46,23.63,
+2025-07-18,San Pedro - San Antonio (GPRS),17.23,14.77,62.09,41.01,
+2025-07-18,San Pedro de Buena Vista (GPRS),10.02,8.55,81.0,63.81,
+2025-07-18,San Pedro de Tiquina_M (GPRS),6.05,5.01,77.99,66.64,
+2025-07-18,Sauce Pilapata - SDC (GPRS),7.27,6.34,75.18,65.64,
+2025-07-18,Sultaca_M (GPRS),4.16,2.37,11.67,2.61,
+2025-07-18,Sunjani (GPRS),2.04,0.28,86.6,35.2,
+2025-07-18,Templo (GPRS),1.67,-0.49,63.29,41.62,
+2025-07-18,Temporal - SDC (GPRS),11.49,10.8,69.56,49.55,
+2025-07-18,Tiraque_M (GPRS),7.46,5.07,82.5,51.66,
+2025-07-18,Todos Santos_Or,,-6.0,,,
+2025-07-18,Toralapa Iniaf (GPRS),4.5,0.9,87.8,57.3,
+2025-07-18,Totora Qhocha_M,3.57,2.45,84.4,55.6,
+2025-07-18,Totora i_M (GPRS),2.58,-0.63,31.71,8.4,
+2025-07-18,Viacha_M (GPRS),1.63,-5.04,96.6,53.48,
+2025-07-18,Vila Vila - SDC (GPRS),10.96,8.42,78.96,48.81,
+2025-07-18,Villa Rivero_M (GPRS),11.09,9.15,88.52,43.66,
+2025-07-18,Viscachas Chirage (GPRS),4.95,1.92,80.2,44.48,
+2025-07-18,Vivero Chimboco - SDC (GPRS),12.21,10.34,70.97,51.14,
+2025-07-18,Vivero Viloma - SDC (GPRS),11.59,10.44,76.79,45.49,
+2025-07-19, Paniagua_M (GPRS),15.86,14.43,99.92,72.97,
+2025-07-19,4 Esquinas (GPRS),-1.48,-3.45,79.36,34.82,
+2025-07-19,Aguadas (GPRS),-0.39,-2.35,78.65,33.13,
+2025-07-19,Aiquile (GPRS),9.64,6.18,81.6,36.73,
+2025-07-19,Alto Peñas (GPRS),4.43,0.86,83.7,51.96,
+2025-07-19,Anzaldo_M (GPRS),9.83,6.06,70.76,22.9,
+2025-07-19,Apolo_M (GPRS),13.96,12.22,99.98,61.86,
+2025-07-19,Camargo_M (GPRS),7.5,4.51,58.21,17.75,
+2025-07-19,Carura_M - Guanay (GPRS),17.42,16.73,98.89,75.34,
+2025-07-19,Chacala Iniaf (GPRS),3.6,1.1,65.2,46.4,
+2025-07-19,Chua Cocani_M (GPRS),3.11,0.56,93.4,80.6,2.7
+2025-07-19,Covendo_M (GPRS),17.58,16.59,99.91,78.13,
+2025-07-19,Cuatro Cañadas - CEA-2 (GPRS),14.59,12.7,65.64,41.6,
+2025-07-19,Desaguadero_M,5.87,2.66,92.1,66.19,
+2025-07-19,Huancane Corapata_M (GPRS),3.7,0.35,79.51,61.29,
+2025-07-19,Huarisuyo (GPRS),2.38,-0.86,91.4,65.59,
+2025-07-19,Incapampa - Coroico_M (GPRS),12.25,11.41,99.84,86.2,
+2025-07-19,Isla Suriqui_M (GPRS),4.23,2.98,93.6,79.87,1.4
+2025-07-19,Ixiamas S.(GPRS),16.6,15.9,78.6,53.2,
+2025-07-19,Jesús de Machaca_M (GPRS),0.81,-1.54,97.4,85.0,
+2025-07-19,Laguna Colorada (GPRS),-6.27,-10.35,66.63,42.51,
+2025-07-19,Mecapaca_M (GPRS),10.47,7.49,81.49,37.04,
+2025-07-19,Mizque - SDC (GPRS),12.22,8.81,85.0,49.71,
+2025-07-19,Omereque - SDC (GPRS),19.78,16.0,78.48,72.75,
+2025-07-19,Palos Blancos_M (GPRS),18.36,17.78,100.0,84.79,
+2025-07-19,Patacamaya I. (GPRS),3.2,0.8,90.5,55.7,
+2025-07-19,Peña Amarilla_H (SAT),,,,,0.2
+2025-07-19,Pocona - SDC (GPRS),7.35,4.03,83.4,35.69,
+2025-07-19,Pojo - SDC (GPRS),13.22,10.39,81.0,57.6,0.5
+2025-07-19,Presa Misicuni (GPRS),3.99,0.61,78.28,33.45,
+2025-07-19,Putucuni Calientes (GPRS),2.74,-0.88,56.13,43.05,
+2025-07-19,Quetenas (GPRS),-5.39,-9.73,54.55,22.24,
+2025-07-19,Río Chilenas (GPRS),7.39,-13.88,57.31,10.8,
+2025-07-19,Sacacani_M (GPRS),3.94,-0.54,82.9,61.85,
+2025-07-19,Salinas Iniaf (GPRS),3.6,-1.0,65.3,47.0,
+2025-07-19,Salo_M (GPRS),3.63,-4.08,54.71,18.07,
+2025-07-19,San Buenaventura_M (GPRS),18.96,17.05,82.96,51.27,
+2025-07-19,San Jacinto_M (GPRS),5.27,2.57,92.0,38.57,
+2025-07-19,San Julian - Comunidad Los Angeles (GPRS),16.05,14.93,65.23,41.57,
+2025-07-19,San Julian - Nucleo 32 (GPRS),14.24,12.93,69.43,51.94,
+2025-07-19,San Pablo de Lipez (GPRS),-2.35,-5.26,47.22,29.35,
+2025-07-19,San Pedro - San Antonio (GPRS),16.48,13.77,74.03,45.19,
+2025-07-19,San Pedro de Buena Vista (GPRS),12.79,11.17,61.75,37.42,
+2025-07-19,San Pedro de Tiquina_M (GPRS),4.34,2.71,86.7,76.49,2.4
+2025-07-19,Sauce Pilapata - SDC (GPRS),13.01,9.67,53.64,53.64,
+2025-07-19,Sultaca_M (GPRS),8.67,6.1,47.79,25.49,
+2025-07-19,Sunjani (GPRS),0.57,-1.4,77.87,31.86,
+2025-07-19,Templo (GPRS),3.15,-0.05,54.94,35.9,
+2025-07-19,Temporal - SDC (GPRS),11.33,8.76,69.53,37.25,
+2025-07-19,Tiraque_M (GPRS),8.78,5.96,48.82,31.51,
+2025-07-19,Toralapa Iniaf (GPRS),2.8,0.8,62.2,33.1,
+2025-07-19,Totora Qhocha_M,4.35,2.72,58.04,31.02,
+2025-07-19,Totora i_M (GPRS),6.37,4.01,38.76,18.29,
+2025-07-19,Viacha_M (GPRS),3.47,-0.79,95.0,60.4,
+2025-07-19,Vila Vila - SDC (GPRS),11.37,8.95,61.28,34.01,
+2025-07-19,Villa Rivero_M (GPRS),10.64,5.82,77.16,33.22,
+2025-07-19,Viscachas Chirage (GPRS),3.55,1.85,54.33,35.15,
+2025-07-19,Vivero Chimboco - SDC (GPRS),9.49,6.81,70.46,36.07,
+2025-07-19,Vivero Viloma - SDC (GPRS),12.88,9.5,71.59,43.61,
+2025-07-20, Paniagua_M (GPRS),17.47,16.26,99.94,70.66,
+2025-07-20,4 Esquinas (GPRS),0.28,-3.46,79.12,31.69,
+2025-07-20,Aguadas (GPRS),1.54,-1.33,70.16,32.72,
+2025-07-20,Aiquile (GPRS),11.25,6.49,63.28,27.13,
+2025-07-20,Alto Peñas (GPRS),3.8,0.57,64.65,51.46,0.3
+2025-07-20,Anzaldo_M (GPRS),8.49,4.29,53.14,23.54,
+2025-07-20,Apolo_M (GPRS),14.23,12.62,88.86,54.02,
+2025-07-20,Camargo_M (GPRS),12.88,8.56,55.77,16.07,
+2025-07-20,Carura_M - Guanay (GPRS),17.6,16.92,96.08,76.83,
+2025-07-20,Chacala Iniaf (GPRS),1.2,-1.4,79.7,42.7,
+2025-07-20,Chua Cocani_M (GPRS),2.72,2.2,96.8,79.28,
+2025-07-20,Covendo_M (GPRS),17.25,16.52,99.91,78.4,
+2025-07-20,Cuatro Cañadas - CEA-2 (GPRS),16.09,13.73,81.1,49.84,
+2025-07-20,Desaguadero_M,5.87,4.69,95.1,72.5,
+2025-07-20,Huancane Corapata_M (GPRS),4.16,1.24,87.1,60.35,
+2025-07-20,Huarisuyo (GPRS),1.82,0.71,96.0,63.31,0.1
+2025-07-20,Incapampa - Coroico_M (GPRS),13.72,12.27,99.82,79.37,0.1
+2025-07-20,Isla Suriqui_M (GPRS),4.23,2.53,96.6,74.0,
+2025-07-20,Ixiamas S.(GPRS),18.3,17.7,86.4,57.8,
+2025-07-20,Jesús de Machaca_M (GPRS),5.1,1.91,98.0,52.99,
+2025-07-20,Laguna Colorada (GPRS),-5.04,-11.27,64.62,44.7,
+2025-07-20,Mecapaca_M (GPRS),9.65,8.7,100.0,38.66,
+2025-07-20,Mizque - SDC (GPRS),11.75,7.57,75.37,38.8,
+2025-07-20,Omereque - SDC (GPRS),21.31,17.18,75.4,66.83,
+2025-07-20,Palos Blancos_M (GPRS),17.84,16.49,100.0,79.88,
+2025-07-20,Patacamaya I. (GPRS),4.7,3.0,85.8,26.8,
+2025-07-20,Pocona - SDC (GPRS),9.47,4.88,76.73,21.75,
+2025-07-20,Pojo - SDC (GPRS),14.45,11.96,53.83,30.23,
+2025-07-20,Presa Misicuni (GPRS),4.41,1.98,72.27,34.02,
+2025-07-20,Putucuni Calientes (GPRS),2.46,0.02,47.43,32.46,
+2025-07-20,Quetenas (GPRS),-4.4,-11.73,59.8,17.42,
+2025-07-20,Río Chilenas (GPRS),8.44,-15.13,61.05,4.21,
+2025-07-20,Sacacani_M (GPRS),3.34,0.87,83.9,40.0,
+2025-07-20,Salinas Iniaf (GPRS),4.1,-0.7,61.1,30.4,
+2025-07-20,Salo_M (GPRS),-0.82,-6.39,48.58,10.86,
+2025-07-20,San Buenaventura_M (GPRS),19.8,18.83,84.47,53.49,
+2025-07-20,San Jacinto_M (GPRS),7.2,4.14,98.4,50.66,
+2025-07-20,San Julian - Comunidad Los Angeles (GPRS),18.4,15.34,87.0,49.59,
+2025-07-20,San Julian - Nucleo 32 (GPRS),18.24,14.44,79.76,53.14,
+2025-07-20,San Pablo de Lipez (GPRS),-3.91,-6.14,38.19,15.58,
+2025-07-20,San Pedro - San Antonio (GPRS),16.79,14.14,85.3,58.55,
+2025-07-20,San Pedro de Buena Vista (GPRS),11.82,10.13,53.0,34.55,
+2025-07-20,San Pedro de Tiquina_M (GPRS),4.36,3.72,82.1,75.45,
+2025-07-20,Sauce Pilapata - SDC (GPRS),14.64,13.61,36.4,36.4,
+2025-07-20,Sultaca_M (GPRS),10.3,7.71,34.01,12.36,
+2025-07-20,Sunjani (GPRS),1.87,-0.18,59.98,29.01,
+2025-07-20,Templo (GPRS),3.58,0.59,49.33,32.33,
+2025-07-20,Temporal - SDC (GPRS),11.69,9.08,60.74,35.62,
+2025-07-20,Tiraque_M (GPRS),8.89,5.95,50.38,25.31,
+2025-07-20,Toralapa Iniaf (GPRS),2.7,-0.2,64.4,29.0,
+2025-07-20,Totora Qhocha_M,4.68,1.87,56.98,31.35,
+2025-07-20,Totora i_M (GPRS),6.04,1.22,36.25,10.5,
+2025-07-20,Viacha_M (GPRS),2.69,1.05,98.5,50.82,
+2025-07-20,Vila Vila - SDC (GPRS),14.39,12.29,38.61,17.84,
+2025-07-20,Villa Rivero_M (GPRS),10.43,5.1,78.85,25.91,
+2025-07-20,Viscachas Chirage (GPRS),4.08,2.7,46.59,29.3,
+2025-07-20,Vivero Chimboco - SDC (GPRS),8.83,6.04,68.14,30.84,
+2025-07-20,Vivero Viloma - SDC (GPRS),12.63,9.47,65.17,36.23,
+2025-07-21, Paniagua_M (GPRS),18.08,17.2,95.42,60.98,
+2025-07-21,4 Esquinas (GPRS),1.51,-3.19,84.4,19.76,
+2025-07-21,Aguadas (GPRS),1.54,-1.54,75.91,21.13,
+2025-07-21,Aiquile (GPRS),10.16,5.86,83.9,26.99,
+2025-07-21,Alto Peñas (GPRS),5.41,3.2,57.74,39.4,
+2025-07-21,Anzaldo_M (GPRS),7.6,4.38,64.54,19.01,
+2025-07-21,Apolo_M (GPRS),16.84,14.86,93.56,54.25,
+2025-07-21,Camargo_M (GPRS),8.13,5.09,37.3,7.24,
+2025-07-21,Carura_M - Guanay (GPRS),18.48,17.4,97.04,62.72,
+2025-07-21,Chacala Iniaf (GPRS),-3.7,-5.7,15.2,6.7,
+2025-07-21,Chua Cocani_M (GPRS),5.71,1.35,90.9,58.11,
+2025-07-21,Covendo_M (GPRS),17.88,16.88,99.89,68.88,
+2025-07-21,Cuatro Cañadas - CEA-2 (GPRS),18.26,16.04,71.8,49.34,
+2025-07-21,Desaguadero_M,5.47,-0.47,69.5,40.2,
+2025-07-21,Huancane Corapata_M (GPRS),2.05,0.94,84.3,42.18,
+2025-07-21,Huarisuyo (GPRS),0.27,-2.16,87.8,39.39,
+2025-07-21,Incapampa - Coroico_M (GPRS),14.93,13.12,99.82,78.06,
+2025-07-21,Isla Suriqui_M (GPRS),7.63,3.05,76.21,61.45,
+2025-07-21,Ixiamas S.(GPRS),19.8,18.8,94.7,80.3,
+2025-07-21,Jesús de Machaca_M (GPRS),-0.56,-5.38,86.9,34.01,
+2025-07-21,Laguna Colorada (GPRS),-8.62,-13.28,48.92,36.22,
+2025-07-21,Mecapaca_M (GPRS),9.42,8.06,64.47,24.04,
+2025-07-21,Mizque - SDC (GPRS),13.02,9.74,79.2,39.59,
+2025-07-21,Omereque - SDC (GPRS),22.4,18.56,73.37,68.31,
+2025-07-21,Palos Blancos_M (GPRS),19.74,17.8,100.0,73.55,
+2025-07-21,Patacamaya I. (GPRS),1.7,-2.1,49.5,24.1,
+2025-07-21,Pocona - SDC (GPRS),13.37,3.83,81.3,24.29,
+2025-07-21,Pojo - SDC (GPRS),13.47,10.91,65.7,30.9,
+2025-07-21,Presa Misicuni (GPRS),4.96,2.03,77.77,23.05,
+2025-07-21,Putucuni Calientes (GPRS),2.81,0.17,46.21,28.42,
+2025-07-21,Quetenas (GPRS),-4.27,-6.21,21.78,5.73,
+2025-07-21,Río Chilenas (GPRS),-6.36,-11.71,49.41,21.56,
+2025-07-21,Sacacani_M (GPRS),0.85,-3.67,55.94,29.38,
+2025-07-21,Salinas Iniaf (GPRS),3.7,-2.8,18.2,10.0,
+2025-07-21,Salo_M (GPRS),-0.78,-8.77,29.91,4.4,
+2025-07-21,San Buenaventura_M (GPRS),21.02,18.96,85.37,62.73,
+2025-07-21,San Jacinto_M (GPRS),5.79,2.95,93.8,37.8,
+2025-07-21,San Julian - Comunidad Los Angeles (GPRS),19.45,18.2,77.43,49.4,
+2025-07-21,San Julian - Nucleo 32 (GPRS),19.18,17.32,81.3,54.84,
+2025-07-21,San Pablo de Lipez (GPRS),-2.84,-5.96,11.02,5.78,
+2025-07-21,San Pedro - San Antonio (GPRS),18.31,16.41,90.6,63.71,
+2025-07-21,San Pedro de Buena Vista (GPRS),15.96,13.18,19.24,15.27,
+2025-07-21,San Pedro de Tiquina_M (GPRS),8.42,4.68,69.46,65.48,
+2025-07-21,Sauce Pilapata - SDC (GPRS),12.75,11.57,49.25,49.25,
+2025-07-21,Sultaca_M (GPRS),9.7,7.6,12.73,6.71,
+2025-07-21,Sunjani (GPRS),3.19,-0.85,63.9,20.06,
+2025-07-21,Templo (GPRS),4.28,1.04,47.72,22.18,
+2025-07-21,Temporal - SDC (GPRS),15.18,11.38,49.08,17.86,
+2025-07-21,Tiraque_M (GPRS),10.48,6.45,48.85,16.14,
+2025-07-21,Toralapa Iniaf (GPRS),4.6,1.4,62.5,17.5,
+2025-07-21,Totora Qhocha_M,5.73,2.78,77.92,21.9,
+2025-07-21,Totora i_M (GPRS),2.43,-2.28,17.28,4.99,
+2025-07-21,Viacha_M (GPRS),-0.64,-4.84,78.19,30.45,
+2025-07-21,Vila Vila - SDC (GPRS),14.92,10.02,53.45,13.61,
+2025-07-21,Villa Rivero_M (GPRS),11.57,5.34,53.4,18.79,
+2025-07-21,Viscachas Chirage (GPRS),6.13,3.1,55.73,20.19,
+2025-07-21,Vivero Chimboco - SDC (GPRS),12.19,7.05,52.66,21.99,
+2025-07-21,Vivero Viloma - SDC (GPRS),17.64,10.37,46.71,3.22,
