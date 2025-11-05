@@ -12,7 +12,7 @@ BASE_HEADERS = {
 }
 
 STATIONS_URL = BASE_URL + '/pronjsondiario.php'
-FORECAST_URL = BASE_URL + '/pronosticoJson.php'
+FORECAST_URL = BASE_URL + '/pronosticojson.php'
 
 
 ###############################################################################
