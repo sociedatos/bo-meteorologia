@@ -70821,6 +70821,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-24,Cañas,32.0,15.0,,,
 2024-11-24,Chaqui,21.4,8.9,,,
 2024-11-24,Chasqui (Escoma),,,,,14.0
+2024-11-24,Chillca,24.4,7.5,,,10.5
 2024-11-24,Chinchaya,,,,,9.2
 2024-11-24,Chinoli,24.1,7.2,,,
 2024-11-24,Chipaya - GPRS,21.1,7.2,,,5.0
@@ -70987,6 +70988,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-24,Tiraque,23.0,7.0,,,
 2024-11-24,Tiraque_M (GPRS),11.14,11.14,89.1,89.1,16.8
 2024-11-24,Todos Santos_Or,,5.0,,,
+2024-11-24,Toledo (GPRS),,,82.0,38.34,
 2024-11-24,Toma Ravelo_M (GPRS),,,,,12.0
 2024-11-24,Tomave,22.5,7.0,,,
 2024-11-24,Totora Qhocha_M,14.25,8.48,87.7,65.26,5.6
@@ -71052,6 +71054,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-25,Cañas,33.0,17.0,,,
 2024-11-25,Chaqui,25.1,6.6,,,
 2024-11-25,Chasqui (Escoma),,,,,3.0
+2024-11-25,Chillca,24.0,7.0,,,3.5
 2024-11-25,Chinchaya,,,,,9.0
 2024-11-25,Chinoli,27.2,7.2,,,
 2024-11-25,Chipaya - GPRS,23.4,8.9,,,5.9
@@ -71177,6 +71180,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-25,San Pedro de Tiquina_M (GPRS),,,,,0.7
 2024-11-25,San Roque - El Alto (GPRS),21.15,7.16,92.2,38.85,1.2
 2024-11-25,Santa Ana - Yacuma,27.0,27.0,82.9,82.9,
+2024-11-25,Santa Cruz SENAMHI,,,,,0.5
 2024-11-25,Santiago de Huata,21.0,5.0,,,3.2
 2024-11-25,Santivañez,34.4,8.9,,,
 2024-11-25,Sara Ana,37.0,23.0,,,
@@ -71203,6 +71207,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-25,Tiraque,26.0,8.0,,,
 2024-11-25,Tiraque_M (GPRS),14.89,14.89,64.58,64.58,
 2024-11-25,Todos Santos_Or,,4.0,,,11.5
+2024-11-25,Toledo (GPRS),,,80.1,25.39,7.3
 2024-11-25,Toma Ravelo_M (GPRS),23.39,11.82,89.0,41.15,
 2024-11-25,Tomave,22.0,6.1,,,
 2024-11-25,Totora Qhocha_M,18.45,10.12,90.8,47.89,
@@ -71269,6 +71274,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-26,Cañas,34.0,13.0,,,24.0
 2024-11-26,Chaqui,22.3,8.6,,,
 2024-11-26,Chasqui (Escoma),,,,,6.0
+2024-11-26,Chillca,24.2,3.4,,,
 2024-11-26,Chinchaya,,,,,10.0
 2024-11-26,Chinoli,24.1,6.4,,,
 2024-11-26,Chipaya - GPRS,23.4,8.6,,,3.0
@@ -71426,6 +71432,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-26,Tiraque,27.0,6.0,,,
 2024-11-26,Tiraque_M (GPRS),12.59,12.59,73.82,73.82,
 2024-11-26,Todos Santos_Or,,2.0,,,
+2024-11-26,Toledo (GPRS),,,86.1,25.08,1.4
 2024-11-26,Toma Ravelo_M (GPRS),22.6,11.69,83.9,41.66,
 2024-11-26,Tomave,23.5,6.5,,,1.2
 2024-11-26,Totora Qhocha_M,17.72,9.86,76.72,47.07,
@@ -71493,6 +71500,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-27,Cayarani,,,,,0.8
 2024-11-27,Cañas,32.0,16.0,,,32.0
 2024-11-27,Chaqui,22.9,8.2,,,
+2024-11-27,Chillca,24.1,4.6,,,
 2024-11-27,Chinchaya,,,,,10.2
 2024-11-27,Chinoli,23.1,6.2,,,
 2024-11-27,Chipaya - GPRS,23.9,7.1,,,
@@ -71654,6 +71662,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-27,Tiraque,26.0,7.0,,,
 2024-11-27,Tiraque_M (GPRS),12.88,12.88,73.3,73.3,
 2024-11-27,Todos Santos_Or,,3.5,,,
+2024-11-27,Toledo (GPRS),,,73.16,27.35,
 2024-11-27,Toma Ravelo_M (GPRS),23.79,12.16,88.6,25.98,
 2024-11-27,Tomave,25.0,4.5,,,1.5
 2024-11-27,Totora Qhocha_M,16.54,9.4,86.4,54.76,
@@ -71722,6 +71731,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-28,Cañas,33.0,17.0,,,33.5
 2024-11-28,Chaqui,21.7,8.3,,,6.6
 2024-11-28,Chasqui (Escoma),,,,,9.0
+2024-11-28,Chillca,24.0,3.0,,,
 2024-11-28,Chinchaya,,,,,6.0
 2024-11-28,Chinoli,23.2,7.1,,,
 2024-11-28,Chipaya - GPRS,23.8,6.7,,,
@@ -71882,6 +71892,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-28,Tiraque,,,,,15.5
 2024-11-28,Tiraque_M (GPRS),11.26,11.26,78.48,78.48,0.9
 2024-11-28,Todos Santos_Or,,4.5,,,
+2024-11-28,Toledo (GPRS),,,78.12,25.06,
 2024-11-28,Toma Ravelo_M (GPRS),,,,,2.2
 2024-11-28,Tomave,24.4,5.5,,,
 2024-11-28,Totora Qhocha_M,16.09,6.13,97.0,55.25,0.2
@@ -71956,6 +71967,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-29,Cañas,32.0,18.0,,,18.0
 2024-11-29,Chaqui,20.4,8.0,,,1.3
 2024-11-29,Chasqui (Escoma),,,,,11.0
+2024-11-29,Chillca,22.7,4.0,,,
 2024-11-29,Chinchaya,,,,,7.0
 2024-11-29,Chinoli,24.1,6.4,,,
 2024-11-29,Chipaya - GPRS,23.0,8.2,,,4.2
@@ -72125,6 +72137,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-29,Tiraque,,,,,3.5
 2024-11-29,Tiraque_M (GPRS),11.11,11.11,88.3,88.3,6.3
 2024-11-29,Todos Santos_Or,,2.5,,,
+2024-11-29,Toledo (GPRS),,,81.9,24.35,0.9
 2024-11-29,Toma Ravelo_M (GPRS),,,,,0.8
 2024-11-29,Tomave,22.0,5.0,,,
 2024-11-29,Totora Qhocha_M,14.91,7.76,97.3,51.05,1.2
@@ -72197,6 +72210,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-30,Catacora,,,,,5.2
 2024-11-30,Cañas,28.0,16.0,,,18.0
 2024-11-30,Chaqui,19.3,6.6,,,
+2024-11-30,Chillca,22.3,5.0,,,28.7
 2024-11-30,Chinchaya,,,,,6.0
 2024-11-30,Chinoli,24.2,7.1,,,
 2024-11-30,Chipaya - GPRS,22.3,5.6,,,2.1
@@ -72357,6 +72371,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-11-30,Tiraque,,,,,2.0
 2024-11-30,Tiraque_M (GPRS),13.85,13.85,66.8,66.8,0.1
 2024-11-30,Todos Santos_Or,,2.0,,,
+2024-11-30,Toledo (GPRS),,,95.6,26.68,5.2
 2024-11-30,Toma Ravelo_M (GPRS),,,,,0.4
 2024-11-30,Tomave,25.0,4.5,,,
 2024-11-30,Totora Qhocha_M,15.64,9.2,92.8,54.88,
@@ -72430,6 +72445,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-01,Cañas,,,,,18.0
 2024-12-01,Chaqui,22.1,5.9,,,
 2024-12-01,Chasqui (Escoma),,,,,8.0
+2024-12-01,Chillca,21.4,4.4,,,8.3
 2024-12-01,Chinchaya,,,,,30.2
 2024-12-01,Chinoli,23.1,7.2,,,4.1
 2024-12-01,Chipaya - GPRS,23.1,7.0,71.8,18.2,
@@ -72592,6 +72608,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-01,Tiraque,23.0,6.0,,,10.0
 2024-12-01,Tiraque_M (GPRS),20.75,11.24,83.6,40.05,12.8
 2024-12-01,Todos Santos_Or,,6.5,,,
+2024-12-01,Toledo (GPRS),,,88.3,28.61,7.8
 2024-12-01,Toma Ravelo_M (GPRS),,,,,3.9
 2024-12-01,Tomave,18.0,5.0,,,0.3
 2024-12-01,Totora Qhocha_M,16.94,8.94,85.8,53.66,4.6
@@ -72662,6 +72679,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-02,Cañas,34.0,16.0,,,
 2024-12-02,Chaqui,20.1,6.3,,,0.4
 2024-12-02,Chasqui (Escoma),,,,,6.0
+2024-12-02,Chillca,18.0,3.2,,,8.7
 2024-12-02,Chinchaya,,,,,6.1
 2024-12-02,Chinoli,22.1,7.2,,,
 2024-12-02,Chipaya - GPRS,24.7,6.6,38.2,16.5,
@@ -72822,6 +72840,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-02,Tiraque,25.0,7.0,,,
 2024-12-02,Tiraque_M (GPRS),19.44,10.03,87.3,47.72,
 2024-12-02,Todos Santos_Or,,5.5,,,
+2024-12-02,Toledo (GPRS),,,93.5,29.86,9.8
 2024-12-02,Toma Ravelo_M (GPRS),18.8,11.0,91.3,59.74,
 2024-12-02,Tomave,22.5,6.5,,,5.5
 2024-12-02,Totora Qhocha_M,16.02,7.37,97.7,51.73,
@@ -72897,6 +72916,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-03,Chaqui,18.9,6.2,,,0.3
 2024-12-03,Charazani (GPRS),17.91,11.53,,,
 2024-12-03,Chasqui (Escoma),,,,,14.0
+2024-12-03,Chillca,17.4,4.2,,,
 2024-12-03,Chinchaya,,,,,53.0
 2024-12-03,Chinoli,21.1,7.1,,,
 2024-12-03,Chipaya - GPRS,21.1,7.7,21.6,6.4,
@@ -73046,6 +73066,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-03,San Pedro de Tiquina_M (GPRS),,,,,14.2
 2024-12-03,San Roque - El Alto (GPRS),17.15,6.25,97.5,40.59,12.2
 2024-12-03,Santa Ana - Yacuma,27.0,27.0,82.9,82.9,
+2024-12-03,Santa Cruz SENAMHI,,,,,56.6
 2024-12-03,Santiago de Huata,,,,,11.3
 2024-12-03,Santivañez,34.4,3.3,,,
 2024-12-03,Sara Ana,23.0,23.0,,,
@@ -73074,6 +73095,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-03,Tiraque,22.0,5.0,,,12.5
 2024-12-03,Tiraque_M (GPRS),10.42,10.42,81.5,81.5,0.1
 2024-12-03,Todos Santos_Or,,4.0,,,
+2024-12-03,Toledo (GPRS),,,90.4,28.71,
 2024-12-03,Toma Ravelo_M (GPRS),,,,,5.4
 2024-12-03,Tomave,25.0,4.0,,,
 2024-12-03,Totora Qhocha_M,12.22,7.24,87.8,59.68,
@@ -73145,6 +73167,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-04,Chaqui,23.2,5.4,,,
 2024-12-04,Charazani (GPRS),18.19,11.06,99.97,69.3,
 2024-12-04,Chasqui (Escoma),,,,,18.0
+2024-12-04,Chillca,20.2,2.1,,,
 2024-12-04,Chinchaya,,,,,7.0
 2024-12-04,Chinoli,24.2,6.4,,,
 2024-12-04,Chipaya - GPRS,22.8,2.0,21.7,11.6,
@@ -73276,6 +73299,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-04,San Pedro de Tiquina_M (GPRS),15.62,10.71,74.58,48.8,
 2024-12-04,San Roque - El Alto (GPRS),18.07,6.05,92.4,31.71,3.2
 2024-12-04,Santa Ana - Yacuma,22.0,22.0,99.1,99.1,
+2024-12-04,Santa Cruz SENAMHI,,,,,1.2
 2024-12-04,Santiago de Huata,,,,,3.2
 2024-12-04,Santivañez,32.2,4.4,,,
 2024-12-04,Sara Ana,24.5,23.0,,,
@@ -73300,6 +73324,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-04,Tiraque,27.0,8.0,,,
 2024-12-04,Tiraque_M (GPRS),13.31,13.31,67.89,67.89,1.2
 2024-12-04,Todos Santos_Or,,6.0,,,
+2024-12-04,Toledo (GPRS),,,62.87,10.82,
 2024-12-04,Toma Ravelo_M (GPRS),,,,,0.1
 2024-12-04,Tomave,25.1,2.5,,,
 2024-12-04,Totora Qhocha_M,18.45,6.65,95.5,30.53,
@@ -73358,6 +73383,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-05,Chaqui,25.3,6.8,,,
 2024-12-05,Charazani (GPRS),19.17,10.34,,,
 2024-12-05,Chasqui (Escoma),,,,,9.0
+2024-12-05,Chillca,21.4,2.3,,,
 2024-12-05,Chinoli,26.1,7.1,,,
 2024-12-05,Chipaya - GPRS,23.9,3.1,27.1,5.3,
 2024-12-05,Chirapaca,18.0,3.8,,,
@@ -73489,6 +73515,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-05,Tiraque,26.0,7.0,,,
 2024-12-05,Tiraque_M (GPRS),13.65,13.65,66.02,66.02,
 2024-12-05,Todos Santos_Or,,5.0,,,
+2024-12-05,Toledo (GPRS),,,51.8,15.25,
 2024-12-05,Toma Ravelo_M (GPRS),22.32,11.49,86.9,34.43,
 2024-12-05,Tomave,25.5,1.5,,,
 2024-12-05,Totora Qhocha_M,18.31,10.18,86.1,42.0,
@@ -73552,6 +73579,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-06,Chaqui,26.9,6.1,,,
 2024-12-06,Charazani (GPRS),20.55,12.91,97.34,60.66,
 2024-12-06,Chasqui (Escoma),,,,,7.0
+2024-12-06,Chillca,21.1,4.4,,,
 2024-12-06,Chinchaya,,,,,7.0
 2024-12-06,Chinoli,28.2,7.2,,,
 2024-12-06,Chipaya - GPRS,24.3,3.6,17.1,7.8,
@@ -73683,6 +73711,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-06,San Pedro de Tiquina_M (GPRS),16.22,10.71,66.66,37.2,
 2024-12-06,San Roque - El Alto (GPRS),18.38,12.05,66.43,42.82,0.4
 2024-12-06,Santa Ana - Yacuma,26.0,26.0,93.4,93.4,
+2024-12-06,Santa Cruz SENAMHI,,,,,1.2
 2024-12-06,Santiago de Huata,,,,,1.6
 2024-12-06,Santivañez,34.4,6.7,,,
 2024-12-06,Sara Ana,31.0,22.5,,,
@@ -73708,6 +73737,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-06,Tiraque,24.0,6.0,,,7.0
 2024-12-06,Tiraque_M (GPRS),15.24,15.24,62.58,62.58,
 2024-12-06,Todos Santos_Or,,3.5,,,
+2024-12-06,Toledo (GPRS),,,52.95,11.59,
 2024-12-06,Toma Ravelo_M (GPRS),24.23,13.75,80.2,31.03,
 2024-12-06,Tomave,25.2,1.6,,,
 2024-12-06,Totora Qhocha_M,19.1,9.47,94.5,44.61,
@@ -73775,6 +73805,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-07,Cayarani,,,,,17.4
 2024-12-07,Cañas,33.5,16.0,,,
 2024-12-07,Chaqui,20.0,9.9,,,
+2024-12-07,Chillca,20.0,4.4,,,
 2024-12-07,Chinchaya,,,,,15.0
 2024-12-07,Chinoli,24.1,7.3,,,
 2024-12-07,Chipaya - GPRS,24.4,7.0,24.7,19.0,
@@ -73906,6 +73937,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-07,San Pedro de Tiquina_M (GPRS),14.64,7.89,84.3,56.22,
 2024-12-07,San Roque - El Alto (GPRS),17.89,6.47,91.5,44.17,
 2024-12-07,Santa Ana - Yacuma,26.0,26.0,87.9,87.9,
+2024-12-07,Santa Cruz SENAMHI,,,,,3.0
 2024-12-07,Santiago de Huata,19.0,6.0,,,
 2024-12-07,Santiago de Machaca,,,,,0.5
 2024-12-07,Santivañez,,,,,11.7
@@ -73931,6 +73963,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-07,Tiraque,23.0,7.0,,,13.5
 2024-12-07,Tiraque_M (GPRS),9.09,9.09,87.9,87.9,10.9
 2024-12-07,Todos Santos_Or,,5.5,,,
+2024-12-07,Toledo (GPRS),,,70.35,28.96,
 2024-12-07,Toma Ravelo_M (GPRS),,,,,0.5
 2024-12-07,Tomave,25.0,5.5,,,
 2024-12-07,Totora Qhocha_M,13.53,7.04,99.1,58.86,8.8
@@ -73997,6 +74030,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-08,Cayarani,,,,,27.4
 2024-12-08,Cañas,,,,,3.5
 2024-12-08,Chaqui,22.6,6.6,,,
+2024-12-08,Chillca,19.7,3.3,,,
 2024-12-08,Chinchaya,,,,,6.0
 2024-12-08,Chinoli,22.1,8.1,,,
 2024-12-08,Chipaya - GPRS,25.5,6.1,36.8,9.1,
@@ -74162,6 +74196,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-08,Tiraque,26.0,8.0,,,2.0
 2024-12-08,Tiraque_M (GPRS),10.51,10.51,88.3,88.3,1.6
 2024-12-08,Todos Santos_Or,,4.5,,,
+2024-12-08,Toledo (GPRS),,,92.2,18.08,9.7
 2024-12-08,Toma Ravelo_M (GPRS),,,,,4.4
 2024-12-08,Tomave,25.8,7.0,,,
 2024-12-08,Totora Qhocha_M,12.52,8.74,91.2,67.72,0.8
@@ -74235,6 +74270,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-09,Cañas,23.0,16.0,,,
 2024-12-09,Chaqui,24.4,6.3,,,2.1
 2024-12-09,Chasqui (Escoma),,,,,15.0
+2024-12-09,Chillca,19.2,1.0,,,
 2024-12-09,Chinchaya,,,,,14.7
 2024-12-09,Chinoli,21.2,9.1,,,
 2024-12-09,Chipaya - GPRS,25.3,10.5,52.8,8.3,
@@ -74375,6 +74411,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-09,San Pedro de Tiquina_M (GPRS),,,,,12.5
 2024-12-09,San Roque - El Alto (GPRS),16.2,4.98,98.1,57.67,4.0
 2024-12-09,Santa Ana - Yacuma,24.0,24.0,93.3,93.3,
+2024-12-09,Santa Cruz SENAMHI,,,,,76.8
 2024-12-09,Santiago de Huata,,,,,3.0
 2024-12-09,Santiago de Machaca,,,,,1.5
 2024-12-09,Santivañez,31.1,12.2,,,
@@ -74401,6 +74438,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-09,Tiraque,27.0,8.0,,,5.0
 2024-12-09,Tiraque_M (GPRS),14.57,14.57,57.61,57.61,
 2024-12-09,Todos Santos_Or,,2.5,,,
+2024-12-09,Toledo (GPRS),,,77.53,23.84,
 2024-12-09,Toma Ravelo_M (GPRS),,,,,1.5
 2024-12-09,Tomave,25.4,8.0,,,
 2024-12-09,Totora Qhocha_M,15.1,10.12,91.7,66.44,
@@ -74472,6 +74510,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-10,Cañas,,,,,2.0
 2024-12-10,Chaqui,22.1,7.3,,,
 2024-12-10,Chasqui (Escoma),,,,,11.0
+2024-12-10,Chillca,20.4,0.7,,,
 2024-12-10,Chinchaya,,,,,6.0
 2024-12-10,Chinoli,22.4,8.2,,,
 2024-12-10,Chipaya - GPRS,23.8,7.8,47.4,22.0,
@@ -74603,6 +74642,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-10,San Pedro de Tiquina_M (GPRS),,,,,1.0
 2024-12-10,San Roque - El Alto (GPRS),20.68,7.04,93.0,30.83,
 2024-12-10,Santa Ana - Yacuma,27.0,27.0,88.0,88.0,
+2024-12-10,Santa Cruz SENAMHI,,,,,4.2
 2024-12-10,Santiago de Huata,20.0,6.0,,,
 2024-12-10,Santivañez,32.2,16.7,,,
 2024-12-10,Sara Ana,29.0,24.5,,,
@@ -74627,6 +74667,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-10,Tiraque,25.0,6.0,,,12.5
 2024-12-10,Tiraque_M (GPRS),10.91,10.91,72.7,72.7,2.4
 2024-12-10,Todos Santos_Or,,0.0,,,0.3
+2024-12-10,Toledo (GPRS),,,70.02,20.34,
 2024-12-10,Toma Ravelo_M (GPRS),18.87,11.77,89.0,49.33,
 2024-12-10,Tomave,25.0,5.5,,,
 2024-12-10,Totora Qhocha_M,14.51,7.11,93.3,59.06,6.4
@@ -74693,6 +74734,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-11,Cañas,32.0,17.0,,,
 2024-12-11,Chaqui,24.8,5.7,,,
 2024-12-11,Chasqui (Escoma),,,,,5.0
+2024-12-11,Chillca,20.7,1.3,,,
 2024-12-11,Chinoli,23.1,7.4,,,
 2024-12-11,Chipaya - GPRS,26.0,6.3,43.5,10.8,
 2024-12-11,Chirapaca,17.8,4.2,,,3.2
@@ -74816,6 +74858,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-11,San Pedro de Tiquina_M (GPRS),,,,,13.0
 2024-12-11,San Roque - El Alto (GPRS),19.68,4.07,82.5,36.33,
 2024-12-11,Santa Ana - Yacuma,25.0,25.0,99.1,99.1,
+2024-12-11,Santa Cruz SENAMHI,,,,,1.2
 2024-12-11,Santiago de Huata,19.0,3.0,,,
 2024-12-11,Santiago de Machaca,,,,,7.0
 2024-12-11,Santivañez,,,,,17.8
@@ -74842,6 +74885,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-11,Tiraque,27.0,8.0,,,
 2024-12-11,Tiraque_M (GPRS),12.68,12.68,68.25,68.25,0.3
 2024-12-11,Todos Santos_Or,,1.5,,,
+2024-12-11,Toledo (GPRS),,,69.85,15.98,
 2024-12-11,Toma Ravelo_M (GPRS),,,,,1.1
 2024-12-11,Tomave,26.0,4.0,,,1.5
 2024-12-11,Totora Qhocha_M,17.86,9.73,86.7,39.39,
@@ -74906,6 +74950,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-12,Cañas,33.0,15.0,,,
 2024-12-12,Chaqui,22.7,5.9,,,
 2024-12-12,Chasqui (Escoma),,,,,2.0
+2024-12-12,Chillca,21.1,2.1,,,
 2024-12-12,Chinchaya,,,,,61.0
 2024-12-12,Chinoli,24.2,8.1,,,
 2024-12-12,Chipaya - GPRS,25.3,6.1,47.7,10.7,
@@ -75054,6 +75099,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-12,Tiraque,25.0,7.0,,,
 2024-12-12,Tiraque_M (GPRS),13.58,13.58,66.15,66.15,
 2024-12-12,Todos Santos_Or,,4.5,,,
+2024-12-12,Toledo (GPRS),,,72.85,23.96,0.4
 2024-12-12,Toma Ravelo_M (GPRS),21.95,14.15,76.76,30.84,
 2024-12-12,Tomave,25.0,4.8,,,0.5
 2024-12-12,Totora Qhocha_M,17.4,8.39,87.9,33.96,
@@ -75122,6 +75168,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-13,Cañas,33.0,16.0,,,
 2024-12-13,Chaqui,25.3,5.6,,,
 2024-12-13,Chasqui (Escoma),,,,,12.0
+2024-12-13,Chillca,20.5,1.2,,,
 2024-12-13,Chinoli,21.4,7.4,,,
 2024-12-13,Chipaya - GPRS,23.7,2.8,23.1,8.2,
 2024-12-13,Chirapaca,16.2,2.0,,,
@@ -75274,6 +75321,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-13,Tiraque,27.0,10.0,,,
 2024-12-13,Tiraque_M (GPRS),15.15,15.15,58.33,58.33,
 2024-12-13,Todos Santos_Or,,5.5,,,
+2024-12-13,Toledo (GPRS),,,61.04,14.31,
 2024-12-13,Toma Ravelo_M (GPRS),24.11,11.71,91.0,31.75,
 2024-12-13,Tomave,25.4,6.5,,,
 2024-12-13,Totora Qhocha_M,16.48,8.22,93.7,54.75,
@@ -75343,6 +75391,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-14,Cañas,33.0,15.0,,,
 2024-12-14,Chaqui,17.9,9.7,,,
 2024-12-14,Chasqui (Escoma),,,,,8.0
+2024-12-14,Chillca,18.0,4.7,,,
 2024-12-14,Chinoli,19.2,8.1,,,
 2024-12-14,Chipaya - GPRS,22.6,4.1,16.5,3.0,
 2024-12-14,Chirapaca,17.4,3.1,,,
@@ -75474,6 +75523,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-14,San Pedro de Tiquina_M (GPRS),15.69,10.27,78.07,35.04,
 2024-12-14,San Roque - El Alto (GPRS),17.74,3.96,97.9,27.71,
 2024-12-14,Santa Ana - Yacuma,26.0,26.0,87.9,87.9,
+2024-12-14,Santa Cruz SENAMHI,,,,,17.5
 2024-12-14,Santiago de Huata,,,,,4.5
 2024-12-14,Santiago de Machaca,,,,,9.5
 2024-12-14,Santivañez,30.0,8.9,,,
@@ -75501,6 +75551,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-14,Tiraque,24.0,7.0,,,
 2024-12-14,Tiraque_M (GPRS),9.86,9.86,80.7,80.7,0.4
 2024-12-14,Todos Santos_Or,,7.0,,,
+2024-12-14,Toledo (GPRS),,,65.05,6.78,
 2024-12-14,Toma Ravelo_M (GPRS),,,,,9.3
 2024-12-14,Tomave,26.0,5.5,,,
 2024-12-14,Totora Qhocha_M,14.43,7.76,92.6,63.36,
@@ -75563,6 +75614,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-15,Cañas,26.0,15.0,,,
 2024-12-15,Chaqui,14.8,8.9,,,4.9
 2024-12-15,Charazani (GPRS),14.69,8.86,,,
+2024-12-15,Chillca,19.0,3.1,,,3.5
 2024-12-15,Chinchaya,,,,,13.8
 2024-12-15,Chinoli,18.1,8.2,,,
 2024-12-15,Chipaya - GPRS,23.0,1.9,16.5,3.8,
@@ -75701,6 +75753,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-15,Tiraque,25.0,8.0,,,
 2024-12-15,Tiraque_M (GPRS),11.36,11.36,76.11,76.11,0.1
 2024-12-15,Todos Santos_Or,,6.0,,,
+2024-12-15,Toledo (GPRS),,,70.09,16.25,
 2024-12-15,Toma Ravelo_M (GPRS),,,,,3.8
 2024-12-15,Tomave,24.1,3.0,,,
 2024-12-15,Totora Qhocha_M,13.07,7.1,92.3,69.48,
@@ -75764,6 +75817,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-16,Chaqui,17.8,6.9,,,
 2024-12-16,Charazani (GPRS),12.1,8.48,99.98,84.64,0.2
 2024-12-16,Chasqui (Escoma),,,,,11.0
+2024-12-16,Chillca,19.4,2.0,,,7.5
 2024-12-16,Chinchaya,,,,,6.5
 2024-12-16,Chinoli,20.4,8.1,,,
 2024-12-16,Chipaya - GPRS,23.1,5.2,49.7,3.4,
@@ -75916,6 +75970,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-16,Tiraque,27.0,10.0,,,
 2024-12-16,Tiraque_M (GPRS),19.24,7.59,84.0,44.81,
 2024-12-16,Todos Santos_Or,,5.0,,,
+2024-12-16,Toledo (GPRS),,,66.5,14.51,
 2024-12-16,Toma Ravelo_M (GPRS),15.54,10.94,74.03,60.94,
 2024-12-16,Tomave,21.0,2.2,,,
 2024-12-16,Totora Qhocha_M,12.48,6.32,90.5,65.12,0.6
@@ -75975,6 +76030,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-17,Cayarani,,,,,0.6
 2024-12-17,Cañas,27.0,17.0,,,
 2024-12-17,Chaqui,18.9,6.1,,,
+2024-12-17,Chillca,20.7,0.5,,,
 2024-12-17,Chinoli,21.2,8.2,,,
 2024-12-17,Chipaya - GPRS,24.5,5.6,44.2,12.5,
 2024-12-17,Chirapaca,16.8,2.4,,,
@@ -76114,6 +76170,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-17,Tiraque,26.0,8.0,,,
 2024-12-17,Tiraque_M (GPRS),12.21,12.21,58.45,58.45,
 2024-12-17,Todos Santos_Or,,6.5,,,
+2024-12-17,Toledo (GPRS),,,61.25,20.76,2.7
 2024-12-17,Toma Ravelo_M (GPRS),17.95,9.98,85.6,53.15,
 2024-12-17,Tomave,21.5,3.0,,,
 2024-12-17,Totora Qhocha_M,14.8,6.58,91.1,58.54,
@@ -76174,6 +76231,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-18,Cañas,29.0,15.0,,,
 2024-12-18,Chaqui,22.4,6.4,,,
 2024-12-18,Chasqui (Escoma),,,,,0.5
+2024-12-18,Chillca,24.0,7.4,,,
 2024-12-18,Chinchaya,,,,,7.3
 2024-12-18,Chinoli,21.4,8.3,,,
 2024-12-18,Chipaya - GPRS,24.9,8.7,34.5,11.7,
@@ -76324,6 +76382,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-18,Tiraque,24.0,7.0,,,
 2024-12-18,Tiraque_M (GPRS),13.85,13.85,51.15,51.15,
 2024-12-18,Todos Santos_Or,,4.5,,,
+2024-12-18,Toledo (GPRS),,,70.63,22.75,
 2024-12-18,Toma Ravelo_M (GPRS),22.51,10.84,89.3,34.18,
 2024-12-18,Tomave,25.2,4.5,,,
 2024-12-18,Totora Qhocha_M,17.4,8.36,91.4,36.32,
@@ -76392,6 +76451,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-19,Cañas,35.0,13.0,,,
 2024-12-19,Chaqui,20.8,6.7,,,19.3
 2024-12-19,Chasqui (Escoma),,,,,2.5
+2024-12-19,Chillca,21.3,1.0,,,
 2024-12-19,Chinchaya,,,,,8.0
 2024-12-19,Chinoli,22.4,8.1,,,
 2024-12-19,Chipaya - GPRS,24.1,3.8,27.7,4.2,
@@ -76553,6 +76613,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-19,Tiraque,26.0,9.0,,,
 2024-12-19,Tiraque_M (GPRS),14.18,14.18,57.82,57.82,
 2024-12-19,Todos Santos_Or,,6.0,,,
+2024-12-19,Toledo (GPRS),,,72.17,27.02,
 2024-12-19,Toma Ravelo_M (GPRS),,,,,3.6
 2024-12-19,Tomave,26.0,6.0,,,
 2024-12-19,Totora Qhocha_M,16.08,6.91,96.1,48.23,
@@ -76626,6 +76687,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-20,Cayarani,,,,,12.1
 2024-12-20,Cañas,23.0,12.0,,,
 2024-12-20,Chaqui,18.8,7.7,,,
+2024-12-20,Chillca,17.5,2.0,,,12.5
 2024-12-20,Chinchaya,,,,,7.3
 2024-12-20,Chinoli,23.1,8.2,,,
 2024-12-20,Chipaya - GPRS,22.6,7.4,27.0,5.0,
@@ -76764,6 +76826,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-20,San Pedro de Tiquina_M (GPRS),,,,,1.9
 2024-12-20,San Roque - El Alto (GPRS),16.34,5.08,93.3,42.44,9.0
 2024-12-20,Santa Ana - Yacuma,28.0,28.0,83.0,83.0,
+2024-12-20,Santa Cruz SENAMHI,,,,,60.8
 2024-12-20,Santiago de Huata,,,,,5.8
 2024-12-20,Santiago de Machaca,,,,,3.7
 2024-12-20,Santivañez,,,,,15.7
@@ -76792,6 +76855,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-20,Tiraque,24.0,7.0,,,26.5
 2024-12-20,Tiraque_M (GPRS),9.06,9.06,90.5,90.5,8.7
 2024-12-20,Todos Santos_Or,,5.5,,,
+2024-12-20,Toledo (GPRS),,,61.26,21.18,
 2024-12-20,Toma Ravelo_M (GPRS),,,,,10.6
 2024-12-20,Tomave,25.6,6.5,,,
 2024-12-20,Totora Qhocha_M,15.63,7.04,99.4,51.56,10.6
@@ -76863,6 +76927,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-21,Cañas,34.0,15.0,,,
 2024-12-21,Chaqui,20.9,4.7,,,
 2024-12-21,Chasqui (Escoma),,,,,5.8
+2024-12-21,Chillca,18.1,2.4,,,
 2024-12-21,Chinoli,22.1,8.1,,,10.1
 2024-12-21,Chipaya - GPRS,23.9,5.2,25.8,2.3,
 2024-12-21,Chirapaca,18.2,4.2,,,
@@ -76985,6 +77050,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-21,San Pedro de Tiquina_M (GPRS),,,,,0.5
 2024-12-21,San Roque - El Alto (GPRS),17.87,4.86,93.4,40.95,3.8
 2024-12-21,Santa Ana - Yacuma,28.0,28.0,83.0,83.0,
+2024-12-21,Santa Cruz SENAMHI,,,,,5.5
 2024-12-21,Santiago de Huata,,,,,2.0
 2024-12-21,Santivañez,31.1,7.8,,,
 2024-12-21,Sara Ana,,,,,12.5
@@ -77012,6 +77078,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-21,Tiraque,25.0,8.0,,,
 2024-12-21,Tiraque_M (GPRS),20.02,8.89,85.7,42.47,0.1
 2024-12-21,Todos Santos_Or,,4.5,,,
+2024-12-21,Toledo (GPRS),,,68.3,10.98,
 2024-12-21,Toma Ravelo_M (GPRS),20.94,8.32,96.1,50.69,
 2024-12-21,Tomave,24.5,5.5,,,
 2024-12-21,Totora Qhocha_M,16.94,8.48,92.8,47.42,
@@ -77088,6 +77155,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-22,Cañas,,,,,18.0
 2024-12-22,Chaqui,13.0,8.8,,,14.5
 2024-12-22,Chasqui (Escoma),,,,,2.4
+2024-12-22,Chillca,19.0,1.0,,,
 2024-12-22,Chinoli,18.3,7.2,,,32.1
 2024-12-22,Chipaya - GPRS,22.5,3.0,19.8,8.8,
 2024-12-22,Chirapaca,17.4,3.4,,,
@@ -77257,6 +77325,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-22,Tiraque,23.0,5.0,,,7.0
 2024-12-22,Tiraque_M (GPRS),9.04,9.04,80.2,80.2,0.3
 2024-12-22,Todos Santos_Or,,6.0,,,
+2024-12-22,Toledo (GPRS),,,67.93,32.05,
 2024-12-22,Toma Ravelo_M (GPRS),,,,,46.6
 2024-12-22,Tomave,23.0,6.0,,,
 2024-12-22,Totora Qhocha_M,11.82,6.12,96.3,68.1,0.2
@@ -77328,6 +77397,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-23,Cayarani,,,,,0.6
 2024-12-23,Cañas,,,,,23.0
 2024-12-23,Chaqui,17.3,4.4,,,6.5
+2024-12-23,Chillca,19.3,7.0,,,
 2024-12-23,Chinchaya,,,,,11.0
 2024-12-23,Chinoli,21.2,7.1,,,
 2024-12-23,Chipaya - GPRS,22.6,4.8,55.1,11.3,
@@ -77482,6 +77552,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-23,Tiraque,26.0,7.0,,,
 2024-12-23,Tiraque_M (GPRS),10.47,10.47,67.18,67.18,0.5
 2024-12-23,Todos Santos_Or,,3.5,,,
+2024-12-23,Toledo (GPRS),,,60.14,9.18,
 2024-12-23,Toma Ravelo_M (GPRS),,,,,1.3
 2024-12-23,Tomave,26.0,3.5,,,
 2024-12-23,Totora Qhocha_M,15.27,6.84,90.4,51.57,
@@ -77550,6 +77621,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-24,Cayarani,,,,,0.8
 2024-12-24,Cañas,,,,,4.0
 2024-12-24,Chaqui,19.8,4.9,,,
+2024-12-24,Chillca,18.0,4.0,,,
 2024-12-24,Chinchaya,,,,,6.0
 2024-12-24,Chinoli,21.1,6.2,,,4.2
 2024-12-24,Chipaya - GPRS,22.8,-0.1,12.1,1.1,
@@ -77697,6 +77769,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-24,Tiraque,25.0,7.0,,,
 2024-12-24,Tiraque_M (GPRS),11.74,11.74,72.85,72.85,
 2024-12-24,Todos Santos_Or,,0.0,,,
+2024-12-24,Toledo (GPRS),,,67.16,3.97,
 2024-12-24,Toma Ravelo_M (GPRS),21.04,10.76,93.5,45.28,
 2024-12-24,Tomave,25.6,2.0,,,
 2024-12-24,Totora Qhocha_M,16.15,7.37,93.8,53.08,
@@ -77766,6 +77839,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-25,Cañas,27.0,13.0,,,
 2024-12-25,Chaqui,14.8,5.1,,,
 2024-12-25,Chasqui (Escoma),,,,,0.4
+2024-12-25,Chillca,18.7,2.3,,,
 2024-12-25,Chinoli,22.1,7.1,,,
 2024-12-25,Chipaya - GPRS,23.0,-0.2,11.6,3.1,
 2024-12-25,Chirapaca,17.8,1.8,,,
@@ -77914,6 +77988,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-25,Tiraque,23.0,5.0,,,22.5
 2024-12-25,Tiraque_M (GPRS),17.41,5.78,86.3,38.88,4.6
 2024-12-25,Todos Santos_Or,,-1.0,,,
+2024-12-25,Toledo (GPRS),,,62.62,7.29,
 2024-12-25,Toma Ravelo_M (GPRS),,,,,7.6
 2024-12-25,Tomave,23.4,5.5,,,
 2024-12-25,Totora Qhocha_M,12.16,2.78,97.0,53.83,1.8
@@ -77974,6 +78049,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-26,Cayarani,,,,,1.5
 2024-12-26,Cañas,26.0,11.0,,,
 2024-12-26,Chaqui,17.4,2.2,,,
+2024-12-26,Chillca,20.4,2.1,,,
 2024-12-26,Chinchaya,,,,,6.0
 2024-12-26,Chinoli,21.4,6.2,,,
 2024-12-26,Chipaya - GPRS,22.0,-1.2,25.1,6.0,
@@ -78088,6 +78164,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-26,San Pedro de Tiquina_M (GPRS),16.43,9.93,60.4,21.09,
 2024-12-26,San Roque - El Alto (GPRS),20.2,4.13,89.0,15.76,
 2024-12-26,Santa Ana - Yacuma,24.0,24.0,93.3,93.3,
+2024-12-26,Santa Cruz SENAMHI,,,,,2.0
 2024-12-26,Santiago de Huata,21.0,2.0,,,
 2024-12-26,Santiago de Machaca,,,,,5.5
 2024-12-26,Santivañez,30.0,5.5,,,
@@ -78112,6 +78189,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-26,Tiraque,27.0,8.0,,,
 2024-12-26,Tiraque_M (GPRS),11.01,11.01,68.97,68.97,
 2024-12-26,Todos Santos_Or,,-7.5,,,
+2024-12-26,Toledo (GPRS),,,26.72,3.64,
 2024-12-26,Toma Ravelo_M (GPRS),17.59,9.24,79.49,47.93,
 2024-12-26,Tomave,21.0,0.5,,,
 2024-12-26,Totora Qhocha_M,16.29,5.86,96.0,34.33,
@@ -78171,6 +78249,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-27,Cayarani,,,,,1.0
 2024-12-27,Cañas,29.0,12.0,,,
 2024-12-27,Chaqui,19.4,2.3,,,
+2024-12-27,Chillca,19.1,6.5,,,
 2024-12-27,Chinoli,22.1,6.1,,,
 2024-12-27,Chipaya - GPRS,22.1,-1.9,22.3,6.6,
 2024-12-27,Chirapaca,19.0,1.0,,,
@@ -78303,6 +78382,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-27,Tiraque,25.0,9.0,,,
 2024-12-27,Tiraque_M (GPRS),10.95,10.95,68.65,68.65,
 2024-12-27,Todos Santos_Or,,-6.0,,,
+2024-12-27,Toledo (GPRS),,,54.15,9.04,
 2024-12-27,Toma Ravelo_M (GPRS),18.23,10.18,79.49,43.98,
 2024-12-27,Tomave,24.5,2.5,,,
 2024-12-27,Totora Qhocha_M,18.12,6.71,96.1,33.36,
@@ -78359,6 +78439,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-28,Cañas,30.0,13.0,,,
 2024-12-28,Chaqui,17.8,6.1,,,
 2024-12-28,Chasqui (Escoma),,,,,0.8
+2024-12-28,Chillca,21.0,6.4,,,
 2024-12-28,Chinoli,20.2,6.2,,,
 2024-12-28,Chipaya - GPRS,23.3,3.6,17.3,8.3,
 2024-12-28,Chirapaca,18.3,2.0,,,
@@ -78489,6 +78570,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-28,Tiraque,27.0,6.0,,,
 2024-12-28,Tiraque_M (GPRS),10.65,10.65,68.37,68.37,
 2024-12-28,Todos Santos_Or,,-3.5,,,
+2024-12-28,Toledo (GPRS),,,63.82,17.45,
 2024-12-28,Toma Ravelo_M (GPRS),15.93,9.81,81.3,52.92,
 2024-12-28,Tomave,24.0,0.5,,,
 2024-12-28,Totora Qhocha_M,15.7,6.32,99.9,41.6,
@@ -78545,6 +78627,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-29,Cayarani,,,,,8.7
 2024-12-29,Cañas,28.0,11.0,,,
 2024-12-29,Chaqui,17.2,7.3,,,
+2024-12-29,Chillca,17.4,4.0,,,
 2024-12-29,Chinchaya,,,,,7.0
 2024-12-29,Chinoli,21.4,5.4,,,
 2024-12-29,Chipaya - GPRS,23.4,3.7,46.8,15.6,
@@ -78681,6 +78764,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-29,Tiraque,24.0,6.0,,,
 2024-12-29,Tiraque_M (GPRS),10.16,10.16,73.63,73.63,
 2024-12-29,Todos Santos_Or,,0.0,,,
+2024-12-29,Toledo (GPRS),,,60.71,19.96,
 2024-12-29,Toma Ravelo_M (GPRS),,,,,0.1
 2024-12-29,Tomave,25.4,1.0,,,
 2024-12-29,Totora Qhocha_M,14.71,5.8,98.5,62.39,0.4
@@ -78736,6 +78820,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-30,Cayarani,,,,,0.3
 2024-12-30,Cañas,32.5,14.0,,,
 2024-12-30,Chaqui,18.3,3.7,,,
+2024-12-30,Chillca,18.0,4.6,,,8.0
 2024-12-30,Chinoli,21.2,5.2,,,
 2024-12-30,Chipaya - GPRS,24.1,4.5,50.0,12.3,
 2024-12-30,Chirapaca,18.2,3.6,,,
@@ -78868,6 +78953,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-30,Tiraque,26.0,8.0,,,
 2024-12-30,Tiraque_M (GPRS),12.33,12.33,64.84,64.84,
 2024-12-30,Todos Santos_Or,,1.5,,,
+2024-12-30,Toledo (GPRS),,,58.51,15.17,
 2024-12-30,Toma Ravelo_M (GPRS),16.08,11.91,76.01,58.32,
 2024-12-30,Tomave,25.6,2.5,,,
 2024-12-30,Totora Qhocha_M,16.28,6.32,93.3,50.13,
@@ -78927,6 +79013,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-31,Cayarani,,,,,2.9
 2024-12-31,Cañas,,,,,3.0
 2024-12-31,Chaqui,20.9,5.7,,,
+2024-12-31,Chillca,19.3,5.4,,,
 2024-12-31,Chinoli,22.1,6.1,,,
 2024-12-31,Chipaya - GPRS,23.1,5.2,42.1,10.5,
 2024-12-31,Chirapaca,19.0,1.8,,,
@@ -79070,6 +79157,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-31,Tiraque,27.0,9.0,,,
 2024-12-31,Tiraque_M (GPRS),12.76,12.76,64.97,64.97,
 2024-12-31,Todos Santos_Or,,3.0,,,
+2024-12-31,Toledo (GPRS),,,64.64,16.39,
 2024-12-31,Toma Ravelo_M (GPRS),,,,,0.1
 2024-12-31,Tomave,24.4,1.8,,,
 2024-12-31,Totora Qhocha_M,16.55,6.45,93.8,51.83,
