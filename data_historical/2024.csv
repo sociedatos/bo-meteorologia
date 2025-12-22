@@ -77279,6 +77279,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-22,Samaipata,,,,,4.0
 2024-12-22,Samasa,22.0,5.2,,,
 2024-12-22,San Andres,,,,,3.5
+2024-12-22,San Antonio - Los Ángeles (GPRS),25.84,25.84,90.8,90.8,0.2
 2024-12-22,San Benito,20.0,12.0,,,
 2024-12-22,San Buenaventura_M (GPRS),27.3,23.41,99.91,84.54,
 2024-12-22,San Calixto,17.0,9.4,,,
@@ -77504,6 +77505,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-23,Samaipata,,,,,0.7
 2024-12-23,Samasa,20.0,6.0,,,4.6
 2024-12-23,San Andres,,,,,2.1
+2024-12-23,San Antonio - Los Ángeles (GPRS),24.2,24.2,87.8,87.8,
 2024-12-23,San Benito,25.0,12.0,,,
 2024-12-23,San Buenaventura_M (GPRS),,,,,34.6
 2024-12-23,San Calixto,21.4,8.0,,,
@@ -77727,6 +77729,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-24,Salo_M (GPRS),,,,,1.6
 2024-12-24,Samasa,22.4,4.2,,,
 2024-12-24,San Andres,,,,,3.5
+2024-12-24,San Antonio - Los Ángeles (GPRS),27.11,27.11,84.4,84.4,
 2024-12-24,San Benito,29.0,9.0,,,
 2024-12-24,San Buenaventura_M (GPRS),33.68,24.8,98.24,59.61,
 2024-12-24,San Calixto,23.0,9.0,,,
@@ -77942,6 +77945,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-25,Salo_M (GPRS),19.31,7.94,66.05,26.94,
 2024-12-25,Samasa,23.2,6.4,,,
 2024-12-25,San Andres,,,,,4.1
+2024-12-25,San Antonio - Los Ángeles (GPRS),25.37,25.37,67.16,67.16,
 2024-12-25,San Benito,22.0,13.0,,,
 2024-12-25,San Buenaventura_M (GPRS),,,,,15.8
 2024-12-25,San Calixto,21.6,9.2,,,
@@ -78145,6 +78149,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-26,Salo_M (GPRS),24.21,9.56,68.52,4.17,
 2024-12-26,Samasa,20.0,7.2,,,
 2024-12-26,San Andres,,,,,2.0
+2024-12-26,San Antonio - Los Ángeles (GPRS),24.12,24.12,67.28,67.28,7.8
 2024-12-26,San Benito,25.0,5.0,,,
 2024-12-26,San Buenaventura_M (GPRS),,,,,14.0
 2024-12-26,San Calixto,22.6,7.6,,,
@@ -78340,6 +78345,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-27,Salo_M (GPRS),25.53,11.7,60.67,5.96,
 2024-12-27,Samasa,24.2,6.2,,,
 2024-12-27,San Andres,,,,,3.4
+2024-12-27,San Antonio - Los Ángeles (GPRS),24.57,24.57,75.49,75.49,
 2024-12-27,San Benito,28.0,7.0,,,
 2024-12-27,San Buenaventura_M (GPRS),34.32,23.09,93.92,42.15,
 2024-12-27,San Calixto,21.2,7.8,,,
@@ -78528,6 +78534,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-28,Salo_M (GPRS),19.85,10.18,70.93,31.86,
 2024-12-28,Samasa,19.4,7.2,,,
 2024-12-28,San Andres,29.0,13.0,,,
+2024-12-28,San Antonio - Los Ángeles (GPRS),26.08,26.08,71.24,71.24,
 2024-12-28,San Benito,27.0,10.0,,,
 2024-12-28,San Buenaventura_M (GPRS),35.75,25.18,89.4,45.57,
 2024-12-28,San Calixto,18.2,8.0,,,
@@ -78723,6 +78730,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-29,Salo_M (GPRS),,,,,0.4
 2024-12-29,Samasa,21.2,6.4,,,
 2024-12-29,San Andres,32.0,14.0,,,
+2024-12-29,San Antonio - Los Ángeles (GPRS),27.62,27.62,65.89,65.89,
 2024-12-29,San Benito,23.0,12.0,,,
 2024-12-29,San Buenaventura_M (GPRS),35.05,25.02,91.45,46.38,
 2024-12-29,San Calixto,19.4,8.2,,,
@@ -78911,6 +78919,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-30,Salo_M (GPRS),24.31,11.4,68.97,18.64,
 2024-12-30,Samasa,23.2,7.2,,,
 2024-12-30,San Andres,29.0,15.0,,,
+2024-12-30,San Antonio - Los Ángeles (GPRS),26.68,26.68,77.32,77.32,5.2
 2024-12-30,San Benito,28.0,11.0,,,
 2024-12-30,San Buenaventura_M (GPRS),36.66,24.49,86.52,33.47,
 2024-12-30,San Calixto,20.2,7.2,,,
@@ -79112,6 +79121,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2024-12-31,Salo_M (GPRS),25.66,9.24,80.06,19.31,
 2024-12-31,Samasa,22.0,8.4,,,
 2024-12-31,San Andres,30.0,16.0,,,
+2024-12-31,San Antonio - Los Ángeles (GPRS),27.03,27.03,83.4,83.4,
 2024-12-31,San Benito,28.0,10.0,,,
 2024-12-31,San Buenaventura_M (GPRS),36.17,25.13,99.9,50.68,
 2024-12-31,San Calixto,21.8,7.8,,,
