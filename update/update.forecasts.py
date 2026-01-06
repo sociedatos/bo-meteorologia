@@ -114,9 +114,11 @@ def process_for_storage(df):
 
 
 def update_store(station_forecasts, now):
-    fn = './data_forecast/{}/{}.csv'.format(
-        now.year, now.strftime('%Y%W')
-    )
+    bd = './data_forecast/{}'.format(now.year)
+    if not os.path.isdir(bd):
+        os.makedirs(bd)
+
+    fn = '{}/{}.csv'.format(bd, now.strftime('%Y%W'))
 
     station_forecasts = station_forecasts.reset_index()
 
