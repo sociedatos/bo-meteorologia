@@ -50547,6 +50547,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-01,Camata,33.0,15.0,,,
 2025-09-01,Campamento Villa Tunari,,,,,135.2
 2025-09-01,Campanario,22.0,0.0,,,
+2025-09-01,Capinota,27.2,7.2,,,
 2025-09-01,Carabuco,,-1.0,,,
 2025-09-01,Caranavi_H (GPRS),,,,,12.1
 2025-09-01,Carura_M - Guanay (GPRS),22.41,20.78,97.11,61.53,
@@ -50721,6 +50722,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-02,Camargo_M (GPRS),10.55,9.08,46.04,6.92,
 2025-09-02,Camata,34.5,17.0,,,
 2025-09-02,Campanario,20.0,0.0,,,
+2025-09-02,Capinota,27.5,7.5,,,
 2025-09-02,Carabuco,,5.0,,,
 2025-09-02,Carura_M - Guanay (GPRS),21.88,20.22,98.87,59.72,1.1
 2025-09-02,Cayarani,,,,,0.4
@@ -50898,6 +50900,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-03,Camargo_M (GPRS),11.87,10.04,30.75,9.96,
 2025-09-03,Camata,29.0,16.5,,,
 2025-09-03,Campanario,22.0,1.0,,,
+2025-09-03,Capinota,28.5,8.5,,,
 2025-09-03,Carabuco,,2.0,,,5.8
 2025-09-03,Caranavi_H (GPRS),,,,,0.2
 2025-09-03,Carura_M - Guanay (GPRS),20.33,19.77,98.83,79.11,0.6
@@ -51085,6 +51088,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-04,Camata,28.0,17.0,,,
 2025-09-04,Camiaco_H (SAT),,,,,0.4
 2025-09-04,Campanario,21.0,1.5,,,
+2025-09-04,Capinota,28.0,9.2,,,
 2025-09-04,Carabuco,,5.0,,,
 2025-09-04,Caranavi_H (GPRS),,,,,25.3
 2025-09-04,Carura_M - Guanay (GPRS),20.67,20.34,98.68,65.07,
@@ -51283,6 +51287,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-05,Camiri,18.0,18.0,47.4,47.4,
 2025-09-05,Campamento Villa Tunari,,,,,24.6
 2025-09-05,Campanario,21.0,3.0,,,
+2025-09-05,Capinota,28.2,10.5,,,
 2025-09-05,Carabuco,,0.0,,,
 2025-09-05,Caranavi_H (GPRS),,,,,3.9
 2025-09-05,Carura_M - Guanay (GPRS),21.85,19.78,98.88,92.43,8.7
@@ -51503,6 +51508,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-06,Camargo_M (GPRS),10.64,7.33,66.57,36.9,
 2025-09-06,Camata,24.0,15.5,,,
 2025-09-06,Campanario,15.0,1.0,,,
+2025-09-06,Capinota,27.5,10.0,,,
 2025-09-06,Carabuco,,4.9,,,6.2
 2025-09-06,Carura_M - Guanay (GPRS),20.04,19.75,98.81,73.7,4.9
 2025-09-06,Cayarani,,,,,8.0
@@ -51703,6 +51709,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-07,Camargo_M (GPRS),17.39,13.31,45.27,21.56,
 2025-09-07,Camata,29.0,16.5,,,21.0
 2025-09-07,Campanario,16.0,5.0,,,
+2025-09-07,Capinota,28.0,9.5,,,
 2025-09-07,Carabuco,,4.3,,,
 2025-09-07,Caranavi_H (GPRS),,,,,0.2
 2025-09-07,Carura_M - Guanay (GPRS),19.52,18.82,87.16,60.31,
@@ -51901,6 +51908,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-08,Camargo_M (GPRS),14.73,10.74,23.15,6.07,
 2025-09-08,Camata,30.0,17.0,,,
 2025-09-08,Campanario,17.0,4.5,,,
+2025-09-08,Capinota,27.0,10.5,,,
 2025-09-08,Carabuco,,2.5,,,
 2025-09-08,Carura_M - Guanay (GPRS),21.48,20.66,97.07,61.33,
 2025-09-08,Cañas,28.0,7.0,,,
@@ -52092,6 +52100,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-09,Camargo_M (GPRS),12.45,8.42,50.26,17.89,
 2025-09-09,Camata,34.0,15.0,,,
 2025-09-09,Campanario,20.0,-2.0,,,
+2025-09-09,Capinota,27.2,9.2,,,
 2025-09-09,Carabuco,,-1.9,,,
 2025-09-09,Caranavi_H (GPRS),,,,,5.0
 2025-09-09,Carura_M - Guanay (GPRS),21.05,19.5,96.91,61.09,
@@ -52264,6 +52273,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-10,Camargo_M (GPRS),14.26,8.36,44.0,18.2,
 2025-09-10,Camata,34.0,17.5,,,
 2025-09-10,Campanario,24.0,-2.5,,,
+2025-09-10,Capinota,28.0,10.2,,,
 2025-09-10,Carabuco,,1.0,,,
 2025-09-10,Carura_M - Guanay (GPRS),20.9,19.65,95.83,63.89,
 2025-09-10,Cañas,32.0,4.0,,,
@@ -52432,6 +52442,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-11,Camargo_M (GPRS),18.49,13.54,49.98,28.64,
 2025-09-11,Camata,35.0,15.0,,,
 2025-09-11,Campanario,17.0,0.0,,,
+2025-09-11,Capinota,27.5,10.5,,,
 2025-09-11,Carabuco,,5.0,,,
 2025-09-11,Carura_M - Guanay (GPRS),21.96,20.69,95.43,65.43,
 2025-09-11,Cañas,39.0,14.0,,,
@@ -52604,6 +52615,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-12,Camargo_M (GPRS),15.15,12.16,59.96,31.98,
 2025-09-12,Camata,34.0,17.5,,,
 2025-09-12,Campanario,20.0,0.0,,,
+2025-09-12,Capinota,27.2,10.0,,,
 2025-09-12,Carabuco,,4.5,,,
 2025-09-12,Carura_M - Guanay (GPRS),18.95,18.16,91.86,64.87,
 2025-09-12,Cayarani,,,,,7.2
@@ -52780,6 +52792,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-13,Camargo_M (GPRS),16.59,12.03,57.94,27.84,
 2025-09-13,Camata,35.5,17.0,,,
 2025-09-13,Campanario,23.0,1.0,,,
+2025-09-13,Capinota,28.5,9.5,,,
 2025-09-13,Carabuco,,-2.0,,,
 2025-09-13,Carura_M - Guanay (GPRS),20.78,19.59,96.78,61.2,
 2025-09-13,Cañas,30.0,11.0,,,
@@ -52949,6 +52962,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-14,Camargo_M (GPRS),19.29,13.57,51.06,26.83,
 2025-09-14,Camata,34.5,18.0,,,
 2025-09-14,Campanario,24.0,1.5,,,
+2025-09-14,Capinota,28.0,10.0,,,
 2025-09-14,Carabuco,,3.7,,,
 2025-09-14,Carura_M - Guanay (GPRS),22.26,20.88,95.56,54.73,
 2025-09-14,Cayarani,,,,,0.5
@@ -53126,6 +53140,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-15,Camargo_M (GPRS),13.63,11.03,53.59,29.32,
 2025-09-15,Camata,35.0,17.5,,,
 2025-09-15,Campanario,20.0,0.0,,,
+2025-09-15,Capinota,28.2,10.2,,,
 2025-09-15,Carabuco,,0.0,,,
 2025-09-15,Carura_M - Guanay (GPRS),22.59,21.66,93.69,63.39,
 2025-09-15,Cayarani,,,,,0.2
@@ -53304,6 +53319,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-16,Camargo_M (GPRS),15.06,10.7,50.72,32.09,
 2025-09-16,Camata,36.0,17.0,,,
 2025-09-16,Campanario,19.0,1.0,,,
+2025-09-16,Capinota,28.5,10.0,,,
 2025-09-16,Carabuco,,1.0,,,
 2025-09-16,Carura_M - Guanay (GPRS),21.27,19.75,92.07,56.69,
 2025-09-16,Cayarani,,,,,1.0
@@ -53487,6 +53503,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-17,Camargo_M (GPRS),15.95,12.0,51.66,28.35,
 2025-09-17,Camata,35.0,18.0,,,
 2025-09-17,Campanario,16.0,2.0,,,
+2025-09-17,Capinota,28.5,13.0,,,
 2025-09-17,Carabuco,,1.5,,,
 2025-09-17,Caranavi_H (GPRS),,,,,15.5
 2025-09-17,Carura_M - Guanay (GPRS),21.65,19.99,91.65,57.86,
@@ -53671,6 +53688,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-18,Camargo_M (GPRS),14.57,10.98,50.9,19.53,
 2025-09-18,Camata,34.0,16.0,,,
 2025-09-18,Campanario,18.0,3.0,,,
+2025-09-18,Capinota,29.0,12.5,,,
 2025-09-18,Carabuco,,1.7,,,
 2025-09-18,Caranavi_H (GPRS),,,,,9.2
 2025-09-18,Carura_M - Guanay (GPRS),21.6,19.87,98.73,62.54,
@@ -53850,6 +53868,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-19,Camargo_M (GPRS),17.68,12.42,53.67,13.61,
 2025-09-19,Camata,35.0,17.5,,,
 2025-09-19,Campanario,17.5,3.0,,,
+2025-09-19,Capinota,28.5,12.0,,,
 2025-09-19,Carabuco,,3.5,,,
 2025-09-19,Carura_M - Guanay (GPRS),22.52,21.88,97.76,59.64,
 2025-09-19,Cañas,32.0,12.0,,,
@@ -54020,6 +54039,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-20,Camargo_M (GPRS),17.62,13.94,52.2,7.36,
 2025-09-20,Camata,36.0,15.0,,,
 2025-09-20,Campanario,17.0,3.5,,,
+2025-09-20,Capinota,30.0,13.0,,,
 2025-09-20,Carabuco,,1.0,,,
 2025-09-20,Carura_M - Guanay (GPRS),23.79,22.1,86.74,58.76,
 2025-09-20,Cañas,36.0,14.0,,,
@@ -54188,6 +54208,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-21,Camata,36.0,17.5,,,
 2025-09-21,Campamento Villa Tunari,,,,,5.3
 2025-09-21,Campanario,16.0,2.0,,,
+2025-09-21,Capinota,30.5,13.2,,,
 2025-09-21,Carabuco,,0.0,,,
 2025-09-21,Carura_M - Guanay (GPRS),24.48,22.85,92.79,55.4,
 2025-09-21,Cañas,37.0,12.0,,,
@@ -54354,6 +54375,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-22,Camargo_M (GPRS),20.86,11.4,13.82,4.48,
 2025-09-22,Camata,35.5,18.0,,,
 2025-09-22,Campanario,15.5,2.0,,,
+2025-09-22,Capinota,29.2,12.0,,,
 2025-09-22,Carabuco,,-2.0,,,
 2025-09-22,Caranavi_H (GPRS),,,,,16.2
 2025-09-22,Carura_M - Guanay (GPRS),25.16,23.48,84.07,57.29,
@@ -54536,6 +54558,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-23,Camargo_M (GPRS),11.07,8.04,55.18,34.3,
 2025-09-23,Camata,25.0,16.5,,,
 2025-09-23,Campanario,19.0,-1.0,,,
+2025-09-23,Capinota,30.0,9.5,,,
 2025-09-23,Carabuco,,2.0,,,
 2025-09-23,Caranavi_H (GPRS),,,,,1.3
 2025-09-23,Carura_M - Guanay (GPRS),24.93,22.15,73.58,41.04,
@@ -54712,6 +54735,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-24,Camargo_M (GPRS),15.52,9.73,49.04,34.73,
 2025-09-24,Camata,31.0,16.0,,,
 2025-09-24,Campanario,15.0,-3.0,,,
+2025-09-24,Capinota,32.0,12.5,,,
 2025-09-24,Carabuco,,6.0,,,
 2025-09-24,Carura_M - Guanay (GPRS),18.61,17.2,89.63,56.02,
 2025-09-24,Cañas,28.0,10.0,,,
@@ -55060,6 +55084,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-26,Camargo_M (GPRS),14.03,9.28,44.42,24.84,
 2025-09-26,Camata,34.0,17.5,,,
 2025-09-26,Campanario,19.0,-0.5,,,
+2025-09-26,Capinota,29.0,13.0,,,
 2025-09-26,Carabuco,,2.0,,,
 2025-09-26,Carura_M - Guanay (GPRS),19.65,19.19,88.61,49.76,
 2025-09-26,Catacora,,,,,0.1
@@ -55233,6 +55258,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-27,Camargo_M (GPRS),13.86,11.35,60.97,13.64,
 2025-09-27,Camata,35.0,18.0,,,
 2025-09-27,Campanario,20.0,1.0,,,
+2025-09-27,Capinota,28.0,10.5,,,
 2025-09-27,Carabuco,,2.7,,,
 2025-09-27,Carura_M - Guanay (GPRS),21.9,21.43,88.82,49.26,
 2025-09-27,Catacora,,,,,0.1
@@ -55831,6 +55857,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-30,Camargo_M (GPRS),18.72,12.5,49.72,24.94,
 2025-09-30,Camata,27.0,16.0,,,17.2
 2025-09-30,Campanario,19.5,2.0,,,
+2025-09-30,Capinota,27.0,10.0,,,
 2025-09-30,Carabuco,,5.0,,,2.9
 2025-09-30,Caranavi_H (GPRS),,,,,32.3
 2025-09-30,Carura_M - Guanay (GPRS),22.39,21.84,98.24,66.2,0.8
@@ -56487,6 +56514,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-03,Camata,30.0,17.0,,,
 2025-10-03,Camiaco_H (SAT),,,,,0.4
 2025-10-03,Campanario,20.5,0.0,,,
+2025-10-03,Capinota,29.0,11.5,,,
 2025-10-03,Carabuco,,2.5,,,
 2025-10-03,Caranavi,33.5,21.0,,,
 2025-10-03,Carura_M - Guanay (GPRS),20.02,19.66,98.84,63.23,0.6
@@ -56674,6 +56702,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-04,Camargo_M (GPRS),14.47,11.07,42.62,4.71,
 2025-10-04,Camata,31.0,17.5,,,
 2025-10-04,Campanario,22.0,2.5,,,
+2025-10-04,Capinota,28.5,11.0,,,
 2025-10-04,Carabuco,,3.0,,,
 2025-10-04,Caranavi,34.0,20.5,,,
 2025-10-04,Carura_M - Guanay (GPRS),20.88,19.66,84.94,59.33,0.2
@@ -56848,6 +56877,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-05,Camargo_M (GPRS),16.27,9.33,13.73,3.58,
 2025-10-05,Camata,32.0,16.0,,,
 2025-10-05,Campanario,24.0,3.0,,,
+2025-10-05,Capinota,28.0,10.5,,,
 2025-10-05,Carabuco,,3.5,,,
 2025-10-05,Caranavi,35.5,19.5,,,
 2025-10-05,Carura_M - Guanay (GPRS),23.24,21.97,88.93,54.65,0.2
@@ -57024,6 +57054,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-06,Camiaco_H (SAT),,,,,1.6
 2025-10-06,Campamento Villa Tunari,,,,,24.6
 2025-10-06,Campanario,20.0,4.5,,,
+2025-10-06,Capinota,27.5,10.0,,,
 2025-10-06,Carabuco,,1.0,,,
 2025-10-06,Caranavi,37.0,20.5,,,
 2025-10-06,Caranavi_H (GPRS),,,,,3.1
@@ -57399,6 +57430,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-08,Camata,25.0,15.0,,,5.0
 2025-10-08,Campamento Villa Tunari,,,,,0.5
 2025-10-08,Campanario,15.0,-3.0,,,
+2025-10-08,Capinota,27.0,12.5,,,
 2025-10-08,Carabuco,,4.5,,,3.2
 2025-10-08,Caranavi,35.0,21.0,,,
 2025-10-08,Carura_M - Guanay (GPRS),18.75,18.2,98.13,52.41,0.1
@@ -57783,6 +57815,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-10,Camata,27.0,16.0,,,
 2025-10-10,Campamento Villa Tunari,,,,,26.3
 2025-10-10,Campanario,19.0,-3.0,,,
+2025-10-10,Capinota,29.0,11.5,,,
 2025-10-10,Carabuco,,4.9,,,3.4
 2025-10-10,Caranavi,32.0,22.5,,,
 2025-10-10,Carura_M - Guanay (GPRS),17.78,16.79,94.19,60.42,
@@ -57979,6 +58012,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-11,Camargo_M (GPRS),17.75,11.43,33.99,5.57,
 2025-10-11,Camata,32.0,15.5,,,
 2025-10-11,Campanario,23.0,1.0,,,
+2025-10-11,Capinota,28.0,11.2,,,
 2025-10-11,Carabuco,,4.0,,,
 2025-10-11,Caranavi,34.5,21.5,,,
 2025-10-11,Carura_M - Guanay (GPRS),20.27,19.64,86.66,54.4,
@@ -58158,6 +58192,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-12,Camargo_M (GPRS),18.58,13.61,39.42,25.41,
 2025-10-12,Camata,34.0,16.0,,,
 2025-10-12,Campanario,25.0,1.5,,,
+2025-10-12,Capinota,27.0,10.5,,,
 2025-10-12,Carabuco,,2.5,,,
 2025-10-12,Caranavi,36.0,22.5,,,
 2025-10-12,Carura_M - Guanay (GPRS),23.56,22.3,88.19,57.6,
@@ -58334,6 +58369,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-13,Camargo_M (GPRS),16.89,14.16,48.34,29.33,
 2025-10-13,Camata,31.0,17.5,,,
 2025-10-13,Campanario,21.0,-1.0,,,
+2025-10-13,Capinota,28.0,11.5,,,
 2025-10-13,Carabuco,,5.3,,,
 2025-10-13,Caranavi,36.5,25.0,,,11.5
 2025-10-13,Caranavi_H (GPRS),,,,,14.7
@@ -58526,6 +58562,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-14,Camata,28.0,17.0,,,19.7
 2025-10-14,Camiaco_H (SAT),,,,,0.2
 2025-10-14,Campanario,16.5,0.0,,,
+2025-10-14,Capinota,27.5,12.0,,,
 2025-10-14,Carabuco,,3.9,,,
 2025-10-14,Caranavi,34.5,23.0,,,
 2025-10-14,Caranavi_H (GPRS),,,,,0.4
@@ -58717,6 +58754,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-15,Camata,30.0,16.0,,,37.6
 2025-10-15,Campamento Villa Tunari,,,,,20.6
 2025-10-15,Campanario,18.0,5.0,,,
+2025-10-15,Capinota,28.5,14.0,,,
 2025-10-15,Carabuco,,4.7,,,
 2025-10-15,Caranavi,33.5,22.5,,,
 2025-10-15,Carura_M - Guanay (GPRS),21.49,19.4,89.89,60.48,0.1
@@ -58899,6 +58937,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-16,Camata,31.0,15.0,,,
 2025-10-16,Campamento Villa Tunari,,,,,140.3
 2025-10-16,Campanario,23.0,5.0,,,
+2025-10-16,Capinota,28.0,13.5,,,
 2025-10-16,Carabuco,,5.0,,,
 2025-10-16,Caranavi,35.0,24.0,,,
 2025-10-16,Carura_M - Guanay (GPRS),22.2,20.78,96.17,57.11,
@@ -59084,6 +59123,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-17,Camargo_M (GPRS),14.24,13.28,58.36,35.91,
 2025-10-17,Camata,31.5,17.0,,,
 2025-10-17,Campanario,21.0,4.0,,,2.4
+2025-10-17,Capinota,27.5,14.0,,,
 2025-10-17,Carabuco,,6.0,,,
 2025-10-17,Caranavi,35.5,23.0,,,
 2025-10-17,Carura_M - Guanay (GPRS),20.36,19.75,87.38,61.18,
@@ -59281,6 +59321,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-18,Camata,26.0,16.5,,,
 2025-10-18,Camiaco_H (SAT),,,,,0.2
 2025-10-18,Campanario,21.5,5.0,,,8.6
+2025-10-18,Capinota,28.0,14.2,,,
 2025-10-18,Carabuco,,6.3,,,
 2025-10-18,Caranavi,32.5,23.5,,,
 2025-10-18,Caranavi_H (GPRS),,,,,18.6
@@ -59710,6 +59751,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-20,Camata,27.0,14.0,,,
 2025-10-20,Camiaco_H (SAT),,,,,0.2
 2025-10-20,Campanario,19.0,2.5,,,
+2025-10-20,Capinota,27.0,13.0,,,
 2025-10-20,Carabuco,,1.0,,,4.4
 2025-10-20,Caranavi,34.0,22.0,,,
 2025-10-20,Carura_M - Guanay (GPRS),,,98.57,56.75,0.2
@@ -59891,6 +59933,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-21,Camargo_M (GPRS),31.32,16.15,54.7,5.83,0.2
 2025-10-21,Camata,31.0,17.0,,,
 2025-10-21,Campanario,19.5,2.0,,,
+2025-10-21,Capinota,28.2,12.5,,,
 2025-10-21,Carabuco,,2.9,,,
 2025-10-21,Caranavi,34.5,22.5,,,
 2025-10-21,Carura_M - Guanay (GPRS),33.63,18.76,95.99,36.81,0.2
@@ -60063,6 +60106,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-22,Camargo_M (GPRS),16.11,12.66,49.99,20.66,
 2025-10-22,Camata,32.0,18.5,,,
 2025-10-22,Campanario,19.5,5.0,,,
+2025-10-22,Capinota,27.5,12.0,,,
 2025-10-22,Carabuco,,4.0,,,
 2025-10-22,Caranavi,35.5,21.0,,,
 2025-10-22,Carura_M - Guanay (GPRS),20.46,19.92,93.2,56.64,
@@ -60238,6 +60282,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-23,Camargo_M (GPRS),16.96,13.38,57.94,22.93,
 2025-10-23,Camata,31.0,17.0,,,
 2025-10-23,Campanario,22.0,4.5,,,
+2025-10-23,Capinota,28.2,13.0,,,
 2025-10-23,Carabuco,,5.5,,,
 2025-10-23,Caranavi,36.0,21.5,,,
 2025-10-23,Carura_M - Guanay (GPRS),21.8,20.13,84.48,56.77,
@@ -60426,6 +60471,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-24,Camata,32.0,18.0,,,
 2025-10-24,Campamento Villa Tunari,,,,,32.5
 2025-10-24,Campanario,19.0,4.0,,,
+2025-10-24,Capinota,28.0,12.5,,,
 2025-10-24,Carabuco,,4.9,,,
 2025-10-24,Caranavi,36.5,22.0,,,
 2025-10-24,Caranavi_H (GPRS),,,,,0.2
@@ -60613,6 +60659,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-25,Camata,31.5,16.0,,,
 2025-10-25,Campamento Villa Tunari,,,,,45.2
 2025-10-25,Campanario,16.0,4.0,,,
+2025-10-25,Capinota,29.0,13.2,,,
 2025-10-25,Carabuco,,5.0,,,
 2025-10-25,Caranavi,28.5,23.0,,,19.5
 2025-10-25,Caranavi_H (GPRS),,,,,24.6
@@ -61029,6 +61076,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-27,Camata,28.0,15.0,,,8.0
 2025-10-27,Camiaco_H (SAT),,,,,0.2
 2025-10-27,Campanario,17.0,1.0,,,
+2025-10-27,Capinota,29.2,14.0,,,
 2025-10-27,Carabuco,,2.0,,,
 2025-10-27,Caranavi,28.0,21.5,,,22.0
 2025-10-27,Caranavi_H (GPRS),,,,,1.0
@@ -61860,6 +61908,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-31,Camata,25.0,15.5,,,11.3
 2025-10-31,Camiaco_H (SAT),,,,,0.2
 2025-10-31,Campanario,20.0,0.0,,,
+2025-10-31,Capinota,30.5,13.0,,,
 2025-10-31,Carabuco,,4.0,,,
 2025-10-31,Caranavi,32.0,20.0,,,
 2025-10-31,Caranavi_H (GPRS),,,,,0.3
@@ -62044,6 +62093,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-01,Calachaka Jahuira,,,,,0.7
 2025-11-01,Camargo_M (GPRS),15.87,11.72,7.47,3.57,
 2025-11-01,Camata,30.0,17.0,,,
+2025-11-01,Capinota,29.0,13.2,,,
 2025-11-01,Carabuco,,4.5,,,
 2025-11-01,Caranavi,33.5,19.5,,,
 2025-11-01,Caranavi_H (GPRS),,,,,0.2
@@ -62054,6 +62104,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-01,Chinoli,23.1,8.0,,,
 2025-11-01,Chipaya - GPRS,18.9,-2.8,28.0,10.0,
 2025-11-01,Chirapaca,16.0,3.0,,,
+2025-11-01,Chojñapata,,,,,1.2
 2025-11-01,Chua Cocani_M (GPRS),4.82,3.44,85.3,59.73,
 2025-11-01,Chuqui Chuqui,38.0,19.0,,,
 2025-11-01,Chuquiago,26.0,8.0,,,
@@ -62226,6 +62277,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-02,Calachaka Jahuira,,,,,0.2
 2025-11-02,Camargo_M (GPRS),16.59,14.89,48.81,6.68,
 2025-11-02,Camata,29.5,16.0,,,
+2025-11-02,Capinota,30.5,14.0,,,
 2025-11-02,Carabuco,,4.3,,,
 2025-11-02,Caranavi,34.0,20.5,,,
 2025-11-02,Caranavi_H (GPRS),,,,,1.2
@@ -62238,6 +62290,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-02,Chipaya - GPRS,20.4,-5.0,22.0,6.0,
 2025-11-02,Chirapaca,18.0,4.0,,,
 2025-11-02,Chocolatal,,,,,1.0
+2025-11-02,Chojñapata,,,,,6.3
 2025-11-02,Chua Cocani_M (GPRS),7.44,4.68,66.1,46.21,0.1
 2025-11-02,Chuqui Chuqui,38.0,21.0,,,
 2025-11-02,Chuquiago,27.0,5.0,,,
@@ -62410,6 +62463,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-03,Camargo_M (GPRS),16.68,13.29,49.95,8.46,
 2025-11-03,Camata,31.0,17.0,,,
 2025-11-03,Campamento Villa Tunari,,,,,60.2
+2025-11-03,Capinota,31.0,14.2,,,
 2025-11-03,Carabuco,,3.0,,,
 2025-11-03,Caranavi,34.5,20.0,,,
 2025-11-03,Caranavi_H (GPRS),,,,,1.4
@@ -62589,6 +62643,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-04,Camargo_M (GPRS),15.9,11.78,33.41,1.15,
 2025-11-04,Camata,30.0,16.0,,,
 2025-11-04,Campamento Villa Tunari,,,,,40.6
+2025-11-04,Capinota,30.0,14.0,,,
 2025-11-04,Carabuco,,2.5,,,
 2025-11-04,Caranavi,35.0,21.0,,,
 2025-11-04,Caranavi_H (GPRS),,,,,0.6
@@ -62640,6 +62695,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-04,La Merced,34.0,14.0,,,
 2025-11-04,La Torre,33.0,11.0,,,
 2025-11-04,Laguna Colorada (GPRS),1.8,-1.4,14.8,0.52,
+2025-11-04,Laykacota,,,,,2.9
 2025-11-04,Llallagua,20.0,3.1,,,
 2025-11-04,MONTERO GUABIRA CIMAR,34.5,22.0,,,
 2025-11-04,Mecapaca_M (GPRS),14.94,13.34,91.2,32.11,
@@ -62766,6 +62822,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-05,Camargo_H (GPRS),,,,,0.5
 2025-11-05,Camargo_M (GPRS),19.51,15.1,48.43,24.75,
 2025-11-05,Camata,33.0,17.0,,,
+2025-11-05,Capinota,29.2,13.5,,,
 2025-11-05,Carabuco,,5.3,,,
 2025-11-05,Caranavi,36.0,20.5,,,
 2025-11-05,Carura_M - Guanay (GPRS),22.15,21.65,89.35,57.97,
@@ -62951,6 +63008,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-06,Chinoli,26.2,8.0,,,
 2025-11-06,Chipaya - GPRS,22.9,1.0,20.0,8.0,
 2025-11-06,Chirapaca,17.0,2.0,,,
+2025-11-06,Chojñapata,,,,,5.7
 2025-11-06,Chua Cocani_M (GPRS),8.42,6.78,52.89,40.46,
 2025-11-06,Chuqui Chuqui,38.0,22.0,,,
 2025-11-06,Chuquiago,29.0,14.0,,,
@@ -63131,6 +63189,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-07,Camargo_M (GPRS),23.63,17.21,5.53,1.81,
 2025-11-07,Camata,31.0,16.0,,,
 2025-11-07,Campamento Villa Tunari,,,,,60.5
+2025-11-07,Capinota,30.2,14.2,,,
 2025-11-07,Carabuco,,4.5,,,
 2025-11-07,Caranavi,35.0,21.0,,,
 2025-11-07,Carura_M - Guanay (GPRS),21.71,20.43,94.21,61.99,
@@ -63191,6 +63250,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-07,Mataral,,,,,10.5
 2025-11-07,Mecapaca_M (GPRS),14.5,10.88,63.8,28.75,
 2025-11-07,Minero (Unagro),,,,,32.0
+2025-11-07,Misicuni,,,,,0.2
 2025-11-07,Mizque - SDC (GPRS),19.3,15.19,47.72,13.83,
 2025-11-07,Mojo,26.0,6.0,,,
 2025-11-07,Okinawa I,31.0,22.0,,,
@@ -63314,6 +63374,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-08,Camargo_M (GPRS),18.06,15.95,52.51,32.28,
 2025-11-08,Camata,30.0,17.0,,,16.0
 2025-11-08,Campamento Villa Tunari,,,,,38.6
+2025-11-08,Capinota,29.5,13.5,,,
 2025-11-08,Carabuco,,3.0,,,14.9
 2025-11-08,Caranavi,32.0,21.5,,,11.0
 2025-11-08,Caranavi_H (GPRS),,,,,0.1
@@ -63376,6 +63437,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-08,Mataral,,,,,19.6
 2025-11-08,Mecapaca_M (GPRS),15.11,11.73,94.06,49.71,
 2025-11-08,Minero (Unagro),,,,,11.5
+2025-11-08,Misicuni,,,,,1.0
 2025-11-08,Mizque - SDC (GPRS),20.53,18.03,80.5,70.82,0.2
 2025-11-08,Mojo,28.0,4.0,,,
 2025-11-08,Nuevo Mundo,,,,,3.1
@@ -63509,6 +63571,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-09,Calacoto,,,,,0.5
 2025-11-09,Camargo_M (GPRS),12.71,11.66,49.42,24.78,
 2025-11-09,Camata,28.0,16.5,,,
+2025-11-09,Capinota,30.0,14.5,,,
 2025-11-09,Carabuco,,5.0,,,
 2025-11-09,Caranavi,33.5,20.0,,,
 2025-11-09,Carura_M - Guanay (GPRS),20.11,19.8,98.31,61.97,
@@ -63521,6 +63584,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-09,Chinoli,25.2,8.0,,,
 2025-11-09,Chipaya - GPRS,23.0,4.1,14.0,9.0,
 2025-11-09,Chirapaca,16.0,4.0,,,5.8
+2025-11-09,Chojñapata,,,,,6.2
 2025-11-09,Chua Cocani_M (GPRS),5.6,4.49,77.26,60.78,
 2025-11-09,Chuqui Chuqui,32.0,17.0,,,
 2025-11-09,Chuquiago,27.2,12.5,,,
@@ -63566,6 +63630,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-09,La Merced,24.0,11.0,,,
 2025-11-09,La Torre,33.0,16.0,,,
 2025-11-09,Laguna Colorada (GPRS),-1.77,-4.25,25.11,11.24,
+2025-11-09,Laykacota,,,,,12.7
 2025-11-09,Llallagua,22.0,6.0,,,
 2025-11-09,MONTERO GUABIRA CIMAR,,,,,2.5
 2025-11-09,Mecapaca,,,,,2.0
@@ -63704,6 +63769,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-10,Camargo_M (GPRS),14.2,11.71,49.77,28.05,
 2025-11-10,Camata,22.0,15.0,,,
 2025-11-10,Campamento Villa Tunari,,,,,40.3
+2025-11-10,Capinota,29.5,12.0,,,
 2025-11-10,Carabuco,,3.5,,,
 2025-11-10,Caranavi,35.0,21.5,,,
 2025-11-10,Caranavi_H (GPRS),,,,,0.3
@@ -63717,6 +63783,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-10,Chipaya - GPRS,22.5,4.1,16.0,12.4,
 2025-11-10,Chirapaca,16.0,5.0,,,
 2025-11-10,Chocolatal,,,,,1.0
+2025-11-10,Chojñapata,,,,,9.5
 2025-11-10,Chua Cocani_M (GPRS),7.64,6.72,73.74,50.75,
 2025-11-10,Chuqui Chuqui,32.0,19.0,,,
 2025-11-10,Chuquiago,28.0,10.0,,,
@@ -63906,6 +63973,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-11,Chinoli,21.4,8.2,,,
 2025-11-11,Chipaya - GPRS,23.0,0.3,21.3,9.4,
 2025-11-11,Chirapaca,17.0,3.0,,,5.3
+2025-11-11,Chojñapata,,,,,9.7
 2025-11-11,Chua Cocani_M (GPRS),6.79,4.95,82.5,54.32,0.3
 2025-11-11,Chuqui Chuqui,36.0,20.0,,,
 2025-11-11,Chuquiago,29.0,10.2,,,
@@ -63954,6 +64022,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-11,Llallagua,18.0,5.0,,,
 2025-11-11,MONTERO GUABIRA CIMAR,33.0,18.0,,,
 2025-11-11,Mecapaca_M (GPRS),12.45,10.3,100.0,41.77,
+2025-11-11,Misicuni,,,,,2.1
 2025-11-11,Mizque - SDC (GPRS),16.58,14.61,61.31,39.11,
 2025-11-11,Mojo,25.2,5.2,,,
 2025-11-11,Okinawa I,31.0,20.0,,,
@@ -64082,6 +64151,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-12,Camargo_H (GPRS),,,,,2.4
 2025-11-12,Camargo_M (GPRS),18.53,15.1,44.97,24.83,
 2025-11-12,Camata,29.5,16.5,,,
+2025-11-12,Capinota,28.0,14.2,,,
 2025-11-12,Carabuco,,3.0,,,
 2025-11-12,Caranavi,36.0,21.5,,,
 2025-11-12,Caranavi_H (GPRS),,,,,0.1
@@ -64094,6 +64164,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-12,Chipaya - GPRS,22.1,1.4,13.0,5.1,
 2025-11-12,Chirapaca,18.0,3.0,,,
 2025-11-12,Chocolatal,,,,,10.0
+2025-11-12,Chojñapata,,,,,6.5
 2025-11-12,Chua Cocani_M (GPRS),8.62,5.41,70.87,37.52,
 2025-11-12,Chuqui Chuqui,27.0,21.0,,,
 2025-11-12,Chuquiago,29.0,10.5,,,
@@ -64143,6 +64214,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-12,MONTERO GUABIRA CIMAR,32.0,21.0,,,
 2025-11-12,Mecapaca_M (GPRS),13.42,12.76,87.19,45.78,
 2025-11-12,Minero (Unagro),,,,,0.8
+2025-11-12,Misicuni,,,,,5.0
 2025-11-12,Mizque - SDC (GPRS),16.54,12.72,61.47,36.62,
 2025-11-12,Mojo,25.0,6.0,,,
 2025-11-12,Okinawa I,30.0,21.0,,,
@@ -64290,6 +64362,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-13,Chinoli,17.2,9.2,,,
 2025-11-13,Chipaya - GPRS,22.5,3.8,34.0,17.1,
 2025-11-13,Chirapaca,18.0,2.0,,,
+2025-11-13,Chojñapata,,,,,3.9
 2025-11-13,Chorocona,,,,,5.3
 2025-11-13,Chua Cocani_M (GPRS),7.43,5.96,56.94,48.54,
 2025-11-13,Chuqui Chuqui,33.0,19.0,,,
@@ -64507,6 +64580,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-14,Chipaya - GPRS,20.0,4.0,15.7,2.1,
 2025-11-14,Chirapaca,17.0,2.0,,,5.3
 2025-11-14,Chocolatal,,,,,2.0
+2025-11-14,Chojñapata,,,,,11.2
 2025-11-14,Chorocona,,,,,2.1
 2025-11-14,Chua Cocani_M (GPRS),5.6,4.36,78.69,53.74,
 2025-11-14,Chuqui Chuqui,,,,,20.2
@@ -64722,6 +64796,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-15,Chipaya - GPRS,23.6,0.5,21.2,9.7,
 2025-11-15,Chirapaca,19.0,3.0,,,
 2025-11-15,Chocolatal,,,,,2.0
+2025-11-15,Chojñapata,,,,,3.9
 2025-11-15,Chua Cocani_M (GPRS),7.89,4.62,73.77,60.0,
 2025-11-15,Chuqui Chuqui,35.0,18.0,,,
 2025-11-15,Chuquiago,28.0,10.0,,,
@@ -64899,6 +64974,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-16,Camargo_M (GPRS),15.59,13.29,51.02,4.64,
 2025-11-16,Camata,28.5,18.0,,,
 2025-11-16,Campamento Villa Tunari,,,,,120.6
+2025-11-16,Capinota,29.0,14.0,,,
 2025-11-16,Carabuco,,3.0,,,
 2025-11-16,Caranavi,34.0,20.5,,,
 2025-11-16,Caranavi_H (GPRS),,,,,1.2
@@ -65081,6 +65157,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-17,Camargo_M (GPRS),19.32,18.13,51.1,27.97,
 2025-11-17,Camata,29.0,16.5,,,21.0
 2025-11-17,Campamento Villa Tunari,,,,,198.5
+2025-11-17,Capinota,27.0,13.5,,,
 2025-11-17,Carabuco,,3.7,,,
 2025-11-17,Caranavi,31.5,22.0,,,12.5
 2025-11-17,Caranavi_H (GPRS),,,,,64.8
@@ -65283,6 +65360,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-18,Calachaka Jahuira,,,,,7.5
 2025-11-18,Camargo_M (GPRS),13.62,11.21,37.49,11.84,
 2025-11-18,Camata,30.0,17.0,,,
+2025-11-18,Capinota,28.0,10.2,,,
 2025-11-18,Carabuco,,4.0,,,
 2025-11-18,Caranavi,32.5,21.0,,,
 2025-11-18,Carura_M - Guanay (GPRS),18.24,17.83,97.0,73.08,
@@ -65339,11 +65417,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-18,La Merced,31.0,10.0,,,3.0
 2025-11-18,La Torre,33.0,10.0,,,
 2025-11-18,Laguna Colorada (GPRS),-1.6,-8.16,21.99,9.2,
+2025-11-18,Laykacota,,,,,2.3
 2025-11-18,Llallagua,16.0,4.2,,,
 2025-11-18,MONTERO GUABIRA CIMAR,,,,,10.1
 2025-11-18,Mataral,,,,,8.2
 2025-11-18,Mecapaca,,,,,3.5
 2025-11-18,Mecapaca_M (GPRS),12.28,11.13,100.0,49.16,
+2025-11-18,Misicuni,,,,,2.9
 2025-11-18,Mizque - SDC (GPRS),11.05,8.69,83.1,39.72,
 2025-11-18,Mojo,22.3,1.2,,,
 2025-11-18,Nuevo Mundo,,,,,1.8
@@ -65477,6 +65557,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-19,Calachaka Jahuira,,,,,0.6
 2025-11-19,Camargo_M (GPRS),16.45,13.76,27.23,12.44,
 2025-11-19,Camata,29.0,16.0,,,
+2025-11-19,Capinota,27.5,12.0,,,
 2025-11-19,Carabuco,,4.7,,,
 2025-11-19,Caranavi,32.0,21.5,,,
 2025-11-19,Caranavi_H (GPRS),,,,,0.1
@@ -65652,6 +65733,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-20,Calachaka Jahuira,,,,,1.0
 2025-11-20,Camargo_M (GPRS),15.44,12.49,37.19,19.44,
 2025-11-20,Camata,32.0,15.0,,,
+2025-11-20,Capinota,28.5,12.5,,,
 2025-11-20,Carabuco,,4.0,,,7.5
 2025-11-20,Caranavi,34.5,20.0,,,
 2025-11-20,Carura_M - Guanay (GPRS),21.86,20.9,91.07,62.38,0.1
@@ -65663,6 +65745,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-20,Chinoli,22.1,7.2,,,
 2025-11-20,Chipaya - GPRS,20.4,2.3,37.9,19.9,
 2025-11-20,Chirapaca,18.0,3.0,,,1.0
+2025-11-20,Chojñapata,,,,,6.6
 2025-11-20,Chua Cocani_M (GPRS),5.99,4.95,96.1,65.53,1.7
 2025-11-20,Chuqui Chuqui,36.0,15.0,,,
 2025-11-20,Chuquiago,27.0,5.0,,,
@@ -65707,10 +65790,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-20,La Merced,34.0,14.0,,,
 2025-11-20,La Torre,30.0,12.0,,,
 2025-11-20,Laguna Colorada (GPRS),-0.37,-2.81,61.38,14.02,
+2025-11-20,Laykacota,,,,,0.3
 2025-11-20,Llallagua,18.4,3.0,,,
 2025-11-20,MONTERO GUABIRA CIMAR,30.0,18.0,,,
 2025-11-20,Mecapaca,,,,,2.0
 2025-11-20,Mecapaca_M (GPRS),12.15,9.1,72.78,34.1,
+2025-11-20,Misicuni,,,,,1.2
 2025-11-20,Mizque - SDC (GPRS),14.51,11.21,67.72,35.53,
 2025-11-20,Mojo,22.1,2.0,,,
 2025-11-20,Okinawa I,30.0,20.0,,,
@@ -65836,6 +65921,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-21,Camargo_M (GPRS),18.32,13.51,33.78,14.57,
 2025-11-21,Camata,34.0,16.0,,,
 2025-11-21,Campamento Villa Tunari,,,,,10.3
+2025-11-21,Capinota,28.0,12.0,,,
 2025-11-21,Carabuco,,2.0,,,
 2025-11-21,Caranavi,35.0,20.5,,,
 2025-11-21,Caranavi_H (GPRS),,,,,0.1
@@ -65846,6 +65932,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-21,Chinoli,21.1,7.0,,,
 2025-11-21,Chipaya - GPRS,20.0,1.9,17.8,7.2,
 2025-11-21,Chirapaca,19.0,2.0,,,
+2025-11-21,Chojñapata,,,,,7.7
 2025-11-21,Chua Cocani_M (GPRS),9.34,3.31,49.69,37.06,
 2025-11-21,Chuqui Chuqui,35.0,17.0,,,
 2025-11-21,Chuquiago,28.5,5.5,,,
@@ -66018,6 +66105,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-22,Camargo_H (GPRS),,,,,0.5
 2025-11-22,Camargo_M (GPRS),14.43,13.64,40.94,23.86,
 2025-11-22,Camata,31.0,16.5,,,
+2025-11-22,Capinota,28.0,13.2,,,
 2025-11-22,Carabuco,,5.0,,,
 2025-11-22,Caranavi,33.5,21.0,,,7.0
 2025-11-22,Caranavi_H (GPRS),,,,,15.4
@@ -66029,6 +66117,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-22,Chinoli,20.1,8.2,,,
 2025-11-22,Chipaya - GPRS,22.3,0.0,28.3,11.0,
 2025-11-22,Chirapaca,19.0,2.0,,,
+2025-11-22,Chojñapata,,,,,6.8
 2025-11-22,Chorocona,,,,,2.1
 2025-11-22,Chua Cocani_M (GPRS),8.79,7.51,66.18,37.07,
 2025-11-22,Chuqui Chuqui,,,,,21.4
@@ -66220,6 +66309,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-23,Chipaya - GPRS,22.5,-0.1,16.0,9.0,
 2025-11-23,Chirapaca,18.0,4.0,,,
 2025-11-23,Chocolatal,,,,,1.0
+2025-11-23,Chojñapata,,,,,9.9
 2025-11-23,Chua Cocani_M (GPRS),9.07,8.16,72.37,47.95,
 2025-11-23,Chuqui Chuqui,22.0,16.0,,,
 2025-11-23,Chuquiago,28.0,13.0,,,
@@ -66415,6 +66505,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-24,Chinoli,21.2,7.2,,,
 2025-11-24,Chipaya - GPRS,,-0.5,,,
 2025-11-24,Chirapaca,18.0,3.0,,,
+2025-11-24,Chojñapata,,,,,3.6
 2025-11-24,Chua Cocani_M (GPRS),7.57,4.63,68.91,50.17,
 2025-11-24,Chuqui Chuqui,33.0,19.0,,,
 2025-11-24,Chuquiago,27.5,9.5,,,
@@ -66459,6 +66550,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-24,La Merced,30.0,14.0,,,
 2025-11-24,La Torre,30.0,17.0,,,
 2025-11-24,Laguna Colorada (GPRS),0.17,-7.41,34.11,12.8,
+2025-11-24,Laykacota,,,,,3.6
 2025-11-24,Llallagua,16.4,7.0,,,
 2025-11-24,MONTERO GUABIRA CIMAR,35.0,21.0,,,
 2025-11-24,Mecapaca_M (GPRS),12.37,11.78,82.99,45.8,
@@ -66592,6 +66684,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-25,Camata,28.0,17.0,,,
 2025-11-25,Campamento Villa Tunari,,,,,0.5
 2025-11-25,Campanario,,,,,1.0
+2025-11-25,Capinota,27.0,12.5,,,
 2025-11-25,Carabuco,,6.3,,,
 2025-11-25,Caranavi,31.5,21.5,,,
 2025-11-25,Caranavi_H (GPRS),,,,,2.2
@@ -66649,6 +66742,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-25,La Merced,33.0,14.0,,,4.0
 2025-11-25,La Torre,30.0,12.0,,,
 2025-11-25,Laguna Colorada (GPRS),2.39,-7.18,24.41,12.0,
+2025-11-25,Laykacota,,,,,1.2
 2025-11-25,Llallagua,,,,,5.8
 2025-11-25,MONTERO GUABIRA CIMAR,36.0,20.0,,,
 2025-11-25,Mecapaca,,,,,0.4
@@ -66784,6 +66878,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-26,Camata,24.0,16.0,,,14.0
 2025-11-26,Campamento Villa Tunari,,,,,0.6
 2025-11-26,Campanario,,,,,1.0
+2025-11-26,Capinota,28.5,12.0,,,
 2025-11-26,Carabuco,,5.0,,,4.3
 2025-11-26,Caranavi,34.5,20.5,,,
 2025-11-26,Carura_M - Guanay (GPRS),22.56,21.79,98.79,94.33,0.1
@@ -66796,6 +66891,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-26,Chinoli,23.0,7.0,,,
 2025-11-26,Chipaya - GPRS,21.0,2.8,,,
 2025-11-26,Chirapaca,18.0,4.0,,,
+2025-11-26,Chojñapata,,,,,11.3
 2025-11-26,Chua Cocani_M (GPRS),8.75,3.12,85.2,51.66,
 2025-11-26,Chuqui Chuqui,32.0,17.0,,,
 2025-11-26,Chuquiago,27.0,11.5,,,
@@ -66844,6 +66940,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-26,La Merced,34.0,16.0,,,
 2025-11-26,La Torre,28.0,14.0,,,
 2025-11-26,Laguna Colorada (GPRS),-0.07,-8.81,25.34,10.69,
+2025-11-26,Laykacota,,,,,0.2
 2025-11-26,Llallagua,15.6,4.0,,,
 2025-11-26,MONTERO GUABIRA CIMAR,37.0,20.0,,,
 2025-11-26,Mecapaca,,,,,2.1
@@ -66979,6 +67076,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-27,Calachaka Jahuira,,,,,2.2
 2025-11-27,Camargo_M (GPRS),16.76,13.73,48.78,19.36,
 2025-11-27,Camata,31.5,15.0,,,
+2025-11-27,Capinota,30.2,13.2,,,
 2025-11-27,Carabuco,,4.5,,,6.5
 2025-11-27,Caranavi,33.5,21.5,,,4.0
 2025-11-27,Carura_M - Guanay (GPRS),21.11,20.62,93.81,60.2,0.1
@@ -67155,6 +67253,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-28,Camargo_H (GPRS),,,,,1.1
 2025-11-28,Camargo_M (GPRS),17.99,14.06,43.35,24.69,
 2025-11-28,Camata,33.0,17.0,,,
+2025-11-28,Capinota,27.5,12.5,,,
 2025-11-28,Carabuco,,3.7,,,
 2025-11-28,Caranavi,31.5,21.0,,,6.5
 2025-11-28,Carura_M - Guanay (GPRS),21.05,19.84,93.92,62.33,
@@ -67361,6 +67460,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-29,Chipaya - GPRS,20.3,6.5,,,5.8
 2025-11-29,Chirapaca,17.0,4.0,,,2.5
 2025-11-29,Chocolatal,,,,,1.0
+2025-11-29,Chojñapata,,,,,5.6
 2025-11-29,Chua Cocani_M (GPRS),9.01,7.11,93.5,67.29,0.2
 2025-11-29,Chuqui Chuqui,36.0,19.0,,,
 2025-11-29,Chuquiago,28.0,8.0,,,
@@ -67412,6 +67512,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-29,Llallagua,17.0,6.1,,,
 2025-11-29,MONTERO GUABIRA CIMAR,35.0,21.0,,,
 2025-11-29,Mecapaca_M (GPRS),14.74,12.25,73.3,40.82,
+2025-11-29,Misicuni,,,,,10.2
 2025-11-29,Mizque - SDC (GPRS),17.06,14.42,79.6,36.6,
 2025-11-29,Mojo,22.4,4.3,,,
 2025-11-29,Okinawa I,30.0,21.0,,,
@@ -67546,6 +67647,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-30,Camargo_M (GPRS),15.57,13.64,46.93,28.7,
 2025-11-30,Camata,32.0,17.0,,,
 2025-11-30,Campamento Villa Tunari,,,,,22.5
+2025-11-30,Capinota,30.0,14.0,,,
 2025-11-30,Carabuco,,6.0,,,7.7
 2025-11-30,Caranavi,33.0,21.0,,,
 2025-11-30,Carura_M - Guanay (GPRS),22.59,21.66,97.36,69.16,
@@ -67558,6 +67660,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-30,Chinoli,22.2,7.6,,,
 2025-11-30,Chipaya - GPRS,22.0,4.3,,,
 2025-11-30,Chirapaca,17.0,5.0,,,9.3
+2025-11-30,Chojñapata,,,,,8.1
 2025-11-30,Chua Cocani_M (GPRS),8.02,6.45,75.48,49.57,
 2025-11-30,Chuqui Chuqui,36.0,17.0,,,
 2025-11-30,Chuquiago,28.2,9.0,,,
@@ -67612,6 +67715,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-30,MONTERO GUABIRA CIMAR,32.0,21.0,,,
 2025-11-30,Mecapaca,,,,,3.1
 2025-11-30,Mecapaca_M (GPRS),12.97,12.11,86.42,44.92,
+2025-11-30,Misicuni,,,,,0.1
 2025-11-30,Mizque - SDC (GPRS),16.07,12.71,58.71,32.88,
 2025-11-30,Mojo,25.0,4.2,,,2.6
 2025-11-30,Okinawa I,32.0,24.0,,,
@@ -67739,6 +67843,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-01,Alcantarí_Aeropuerto,,,,,0.5
 2025-12-01,Alto Obrajes_Barrio Magisterio,,,,,7.2
 2025-12-01,Alto Peñas (GPRS),6.41,4.67,90.1,60.64,0.5
+2025-12-01,Ancoraimes,,,,,11.2
 2025-12-01,Andamarca,25.1,5.2,,,
 2025-12-01,Anzaldo_M (GPRS),15.68,13.21,70.4,38.8,0.1
 2025-12-01,Apolo_M (GPRS),18.66,17.85,98.26,72.44,
@@ -67748,11 +67853,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-01,Azurduy,24.0,10.0,,,
 2025-12-01,Cabaña Forestal Oruro,22.2,6.5,,,
 2025-12-01,Caiza D,25.0,6.4,,,1.7
+2025-12-01,Calachaka Jahuira,,,,,13.0
 2025-12-01,Camargo_H (GPRS),,,,,0.3
 2025-12-01,Camargo_M (GPRS),17.91,15.79,56.32,26.51,
 2025-12-01,Camata,,,,,3.0
 2025-12-01,Campamento Villa Tunari,,,,,13.6
 2025-12-01,Campanario,,,,,13.6
+2025-12-01,Capinota,28.2,13.5,,,
 2025-12-01,Carabuco,,5.5,,,5.9
 2025-12-01,Caranavi,34.5,20.5,,,
 2025-12-01,Caranavi_H (GPRS),,,,,2.0
@@ -67760,11 +67867,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-01,Cayarani,,,,,5.1
 2025-12-01,Chacala Iniaf (GPRS),8.3,1.7,23.0,15.7,
 2025-12-01,Chaqui,20.2,8.8,,,0.2
+2025-12-01,Chasqui (Escoma),,,,,2.3
 2025-12-01,Chillca,15.0,3.6,,,5.8
 2025-12-01,Chinchaya,,,,,1.0
 2025-12-01,Chinoli,24.0,8.2,,,
 2025-12-01,Chipaya - GPRS,23.1,2.6,,,
 2025-12-01,Chirapaca,18.0,5.0,,,3.0
+2025-12-01,Chojñapata,,,,,15.1
 2025-12-01,Chua Cocani_M (GPRS),9.99,7.83,82.8,68.12,0.2
 2025-12-01,Chuqui Chuqui,35.0,22.0,,,
 2025-12-01,Chuquiago,24.0,7.0,,,3.5
@@ -67781,6 +67890,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-01,Cotagaita Mosoj Llajta,26.0,12.0,,,1.0
 2025-12-01,Cotagaita_H (GPRS),,,,,21.8
 2025-12-01,Covendo_M (GPRS),23.61,22.88,99.87,82.86,
+2025-12-01,Cruzpata (Escoma),,,,,3.4
 2025-12-01,Cuatro Cañadas - CEA-2 (GPRS),24.58,23.93,93.2,73.07,
 2025-12-01,Cuatro Cañadas - Colonia Chihuahua (GPRS),25.11,23.67,86.6,70.32,
 2025-12-01,Culpina,24.7,8.0,,,
@@ -67801,6 +67911,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-01,Huarisuyo (GPRS),7.72,6.15,91.9,68.86,
 2025-12-01,Huayllamarca,22.0,2.5,,,6.0
 2025-12-01,Huayrocondo,18.2,4.3,,,5.2
+2025-12-01,Incalacaya,,,,,2.9
 2025-12-01,Incapampa - Coroico_M (GPRS),17.12,16.63,99.82,82.0,
 2025-12-01,Isla Del Sol,12.0,6.0,,,4.5
 2025-12-01,Isla Suriqui_M (GPRS),11.56,10.19,78.83,70.38,
@@ -67815,9 +67926,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-01,La Torre,29.0,13.0,,,
 2025-12-01,La Violeta,,,,,3.3
 2025-12-01,Laguna Colorada (GPRS),0.44,-4.43,30.28,15.07,
+2025-12-01,Laykacota,,,,,8.6
 2025-12-01,Llallagua,,,,,1.2
 2025-12-01,MONTERO GUABIRA CIMAR,35.0,21.0,,,
 2025-12-01,Mecapaca_M (GPRS),15.42,14.46,100.0,58.13,5.2
+2025-12-01,Minero (Unagro),,,,,9.8
 2025-12-01,Mizque - SDC (GPRS),19.62,17.79,66.9,43.21,
 2025-12-01,Mojo,23.2,5.2,,,
 2025-12-01,Okinawa I,27.0,19.0,,,
@@ -67862,6 +67975,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-01,Salla,,,,,13.2
 2025-12-01,Salo_M (GPRS),10.87,6.18,59.92,29.15,
 2025-12-01,Samasa,20.2,3.2,,,
+2025-12-01,San Andres,29.0,16.0,,,17.5
 2025-12-01,San Antonio - Los Ángeles (GPRS),24.55,23.8,90.6,76.03,
 2025-12-01,San Benito,26.0,12.0,,,
 2025-12-01,San Calixto,17.0,6.0,,,8.2
@@ -67943,8 +68057,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-02,Aguadas (GPRS),4.84,3.85,92.5,68.73,0.3
 2025-12-02,Aguaraycito,28.0,27.0,,,
 2025-12-02,Aiquile (GPRS),17.62,12.86,94.2,56.15,
+2025-12-02,Alcantarí_Aeropuerto,19.6,10.7,,,
 2025-12-02,Alto Obrajes_Barrio Magisterio,,,,,6.7
 2025-12-02,Alto Peñas (GPRS),8.14,2.17,68.13,50.84,
+2025-12-02,Ancoraimes,,,,,4.2
 2025-12-02,Andamarca,26.0,6.2,,,0.1
 2025-12-02,Anzaldo_M (GPRS),19.91,8.67,99.61,41.33,0.2
 2025-12-02,Apolo_M (GPRS),23.59,17.12,98.26,56.26,0.7
@@ -67953,20 +68069,24 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-02,Azurduy,,,,,2.0
 2025-12-02,Cabaña Forestal Oruro,20.2,7.4,,,
 2025-12-02,Caiza D,25.2,7.0,,,
+2025-12-02,Calachaka Jahuira,,,,,4.5
 2025-12-02,Camargo_M (GPRS),26.83,12.58,58.88,30.04,
 2025-12-02,Camata,,,,,20.0
 2025-12-02,Campamento Villa Tunari,,,,,0.5
+2025-12-02,Capinota,27.0,13.0,,,8.3
 2025-12-02,Carabuco,,5.7,,,
 2025-12-02,Caranavi,32.0,21.0,,,6.5
 2025-12-02,Caranavi_H (GPRS),,,,,5.2
 2025-12-02,Carura_M - Guanay (GPRS),29.46,21.11,98.62,60.12,0.2
 2025-12-02,Chacala Iniaf (GPRS),19.4,2.4,46.8,7.7,
 2025-12-02,Chaqui,17.6,5.6,,,
+2025-12-02,Chasqui (Escoma),,,,,2.0
 2025-12-02,Chillca,17.0,4.0,,,
 2025-12-02,Chinchaya,,,,,6.0
 2025-12-02,Chinoli,21.2,9.1,,,
 2025-12-02,Chipaya - GPRS,22.1,0.3,,,
 2025-12-02,Chirapaca,18.0,5.0,,,6.3
+2025-12-02,Chojñapata,,,,,9.2
 2025-12-02,Chorocona,,,,,6.2
 2025-12-02,Chua Cocani_M (GPRS),9.93,5.86,73.99,52.7,
 2025-12-02,Chuqui Chuqui,34.0,23.0,,,
@@ -67987,6 +68107,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-02,Cotagaita Mosoj Llajta,26.0,10.0,,,25.0
 2025-12-02,Cotagaita_H (GPRS),,,,,0.1
 2025-12-02,Covendo_M (GPRS),28.99,22.31,99.91,72.17,0.4
+2025-12-02,Cruzpata (Escoma),,,,,3.0
 2025-12-02,Cuatro Cañadas - CEA-2 (GPRS),26.42,24.72,84.6,70.35,
 2025-12-02,Cuatro Cañadas - Colonia Chihuahua (GPRS),25.31,24.14,82.9,68.83,
 2025-12-02,Culpina,,,,,5.1
@@ -67999,6 +68120,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-02,El Tejar (La Paz),,,,,8.1
 2025-12-02,El Villar,26.8,15.1,,,
 2025-12-02,Emborozu,,,,,29.5
+2025-12-02,Guajara-Mirim - Guayaramerín,34.4,23.2,,,
 2025-12-02,Guanay_H (GPRS),,,,,34.9
 2025-12-02,Guayaramerin_M (GPRS),33.56,23.72,100.0,60.33,0.4
 2025-12-02,Hichucota,13.0,0.0,,,1.5
@@ -68006,6 +68128,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-02,Huarisuyo (GPRS),8.37,5.44,91.2,51.8,
 2025-12-02,Huayllamarca,18.5,2.5,,,
 2025-12-02,Huayrocondo,16.8,4.9,,,4.4
+2025-12-02,Incalacaya,,,,,5.3
 2025-12-02,Incapampa - Coroico_M (GPRS),27.42,15.67,99.84,67.24,0.1
 2025-12-02,Isla Del Sol,13.0,5.0,,,7.8
 2025-12-02,Isla Suriqui_M (GPRS),9.27,6.72,73.81,55.22,
@@ -68019,10 +68142,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-02,La Torre,27.0,12.0,,,
 2025-12-02,La Violeta,,,,,12.5
 2025-12-02,Laguna Colorada (GPRS),-0.07,-5.45,35.56,7.97,
+2025-12-02,Laykacota,,,,,8.0
 2025-12-02,Llallagua,17.1,6.0,,,
 2025-12-02,MONTERO GUABIRA CIMAR,33.0,21.0,,,
 2025-12-02,Mataral,,,,,10.3
 2025-12-02,Mecapaca_M (GPRS),23.06,11.98,100.0,43.4,
+2025-12-02,Minero (Unagro),,,,,1.0
 2025-12-02,Mizque - SDC (GPRS),20.27,17.74,90.6,57.98,
 2025-12-02,Mojo,21.2,4.1,,,
 2025-12-02,Muyuquiri,,,,,9.0
@@ -68075,6 +68200,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-02,Salo_M (GPRS),21.34,3.13,71.07,27.81,1.9
 2025-12-02,Samaipata,,,,,2.1
 2025-12-02,Samasa,,,,,17.2
+2025-12-02,San Andres,27.0,14.0,,,5.7
 2025-12-02,San Antonio - Los Ángeles (GPRS),25.82,23.82,92.5,83.7,
 2025-12-02,San Benito,22.0,11.0,,,6.0
 2025-12-02,San Buenaventura_M (GPRS),30.5,24.11,99.9,72.21,31.2
@@ -68155,6 +68281,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-03,Aguadas (GPRS),6.44,5.46,89.0,75.68,2.0
 2025-12-03,Aguaraycito,36.0,23.0,,,
 2025-12-03,Aiquile (GPRS),15.44,13.59,64.95,50.73,
+2025-12-03,Alcantarí_Aeropuerto,20.1,9.2,,,
 2025-12-03,Alto Peñas (GPRS),5.28,2.96,79.21,55.74,
 2025-12-03,Andamarca,25.2,5.3,,,
 2025-12-03,Anzaldo,,,,,2.1
@@ -68167,9 +68294,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-03,Cabaña Forestal Oruro,20.3,6.9,,,0.2
 2025-12-03,Cabezas SC,,,,,38.0
 2025-12-03,Caiza D,27.0,10.0,,,
+2025-12-03,Calachaka Jahuira,,,,,4.0
 2025-12-03,Camargo_M (GPRS),17.31,15.95,50.49,29.53,
 2025-12-03,Camata,,,,,13.0
 2025-12-03,Campamento Villa Tunari,,,,,6.5
+2025-12-03,Capinota,26.2,12.0,,,1.2
 2025-12-03,Carabuco,,6.3,,,
 2025-12-03,Caranavi,33.5,20.0,,,2.0
 2025-12-03,Caranavi_H (GPRS),,,,,3.1
@@ -68183,6 +68312,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-03,Chipaya - GPRS,,,,,2.5
 2025-12-03,Chirapaca,17.0,3.0,,,
 2025-12-03,Chocolatal,,,,,7.0
+2025-12-03,Chojñapata,,,,,2.5
 2025-12-03,Chorocona,,,,,8.3
 2025-12-03,Chua Cocani_M (GPRS),9.67,5.99,73.66,53.75,
 2025-12-03,Chuqui Chuqui,33.0,20.0,,,
@@ -68220,6 +68350,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-03,Huarisuyo (GPRS),7.1,3.68,95.8,49.32,
 2025-12-03,Huayllamarca,17.0,3.4,,,
 2025-12-03,Huayrocondo,18.9,1.7,,,
+2025-12-03,Incalacaya,,,,,7.5
 2025-12-03,Incapampa - Coroico_M (GPRS),17.14,15.67,99.85,76.59,
 2025-12-03,Isla Del Sol,14.0,6.0,,,1.6
 2025-12-03,Isla Suriqui_M (GPRS),10.32,8.03,81.3,49.48,
@@ -68281,6 +68412,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-03,Salla,,,,,2.2
 2025-12-03,Salo_M (GPRS),10.87,6.31,57.68,33.57,
 2025-12-03,Samasa,19.2,6.2,,,
+2025-12-03,San Andres,24.0,11.0,,,16.7
 2025-12-03,San Antonio - Los Ángeles (GPRS),24.34,23.52,86.6,71.62,
 2025-12-03,San Benito,22.0,10.0,,,
 2025-12-03,San Buenaventura_M (GPRS),23.53,22.75,99.86,99.75,18.1
@@ -68359,8 +68491,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-04,Aguadas (GPRS),7.16,5.35,86.4,66.71,0.4
 2025-12-04,Aguaraycito,37.0,22.0,,,
 2025-12-04,Aiquile (GPRS),16.79,15.86,90.2,52.58,
+2025-12-04,Alcantarí_Aeropuerto,19.8,9.0,,,
 2025-12-04,Alto Obrajes_Barrio Magisterio,,,,,5.2
 2025-12-04,Alto Peñas (GPRS),4.59,3.46,91.3,64.72,
+2025-12-04,Ancoraimes,,,,,0.2
 2025-12-04,Andamarca,24.5,6.1,,,18.7
 2025-12-04,Anzaldo_M (GPRS),12.55,11.23,89.13,52.66,0.1
 2025-12-04,Apolo_M (GPRS),17.6,16.88,98.36,63.58,0.1
@@ -68370,10 +68504,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-04,Cabaña Forestal Oruro,20.5,7.9,,,20.0
 2025-12-04,Cabezas SC,,,,,10.0
 2025-12-04,Caiza D,26.0,12.0,,,
+2025-12-04,Calachaka Jahuira,,,,,19.7
 2025-12-04,Camargo_H (GPRS),,,,,1.3
 2025-12-04,Camargo_M (GPRS),16.91,13.57,50.68,27.1,
 2025-12-04,Camata,25.0,17.0,,,
 2025-12-04,Campanario,,,,,1.4
+2025-12-04,Capinota,28.0,13.2,,,
 2025-12-04,Carabuco,,6.0,,,
 2025-12-04,Caranavi,33.0,20.5,,,
 2025-12-04,Carura_M - Guanay (GPRS),21.34,21.11,98.64,73.73,0.2
@@ -68381,11 +68517,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-04,Cayarani,,,,,20.0
 2025-12-04,Chacala Iniaf (GPRS),7.9,6.2,64.5,46.0,
 2025-12-04,Chaqui,20.0,7.0,,,
+2025-12-04,Chasqui (Escoma),,,,,2.7
 2025-12-04,Chillca,18.2,2.0,,,1.0
 2025-12-04,Chinchaya,,,,,12.0
 2025-12-04,Chinoli,21.4,8.0,,,
 2025-12-04,Chipaya - GPRS,,,,,11.8
 2025-12-04,Chirapaca,18.0,4.0,,,
+2025-12-04,Chojñapata,,,,,16.0
 2025-12-04,Chorocona,,,,,9.2
 2025-12-04,Chua Cocani_M (GPRS),7.11,5.67,81.2,69.57,
 2025-12-04,Chuqui Chuqui,40.0,21.0,,,
@@ -68405,6 +68543,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-04,Cotagaita Mosoj Llajta,26.0,14.0,,,
 2025-12-04,Cotagaita_H (GPRS),,,,,8.8
 2025-12-04,Covendo_M (GPRS),22.04,21.35,90.62,65.26,
+2025-12-04,Cruzpata (Escoma),,,,,3.1
 2025-12-04,Cuatro Cañadas - CEA-2 (GPRS),26.1,24.26,92.3,80.9,
 2025-12-04,Cuatro Cañadas - Colonia Chihuahua (GPRS),25.58,24.26,97.0,86.0,
 2025-12-04,Cuesta del Zorro (Catacora),,,,,4.0
@@ -68427,6 +68566,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-04,Huarisuyo (GPRS),5.68,3.72,87.4,53.03,
 2025-12-04,Huayllamarca,19.0,4.0,,,6.1
 2025-12-04,Huayrocondo,15.9,4.0,,,
+2025-12-04,Incalacaya,,,,,8.5
 2025-12-04,Incapampa - Coroico_M (GPRS),15.67,15.14,99.85,84.71,
 2025-12-04,Isla Del Sol,11.0,5.0,,,7.4
 2025-12-04,Isla Suriqui_M (GPRS),8.7,7.7,83.0,68.04,0.1
@@ -68439,10 +68579,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-04,La Torre,27.0,13.0,,,
 2025-12-04,La Violeta,,,,,2.2
 2025-12-04,Laguna Colorada (GPRS),6.33,2.62,68.92,31.08,
+2025-12-04,Laykacota,,,,,3.3
 2025-12-04,Llallagua,,,,,1.2
 2025-12-04,MONTERO GUABIRA CIMAR,34.0,22.0,,,
 2025-12-04,Mataral,,,,,15.4
 2025-12-04,Mecapaca_M (GPRS),12.43,11.93,100.0,61.81,
+2025-12-04,Minero (Unagro),,,,,3.6
 2025-12-04,Mizque - SDC (GPRS),17.39,15.16,86.1,47.77,
 2025-12-04,Mojo,18.2,6.0,,,2.2
 2025-12-04,Okinawa I,30.0,22.0,,,3.2
@@ -68492,6 +68634,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-04,Salo_M (GPRS),11.49,7.59,52.59,28.66,
 2025-12-04,Samaipata,,,,,20.8
 2025-12-04,Samasa,22.2,8.0,,,
+2025-12-04,San Andres,28.0,10.0,,,
 2025-12-04,San Antonio,,,,,1.0
 2025-12-04,San Antonio - Los Ángeles (GPRS),23.87,22.95,95.8,90.2,
 2025-12-04,San Benito,22.0,11.0,,,
@@ -68578,6 +68721,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-05,Alcantarí_Aeropuerto,,,,,0.4
 2025-12-05,Alto Obrajes_Barrio Magisterio,,,,,12.8
 2025-12-05,Alto Peñas (GPRS),5.24,3.3,90.9,73.88,
+2025-12-05,Ancoraimes,,,,,13.2
 2025-12-05,Andamarca,24.1,5.0,,,4.4
 2025-12-05,Anzaldo_M (GPRS),11.56,9.44,70.79,47.9,
 2025-12-05,Apolo_M (GPRS),17.01,16.51,88.19,60.52,
@@ -68588,11 +68732,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-05,Cabaña Forestal Oruro,19.8,5.6,,,60.2
 2025-12-05,Cabezas SC,,,,,13.0
 2025-12-05,Caiza D,27.0,9.0,,,8.0
+2025-12-05,Calachaka Jahuira,,,,,19.7
 2025-12-05,Calacoto,,,,,17.9
 2025-12-05,Camargo_H (GPRS),,,,,24.8
 2025-12-05,Camargo_M (GPRS),15.07,14.15,65.65,37.77,
 2025-12-05,Camata,,,,,4.0
 2025-12-05,Campanario,,,,,7.3
+2025-12-05,Capinota,27.0,12.5,,,
 2025-12-05,Carabuco,,6.5,,,10.2
 2025-12-05,Caranavi,35.5,21.0,,,
 2025-12-05,Caranavi_H (GPRS),,,,,9.7
@@ -68601,12 +68747,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-05,Cayarani,,,,,34.9
 2025-12-05,Chacala Iniaf (GPRS),7.7,4.6,87.0,65.3,
 2025-12-05,Chaqui,16.3,6.8,,,7.1
+2025-12-05,Chasqui (Escoma),,,,,11.8
 2025-12-05,Chillca,18.0,2.6,,,9.1
 2025-12-05,Chinchaya,,,,,8.8
 2025-12-05,Chinoli,21.2,7.2,,,
 2025-12-05,Chipaya - GPRS,,,,,3.2
 2025-12-05,Chirapaca,17.0,3.0,,,10.8
 2025-12-05,Chocolatal,,,,,1.0
+2025-12-05,Chojñapata,,,,,11.1
 2025-12-05,Chorocona,,,,,17.3
 2025-12-05,Chua Cocani_M (GPRS),5.67,4.23,93.5,67.49,
 2025-12-05,Chuqui Chuqui,,,,,3.1
@@ -68626,6 +68774,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-05,Cotagaita Mosoj Llajta,26.0,11.0,,,9.0
 2025-12-05,Cotagaita_H (GPRS),,,,,2.7
 2025-12-05,Covendo_M (GPRS),21.92,21.15,99.9,69.62,
+2025-12-05,Cruzpata (Escoma),,,,,12.8
 2025-12-05,Cuatro Cañadas - CEA-2 (GPRS),24.52,23.54,95.2,68.46,
 2025-12-05,Cuatro Cañadas - Colonia Chihuahua (GPRS),24.79,22.83,100.0,85.7,0.4
 2025-12-05,Cuesta del Zorro (Catacora),,,,,3.5
@@ -68647,6 +68796,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-05,Huarisuyo (GPRS),6.17,4.8,89.5,68.32,
 2025-12-05,Huayllamarca,17.0,2.5,,,5.5
 2025-12-05,Huayrocondo,16.9,3.8,,,12.8
+2025-12-05,Incalacaya,,,,,10.3
 2025-12-05,Incapampa - Coroico_M (GPRS),16.06,14.61,99.83,62.84,0.1
 2025-12-05,Isla Del Sol,13.0,5.0,,,15.5
 2025-12-05,Isla Suriqui_M (GPRS),6.39,4.82,85.9,68.56,
@@ -68660,6 +68810,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-05,La Torre,,,,,20.0
 2025-12-05,La Violeta,,,,,1.4
 2025-12-05,Laguna Colorada (GPRS),1.81,1.4,71.81,38.72,
+2025-12-05,Laykacota,,,,,12.4
 2025-12-05,Llallagua,,,,,3.0
 2025-12-05,MONTERO GUABIRA CIMAR,36.0,20.0,,,
 2025-12-05,Mecapaca_M (GPRS),11.64,10.59,100.0,61.96,0.2
@@ -68711,6 +68862,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-05,Salo_M (GPRS),8.36,7.24,97.58,33.17,4.8
 2025-12-05,Samaipata,,,,,2.0
 2025-12-05,Samasa,,,,,11.2
+2025-12-05,San Andres,32.0,15.0,,,
 2025-12-05,San Antonio,,,,,8.0
 2025-12-05,San Antonio - Los Ángeles (GPRS),23.17,22.21,83.6,67.02,
 2025-12-05,San Benito,25.0,7.0,,,
@@ -68744,6 +68896,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-05,Talula_Tako Tako,,,,,12.4
 2025-12-05,Tarabuco,15.9,8.5,,,
 2025-12-05,Tarapaya,23.9,9.0,,,
+2025-12-05,Tarata,,,,,0.5
 2025-12-05,Templo (GPRS),3.73,1.07,79.63,68.67,
 2025-12-05,Temporal - SDC (GPRS),11.46,10.31,70.77,0.17,
 2025-12-05,Terrazas de Achumani,,,,,17.8
@@ -68806,12 +68959,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-06,Cabaña Forestal Oruro,20.0,5.3,,,1.0
 2025-12-06,Cachimayu,,,,,10.7
 2025-12-06,Caiza D,25.0,10.0,,,
+2025-12-06,Calachaka Jahuira,,,,,8.0
 2025-12-06,Calacoto,,,,,8.5
 2025-12-06,Camargo_H (GPRS),,,,,3.4
 2025-12-06,Camargo_M (GPRS),12.83,11.73,70.31,35.0,
 2025-12-06,Camata,32.0,17.0,,,
 2025-12-06,Campamento Villa Tunari,,,,,6.5
 2025-12-06,Campanario,,,,,6.5
+2025-12-06,Capinota,27.0,13.0,,,1.3
 2025-12-06,Carabuco,,4.0,,,
 2025-12-06,Caranavi,30.0,22.0,,,12.5
 2025-12-06,Caranavi_H (GPRS),,,,,1.1
@@ -68819,11 +68974,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-06,Cayarani,,,,,5.2
 2025-12-06,Chacala Iniaf (GPRS),6.9,4.8,49.2,32.8,
 2025-12-06,Chaqui,19.1,7.0,,,
+2025-12-06,Chasqui (Escoma),,,,,1.7
 2025-12-06,Chillca,19.0,1.5,,,4.7
 2025-12-06,Chinchaya,,,,,1.0
 2025-12-06,Chinoli,20.0,8.2,,,
 2025-12-06,Chipaya - GPRS,21.3,4.1,,,
 2025-12-06,Chirapaca,17.0,2.0,,,
+2025-12-06,Chojñapata,,,,,2.6
 2025-12-06,Chorocona,,,,,10.2
 2025-12-06,Chua Cocani_M (GPRS),7.64,4.17,74.7,56.21,
 2025-12-06,Chuqui Chuqui,,,,,7.8
@@ -68842,6 +68999,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-06,Cotagaita (GPRS),11.74,11.18,70.49,47.42,
 2025-12-06,Cotagaita Mosoj Llajta,25.0,11.0,,,2.0
 2025-12-06,Covendo_M (GPRS),22.7,21.24,98.92,69.5,
+2025-12-06,Cruzpata (Escoma),,,,,2.5
 2025-12-06,Cuatro Cañadas - CEA-2 (GPRS),25.84,24.98,79.43,65.41,
 2025-12-06,Cuatro Cañadas - Colonia Chihuahua (GPRS),25.84,24.46,91.8,70.9,
 2025-12-06,Cuesta del Zorro (Catacora),,,,,2.0
@@ -68864,6 +69022,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-06,Huarisuyo (GPRS),5.99,2.18,90.9,56.95,
 2025-12-06,Huayllamarca,18.3,2.0,,,
 2025-12-06,Huayrocondo,16.7,1.0,,,0.2
+2025-12-06,Incalacaya,,,,,6.5
 2025-12-06,Incapampa - Coroico_M (GPRS),16.05,14.64,96.81,64.62,
 2025-12-06,Isla Del Sol,15.0,6.0,,,
 2025-12-06,Isla Suriqui_M (GPRS),8.02,6.53,62.82,52.47,
@@ -68880,6 +69039,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-06,Llallagua,16.0,7.1,,,
 2025-12-06,MONTERO GUABIRA CIMAR,37.0,24.0,,,
 2025-12-06,Mecapaca_M (GPRS),12.75,11.71,87.81,61.13,
+2025-12-06,Minero (Unagro),,,,,25.6
 2025-12-06,Mizque - SDC (GPRS),18.11,16.41,77.51,49.62,
 2025-12-06,Mojo,21.3,6.0,,,1.5
 2025-12-06,Muyuquiri,,,,,8.0
@@ -68928,6 +69088,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-06,Salinas Iniaf (GPRS),7.5,4.9,47.5,40.3,
 2025-12-06,Salo_M (GPRS),7.6,6.27,88.57,42.71,
 2025-12-06,Samasa,,,,,5.8
+2025-12-06,San Andres,31.0,14.0,,,4.7
 2025-12-06,San Antonio,,,,,8.0
 2025-12-06,San Antonio - Los Ángeles (GPRS),25.03,23.56,87.6,72.42,
 2025-12-06,San Benito,24.0,12.0,,,
@@ -68961,6 +69122,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-06,Talula_Tako Tako,,,,,10.1
 2025-12-06,Tarabuco,,,,,12.2
 2025-12-06,Tarapaya,,,,,2.5
+2025-12-06,Tarata,,,,,1.0
 2025-12-06,Templo (GPRS),2.51,0.55,96.7,88.8,0.3
 2025-12-06,Temporal - SDC (GPRS),12.8,11.18,86.7,36.38,
 2025-12-06,Terrazas de Achumani,,,,,1.2
@@ -69020,21 +69182,25 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-07,Cabaña Forestal Oruro,20.9,3.7,,,
 2025-12-07,Cachimayu,,,,,11.3
 2025-12-07,Caiza D,26.0,9.0,,,
+2025-12-07,Calachaka Jahuira,,,,,1.7
 2025-12-07,Camargo_M (GPRS),17.21,15.61,63.23,34.78,
 2025-12-07,Camata,27.0,16.0,,,
 2025-12-07,Campamento Villa Tunari,,,,,99.6
+2025-12-07,Capinota,28.0,13.5,,,
 2025-12-07,Carabuco,,5.7,,,
 2025-12-07,Caranavi,30.5,21.5,,,
 2025-12-07,Carura_M - Guanay (GPRS),22.44,21.3,97.79,80.11,0.1
 2025-12-07,Cayarani,,,,,10.0
 2025-12-07,Chacala Iniaf (GPRS),3.9,0.0,15.0,6.8,
 2025-12-07,Chaqui,19.4,6.0,,,22.8
+2025-12-07,Chasqui (Escoma),,,,,2.3
 2025-12-07,Chillca,18.2,4.2,,,
 2025-12-07,Chinchaya,,,,,9.3
 2025-12-07,Chinoli,21.2,8.1,,,
 2025-12-07,Chipaya - GPRS,21.3,0.7,,,
 2025-12-07,Chirapaca,16.0,3.0,,,
 2025-12-07,Chocolatal,,,,,2.0
+2025-12-07,Chojñapata,,,,,1.0
 2025-12-07,Chorocona,,,,,16.3
 2025-12-07,Chua Cocani_M (GPRS),8.68,7.31,73.49,61.82,
 2025-12-07,Chuqui Chuqui,,,,,19.6
@@ -69053,6 +69219,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-07,Cotagaita (GPRS),16.66,14.53,64.49,41.59,
 2025-12-07,Cotagaita Mosoj Llajta,26.0,12.0,,,
 2025-12-07,Covendo_M (GPRS),23.01,21.54,99.65,71.25,
+2025-12-07,Cruzpata (Escoma),,,,,3.0
 2025-12-07,Cuatro Cañadas - CEA-2 (GPRS),25.05,24.06,91.5,73.61,
 2025-12-07,Cuatro Cañadas - Colonia Chihuahua (GPRS),24.99,23.81,89.1,73.77,
 2025-12-07,Cuesta del Zorro (Catacora),,,,,0.2
@@ -69073,6 +69240,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-07,Huarisuyo (GPRS),7.55,5.08,81.8,62.02,
 2025-12-07,Huayllamarca,17.5,1.8,,,
 2025-12-07,Huayrocondo,17.4,4.3,,,0.7
+2025-12-07,Incalacaya,,,,,5.3
 2025-12-07,Incapampa - Coroico_M (GPRS),17.21,15.21,99.85,82.25,
 2025-12-07,Isla Del Sol,16.0,7.0,,,
 2025-12-07,Isla Suriqui_M (GPRS),10.58,8.55,82.1,41.53,
@@ -69130,6 +69298,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-07,Salinas Iniaf (GPRS),8.1,3.6,28.6,18.4,
 2025-12-07,Salo_M (GPRS),11.53,8.73,54.64,28.36,
 2025-12-07,Samasa,,,,,2.6
+2025-12-07,San Andres,29.0,16.0,,,38.7
 2025-12-07,San Antonio,,,,,2.0
 2025-12-07,San Antonio - Los Ángeles (GPRS),23.77,22.69,94.2,82.4,
 2025-12-07,San Benito,24.0,11.0,,,
@@ -69205,6 +69374,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-08,Aguadas (GPRS),6.2,5.5,77.14,54.04,
 2025-12-08,Aguaraycito,36.0,20.0,,,
 2025-12-08,Aiquile (GPRS),17.02,15.41,76.32,57.06,
+2025-12-08,Alcantarí_Aeropuerto,21.7,10.7,,,
 2025-12-08,Alto Peñas (GPRS),5.17,1.95,92.4,42.03,
 2025-12-08,Andamarca,25.4,4.4,,,
 2025-12-08,Anzaldo,,,,,14.2
@@ -69215,9 +69385,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-08,Azurduy,24.0,10.0,,,
 2025-12-08,Cabaña Forestal Oruro,22.3,3.4,,,
 2025-12-08,Caiza D,28.0,10.0,,,
+2025-12-08,Calachaka Jahuira,,,,,2.2
 2025-12-08,Camargo_M (GPRS),18.54,16.68,54.88,27.33,
 2025-12-08,Camata,31.0,18.0,,,
 2025-12-08,Campamento Villa Tunari,,,,,66.3
+2025-12-08,Capinota,29.2,14.0,,,
 2025-12-08,Carabuco,,5.5,,,
 2025-12-08,Caranavi,30.0,21.5,,,4.0
 2025-12-08,Carura_M - Guanay (GPRS),22.84,21.69,93.22,69.45,
@@ -69230,6 +69402,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-08,Chipaya - GPRS,22.2,0.0,,,
 2025-12-08,Chirapaca,18.0,4.0,,,
 2025-12-08,Chocolatal,,,,,1.0
+2025-12-08,Chojñapata,,,,,1.0
 2025-12-08,Chua Cocani_M (GPRS),8.49,6.52,82.5,66.52,
 2025-12-08,Chuqui Chuqui,35.0,21.0,,,
 2025-12-08,Chuquiago,29.0,10.0,,,
@@ -69264,6 +69437,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-08,Huarisuyo (GPRS),5.36,3.78,91.4,54.66,
 2025-12-08,Huayllamarca,19.0,2.4,,,
 2025-12-08,Huayrocondo,20.0,4.5,,,
+2025-12-08,Incalacaya,,,,,2.3
 2025-12-08,Incapampa - Coroico_M (GPRS),17.57,15.28,98.39,59.84,
 2025-12-08,Isla Del Sol,16.0,8.0,,,
 2025-12-08,Isla Suriqui_M (GPRS),9.73,8.29,82.6,64.81,
@@ -69277,9 +69451,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-08,La Merced,,,,,30.6
 2025-12-08,La Torre,30.0,17.0,,,
 2025-12-08,Laguna Colorada (GPRS),-0.13,-6.4,25.31,4.53,
+2025-12-08,Laykacota,,,,,2.3
 2025-12-08,Llallagua,20.1,7.1,,,
 2025-12-08,MONTERO GUABIRA CIMAR,28.0,22.0,,,
 2025-12-08,Mecapaca_M (GPRS),13.2,11.54,92.69,39.58,
+2025-12-08,Minero (Unagro),,,,,46.0
 2025-12-08,Mizque - SDC (GPRS),18.32,15.45,90.2,54.45,
 2025-12-08,Mojo,25.0,7.2,,,
 2025-12-08,Okinawa I,30.0,22.0,,,23.0
@@ -69317,6 +69493,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-08,Salinas Iniaf (GPRS),11.7,4.8,29.2,8.4,
 2025-12-08,Salo_M (GPRS),13.81,8.63,56.25,26.57,
 2025-12-08,Samasa,22.0,2.4,,,
+2025-12-08,San Andres,20.0,17.0,,,3.7
 2025-12-08,San Antonio - Los Ángeles (GPRS),24.96,23.56,95.5,89.2,
 2025-12-08,San Benito,27.0,11.0,,,
 2025-12-08,San Calixto,20.2,8.0,,,
@@ -69389,7 +69566,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-09,Aguadas (GPRS),7.39,5.73,83.0,59.33,
 2025-12-09,Aguaraycito,36.0,19.0,,,
 2025-12-09,Aiquile (GPRS),16.74,15.27,86.0,67.99,
+2025-12-09,Alcantarí_Aeropuerto,20.0,11.2,,,
 2025-12-09,Alto Peñas (GPRS),7.7,4.81,89.2,76.76,
+2025-12-09,Ancoraimes,,,,,1.7
 2025-12-09,Andamarca,25.2,4.0,,,
 2025-12-09,Anzaldo_M (GPRS),24.09,12.92,93.79,42.33,
 2025-12-09,Apolo_M (GPRS),20.7,17.29,99.5,72.09,0.6
@@ -69401,6 +69580,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-09,Camargo_M (GPRS),27.9,17.81,43.86,22.63,
 2025-12-09,Camata,,,,,10.0
 2025-12-09,Campamento Villa Tunari,,,,,39.7
+2025-12-09,Capinota,30.5,14.2,,,
 2025-12-09,Carabuco,,7.3,,,7.0
 2025-12-09,Caranavi,28.0,22.5,,,16.0
 2025-12-09,Caranavi_H (GPRS),,,,,0.1
@@ -69413,6 +69593,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-09,Chinoli,22.2,7.2,,,
 2025-12-09,Chipaya - GPRS,25.3,0.3,,,
 2025-12-09,Chirapaca,17.0,3.0,,,
+2025-12-09,Chojñapata,,,,,1.0
 2025-12-09,Chua Cocani_M (GPRS),8.69,6.42,72.37,59.15,
 2025-12-09,Chuqui Chuqui,33.0,23.0,,,
 2025-12-09,Chuquiago,30.0,13.2,,,
@@ -69429,6 +69610,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-09,Cotagaita (GPRS),17.97,14.52,62.02,34.85,
 2025-12-09,Cotagaita Mosoj Llajta,28.0,15.0,,,
 2025-12-09,Covendo_M (GPRS),26.51,20.63,99.89,78.51,
+2025-12-09,Cruzpata (Escoma),,,,,1.0
 2025-12-09,Cuatro Cañadas - CEA-2 (GPRS),22.03,20.11,75.41,60.03,
 2025-12-09,Cuatro Cañadas - Colonia Chihuahua (GPRS),22.0,20.48,84.7,66.72,
 2025-12-09,Culpina,21.3,7.8,,,
@@ -69497,6 +69679,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-09,Salo_M (GPRS),25.91,12.83,59.03,18.51,
 2025-12-09,Samaipata,,,,,3.7
 2025-12-09,Samasa,24.2,8.2,,,
+2025-12-09,San Andres,29.0,10.0,,,3.7
 2025-12-09,San Antonio - Los Ángeles (GPRS),23.18,22.11,84.1,72.34,
 2025-12-09,San Benito,28.0,11.0,,,
 2025-12-09,San Buenaventura_M (GPRS),26.28,21.86,99.9,79.59,
@@ -69567,6 +69750,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-10,Aguadas (GPRS),5.04,3.11,73.96,36.1,
 2025-12-10,Aguaraycito,37.0,21.0,,,
 2025-12-10,Aiquile (GPRS),16.47,15.24,58.05,50.02,
+2025-12-10,Alcantarí_Aeropuerto,20.4,10.4,,,
 2025-12-10,Alto Peñas (GPRS),7.74,4.67,52.91,35.71,
 2025-12-10,Andamarca,26.1,4.1,,,7.3
 2025-12-10,Anzaldo_M (GPRS),13.07,11.92,82.03,48.06,
@@ -69578,6 +69762,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-10,Caiza D,24.9,11.0,,,
 2025-12-10,Camargo_M (GPRS),17.23,12.58,35.75,27.54,
 2025-12-10,Camata,29.0,16.5,,,
+2025-12-10,Capinota,312.0,15.0,,,
 2025-12-10,Carabuco,,6.7,,,
 2025-12-10,Caranavi,29.5,21.5,,,
 2025-12-10,Carura_M - Guanay (GPRS),20.72,20.43,94.5,70.53,
@@ -69614,6 +69799,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-10,Desaguadero_M,11.39,7.31,65.37,56.91,
 2025-12-10,El Belen,20.0,2.0,,,
 2025-12-10,El Villar,24.0,11.5,,,
+2025-12-10,Guajara-Mirim - Guayaramerín,34.2,22.0,,,
 2025-12-10,Guanay_H (GPRS),,,,,3.5
 2025-12-10,Guayaramerin_M (GPRS),22.82,22.54,90.39,67.41,
 2025-12-10,Hichucota,16.0,3.0,,,
@@ -69635,6 +69821,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-10,Llallagua,19.0,8.2,,,
 2025-12-10,MONTERO GUABIRA CIMAR,32.0,20.0,,,
 2025-12-10,Mecapaca_M (GPRS),13.03,11.64,96.23,49.07,
+2025-12-10,Minero (Unagro),,,,,1.0
 2025-12-10,Mizque - SDC (GPRS),18.89,16.32,69.22,46.54,
 2025-12-10,Mojo,25.0,5.0,,,
 2025-12-10,Okinawa I,31.0,22.0,,,12.2
@@ -69662,12 +69849,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-10,Ravelo,21.0,10.0,,,
 2025-12-10,Redencion Pampa,24.0,10.0,,,
 2025-12-10,Río Chilenas (GPRS),18.69,-3.61,25.05,3.0,
+2025-12-10,Sacabaya,25.5,-2.5,,,
 2025-12-10,Sacaca,20.4,3.4,,,
 2025-12-10,Sacacani_M (GPRS),5.76,1.71,97.6,37.04,
 2025-12-10,Sacahuaya,,,,,4.5
 2025-12-10,Salinas Iniaf (GPRS),10.9,6.1,13.2,7.8,
 2025-12-10,Salo_M (GPRS),13.9,6.59,38.15,26.23,
 2025-12-10,Samasa,22.4,2.0,,,
+2025-12-10,San Andres,28.0,12.0,,,
 2025-12-10,San Antonio - Los Ángeles (GPRS),23.42,22.66,86.4,76.51,
 2025-12-10,San Benito,30.0,9.0,,,
 2025-12-10,San Buenaventura_M (GPRS),22.43,22.06,96.81,79.48,
@@ -69734,6 +69923,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-11,Aguadas (GPRS),6.24,1.6,66.79,35.21,
 2025-12-11,Aguaraycito,39.0,25.0,,,
 2025-12-11,Aiquile (GPRS),16.88,15.9,66.15,42.75,
+2025-12-11,Alcantarí_Aeropuerto,21.3,11.5,,,
 2025-12-11,Alto Peñas (GPRS),5.22,3.68,68.97,42.08,
 2025-12-11,Andamarca,25.2,5.0,,,
 2025-12-11,Anzaldo_M (GPRS),13.2,9.89,59.38,25.5,
@@ -69747,6 +69937,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-11,Camargo_M (GPRS),17.23,15.89,52.22,28.66,
 2025-12-11,Camata,30.0,17.5,,,
 2025-12-11,Campamento Villa Tunari,,,,,8.5
+2025-12-11,Capinota,29.2,14.0,,,8.2
 2025-12-11,Carabuco,,5.5,,,
 2025-12-11,Caranavi,31.5,21.0,,,
 2025-12-11,Caranavi_H (GPRS),,,,,5.0
@@ -69755,10 +69946,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-11,Cayarani,,,,,2.2
 2025-12-11,Chacala Iniaf (GPRS),11.0,5.5,25.8,14.9,
 2025-12-11,Chaqui,20.4,7.0,,,
+2025-12-11,Chasqui (Escoma),,,,,3.6
 2025-12-11,Chillca,20.0,4.8,,,
 2025-12-11,Chinoli,24.2,9.0,,,
 2025-12-11,Chipaya - GPRS,24.2,7.8,,,
 2025-12-11,Chirapaca,17.0,2.0,,,
+2025-12-11,Chojñapata,,,,,2.0
 2025-12-11,Chua Cocani_M (GPRS),10.32,6.27,66.58,45.73,
 2025-12-11,Chuqui Chuqui,38.0,22.0,,,
 2025-12-11,Chuquiago,31.0,11.2,,,
@@ -69775,6 +69968,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-11,Cotagaita (GPRS),16.88,14.23,61.7,43.7,
 2025-12-11,Cotagaita Mosoj Llajta,28.0,10.0,,,
 2025-12-11,Covendo_M (GPRS),23.36,22.56,99.86,69.56,
+2025-12-11,Cruzpata (Escoma),,,,,6.8
 2025-12-11,Cuatro Cañadas - CEA-2 (GPRS),25.18,24.26,97.5,88.4,0.8
 2025-12-11,Cuatro Cañadas - Colonia Chihuahua (GPRS),24.79,23.88,97.1,77.69,0.8
 2025-12-11,Culpina,24.3,10.0,,,
@@ -69785,6 +69979,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-11,El Belen,18.0,6.0,,,
 2025-12-11,El Puente_H (GPRS),,,,,1.4
 2025-12-11,El Villar,23.8,15.2,,,
+2025-12-11,Guajara-Mirim - Guayaramerín,34.2,23.4,,,
 2025-12-11,Guanay_H (GPRS),,,,,0.6
 2025-12-11,Guayaramerin_M (GPRS),25.07,24.02,93.09,69.83,
 2025-12-11,Hichucota,15.0,2.0,,,
@@ -69800,12 +69995,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-11,Jesús de Machaca_M (GPRS),7.38,3.47,58.27,35.36,
 2025-12-11,La Asunta,31.5,,,,
 2025-12-11,La Asunta_H (GPRS),,,,,0.4
+2025-12-11,La Barranca  (Chuquisaca),,,,,6.3
 2025-12-11,La Merced,30.0,15.0,,,
 2025-12-11,La Torre,31.0,12.0,,,
 2025-12-11,Laguna Colorada (GPRS),1.2,-2.65,31.85,4.61,
 2025-12-11,Llallagua,21.0,7.0,,,
 2025-12-11,MONTERO GUABIRA CIMAR,31.0,22.0,,,
 2025-12-11,Mecapaca_M (GPRS),14.29,13.45,80.95,42.05,
+2025-12-11,Minero (Unagro),,,,,0.2
 2025-12-11,Mizque - SDC (GPRS),18.77,15.45,64.8,42.06,
 2025-12-11,Mojo,25.1,6.0,,,
 2025-12-11,Okinawa I,30.0,20.0,,,
@@ -69834,12 +70031,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-11,Ravelo,24.0,9.0,,,
 2025-12-11,Redencion Pampa,26.0,13.0,,,
 2025-12-11,Río Chilenas (GPRS),15.99,-4.95,27.77,6.53,
+2025-12-11,Sacabaya,23.0,4.5,,,
 2025-12-11,Sacaca,22.6,1.6,,,
 2025-12-11,Sacacani_M (GPRS),4.27,2.44,76.14,42.9,
 2025-12-11,Sacahuaya,,,,,1.5
 2025-12-11,Salinas Iniaf (GPRS),13.2,9.7,26.4,18.9,
 2025-12-11,Salo_M (GPRS),13.03,9.24,51.99,21.55,
 2025-12-11,Samasa,26.2,8.2,,,
+2025-12-11,San Andres,32.0,15.0,,,
 2025-12-11,San Antonio - Los Ángeles (GPRS),25.24,24.2,95.1,85.6,
 2025-12-11,San Benito,31.0,7.0,,,
 2025-12-11,San Buenaventura_M (GPRS),25.18,24.3,99.84,65.86,
@@ -69870,6 +70069,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-11,Talula_Tako Tako,21.0,13.0,,,
 2025-12-11,Tarabuco,16.4,10.4,,,
 2025-12-11,Tarapaya,27.6,6.7,,,
+2025-12-11,Tarata,,,,,3.5
 2025-12-11,Templo (GPRS),5.24,3.84,65.21,41.09,
 2025-12-11,Temporal - SDC (GPRS),15.65,13.25,40.63,0.1,
 2025-12-11,Tinguipaya,23.2,7.2,,,
@@ -69911,7 +70111,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-12,Aguadas (GPRS),7.45,6.03,84.0,33.3,
 2025-12-12,Aguaraycito,38.0,25.0,,,
 2025-12-12,Aiquile (GPRS),18.47,17.74,48.73,27.99,
+2025-12-12,Alcantarí_Aeropuerto,25.3,10.4,,,
 2025-12-12,Alto Peñas (GPRS),7.37,5.3,79.31,43.26,
+2025-12-12,Ancoraimes,,,,,0.1
 2025-12-12,Andamarca,25.0,5.2,,,
 2025-12-12,Anzaldo,,,,,15.6
 2025-12-12,Anzaldo_M (GPRS),14.29,10.51,72.51,40.12,
@@ -69922,9 +70124,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-12,Azurduy,25.0,11.0,,,
 2025-12-12,Cabaña Forestal Oruro,23.2,2.1,,,
 2025-12-12,Caiza D,28.0,5.0,,,
+2025-12-12,Calachaka Jahuira,,,,,13.9
 2025-12-12,Camargo_M (GPRS),16.27,13.47,55.02,7.27,
 2025-12-12,Camata,,,,,29.8
 2025-12-12,Campamento Villa Tunari,,,,,12.6
+2025-12-12,Capinota,29.0,13.5,,,
 2025-12-12,Carabuco,,5.3,,,
 2025-12-12,Caranavi,35.0,21.5,,,
 2025-12-12,Caranavi_H (GPRS),,,,,45.3
@@ -69932,6 +70136,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-12,Cayarani,,,,,7.3
 2025-12-12,Chacala Iniaf (GPRS),3.7,0.2,13.8,6.4,
 2025-12-12,Chaqui,23.3,6.0,,,
+2025-12-12,Chasqui (Escoma),,,,,7.5
 2025-12-12,Chillca,23.0,3.5,,,
 2025-12-12,Chinoli,25.1,9.2,,,
 2025-12-12,Chipaya - GPRS,21.6,2.0,,,
@@ -69953,6 +70158,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-12,Cotagaita (GPRS),18.55,12.56,53.34,7.1,
 2025-12-12,Cotagaita Mosoj Llajta,28.0,9.0,,,
 2025-12-12,Covendo_M (GPRS),24.23,23.3,99.88,82.45,
+2025-12-12,Cruzpata (Escoma),,,,,7.6
 2025-12-12,Cuatro Cañadas - CEA-2 (GPRS),25.85,25.0,81.0,65.73,
 2025-12-12,Cuatro Cañadas - Colonia Chihuahua (GPRS),26.88,25.9,74.15,68.82,
 2025-12-12,Culpina,,,,,0.3
@@ -69963,6 +70169,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-12,El Reloj,,,,,2.0
 2025-12-12,El Villar,24.0,15.1,,,
 2025-12-12,Emborozu,,,,,3.0
+2025-12-12,Guajara-Mirim - Guayaramerín,34.0,23.4,,,
 2025-12-12,Guanay_H (GPRS),,,,,10.4
 2025-12-12,Guayaramerin_M (GPRS),24.66,24.34,100.0,81.52,
 2025-12-12,Hichucota,14.0,5.0,,,
@@ -70017,12 +70224,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-12,Ravelo,,,,,7.0
 2025-12-12,Redencion Pampa,24.0,14.0,,,
 2025-12-12,Río Chilenas (GPRS),2.52,-5.27,15.12,7.01,
+2025-12-12,Sacabaya,22.5,1.6,,,
 2025-12-12,Sacaca,21.7,2.9,,,
 2025-12-12,Sacacani_M (GPRS),7.82,0.72,60.72,31.25,
 2025-12-12,Sacahuaya,,,,,15.7
 2025-12-12,Salinas Iniaf (GPRS),7.7,4.1,11.4,7.6,
 2025-12-12,Salo_M (GPRS),14.1,6.59,16.05,4.92,
 2025-12-12,Samasa,27.2,7.0,,,
+2025-12-12,San Andres,28.0,14.0,,,12.6
 2025-12-12,San Antonio - Los Ángeles (GPRS),25.95,24.71,86.6,76.92,
 2025-12-12,San Benito,27.0,11.0,,,17.0
 2025-12-12,San Buenaventura_M (GPRS),24.7,23.82,91.59,70.87,
@@ -70055,6 +70264,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-12,Talula_Tako Tako,27.0,10.0,,,
 2025-12-12,Tarabuco,17.2,12.5,,,
 2025-12-12,Tarapaya,28.0,5.0,,,
+2025-12-12,Tarata,,,,,22.0
 2025-12-12,Templo (GPRS),6.51,2.5,86.5,40.66,
 2025-12-12,Temporal - SDC (GPRS),17.55,11.32,74.76,0.04,
 2025-12-12,Terrazas de Achumani,,,,,0.1
@@ -70098,6 +70308,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-13,Aguadas (GPRS),8.51,3.64,82.5,30.84,
 2025-12-13,Aguaraycito,37.0,23.0,,,
 2025-12-13,Aiquile (GPRS),19.44,17.92,76.57,56.35,
+2025-12-13,Alcantarí_Aeropuerto,23.7,9.8,,,
 2025-12-13,Alto Peñas (GPRS),8.35,4.64,42.85,28.18,
 2025-12-13,Andamarca,25.2,4.0,,,
 2025-12-13,Anzaldo,,,,,19.5
@@ -70109,15 +70320,18 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-13,Cabaña Forestal Oruro,23.2,1.4,,,
 2025-12-13,Cabezas SC,,,,,30.0
 2025-12-13,Caiza D,29.0,5.0,,,
+2025-12-13,Calachaka Jahuira,,,,,0.8
 2025-12-13,Camargo_M (GPRS),17.47,14.6,49.86,4.53,
 2025-12-13,Camata,28.0,17.5,,,
 2025-12-13,Campamento Villa Tunari,,,,,47.6
+2025-12-13,Capinota,31.0,14.2,,,3.4
 2025-12-13,Carabuco,,3.9,,,
 2025-12-13,Caranavi,28.5,22.0,,,24.5
 2025-12-13,Carura_M - Guanay (GPRS),22.79,22.39,97.17,71.29,
 2025-12-13,Cayarani,,,,,13.8
 2025-12-13,Chacala Iniaf (GPRS),3.0,-0.9,16.6,7.2,
 2025-12-13,Chaqui,24.4,3.2,,,
+2025-12-13,Chasqui (Escoma),,,,,6.5
 2025-12-13,Chillca,23.0,3.0,,,
 2025-12-13,Chinoli,25.4,8.2,,,
 2025-12-13,Chipaya - GPRS,21.8,0.1,,,
@@ -70138,6 +70352,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-13,Cotagaita (GPRS),16.95,12.07,61.0,6.77,
 2025-12-13,Cotagaita Mosoj Llajta,28.0,9.0,,,
 2025-12-13,Covendo_M (GPRS),24.22,23.63,99.91,74.49,
+2025-12-13,Cruzpata (Escoma),,,,,6.5
 2025-12-13,Cuatro Cañadas - CEA-2 (GPRS),25.11,24.52,93.3,88.1,
 2025-12-13,Cuatro Cañadas - Colonia Chihuahua (GPRS),25.05,23.68,100.0,74.09,
 2025-12-13,Culpina,,,,,0.5
@@ -70155,6 +70370,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-13,Huarisuyo (GPRS),5.52,-0.05,82.0,30.93,
 2025-12-13,Huayllamarca,21.0,0.5,,,
 2025-12-13,Huayrocondo,21.2,-1.5,,,
+2025-12-13,Incalacaya,,,,,5.5
 2025-12-13,Incapampa - Coroico_M (GPRS),17.71,17.34,99.83,87.33,
 2025-12-13,Isla Del Sol,17.0,8.0,,,
 2025-12-13,Isla Suriqui_M (GPRS),9.73,7.77,59.77,34.17,
@@ -70162,13 +70378,16 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-13,Ixiamas_M (GPRS),23.83,22.69,93.38,78.63,
 2025-12-13,Jesús de Machaca_M (GPRS),1.58,-2.97,32.83,16.51,
 2025-12-13,La Asunta,30.0,,,,
+2025-12-13,La Barranca  (Chuquisaca),,,,,10.3
 2025-12-13,La Merced,34.0,13.0,,,
 2025-12-13,La Torre,31.0,14.0,,,
 2025-12-13,Laguna Colorada (GPRS),1.81,-0.8,4.58,2.24,
+2025-12-13,Laykacota,,,,,0.4
 2025-12-13,Llallagua,20.0,5.2,,,
 2025-12-13,MONTERO GUABIRA CIMAR,,,,,3.5
 2025-12-13,Mataral,,,,,68.8
 2025-12-13,Mecapaca_M (GPRS),15.4,13.14,94.55,32.06,
+2025-12-13,Minero (Unagro),,,,,1.6
 2025-12-13,Mizque - SDC (GPRS),20.53,15.93,84.7,50.38,
 2025-12-13,Mojo,27.0,2.0,,,
 2025-12-13,Nuevo Mundo,,,,,2.6
@@ -70197,12 +70416,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-13,Ravelo,22.0,7.0,,,
 2025-12-13,Redencion Pampa,23.0,12.0,,,
 2025-12-13,Río Chilenas (GPRS),13.06,-4.72,7.24,2.81,
+2025-12-13,Sacabaya,20.5,-0.5,,,
 2025-12-13,Sacaca,20.3,3.6,,,
 2025-12-13,Sacacani_M (GPRS),6.51,0.4,62.26,26.99,
 2025-12-13,Salinas Iniaf (GPRS),7.0,3.7,21.4,14.0,
 2025-12-13,Salo_M (GPRS),9.75,-1.11,7.03,3.11,
 2025-12-13,Samaipata,,,,,47.0
 2025-12-13,Samasa,25.2,6.2,,,
+2025-12-13,San Andres,30.0,8.0,,,5.8
 2025-12-13,San Antonio - Los Ángeles (GPRS),26.32,24.89,93.1,90.5,
 2025-12-13,San Benito,27.0,9.0,,,7.0
 2025-12-13,San Buenaventura_M (GPRS),25.04,24.44,95.31,71.63,
@@ -70274,6 +70495,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-14,Aguadas (GPRS),5.11,2.39,71.65,28.78,
 2025-12-14,Aguaraycito,42.0,23.0,,,
 2025-12-14,Aiquile (GPRS),16.55,13.19,62.55,30.29,
+2025-12-14,Alcantarí_Aeropuerto,27.3,11.5,,,
 2025-12-14,Alto Peñas (GPRS),8.43,6.33,24.42,19.78,
 2025-12-14,Andamarca,24.1,4.1,,,
 2025-12-14,Anzaldo,,,,,1.4
@@ -70287,11 +70509,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-14,Camargo_M (GPRS),19.81,14.15,33.82,3.45,
 2025-12-14,Camata,,,,,5.7
 2025-12-14,Campamento Villa Tunari,,,,,7.6
+2025-12-14,Capinota,30.2,13.0,,,
 2025-12-14,Carabuco,,4.0,,,
 2025-12-14,Caranavi,29.5,21.0,,,
 2025-12-14,Carura_M - Guanay (GPRS),22.92,21.87,96.16,66.41,
 2025-12-14,Chacala Iniaf (GPRS),2.0,-2.0,8.7,4.4,
 2025-12-14,Chaqui,24.3,6.0,,,
+2025-12-14,Chasqui (Escoma),,,,,1.6
 2025-12-14,Chillca,20.1,2.0,,,
 2025-12-14,Chinoli,24.0,7.2,,,
 2025-12-14,Chipaya - GPRS,22.8,-2.5,,,
@@ -70311,6 +70535,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-14,Cotagaita (GPRS),13.65,8.22,19.32,6.39,
 2025-12-14,Cotagaita Mosoj Llajta,36.0,10.0,,,
 2025-12-14,Covendo_M (GPRS),24.89,23.78,98.12,69.93,
+2025-12-14,Cruzpata (Escoma),,,,,2.4
 2025-12-14,Cuatro Cañadas - CEA-2 (GPRS),25.82,25.44,84.2,69.83,
 2025-12-14,Cuatro Cañadas - Colonia Chihuahua (GPRS),26.23,25.96,78.96,67.72,
 2025-12-14,Culpina,29.0,6.1,,,
@@ -70326,12 +70551,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-14,Huarisuyo (GPRS),4.84,1.08,42.98,18.95,
 2025-12-14,Huayllamarca,23.0,3.3,,,
 2025-12-14,Huayrocondo,21.3,-1.3,,,
+2025-12-14,Incalacaya,,,,,1.2
 2025-12-14,Incapampa - Coroico_M (GPRS),17.84,17.53,99.83,71.58,
 2025-12-14,Isla Suriqui_M (GPRS),9.99,6.0,42.82,25.49,
 2025-12-14,Ixiamas S.(GPRS),23.8,22.9,90.9,71.5,
 2025-12-14,Ixiamas_M (GPRS),23.53,22.15,88.03,71.7,
 2025-12-14,Jesús de Machaca_M (GPRS),2.89,-2.13,29.31,14.58,
 2025-12-14,La Asunta,31.0,,,,
+2025-12-14,La Barranca  (Chuquisaca),,,,,4.0
 2025-12-14,La Merced,34.0,14.0,,,
 2025-12-14,La Torre,30.0,14.0,,,
 2025-12-14,Laguna Colorada (GPRS),-1.33,-6.34,28.66,6.03,
@@ -70363,11 +70590,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-14,Ravelo,26.0,6.0,,,
 2025-12-14,Redencion Pampa,23.0,11.0,,,
 2025-12-14,Río Chilenas (GPRS),16.62,-8.87,13.24,2.69,
+2025-12-14,Sacabaya,21.5,-2.9,,,
 2025-12-14,Sacaca,20.8,4.5,,,
 2025-12-14,Sacacani_M (GPRS),8.8,6.64,22.44,13.18,
 2025-12-14,Salinas Iniaf (GPRS),7.2,2.0,13.0,7.2,
 2025-12-14,Salo_M (GPRS),5.97,-2.02,9.78,3.23,
 2025-12-14,Samasa,25.0,1.0,,,
+2025-12-14,San Andres,37.0,14.0,,,
 2025-12-14,San Antonio,,,,,0.5
 2025-12-14,San Antonio - Los Ángeles (GPRS),25.53,25.07,85.0,76.98,
 2025-12-14,San Benito,30.0,7.0,,,
@@ -70438,6 +70667,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-15,Aguadas (GPRS),5.7,3.62,73.16,36.32,
 2025-12-15,Aguaraycito,38.0,25.0,,,
 2025-12-15,Aiquile (GPRS),16.6,13.73,67.51,36.44,
+2025-12-15,Alcantarí_Aeropuerto,26.8,11.6,,,
 2025-12-15,Alto Peñas (GPRS),8.92,5.72,29.78,20.27,
 2025-12-15,Andamarca,25.5,2.0,,,
 2025-12-15,Anzaldo_M (GPRS),13.29,11.28,57.87,31.4,
@@ -70450,6 +70680,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-15,Camargo_M (GPRS),21.25,15.49,43.64,6.69,
 2025-12-15,Camata,32.5,18.0,,,
 2025-12-15,Campamento Villa Tunari,,,,,60.6
+2025-12-15,Capinota,30.0,14.2,,,
 2025-12-15,Carabuco,,4.5,,,
 2025-12-15,Caranavi,29.0,21.5,,,14.0
 2025-12-15,Carura_M - Guanay (GPRS),24.69,23.52,92.57,58.59,
@@ -70461,6 +70692,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-15,Chipaya - GPRS,23.1,0.7,,,
 2025-12-15,Chirapaca,18.0,2.0,,,
 2025-12-15,Chocolatal,,,,,4.0
+2025-12-15,Chojñapata,,,,,1.0
 2025-12-15,Chua Cocani_M (GPRS),10.65,8.09,44.29,23.13,
 2025-12-15,Chuqui Chuqui,41.0,23.0,,,
 2025-12-15,Chuquiago,33.0,9.0,,,
@@ -70475,6 +70707,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-15,Cotagaita (GPRS),18.27,11.56,44.43,7.56,
 2025-12-15,Cotagaita Mosoj Llajta,35.0,7.0,,,
 2025-12-15,Covendo_M (GPRS),24.83,24.32,94.28,74.03,
+2025-12-15,Cruzpata (Escoma),,,,,1.1
 2025-12-15,Cuatro Cañadas - CEA-2 (GPRS),27.22,26.49,81.3,70.22,
 2025-12-15,Cuatro Cañadas - Colonia Chihuahua (GPRS),27.73,26.29,79.75,70.89,
 2025-12-15,Culpina,26.0,5.9,,,
@@ -70508,6 +70741,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-15,MONTERO GUABIRA CIMAR,,,,,1.5
 2025-12-15,Mataral,,,,,30.5
 2025-12-15,Mecapaca_M (GPRS),16.02,13.15,33.43,20.9,
+2025-12-15,Minero (Unagro),,,,,56.0
 2025-12-15,Mizque - SDC (GPRS),19.03,15.39,67.43,38.94,
 2025-12-15,Mojo,26.0,6.3,,,
 2025-12-15,Okinawa I,31.0,21.0,,,
@@ -70537,11 +70771,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-15,Ravelo,25.0,5.0,,,
 2025-12-15,Redencion Pampa,26.0,14.0,,,
 2025-12-15,Río Chilenas (GPRS),16.64,-5.19,16.45,5.35,
+2025-12-15,Sacabaya,22.5,-1.6,,,
 2025-12-15,Sacaca,21.6,4.3,,,1.5
 2025-12-15,Sacacani_M (GPRS),9.46,-0.06,18.87,11.69,
 2025-12-15,Salinas Iniaf (GPRS),9.9,4.4,13.1,10.5,
 2025-12-15,Salo_M (GPRS),15.09,1.5,12.35,2.02,
 2025-12-15,Samasa,,,,,3.2
+2025-12-15,San Andres,32.0,18.0,,,
 2025-12-15,San Antonio,,,,,1.0
 2025-12-15,San Antonio - Los Ángeles (GPRS),26.94,26.08,88.1,82.0,
 2025-12-15,San Benito,31.0,10.0,,,
@@ -70571,6 +70807,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-15,Talula_Tako Tako,27.0,12.5,,,
 2025-12-15,Tarabuco,,,,,6.3
 2025-12-15,Tarapaya,31.4,4.2,,,
+2025-12-15,Tarata,,,,,19.3
 2025-12-15,Templo (GPRS),6.84,5.18,62.39,33.06,
 2025-12-15,Temporal - SDC (GPRS),16.4,15.04,33.19,0.03,
 2025-12-15,Tinguipaya,28.1,6.2,,,
@@ -70628,6 +70865,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-16,Camargo_M (GPRS),17.49,15.62,53.29,42.51,
 2025-12-16,Camata,28.0,16.5,,,
 2025-12-16,Campamento Villa Tunari,,,,,123.2
+2025-12-16,Capinota,28.2,12.0,,,15.7
 2025-12-16,Carabuco,,7.7,,,
 2025-12-16,Caranavi,30.5,21.0,,,7.5
 2025-12-16,Caranavi_H (GPRS),,,,,5.7
@@ -70640,6 +70878,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-16,Chinoli,23.2,7.0,,,
 2025-12-16,Chipaya - GPRS,21.6,0.5,,,
 2025-12-16,Chirapaca,19.0,3.0,,,
+2025-12-16,Chojñapata,,,,,5.6
 2025-12-16,Chua Cocani_M (GPRS),10.19,6.33,85.1,56.49,4.5
 2025-12-16,Chuqui Chuqui,,,,,19.3
 2025-12-16,Chuquiago,24.0,14.2,,,
@@ -70668,6 +70907,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-16,El Reloj,,,,,10.5
 2025-12-16,El Villar,28.5,11.0,,,
 2025-12-16,Emborozu,,,,,14.5
+2025-12-16,Guajara-Mirim - Guayaramerín,32.0,19.4,,,
 2025-12-16,Guanay_H (GPRS),,,,,1.0
 2025-12-16,Guayaramerin_M (GPRS),25.86,25.21,99.66,85.79,
 2025-12-16,Hichucota,15.0,3.0,,,
@@ -70691,6 +70931,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-16,Llallagua,,,,,11.0
 2025-12-16,MONTERO GUABIRA CIMAR,,,,,43.1
 2025-12-16,Mecapaca_M (GPRS),16.2,13.16,95.96,44.75,
+2025-12-16,Minero (Unagro),,,,,6.0
 2025-12-16,Mizque - SDC (GPRS),21.33,14.41,93.9,92.7,2.4
 2025-12-16,Mojo,19.0,8.0,,,
 2025-12-16,Nuevo Mundo,,,,,17.9
@@ -70727,6 +70968,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-16,Redencion Pampa,29.0,12.0,,,
 2025-12-16,Rosario del Ingre,,,,,21.0
 2025-12-16,Río Chilenas (GPRS),15.46,-8.91,74.3,8.38,
+2025-12-16,Sacabaya,23.5,2.0,,,
 2025-12-16,Sacaca,23.6,4.6,,,1.2
 2025-12-16,Sacacani_M (GPRS),8.74,3.88,66.05,48.35,
 2025-12-16,Sachapera,,,,,3.5
@@ -70734,6 +70976,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-16,Salo_M (GPRS),12.6,11.05,67.14,46.7,0.5
 2025-12-16,Samaipata,,,,,24.5
 2025-12-16,Samasa,27.2,8.0,,,
+2025-12-16,San Andres,25.0,13.0,,,17.8
 2025-12-16,San Antonio - Los Ángeles (GPRS),26.5,19.46,92.8,87.4,
 2025-12-16,San Benito,15.0,10.0,,,14.0
 2025-12-16,San Calixto,17.4,9.2,,,
@@ -70764,6 +71007,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-16,Talula_Tako Tako,,,,,1.8
 2025-12-16,Tarabuco,10.1,8.1,,,
 2025-12-16,Tarapaya,,,,,5.7
+2025-12-16,Tarata,,,,,0.1
 2025-12-16,Templo (GPRS),6.01,4.75,95.3,95.3,
 2025-12-16,Temporal - SDC (GPRS),18.32,10.68,96.9,88.3,
 2025-12-16,Tinguipaya,21.2,7.1,,,
@@ -70810,6 +71054,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-17,Alcantarí_Aeropuerto,,,,,2.0
 2025-12-17,Alto Obrajes_Barrio Magisterio,,,,,4.8
 2025-12-17,Alto Peñas (GPRS),6.7,5.78,78.11,51.82,
+2025-12-17,Ancoraimes,,,,,4.0
 2025-12-17,Andamarca,25.2,5.2,,,
 2025-12-17,Anzaldo,,,,,10.2
 2025-12-17,Anzaldo_M (GPRS),9.02,7.89,62.29,48.8,
@@ -70821,17 +71066,20 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-17,Caiza D,28.0,6.0,,,
 2025-12-17,Camargo_M (GPRS),14.66,8.87,28.03,21.96,
 2025-12-17,Camata,,,,,8.7
+2025-12-17,Capinota,29.0,13.0,,,
 2025-12-17,Carabuco,,4.9,,,7.1
 2025-12-17,Caranavi,32.0,21.5,,,4.5
 2025-12-17,Carura_M - Guanay (GPRS),20.17,19.72,98.54,76.34,
 2025-12-17,Cayarani,,,,,1.2
 2025-12-17,Chacala Iniaf (GPRS),8.9,4.9,49.6,39.0,
 2025-12-17,Chaqui,19.6,4.2,,,1.7
+2025-12-17,Chasqui (Escoma),,,,,25.1
 2025-12-17,Chillca,20.5,3.5,,,
 2025-12-17,Chinchaya,,,,,12.2
 2025-12-17,Chinoli,22.0,6.4,,,
 2025-12-17,Chipaya - GPRS,24.1,4.5,,,
 2025-12-17,Chirapaca,19.0,4.0,,,
+2025-12-17,Chojñapata,,,,,15.2
 2025-12-17,Chorocona,,,,,7.3
 2025-12-17,Chua Cocani_M (GPRS),8.03,6.26,72.5,62.27,
 2025-12-17,Chuqui Chuqui,33.0,17.0,,,
@@ -70848,6 +71096,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-17,Cotagaita (GPRS),14.16,9.63,34.44,28.62,
 2025-12-17,Cotagaita Mosoj Llajta,33.0,6.0,,,
 2025-12-17,Covendo_M (GPRS),20.65,19.99,99.89,73.49,
+2025-12-17,Cruzpata (Escoma),,,,,24.6
 2025-12-17,Cuatro Cañadas - CEA-2 (GPRS),21.37,20.58,77.91,63.54,
 2025-12-17,Cuatro Cañadas - Colonia Chihuahua (GPRS),20.47,20.14,84.2,73.67,
 2025-12-17,Culpina,23.8,2.3,,,
@@ -70862,6 +71111,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-17,Hichucota,14.0,4.0,,,
 2025-12-17,Huancane Corapata_M (GPRS),8.9,6.25,78.46,57.1,
 2025-12-17,Huarisuyo (GPRS),7.66,6.59,74.26,51.85,
+2025-12-17,Huayllamarca,17.6,2.0,,,
 2025-12-17,Huayrocondo,19.5,3.9,,,0.7
 2025-12-17,Incapampa - Coroico_M (GPRS),15.45,14.87,99.81,79.87,
 2025-12-17,Isla Del Sol,14.0,4.0,,,14.8
@@ -70874,6 +71124,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-17,La Merced,30.0,11.0,,,
 2025-12-17,La Torre,36.0,9.0,,,
 2025-12-17,Laguna Colorada (GPRS),2.62,-2.69,41.6,22.71,
+2025-12-17,Laykacota,,,,,8.6
 2025-12-17,Llallagua,19.0,6.0,,,
 2025-12-17,MONTERO GUABIRA CIMAR,,,,,5.8
 2025-12-17,Mecapaca_M (GPRS),13.24,11.99,99.5,60.51,
@@ -70909,6 +71160,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-17,Redencion Pampa,,,,,8.0
 2025-12-17,Riberalta_H (GPRS),,,,,0.3
 2025-12-17,Río Chilenas (GPRS),16.95,-0.3,64.59,5.98,
+2025-12-17,Sacabaya,22.8,1.5,,,
 2025-12-17,Sacaca,26.1,4.6,,,
 2025-12-17,Sacacani_M (GPRS),7.56,5.65,79.25,58.83,
 2025-12-17,Sacahuaya,,,,,10.2
@@ -70916,6 +71168,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-17,Salo_M (GPRS),9.69,4.05,38.97,27.48,
 2025-12-17,Samaipata,,,,,1.5
 2025-12-17,Samasa,21.0,7.0,,,
+2025-12-17,San Andres,30.5,6.5,,,
 2025-12-17,San Antonio - Los Ángeles (GPRS),21.49,19.96,81.8,66.01,
 2025-12-17,San Benito,23.0,9.0,,,
 2025-12-17,San Calixto,17.2,7.2,,,5.4
@@ -70949,6 +71202,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-17,Tinguipaya,22.4,5.3,,,
 2025-12-17,Tiraque,25.0,4.0,,,
 2025-12-17,Tiraque_M (GPRS),7.52,5.57,65.53,55.47,
+2025-12-17,Todos Santos_Or,18.5,6.0,,,
 2025-12-17,Toledo (GPRS),7.12,5.28,54.86,42.13,
 2025-12-17,Tomave,26.0,3.0,,,
 2025-12-17,Toralapa Iniaf (GPRS),5.8,3.8,79.5,64.5,
@@ -70984,6 +71238,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-18,Aguadas (GPRS),4.39,2.42,93.4,44.28,
 2025-12-18,Aguaraycito,38.0,25.0,,,
 2025-12-18,Aiquile (GPRS),13.72,11.29,67.05,42.76,
+2025-12-18,Alcantarí_Aeropuerto,22.1,8.5,,,
 2025-12-18,Alto Peñas (GPRS),6.17,3.79,75.21,49.52,
 2025-12-18,Andamarca,26.1,6.4,,,
 2025-12-18,Anzaldo,,,,,12.2
@@ -70994,19 +71249,23 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-18,Azurduy,23.5,9.0,,,
 2025-12-18,Cabaña Forestal Oruro,24.5,4.6,,,
 2025-12-18,Caiza D,29.0,9.0,,,
+2025-12-18,Calachaka Jahuira,,,,,3.3
 2025-12-18,Calacoto,,,,,1.1
 2025-12-18,Camargo_M (GPRS),16.4,11.74,43.45,22.6,
 2025-12-18,Camata,31.0,15.0,,,
+2025-12-18,Capinota,30.2,14.2,,,
 2025-12-18,Carabuco,,5.0,,,
 2025-12-18,Caranavi,35.5,20.0,,,
 2025-12-18,Carura_M - Guanay (GPRS),19.69,19.18,93.39,61.85,0.1
 2025-12-18,Chacala Iniaf (GPRS),7.7,2.1,31.5,19.0,
 2025-12-18,Chaqui,22.3,4.0,,,
+2025-12-18,Chasqui (Escoma),,,,,3.6
 2025-12-18,Chillca,19.2,2.0,,,
 2025-12-18,Chinchaya,,,,,10.8
 2025-12-18,Chinoli,23.0,7.8,,,
 2025-12-18,Chipaya - GPRS,,,,,0.2
 2025-12-18,Chirapaca,18.0,3.0,,,
+2025-12-18,Chojñapata,,,,,2.1
 2025-12-18,Chua Cocani_M (GPRS),8.22,4.95,74.2,57.86,
 2025-12-18,Chuqui Chuqui,35.0,18.0,,,
 2025-12-18,Chuquiago,32.0,9.2,,,
@@ -71021,6 +71280,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-18,Cotagaita (GPRS),16.63,13.15,52.7,29.49,
 2025-12-18,Cotagaita Mosoj Llajta,28.0,9.0,,,
 2025-12-18,Covendo_M (GPRS),21.44,21.23,98.21,62.42,
+2025-12-18,Cruzpata (Escoma),,,,,4.8
 2025-12-18,Cuatro Cañadas - CEA-2 (GPRS),22.23,21.24,78.66,64.7,
 2025-12-18,Cuatro Cañadas - Colonia Chihuahua (GPRS),21.78,20.34,86.0,65.69,
 2025-12-18,Cuesta del Zorro (Catacora),,,,,3.3
@@ -71030,6 +71290,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-18,Desaguadero_M,7.31,5.55,82.3,46.46,
 2025-12-18,El Belen,17.0,3.0,,,
 2025-12-18,El Villar,24.5,10.0,,,
+2025-12-18,Guajara-Mirim - Guayaramerín,33.0,22.4,,,
 2025-12-18,Guayaramerin_M (GPRS),23.03,21.61,97.49,77.68,
 2025-12-18,Hichucota,15.0,2.0,,,
 2025-12-18,Huancane Corapata_M (GPRS),6.8,2.26,69.33,42.81,
@@ -71044,6 +71305,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-18,Jesús de Machaca_M (GPRS),5.94,0.73,77.61,43.75,
 2025-12-18,Jihuacuta,,,,,0.3
 2025-12-18,La Asunta,34.0,,,,
+2025-12-18,La Barranca  (Chuquisaca),,,,,2.0
 2025-12-18,La Merced,30.0,12.0,,,
 2025-12-18,La Torre,35.0,12.0,,,
 2025-12-18,Laguna Colorada (GPRS),1.36,-4.68,28.61,10.8,
@@ -71079,12 +71341,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-18,Redencion Pampa,25.0,10.0,,,
 2025-12-18,Riberalta_H (GPRS),,,,,6.0
 2025-12-18,Río Chilenas (GPRS),17.99,-2.98,76.21,7.55,
+2025-12-18,Sacabaya,23.5,1.0,,,
 2025-12-18,Sacaca,20.2,3.8,,,
 2025-12-18,Sacacani_M (GPRS),4.71,0.66,65.65,41.36,
 2025-12-18,Sacani Santiago (Catacora),,,,,0.7
 2025-12-18,Salinas Iniaf (GPRS),12.1,10.2,15.0,10.7,
 2025-12-18,Salo_M (GPRS),10.88,7.11,48.68,22.4,
 2025-12-18,Samasa,24.2,8.2,,,
+2025-12-18,San Andres,28.5,9.0,,,
 2025-12-18,San Antonio,,,,,7.0
 2025-12-18,San Antonio - Los Ángeles (GPRS),22.04,20.57,86.9,74.98,
 2025-12-18,San Benito,25.0,9.0,,,
@@ -71115,6 +71379,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-18,Tinguipaya,23.2,6.2,,,
 2025-12-18,Tiraque,23.0,7.0,,,
 2025-12-18,Tiraque_M (GPRS),9.49,8.06,68.07,51.83,
+2025-12-18,Todos Santos_Or,18.5,4.5,,,
 2025-12-18,Toledo (GPRS),8.33,3.83,61.91,34.01,
 2025-12-18,Tomave,26.4,3.1,,,
 2025-12-18,Toralapa Iniaf (GPRS),6.3,4.7,80.3,58.9,
@@ -71148,6 +71413,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-19,Aguadas (GPRS),6.93,3.89,90.2,54.16,4.3
 2025-12-19,Aguaraycito,32.0,25.0,,,
 2025-12-19,Aiquile (GPRS),17.84,16.72,78.66,34.57,
+2025-12-19,Alcantarí_Aeropuerto,22.2,10.1,,,
 2025-12-19,Alto Peñas (GPRS),4.41,3.18,96.7,47.31,15.6
 2025-12-19,Andamarca,25.4,6.1,,,7.8
 2025-12-19,Anzaldo_M (GPRS),12.79,11.87,90.06,30.44,19.5
@@ -71157,9 +71423,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-19,Azurduy,,,,,3.1
 2025-12-19,Cabaña Forestal Oruro,23.7,9.7,,,11.4
 2025-12-19,Caiza D,29.0,8.0,,,
+2025-12-19,Calachaka Jahuira,,,,,1.0
 2025-12-19,Camargo_H (GPRS),,,,,3.1
 2025-12-19,Camargo_M (GPRS),18.96,17.01,88.05,13.21,3.0
 2025-12-19,Camata,,,,,24.0
+2025-12-19,Capinota,28.5,13.2,,,5.3
 2025-12-19,Carabuco,,6.0,,,
 2025-12-19,Caranavi,36.0,19.5,,,
 2025-12-19,Carura_M - Guanay (GPRS),20.5,20.1,94.96,49.02,0.5
@@ -71172,6 +71440,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-19,Chipaya - GPRS,,,,,3.6
 2025-12-19,Chirapaca,18.0,4.0,,,
 2025-12-19,Chocolatal,,,,,1.0
+2025-12-19,Chojñapata,,,,,1.0
 2025-12-19,Chua Cocani_M (GPRS),7.76,6.72,73.16,44.48,11.5
 2025-12-19,Chuqui Chuqui,35.0,20.0,,,
 2025-12-19,Chuquiago,22.0,15.2,,,
@@ -71195,10 +71464,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-19,Desaguadero_M,10.97,6.65,87.9,46.41,4.9
 2025-12-19,El Belen,18.0,4.0,,,
 2025-12-19,El Villar,25.0,15.0,,,
+2025-12-19,Guajara-Mirim - Guayaramerín,29.4,23.4,,,
 2025-12-19,Guayaramerin_M (GPRS),24.68,24.24,100.0,85.43,20.4
 2025-12-19,Hichucota,14.0,1.0,,,
 2025-12-19,Huancane Corapata_M (GPRS),5.48,1.99,88.2,36.74,1.8
 2025-12-19,Huarisuyo (GPRS),5.0,3.08,94.9,36.64,5.3
+2025-12-19,Huayllamarca,13.6,3.5,,,
 2025-12-19,Huayrocondo,21.2,1.7,,,5.6
 2025-12-19,Incapampa - Coroico_M (GPRS),15.9,15.33,99.83,53.26,
 2025-12-19,Isla Del Sol,15.0,8.0,,,
@@ -71245,12 +71516,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-19,Redencion Pampa,23.0,13.0,,,
 2025-12-19,Riberalta_H (GPRS),,,,,0.3
 2025-12-19,Río Chilenas (GPRS),4.76,2.17,61.77,20.2,
+2025-12-19,Sacabaya,20.5,3.5,,,2.3
 2025-12-19,Sacaca,21.6,4.4,,,
 2025-12-19,Sacacani_M (GPRS),6.5,4.67,82.8,34.06,1.7
 2025-12-19,Sacani Santiago (Catacora),,,,,10.0
 2025-12-19,Salinas Iniaf (GPRS),11.1,10.0,56.5,8.0,
 2025-12-19,Salo_M (GPRS),13.3,10.59,79.25,25.57,0.4
 2025-12-19,Samasa,,,,,16.4
+2025-12-19,San Andres,30.0,10.5,,,
 2025-12-19,San Antonio,,,,,1.0
 2025-12-19,San Antonio - Los Ángeles (GPRS),24.13,23.73,90.8,59.58,
 2025-12-19,San Benito,26.0,11.0,,,
@@ -71284,6 +71557,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-19,Tinguipaya,24.1,8.2,,,
 2025-12-19,Tiraque,25.0,8.0,,,
 2025-12-19,Tiraque_M (GPRS),11.12,10.47,83.6,47.55,
+2025-12-19,Todos Santos_Or,21.0,6.0,,,
 2025-12-19,Toledo (GPRS),10.59,8.95,92.5,21.6,4.8
 2025-12-19,Tomave,26.0,6.1,,,
 2025-12-19,Toralapa Iniaf (GPRS),9.7,8.7,91.6,56.9,
@@ -71319,8 +71593,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-20,Aguadas (GPRS),8.39,6.11,78.77,48.17,
 2025-12-20,Aguaraycito,40.0,23.0,,,
 2025-12-20,Aiquile (GPRS),16.93,15.16,71.95,35.65,
+2025-12-20,Alcantarí_Aeropuerto,25.0,12.8,,,
 2025-12-20,Alto Obrajes_Barrio Magisterio,,,,,1.9
 2025-12-20,Alto Peñas (GPRS),7.11,5.12,85.0,67.5,
+2025-12-20,Ancoraimes,,,,,9.5
 2025-12-20,Andamarca,26.1,5.4,,,10.4
 2025-12-20,Anzaldo_M (GPRS),14.63,9.77,81.64,43.61,
 2025-12-20,Apolo_M (GPRS),18.61,17.63,90.35,50.28,
@@ -71329,9 +71605,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-20,Azurduy,24.0,10.0,,,
 2025-12-20,Cabaña Forestal Oruro,18.4,5.7,,,
 2025-12-20,Caiza D,30.0,8.0,,,10.0
+2025-12-20,Calachaka Jahuira,,,,,13.9
 2025-12-20,Camargo_H (GPRS),,,,,0.3
 2025-12-20,Camargo_M (GPRS),16.41,13.38,52.61,25.66,
 2025-12-20,Camata,30.5,16.5,,,
+2025-12-20,Capinota,28.0,3.5,,,2.6
 2025-12-20,Carabuco,,5.5,,,22.8
 2025-12-20,Caranavi,31.0,21.5,,,8.5
 2025-12-20,Carura_M - Guanay (GPRS),21.91,20.75,93.11,60.75,
@@ -71344,6 +71622,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-20,Chinoli,23.1,6.8,,,
 2025-12-20,Chipaya - GPRS,22.7,5.4,,,
 2025-12-20,Chirapaca,17.0,5.0,,,9.8
+2025-12-20,Chojñapata,,,,,5.6
 2025-12-20,Chua Cocani_M (GPRS),10.32,5.35,85.7,49.7,
 2025-12-20,Chuqui Chuqui,34.0,22.0,,,
 2025-12-20,Chuquiago,32.2,10.0,,,
@@ -71376,6 +71655,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-20,Hichucota,12.0,3.0,,,9.0
 2025-12-20,Huancane Corapata_M (GPRS),6.86,5.22,85.7,55.02,0.1
 2025-12-20,Huarisuyo (GPRS),7.16,5.78,90.0,55.31,
+2025-12-20,Huayllamarca,19.3,3.5,,,
 2025-12-20,Huayrocondo,17.3,5.1,,,5.8
 2025-12-20,Incapampa - Coroico_M (GPRS),16.96,16.59,99.81,63.39,
 2025-12-20,Isla Del Sol,13.0,6.0,,,6.2
@@ -71428,6 +71708,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-20,Ravelo,23.0,10.0,,,
 2025-12-20,Redencion Pampa,26.0,12.0,,,
 2025-12-20,Río Chilenas (GPRS),3.79,-0.4,25.79,19.5,
+2025-12-20,Sacabaya,23.0,4.6,,,7.3
 2025-12-20,Sacaca,22.6,3.5,,,
 2025-12-20,Sacacani_M (GPRS),8.47,4.97,86.0,49.68,
 2025-12-20,Sacahuaya,,,,,2.5
@@ -71436,6 +71717,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-20,Salla,,,,,3.9
 2025-12-20,Salo_M (GPRS),11.49,5.69,66.63,15.61,
 2025-12-20,Samasa,24.0,9.2,,,
+2025-12-20,San Andres,32.0,15.0,,,9.7
 2025-12-20,San Antonio - Los Ángeles (GPRS),24.82,23.99,91.2,76.8,
 2025-12-20,San Benito,27.0,10.0,,,
 2025-12-20,San Buenaventura_M (GPRS),24.46,23.13,99.16,73.9,
@@ -71465,12 +71747,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-20,Talula_Tako Tako,,,,,1.3
 2025-12-20,Tarabuco,19.1,11.1,,,
 2025-12-20,Tarapaya,,,,,6.0
+2025-12-20,Tarata,,,,,3.0
 2025-12-20,Templo (GPRS),6.21,4.38,84.2,73.19,
 2025-12-20,Temporal - SDC (GPRS),18.24,12.92,59.88,42.71,
 2025-12-20,Terrazas de Achumani,,,,,0.6
 2025-12-20,Tinguipaya,23.1,7.3,,,3.2
 2025-12-20,Tiraque,26.0,8.0,,,7.0
 2025-12-20,Tiraque_M (GPRS),11.39,10.86,70.11,47.55,
+2025-12-20,Todos Santos_Or,19.5,5.5,,,
 2025-12-20,Toledo (GPRS),5.66,4.57,74.86,49.25,
 2025-12-20,Tomave,22.0,6.8,,,16.0
 2025-12-20,Toralapa Iniaf (GPRS),10.5,9.1,70.6,59.5,
@@ -71507,7 +71791,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-21,Aguadas (GPRS),5.86,4.34,89.7,75.02,
 2025-12-21,Aguaraycito,40.0,24.0,,,
 2025-12-21,Aiquile (GPRS),17.28,15.25,82.0,72.08,
+2025-12-21,Alcantarí_Aeropuerto,23.0,10.9,,,
 2025-12-21,Alto Peñas (GPRS),6.67,4.28,90.5,60.05,
+2025-12-21,Ancoraimes,,,,,10.0
 2025-12-21,Andamarca,25.4,6.1,,,
 2025-12-21,Anzaldo_M (GPRS),14.91,13.6,95.9,82.25,2.6
 2025-12-21,Apolo_M (GPRS),18.91,18.22,86.64,68.22,
@@ -71516,10 +71802,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-21,Azurduy,25.5,11.0,,,
 2025-12-21,Cabaña Forestal Oruro,20.5,4.8,,,
 2025-12-21,Caiza D,29.0,9.0,,,
+2025-12-21,Calachaka Jahuira,,,,,0.3
 2025-12-21,Calacoto,,,,,2.6
 2025-12-21,Camargo_M (GPRS),18.36,14.84,47.67,22.76,
 2025-12-21,Camata,29.5,17.0,,,
 2025-12-21,Campamento Villa Tunari,,,,,4.6
+2025-12-21,Capinota,28.2,14.0,,,
 2025-12-21,Carabuco,,6.0,,,2.2
 2025-12-21,Caranavi,32.5,21.0,,,
 2025-12-21,Carura_M - Guanay (GPRS),24.84,23.51,98.53,86.17,
@@ -71527,11 +71815,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-21,Cayarani,,,,,1.0
 2025-12-21,Chacala Iniaf (GPRS),7.6,3.9,15.1,11.7,
 2025-12-21,Chaqui,22.0,6.0,,,7.4
+2025-12-21,Chasqui (Escoma),,,,,2.2
 2025-12-21,Chillca,18.5,3.0,,,6.1
 2025-12-21,Chinoli,19.2,10.0,,,
 2025-12-21,Chipaya - GPRS,21.7,7.1,,,
 2025-12-21,Chirapaca,18.0,4.0,,,
 2025-12-21,Chocolatal,,,,,2.0
+2025-12-21,Chojñapata,,,,,7.0
 2025-12-21,Chua Cocani_M (GPRS),9.47,5.47,84.6,51.66,
 2025-12-21,Chuqui Chuqui,,,,,5.8
 2025-12-21,Chuquiago,32.0,10.2,,,
@@ -71548,6 +71838,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-21,Cotagaita Mosoj Llajta,28.0,10.0,,,
 2025-12-21,Cotagaita_H (GPRS),,,,,5.0
 2025-12-21,Covendo_M (GPRS),25.41,24.22,99.82,65.39,
+2025-12-21,Cruzpata (Escoma),,,,,3.0
 2025-12-21,Cuatro Cañadas - CEA-2 (GPRS),25.38,24.79,85.6,74.46,
 2025-12-21,Cuatro Cañadas - Colonia Chihuahua (GPRS),25.58,24.92,82.0,73.12,
 2025-12-21,Culpina,25.0,11.1,,,
@@ -71567,6 +71858,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-21,Huarisuyo (GPRS),7.54,3.45,87.7,46.7,
 2025-12-21,Huayllamarca,,,,,4.1
 2025-12-21,Huayrocondo,18.8,1.5,,,
+2025-12-21,Incalacaya,,,,,5.8
 2025-12-21,Incapampa - Coroico_M (GPRS),18.44,17.83,99.77,92.27,
 2025-12-21,Isla Del Sol,15.0,8.0,,,
 2025-12-21,Isla Suriqui_M (GPRS),9.41,7.57,70.18,40.37,
@@ -71617,12 +71909,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-21,Ravelo,22.0,8.0,,,
 2025-12-21,Redencion Pampa,29.0,13.0,,,
 2025-12-21,Río Chilenas (GPRS),17.41,-3.52,54.93,10.15,
+2025-12-21,Sacabaya,22.5,3.0,,,3.3
 2025-12-21,Sacaca,20.8,4.9,,,
 2025-12-21,Sacacani_M (GPRS),8.93,4.52,72.29,53.1,
 2025-12-21,Salinas Iniaf (GPRS),12.2,9.1,15.4,10.8,
 2025-12-21,Salla,,,,,2.2
 2025-12-21,Salo_M (GPRS),12.39,3.94,43.32,15.86,
 2025-12-21,Samasa,,,,,12.8
+2025-12-21,San Andres,30.0,18.0,,,4.3
 2025-12-21,San Antonio,,,,,2.0
 2025-12-21,San Antonio - Los Ángeles (GPRS),25.61,25.09,94.0,88.5,
 2025-12-21,San Benito,22.0,12.0,,,5.0
@@ -71653,11 +71947,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-21,Talula_Tako Tako,27.0,10.0,,,
 2025-12-21,Tarabuco,15.1,11.5,,,
 2025-12-21,Tarapaya,,,,,0.6
+2025-12-21,Tarata,,,,,4.0
 2025-12-21,Templo (GPRS),6.64,4.88,85.8,70.86,
 2025-12-21,Temporal - SDC (GPRS),16.74,15.43,29.62,0.11,
 2025-12-21,Tinguipaya,24.2,6.4,,,
 2025-12-21,Tiraque,23.0,8.0,,,10.5
 2025-12-21,Tiraque_M (GPRS),12.1,10.9,90.4,76.07,0.3
+2025-12-21,Todos Santos_Or,20.5,4.0,,,
 2025-12-21,Toledo (GPRS),8.02,5.27,80.8,51.08,
 2025-12-21,Tomave,24.5,7.0,,,
 2025-12-21,Toralapa Iniaf (GPRS),9.4,7.2,94.3,87.6,
@@ -71707,9 +72003,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-22,Cabaña Forestal Oruro,22.1,5.2,,,
 2025-12-22,Cachimayu,,,,,7.8
 2025-12-22,Caiza D,278.0,8.4,,,
+2025-12-22,Calachaka Jahuira,,,,,5.2
 2025-12-22,Calacoto,,,,,14.3
 2025-12-22,Camargo_M (GPRS),18.8,15.93,49.78,30.63,
 2025-12-22,Camata,32.0,17.5,,,
+2025-12-22,Capinota,26.5,12.0,,,39.5
 2025-12-22,Carabuco,,4.9,,,
 2025-12-22,Caranavi,33.5,20.5,,,
 2025-12-22,Caranavi_H (GPRS),,,,,0.7
@@ -71722,6 +72020,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-22,Chinoli,20.0,9.0,,,
 2025-12-22,Chipaya - GPRS,21.0,4.3,,,
 2025-12-22,Chirapaca,18.0,3.0,,,
+2025-12-22,Chojñapata,,,,,2.5
 2025-12-22,Chua Cocani_M (GPRS),5.87,5.27,78.61,48.45,
 2025-12-22,Chuqui Chuqui,28.0,21.0,,,
 2025-12-22,Chuquiago,30.0,11.0,,,
@@ -71737,6 +72036,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-22,Cotagaita (GPRS),18.54,14.23,64.23,45.25,
 2025-12-22,Cotagaita Mosoj Llajta,27.0,12.0,,,2.0
 2025-12-22,Covendo_M (GPRS),25.91,24.26,99.83,87.36,
+2025-12-22,Cruzpata (Escoma),,,,,1.0
 2025-12-22,Cuatro Cañadas - CEA-2 (GPRS),26.16,25.44,96.8,75.74,1.0
 2025-12-22,Cuatro Cañadas - Colonia Chihuahua (GPRS),26.75,25.7,99.2,77.65,4.4
 2025-12-22,Cuesta del Zorro (Catacora),,,,,0.2
@@ -71750,12 +72050,15 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-22,El Tejar (La Paz),,,,,0.3
 2025-12-22,El Villar,29.8,16.0,,,
 2025-12-22,Emborozu,,,,,20.0
+2025-12-22,Guajara-Mirim - Guayaramerín,34.0,24.0,,,
 2025-12-22,Guanay_H (GPRS),,,,,16.4
 2025-12-22,Guayaramerin_M (GPRS),26.2,24.68,99.53,74.5,
 2025-12-22,Hichucota,14.0,2.0,,,
 2025-12-22,Huancane Corapata_M (GPRS),7.12,3.38,91.1,37.02,
 2025-12-22,Huarisuyo (GPRS),4.35,0.1,97.4,22.68,
+2025-12-22,Huayllamarca,18.4,3.6,,,
 2025-12-22,Huayrocondo,19.9,1.0,,,
+2025-12-22,Incalacaya,,,,,0.9
 2025-12-22,Incapampa - Coroico_M (GPRS),18.24,17.58,99.84,94.25,
 2025-12-22,Isla Del Sol,15.0,7.0,,,
 2025-12-22,Isla Suriqui_M (GPRS),8.88,7.83,66.14,44.45,
@@ -71765,14 +72068,17 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-22,Jesús de Machaca_M (GPRS),3.08,-2.47,76.67,15.0,
 2025-12-22,Jihuacuta,,,,,14.0
 2025-12-22,La Asunta,34.0,,,,
+2025-12-22,La Barranca  (Chuquisaca),,,,,4.0
 2025-12-22,La Merced,30.0,17.0,,,
 2025-12-22,La Torre,31.0,14.0,,,
 2025-12-22,La Violeta,,,,,14.0
 2025-12-22,Laguna Colorada (GPRS),2.11,-4.39,33.01,3.25,
+2025-12-22,Laykacota,,,,,2.2
 2025-12-22,Llallagua,18.0,8.0,,,
 2025-12-22,MONTERO GUABIRA CIMAR,30.0,19.0,,,
 2025-12-22,Mataral,,,,,18.6
 2025-12-22,Mecapaca_M (GPRS),13.19,10.89,70.94,41.87,
+2025-12-22,Minero (Unagro),,,,,67.2
 2025-12-22,Mizque - SDC (GPRS),19.49,14.14,94.5,92.8,
 2025-12-22,Mojo,23.2,7.0,,,5.0
 2025-12-22,Nuevo Mundo,,,,,8.3
@@ -71808,6 +72114,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-22,Redencion Pampa,29.0,13.0,,,
 2025-12-22,Riberalta_H (GPRS),,,,,28.2
 2025-12-22,Río Chilenas (GPRS),15.43,-5.44,28.15,2.3,
+2025-12-22,Sacabaya,21.0,2.8,,,
 2025-12-22,Sacaca,22.3,3.6,,,
 2025-12-22,Sacacani_M (GPRS),5.45,1.6,83.7,54.84,
 2025-12-22,Sachapera,,,,,77.2
@@ -71815,6 +72122,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-22,Salo_M (GPRS),14.3,10.25,59.45,20.81,
 2025-12-22,Samaipata,,,,,13.0
 2025-12-22,Samasa,20.0,8.4,,,
+2025-12-22,San Andres,28.5,15.0,,,3.7
 2025-12-22,San Antonio - Los Ángeles (GPRS),26.42,25.61,95.8,92.6,
 2025-12-22,San Benito,21.0,13.0,,,6.0
 2025-12-22,San Buenaventura_M (GPRS),25.33,24.35,99.86,80.43,0.3
@@ -71850,6 +72158,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-22,Tinguipaya,20.3,7.2,,,
 2025-12-22,Tiraque,21.0,7.0,,,
 2025-12-22,Tiraque_M (GPRS),12.59,9.75,90.4,85.6,
+2025-12-22,Todos Santos_Or,21.0,5.0,,,
 2025-12-22,Toledo (GPRS),6.35,4.31,59.0,32.96,
 2025-12-22,Tomave,22.0,6.8,,,
 2025-12-22,Toralapa Iniaf (GPRS),11.4,8.9,97.6,90.2,
@@ -71889,6 +72198,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-23,Aguadas (GPRS),6.58,5.9,76.99,43.03,
 2025-12-23,Aguaraycito,37.0,24.0,,,
 2025-12-23,Aiquile (GPRS),15.26,13.03,93.9,52.16,
+2025-12-23,Alcantarí_Aeropuerto,22.4,9.3,,,
 2025-12-23,Alto Peñas (GPRS),7.86,4.6,50.54,32.69,
 2025-12-23,Andamarca,24.4,2.1,,,
 2025-12-23,Anzaldo,,,,,24.3
@@ -71903,6 +72213,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-23,Camargo_M (GPRS),18.28,17.08,47.03,28.48,
 2025-12-23,Camata,31.0,18.0,,,
 2025-12-23,Campamento Villa Tunari,,,,,85.0
+2025-12-23,Capinota,28.2,13.0,,,6.4
 2025-12-23,Carabuco,,2.0,,,
 2025-12-23,Caranavi,34.5,19.0,,,
 2025-12-23,Caranavi_H (GPRS),,,,,2.2
@@ -71910,11 +72221,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-23,Cayarani,,,,,9.3
 2025-12-23,Chacala Iniaf (GPRS),4.0,-0.9,12.5,7.7,
 2025-12-23,Chaqui,22.1,4.0,,,
+2025-12-23,Chasqui (Escoma),,,,,2.8
 2025-12-23,Chillca,19.0,2.0,,,
 2025-12-23,Chinchaya,,,,,8.2
 2025-12-23,Chinoli,21.2,10.0,,,
 2025-12-23,Chipaya - GPRS,21.7,-3.0,,,
 2025-12-23,Chirapaca,17.0,2.0,,,
+2025-12-23,Chojñapata,,,,,1.0
 2025-12-23,Chua Cocani_M (GPRS),7.34,3.7,68.77,38.43,
 2025-12-23,Chuqui Chuqui,36.0,18.0,,,
 2025-12-23,Chuquiago,30.2,13.0,,,10.0
@@ -71931,6 +72244,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-23,Cotagaita (GPRS),18.8,17.54,55.16,29.99,
 2025-12-23,Cotagaita Mosoj Llajta,28.0,15.0,,,
 2025-12-23,Covendo_M (GPRS),24.2,23.36,96.82,68.16,
+2025-12-23,Cruzpata (Escoma),,,,,3.5
 2025-12-23,Cuatro Cañadas - CEA-2 (GPRS),24.17,23.93,100.0,99.5,24.4
 2025-12-23,Cuatro Cañadas - Colonia Chihuahua (GPRS),24.4,24.08,100.0,100.0,11.2
 2025-12-23,Culpina,23.5,9.8,,,
@@ -71947,6 +72261,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-23,Hichucota,16.0,1.0,,,
 2025-12-23,Huancane Corapata_M (GPRS),7.96,0.03,63.92,21.78,
 2025-12-23,Huarisuyo (GPRS),4.37,0.37,64.32,27.26,
+2025-12-23,Huayllamarca,17.6,2.6,,,
 2025-12-23,Huayrocondo,20.4,-2.9,,,
 2025-12-23,Incapampa - Coroico_M (GPRS),17.84,17.49,99.83,74.74,
 2025-12-23,Isla Del Sol,17.0,8.0,,,
@@ -71958,12 +72273,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-23,Juntas,,,,,0.2
 2025-12-23,La Asunta,33.0,,,,
 2025-12-23,La Asunta_H (GPRS),,,,,0.1
+2025-12-23,La Barranca  (Chuquisaca),,,,,18.5
 2025-12-23,La Merced,31.0,18.0,,,
 2025-12-23,La Torre,30.2,13.0,,,
 2025-12-23,Laguna Colorada (GPRS),-1.94,-6.7,34.39,10.05,
 2025-12-23,Llallagua,19.1,6.0,,,
 2025-12-23,MONTERO GUABIRA CIMAR,,,,,84.0
 2025-12-23,Mecapaca_M (GPRS),15.37,12.6,92.34,30.78,
+2025-12-23,Minero (Unagro),,,,,45.6
 2025-12-23,Mizque - SDC (GPRS),15.04,13.73,94.8,62.71,
 2025-12-23,Mojo,26.0,6.2,,,1.3
 2025-12-23,Okinawa I,28.0,19.0,,,23.4
@@ -71995,6 +72312,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-23,Riberalta_H (GPRS),,,,,9.0
 2025-12-23,Rosario del Ingre,,,,,2.0
 2025-12-23,Río Chilenas (GPRS),15.82,-5.84,46.0,7.17,
+2025-12-23,Sacabaya,22.0,-5.0,,,
 2025-12-23,Sacaca,21.4,1.8,,,1.5
 2025-12-23,Sacacani_M (GPRS),6.37,-0.32,65.13,24.97,
 2025-12-23,Sachapera,,,,,1.9
@@ -72002,6 +72320,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-23,Salo_M (GPRS),13.81,10.06,53.8,22.55,
 2025-12-23,Samaipata,,,,,6.0
 2025-12-23,Samasa,24.0,6.2,,,
+2025-12-23,San Andres,29.0,15.0,,,
 2025-12-23,San Antonio,,,,,1.0
 2025-12-23,San Antonio - Los Ángeles (GPRS),24.37,24.03,93.5,88.9,
 2025-12-23,San Benito,26.0,12.0,,,
@@ -72036,6 +72355,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-23,Tinguipaya,22.1,6.3,,,
 2025-12-23,Tiraque,24.0,8.0,,,
 2025-12-23,Tiraque_M (GPRS),10.73,9.88,80.5,54.52,
+2025-12-23,Todos Santos_Or,17.5,6.5,,,
 2025-12-23,Toledo (GPRS),6.17,-0.46,39.77,10.44,
 2025-12-23,Tomave,25.1,-0.5,,,
 2025-12-23,Toralapa Iniaf (GPRS),9.0,7.5,85.5,73.2,
@@ -72072,6 +72392,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-24,Aguadas (GPRS),8.04,6.25,87.8,61.28,9.8
 2025-12-24,Aguaraycito,37.0,23.0,,,
 2025-12-24,Aiquile (GPRS),18.32,17.06,79.22,60.44,
+2025-12-24,Alcantarí_Aeropuerto,20.8,11.3,,,
 2025-12-24,Alto Peñas (GPRS),6.48,5.48,84.9,43.84,
 2025-12-24,Andamarca,25.0,3.0,,,
 2025-12-24,Anzaldo,,,,,3.4
@@ -72082,8 +72403,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-24,Azurduy,22.0,9.0,,,
 2025-12-24,Cabaña Forestal Oruro,19.3,8.9,,,
 2025-12-24,Caiza D,29.0,9.0,,,
+2025-12-24,Calachaka Jahuira,,,,,3.9
 2025-12-24,Camargo_M (GPRS),18.25,16.49,58.78,31.91,
 2025-12-24,Camata,,,,,7.8
+2025-12-24,Capinota,27.0,13.5,,,
 2025-12-24,Carabuco,,6.9,,,
 2025-12-24,Caranavi,34.0,20.5,,,
 2025-12-24,Caranavi_H (GPRS),,,,,0.4
@@ -72091,11 +72414,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-24,Cayarani,,,,,2.0
 2025-12-24,Chacala Iniaf (GPRS),4.6,1.9,32.3,16.5,
 2025-12-24,Chaqui,18.3,8.0,,,4.8
+2025-12-24,Chasqui (Escoma),,,,,2.3
 2025-12-24,Chillca,16.0,3.2,,,0.6
 2025-12-24,Chinchaya,,,,,11.4
 2025-12-24,Chinoli,20.0,9.2,,,10.2
 2025-12-24,Chipaya - GPRS,21.7,1.8,,,
 2025-12-24,Chirapaca,17.0,4.0,,,
+2025-12-24,Chojñapata,,,,,2.0
 2025-12-24,Chua Cocani_M (GPRS),9.33,7.64,69.12,47.92,
 2025-12-24,Chuqui Chuqui,34.0,23.0,,,
 2025-12-24,Chuquiago,30.0,13.5,,,
@@ -72113,6 +72438,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-24,Cotagaita Mosoj Llajta,27.0,15.0,,,
 2025-12-24,Cotagaita_H (GPRS),,,,,0.1
 2025-12-24,Covendo_M (GPRS),25.71,21.77,99.89,97.08,1.5
+2025-12-24,Cruzpata (Escoma),,,,,2.8
 2025-12-24,Cuatro Cañadas - CEA-2 (GPRS),24.32,23.74,97.2,90.0,
 2025-12-24,Cuatro Cañadas - Colonia Chihuahua (GPRS),24.08,23.68,98.9,88.4,
 2025-12-24,Cuesta del Zorro (Catacora),,,,,0.1
@@ -72129,7 +72455,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-24,Hichucota,12.0,5.0,,,
 2025-12-24,Huancane Corapata_M (GPRS),7.45,6.07,83.4,44.47,
 2025-12-24,Huarisuyo (GPRS),6.94,5.5,95.4,59.19,
+2025-12-24,Huayllamarca,18.3,3.5,,,
 2025-12-24,Huayrocondo,17.7,4.0,,,
+2025-12-24,Incalacaya,,,,,7.5
 2025-12-24,Incapampa - Coroico_M (GPRS),18.18,15.14,99.84,91.21,
 2025-12-24,Isla Del Sol,14.0,6.0,,,6.8
 2025-12-24,Isla Suriqui_M (GPRS),11.31,9.47,85.9,62.12,
@@ -72140,12 +72468,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-24,Jihuacuta,,,,,0.8
 2025-12-24,La Asunta,33.0,,,,6.4
 2025-12-24,La Asunta_H (GPRS),,,,,2.4
+2025-12-24,La Barranca  (Chuquisaca),,,,,1.5
 2025-12-24,La Merced,,,,,4.5
 2025-12-24,La Torre,30.0,13.2,,,
 2025-12-24,Laguna Colorada (GPRS),3.02,-5.2,26.95,10.21,
 2025-12-24,Llallagua,,,,,4.2
 2025-12-24,MONTERO GUABIRA CIMAR,,,,,5.0
 2025-12-24,Mecapaca_M (GPRS),15.74,14.5,100.0,74.04,
+2025-12-24,Minero (Unagro),,,,,1.0
 2025-12-24,Mizque - SDC (GPRS),19.68,17.68,82.1,62.45,
 2025-12-24,Mojo,22.0,7.0,,,
 2025-12-24,Nuevo Mundo,,,,,12.6
@@ -72178,6 +72508,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-24,Riberalta_H (GPRS),,,,,13.6
 2025-12-24,Rosario del Ingre,,,,,21.0
 2025-12-24,Río Chilenas (GPRS),16.79,-5.03,43.45,5.2,
+2025-12-24,Sacabaya,23.0,-1.6,,,
 2025-12-24,Sacaca,22.6,2.7,,,2.8
 2025-12-24,Sacacani_M (GPRS),8.76,6.04,40.88,21.9,
 2025-12-24,Sacahuaya,,,,,15.9
@@ -72185,6 +72516,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-24,Salinas Iniaf (GPRS),7.3,4.3,9.7,4.6,
 2025-12-24,Salo_M (GPRS),13.02,7.0,55.1,33.0,
 2025-12-24,Samasa,,,,,2.4
+2025-12-24,San Andres,30.0,18.5,,,5.7
 2025-12-24,San Antonio - Los Ángeles (GPRS),25.58,24.74,93.8,87.0,
 2025-12-24,San Benito,21.0,13.0,,,
 2025-12-24,San Buenaventura_M (GPRS),25.77,25.1,96.68,88.53,0.1
@@ -72214,11 +72546,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-24,Talula_Tako Tako,23.0,13.0,,,
 2025-12-24,Tarabuco,,,,,3.8
 2025-12-24,Tarapaya,,,,,4.6
+2025-12-24,Tarata,,,,,14.3
 2025-12-24,Templo (GPRS),5.55,3.69,94.5,69.82,8.4
 2025-12-24,Temporal - SDC (GPRS),17.38,15.03,87.6,68.45,
 2025-12-24,Tinguipaya,19.3,6.1,,,0.2
 2025-12-24,Tiraque,23.0,6.0,,,21.5
 2025-12-24,Tiraque_M (GPRS),11.06,10.08,76.9,70.67,0.2
+2025-12-24,Todos Santos_Or,18.0,4.0,,,
 2025-12-24,Toledo (GPRS),9.2,8.18,59.14,43.94,
 2025-12-24,Tomave,24.0,3.0,,,
 2025-12-24,Toralapa Iniaf (GPRS),10.0,8.3,83.7,73.0,
@@ -72267,10 +72601,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-25,Cabaña Forestal Oruro,14.7,8.5,,,
 2025-12-25,Cachimayu,,,,,7.2
 2025-12-25,Caiza D,25.0,13.0,,,
+2025-12-25,Calachaka Jahuira,,,,,2.0
 2025-12-25,Camargo_H (GPRS),,,,,10.4
 2025-12-25,Camargo_M (GPRS),19.62,16.59,56.48,36.29,
 2025-12-25,Camata,25.5,16.5,,,
 2025-12-25,Campamento Villa Tunari,,,,,60.0
+2025-12-25,Capinota,26.0,11.5,,,3.2
 2025-12-25,Carabuco,,3.0,,,5.8
 2025-12-25,Caranavi,28.5,22.0,,,23.0
 2025-12-25,Caranavi_H (GPRS),,,,,0.5
@@ -72278,12 +72614,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-25,Cayarani,,,,,21.5
 2025-12-25,Chacala Iniaf (GPRS),11.2,8.2,51.0,33.9,
 2025-12-25,Chaqui,14.6,6.6,,,0.3
+2025-12-25,Chasqui (Escoma),,,,,4.1
 2025-12-25,Chillca,18.1,6.0,,,0.8
 2025-12-25,Chinchaya,,,,,10.0
 2025-12-25,Chinoli,18.2,10.0,,,20.1
 2025-12-25,Chipaya - GPRS,21.0,4.5,,,3.8
 2025-12-25,Chirapaca,16.0,3.0,,,
 2025-12-25,Chocolatal,,,,,7.0
+2025-12-25,Chojñapata,,,,,9.1
 2025-12-25,Chorocona,,,,,12.2
 2025-12-25,Chua Cocani_M (GPRS),8.51,6.32,80.6,58.24,
 2025-12-25,Chuqui Chuqui,,,,,25.3
@@ -72302,6 +72640,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-25,Cotagaita Mosoj Llajta,26.0,16.0,,,
 2025-12-25,Cotagaita_H (GPRS),,,,,15.7
 2025-12-25,Covendo_M (GPRS),23.09,22.52,99.88,77.04,0.3
+2025-12-25,Cruzpata (Escoma),,,,,5.6
 2025-12-25,Cuatro Cañadas - CEA-2 (GPRS),24.32,23.93,96.7,88.9,
 2025-12-25,Cuatro Cañadas - Colonia Chihuahua (GPRS),24.27,23.87,94.1,77.99,
 2025-12-25,Cuesta del Zorro (Catacora),,,,,1.5
@@ -72320,7 +72659,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-25,Hichucota,10.0,3.0,,,
 2025-12-25,Huancane Corapata_M (GPRS),5.15,2.28,77.61,48.9,
 2025-12-25,Huarisuyo (GPRS),5.64,2.86,96.4,52.05,
+2025-12-25,Huayllamarca,18.2,3.6,,,
 2025-12-25,Huayrocondo,14.4,1.5,,,
+2025-12-25,Incalacaya,,,,,7.8
 2025-12-25,Incapampa - Coroico_M (GPRS),16.8,16.58,99.83,75.66,
 2025-12-25,Isla Del Sol,14.0,7.0,,,
 2025-12-25,Isla Suriqui_M (GPRS),8.48,6.79,79.83,58.32,
@@ -72332,6 +72673,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-25,Juntas,,,,,17.2
 2025-12-25,La Asunta,33.0,,,,
 2025-12-25,La Asunta_H (GPRS),,,,,0.2
+2025-12-25,La Barranca  (Chuquisaca),,,,,0.6
 2025-12-25,La Merced,,,,,2.4
 2025-12-25,La Torre,,,,,13.0
 2025-12-25,La Violeta,,,,,20.0
@@ -72339,6 +72681,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-25,Llallagua,11.5,7.0,,,
 2025-12-25,MONTERO GUABIRA CIMAR,,,,,1.5
 2025-12-25,Mecapaca_M (GPRS),13.67,11.67,99.53,67.83,
+2025-12-25,Minero (Unagro),,,,,1.0
 2025-12-25,Mizque - SDC (GPRS),15.62,14.31,93.4,74.47,
 2025-12-25,Mojo,17.0,6.0,,,28.3
 2025-12-25,Okinawa I,31.0,21.0,,,
@@ -72373,6 +72716,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-25,Riberalta_H (GPRS),,,,,29.4
 2025-12-25,Rosario del Ingre,,,,,6.5
 2025-12-25,Río Chilenas (GPRS),13.0,3.54,84.4,33.72,0.1
+2025-12-25,Sacabaya,20.0,-2.0,,,
 2025-12-25,Sacaca,20.6,1.8,,,4.2
 2025-12-25,Sacacani_M (GPRS),5.72,4.67,85.8,54.36,
 2025-12-25,Sacahuaya,,,,,5.0
@@ -72380,6 +72724,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-25,Salinas Iniaf (GPRS),11.2,7.7,10.0,5.9,
 2025-12-25,Salo_M (GPRS),11.59,7.63,57.42,46.49,
 2025-12-25,Samasa,,,,,9.8
+2025-12-25,San Andres,27.0,17.0,,,
 2025-12-25,San Antonio - Los Ángeles (GPRS),24.52,23.22,94.2,85.7,
 2025-12-25,San Benito,15.0,10.0,,,15.0
 2025-12-25,San Calixto,15.4,8.0,,,
@@ -72409,11 +72754,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-25,Talula_Tako Tako,,,,,15.3
 2025-12-25,Tarabuco,,,,,25.4
 2025-12-25,Tarapaya,18.0,9.8,,,
+2025-12-25,Tarata,,,,,7.3
 2025-12-25,Templo (GPRS),3.73,0.11,97.0,94.2,0.9
 2025-12-25,Temporal - SDC (GPRS),10.69,9.39,97.6,96.6,
 2025-12-25,Tinguipaya,21.2,7.2,,,0.3
 2025-12-25,Tiraque,19.0,5.0,,,23.0
 2025-12-25,Tiraque_M (GPRS),8.43,6.34,94.6,93.6,1.7
+2025-12-25,Todos Santos_Or,14.5,0.8,,,3.8
 2025-12-25,Toledo (GPRS),9.58,6.31,63.39,35.57,
 2025-12-25,Tomave,18.2,4.5,,,
 2025-12-25,Toralapa Iniaf (GPRS),6.4,5.1,100.0,92.2,0.2
@@ -72458,6 +72805,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-26,Alcantarí_Aeropuerto,,,,,29.8
 2025-12-26,Alto Obrajes_Barrio Magisterio,,,,,8.3
 2025-12-26,Alto Peñas (GPRS),5.68,4.68,92.5,79.29,0.8
+2025-12-26,Ancoraimes,,,,,8.3
 2025-12-26,Andamarca,25.2,4.3,,,
 2025-12-26,Anzaldo_M (GPRS),11.01,10.29,93.59,72.6,
 2025-12-26,Apolo_M (GPRS),16.19,15.95,99.51,72.85,19.6
@@ -72467,12 +72815,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-26,Cabaña Forestal Oruro,18.3,8.6,,,
 2025-12-26,Cachimayu,,,,,29.3
 2025-12-26,Caiza D,28.0,9.2,,,
+2025-12-26,Calachaka Jahuira,,,,,10.0
 2025-12-26,Calacoto,,,,,2.0
 2025-12-26,Camargo_H (GPRS),,,,,11.2
 2025-12-26,Camargo_M (GPRS),17.52,13.22,91.46,70.58,
 2025-12-26,Camata,,,,,59.4
 2025-12-26,Campamento Villa Tunari,,,,,120.0
 2025-12-26,Campanario,,,,,9.3
+2025-12-26,Capinota,24.2,12.0,,,8.7
 2025-12-26,Carabuco,,3.3,,,
 2025-12-26,Caranavi,29.0,21.5,,,21.5
 2025-12-26,Caranavi_H (GPRS),,,,,17.4
@@ -72481,12 +72831,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-26,Cayarani,,,,,21.7
 2025-12-26,Chacala Iniaf (GPRS),7.9,6.7,91.3,75.3,2.0
 2025-12-26,Chaqui,15.3,7.0,,,20.7
+2025-12-26,Chasqui (Escoma),,,,,4.4
 2025-12-26,Chillca,17.0,3.0,,,2.0
 2025-12-26,Chinchaya,,,,,12.4
 2025-12-26,Chinoli,19.4,8.8,,,18.3
 2025-12-26,Chipaya - GPRS,16.2,7.2,,,10.5
 2025-12-26,Chirapaca,15.0,5.0,,,
 2025-12-26,Chocolatal,,,,,5.0
+2025-12-26,Chojñapata,,,,,5.9
 2025-12-26,Chua Cocani_M (GPRS),7.83,6.19,86.4,73.09,0.2
 2025-12-26,Chuqui Chuqui,,,,,17.1
 2025-12-26,Chuquiago,23.0,10.5,,,27.5
@@ -72504,6 +72856,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-26,Cotagaita Mosoj Llajta,24.0,12.0,,,15.5
 2025-12-26,Cotagaita_H (GPRS),,,,,1.1
 2025-12-26,Covendo_M (GPRS),22.13,21.98,99.9,91.91,0.3
+2025-12-26,Cruzpata (Escoma),,,,,5.2
 2025-12-26,Cuatro Cañadas - CEA-2 (GPRS),24.85,23.6,92.3,74.97,
 2025-12-26,Cuatro Cañadas - Colonia Chihuahua (GPRS),24.86,23.61,92.4,78.45,
 2025-12-26,Cuesta del Zorro (Catacora),,,,,7.1
@@ -72524,7 +72877,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-26,Hichucota,8.0,1.0,,,20.0
 2025-12-26,Huancane Corapata_M (GPRS),7.2,5.94,79.96,54.11,
 2025-12-26,Huarisuyo (GPRS),6.15,4.67,86.8,63.43,0.2
+2025-12-26,Huayllamarca,17.0,3.3,,,
 2025-12-26,Huayrocondo,16.1,4.2,,,4.9
+2025-12-26,Incalacaya,,,,,5.2
 2025-12-26,Incapampa - Coroico_M (GPRS),15.98,14.97,99.81,99.75,
 2025-12-26,Isla Del Sol,11.0,6.0,,,9.6
 2025-12-26,Isla Suriqui_M (GPRS),8.75,6.52,79.96,69.22,0.1
@@ -72535,6 +72890,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-26,Juntas,,,,,17.3
 2025-12-26,La Asunta,30.0,,,,14.2
 2025-12-26,La Asunta_H (GPRS),,,,,7.3
+2025-12-26,La Barranca  (Chuquisaca),,,,,4.0
 2025-12-26,La Merced,,,,,53.0
 2025-12-26,La Torre,,,,,14.0
 2025-12-26,La Violeta,,,,,11.0
@@ -72585,6 +72941,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-26,Riberalta_H (GPRS),,,,,2.3
 2025-12-26,Rosario del Ingre,,,,,5.0
 2025-12-26,Río Chilenas (GPRS),10.57,-0.56,97.1,51.55,13.5
+2025-12-26,Sacabaya,15.0,2.5,,,6.4
 2025-12-26,Sacaca,21.8,3.9,,,10.2
 2025-12-26,Sacacani_M (GPRS),7.68,5.91,82.5,64.75,
 2025-12-26,Sacahuaya,,,,,29.0
@@ -72595,6 +72952,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-26,Salo_M (GPRS),10.62,9.34,95.39,80.87,0.8
 2025-12-26,Samaipata,,,,,30.0
 2025-12-26,Samasa,,,,,1.0
+2025-12-26,San Andres,29.0,15.0,,,49.7
 2025-12-26,San Antonio,,,,,4.0
 2025-12-26,San Antonio - Los Ángeles (GPRS),23.65,23.14,93.6,83.3,
 2025-12-26,San Benito,21.0,10.0,,,7.0
@@ -72630,6 +72988,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-26,Tinguipaya,20.1,6.3,,,
 2025-12-26,Tiraque,15.0,5.0,,,31.5
 2025-12-26,Tiraque_M (GPRS),8.96,8.06,89.4,78.72,1.7
+2025-12-26,Todos Santos_Or,12.0,1.5,,,6.8
 2025-12-26,Toledo (GPRS),9.09,8.17,60.84,43.71,
 2025-12-26,Tomave,14.5,6.0,,,0.5
 2025-12-26,Toralapa Iniaf (GPRS),7.8,6.7,97.0,81.0,1.0
@@ -72683,12 +73042,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-27,Azurduy,23.0,9.5,,,
 2025-12-27,Cabaña Forestal Oruro,20.4,4.8,,,3.4
 2025-12-27,Caiza D,27.0,9.0,,,2.7
+2025-12-27,Calachaka Jahuira,,,,,26.6
 2025-12-27,Calacoto,,,,,2.0
 2025-12-27,Camargo_H (GPRS),,,,,13.1
 2025-12-27,Camargo_M (GPRS),14.33,13.19,51.87,33.18,
 2025-12-27,Camata,28.0,16.0,,,
 2025-12-27,Campamento Villa Tunari,,,,,45.0
 2025-12-27,Campanario,,,,,16.0
+2025-12-27,Capinota,26.5,11.2,,,11.2
 2025-12-27,Carabuco,,5.3,,,
 2025-12-27,Caranavi,32.0,21.0,,,11.0
 2025-12-27,Caranavi_H (GPRS),,,,,5.5
@@ -72697,11 +73058,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-27,Cayarani,,,,,35.0
 2025-12-27,Chacala Iniaf (GPRS),6.8,5.2,80.0,62.7,
 2025-12-27,Chaqui,19.7,3.8,,,
+2025-12-27,Chasqui (Escoma),,,,,7.2
 2025-12-27,Chillca,13.0,5.7,,,1.0
 2025-12-27,Chinchaya,,,,,9.0
 2025-12-27,Chinoli,19.2,8.2,,,
 2025-12-27,Chipaya - GPRS,18.9,5.1,,,10.8
 2025-12-27,Chirapaca,16.0,3.0,,,3.1
+2025-12-27,Chojñapata,,,,,6.3
 2025-12-27,Chorocona,,,,,7.1
 2025-12-27,Chua Cocani_M (GPRS),5.54,3.63,83.2,57.64,
 2025-12-27,Chuqui Chuqui,,,,,3.5
@@ -72719,6 +73082,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-27,Cotagaita (GPRS),14.13,12.23,79.41,69.83,
 2025-12-27,Cotagaita Mosoj Llajta,26.0,11.0,,,1.0
 2025-12-27,Covendo_M (GPRS),20.98,20.62,99.87,69.67,
+2025-12-27,Cruzpata (Escoma),,,,,8.1
 2025-12-27,Cuatro Cañadas - CEA-2 (GPRS),24.39,23.67,89.7,70.86,
 2025-12-27,Cuatro Cañadas - Colonia Chihuahua (GPRS),23.41,22.57,88.1,72.26,
 2025-12-27,Culpina,,,,,4.6
@@ -72736,7 +73100,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-27,Hichucota,10.0,0.0,,,11.8
 2025-12-27,Huancane Corapata_M (GPRS),3.97,0.94,77.74,48.9,
 2025-12-27,Huarisuyo (GPRS),3.58,-0.1,96.8,49.96,
+2025-12-27,Huayllamarca,17.0,3.0,,,
 2025-12-27,Huayrocondo,17.4,-0.2,,,
+2025-12-27,Incalacaya,,,,,9.2
 2025-12-27,Incapampa - Coroico_M (GPRS),14.99,14.57,99.81,70.0,
 2025-12-27,Isla Del Sol,12.0,5.0,,,12.9
 2025-12-27,Isla Suriqui_M (GPRS),6.99,5.87,85.2,58.86,
@@ -72793,6 +73159,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-27,Ravelo,,,,,5.3
 2025-12-27,Redencion Pampa,28.0,14.0,,,
 2025-12-27,Río Chilenas (GPRS),3.9,2.73,89.3,55.07,0.5
+2025-12-27,Sacabaya,19.0,4.4,,,2.6
 2025-12-27,Sacaca,20.2,1.6,,,16.3
 2025-12-27,Sacacani_M (GPRS),5.0,1.62,69.61,49.06,
 2025-12-27,Sacahuaya,,,,,18.1
@@ -72802,6 +73169,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-27,Salo_M (GPRS),9.32,6.04,58.31,30.2,
 2025-12-27,Samaipata,,,,,2.0
 2025-12-27,Samasa,,,,,2.4
+2025-12-27,San Andres,31.0,16.0,,,
 2025-12-27,San Antonio - Los Ángeles (GPRS),23.35,22.83,90.5,78.63,
 2025-12-27,San Benito,23.0,5.0,,,5.0
 2025-12-27,San Calixto,16.6,7.0,,,3.2
@@ -72837,6 +73205,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-27,Tinguipaya,21.3,5.2,,,
 2025-12-27,Tiraque,19.0,4.0,,,
 2025-12-27,Tiraque_M (GPRS),7.51,6.35,69.54,54.12,
+2025-12-27,Todos Santos_Or,13.5,2.5,,,8.4
 2025-12-27,Toledo (GPRS),6.91,5.04,60.78,43.96,
 2025-12-27,Tomave,19.0,5.5,,,12.0
 2025-12-27,Toralapa Iniaf (GPRS),7.3,5.5,75.1,64.7,
@@ -72876,8 +73245,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-28,Aguadas (GPRS),5.52,4.95,91.0,62.59,0.1
 2025-12-28,Aguaraycito,38.0,22.0,,,
 2025-12-28,Aiquile (GPRS),15.28,13.66,90.6,64.57,0.4
+2025-12-28,Alcantarí_Aeropuerto,19.5,9.1,,,
 2025-12-28,Alto Obrajes_Barrio Magisterio,,,,,4.0
 2025-12-28,Alto Peñas (GPRS),5.44,3.77,97.4,67.85,
+2025-12-28,Ancoraimes,,,,,5.2
 2025-12-28,Andamarca,23.5,6.1,,,18.8
 2025-12-28,Anzaldo_M (GPRS),12.41,9.86,97.99,67.95,0.1
 2025-12-28,Apolo_M (GPRS),16.34,15.68,86.91,58.58,
@@ -72887,11 +73258,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-28,Azurduy,,,,,4.0
 2025-12-28,Cabaña Forestal Oruro,16.6,6.8,,,4.4
 2025-12-28,Caiza D,26.0,10.0,,,1.4
+2025-12-28,Calachaka Jahuira,,,,,24.3
 2025-12-28,Calacoto,,,,,12.0
 2025-12-28,Camargo_H (GPRS),,,,,1.5
 2025-12-28,Camargo_M (GPRS),16.24,13.09,56.88,31.12,
 2025-12-28,Camata,,,,,13.0
 2025-12-28,Campanario,,,,,24.6
+2025-12-28,Capinota,27.0,12.5,,,6.5
 2025-12-28,Carabuco,,5.0,,,11.7
 2025-12-28,Caranavi,33.5,21.5,,,8.5
 2025-12-28,Caranavi_H (GPRS),,,,,0.1
@@ -72900,11 +73273,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-28,Cayarani,,,,,18.2
 2025-12-28,Chacala Iniaf (GPRS),7.5,4.7,82.0,65.7,
 2025-12-28,Chaqui,17.6,5.0,,,6.3
+2025-12-28,Chasqui (Escoma),,,,,7.8
 2025-12-28,Chillca,16.0,5.0,,,3.0
 2025-12-28,Chinchaya,,,,,5.0
 2025-12-28,Chinoli,20.2,7.0,,,
 2025-12-28,Chipaya - GPRS,15.2,5.2,,,3.8
 2025-12-28,Chirapaca,16.0,5.0,,,
+2025-12-28,Chojñapata,,,,,9.0
 2025-12-28,Chorocona,,,,,16.2
 2025-12-28,Chua Cocani_M (GPRS),5.93,4.29,94.5,79.01,0.6
 2025-12-28,Chuqui Chuqui,33.0,18.0,,,
@@ -72924,6 +73299,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-28,Cotagaita Mosoj Llajta,27.0,10.0,,,
 2025-12-28,Cotagaita_H (GPRS),,,,,4.0
 2025-12-28,Covendo_M (GPRS),21.63,21.13,99.89,66.85,
+2025-12-28,Cruzpata (Escoma),,,,,9.4
 2025-12-28,Cuatro Cañadas - CEA-2 (GPRS),24.0,23.15,85.2,73.02,
 2025-12-28,Cuatro Cañadas - Colonia Chihuahua (GPRS),24.34,23.42,82.9,69.41,
 2025-12-28,Cuesta del Zorro (Catacora),,,,,0.1
@@ -72945,6 +73321,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-28,Huarisuyo (GPRS),6.61,4.01,88.5,61.92,
 2025-12-28,Huayllamarca,,,,,1.6
 2025-12-28,Huayrocondo,16.5,3.5,,,3.8
+2025-12-28,Incalacaya,,,,,4.9
 2025-12-28,Incapampa - Coroico_M (GPRS),15.32,14.94,99.8,77.95,
 2025-12-28,Isla Del Sol,11.0,4.0,,,6.4
 2025-12-28,Isla Suriqui_M (GPRS),5.6,4.62,86.4,72.2,
@@ -72963,6 +73340,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-28,Llallagua,,,,,4.0
 2025-12-28,MONTERO GUABIRA CIMAR,33.0,20.0,,,
 2025-12-28,Mecapaca_M (GPRS),13.41,9.43,100.0,68.13,
+2025-12-28,Minero (Unagro),,,,,0.2
 2025-12-28,Mizque - SDC (GPRS),15.43,13.08,92.6,61.4,0.1
 2025-12-28,Mojo,19.6,8.3,,,
 2025-12-28,Muyuquiri,,,,,33.5
@@ -73002,6 +73380,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-28,Ravelo,20.0,5.0,,,
 2025-12-28,Redencion Pampa,28.0,12.0,,,
 2025-12-28,Río Chilenas (GPRS),11.07,0.49,96.1,49.64,10.8
+2025-12-28,Sacabaya,16.0,2.6,,,2.8
 2025-12-28,Sacaca,21.4,2.6,,,20.7
 2025-12-28,Sacacani_M (GPRS),6.64,3.75,88.2,69.7,
 2025-12-28,Sacahuaya,,,,,33.5
@@ -73010,6 +73389,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-28,Salla,,,,,7.0
 2025-12-28,Salo_M (GPRS),11.5,8.97,84.77,52.77,
 2025-12-28,Samasa,19.2,6.0,,,
+2025-12-28,San Andres,29.5,15.0,,,26.7
 2025-12-28,San Antonio,,,,,2.9
 2025-12-28,San Antonio - Los Ángeles (GPRS),23.95,23.01,87.7,77.82,
 2025-12-28,San Benito,25.0,5.0,,,5.0
@@ -73046,6 +73426,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-28,Tinguipaya,20.1,5.4,,,4.3
 2025-12-28,Tiraque,22.0,5.0,,,12.5
 2025-12-28,Tiraque_M (GPRS),8.82,8.47,91.7,64.63,1.3
+2025-12-28,Todos Santos_Or,12.5,4.0,,,4.2
 2025-12-28,Toledo (GPRS),9.2,5.84,86.7,66.07,
 2025-12-28,Tomave,20.0,6.5,,,3.5
 2025-12-28,Toralapa Iniaf (GPRS),7.6,7.2,100.0,86.1,0.8
@@ -73087,8 +73468,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-29,Aguadas (GPRS),6.04,5.64,90.1,66.8,0.7
 2025-12-29,Aguaraycito,26.0,22.0,,,
 2025-12-29,Aiquile (GPRS),16.04,13.95,93.6,63.21,0.1
+2025-12-29,Alcantarí_Aeropuerto,18.0,10.2,,,
 2025-12-29,Alto Obrajes_Barrio Magisterio,,,,,2.9
 2025-12-29,Alto Peñas (GPRS),7.12,4.13,92.7,70.35,
+2025-12-29,Ancoraimes,,,,,3.7
 2025-12-29,Andamarca,24.1,5.0,,,7.6
 2025-12-29,Anzaldo,,,,,10.5
 2025-12-29,Anzaldo_M (GPRS),12.3,10.47,96.06,66.33,0.1
@@ -73098,11 +73481,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-29,Azurduy,,,,,10.0
 2025-12-29,Cabaña Forestal Oruro,,7.2,,,
 2025-12-29,Caiza D,26.2,9.0,,,
+2025-12-29,Calachaka Jahuira,,,,,5.0
 2025-12-29,Camargo_H (GPRS),,,,,0.1
 2025-12-29,Camargo_M (GPRS),15.43,12.42,76.57,49.38,
 2025-12-29,Camata,29.0,16.0,,,
 2025-12-29,Campamento Villa Tunari,,,,,30.0
 2025-12-29,Campanario,,,,,8.7
+2025-12-29,Capinota,28.0,13.0,,,
 2025-12-29,Carabuco,,4.9,,,1.8
 2025-12-29,Caranavi,33.0,22.0,,,9.5
 2025-12-29,Caranavi_H (GPRS),,,,,7.8
@@ -73111,12 +73496,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-29,Cayarani,,,,,22.7
 2025-12-29,Chacala Iniaf (GPRS),7.1,6.7,82.1,59.3,
 2025-12-29,Chaqui,16.9,7.8,,,8.7
+2025-12-29,Chasqui (Escoma),,,,,6.0
 2025-12-29,Chillca,18.5,5.9,,,3.6
 2025-12-29,Chinchaya,,,,,11.0
 2025-12-29,Chinoli,19.1,8.0,,,
 2025-12-29,Chipaya - GPRS,,2.6,,,
 2025-12-29,Chirapaca,17.0,5.0,,,5.0
 2025-12-29,Chocolatal,,,,,1.0
+2025-12-29,Chojñapata,,,,,5.7
 2025-12-29,Chorocona,,,,,10.1
 2025-12-29,Chua Cocani_M (GPRS),5.15,3.74,85.7,66.31,
 2025-12-29,Chuqui Chuqui,31.0,19.0,,,
@@ -73136,6 +73523,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-29,Cotagaita (GPRS),16.17,12.05,91.0,53.29,
 2025-12-29,Cotagaita Mosoj Llajta,26.0,10.0,,,4.0
 2025-12-29,Covendo_M (GPRS),22.61,21.98,94.88,65.62,
+2025-12-29,Cruzpata (Escoma),,,,,7.3
 2025-12-29,Cuatro Cañadas - CEA-2 (GPRS),25.31,24.26,90.4,78.03,
 2025-12-29,Cuatro Cañadas - Colonia Chihuahua (GPRS),25.25,23.24,83.7,67.45,
 2025-12-29,Cuesta del Zorro (Catacora),,,,,3.1
@@ -73156,6 +73544,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-29,Huarisuyo (GPRS),6.67,3.78,93.2,56.1,
 2025-12-29,Huayllamarca,,,,,7.2
 2025-12-29,Huayrocondo,17.1,3.6,,,4.9
+2025-12-29,Incalacaya,,,,,6.2
 2025-12-29,Incapampa - Coroico_M (GPRS),16.15,15.77,99.81,81.31,
 2025-12-29,Isla Del Sol,14.0,5.0,,,14.6
 2025-12-29,Isla Suriqui_M (GPRS),9.27,7.85,83.0,69.81,
@@ -73165,10 +73554,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-29,Jihuacuta,,,,,12.0
 2025-12-29,La Asunta,32.0,,,,
 2025-12-29,La Asunta_H (GPRS),,,,,14.3
+2025-12-29,La Barranca  (Chuquisaca),,,,,2.0
 2025-12-29,La Merced,,,,,14.8
 2025-12-29,La Torre,26.0,13.0,,,
 2025-12-29,La Violeta,,,,,1.0
 2025-12-29,Laguna Colorada (GPRS),1.83,-0.34,70.55,39.99,
+2025-12-29,Laykacota,,,,,13.3
 2025-12-29,Llallagua,,,,,8.0
 2025-12-29,MONTERO GUABIRA CIMAR,32.0,21.0,,,
 2025-12-29,Mecapaca_M (GPRS),13.34,12.02,100.0,59.1,
@@ -73210,6 +73601,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-29,Redencion Pampa,,,,,12.0
 2025-12-29,Rosario del Ingre,,,,,46.0
 2025-12-29,Río Chilenas (GPRS),1.8,-0.22,84.9,62.61,
+2025-12-29,Sacabaya,19.5,-1.0,,,
 2025-12-29,Sacaca,22.6,4.4,,,20.8
 2025-12-29,Sacacani_M (GPRS),7.88,5.78,78.68,53.58,
 2025-12-29,Sacahuaya,,,,,5.5
@@ -73219,6 +73611,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-29,Salla,,,,,4.2
 2025-12-29,Salo_M (GPRS),9.06,8.58,78.32,45.31,
 2025-12-29,Samasa,20.0,5.2,,,
+2025-12-29,San Andres,27.0,14.0,,,17.5
 2025-12-29,San Antonio,,,,,1.0
 2025-12-29,San Antonio - Los Ángeles (GPRS),25.13,23.9,89.8,83.3,
 2025-12-29,San Benito,20.0,12.0,,,2.0
@@ -73255,6 +73648,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-29,Tinguipaya,21.4,6.3,,,
 2025-12-29,Tiraque,24.0,7.0,,,6.5
 2025-12-29,Tiraque_M (GPRS),9.94,9.0,78.66,53.95,
+2025-12-29,Todos Santos_Or,16.5,5.5,,,3.7
 2025-12-29,Toledo (GPRS),7.02,5.36,79.8,52.35,
 2025-12-29,Tomave,22.2,5.0,,,1.5
 2025-12-29,Toralapa Iniaf (GPRS),8.3,7.5,92.1,69.2,
@@ -73299,6 +73693,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-30,Alcantarí_Aeropuerto,,,,,0.5
 2025-12-30,Alto Obrajes_Barrio Magisterio,,,,,1.1
 2025-12-30,Alto Peñas (GPRS),7.42,3.79,79.18,56.45,
+2025-12-30,Ancoraimes,,,,,0.1
 2025-12-30,Andamarca,24.2,5.2,,,1.6
 2025-12-30,Anzaldo,,,,,3.3
 2025-12-30,Anzaldo_M (GPRS),12.6,11.37,93.6,75.01,
@@ -73310,11 +73705,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-30,Cabaña Forestal Oruro,18.2,6.0,,,1.8
 2025-12-30,Cachimayu,,,,,5.2
 2025-12-30,Caiza D,27.0,6.9,,,5.4
+2025-12-30,Calachaka Jahuira,,,,,3.9
 2025-12-30,Camargo_H (GPRS),,,,,4.7
 2025-12-30,Camargo_M (GPRS),17.15,16.29,65.36,40.83,
 2025-12-30,Camata,,,,,14.0
 2025-12-30,Campamento Villa Tunari,,,,,60.0
 2025-12-30,Campanario,,,,,6.5
+2025-12-30,Capinota,26.5,11.5,,,1.5
 2025-12-30,Carabuco,,4.0,,,
 2025-12-30,Caranavi,32.0,22.5,,,6.0
 2025-12-30,Caranavi_H (GPRS),,,,,1.9
@@ -73322,11 +73719,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-30,Cayarani,,,,,20.5
 2025-12-30,Chacala Iniaf (GPRS),9.7,7.3,59.2,36.8,
 2025-12-30,Chaqui,17.3,7.0,,,0.7
+2025-12-30,Chasqui (Escoma),,,,,6.3
 2025-12-30,Chillca,19.6,2.0,,,2.4
 2025-12-30,Chinchaya,,,,,9.0
 2025-12-30,Chinoli,20.0,9.1,,,10.2
 2025-12-30,Chipaya - GPRS,21.9,3.3,,,
 2025-12-30,Chirapaca,16.0,3.0,,,
+2025-12-30,Chojñapata,,,,,4.9
 2025-12-30,Chorocona,,,,,11.3
 2025-12-30,Chua Cocani_M (GPRS),6.72,4.88,95.1,67.91,9.5
 2025-12-30,Chuqui Chuqui,,,,,2.3
@@ -73347,6 +73746,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-30,Cotagaita Mosoj Llajta,26.0,12.0,,,
 2025-12-30,Cotagaita_H (GPRS),,,,,14.8
 2025-12-30,Covendo_M (GPRS),21.8,21.16,97.14,68.15,
+2025-12-30,Cruzpata (Escoma),,,,,7.8
 2025-12-30,Cuatro Cañadas - CEA-2 (GPRS),25.31,24.2,89.1,70.62,
 2025-12-30,Cuatro Cañadas - Colonia Chihuahua (GPRS),25.51,23.89,89.9,67.2,
 2025-12-30,Cuesta del Zorro (Catacora),,,,,0.1
@@ -73359,12 +73759,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-30,El Reloj,,,,,12.0
 2025-12-30,El Tejar (La Paz),,,,,2.8
 2025-12-30,El Villar,22.5,14.0,,,
+2025-12-30,Guajara-Mirim - Guayaramerín,34.6,22.4,,,
 2025-12-30,Guayaramerin_M (GPRS),24.17,23.23,87.42,71.47,
 2025-12-30,Hichucota,12.0,4.0,,,6.5
 2025-12-30,Huancane Corapata_M (GPRS),6.79,3.31,99.2,55.56,
 2025-12-30,Huarisuyo (GPRS),5.84,1.81,98.2,51.55,
 2025-12-30,Huayllamarca,,,,,5.6
 2025-12-30,Huayrocondo,17.3,0.0,,,
+2025-12-30,Incalacaya,,,,,2.2
 2025-12-30,Incapampa - Coroico_M (GPRS),16.14,15.29,99.84,86.99,
 2025-12-30,Isla Del Sol,14.0,8.0,,,0.1
 2025-12-30,Isla Suriqui_M (GPRS),9.21,6.52,89.6,68.78,
@@ -73374,12 +73776,15 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-30,Jihuacuta,,,,,7.2
 2025-12-30,La Asunta,31.5,,,,
 2025-12-30,La Asunta_H (GPRS),,,,,0.2
+2025-12-30,La Barranca  (Chuquisaca),,,,,0.5
 2025-12-30,La Merced,,,,,0.4
 2025-12-30,La Torre,26.6,12.0,,,
 2025-12-30,Laguna Colorada (GPRS),2.28,-1.2,52.63,20.33,
+2025-12-30,Laykacota,,,,,1.2
 2025-12-30,Llallagua,,,,,10.0
 2025-12-30,MONTERO GUABIRA CIMAR,,,,,1.0
 2025-12-30,Mecapaca_M (GPRS),11.7,11.02,100.0,56.56,
+2025-12-30,Minero (Unagro),,,,,1.4
 2025-12-30,Mizque - SDC (GPRS),16.87,15.5,79.0,62.24,
 2025-12-30,Mojo,22.2,9.0,,,2.0
 2025-12-30,Nuevo Mundo,,,,,3.5
@@ -73416,6 +73821,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-30,Ravelo,,,,,28.2
 2025-12-30,Redencion Pampa,23.0,14.0,,,
 2025-12-30,Río Chilenas (GPRS),2.32,0.15,77.81,55.74,
+2025-12-30,Sacabaya,22.5,-2.5,,,
 2025-12-30,Sacaca,20.6,2.4,,,18.8
 2025-12-30,Sacacani_M (GPRS),6.63,3.48,96.2,55.98,
 2025-12-30,Sacahuaya,,,,,5.6
@@ -73423,6 +73829,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-30,Salinas Iniaf (GPRS),11.5,6.9,64.8,39.3,
 2025-12-30,Salo_M (GPRS),11.84,9.12,60.4,39.83,
 2025-12-30,Samasa,,,,,7.2
+2025-12-30,San Andres,29.0,16.0,,,5.7
 2025-12-30,San Antonio - Los Ángeles (GPRS),24.5,23.62,88.6,77.96,
 2025-12-30,San Benito,22.0,11.0,,,2.0
 2025-12-30,San Buenaventura_M (GPRS),33.23,23.49,94.81,66.66,
@@ -73457,6 +73864,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-30,Tinguipaya,20.3,5.2,,,
 2025-12-30,Tiraque,25.0,7.0,,,8.0
 2025-12-30,Tiraque_M (GPRS),11.05,8.97,84.3,63.93,0.6
+2025-12-30,Todos Santos_Or,20.5,4.5,,,
 2025-12-30,Toledo (GPRS),6.37,5.66,76.77,49.11,
 2025-12-30,Tomave,19.0,4.5,,,2.5
 2025-12-30,Toralapa Iniaf (GPRS),8.9,7.2,97.1,73.5,
@@ -73512,11 +73920,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-31,Azurduy,,,,,8.0
 2025-12-31,Cabaña Forestal Oruro,18.1,3.7,,,13.0
 2025-12-31,Caiza D,27.1,7.0,,,1.5
+2025-12-31,Calachaka Jahuira,,,,,10.9
 2025-12-31,Calacoto,,,,,2.5
 2025-12-31,Camargo_H (GPRS),,,,,7.5
 2025-12-31,Camargo_M (GPRS),17.51,13.67,65.19,41.07,
 2025-12-31,Camata,29.5,17.5,,,
 2025-12-31,Campamento Villa Tunari,,,,,120.0
+2025-12-31,Capinota,27.0,13.0,,,1.2
 2025-12-31,Carabuco,,4.0,,,
 2025-12-31,Caranavi,33.0,21.5,,,13.5
 2025-12-31,Caranavi_H (GPRS),,,,,0.4
@@ -73524,11 +73934,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-31,Cayarani,,,,,7.0
 2025-12-31,Chacala Iniaf (GPRS),8.9,5.5,54.7,46.8,
 2025-12-31,Chaqui,19.4,4.1,,,
+2025-12-31,Chasqui (Escoma),,,,,9.8
 2025-12-31,Chillca,17.0,4.2,,,1.5
 2025-12-31,Chinchaya,,,,,5.0
 2025-12-31,Chinoli,18.2,8.0,,,9.2
 2025-12-31,Chipaya - GPRS,18.1,4.3,,,0.6
 2025-12-31,Chirapaca,17.0,4.0,,,
+2025-12-31,Chojñapata,,,,,6.1
 2025-12-31,Chorocona,,,,,4.2
 2025-12-31,Chua Cocani_M (GPRS),5.47,3.58,81.6,66.21,
 2025-12-31,Chuqui Chuqui,32.0,17.0,,,
@@ -73548,6 +73960,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-31,Cotagaita (GPRS),14.44,11.67,92.4,53.63,
 2025-12-31,Cotagaita Mosoj Llajta,25.0,10.0,,,16.0
 2025-12-31,Covendo_M (GPRS),22.04,21.6,99.91,98.2,0.1
+2025-12-31,Cruzpata (Escoma),,,,,11.3
 2025-12-31,Cuatro Cañadas - CEA-2 (GPRS),23.87,23.58,86.0,73.48,
 2025-12-31,Cuatro Cañadas - Colonia Chihuahua (GPRS),24.46,23.22,82.3,68.16,
 2025-12-31,Cuesta del Zorro (Catacora),,,,,5.2
@@ -73558,6 +73971,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-31,El Belen,16.0,4.0,,,0.4
 2025-12-31,El Reloj,,,,,7.5
 2025-12-31,El Tejar (La Paz),,,,,9.3
+2025-12-31,Guajara-Mirim - Guayaramerín,33.4,23.2,,,
 2025-12-31,Guanay_H (GPRS),,,,,1.2
 2025-12-31,Guayaramerin_M (GPRS),25.72,24.6,94.43,77.23,
 2025-12-31,Hichucota,11.0,3.0,,,6.8
@@ -73565,6 +73979,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-31,Huarisuyo (GPRS),5.26,4.17,89.5,51.47,
 2025-12-31,Huayllamarca,,,,,5.8
 2025-12-31,Huayrocondo,16.5,2.8,,,17.2
+2025-12-31,Incalacaya,,,,,12.3
 2025-12-31,Incapampa - Coroico_M (GPRS),17.21,16.38,99.79,86.95,
 2025-12-31,Isla Del Sol,14.0,7.0,,,
 2025-12-31,Isla Suriqui_M (GPRS),7.68,5.99,76.02,67.4,
@@ -73576,9 +73991,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-31,Juntas,,,,,7.1
 2025-12-31,La Asunta,31.0,,,,
 2025-12-31,La Asunta_H (GPRS),,,,,0.5
+2025-12-31,La Barranca  (Chuquisaca),,,,,5.0
 2025-12-31,La Merced,32.0,18.0,,,
 2025-12-31,La Violeta,,,,,1.0
 2025-12-31,Laguna Colorada (GPRS),5.04,0.85,43.0,24.41,
+2025-12-31,Laykacota,,,,,7.0
 2025-12-31,Llallagua,,,,,6.2
 2025-12-31,MONTERO GUABIRA CIMAR,33.0,20.0,,,
 2025-12-31,Mecapaca_M (GPRS),15.32,10.7,70.2,48.68,
@@ -73617,12 +74034,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-31,Ravelo,19.0,8.0,,,
 2025-12-31,Redencion Pampa,21.0,12.0,,,
 2025-12-31,Río Chilenas (GPRS),4.93,1.52,82.2,36.8,
+2025-12-31,Sacabaya,22.0,-2.5,,,5.0
 2025-12-31,Sacaca,22.8,3.2,,,1.5
 2025-12-31,Sacacani_M (GPRS),5.38,4.01,83.2,61.51,
 2025-12-31,Sacani Santiago (Catacora),,,,,7.1
 2025-12-31,Salinas Iniaf (GPRS),10.7,6.1,65.4,47.8,
 2025-12-31,Salo_M (GPRS),10.3,8.99,61.36,35.28,
 2025-12-31,Samasa,,,,,5.6
+2025-12-31,San Andres,28.0,16.0,,,19.7
 2025-12-31,San Antonio,,,,,10.0
 2025-12-31,San Antonio - Los Ángeles (GPRS),23.79,23.15,93.3,81.7,
 2025-12-31,San Benito,24.0,8.0,,,2.0
@@ -73658,6 +74077,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-31,Tinguipaya,21.2,5.4,,,
 2025-12-31,Tiraque,22.0,5.0,,,6.0
 2025-12-31,Tiraque_M (GPRS),10.0,8.53,88.2,58.9,
+2025-12-31,Todos Santos_Or,18.0,6.5,,,
 2025-12-31,Toledo (GPRS),6.23,3.76,77.28,55.53,
 2025-12-31,Tomave,23.5,2.5,,,
 2025-12-31,Toralapa Iniaf (GPRS),7.7,6.6,95.9,78.7,
