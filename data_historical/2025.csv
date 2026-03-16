@@ -18243,6 +18243,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-03-17,San Pedro de Buena Vista,,,,,3.2
 2025-03-17,San Pedro de Buena Vista (GPRS),22.14,13.87,97.3,53.75,2.7
 2025-03-17,San Pedro de Tiquina_M (GPRS),11.36,8.41,83.0,67.89,
+2025-03-17,Santa Cruz SENAMHI,,,,,5.2
 2025-03-17,Santiago de Huata,15.0,4.0,,,
 2025-03-17,Sara Ana,33.0,24.0,,,
 2025-03-17,Sarco,25.0,13.7,,,
@@ -18699,6 +18700,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-03-19,San Pedro de Buena Vista,,,,,5.0
 2025-03-19,San Pedro de Buena Vista (GPRS),20.51,10.7,100.0,66.33,4.9
 2025-03-19,San Pedro de Tiquina_M (GPRS),10.77,8.67,76.3,67.17,
+2025-03-19,Santa Cruz SENAMHI,,,,,0.4
 2025-03-19,Santiago de Huata,16.0,3.0,,,
 2025-03-19,Santivañez,,,,,16.8
 2025-03-19,Sara Ana,34.0,22.0,,,
@@ -19786,6 +19788,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-03-24,San Pedro de Buena Vista,,,,,11.0
 2025-03-24,San Pedro de Buena Vista (GPRS),24.18,10.34,94.3,57.82,
 2025-03-24,San Pedro de Tiquina_M (GPRS),13.59,10.97,71.94,64.38,
+2025-03-24,Santa Cruz SENAMHI,,,,,45.6
 2025-03-24,Santiago de Huata,19.0,6.0,,,
 2025-03-24,Santivañez,,,,,27.9
 2025-03-24,Sara Ana,,,,,3.2
@@ -20018,6 +20021,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-03-25,San Pedro de Buena Vista,,,,,15.0
 2025-03-25,San Pedro de Buena Vista (GPRS),22.44,13.85,95.1,60.88,
 2025-03-25,San Pedro de Tiquina_M (GPRS),12.61,9.2,85.5,68.35,
+2025-03-25,Santa Cruz SENAMHI,,,,,103.4
 2025-03-25,Santiago de Huata,18.0,5.0,,,
 2025-03-25,Sara Ana,,,,,81.7
 2025-03-25,Sarco,,,,,2.6
@@ -20237,6 +20241,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-03-26,San Pedro de Buena Vista,21.0,10.0,,,
 2025-03-26,San Pedro de Buena Vista (GPRS),22.65,13.56,98.5,60.88,
 2025-03-26,San Pedro de Tiquina_M (GPRS),13.19,9.97,81.9,72.98,
+2025-03-26,Santa Cruz SENAMHI,,,,,1.5
 2025-03-26,Santiago de Huata,19.0,4.0,,,
 2025-03-26,Sara Ana,33.0,24.0,,,
 2025-03-26,Sarco,,13.0,,,
@@ -20447,6 +20452,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-03-27,San Pedro de Buena Vista,24.0,11.0,,,
 2025-03-27,San Pedro de Buena Vista (GPRS),23.6,12.97,97.3,57.66,
 2025-03-27,San Pedro de Tiquina_M (GPRS),13.33,11.03,75.92,67.57,
+2025-03-27,Santa Cruz SENAMHI,,,,,1.7
 2025-03-27,Santiago de Huata,18.0,3.0,,,
 2025-03-27,Sara Ana,31.0,24.0,,,
 2025-03-27,Sarco,,13.0,,,
@@ -20670,6 +20676,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-03-28,San Pedro de Buena Vista,24.0,12.0,,,
 2025-03-28,San Pedro de Buena Vista (GPRS),25.9,13.09,84.4,43.26,
 2025-03-28,San Pedro de Tiquina_M (GPRS),13.07,8.87,84.1,67.31,0.1
+2025-03-28,Santa Cruz SENAMHI,,,,,0.4
 2025-03-28,Santiago de Huata,,,,,5.4
 2025-03-28,Sara Ana,29.0,24.0,,,
 2025-03-28,Sarco,,13.3,,,
@@ -20906,6 +20913,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-03-29,San Pedro de Buena Vista,22.0,11.0,,,
 2025-03-29,San Pedro de Buena Vista (GPRS),19.39,11.49,99.1,65.93,5.7
 2025-03-29,San Pedro de Tiquina_M (GPRS),12.02,8.68,79.36,63.66,6.5
+2025-03-29,Santa Cruz SENAMHI,,,,,0.1
 2025-03-29,Santiago de Huata,19.0,2.0,,,
 2025-03-29,Santiago de Machaca,,,,,13.5
 2025-03-29,Sara Ana,32.5,25.0,,,
@@ -21355,6 +21363,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-03-31,San Pedro de Buena Vista,23.8,13.0,,,
 2025-03-31,San Pedro de Buena Vista (GPRS),21.53,12.96,94.6,60.71,
 2025-03-31,San Pedro de Tiquina_M (GPRS),11.36,8.68,72.78,65.55,
+2025-03-31,Santa Cruz SENAMHI,,,,,17.4
 2025-03-31,Santiago de Huata,16.0,5.0,,,
 2025-03-31,Santivañez,,,,,3.3
 2025-03-31,Sarco,,13.0,,,
@@ -21581,6 +21590,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-04-01,San Pedro de Buena Vista,19.0,10.0,,,
 2025-04-01,San Pedro de Buena Vista (GPRS),19.76,11.54,96.3,68.59,
 2025-04-01,San Pedro de Tiquina_M (GPRS),10.13,8.15,84.5,77.22,
+2025-04-01,Santa Cruz SENAMHI,,,,,6.2
 2025-04-01,Santiago de Huata,,,,,8.6
 2025-04-01,Santivañez,33.3,8.9,,,
 2025-04-01,Sara Ana,,,,,3.0
@@ -21808,6 +21818,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-04-02,San Pedro de Buena Vista,,,,,0.2
 2025-04-02,San Pedro de Buena Vista (GPRS),20.43,11.03,99.7,69.39,0.1
 2025-04-02,San Pedro de Tiquina_M (GPRS),11.06,8.74,86.5,72.0,3.0
+2025-04-02,Santa Cruz SENAMHI,,,,,0.1
 2025-04-02,Santiago de Huata,,,,,0.4
 2025-04-02,Santivañez,31.1,10.0,,,
 2025-04-02,Sara Ana,,,,,3.4
@@ -23960,6 +23971,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-04-12,San Pedro de Buena Vista (GPRS),19.98,12.82,89.2,53.45,
 2025-04-12,San Pedro de Tiquina_M (GPRS),11.3,8.35,60.59,50.03,
 2025-04-12,Santa Ana SC,,,,,2.3
+2025-04-12,Santa Cruz SENAMHI,,,,,3.4
 2025-04-12,Santiago de Huata,,,,,1.3
 2025-04-12,Santivañez,31.1,4.4,,,
 2025-04-12,Sara Ana,,,,,5.5
@@ -24395,6 +24407,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-04-14,San Pedro de Buena Vista,,,,,3.8
 2025-04-14,San Pedro de Buena Vista (GPRS),17.31,9.91,92.8,68.11,4.7
 2025-04-14,San Pedro de Tiquina_M (GPRS),11.47,8.15,81.4,62.55,4.5
+2025-04-14,Santa Cruz SENAMHI,,,,,68.2
 2025-04-14,Santiago de Huata,,,,,5.0
 2025-04-14,Santivañez,31.3,5.6,,,
 2025-04-14,Sara Ana,,,,,4.5
@@ -24815,6 +24828,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-04-16,San Pedro de Tiquina_M (GPRS),11.83,7.23,78.55,66.99,
 2025-04-16,Santa Ana - Yacuma,31.0,31.0,69.8,69.8,
 2025-04-16,Santa Ana SC,,,,,14.5
+2025-04-16,Santa Cruz SENAMHI,,,,,6.4
 2025-04-16,Santiago de Huata,17.0,2.0,,,
 2025-04-16,Santivañez,33.2,4.4,,,
 2025-04-16,Sara Ana,34.0,23.5,,,
@@ -25034,6 +25048,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-04-17,San Pedro de Tiquina_M (GPRS),11.7,10.25,84.9,72.4,
 2025-04-17,Santa Ana - Yacuma,30.0,30.0,78.5,78.5,
 2025-04-17,Santa Ana SC,,,,,2.1
+2025-04-17,Santa Cruz SENAMHI,,,,,49.6
 2025-04-17,Santiago de Huata,18.0,3.0,,,
 2025-04-17,Santivañez,31.1,5.6,,,
 2025-04-17,Sara Ana,30.5,20.5,,,
@@ -26240,6 +26255,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-04-22,San Pedro de Buena Vista (GPRS),12.89,10.51,98.2,92.1,5.1
 2025-04-22,San Pedro de Tiquina_M (GPRS),7.95,6.05,91.9,77.8,300.7
 2025-04-22,Santa Ana - Yacuma,28.0,27.0,83.0,78.2,
+2025-04-22,Santa Cruz SENAMHI,,,,,0.2
 2025-04-22,Santiago de Huata,,,,,8.6
 2025-04-22,Santiago de Machaca,,,,,3.5
 2025-04-22,Santivañez,30.0,4.4,,,
@@ -26511,6 +26527,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-04-23,San Pedro de Tiquina_M (GPRS),10.38,6.65,83.5,67.89,51.6
 2025-04-23,Santa Ana - Yacuma,29.0,26.0,87.9,73.8,
 2025-04-23,Santa Ana SC,,,,,1.3
+2025-04-23,Santa Cruz SENAMHI,,,,,56.4
 2025-04-23,Santiago de Huata,,,,,6.4
 2025-04-23,Santivañez,,,,,14.2
 2025-04-23,Sara Ana,,,,,19.2
@@ -26752,6 +26769,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-04-24,San Pedro de Buena Vista (GPRS),16.73,8.54,74.04,49.6,0.1
 2025-04-24,San Pedro de Tiquina_M (GPRS),10.91,7.95,73.43,51.92,
 2025-04-24,Santa Ana - Yacuma,28.0,27.0,93.4,88.0,
+2025-04-24,Santa Cruz SENAMHI,,,,,0.7
 2025-04-24,Santiago de Huata,18.0,0.0,,,
 2025-04-24,Santivañez,31.1,4.4,,,
 2025-04-24,Sara Ana,,,,,2.0
@@ -26968,6 +26986,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-04-25,San Pedro de Tiquina_M (GPRS),10.38,7.29,84.8,75.91,
 2025-04-25,Santa Ana - Yacuma,30.0,27.0,88.0,78.5,
 2025-04-25,Santa Ana SC,,,,,5.1
+2025-04-25,Santa Cruz SENAMHI,,,,,3.2
 2025-04-25,Santiago de Huata,17.0,-1.0,,,
 2025-04-25,Santivañez,34.4,5.6,,,
 2025-04-25,Sara Ana,,,,,0.8
@@ -27176,6 +27195,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-04-26,San Pedro de Tiquina_M (GPRS),12.02,8.94,63.79,47.87,
 2025-04-26,Santa Ana - Yacuma,31.0,26.0,93.4,69.8,
 2025-04-26,Santa Ana SC,,,,,3.0
+2025-04-26,Santa Cruz SENAMHI,,,,,0.8
 2025-04-26,Santiago de Huata,16.0,-2.0,,,
 2025-04-26,Santivañez,33.3,4.4,,,
 2025-04-26,Sara Ana,36.0,24.0,,,
@@ -27619,6 +27639,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-04-28,San Pedro de Tiquina_M (GPRS),10.96,6.25,89.7,64.62,3.3
 2025-04-28,Santa Ana - Yacuma,28.0,24.0,99.1,83.0,
 2025-04-28,Santa Ana SC,,,,,2.2
+2025-04-28,Santa Cruz SENAMHI,,,,,20.5
 2025-04-28,Santiago de Huata,15.0,5.0,,,
 2025-04-28,Santivañez,32.2,5.6,,,
 2025-04-28,Sara Ana,23.5,21.0,,,
@@ -27835,6 +27856,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-04-29,San Pedro de Tiquina_M (GPRS),10.78,6.58,91.9,73.18,0.7
 2025-04-29,Santa Ana - Yacuma,25.0,22.0,82.4,73.0,
 2025-04-29,Santa Ana SC,,,,,0.2
+2025-04-29,Santa Cruz SENAMHI,,,,,0.3
 2025-04-29,Santiago de Huata,,,,,2.0
 2025-04-29,Santivañez,31.1,3.3,,,
 2025-04-29,Sara Ana,,,,,14.5
@@ -28704,6 +28726,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-03,San Pedro de Buena Vista (GPRS),15.47,11.84,88.7,77.62,4.4
 2025-05-03,San Pedro de Tiquina_M (GPRS),10.77,9.4,78.13,65.5,6.3
 2025-05-03,Santa Ana - Yacuma,31.0,28.0,88.1,74.1,
+2025-05-03,Santa Cruz SENAMHI,,,,,3.3
 2025-05-03,Santiago de Huata,18.0,3.0,,,
 2025-05-03,Santiago de Machaca,,,,,0.8
 2025-05-03,Santivañez,,,,,14.2
@@ -29153,6 +29176,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-05,San Pedro de Buena Vista (GPRS),18.3,12.95,81.7,62.39,
 2025-05-05,San Pedro de Tiquina_M (GPRS),8.74,7.96,82.7,73.89,
 2025-05-05,Santa Ana - Yacuma,30.0,28.0,88.1,74.0,
+2025-05-05,Santa Cruz SENAMHI,,,,,1.2
 2025-05-05,Santiago de Huata,16.0,4.0,,,
 2025-05-05,Santiago de Machaca,,,,,3.5
 2025-05-05,Sara Ana,33.3,21.8,,,0.1
@@ -30236,6 +30260,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-10,San Pedro de Buena Vista (GPRS),14.77,12.95,91.2,79.47,
 2025-05-10,San Pedro de Tiquina_M (GPRS),11.69,8.87,73.37,60.92,
 2025-05-10,Santa Ana - Yacuma,28.0,28.0,83.0,74.0,
+2025-05-10,Santa Cruz SENAMHI,,,,,85.0
 2025-05-10,Santiago de Huata,16.0,0.0,,,
 2025-05-10,Sara Ana,27.0,21.8,,,16.5
 2025-05-10,Sarco,,11.1,,,
@@ -31957,6 +31982,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-19,San Pedro de Buena Vista (GPRS),,,57.72,41.81,
 2025-05-19,San Pedro de Tiquina_M (GPRS),,,84.4,71.94,
 2025-05-19,Santa Ana - Yacuma,,,99.1,93.3,
+2025-05-19,Santa Cruz SENAMHI,,,,,1.4
 2025-05-19,Santiago de Huata,15.0,0.0,,,
 2025-05-19,Sara Ana,34.0,22.0,,,
 2025-05-19,Sarco,,6.7,,,
@@ -32344,6 +32370,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-21,San Pedro de Buena Vista,20.0,8.4,,,
 2025-05-21,San Pedro de Buena Vista (GPRS),,,90.1,66.15,
 2025-05-21,San Pedro de Tiquina_M (GPRS),,,84.6,78.65,
+2025-05-21,Santa Cruz SENAMHI,,,,,0.5
 2025-05-21,Santiago de Huata,16.0,0.0,,,
 2025-05-21,Sara Ana,31.0,22.0,,,
 2025-05-21,Sarco,,11.1,,,
@@ -32541,6 +32568,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-22,San Pedro de Buena Vista,21.0,7.0,,,
 2025-05-22,San Pedro de Buena Vista (GPRS),,,92.6,60.1,
 2025-05-22,San Pedro de Tiquina_M (GPRS),,,87.8,69.72,
+2025-05-22,Santa Cruz SENAMHI,,,,,0.1
 2025-05-22,Santiago de Huata,18.0,1.0,,,
 2025-05-22,Sara Ana,32.0,22.0,,,
 2025-05-22,Sarco,,9.4,,,
@@ -32736,6 +32764,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-23,San Pedro de Buena Vista (GPRS),,,95.4,63.38,
 2025-05-23,San Pedro de Macha,21.0,6.0,,,
 2025-05-23,San Pedro de Tiquina_M (GPRS),,,81.8,69.76,
+2025-05-23,Santa Cruz SENAMHI,,,,,3.2
 2025-05-23,Santiago de Huata,17.0,2.0,,,
 2025-05-23,Sara Ana,26.5,22.0,,,36.0
 2025-05-23,Sarco,,11.1,,,
@@ -33323,6 +33352,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-26,San Pedro de Buena Vista (GPRS),,,47.29,34.25,
 2025-05-26,San Pedro de Macha,17.0,6.0,,,
 2025-05-26,San Pedro de Tiquina_M (GPRS),,,69.78,60.99,
+2025-05-26,Santa Cruz SENAMHI,,,,,0.8
 2025-05-26,Santiago de Huata,16.0,2.0,,,
 2025-05-26,Sara Ana,34.0,21.9,,,13.5
 2025-05-26,Sarco,,12.2,,,
@@ -33875,6 +33905,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-29,San Pedro de Buena Vista (GPRS),,,64.75,43.2,
 2025-05-29,San Pedro de Macha,20.1,-3.0,,,
 2025-05-29,San Pedro de Tiquina_M (GPRS),,,77.02,67.83,
+2025-05-29,Santa Cruz SENAMHI,,,,,0.3
 2025-05-29,Santiago de Huata,16.0,-2.0,,,
 2025-05-29,Sara Ana,28.0,16.0,,,7.5
 2025-05-29,Sarco,,5.5,,,
@@ -35794,6 +35825,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-09,San Pedro de Buena Vista (GPRS),,,88.1,50.73,
 2025-06-09,San Pedro de Macha,19.0,-1.0,,,
 2025-06-09,San Pedro de Tiquina_M (GPRS),,,83.2,70.44,
+2025-06-09,Santa Cruz SENAMHI,,,,,2.3
 2025-06-09,Santiago de Huata,16.0,-2.0,,,
 2025-06-09,Sara Ana,31.0,20.0,,,2.6
 2025-06-09,Sarco,,7.8,,,
@@ -37020,6 +37052,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-16,San Pedro de Buena Vista (GPRS),,,15.44,7.37,
 2025-06-16,San Pedro de Macha,16.8,-2.0,,,
 2025-06-16,San Pedro de Tiquina_M (GPRS),,,76.12,62.8,
+2025-06-16,Santa Cruz SENAMHI,,,,,4.2
 2025-06-16,Santiago de Huata,14.0,-1.0,,,
 2025-06-16,Sara Ana,31.0,21.0,,,9.0
 2025-06-16,Sarco,,5.5,,,
@@ -37215,6 +37248,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-17,San Pedro de Buena Vista (GPRS),,,38.57,27.78,
 2025-06-17,San Pedro de Macha,17.0,-4.0,,,
 2025-06-17,San Pedro de Tiquina_M (GPRS),,,88.7,78.45,2.5
+2025-06-17,Santa Cruz SENAMHI,,,,,7.2
 2025-06-17,Santiago de Huata,15.0,3.0,,,3.2
 2025-06-17,Sara Ana,35.0,21.0,,,
 2025-06-17,Sarco,,6.1,,,
@@ -37417,6 +37451,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-18,San Pedro de Buena Vista (GPRS),,,63.75,36.88,
 2025-06-18,San Pedro de Macha,18.0,3.5,,,
 2025-06-18,San Pedro de Tiquina_M (GPRS),,,89.5,67.63,4.4
+2025-06-18,Santa Cruz SENAMHI,,,,,0.5
 2025-06-18,Santiago de Huata,14.0,2.0,,,4.0
 2025-06-18,Sara Ana,35.0,22.0,,,
 2025-06-18,Sarco,,10.0,,,
@@ -38336,6 +38371,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-23,San Pedro de Buena Vista (GPRS),,,35.14,17.66,
 2025-06-23,San Pedro de Macha,16.8,-4.0,,,
 2025-06-23,San Pedro de Tiquina_M (GPRS),,,69.97,41.42,
+2025-06-23,Santa Cruz SENAMHI,,,,,25.4
 2025-06-23,Santiago de Huata,17.0,-3.0,,,
 2025-06-23,Sara Ana,30.0,21.5,,,
 2025-06-23,Sarco,,6.7,,,
@@ -38521,6 +38557,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-24,San Pedro de Buena Vista (GPRS),,,86.4,49.56,
 2025-06-24,San Pedro de Macha,18.0,-5.0,,,
 2025-06-24,San Pedro de Tiquina_M (GPRS),,,87.6,79.1,
+2025-06-24,Santa Cruz SENAMHI,,,,,4.8
 2025-06-24,Santiago de Huata,15.0,-2.0,,,
 2025-06-24,Sara Ana,24.0,15.0,,,10.0
 2025-06-24,Sarco,,5.5,,,
@@ -38874,6 +38911,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-26,San Pedro de Buena Vista (GPRS),,,28.34,19.62,
 2025-06-26,San Pedro de Macha,19.0,1.0,,,
 2025-06-26,San Pedro de Tiquina_M (GPRS),,,43.04,29.42,
+2025-06-26,Santa Cruz SENAMHI,,,,,1.8
 2025-06-26,Santiago de Huata,14.0,-1.0,,,
 2025-06-26,Sara Ana,27.0,16.0,,,
 2025-06-26,Sarco,,6.7,,,
@@ -39051,6 +39089,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-27,San Pedro de Buena Vista (GPRS),,,31.07,20.25,
 2025-06-27,San Pedro de Macha,20.0,-1.0,,,
 2025-06-27,San Pedro de Tiquina_M (GPRS),,,83.5,65.02,
+2025-06-27,Santa Cruz SENAMHI,,,,,0.5
 2025-06-27,Santiago de Huata,15.0,2.0,,,
 2025-06-27,Sara Ana,29.0,20.0,,,
 2025-06-27,Sarco,,6.1,,,
@@ -39611,6 +39650,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-30,San Pedro de Buena Vista (GPRS),,,88.8,47.86,
 2025-06-30,San Pedro de Macha,20.0,-4.0,,,
 2025-06-30,San Pedro de Tiquina_M (GPRS),,,92.3,77.33,
+2025-06-30,Santa Cruz SENAMHI,,,,,1.2
 2025-06-30,Santiago de Huata,16.0,3.0,,,0.3
 2025-06-30,Sara Ana,23.0,18.0,,,
 2025-06-30,Sarco,,6.7,,,
@@ -56255,6 +56295,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-01,San Pedro de Macha,17.0,6.0,,,1.0
 2025-10-01,San Pedro de Tiquina_M (GPRS),6.57,5.14,73.17,60.52,
 2025-10-01,San Ramon,35.0,,,,
+2025-10-01,Santa Cruz SENAMHI,,,,,65.2
 2025-10-01,Santiago de Huata,15.0,3.0,,,8.0
 2025-10-01,Sara Ana,34.5,21.8,,,26.5
 2025-10-01,Sarco,,,,,2.3
@@ -56480,6 +56521,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-02,San Pedro de Macha,18.8,8.0,,,
 2025-10-02,San Pedro de Tiquina_M (GPRS),6.58,5.34,71.16,58.44,
 2025-10-02,San Ramon,31.4,,,,
+2025-10-02,Santa Cruz SENAMHI,,,,,16.5
 2025-10-02,Santiago de Huata,17.0,2.0,,,6.3
 2025-10-02,Santiago de Machaca,,,,,3.0
 2025-10-02,Sara Ana,27.0,20.0,,,1.0
@@ -56679,6 +56721,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-03,San Pedro de Macha,19.4,7.8,,,
 2025-10-03,San Pedro de Tiquina_M (GPRS),8.7,6.65,69.46,53.45,
 2025-10-03,San Ramon,31.7,,,,
+2025-10-03,Santa Cruz SENAMHI,,,,,1.2
 2025-10-03,Santiago de Huata,16.0,3.0,,,
 2025-10-03,Sara Ana,33.0,21.8,,,
 2025-10-03,Sauce Pilapata - SDC (GPRS),9.56,8.15,67.76,60.69,
@@ -57217,6 +57260,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-06,San Pedro de Macha,21.0,6.7,,,
 2025-10-06,San Pedro de Tiquina_M (GPRS),9.47,7.85,60.4,51.92,
 2025-10-06,San Ramon,37.7,,,,
+2025-10-06,Santa Cruz SENAMHI,,,,,0.3
 2025-10-06,Santiago de Huata,19.0,4.0,,,
 2025-10-06,Sara Ana,39.0,22.3,,,
 2025-10-06,Sauce Pilapata - SDC (GPRS),15.29,12.25,94.7,81.5,0.1
@@ -58353,6 +58397,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-12,San Pedro de Macha,22.0,7.2,,,
 2025-10-12,San Pedro de Tiquina_M (GPRS),9.01,6.78,58.19,40.77,
 2025-10-12,San Ramon,36.8,,,,
+2025-10-12,Santa Cruz SENAMHI,,,,,17.8
 2025-10-12,Santiago de Huata,19.0,2.0,,,
 2025-10-12,Sara Ana,38.0,23.0,,,
 2025-10-12,Sauce Pilapata - SDC (GPRS),14.94,13.02,70.44,56.85,
@@ -60464,6 +60509,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-23,San Pedro de Macha,21.0,8.0,,,
 2025-10-23,San Pedro de Tiquina_M (GPRS),9.07,5.93,48.27,34.91,
 2025-10-23,San Ramon,35.7,,,,
+2025-10-23,Santa Cruz SENAMHI,,,,,1.5
 2025-10-23,Santiago de Huata,18.0,2.0,,,
 2025-10-23,Sara Ana,36.0,21.0,,,
 2025-10-23,Sauce Pilapata - SDC (GPRS),13.53,12.36,60.31,55.2,
@@ -61484,6 +61530,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-28,San Pedro de Macha,21.0,7.0,,,
 2025-10-28,San Pedro de Tiquina_M (GPRS),10.55,8.81,68.74,49.96,
 2025-10-28,San Ramon,29.5,,,,
+2025-10-28,Santa Cruz SENAMHI,,,,,15.8
 2025-10-28,Santiago de Huata,18.0,3.0,,,
 2025-10-28,Sara Ana,33.0,21.8,,,
 2025-10-28,Sauce Pilapata - SDC (GPRS),10.79,10.22,99.9,82.5,
@@ -61698,6 +61745,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-29,San Pedro de Macha,19.2,6.4,,,
 2025-10-29,San Pedro de Tiquina_M (GPRS),9.86,7.04,82.0,61.98,1.3
 2025-10-29,San Ramon,29.6,,,,
+2025-10-29,Santa Cruz SENAMHI,,,,,17.8
 2025-10-29,Santiago de Huata,19.0,4.0,,,
 2025-10-29,Sara Ana,26.5,21.5,,,6.9
 2025-10-29,Sarco,,,,,10.2
@@ -61905,6 +61953,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-30,San Pedro de Macha,21.0,8.0,,,
 2025-10-30,San Pedro de Tiquina_M (GPRS),8.36,6.78,50.68,40.12,
 2025-10-30,San Ramon,27.3,,,,
+2025-10-30,Santa Cruz SENAMHI,,,,,0.8
 2025-10-30,Santiago de Huata,18.0,4.0,,,2.5
 2025-10-30,Sara Ana,28.5,20.5,,,14.4
 2025-10-30,Sauce Pilapata - SDC (GPRS),9.09,8.47,99.9,70.79,
@@ -68615,8 +68664,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-03,San Pablo de Lipez (GPRS),8.1,5.56,53.75,36.75,
 2025-12-03,San Pedro - Río Victoria (GPRS),24.43,24.15,88.4,70.27,
 2025-12-03,San Pedro - San Antonio (GPRS),24.34,23.52,86.6,71.62,
+2025-12-03,San Pedro de Buena Vista,,,,,6.0
 2025-12-03,San Pedro de Buena Vista (GPRS),14.26,12.32,86.8,60.89,
 2025-12-03,San Pedro de Tiquina_M (GPRS),10.26,8.16,72.47,55.32,
+2025-12-03,Santa Cruz SENAMHI,,,,,0.2
 2025-12-03,Santiago de Huata,17.0,2.0,,,
 2025-12-03,Sara Ana,27.0,23.0,,,7.9
 2025-12-03,Sarco,,,,,3.8
@@ -69301,6 +69352,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-06,San Pablo de Lipez (GPRS),4.04,1.47,57.95,35.16,
 2025-12-06,San Pedro - Río Victoria (GPRS),24.93,23.62,86.1,70.8,
 2025-12-06,San Pedro - San Antonio (GPRS),25.03,23.56,87.6,72.42,
+2025-12-06,San Pedro de Buena Vista,,,,,14.0
 2025-12-06,San Pedro de Buena Vista (GPRS),12.48,11.7,99.7,83.4,1.6
 2025-12-06,San Pedro de Tiquina_M (GPRS),8.54,6.72,65.48,57.07,
 2025-12-06,Santiago de Huata,17.0,2.0,,,
@@ -69720,6 +69772,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-08,San Pedro - San Antonio (GPRS),24.96,23.56,95.5,89.2,
 2025-12-08,San Pedro de Buena Vista (GPRS),14.1,11.87,89.1,68.89,0.1
 2025-12-08,San Pedro de Tiquina_M (GPRS),10.38,7.37,78.52,66.14,
+2025-12-08,Santa Cruz SENAMHI,,,,,5.3
 2025-12-08,Santiago de Huata,19.0,2.0,,,
 2025-12-08,Sara Ana,36.0,24.0,,,15.0
 2025-12-08,Sauce Pilapata - SDC (GPRS),13.81,12.42,85.8,72.37,
@@ -69914,6 +69967,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-09,San Pedro - San Antonio (GPRS),23.18,22.11,84.1,72.34,
 2025-12-09,San Pedro de Buena Vista (GPRS),15.53,14.27,80.1,53.88,
 2025-12-09,San Pedro de Tiquina_M (GPRS),9.27,8.54,69.99,64.31,
+2025-12-09,Santa Cruz SENAMHI,,,,,0.4
 2025-12-09,Santiago de Huata,18.0,5.0,,,
 2025-12-09,Sara Ana,29.0,23.0,,,
 2025-12-09,Sauce Pilapata - SDC (GPRS),11.98,11.52,97.6,93.6,
@@ -70089,6 +70143,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-10,San Pablo de Lipez (GPRS),7.03,1.65,36.79,21.59,
 2025-12-10,San Pedro - Río Victoria (GPRS),23.69,22.94,85.9,74.5,
 2025-12-10,San Pedro - San Antonio (GPRS),23.42,22.66,86.4,76.51,
+2025-12-10,San Pedro de Buena Vista,,,,,8.8
 2025-12-10,San Pedro de Buena Vista (GPRS),15.49,14.73,81.8,55.3,
 2025-12-10,San Pedro de Tiquina_M (GPRS),10.26,8.55,57.6,47.23,
 2025-12-10,Santiago de Huata,20.0,3.0,,,
@@ -70275,8 +70330,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-11,San Pablo de Lipez (GPRS),5.66,0.79,12.39,7.39,
 2025-12-11,San Pedro - Río Victoria (GPRS),25.5,24.73,91.9,74.6,
 2025-12-11,San Pedro - San Antonio (GPRS),25.24,24.2,95.1,85.6,
+2025-12-11,San Pedro de Buena Vista,,,,,14.0
 2025-12-11,San Pedro de Buena Vista (GPRS),15.8,14.09,76.5,47.03,
 2025-12-11,San Pedro de Tiquina_M (GPRS),10.58,7.83,68.94,57.33,
+2025-12-11,Santa Cruz SENAMHI,,,,,16.2
 2025-12-11,Santiago de Huata,17.0,5.0,,,
 2025-12-11,Sara Ana,36.0,24.0,,,
 2025-12-11,Sauce Pilapata - SDC (GPRS),13.08,10.72,83.5,68.23,
@@ -70477,8 +70534,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-12,San Pablo de Lipez (GPRS),4.45,-0.67,12.29,8.09,
 2025-12-12,San Pedro - Río Victoria (GPRS),26.59,24.33,87.1,73.15,
 2025-12-12,San Pedro - San Antonio (GPRS),25.95,24.71,86.6,76.92,
+2025-12-12,San Pedro de Buena Vista,,,,,8.0
 2025-12-12,San Pedro de Buena Vista (GPRS),12.89,11.13,67.5,26.68,
 2025-12-12,San Pedro de Tiquina_M (GPRS),10.84,9.47,60.93,48.86,
+2025-12-12,Santa Cruz SENAMHI,,,,,1.0
 2025-12-12,Santiago de Huata,18.0,4.0,,,2.3
 2025-12-12,Sara Ana,37.0,23.0,,,
 2025-12-12,Sarco,,,,,10.6
@@ -70672,8 +70731,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-13,San Pablo de Lipez (GPRS),-0.05,-3.79,9.7,6.03,
 2025-12-13,San Pedro - Río Victoria (GPRS),26.6,25.85,89.4,76.31,0.2
 2025-12-13,San Pedro - San Antonio (GPRS),26.32,24.89,93.1,90.5,
+2025-12-13,San Pedro de Buena Vista,,,,,5.0
 2025-12-13,San Pedro de Buena Vista (GPRS),16.36,13.75,84.4,36.42,
 2025-12-13,San Pedro de Tiquina_M (GPRS),10.58,8.55,59.23,53.3,
+2025-12-13,Santa Cruz SENAMHI,,,,,61.3
 2025-12-13,Santiago de Huata,20.0,2.0,,,
 2025-12-13,Sara Ana,36.0,24.0,,,
 2025-12-13,Sarco,,,,,0.4
@@ -70852,6 +70913,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-14,San Pedro de Buena Vista (GPRS),17.77,15.49,30.97,13.21,
 2025-12-14,San Pedro de Macha,,,,,7.5
 2025-12-14,San Pedro de Tiquina_M (GPRS),9.93,6.91,43.04,28.84,
+2025-12-14,Santa Cruz SENAMHI,,,,,7.8
 2025-12-14,Santiago de Huata,21.0,0.0,,,
 2025-12-14,Sara Ana,38.0,24.0,,,
 2025-12-14,Sauce Pilapata - SDC (GPRS),16.14,14.45,67.07,52.92,
@@ -71239,9 +71301,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-16,San Pablo de Lipez,15.0,-4.1,,,
 2025-12-16,San Pablo de Lipez (GPRS),4.25,1.33,37.71,21.89,
 2025-12-16,San Pedro - Río Victoria (GPRS),26.69,20.15,92.1,86.9,8.6
+2025-12-16,San Pedro de Buena Vista,,,,,20.0
 2025-12-16,San Pedro de Buena Vista (GPRS),16.44,12.22,99.6,87.9,
 2025-12-16,San Pedro de Macha,,,,,11.5
 2025-12-16,San Pedro de Tiquina_M (GPRS),10.06,8.09,77.41,48.78,0.5
+2025-12-16,Santa Cruz SENAMHI,,,,,20.8
 2025-12-16,Santiago de Huata,19.0,5.0,,,
 2025-12-16,Sara Ana,31.0,22.0,,,8.5
 2025-12-16,Sarco,,,,,9.9
@@ -71618,6 +71682,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-18,San Pablo de Lipez,17.2,0.0,,,
 2025-12-18,San Pablo de Lipez (GPRS),7.86,3.22,43.91,12.23,
 2025-12-18,San Pedro - Río Victoria (GPRS),20.9,19.88,84.6,67.56,
+2025-12-18,San Pedro de Buena Vista,,,,,7.0
 2025-12-18,San Pedro de Buena Vista (GPRS),14.09,12.7,77.12,48.87,
 2025-12-18,San Pedro de Tiquina_M (GPRS),8.55,7.89,72.97,58.06,
 2025-12-18,Santiago de Huata,19.0,3.0,,,
@@ -71801,6 +71866,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-19,San Pedro de Buena Vista (GPRS),15.67,13.49,90.5,41.41,7.1
 2025-12-19,San Pedro de Macha,,,,,12.5
 2025-12-19,San Pedro de Tiquina_M (GPRS),9.53,8.42,81.2,50.89,11.2
+2025-12-19,Santa Cruz SENAMHI,,,,,1.2
 2025-12-19,Santiago de Huata,21.0,4.0,,,
 2025-12-19,Santiago de Machaca,,,,,6.5
 2025-12-19,Sara Ana,37.0,20.0,,,
@@ -72000,8 +72066,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-20,San Pablo de Lipez,16.5,1.0,,,
 2025-12-20,San Pablo de Lipez (GPRS),5.28,2.87,32.85,16.94,
 2025-12-20,San Pedro - Río Victoria (GPRS),24.83,23.62,89.4,77.23,
+2025-12-20,San Pedro de Buena Vista,,,,,10.0
 2025-12-20,San Pedro de Buena Vista (GPRS),11.53,10.19,81.2,53.6,
 2025-12-20,San Pedro de Tiquina_M (GPRS),8.88,5.85,74.93,66.14,
+2025-12-20,Santa Cruz SENAMHI,,,,,0.8
 2025-12-20,Santiago de Huata,17.0,5.0,,,15.4
 2025-12-20,Sara Ana,36.0,21.0,,,
 2025-12-20,Sarco,,,,,0.4
@@ -72206,9 +72274,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-21,San Pablo de Lipez,17.0,2.0,,,
 2025-12-21,San Pablo de Lipez (GPRS),7.73,3.63,36.93,11.83,
 2025-12-21,San Pedro - Río Victoria (GPRS),25.41,25.07,88.2,77.95,0.2
+2025-12-21,San Pedro de Buena Vista,,,,,15.0
 2025-12-21,San Pedro de Buena Vista (GPRS),17.2,14.92,76.72,63.75,0.3
 2025-12-21,San Pedro de Macha,,,,,10.2
 2025-12-21,San Pedro de Tiquina_M (GPRS),9.51,7.83,63.59,55.71,
+2025-12-21,Santa Cruz SENAMHI,,,,,0.5
 2025-12-21,Santiago de Huata,19.0,2.0,,,
 2025-12-21,Santiago de Machaca,,,,,4.5
 2025-12-21,Sara Ana,35.0,21.0,,,
@@ -72418,6 +72488,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-22,San Pablo de Lipez,17.2,3.1,,,
 2025-12-22,San Pablo de Lipez (GPRS),7.63,4.81,41.84,8.27,
 2025-12-22,San Pedro - Río Victoria (GPRS),26.94,26.49,93.7,91.6,3.8
+2025-12-22,San Pedro de Buena Vista,,,,,0.5
 2025-12-22,San Pedro de Buena Vista (GPRS),15.78,11.84,90.1,74.42,
 2025-12-22,San Pedro de Tiquina_M (GPRS),9.0,6.0,62.81,49.91,
 2025-12-22,Santiago de Huata,20.0,3.0,,,
@@ -72823,6 +72894,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-24,San Pablo de Lipez,16.2,3.0,,,
 2025-12-24,San Pablo de Lipez (GPRS),7.1,4.32,49.36,20.8,
 2025-12-24,San Pedro - Río Victoria (GPRS),25.85,24.49,89.7,88.4,
+2025-12-24,San Pedro de Buena Vista,,,,,11.0
 2025-12-24,San Pedro de Buena Vista (GPRS),11.86,10.44,84.8,62.5,
 2025-12-24,San Pedro de Tiquina_M (GPRS),10.38,9.01,76.17,22.52,
 2025-12-24,Santiago de Huata,19.0,4.0,,,
@@ -73037,6 +73109,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-25,San Pablo de Lipez,13.0,3.1,,,
 2025-12-25,San Pablo de Lipez (GPRS),7.11,5.34,53.3,34.63,
 2025-12-25,San Pedro - Río Victoria (GPRS),24.33,23.47,94.6,84.6,
+2025-12-25,San Pedro de Buena Vista,,,,,28.0
 2025-12-25,San Pedro de Buena Vista (GPRS),11.23,9.59,93.7,78.55,
 2025-12-25,San Pedro de Macha,,,,,7.5
 2025-12-25,San Pedro de Tiquina_M (GPRS),8.75,7.13,75.59,67.45,
@@ -73273,6 +73346,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-26,San Pablo de Lipez,14.2,3.0,,,10.0
 2025-12-26,San Pablo de Lipez (GPRS),5.79,1.0,89.5,75.15,0.3
 2025-12-26,San Pedro - Río Victoria (GPRS),23.58,23.04,89.5,79.86,
+2025-12-26,San Pedro de Buena Vista,,,,,25.0
 2025-12-26,San Pedro de Buena Vista (GPRS),11.76,11.39,100.0,86.4,0.1
 2025-12-26,San Pedro de Tiquina_M (GPRS),9.87,7.03,81.3,69.33,0.2
 2025-12-26,Santiago de Huata,16.0,5.0,,,5.6
@@ -73494,6 +73568,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-27,San Pablo de Lipez,15.0,4.2,,,15.0
 2025-12-27,San Pablo de Lipez (GPRS),5.48,4.25,80.4,52.0,
 2025-12-27,San Pedro - Río Victoria (GPRS),23.33,22.33,87.9,75.23,
+2025-12-27,San Pedro de Buena Vista,,,,,21.0
 2025-12-27,San Pedro de Buena Vista (GPRS),11.55,9.88,88.5,58.47,
 2025-12-27,San Pedro de Macha,,,,,6.5
 2025-12-27,San Pedro de Tiquina_M (GPRS),8.62,7.31,86.5,63.82,
@@ -73723,6 +73798,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-28,San Pablo de Lipez,14.0,3.0,,,19.0
 2025-12-28,San Pablo de Lipez (GPRS),2.05,1.51,87.0,73.18,0.2
 2025-12-28,San Pedro - Río Victoria (GPRS),23.98,23.71,86.3,74.99,
+2025-12-28,San Pedro de Buena Vista,,,,,25.5
 2025-12-28,San Pedro de Buena Vista (GPRS),12.51,10.53,92.9,59.62,
 2025-12-28,San Pedro de Tiquina_M (GPRS),5.01,4.35,90.2,69.27,0.3
 2025-12-28,Santiago de Huata,17.0,4.0,,,11.3
@@ -73952,9 +74028,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-29,San Pablo de Lipez,13.2,2.0,,,12.0
 2025-12-29,San Pablo de Lipez (GPRS),3.5,1.02,70.48,56.42,
 2025-12-29,San Pedro - Río Victoria (GPRS),24.11,23.37,86.4,79.2,
+2025-12-29,San Pedro de Buena Vista,,,,,38.0
 2025-12-29,San Pedro de Buena Vista (GPRS),11.95,11.34,97.4,63.58,
 2025-12-29,San Pedro de Macha,,,,,11.5
 2025-12-29,San Pedro de Tiquina_M (GPRS),9.41,8.26,85.2,65.16,
+2025-12-29,Santa Cruz SENAMHI,,,,,50.2
 2025-12-29,Santiago de Huata,18.0,2.0,,,3.4
 2025-12-29,Santiago de Machaca,,,,,1.5
 2025-12-29,Sara Ana,32.0,23.0,,,15.5
@@ -74176,8 +74254,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-30,San Pablo de Lipez,12.8,2.2,,,
 2025-12-30,San Pablo de Lipez (GPRS),3.92,2.06,69.51,44.57,
 2025-12-30,San Pedro - Río Victoria (GPRS),25.3,23.49,84.7,74.06,
+2025-12-30,San Pedro de Buena Vista,,,,,15.0
 2025-12-30,San Pedro de Buena Vista (GPRS),14.27,11.88,94.6,84.3,
 2025-12-30,San Pedro de Tiquina_M (GPRS),10.05,7.3,74.34,63.66,
+2025-12-30,Santa Cruz SENAMHI,,,,,2.3
 2025-12-30,Santiago de Huata,20.0,3.0,,,
 2025-12-30,Sara Ana,37.0,23.0,,,
 2025-12-30,Sarco,,,,,0.1
@@ -74393,6 +74473,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-31,San Pablo de Lipez,13.0,3.0,,,0.9
 2025-12-31,San Pablo de Lipez (GPRS),5.76,3.92,58.08,45.51,
 2025-12-31,San Pedro - Río Victoria (GPRS),24.28,24.0,90.8,75.95,
+2025-12-31,San Pedro de Buena Vista,,,,,21.0
 2025-12-31,San Pedro de Buena Vista (GPRS),13.77,12.78,90.4,79.65,1.5
 2025-12-31,San Pedro de Macha,,,,,12.5
 2025-12-31,San Pedro de Tiquina_M (GPRS),8.55,6.52,70.38,65.05,
