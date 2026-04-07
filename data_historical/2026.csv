@@ -280,6 +280,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-01-02,El Tejar (Tarija),,,,,1.4
 2026-01-02,El Villar,,,,,9.0
 2026-01-02,Emborozu,,,,,11.0
+2026-01-02,Entre Rios (TJA),,,,,2.0
 2026-01-02,Guanay_H (GPRS),,,,,4.2
 2026-01-02,Guayaramerin_M (GPRS),33.34,23.3,99.14,68.89,
 2026-01-02,Hichucota,9.0,4.0,,,10.6
@@ -494,6 +495,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-01-03,El Tejar (Tarija),,,,,7.2
 2026-01-03,El Villar,,,,,2.2
 2026-01-03,Emborozu,,,,,18.0
+2026-01-03,Entre Rios (TJA),,,,,28.0
 2026-01-03,Guanay_H (GPRS),,,,,3.3
 2026-01-03,Guayaramerin_M (GPRS),32.89,23.77,97.17,72.18,
 2026-01-03,Hichucota,12.0,3.0,,,8.5
@@ -709,6 +711,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-01-04,El Tejar (Tarija),,,,,12.4
 2026-01-04,El Villar,,,,,15.8
 2026-01-04,Emborozu,,,,,29.0
+2026-01-04,Entre Rios (TJA),,,,,16.0
 2026-01-04,Guajara-Mirim - Guayaramerín,,,,,18.5
 2026-01-04,Guanay_H (GPRS),,,,,0.7
 2026-01-04,Guayaramerin_M (GPRS),29.33,23.42,100.0,99.51,0.1
@@ -924,6 +927,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-01-05,El Belen,15.0,3.0,,,0.8
 2026-01-05,El Tejar (La Paz),,,,,1.8
 2026-01-05,El Villar,,,,,7.0
+2026-01-05,Entre Rios (TJA),,,,,1.0
 2026-01-05,Guajara-Mirim - Guayaramerín,,,,,28.8
 2026-01-05,Guayaramerin_M (GPRS),,,100.0,88.23,
 2026-01-05,Hichucota,12.0,1.0,,,2.8
@@ -1506,6 +1510,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-01-08,El Reloj,,,,,8.4
 2026-01-08,El Villar,,,,,7.5
 2026-01-08,Emborozu,,,,,3.0
+2026-01-08,Entre Rios (TJA),,,,,7.5
 2026-01-08,Guajara-Mirim - Guayaramerín,,,,,0.8
 2026-01-08,Guanay_H (GPRS),,,,,0.1
 2026-01-08,Guayaramerin_M (GPRS),31.99,23.23,100.0,85.04,0.1
@@ -1891,6 +1896,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-01-10,El Tejar (Tarija),,,,,6.8
 2026-01-10,El Villar,25.0,15.0,,,
 2026-01-10,Emborozu,,,,,4.0
+2026-01-10,Entre Rios (TJA),,,,,41.0
 2026-01-10,Guanay_H (GPRS),,,,,6.9
 2026-01-10,Guayaramerin_M (GPRS),32.44,22.4,96.31,69.97,
 2026-01-10,Hichucota,13.0,2.0,,,3.0
@@ -3325,6 +3331,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-01-17,El Tejar (Tarija),,,,,5.9
 2026-01-17,El Villar,26.5,14.0,,,
 2026-01-17,Emborozu,,,,,8.5
+2026-01-17,Entre Rios (TJA),,,,,26.5
 2026-01-17,Guajara-Mirim - Guayaramerín,,,,,1.8
 2026-01-17,Guanay_H (GPRS),,,,,9.7
 2026-01-17,Guayaramerin_M (GPRS),30.12,22.99,96.27,76.93,
@@ -3548,6 +3555,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-01-18,El Tejar (Tarija),,,,,7.6
 2026-01-18,El Villar,26.5,13.0,,,
 2026-01-18,Emborozu,,,,,30.0
+2026-01-18,Entre Rios (TJA),,,,,7.0
 2026-01-18,Guajara-Mirim - Guayaramerín,,,,,9.9
 2026-01-18,Guanay_H (GPRS),,,,,9.7
 2026-01-18,Guayaramerin_M (GPRS),33.49,22.12,99.22,69.0,
@@ -3777,6 +3785,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-01-19,El Tejar (Tarija),,,,,21.5
 2026-01-19,El Villar,,,,,22.4
 2026-01-19,Emborozu,,,,,20.0
+2026-01-19,Entre Rios (TJA),,,,,6.5
 2026-01-19,Guanay_H (GPRS),,,,,4.0
 2026-01-19,Guayaramerin_M (GPRS),,,94.93,69.75,
 2026-01-19,Hichucota,11.0,3.0,,,3.5
@@ -4013,6 +4022,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-01-20,El Tejar (La Paz),,,,,7.9
 2026-01-20,El Tejar (Tarija),,,,,5.7
 2026-01-20,El Villar,23.0,13.5,,,
+2026-01-20,Entre Rios (TJA),,,,,2.0
 2026-01-20,Guajara-Mirim - Guayaramerín,,,,,8.8
 2026-01-20,Guanay_H (GPRS),,,,,4.7
 2026-01-20,Guayaramerin_M (GPRS),23.59,29.65,100.0,81.71,
@@ -4247,6 +4257,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-01-21,El Tejar (Tarija),,,,,3.4
 2026-01-21,El Villar,,,,,11.5
 2026-01-21,Emborozu,,,,,7.0
+2026-01-21,Entre Rios (TJA),,,,,23.0
 2026-01-21,Guajara-Mirim - Guayaramerín,,,,,25.5
 2026-01-21,Guayaramerin_M (GPRS),24.45,32.45,100.0,72.93,
 2026-01-21,Hichucota,10.0,4.0,,,1.5
@@ -4462,6 +4473,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-01-22,El Tejar (Tarija),,,,,1.2
 2026-01-22,El Villar,22.0,14.1,,,
 2026-01-22,Emborozu,,,,,22.0
+2026-01-22,Entre Rios (TJA),,,,,25.0
 2026-01-22,Guajara-Mirim - Guayaramerín,,,,,14.0
 2026-01-22,Guayaramerin_M (GPRS),22.83,30.85,100.0,87.54,2.6
 2026-01-22,Hichucota,12.0,3.0,,,0.8
@@ -5230,6 +5242,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-01-26,El Tejar (La Paz),,,,,3.8
 2026-01-26,El Tejar (Tarija),,,,,10.1
 2026-01-26,El Villar,25.0,14.0,,,
+2026-01-26,Entre Rios (TJA),,,,,39.0
 2026-01-26,Guajara-Mirim - Guayaramerín,,,,,11.0
 2026-01-26,Guayaramerin_M (GPRS),23.7,22.94,100.0,83.17,0.1
 2026-01-26,Hichucota,12.0,2.0,,,12.4
@@ -5901,6 +5914,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-01-29,El Reloj,,,,,4.2
 2026-01-29,El Tejar (Tarija),,,,,3.4
 2026-01-29,El Villar,,,,,3.6
+2026-01-29,Entre Rios (TJA),,,,,3.5
 2026-01-29,Guajara-Mirim - Guayaramerín,,,,,0.1
 2026-01-29,Guanay_H (GPRS),,,,,0.1
 2026-01-29,Guayaramerin_M (GPRS),24.86,24.52,100.0,70.59,
@@ -6324,6 +6338,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-01-31,El Puente_H (GPRS),,,,,3.7
 2026-01-31,El Tejar (La Paz),,,,,0.1
 2026-01-31,El Villar,26.0,14.1,,,
+2026-01-31,Entre Rios (TJA),,,,,7.5
 2026-01-31,Guajara-Mirim - Guayaramerín,,,,,1.3
 2026-01-31,Guanay_H (GPRS),,,,,22.4
 2026-01-31,Guayaramerin_M (GPRS),24.89,24.37,100.0,69.69,
@@ -6486,11 +6501,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-01,Catacora,,,,,28.4
 2026-02-01,Cayarani,,,,,11.5
 2026-02-01,Chacala Iniaf (GPRS),,,69.1,7.1,
+2026-02-01,Chasqui (Escoma),,,,,2.5
 2026-02-01,Chillca,18.2,3.4,,,8.0
 2026-02-01,Chinchaya,,,,,1.0
 2026-02-01,Chinoli,21.2,9.2,,,
 2026-02-01,Chipaya - GPRS,20.5,5.7,,,
 2026-02-01,Chirapaca,15.0,3.0,,,6.5
+2026-02-01,Chojñapata,,,,,2.1
 2026-02-01,Chua Cocani_M (GPRS),6.45,5.47,91.4,63.88,
 2026-02-01,Chuqui Chuqui,36.0,19.0,,,
 2026-02-01,Chuquiago,31.2,10.0,,,
@@ -6506,6 +6523,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-01,Cotagaita (GPRS),14.21,12.24,95.3,40.7,
 2026-02-01,Cotagaita Mosoj Llajta,,,,,1.0
 2026-02-01,Covendo_M (GPRS),23.48,23.11,99.89,60.5,0.4
+2026-02-01,Cruzpata (Escoma),,,,,6.7
 2026-02-01,Cuatro Cañadas - CEA-2 (GPRS),26.76,25.32,88.6,75.18,
 2026-02-01,Cuatro Cañadas - Colonia Chihuahua (GPRS),27.42,26.31,82.0,68.31,
 2026-02-01,Culpina,,,,,1.1
@@ -6546,6 +6564,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-01,Padilla,,,,,12.0
 2026-02-01,Pairumani,,,,,10.0
 2026-02-01,Palca_LP,26.0,6.0,,,6.1
+2026-02-01,Palmar Grande,37.0,22.0,,,1.1
 2026-02-01,Palos Blancos_M (GPRS),23.54,23.13,99.98,80.8,
 2026-02-01,Pasankeri ,,,,,7.3
 2026-02-01,Patacamaya Iniaf (GPRS),,,87.3,33.1,2.2
@@ -6667,10 +6686,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-02,Carura_M - Guanay (GPRS),23.36,22.46,87.77,57.81,0.1
 2026-02-02,Chacala Iniaf (GPRS),,,71.8,8.3,
 2026-02-02,Chaqui,,,,,5.2
+2026-02-02,Chasqui (Escoma),,,,,1.9
 2026-02-02,Chillca,20.0,2.1,,,
 2026-02-02,Chinoli,24.1,9.0,,,
 2026-02-02,Chipaya - GPRS,17.2,5.1,,,
 2026-02-02,Chirapaca,16.0,4.0,,,
+2026-02-02,Chojñapata,,,,,7.5
 2026-02-02,Chua Cocani_M (GPRS),7.85,5.54,93.9,70.43,1.5
 2026-02-02,Chuqui Chuqui,35.0,20.0,,,
 2026-02-02,Chuquiago,32.0,10.2,,,
@@ -6686,6 +6707,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-02,Cotagaita (GPRS),16.87,12.11,92.8,25.45,
 2026-02-02,Cotagaita Mosoj Llajta,27.0,10.0,,,
 2026-02-02,Covendo_M (GPRS),24.25,24.25,99.86,71.84,
+2026-02-02,Cruzpata (Escoma),,,,,4.2
 2026-02-02,Cuatro Cañadas - CEA-2 (GPRS),26.05,25.25,94.0,80.2,
 2026-02-02,Cuatro Cañadas - Colonia Chihuahua (GPRS),26.63,25.13,94.9,75.71,0.4
 2026-02-02,Cuesta del Zorro (Catacora),,,,,9.0
@@ -6698,6 +6720,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-02,El Tejar (La Paz),,,,,7.3
 2026-02-02,El Villar,,,,,1.0
 2026-02-02,Emborozu,,,,,20.0
+2026-02-02,Entre Rios (TJA),,,,,13.0
 2026-02-02,Guajara-Mirim - Guayaramerín,,,,,0.9
 2026-02-02,Guanay_H (GPRS),,,,,2.0
 2026-02-02,Guayaramerin_M (GPRS),25.24,24.73,88.76,69.24,
@@ -6731,6 +6754,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-02,Pairumani,,,,,15.0
 2026-02-02,Pajonal,,,,,13.0
 2026-02-02,Palca_LP,24.0,7.0,,,1.7
+2026-02-02,Palmar Grande,30.0,15.0,,,0.1
 2026-02-02,Palos Blancos_M (GPRS),23.33,22.97,99.98,72.79,
 2026-02-02,Pasankeri ,,,,,17.8
 2026-02-02,Patacamaya Iniaf (GPRS),,,71.6,40.4,
@@ -6858,11 +6882,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-03,Carura_M - Guanay (GPRS),23.6,22.43,98.46,75.69,0.1
 2026-02-03,Cayarani,,,,,6.5
 2026-02-03,Chacala Iniaf (GPRS),,,44.9,15.3,
+2026-02-03,Chasqui (Escoma),,,,,0.6
 2026-02-03,Chillca,19.2,5.2,,,
 2026-02-03,Chinchaya,,,,,0.3
 2026-02-03,Chinoli,24.2,8.2,,,
 2026-02-03,Chipaya - GPRS,19.0,2.0,,,
 2026-02-03,Chirapaca,16.0,5.0,,,8.8
+2026-02-03,Chojñapata,,,,,4.1
 2026-02-03,Chua Cocani_M (GPRS),9.88,7.31,77.83,55.23,
 2026-02-03,Chuqui Chuqui,39.0,22.0,,,
 2026-02-03,Chuquiago,29.5,8.0,,,
@@ -6879,6 +6905,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-03,Cotagaita (GPRS),14.39,9.65,64.86,28.91,
 2026-02-03,Cotagaita Mosoj Llajta,28.0,9.0,,,
 2026-02-03,Covendo_M (GPRS),25.11,23.71,97.91,86.28,
+2026-02-03,Cruzpata (Escoma),,,,,2.8
 2026-02-03,Cuatro Cañadas - CEA-2 (GPRS),25.19,24.73,99.5,96.9,14.0
 2026-02-03,Cuatro Cañadas - Colonia Chihuahua (GPRS),26.11,24.74,100.0,86.1,17.0
 2026-02-03,Culpina,24.5,9.1,,,
@@ -6905,6 +6932,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-03,Jihuacuta,,,,,0.8
 2026-02-03,La Merced,32.0,16.0,,,
 2026-02-03,La Torre,32.0,15.0,,,
+2026-02-03,La Violeta,,,,,9.0
 2026-02-03,Laguna Colorada (GPRS),2.95,-0.94,63.84,31.2,
 2026-02-03,Laykacota,23.2,8.5,,,1.0
 2026-02-03,Llallagua,17.2,7.0,,,
@@ -6922,6 +6950,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-03,Padilla,23.0,14.0,,,
 2026-02-03,Pairumani,,,,,8.4
 2026-02-03,Palca_LP,27.0,7.0,,,0.6
+2026-02-03,Palmar Grande,30.0,20.0,,,6.8
 2026-02-03,Palos Blancos,,,,,6.1
 2026-02-03,Palos Blancos_M (GPRS),25.12,23.7,99.98,64.66,
 2026-02-03,Pasankeri ,,,,,0.5
@@ -7047,11 +7076,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-04,Carura_M - Guanay (GPRS),22.64,22.45,98.46,83.7,0.1
 2026-02-04,Cayarani,,,,,23.3
 2026-02-04,Chacala Iniaf (GPRS),,,53.8,22.1,
+2026-02-04,Chasqui (Escoma),,,,,1.8
 2026-02-04,Chillca,18.3,0.1,,,
 2026-02-04,Chinchaya,,,,,6.1
 2026-02-04,Chinoli,24.0,7.2,,,
 2026-02-04,Chipaya - GPRS,21.5,4.0,,,
 2026-02-04,Chirapaca,15.0,4.0,,,
+2026-02-04,Chojñapata,,,,,1.8
 2026-02-04,Chua Cocani_M (GPRS),9.07,6.92,80.3,62.28,
 2026-02-04,Chuqui Chuqui,38.0,20.0,,,
 2026-02-04,Chuquiago,32.0,10.5,,,
@@ -7067,6 +7098,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-04,Cotagaita Mosoj Llajta,27.0,8.0,,,
 2026-02-04,Cotagaita_H (GPRS),,,,,1.3
 2026-02-04,Covendo_M (GPRS),24.19,23.61,95.66,69.38,
+2026-02-04,Cruzpata (Escoma),,,,,3.0
 2026-02-04,Cuatro Cañadas - CEA-2 (GPRS),26.2,25.32,88.1,79.02,
 2026-02-04,Cuatro Cañadas - Colonia Chihuahua (GPRS),25.8,25.13,87.0,72.6,
 2026-02-04,Culpina,26.2,6.7,,,
@@ -7075,6 +7107,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-04,Desaguadero_M,11.42,8.48,76.75,59.31,
 2026-02-04,El Belen,18.0,2.0,,,
 2026-02-04,El Villar,,,,,4.5
+2026-02-04,Entre Rios (TJA),,,,,4.0
 2026-02-04,Guajara-Mirim - Guayaramerín,,,,,0.2
 2026-02-04,Guanay_H (GPRS),,,,,0.4
 2026-02-04,Guayaramerin_M (GPRS),24.54,24.01,94.79,71.12,
@@ -7107,6 +7140,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-04,Padilla,26.0,11.0,,,
 2026-02-04,Pajonal,,,,,4.0
 2026-02-04,Palca_LP,25.0,7.0,,,
+2026-02-04,Palmar Grande,37.0,20.0,,,
 2026-02-04,Palos Blancos_M (GPRS),24.22,24.0,99.96,76.82,
 2026-02-04,Patacamaya Iniaf (GPRS),,,81.1,23.1,
 2026-02-04,Peña Amarilla_H (SAT),,,,,1.2
@@ -7265,6 +7299,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-05,La Barranca  (Chuquisaca),29.0,8.0,,,
 2026-02-05,La Merced,33.0,20.0,,,
 2026-02-05,La Torre,32.0,17.0,,,
+2026-02-05,La Violeta,,,,,11.5
 2026-02-05,Laguna Colorada (GPRS),6.29,2.75,70.27,40.64,
 2026-02-05,Laykacota,25.3,7.5,,,
 2026-02-05,Llallagua,18.2,5.2,,,
@@ -7276,6 +7311,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-05,Oronkota PTI,,,,,6.2
 2026-02-05,Padilla,28.0,12.0,,,
 2026-02-05,Palca_LP,28.0,6.0,,,
+2026-02-05,Palmar Grande,40.0,22.0,,,
 2026-02-05,Palos Blancos_M (GPRS),23.12,22.28,99.97,69.78,
 2026-02-05,Patacamaya Iniaf (GPRS),,,83.2,33.2,0.4
 2026-02-05,Pinos Sud,,,,,2.4
@@ -7450,6 +7486,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-06,Opoqueri,,,,,0.6
 2026-02-06,Padilla,24.0,13.0,,,
 2026-02-06,Palca_LP,28.0,8.0,,,
+2026-02-06,Palmar Grande,31.0,22.0,,,
 2026-02-06,Palos Blancos_M (GPRS),22.74,22.13,99.86,62.42,
 2026-02-06,Pampas de Lequezana,,,,,15.8
 2026-02-06,Patacamaya Iniaf (GPRS),,,89.7,28.8,2.8
@@ -7575,11 +7612,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-07,Carura_M - Guanay (GPRS),24.48,23.51,96.99,74.53,
 2026-02-07,Chacala Iniaf (GPRS),,,80.7,41.9,
 2026-02-07,Chaqui,,,,,1.3
+2026-02-07,Chasqui (Escoma),,,,,2.1
 2026-02-07,Chillca,18.0,3.0,,,5.0
 2026-02-07,Chinchaya,,,,,6.5
 2026-02-07,Chinoli,19.1,7.0,,,
 2026-02-07,Chipaya - GPRS,,,,,0.9
 2026-02-07,Chirapaca,16.0,5.0,,,
+2026-02-07,Chojñapata,,,,,1.8
 2026-02-07,Chua Cocani_M (GPRS),9.4,7.89,83.2,63.97,
 2026-02-07,Chuqui Chuqui,30.0,22.0,,,
 2026-02-07,Chuquiago,,,,,9.5
@@ -7612,6 +7651,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-07,El Tejar (Tarija),,,,,21.6
 2026-02-07,El Villar,27.0,16.0,,,
 2026-02-07,Emborozu,,,,,85.5
+2026-02-07,Entre Rios (TJA),,,,,3.5
 2026-02-07,Guajara-Mirim - Guayaramerín,,,,,17.8
 2026-02-07,Guanay_H (GPRS),,,,,6.1
 2026-02-07,Guayaramerin_M (GPRS),24.61,24.1,100.0,75.9,
@@ -7646,6 +7686,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-07,Padilla,,,,,3.0
 2026-02-07,Pajonal,,,,,3.5
 2026-02-07,Palca_LP,24.0,8.0,,,3.4
+2026-02-07,Palmar Grande,41.0,23.0,,,
 2026-02-07,Palos Blancos,,,,,40.8
 2026-02-07,Palos Blancos_M (GPRS),23.45,22.84,99.98,73.07,
 2026-02-07,Pasankeri ,,,,,1.8
@@ -7775,10 +7816,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-08,Catacora,,,,,2.7
 2026-02-08,Cayarani,,,,,4.6
 2026-02-08,Chacala Iniaf (GPRS),,,71.5,48.9,
+2026-02-08,Chasqui (Escoma),,,,,2.4
 2026-02-08,Chillca,20.4,2.0,,,
 2026-02-08,Chinoli,23.0,8.2,,,
 2026-02-08,Chipaya - GPRS,,,,,0.5
 2026-02-08,Chirapaca,15.0,3.0,,,
+2026-02-08,Chojñapata,,,,,2.2
 2026-02-08,Chua Cocani_M (GPRS),7.28,5.73,83.8,68.39,
 2026-02-08,Chuqui Chuqui,37.0,20.0,,,
 2026-02-08,Chuquiago,31.0,10.0,,,
@@ -7833,6 +7876,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-08,Opoqueri,,,,,2.0
 2026-02-08,Padilla,25.0,13.0,,,
 2026-02-08,Palca_LP,25.0,9.0,,,1.1
+2026-02-08,Palmar Grande,35.0,22.0,,,
 2026-02-08,Palos Blancos,,,,,3.0
 2026-02-08,Palos Blancos_M (GPRS),22.44,21.22,99.98,71.12,
 2026-02-08,Pasankeri ,,,,,1.5
@@ -7951,6 +7995,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-09,Chinoli,24.2,7.0,,,
 2026-02-09,Chipaya - GPRS,,,,,1.3
 2026-02-09,Chirapaca,16.0,4.0,,,
+2026-02-09,Chojñapata,,,,,9.3
 2026-02-09,Chua Cocani_M (GPRS),6.13,4.63,83.2,51.86,
 2026-02-09,Chuqui Chuqui,40.0,21.0,,,
 2026-02-09,Chuquiago,,,,,3.5
@@ -7999,6 +8044,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-09,Opoqueri,23.0,3.0,,,
 2026-02-09,Padilla,26.0,14.0,,,
 2026-02-09,Palca_LP,28.0,6.0,,,
+2026-02-09,Palmar Grande,38.0,21.0,,,
 2026-02-09,Palos Blancos_M (GPRS),22.79,21.77,99.99,73.06,
 2026-02-09,Patacamaya Iniaf (GPRS),,,70.6,17.3,
 2026-02-09,Pocohota - Jalsuri,,,,,3.2
@@ -8110,6 +8156,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-10,Chinoli,23.2,7.2,,,
 2026-02-10,Chipaya - GPRS,,,,,0.2
 2026-02-10,Chirapaca,15.0,4.0,,,
+2026-02-10,Chojñapata,,,,,1.9
 2026-02-10,Chorocona,,,,,4.2
 2026-02-10,Chua Cocani_M (GPRS),10.38,7.18,77.99,65.73,
 2026-02-10,Chuqui Chuqui,39.0,22.0,,,
@@ -8162,6 +8209,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-10,Opoqueri,25.0,5.0,,,
 2026-02-10,Padilla,27.0,14.0,,,
 2026-02-10,Palca_LP,26.0,8.0,,,
+2026-02-10,Palmar Grande,42.0,22.0,,,
 2026-02-10,Palos Blancos_M (GPRS),24.9,24.01,99.98,71.06,
 2026-02-10,Patacamaya Iniaf (GPRS),,,88.7,24.8,3.4
 2026-02-10,Pinos Sud,,,,,22.1
@@ -8275,11 +8323,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-11,Carura_M - Guanay (GPRS),23.88,21.36,83.63,62.97,0.7
 2026-02-11,Catacora,,,,,0.1
 2026-02-11,Chacala Iniaf (GPRS),,,55.2,15.6,
+2026-02-11,Chasqui (Escoma),,,,,6.2
 2026-02-11,Chillca,20.1,1.5,,,
 2026-02-11,Chinchaya,,,,,7.0
 2026-02-11,Chinoli,24.0,8.0,,,
 2026-02-11,Chipaya - GPRS,20.5,6.8,,,
 2026-02-11,Chirapaca,16.0,5.0,,,18.2
+2026-02-11,Chojñapata,,,,,8.6
 2026-02-11,Chua Cocani_M (GPRS),8.48,6.85,75.55,62.73,
 2026-02-11,Chuqui Chuqui,38.0,22.0,,,
 2026-02-11,Chuquiago,,,,,25.0
@@ -8298,6 +8348,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-11,Cotagaita (GPRS),18.62,11.83,70.1,44.54,
 2026-02-11,Cotagaita Mosoj Llajta,28.0,9.0,,,
 2026-02-11,Covendo_M (GPRS),25.05,23.33,99.9,50.75,0.2
+2026-02-11,Cruzpata (Escoma),,,,,15.5
 2026-02-11,Cuatro Cañadas - CEA-2 (GPRS),26.53,25.25,98.5,86.8,
 2026-02-11,Cuatro Cañadas - Colonia Chihuahua (GPRS),27.16,25.53,86.4,79.95,
 2026-02-11,Culpina,26.0,7.0,,,
@@ -8327,6 +8378,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-11,La Barranca  (Chuquisaca),26.0,4.0,,,
 2026-02-11,La Merced,35.0,17.0,,,
 2026-02-11,La Torre,31.0,14.2,,,
+2026-02-11,La Violeta,,,,,3.0
 2026-02-11,Laguna Colorada (GPRS),5.1,3.31,76.52,17.36,
 2026-02-11,Laykacota,23.2,8.6,,,
 2026-02-11,Llallagua,18.6,5.2,,,
@@ -8340,6 +8392,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-11,"PLM-T4, Pura pura",,,,,6.9
 2026-02-11,Padilla,28.0,15.0,,,
 2026-02-11,Palca_LP,24.0,8.0,,,7.2
+2026-02-11,Palmar Grande,39.0,20.0,,,
 2026-02-11,Palos Blancos_M (GPRS),24.37,23.83,99.37,64.39,
 2026-02-11,Pasankeri ,,,,,1.8
 2026-02-11,Patacamaya Iniaf (GPRS),,,90.2,48.3,0.6
@@ -8467,6 +8520,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-12,Chinoli,24.2,7.3,,,
 2026-02-12,Chipaya - GPRS,,,,,1.5
 2026-02-12,Chirapaca,16.0,4.0,,,12.4
+2026-02-12,Chojñapata,,,,,3.8
 2026-02-12,Chorocona,,,,,6.1
 2026-02-12,Chua Cocani_M (GPRS),7.04,5.47,76.01,63.75,
 2026-02-12,Chuqui Chuqui,39.0,19.0,,,
@@ -8514,6 +8568,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-12,La Barranca  (Chuquisaca),26.0,7.0,,,
 2026-02-12,La Merced,36.0,18.0,,,
 2026-02-12,La Torre,32.0,13.0,,,
+2026-02-12,La Violeta,,,,,2.0
 2026-02-12,Laguna Colorada (GPRS),6.15,2.0,72.04,40.0,
 2026-02-12,Laykacota,19.0,7.9,,,6.6
 2026-02-12,Llallagua,,,,,1.0
@@ -8526,6 +8581,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-12,"PLM-T4, Pura pura",,,,,12.9
 2026-02-12,Padilla,29.0,14.0,,,
 2026-02-12,Palca_LP,22.0,7.0,,,3.7
+2026-02-12,Palmar Grande,43.0,22.0,,,
 2026-02-12,Palos Blancos_M (GPRS),24.64,24.46,99.98,81.19,
 2026-02-12,Pampas de Lequezana,,,,,5.6
 2026-02-12,Pasankeri ,,,,,3.1
@@ -8655,6 +8711,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-13,Chinoli,23.0,7.0,,,
 2026-02-13,Chipaya - GPRS,21.0,6.8,,,
 2026-02-13,Chirapaca,15.0,5.0,,,
+2026-02-13,Chojñapata,,,,,1.5
 2026-02-13,Chorocona,,,,,8.3
 2026-02-13,Chua Cocani_M (GPRS),8.75,6.42,80.2,69.42,
 2026-02-13,Chuqui Chuqui,38.0,23.0,,,
@@ -8718,6 +8775,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-13,"PLM-T4, Pura pura",,,,,5.7
 2026-02-13,Padilla,,,,,6.5
 2026-02-13,Palca_LP,21.0,8.0,,,
+2026-02-13,Palmar Grande,41.0,20.0,,,
 2026-02-13,Palos Blancos_M (GPRS),22.95,22.5,99.96,98.27,1.4
 2026-02-13,Pasankeri ,,,,,4.2
 2026-02-13,Patacamaya Iniaf (GPRS),,,79.6,39.6,
@@ -8840,6 +8898,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-14,Chinoli,22.4,8.2,,,
 2026-02-14,Chipaya - GPRS,,,,,6.0
 2026-02-14,Chirapaca,17.0,6.0,,,
+2026-02-14,Chojñapata,,,,,3.7
 2026-02-14,Chorocona,,,,,7.2
 2026-02-14,Chua Cocani_M (GPRS),8.06,7.5,94.6,74.19,
 2026-02-14,Chuqui Chuqui,32.0,23.0,,,
@@ -8869,6 +8928,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-14,El Belen,15.0,5.0,,,6.4
 2026-02-14,El Villar,,,,,4.2
 2026-02-14,Emborozu,,,,,21.0
+2026-02-14,Entre Rios (TJA),,,,,5.5
 2026-02-14,Guajara-Mirim - Guayaramerín,,,,,21.0
 2026-02-14,Guayaramerin_M (GPRS),24.27,23.48,100.0,75.83,
 2026-02-14,Hichucota,14.0,2.0,,,4.0
@@ -8904,6 +8964,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-14,Padilla,21.0,10.0,,,
 2026-02-14,Pajonal,,,,,5.5
 2026-02-14,Palca_LP,24.0,6.0,,,1.3
+2026-02-14,Palmar Grande,36.0,21.0,,,
 2026-02-14,Palos Blancos_M (GPRS),22.12,20.92,99.96,76.69,
 2026-02-14,Patacamaya Iniaf (GPRS),14.3,5.1,69.1,46.1,
 2026-02-14,Peña Amarilla_H (SAT),,,,,51.2
@@ -9027,11 +9088,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-15,Cayarani,,,,,13.9
 2026-02-15,Chacala Iniaf (GPRS),,,88.5,44.5,2.0
 2026-02-15,Chaqui,,,,,4.9
+2026-02-15,Chasqui (Escoma),,,,,0.1
 2026-02-15,Chillca,19.0,4.2,,,10.0
 2026-02-15,Chinchaya,,,,,7.3
 2026-02-15,Chinoli,21.2,7.2,,,
 2026-02-15,Chipaya - GPRS,,,,,11.3
 2026-02-15,Chirapaca,16.0,6.0,,,6.8
+2026-02-15,Chojñapata,,,,,4.5
 2026-02-15,Chorocona,,,,,10.3
 2026-02-15,Chua Cocani_M (GPRS),6.94,5.99,96.5,71.63,
 2026-02-15,Chuqui Chuqui,32.0,22.0,,,
@@ -9095,6 +9158,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-15,"PLM-T4, Pura pura",,,,,3.8
 2026-02-15,Padilla,23.0,13.0,,,
 2026-02-15,Palca_LP,23.0,7.0,,,4.9
+2026-02-15,Palmar Grande,32.0,20.0,,,6.5
 2026-02-15,Palos Blancos_M (GPRS),21.32,20.42,99.96,84.15,0.2
 2026-02-15,Pampas de Lequezana,,,,,5.2
 2026-02-15,Pasankeri ,,,,,2.1
@@ -9223,11 +9287,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-16,Cayarani,,,,,9.6
 2026-02-16,Chacala Iniaf (GPRS),15.0,5.9,78.2,51.3,
 2026-02-16,Chaqui,,,,,1.9
+2026-02-16,Chasqui (Escoma),,,,,0.5
 2026-02-16,Chillca,18.1,2.3,,,
 2026-02-16,Chinchaya,,,,,6.0
 2026-02-16,Chinoli,,,,,3.2
 2026-02-16,Chipaya - GPRS,,,,,1.4
 2026-02-16,Chirapaca,17.0,5.0,,,2.6
+2026-02-16,Chojñapata,,,,,5.5
 2026-02-16,Chorocona,,,,,5.2
 2026-02-16,Chua Cocani_M (GPRS),6.78,5.86,84.9,76.61,
 2026-02-16,Chuqui Chuqui,,,,,4.1
@@ -9245,6 +9311,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-16,Cosapa,16.0,6.2,,,8.7
 2026-02-16,Cotagaita (GPRS),18.52,14.67,68.56,49.07,
 2026-02-16,Cotagaita Mosoj Llajta,25.0,12.0,,,
+2026-02-16,Cruzpata (Escoma),,,,,7.2
 2026-02-16,Cuatro Cañadas - CEA-2 (GPRS),,,98.3,71.85,
 2026-02-16,Cuatro Cañadas - Colonia Chihuahua (GPRS),23.17,22.51,96.3,73.45,
 2026-02-16,Cuesta del Zorro (Catacora),,,,,19.1
@@ -9288,6 +9355,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-16,"PLM-T4, Pura pura",,,,,10.5
 2026-02-16,Padilla,25.0,12.0,,,
 2026-02-16,Palca_LP,21.0,8.0,,,3.6
+2026-02-16,Palmar Grande,36.0,20.0,,,
 2026-02-16,Palos Blancos_M (GPRS),22.29,21.96,99.98,81.5,
 2026-02-16,Pasankeri ,,,,,2.4
 2026-02-16,Patacamaya Iniaf (GPRS),8.0,6.7,90.3,62.0,
@@ -9406,11 +9474,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-17,Catacora,,,,,11.5
 2026-02-17,Cayarani,,,,,12.0
 2026-02-17,Chacala Iniaf (GPRS),19.2,4.6,80.0,20.7,
+2026-02-17,Chasqui (Escoma),,,,,2.5
 2026-02-17,Chillca,20.0,2.1,,,
 2026-02-17,Chinchaya,,,,,2.4
 2026-02-17,Chinoli,23.2,7.2,,,
 2026-02-17,Chipaya - GPRS,20.0,8.0,,,
 2026-02-17,Chirapaca,17.0,3.0,,,4.0
+2026-02-17,Chojñapata,,,,,6.1
 2026-02-17,Chorocona,,,,,12.1
 2026-02-17,Chua Cocani_M (GPRS),6.18,4.97,87.3,72.44,
 2026-02-17,Chuqui Chuqui,38.0,18.0,,,
@@ -9465,6 +9535,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-17,"PLM-T4, Pura pura",,,,,3.3
 2026-02-17,Padilla,26.0,14.0,,,
 2026-02-17,Palca_LP,23.0,8.0,,,
+2026-02-17,Palmar Grande,39.0,20.0,,,
 2026-02-17,Palos Blancos_M (GPRS),22.46,21.84,99.82,73.14,
 2026-02-17,Patacamaya Iniaf (GPRS),7.8,6.9,82.9,35.0,
 2026-02-17,Peña Amarilla_H (SAT),,,,,4.6
@@ -9578,11 +9649,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-18,Catacora,,,,,4.3
 2026-02-18,Cayarani,,,,,1.3
 2026-02-18,Chacala Iniaf (GPRS),11.1,8.9,53.7,16.8,
+2026-02-18,Chasqui (Escoma),,,,,0.1
 2026-02-18,Chillca,19.3,2.0,,,
 2026-02-18,Chinchaya,,,,,6.3
 2026-02-18,Chinoli,23.0,7.0,,,
 2026-02-18,Chipaya - GPRS,20.3,6.0,,,
 2026-02-18,Chirapaca,16.0,4.0,,,5.0
+2026-02-18,Chojñapata,,,,,7.3
 2026-02-18,Chorocona,,,,,18.3
 2026-02-18,Chua Cocani_M (GPRS),7.17,6.39,82.0,59.99,
 2026-02-18,Chuqui Chuqui,39.0,18.0,,,
@@ -9599,6 +9672,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-18,Cosapa,10.2,4.7,,,
 2026-02-18,Cotagaita (GPRS),18.64,13.1,69.88,31.2,
 2026-02-18,Cotagaita Mosoj Llajta,26.0,10.0,,,
+2026-02-18,Cruzpata (Escoma),,,,,0.2
 2026-02-18,Cuatro Cañadas - CEA-2 (GPRS),24.99,23.61,85.1,59.88,
 2026-02-18,Cuatro Cañadas - Colonia Chihuahua (GPRS),24.87,23.56,81.4,61.69,
 2026-02-18,Cuesta del Zorro (Catacora),,,,,11.3
@@ -9636,6 +9710,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-18,"PLM-T4, Pura pura",,,,,7.5
 2026-02-18,Padilla,27.0,13.0,,,
 2026-02-18,Palca_LP,20.0,6.0,,,3.8
+2026-02-18,Palmar Grande,41.0,20.0,,,
 2026-02-18,Palos Blancos_M (GPRS),23.13,22.48,99.99,67.67,
 2026-02-18,Pasankeri ,,,,,1.7
 2026-02-18,Patacamaya Iniaf (GPRS),7.3,4.7,84.3,37.2,
@@ -9753,11 +9828,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-19,Carura_M - Guanay (GPRS),21.36,20.49,86.39,60.12,
 2026-02-19,Catacora,,,,,2.5
 2026-02-19,Chacala Iniaf (GPRS),,,47.3,11.8,
+2026-02-19,Chasqui (Escoma),,,,,0.2
 2026-02-19,Chillca,18.0,3.1,,,
 2026-02-19,Chinchaya,,,,,7.2
 2026-02-19,Chinoli,23.1,8.2,,,
 2026-02-19,Chipaya - GPRS,21.1,4.1,,,
 2026-02-19,Chirapaca,15.0,2.0,,,
+2026-02-19,Chojñapata,,,,,1.5
 2026-02-19,Chorocona,,,,,3.1
 2026-02-19,Chua Cocani_M (GPRS),5.08,3.05,82.5,54.52,
 2026-02-19,Chuqui Chuqui,40.0,19.0,,,
@@ -9773,6 +9850,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-19,Cosapa,13.5,6.4,,,
 2026-02-19,Cotagaita (GPRS),14.66,12.55,63.65,30.9,
 2026-02-19,Cotagaita Mosoj Llajta,27.0,9.0,,,
+2026-02-19,Cruzpata (Escoma),,,,,11.6
 2026-02-19,Cuatro Cañadas - CEA-2 (GPRS),26.24,24.45,83.0,62.56,
 2026-02-19,Cuatro Cañadas - Colonia Chihuahua (GPRS),27.1,24.61,82.5,61.17,
 2026-02-19,Culpina,27.0,4.6,,,
@@ -9808,6 +9886,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-19,Omereque - SDC (GPRS),27.36,24.15,69.04,57.93,
 2026-02-19,Padilla,29.0,14.0,,,
 2026-02-19,Palca_LP,23.0,5.0,,,0.6
+2026-02-19,Palmar Grande,43.0,18.0,,,
 2026-02-19,Palos Blancos_M (GPRS),22.57,21.22,99.96,70.63,
 2026-02-19,Patacamaya Iniaf (GPRS),,,75.9,29.7,0.6
 2026-02-19,Peña Amarilla_H (SAT),,,,,1.2
@@ -9978,6 +10057,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-20,"PLM-T4, Pura pura",,,,,6.5
 2026-02-20,Padilla,27.0,7.0,,,
 2026-02-20,Palca_LP,23.0,7.0,,,
+2026-02-20,Palmar Grande,43.0,19.0,,,
 2026-02-20,Palos Blancos_M (GPRS),23.07,22.61,99.98,87.35,0.1
 2026-02-20,Patacamaya Iniaf (GPRS),,,78.2,34.9,
 2026-02-20,Pocohota - Jalsuri,,,,,5.2
@@ -10094,10 +10174,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-21,Carura_M - Guanay (GPRS),20.96,20.65,98.63,65.8,0.1
 2026-02-21,Cayarani,,,,,6.1
 2026-02-21,Chacala Iniaf (GPRS),,,64.2,28.0,
+2026-02-21,Chasqui (Escoma),,,,,2.1
 2026-02-21,Chillca,17.5,6.3,,,2.2
 2026-02-21,Chinoli,,,,,15.1
 2026-02-21,Chipaya - GPRS,21.5,5.2,,,
 2026-02-21,Chirapaca,14.0,1.0,,,
+2026-02-21,Chojñapata,,,,,6.3
 2026-02-21,Chua Cocani_M (GPRS),7.44,5.6,85.6,65.68,
 2026-02-21,Chuqui Chuqui,37.0,20.0,,,
 2026-02-21,Chuquiago,27.0,12.0,,,
@@ -10126,6 +10208,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-21,El Tejar (Tarija),,,,,12.4
 2026-02-21,El Villar,27.8,14.5,,,
 2026-02-21,Emborozu,,,,,65.0
+2026-02-21,Entre Rios (TJA),,,,,72.0
 2026-02-21,Guajara-Mirim - Guayaramerín,,,,,0.8
 2026-02-21,Guanay_H (GPRS),,,,,1.0
 2026-02-21,Guayaramerin_M (GPRS),24.38,23.67,100.0,73.37,
@@ -10160,6 +10243,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-21,Padilla,23.0,13.0,,,
 2026-02-21,Pajonal,,,,,72.0
 2026-02-21,Palca_LP,24.0,6.0,,,
+2026-02-21,Palmar Grande,35.0,23.0,,,
 2026-02-21,Palos Blancos_M (GPRS),22.0,21.22,99.98,81.23,
 2026-02-21,Patacamaya Iniaf (GPRS),,,83.9,35.9,
 2026-02-21,Pinos Sud,,,,,62.0
@@ -10285,6 +10369,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-22,Chinoli,22.2,8.0,,,
 2026-02-22,Chipaya - GPRS,21.5,7.3,,,
 2026-02-22,Chirapaca,15.0,3.0,,,
+2026-02-22,Chojñapata,,,,,1.2
 2026-02-22,Chorocona,,,,,2.1
 2026-02-22,Chua Cocani_M (GPRS),8.29,6.97,87.5,67.42,
 2026-02-22,Chuqui Chuqui,,,,,6.5
@@ -10301,6 +10386,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-22,Cotagaita (GPRS),16.05,12.65,91.5,51.04,
 2026-02-22,Cotagaita Mosoj Llajta,,,,,0.5
 2026-02-22,Cotagaita_H (GPRS),,,,,17.5
+2026-02-22,Cruzpata (Escoma),,,,,7.1
 2026-02-22,Cuatro Cañadas - CEA-2 (GPRS),25.97,24.92,93.3,69.13,
 2026-02-22,Cuatro Cañadas - Colonia Chihuahua (GPRS),26.18,24.42,89.6,70.4,
 2026-02-22,Culpina,23.0,10.9,,,
@@ -10314,6 +10400,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-22,El Tejar (Tarija),,,,,1.4
 2026-02-22,El Villar,27.5,15.0,,,
 2026-02-22,Emborozu,,,,,29.5
+2026-02-22,Entre Rios (TJA),,,,,5.0
 2026-02-22,Guajara-Mirim - Guayaramerín,,,,,3.7
 2026-02-22,Guanay_H (GPRS),,,,,1.7
 2026-02-22,Guayaramerin_M (GPRS),24.97,24.29,100.0,95.15,5.1
@@ -10349,6 +10436,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-22,Padilla,,,,,26.0
 2026-02-22,Pajonal,,,,,5.0
 2026-02-22,Palca_LP,26.0,7.0,,,
+2026-02-22,Palmar Grande,39.0,24.0,,,
 2026-02-22,Palos Blancos,,,,,50.3
 2026-02-22,Palos Blancos_M (GPRS),22.59,22.13,99.96,67.79,
 2026-02-22,Patacamaya Iniaf (GPRS),,,87.1,27.6,2.6
@@ -10477,11 +10565,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-23,Cayarani,,,,,4.3
 2026-02-23,Chacala Iniaf (GPRS),18.5,3.4,60.2,11.1,
 2026-02-23,Chaqui,,,,,0.4
+2026-02-23,Chasqui (Escoma),,,,,6.4
 2026-02-23,Chillca,20.0,2.5,,,
 2026-02-23,Chinchaya,,,,,6.0
 2026-02-23,Chinoli,21.4,7.2,,,
 2026-02-23,Chipaya - GPRS,21.2,4.1,,,
 2026-02-23,Chirapaca,14.0,3.0,,,
+2026-02-23,Chojñapata,,,,,5.5
 2026-02-23,Chua Cocani_M (GPRS),8.16,5.93,88.8,68.21,
 2026-02-23,Chuqui Chuqui,33.0,20.0,,,
 2026-02-23,Chuquiago,,,,,9.5
@@ -10499,6 +10589,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-23,Cosapa,10.4,6.4,,,
 2026-02-23,Cotagaita (GPRS),13.71,11.69,94.0,64.97,
 2026-02-23,Cotagaita Mosoj Llajta,,,,,16.0
+2026-02-23,Cruzpata (Escoma),,,,,1.0
 2026-02-23,Cuatro Cañadas - CEA-2 (GPRS),,,100.0,90.9,2.0
 2026-02-23,Cuatro Cañadas - Colonia Chihuahua (GPRS),23.79,23.43,100.0,100.0,9.4
 2026-02-23,Cuesta del Zorro (Catacora),,,,,4.8
@@ -10514,6 +10605,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-23,El Tejar (La Paz),,,,,1.9
 2026-02-23,El Villar,,,,,13.5
 2026-02-23,Emborozu,,,,,9.5
+2026-02-23,Entre Rios (TJA),,,,,3.5
 2026-02-23,Guajara-Mirim - Guayaramerín,,,,,6.1
 2026-02-23,Guanay_H (GPRS),,,,,2.9
 2026-02-23,Guayaramerin_M (GPRS),24.6,23.72,99.52,93.88,0.1
@@ -10552,6 +10644,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-23,Padilla,,,,,18.0
 2026-02-23,Pajonal,,,,,3.5
 2026-02-23,Palca_LP,26.0,7.0,,,0.6
+2026-02-23,Palmar Grande,30.0,20.0,,,86.5
 2026-02-23,Palos Blancos,,,,,96.2
 2026-02-23,Palos Blancos_M (GPRS),22.79,22.26,99.97,90.64,
 2026-02-23,Pasankeri ,,,,,2.7
@@ -10692,6 +10785,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-24,Chinoli,,,,,11.2
 2026-02-24,Chipaya - GPRS,18.9,6.3,,,
 2026-02-24,Chirapaca,15.0,2.0,,,1.8
+2026-02-24,Chojñapata,,,,,4.3
 2026-02-24,Chua Cocani_M (GPRS),8.56,5.73,83.4,74.59,
 2026-02-24,Chuqui Chuqui,,,,,14.9
 2026-02-24,Chuquiago,,,,,9.5
@@ -10709,6 +10803,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-24,Cosapa,13.0,4.5,,,
 2026-02-24,Cotagaita (GPRS),17.74,14.37,71.36,54.82,
 2026-02-24,Cotagaita Mosoj Llajta,25.9,14.0,,,
+2026-02-24,Cruzpata (Escoma),,,,,4.2
 2026-02-24,Cuatro Cañadas - CEA-2 (GPRS),25.18,23.41,99.0,95.3,6.2
 2026-02-24,Cuatro Cañadas - Colonia Chihuahua (GPRS),24.02,23.88,100.0,89.1,2.2
 2026-02-24,Culpina,,,,,6.3
@@ -10724,6 +10819,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-24,El Tejar (Tarija),,,,,19.8
 2026-02-24,El Villar,,,,,3.7
 2026-02-24,Emborozu,,,,,11.0
+2026-02-24,Entre Rios (TJA),,,,,19.0
 2026-02-24,Guajara-Mirim - Guayaramerín,,,,,2.5
 2026-02-24,Guanay_H (GPRS),,,,,9.9
 2026-02-24,Guayaramerin_M (GPRS),24.79,23.72,94.85,78.28,
@@ -10763,6 +10859,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-24,Pairumani,,,,,30.2
 2026-02-24,Pajonal,,,,,19.0
 2026-02-24,Palca_LP,22.0,8.0,,,0.9
+2026-02-24,Palmar Grande,30.0,20.0,,,4.5
 2026-02-24,Palos Blancos,,,,,40.2
 2026-02-24,Palos Blancos_M (GPRS),23.28,22.86,99.98,71.67,0.1
 2026-02-24,Pampas de Lequezana,,,,,25.8
@@ -10899,11 +10996,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-25,Cayarani,,,,,4.3
 2026-02-25,Chacala Iniaf (GPRS),,,58.3,18.8,
 2026-02-25,Chaqui,,,,,17.4
+2026-02-25,Chasqui (Escoma),,,,,14.0
 2026-02-25,Chillca,20.0,5.2,,,
 2026-02-25,Chinchaya,,,,,2.0
 2026-02-25,Chinoli,18.0,6.2,,,
 2026-02-25,Chipaya - GPRS,19.0,2.0,,,
 2026-02-25,Chirapaca,15.0,3.0,,,
+2026-02-25,Chojñapata,,,,,2.5
 2026-02-25,Chua Cocani_M (GPRS),9.8,6.59,90.1,70.62,
 2026-02-25,Chuqui Chuqui,,,,,2.1
 2026-02-25,Chuquiago,,,,,27.5
@@ -10919,6 +11018,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-25,Cosapa,19.2,5.7,,,
 2026-02-25,Cotagaita (GPRS),14.53,12.54,69.76,49.57,
 2026-02-25,Cotagaita Mosoj Llajta,25.0,9.0,,,
+2026-02-25,Cruzpata (Escoma),,,,,5.6
 2026-02-25,Cuatro Cañadas - CEA-2 (GPRS),26.46,23.08,100.0,79.41,
 2026-02-25,Cuatro Cañadas - Colonia Chihuahua (GPRS),23.89,23.11,100.0,100.0,0.8
 2026-02-25,Culpina,,,,,0.1
@@ -10968,6 +11068,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-25,Padilla,,,,,2.5
 2026-02-25,Pairumani,,,,,7.0
 2026-02-25,Palca_LP,21.0,9.0,,,10.7
+2026-02-25,Palmar Grande,32.0,20.0,,,6.4
 2026-02-25,Palos Blancos,,,,,3.0
 2026-02-25,Palos Blancos_M (GPRS),24.17,23.61,99.98,99.92,53.0
 2026-02-25,Pasankeri ,,,,,4.6
@@ -11090,11 +11191,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-26,Caranavi,35.0,20.0,,,
 2026-02-26,Carura_M - Guanay (GPRS),19.37,19.17,91.28,65.86,0.4
 2026-02-26,Chacala Iniaf (GPRS),,,61.9,24.6,
+2026-02-26,Chasqui (Escoma),,,,,0.7
 2026-02-26,Chillca,18.2,3.0,,,
 2026-02-26,Chinchaya,,,,,1.2
 2026-02-26,Chinoli,20.2,6.8,,,
 2026-02-26,Chipaya - GPRS,22.2,4.6,,,
 2026-02-26,Chirapaca,16.0,2.0,,,
+2026-02-26,Chojñapata,,,,,0.8
 2026-02-26,Chua Cocani_M (GPRS),7.96,5.93,76.77,62.73,
 2026-02-26,Chuqui Chuqui,34.0,20.0,,,
 2026-02-26,Chuquiago,27.0,7.0,,,
@@ -11109,6 +11212,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-26,Cosapa,19.4,6.0,,,
 2026-02-26,Cotagaita (GPRS),14.0,12.32,68.4,52.49,
 2026-02-26,Cotagaita Mosoj Llajta,27.0,13.0,,,
+2026-02-26,Cruzpata (Escoma),,,,,2.4
 2026-02-26,Cuatro Cañadas - CEA-2 (GPRS),29.88,23.49,99.4,76.74,
 2026-02-26,Cuatro Cañadas - Colonia Chihuahua (GPRS),24.23,23.7,99.4,87.0,
 2026-02-26,Culpina,22.6,6.2,,,
@@ -11136,6 +11240,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-26,La Barranca  (Chuquisaca),23.0,11.0,,,
 2026-02-26,La Merced,29.0,14.0,,,
 2026-02-26,La Torre,28.0,14.0,,,
+2026-02-26,La Violeta,,,,,21.0
 2026-02-26,Laguna Colorada (GPRS),4.28,0.58,76.92,47.03,
 2026-02-26,Laykacota,24.8,6.5,,,
 2026-02-26,Llallagua,19.6,6.0,,,
@@ -11146,6 +11251,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-26,Omereque - SDC (GPRS),22.51,18.91,81.7,77.57,
 2026-02-26,Padilla,24.0,8.0,,,
 2026-02-26,Palca_LP,25.0,6.0,,,
+2026-02-26,Palmar Grande,35.0,19.0,,,11.5
 2026-02-26,Palos Blancos_M (GPRS),20.42,19.99,99.98,74.19,
 2026-02-26,Patacamaya Iniaf (GPRS),20.3,4.6,76.9,21.3,
 2026-02-26,Peña Amarilla_H (SAT),,,,,0.2
@@ -11310,6 +11416,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-27,Omereque - SDC (GPRS),24.17,20.86,79.13,72.92,
 2026-02-27,Padilla,,,,,0.9
 2026-02-27,Palca_LP,27.0,8.0,,,
+2026-02-27,Palmar Grande,37.0,19.0,,,
 2026-02-27,Palos Blancos_M (GPRS),21.14,20.39,,,
 2026-02-27,Pampas de Lequezana,,,,,19.8
 2026-02-27,Patacamaya Iniaf (GPRS),8.2,6.5,74.3,40.2,
@@ -11418,6 +11525,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-28,Chinoli,23.0,7.2,,,
 2026-02-28,Chipaya - GPRS,21.3,0.7,62.0,7.0,
 2026-02-28,Chirapaca,16.0,4.0,,,
+2026-02-28,Chojñapata,,,,,2.5
 2026-02-28,Chua Cocani_M (GPRS),8.62,7.11,84.6,68.34,
 2026-02-28,Chuqui Chuqui,37.0,21.0,,,
 2026-02-28,Chuquiago,27.0,9.0,,,
@@ -11443,6 +11551,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-28,El Tejar (Tarija),,,,,1.3
 2026-02-28,El Villar,23.8,13.0,,,
 2026-02-28,Emborozu,,,,,85.5
+2026-02-28,Entre Rios (TJA),,,,,8.0
 2026-02-28,Guanay_H (GPRS),,,,,3.0
 2026-02-28,Guayaramerin_M (GPRS),24.96,24.01,97.05,72.7,
 2026-02-28,Hichucota,11.0,3.0,,,4.4
@@ -11473,6 +11582,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-02-28,Padilla,,,,,2.7
 2026-02-28,Pajonal,,,,,8.0
 2026-02-28,Palca_LP,25.0,9.0,,,
+2026-02-28,Palmar Grande,27.0,20.0,,,
 2026-02-28,Pampas de Lequezana,,,,,25.0
 2026-02-28,Pasankeri ,,,,,0.2
 2026-02-28,Patacamaya Iniaf (GPRS),20.0,2.5,65.4,10.1,
@@ -11579,6 +11689,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-01,Culta San Pedro de Totora,17.9,3.8,,,
 2026-03-01,Desaguadero_M,8.94,6.33,68.36,54.49,
 2026-03-01,El Puente_H (GPRS),,,,,0.2
+2026-03-01,El Reloj,,,,,3.5
 2026-03-01,Guayaramerin_M (GPRS),24.33,23.34,100.0,80.36,
 2026-03-01,Huancane Corapata_M (GPRS),5.74,2.39,82.9,56.8,
 2026-03-01,Huarisuyo (GPRS),4.15,1.34,92.3,61.02,
@@ -11605,6 +11716,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-01,Quetenas (GPRS),6.28,2.06,48.19,36.49,
 2026-03-01,Redencion Pampa,,,,,25.0
 2026-03-01,Río Chilenas (GPRS),13.32,-3.08,66.17,13.28,
+2026-03-01,Sacabaya,22.0,-5.1,,,
 2026-03-01,Sacacani_M (GPRS),3.55,0.66,79.45,54.28,
 2026-03-01,Salinas Iniaf (GPRS),20.1,1.6,42.1,24.9,
 2026-03-01,Salo_M (GPRS),9.52,5.46,58.13,26.0,
@@ -11638,11 +11750,15 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-01,Viacha_M (GPRS),4.53,1.21,88.4,47.64,
 2026-03-01,Vila Vila - SDC (GPRS),11.89,10.96,73.06,56.04,
 2026-03-01,Villa Rivero_M (GPRS),13.71,9.75,66.63,39.6,
+2026-03-01,Villa Serrano,,,,,1.0
 2026-03-01,Villa Tunari_H (GPRS),,,,,9.9
 2026-03-01,Villazon,,,,,1.0
 2026-03-01,Viscachas Chirage (GPRS),4.97,3.66,89.2,68.29,
 2026-03-01,Vivero Chimboco - SDC (GPRS),15.85,12.65,60.31,42.27,
 2026-03-01,Vivero Viloma - SDC (GPRS),16.08,13.8,48.76,0.1,
+2026-03-01,Viña Quemada,,,,,1.2
+2026-03-01,Yesera Norte,22.0,12.0,,,
+2026-03-01,Ñucchu,,,,,1.0
 2026-03-02, Paniagua_M (GPRS),20.96,19.25,87.53,65.6,
 2026-03-02,4 Esquinas (GPRS),3.84,0.72,90.7,55.08,
 2026-03-02,Aguadas (GPRS),4.33,0.69,90.4,52.12,
@@ -11666,6 +11782,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-02,Culta Challapata,20.5,-1.0,,,
 2026-03-02,Culta San Pedro de Totora,18.5,2.2,,,
 2026-03-02,Desaguadero_M,6.91,4.69,92.3,59.82,
+2026-03-02,Emborozu,,,,,4.5
 2026-03-02,Guajara-Mirim - Guayaramerín,,,,,5.8
 2026-03-02,Guayaramerin_M (GPRS),25.26,24.69,100.0,79.73,
 2026-03-02,Huancane Corapata_M (GPRS),7.25,3.9,79.3,53.33,
@@ -11675,12 +11792,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-02,Ixiamas S.(GPRS),22.7,22.0,100.0,96.1,0.2
 2026-03-02,Ixiamas_M (GPRS),21.87,21.44,98.93,70.51,
 2026-03-02,Jesús de Machaca_M (GPRS),7.19,0.61,86.2,48.51,
+2026-03-02,La Violeta,,,,,6.5
 2026-03-02,Laguna Colorada (GPRS),4.19,-0.72,51.37,31.84,
 2026-03-02,Mecapaca_M (GPRS),15.01,12.99,82.28,39.08,
 2026-03-02,Mizque - SDC (GPRS),16.02,13.34,93.8,53.43,
 2026-03-02,Okinawa I,,,,,82.0
 2026-03-02,Omereque - SDC (GPRS),23.61,21.72,80.8,72.43,
 2026-03-02,Patacamaya Iniaf (GPRS),8.9,6.3,78.1,65.7,
+2026-03-02,Pocohota - Jalsuri,,,,,5.2
 2026-03-02,Pocona - SDC (GPRS),12.23,9.29,91.0,44.98,
 2026-03-02,Pojo - SDC (GPRS),17.61,14.73,69.94,46.89,
 2026-03-02,Porvenir_H (SAT),,,,,1.0
@@ -11691,10 +11810,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-02,Putucuni Calientes (GPRS),3.27,1.43,98.1,66.45,
 2026-03-02,Quetenas (GPRS),5.94,0.39,41.44,26.63,
 2026-03-02,Río Chilenas (GPRS),16.03,-2.2,66.42,11.06,
+2026-03-02,Sacabaya,22.0,-5.0,,,
 2026-03-02,Sacacani_M (GPRS),7.29,1.91,88.3,46.92,
 2026-03-02,Salinas Iniaf (GPRS),10.7,8.6,57.3,48.8,
 2026-03-02,Salo_M (GPRS),8.53,3.76,57.86,20.73,
 2026-03-02,San Antonio - Los Ángeles (GPRS),24.92,23.72,94.7,74.79,
+2026-03-02,San Benito,,,,,1.0
 2026-03-02,San Buenaventura_M (GPRS),23.6,22.57,99.89,75.71,
 2026-03-02,San Jacinto_M (GPRS),16.21,14.14,93.4,58.38,
 2026-03-02,San Juan de Yapacaní,,,,,1.0
@@ -11706,6 +11827,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-02,San Pedro - Río Victoria (GPRS),24.96,23.61,93.3,74.81,
 2026-03-02,San Pedro de Tiquina_M (GPRS),9.66,7.76,70.43,57.47,
 2026-03-02,Sarco,,,,,11.5
+2026-03-02,Sucre SENAMHI,27.0,10.5,,,
 2026-03-02,Sultaca_M (GPRS),8.13,7.1,63.29,41.26,
 2026-03-02,Sunjani (GPRS),5.04,1.33,88.2,56.46,
 2026-03-02,Tarapaya,,,,,4.0
@@ -11725,6 +11847,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-02,Viscachas Chirage (GPRS),4.64,3.38,83.1,60.42,
 2026-03-02,Vivero Chimboco - SDC (GPRS),11.8,9.76,74.07,35.84,
 2026-03-02,Vivero Viloma - SDC (GPRS),12.65,9.17,48.73,0.08,
+2026-03-02,Yesera Norte,27.0,11.0,,,
 2026-03-03, Paniagua_M (GPRS),22.19,20.94,92.47,61.16,18.3
 2026-03-03,4 Esquinas (GPRS),2.65,0.89,81.8,46.7,
 2026-03-03,Abapo_H (SAT),,,,,28.4
@@ -11761,11 +11884,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-03,Ixiamas S.(GPRS),24.9,23.9,99.5,88.1,4.4
 2026-03-03,Ixiamas_M (GPRS),24.03,23.3,98.08,77.43,
 2026-03-03,Jesús de Machaca_M (GPRS),4.51,-0.49,55.83,33.36,0.3
+2026-03-03,Juntas,,,,,5.8
 2026-03-03,La Asunta_H (GPRS),,,,,6.6
 2026-03-03,Laguna Colorada (GPRS),3.02,-0.01,52.13,14.73,
 2026-03-03,Mecapaca_M (GPRS),15.24,12.22,100.0,45.77,0.3
 2026-03-03,Mizque - SDC (GPRS),15.24,13.02,92.8,48.26,
+2026-03-03,Muyuquiri,,,,,12.0
 2026-03-03,Omereque - SDC (GPRS),26.16,21.68,79.33,74.52,
+2026-03-03,Padilla,,,,,2.0
 2026-03-03,Patacamaya Iniaf (GPRS),8.7,8.2,76.1,27.9,
 2026-03-03,Peña Amarilla_H (SAT),,,,,4.8
 2026-03-03,Pocona - SDC (GPRS),17.43,16.05,58.41,39.92,1.6
@@ -11775,6 +11901,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-03,Putucuni Calientes (GPRS),5.46,2.47,89.0,61.58,0.7
 2026-03-03,Quetenas (GPRS),6.32,2.3,21.4,9.13,
 2026-03-03,Río Chilenas (GPRS),16.71,-2.93,58.42,10.99,
+2026-03-03,Sacabaya,22.5,-1.5,,,
 2026-03-03,Sacacani_M (GPRS),3.23,0.86,90.3,40.67,
 2026-03-03,Salinas Iniaf (GPRS),7.6,5.5,34.1,17.5,
 2026-03-03,Salo_M (GPRS),11.44,6.51,54.04,19.36,
@@ -11789,6 +11916,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-03,San Pedro - Río Victoria (GPRS),25.36,24.91,90.2,77.07,
 2026-03-03,San Pedro de Tiquina_M (GPRS),8.88,7.44,73.04,65.54,
 2026-03-03,Sena_H (SAT),,,,,9.0
+2026-03-03,Sucre SENAMHI,29.0,13.6,,,
 2026-03-03,Sultaca_M (GPRS),11.63,9.96,65.48,41.69,
 2026-03-03,Sunjani (GPRS),3.0,1.3,81.1,47.93,0.1
 2026-03-03,Templo (GPRS),4.33,2.06,84.3,44.37,
@@ -11806,6 +11934,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-03,Viscachas Chirage (GPRS),4.34,2.87,78.18,54.69,
 2026-03-03,Vivero Chimboco - SDC (GPRS),13.86,11.79,46.81,33.05,
 2026-03-03,Vivero Viloma - SDC (GPRS),16.61,10.37,48.44,0.08,
+2026-03-03,Yesera Norte,27.0,11.0,,,
 2026-03-04, Paniagua_M (GPRS),23.14,18.64,99.75,71.24,
 2026-03-04,4 Esquinas (GPRS),6.73,4.48,86.7,60.67,
 2026-03-04,Abapo_H (SAT),,,,,28.4
@@ -11831,6 +11960,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-04,Culta San Pedro de Totora,19.5,1.3,,,
 2026-03-04,Desaguadero_M,10.95,6.91,81.7,62.24,
 2026-03-04,El Común Caraparí,,,,,4.5
+2026-03-04,Emborozu,,,,,40.0
 2026-03-04,Guanay_H (GPRS),,,,,1.0
 2026-03-04,Guayaramerin_M (GPRS),24.75,24.3,100.0,86.5,0.2
 2026-03-04,Huancane Corapata_M (GPRS),6.52,3.43,94.5,63.55,
@@ -11841,13 +11971,16 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-04,Ixiamas S.(GPRS),29.3,23.8,100.0,79.1,0.2
 2026-03-04,Ixiamas_M (GPRS),23.26,22.47,98.88,82.97,0.1
 2026-03-04,Jesús de Machaca_M (GPRS),5.16,2.68,94.7,49.68,
+2026-03-04,Juntas,,,,,3.1
 2026-03-04,La Torre,,,,,15.0
 2026-03-04,Laguna Colorada (GPRS),6.11,-0.92,39.16,21.19,
 2026-03-04,Mecapaca_M (GPRS),15.28,12.65,100.0,46.85,
 2026-03-04,Mizque - SDC (GPRS),18.24,16.27,71.05,48.6,
 2026-03-04,Omereque - SDC (GPRS),25.82,22.4,77.36,66.96,
+2026-03-04,Padilla,,,,,21.0
 2026-03-04,Patacamaya Iniaf (GPRS),20.9,5.6,81.5,27.0,
 2026-03-04,Peña Amarilla_H (SAT),,,,,6.0
+2026-03-04,Pinos Sud,,,,,42.1
 2026-03-04,Pocona - SDC (GPRS),14.87,13.18,73.78,46.85,
 2026-03-04,Pojo - SDC (GPRS),19.52,17.94,85.8,61.49,
 2026-03-04,Porvenir_H (SAT),,,,,0.8
@@ -11855,7 +11988,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-04,Putucuni Calientes (GPRS),5.15,2.05,98.8,66.68,
 2026-03-04,Quetenas (GPRS),6.01,2.22,44.22,31.91,
 2026-03-04,Ravelo,,,,,20.0
+2026-03-04,Rosario del Ingre,,,,,12.0
 2026-03-04,Río Chilenas (GPRS),16.09,0.61,77.41,8.11,
+2026-03-04,Sacabaya,23.0,-1.5,,,
 2026-03-04,Sacacani_M (GPRS),4.38,2.71,88.6,52.39,
 2026-03-04,Salinas Iniaf (GPRS),21.1,6.5,48.7,14.2,
 2026-03-04,Salo_M (GPRS),13.48,10.64,59.54,38.28,0.9
@@ -11870,6 +12005,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-04,San Pedro - Río Victoria (GPRS),24.4,23.42,93.0,80.8,
 2026-03-04,San Pedro de Tiquina_M (GPRS),9.86,7.44,70.9,56.16,
 2026-03-04,Sena_H (SAT),,,,,10.8
+2026-03-04,Sucre SENAMHI,25.0,14.5,,,
 2026-03-04,Sultaca_M (GPRS),8.16,6.96,72.59,37.46,
 2026-03-04,Sunjani (GPRS),7.5,5.53,89.4,59.64,
 2026-03-04,Templo (GPRS),5.19,2.95,95.6,63.71,
@@ -11886,6 +12022,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-04,Viscachas Chirage (GPRS),8.57,5.65,80.1,55.23,
 2026-03-04,Vivero Chimboco - SDC (GPRS),16.2,14.06,56.45,42.39,
 2026-03-04,Vivero Viloma - SDC (GPRS),16.12,15.1,53.63,0.05,
+2026-03-04,Yesera Norte,25.0,12.0,,,0.1
 2026-03-05, Paniagua_M (GPRS),21.1,19.13,96.37,83.46,9.7
 2026-03-05,4 Esquinas (GPRS),6.7,5.15,79.29,64.69,
 2026-03-05,Abapo_H (SAT),,,,,2.0
@@ -11910,11 +12047,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-05,Cotagaita_H (GPRS),,,,,8.1
 2026-03-05,Cuatro Cañadas - CEA-2 (GPRS),25.32,24.66,97.0,82.1,
 2026-03-05,Cuatro Cañadas - Colonia Chihuahua (GPRS),25.32,24.61,94.9,70.02,
+2026-03-05,Culpina,,,,,5.5
 2026-03-05,Culta Challapata,15.0,4.2,,,
 2026-03-05,Culta San Pedro de Totora,18.6,-2.8,,,
 2026-03-05,Desaguadero_M,9.43,8.55,89.8,66.07,4.0
 2026-03-05,El Común Caraparí,,,,,63.8
+2026-03-05,El Reloj,,,,,1.0
 2026-03-05,El Villar,,,,,18.0
+2026-03-05,Emborozu,,,,,6.0
 2026-03-05,Guajara-Mirim - Guayaramerín,,,,,20.3
 2026-03-05,Guanay_H (GPRS),,,,,1.0
 2026-03-05,Guayaramerin_M (GPRS),23.68,23.31,100.0,87.2,4.2
@@ -11929,10 +12069,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-05,Laguna Colorada (GPRS),1.15,-2.73,52.03,36.46,
 2026-03-05,Mecapaca_M (GPRS),15.27,14.15,90.11,48.47,
 2026-03-05,Mizque - SDC (GPRS),17.46,14.45,87.0,65.26,
+2026-03-05,Nuevo Mundo,,,,,61.0
 2026-03-05,Omereque - SDC (GPRS),25.27,22.12,74.82,66.38,
 2026-03-05,Palos Blancos_M (GPRS),33.18,22.11,96.16,68.18,
 2026-03-05,Patacamaya Iniaf (GPRS),9.3,8.0,71.6,59.8,1.8
 2026-03-05,Peña Amarilla_H (SAT),,,,,36.8
+2026-03-05,Pinos Sud,,,,,31.2
 2026-03-05,Pocona - SDC (GPRS),15.4,13.23,85.3,46.67,
 2026-03-05,Pojo - SDC (GPRS),16.83,16.13,81.3,51.96,
 2026-03-05,Porvenir_H (SAT),,,,,0.4
@@ -11941,11 +12083,15 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-05,Punilla,,,,,18.4
 2026-03-05,Putucuni Calientes (GPRS),4.72,3.68,98.9,63.65,0.1
 2026-03-05,Quetenas (GPRS),4.39,1.27,49.4,21.98,
+2026-03-05,Rosario del Ingre,,,,,20.0
 2026-03-05,Río Chilenas (GPRS),3.45,-0.4,74.15,13.46,
+2026-03-05,Sacabaya,23.0,-1.3,,,
 2026-03-05,Sacacani_M (GPRS),8.87,5.65,76.61,51.61,0.1
+2026-03-05,Sachapera,,,,,27.9
 2026-03-05,Salinas Iniaf (GPRS),9.6,7.0,33.6,29.6,
 2026-03-05,Salo_M (GPRS),7.85,5.29,94.68,52.34,5.4
 2026-03-05,Samaipata,,,,,15.0
+2026-03-05,Samasa,,,,,1.2
 2026-03-05,San Antonio - Los Ángeles (GPRS),25.19,24.47,91.5,73.92,
 2026-03-05,San Jacinto_M (GPRS),16.15,15.25,98.3,83.1,0.1
 2026-03-05,San Juan de Yapacaní,,,,,26.4
@@ -11971,12 +12117,16 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-05,Totora Qhocha_M,7.05,5.67,81.5,71.5,
 2026-03-05,Totora i_M (GPRS),8.32,6.71,98.34,49.06,11.2
 2026-03-05,Tupiza_1_H (GPRS),,,,,8.3
+2026-03-05,Urriolagoytia,,,,,30.0
 2026-03-05,Viacha_M (GPRS),7.67,5.25,83.6,49.67,
 2026-03-05,Vila Vila - SDC (GPRS),16.3,12.85,78.74,61.32,
+2026-03-05,Villa Alcala,,,,,46.5
 2026-03-05,Villa Rivero_M (GPRS),12.99,10.98,65.92,36.61,
+2026-03-05,Villa Serrano,,,,,50.0
 2026-03-05,Viscachas Chirage (GPRS),7.64,6.39,84.2,68.71,
 2026-03-05,Vivero Chimboco - SDC (GPRS),14.99,13.1,60.07,46.38,
 2026-03-05,Vivero Viloma - SDC (GPRS),17.39,14.45,58.4,0.04,
+2026-03-05,Yesera Norte,25.0,14.0,,,4.2
 2026-03-06, Paniagua_M (GPRS),21.38,20.25,99.72,89.14,2.3
 2026-03-06,4 Esquinas (GPRS),7.35,5.36,88.1,62.87,
 2026-03-06,Aguadas (GPRS),7.15,5.84,87.2,55.03,0.5
@@ -12004,6 +12154,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-06,Culta San Pedro de Totora,16.4,-2.6,,,
 2026-03-06,Desaguadero_M,10.44,8.02,89.0,62.11,2.6
 2026-03-06,El Común Caraparí,,,,,18.2
+2026-03-06,El Reloj,,,,,2.5
+2026-03-06,Emborozu,,,,,62.0
 2026-03-06,Guanay_H (GPRS),,,,,6.5
 2026-03-06,Guayaramerin_M (GPRS),23.83,23.43,100.0,81.46,
 2026-03-06,Huancane Corapata_M (GPRS),5.27,1.79,82.8,61.8,0.3
@@ -12014,27 +12166,35 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-06,Ixiamas S.(GPRS),23.6,23.3,100.0,95.7,1.8
 2026-03-06,Ixiamas_M (GPRS),23.95,22.53,98.88,80.27,9.3
 2026-03-06,Jesús de Machaca_M (GPRS),8.48,2.76,98.3,65.19,
+2026-03-06,Juntas,,,,,19.6
 2026-03-06,La Asunta_H (GPRS),,,,,4.8
 2026-03-06,La Torre,,,,,3.0
+2026-03-06,La Violeta,,,,,6.6
 2026-03-06,Laguna Colorada (GPRS),4.28,-3.13,51.56,29.83,
+2026-03-06,Llallagua,,,,,3.1
 2026-03-06,MONTERO GUABIRA CIMAR,,,,,31.0
 2026-03-06,Mecapaca_M (GPRS),13.9,12.57,100.0,54.39,
 2026-03-06,Mizque - SDC (GPRS),19.16,16.16,71.91,49.49,
 2026-03-06,Okinawa I,,,,,5.2
 2026-03-06,Omereque - SDC (GPRS),24.22,21.67,71.79,69.55,
+2026-03-06,Padilla,,,,,3.0
 2026-03-06,Palos Blancos_M (GPRS),22.61,21.98,99.97,76.11,0.1
 2026-03-06,Patacamaya Iniaf (GPRS),,,88.3,31.3,
 2026-03-06,Peña Amarilla_H (SAT),,,,,12.6
 2026-03-06,Pico de loro_H- SDC (GPRS),,,,,1.0
+2026-03-06,Pinos Sud,,,,,23.2
 2026-03-06,Pocona - SDC (GPRS),15.4,13.95,76.91,44.0,0.7
 2026-03-06,Pojo - SDC (GPRS),17.91,17.15,81.4,57.84,
 2026-03-06,Porvenir_H (SAT),,,,,0.6
 2026-03-06,Presa Misicuni (GPRS),8.33,6.58,89.6,58.29,
+2026-03-06,Puente Sucre,,,,,20.0
 2026-03-06,Putucuni Calientes (GPRS),4.82,3.49,99.0,76.36,4.5
 2026-03-06,Quetenas (GPRS),5.22,-1.13,47.51,22.89,
 2026-03-06,Ravelo,,,,,18.0
 2026-03-06,Río Chilenas (GPRS),4.67,-0.93,70.91,8.29,
+2026-03-06,Sacabaya,20.6,0.6,,,4.3
 2026-03-06,Sacacani_M (GPRS),6.57,4.93,79.13,59.12,
+2026-03-06,Sachapera,,,,,17.0
 2026-03-06,Salinas Iniaf (GPRS),11.5,9.2,50.6,48.1,
 2026-03-06,Salo_M (GPRS),12.0,8.89,64.93,46.56,
 2026-03-06,Samaipata,,,,,6.5
@@ -12062,12 +12222,16 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-06,Toralapa Iniaf (GPRS),,,98.6,57.4,0.2
 2026-03-06,Totora Qhocha_M,7.31,6.65,86.3,70.14,7.8
 2026-03-06,Totora i_M (GPRS),13.8,10.1,61.66,47.91,
+2026-03-06,Urriolagoytia,,,,,20.0
 2026-03-06,Viacha_M (GPRS),7.21,4.2,81.7,57.44,
 2026-03-06,Vila Vila - SDC (GPRS),15.91,14.41,76.54,63.35,
+2026-03-06,Villa Alcala,,,,,2.5
 2026-03-06,Villa Rivero_M (GPRS),14.5,12.55,70.3,43.58,
+2026-03-06,Villa Serrano,,,,,15.8
 2026-03-06,Viscachas Chirage (GPRS),8.21,6.5,83.8,60.54,
 2026-03-06,Vivero Chimboco - SDC (GPRS),16.79,15.77,64.99,46.36,
 2026-03-06,Vivero Viloma - SDC (GPRS),16.69,14.88,66.55,0.08,
+2026-03-06,Yesera Norte,27.0,14.0,,,14.2
 2026-03-07, Paniagua_M (GPRS),20.55,18.97,95.26,67.5,3.9
 2026-03-07,4 Esquinas (GPRS),7.04,5.44,82.1,63.65,
 2026-03-07,Aguadas (GPRS),7.13,5.24,78.33,51.88,
@@ -12088,11 +12252,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-07,Cotagaita (GPRS),16.68,13.65,70.32,47.45,
 2026-03-07,Cuatro Cañadas - CEA-2 (GPRS),32.41,24.46,93.1,77.78,
 2026-03-07,Cuatro Cañadas - Colonia Chihuahua (GPRS),24.87,24.15,94.9,76.71,
+2026-03-07,Culpina,,,,,0.2
 2026-03-07,Culta Challapata,16.0,3.5,,,11.3
 2026-03-07,Culta San Pedro de Totora,16.5,1.5,,,1.3
 2026-03-07,Desaguadero_M,9.2,7.89,85.9,63.54,2.7
 2026-03-07,El Común Caraparí,,,,,38.2
 2026-03-07,El Puente_H (GPRS),,,,,12.4
+2026-03-07,Emborozu,,,,,140.0
 2026-03-07,Guajara-Mirim - Guayaramerín,,,,,0.9
 2026-03-07,Guanay_H (GPRS),,,,,17.7
 2026-03-07,Guayaramerin_M (GPRS),24.56,24.41,100.0,78.09,1.5
@@ -12104,8 +12270,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-07,Ixiamas S.(GPRS),28.9,22.7,100.0,80.2,0.4
 2026-03-07,Ixiamas_M (GPRS),23.59,22.11,98.85,86.88,
 2026-03-07,Jesús de Machaca_M (GPRS),9.07,5.22,84.0,54.24,2.4
+2026-03-07,Juntas,,,,,14.5
 2026-03-07,La Asunta_H (GPRS),,,,,1.5
 2026-03-07,Laguna Colorada (GPRS),3.16,-0.99,51.58,12.84,
+2026-03-07,Llallagua,,,,,13.5
 2026-03-07,MONTERO GUABIRA CIMAR,,,,,112.0
 2026-03-07,Mecapaca_M (GPRS),15.02,12.91,100.0,44.86,
 2026-03-07,Mizque - SDC (GPRS),19.49,14.45,85.4,52.64,
@@ -12114,6 +12282,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-07,Palos Blancos_M (GPRS),23.46,23.32,99.98,69.31,0.2
 2026-03-07,Patacamaya Iniaf (GPRS),17.0,6.9,91.7,34.8,0.6
 2026-03-07,Peña Amarilla_H (SAT),,,,,0.6
+2026-03-07,Pinos Sud,,,,,10.3
+2026-03-07,Pocohota - Jalsuri,,,,,5.1
 2026-03-07,Pocona - SDC (GPRS),15.14,13.56,84.2,47.58,
 2026-03-07,Pojo - SDC (GPRS),17.35,16.41,81.7,57.57,
 2026-03-07,Porvenir_H (SAT),,,,,0.6
@@ -12122,9 +12292,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-07,Putucuni Calientes (GPRS),4.6,2.91,88.8,68.97,7.0
 2026-03-07,Quetenas (GPRS),6.92,0.22,37.23,21.78,
 2026-03-07,Río Chilenas (GPRS),2.98,-1.26,56.22,12.06,
+2026-03-07,Sacabaya,22.0,2.5,,,
 2026-03-07,Sacacani_M (GPRS),6.24,4.87,90.9,61.44,5.2
+2026-03-07,Sachapera,,,,,25.3
 2026-03-07,Salinas Iniaf (GPRS),20.4,8.3,61.9,16.6,
 2026-03-07,Salo_M (GPRS),12.74,8.35,67.23,42.06,0.3
+2026-03-07,Samasa,,,,,1.4
 2026-03-07,San Antonio - Los Ángeles (GPRS),23.82,23.22,96.7,89.9,
 2026-03-07,San Buenaventura_M (GPRS),24.24,23.02,99.87,82.21,
 2026-03-07,San Jacinto_M (GPRS),16.22,13.97,93.7,65.89,0.1
@@ -12136,6 +12309,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-07,San Pedro - Río Victoria (GPRS),25.03,24.54,90.3,81.7,
 2026-03-07,San Pedro de Tiquina_M (GPRS),7.3,6.46,71.29,64.77,12.1
 2026-03-07,Sena_H (SAT),,,,,4.0
+2026-03-07,Sucre SENAMHI,25.0,13.5,,,
 2026-03-07,Sultaca_M (GPRS),9.63,9.03,87.53,59.57,
 2026-03-07,Sunjani (GPRS),7.43,3.89,88.2,69.61,6.9
 2026-03-07,Tarabuco,,,,,5.6
@@ -12157,6 +12331,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-07,Viscachas Chirage (GPRS),8.08,7.27,84.2,67.63,
 2026-03-07,Vivero Chimboco - SDC (GPRS),17.94,15.28,63.3,41.12,
 2026-03-07,Vivero Viloma - SDC (GPRS),17.29,14.67,60.43,0.17,
+2026-03-07,Yesera Norte,24.0,14.0,,,26.4
+2026-03-07,Ñucchu,,,,,1.0
 2026-03-08, Paniagua_M (GPRS),21.26,20.55,97.24,58.85,
 2026-03-08,4 Esquinas (GPRS),6.54,3.58,87.9,59.42,
 2026-03-08,Abapo_H (SAT),,,,,16.8
@@ -12179,10 +12355,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-08,Cotagaita_H (GPRS),,,,,1.5
 2026-03-08,Cuatro Cañadas - CEA-2 (GPRS),29.19,24.33,98.8,83.1,2.4
 2026-03-08,Cuatro Cañadas - Colonia Chihuahua (GPRS),24.75,24.15,95.8,75.14,1.4
+2026-03-08,Culpina,,,,,0.4
 2026-03-08,Culta Challapata,17.5,2.2,,,1.5
 2026-03-08,Culta San Pedro de Totora,18.4,2.4,,,
 2026-03-08,Desaguadero_M,7.89,4.89,81.9,52.48,
 2026-03-08,El Común Caraparí,,,,,3.5
+2026-03-08,El Reloj,,,,,3.5
+2026-03-08,Emborozu,,,,,16.0
 2026-03-08,Guayaramerin_M (GPRS),24.78,24.04,99.44,67.38,
 2026-03-08,Huancane Corapata_M (GPRS),6.13,5.02,84.7,66.23,
 2026-03-08,Huarisuyo (GPRS),5.9,2.71,96.6,62.16,
@@ -12194,18 +12373,23 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-08,Jesús de Machaca_M (GPRS),5.81,2.24,84.3,42.57,9.1
 2026-03-08,La Asunta_H (GPRS),,,,,1.4
 2026-03-08,Laguna Colorada (GPRS),3.45,-1.97,59.6,8.29,
+2026-03-08,Llallagua,,,,,5.9
 2026-03-08,MONTERO GUABIRA CIMAR,,,,,4.0
 2026-03-08,Mecapaca_M (GPRS),12.6,11.79,100.0,57.23,0.9
 2026-03-08,Mizque - SDC (GPRS),17.27,14.72,84.8,46.91,
 2026-03-08,Omereque - SDC (GPRS),24.56,21.75,78.69,73.54,
+2026-03-08,Padilla,,,,,13.0
 2026-03-08,Pairumani,,,,,4.5
 2026-03-08,Palos Blancos_M (GPRS),22.28,21.35,99.97,74.69,
 2026-03-08,Pampas de Lequezana,,,,,1.0
 2026-03-08,Patacamaya Iniaf (GPRS),7.5,6.5,88.9,55.4,2.6
 2026-03-08,Peña Amarilla_H (SAT),,,,,3.2
 2026-03-08,Pico de loro_H- SDC (GPRS),,,,,2.3
+2026-03-08,Pinos Sud,,,,,5.4
+2026-03-08,Pocohota - Jalsuri,,,,,3.0
 2026-03-08,Pocona - SDC (GPRS),14.61,11.98,84.3,45.43,
 2026-03-08,Pojo - SDC (GPRS),17.48,15.72,73.07,55.23,
+2026-03-08,Poroma (CHQ),,,,,4.0
 2026-03-08,Porvenir_H (SAT),,,,,1.4
 2026-03-08,Potolo,,,,,11.8
 2026-03-08,Potosi Los Pinos,,,,,7.9
@@ -12214,10 +12398,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-08,Putucuni Calientes (GPRS),4.43,3.04,87.4,73.76,2.3
 2026-03-08,Quetenas (GPRS),3.5,0.63,29.5,4.7,
 2026-03-08,Ravelo,,,,,3.8
+2026-03-08,Rosario del Ingre,,,,,5.0
 2026-03-08,Río Chilenas (GPRS),4.64,0.15,34.54,4.29,
+2026-03-08,Sacabaya,21.0,-1.5,,,
 2026-03-08,Sacacani_M (GPRS),5.45,4.54,92.4,59.1,2.8
 2026-03-08,Salinas Iniaf (GPRS),9.2,4.8,54.8,23.3,
 2026-03-08,Salo_M (GPRS),11.75,9.04,57.26,15.96,
+2026-03-08,Samasa,,,,,4.5
 2026-03-08,San Antonio - Los Ángeles (GPRS),23.92,23.31,97.6,90.4,
 2026-03-08,San Buenaventura_M (GPRS),24.17,23.96,99.9,80.95,
 2026-03-08,San Jacinto_M (GPRS),17.14,14.65,97.7,65.04,0.1
@@ -12243,14 +12430,17 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-08,Toralapa Iniaf (GPRS),15.7,5.4,99.6,55.8,
 2026-03-08,Totora Qhocha_M,7.57,6.39,76.84,59.27,
 2026-03-08,Totora i_M (GPRS),9.03,7.13,65.5,32.35,
+2026-03-08,Urriolagoytia,,,,,15.0
 2026-03-08,Viacha_M (GPRS),5.44,2.89,98.6,53.0,1.3
 2026-03-08,Vila Vila - SDC (GPRS),16.51,14.61,70.65,49.7,
+2026-03-08,Villa Alcala,,,,,12.0
 2026-03-08,Villa Rivero_M (GPRS),14.36,11.95,80.93,38.78,0.8
 2026-03-08,Villa Tunari_H (GPRS),,,,,0.9
 2026-03-08,Villazon,,,,,1.3
 2026-03-08,Viscachas Chirage (GPRS),7.99,7.01,87.9,59.02,
 2026-03-08,Vivero Chimboco - SDC (GPRS),12.46,11.85,96.4,45.02,16.3
 2026-03-08,Vivero Viloma - SDC (GPRS),13.77,11.04,76.44,0.05,
+2026-03-08,Yesera Norte,25.0,14.5,,,7.3
 2026-03-09, Paniagua_M (GPRS),21.34,20.59,99.72,95.99,
 2026-03-09,4 Esquinas (GPRS),5.62,4.61,93.9,80.8,
 2026-03-09,Abapo_H (SAT),,,,,6.4
@@ -12277,7 +12467,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-09,Culta San Pedro de Totora,17.3,1.6,,,
 2026-03-09,Desaguadero_M,9.98,8.35,70.7,54.47,0.8
 2026-03-09,El Común Caraparí,,,,,0.2
+2026-03-09,El Reloj,,,,,1.5
 2026-03-09,El Villar,,,,,52.0
+2026-03-09,Emborozu,,,,,8.5
 2026-03-09,Guanay_H (GPRS),,,,,0.4
 2026-03-09,Guayaramerin_M (GPRS),24.89,24.1,100.0,71.53,
 2026-03-09,Huancane Corapata_M (GPRS),6.22,4.25,82.0,60.23,
@@ -12288,16 +12480,21 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-09,Ixiamas S.(GPRS),24.9,24.2,93.3,69.0,4.0
 2026-03-09,Ixiamas_M (GPRS),23.65,22.69,96.23,71.06,
 2026-03-09,Jesús de Machaca_M (GPRS),10.64,6.41,56.97,52.98,
+2026-03-09,Juntas,,,,,1.7
 2026-03-09,La Asunta_H (GPRS),,,,,1.6
 2026-03-09,La Torre,,,,,3.0
+2026-03-09,La Violeta,,,,,21.0
 2026-03-09,Laguna Colorada (GPRS),1.09,-2.71,54.73,30.88,
 2026-03-09,MONTERO GUABIRA CIMAR,,,,,16.5
 2026-03-09,Mecapaca_M (GPRS),14.3,13.36,100.0,53.41,0.1
 2026-03-09,Mizque - SDC (GPRS),17.37,14.92,86.3,45.58,
+2026-03-09,Nuevo Mundo,,,,,8.2
 2026-03-09,Okinawa I,,,,,22.2
 2026-03-09,Omereque - SDC (GPRS),25.41,21.92,76.87,71.98,
+2026-03-09,Padilla,,,,,10.0
 2026-03-09,Palos Blancos_M (GPRS),23.67,23.1,99.98,99.91,1.5
 2026-03-09,Patacamaya Iniaf (GPRS),9.2,7.3,95.5,50.7,2.0
+2026-03-09,Pocohota - Jalsuri,,,,,5.8
 2026-03-09,Pocona - SDC (GPRS),12.9,11.05,61.65,49.73,0.3
 2026-03-09,Pojo - SDC (GPRS),16.89,15.71,69.48,53.14,
 2026-03-09,Porvenir_H (SAT),,,,,1.0
@@ -12306,10 +12503,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-09,Putucuni Calientes (GPRS),5.49,3.83,95.3,85.1,2.0
 2026-03-09,Quetenas (GPRS),3.67,1.86,39.37,28.55,
 2026-03-09,Río Chilenas (GPRS),1.08,-1.96,,,
+2026-03-09,Sacabaya,22.0,-0.5,,,
 2026-03-09,Sacacani_M (GPRS),7.09,4.74,86.2,57.79,0.5
+2026-03-09,Sachapera,,,,,7.3
 2026-03-09,Salinas Iniaf (GPRS),7.8,4.2,29.5,18.9,
 2026-03-09,Salo_M (GPRS),10.95,6.01,93.67,40.87,
 2026-03-09,Samaipata,,,,,10.5
+2026-03-09,Samasa,,,,,14.2
 2026-03-09,San Antonio - Los Ángeles (GPRS),24.2,24.0,94.2,88.1,
 2026-03-09,San Buenaventura_M (GPRS),25.77,24.4,,,
 2026-03-09,San Jacinto_M (GPRS),18.0,16.93,95.0,77.1,0.1
@@ -12324,6 +12524,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-09,Sarco,,,,,0.1
 2026-03-09,Sena_H (SAT),,,,,4.6
 2026-03-09,Sopachuy,,,,,3.8
+2026-03-09,Sucre SENAMHI,23.5,13.4,,,
 2026-03-09,Sultaca_M (GPRS),9.92,8.64,71.64,53.54,
 2026-03-09,Sunjani (GPRS),5.74,4.8,95.3,82.5,8.1
 2026-03-09,Tarabuco,,,,,9.6
@@ -12338,14 +12539,17 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-09,Totora Qhocha_M,8.09,6.72,89.3,70.58,6.8
 2026-03-09,Totora i_M (GPRS),15.44,9.83,80.4,37.55,4.2
 2026-03-09,Tupiza_1_H (GPRS),,,,,0.1
+2026-03-09,Urriolagoytia,,,,,48.0
 2026-03-09,Viacha_M (GPRS),7.01,4.59,90.0,53.26,1.3
 2026-03-09,Vila Vila - SDC (GPRS),16.2,14.36,89.3,59.61,
 2026-03-09,Villa Rivero_M (GPRS),12.89,12.0,81.28,39.36,
+2026-03-09,Villa Serrano,,,,,12.0
 2026-03-09,Villa Tunari_H (GPRS),,,,,69.3
 2026-03-09,Villazon,,,,,5.1
 2026-03-09,Viscachas Chirage (GPRS),6.67,5.92,89.6,77.99,
 2026-03-09,Vivero Chimboco - SDC (GPRS),14.18,13.08,88.3,55.78,
 2026-03-09,Vivero Viloma - SDC (GPRS),17.36,14.96,95.1,24.71,0.2
+2026-03-09,Yesera Norte,24.0,16.0,,,2.0
 2026-03-10, Paniagua_M (GPRS),19.4,18.49,99.71,80.67,5.5
 2026-03-10,4 Esquinas (GPRS),6.57,5.92,92.9,77.05,
 2026-03-10,Abapo_H (SAT),,,,,64.8
@@ -12356,6 +12560,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-10,Anzaldo_M (GPRS),12.9,11.99,100.0,62.73,1.9
 2026-03-10,Apolo_M (GPRS),18.44,17.12,99.46,71.71,36.5
 2026-03-10,Cabaña Forestal Oruro,,6.3,,,
+2026-03-10,Cachimayu,,,,,18.0
 2026-03-10,Camargo_H (GPRS),,,,,2.0
 2026-03-10,Camargo_M (GPRS),17.54,13.05,77.95,35.35,1.8
 2026-03-10,Caranavi_H (GPRS),,,,,9.8
@@ -12374,6 +12579,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-10,Culta San Pedro de Totora,18.3,3.8,,,
 2026-03-10,Desaguadero_M,9.4,6.72,83.0,66.68,
 2026-03-10,El Común Caraparí,,,,,52.5
+2026-03-10,El Reloj,,,,,10.5
+2026-03-10,Emborozu,,,,,46.0
 2026-03-10,Guajara-Mirim - Guayaramerín,,,,,1.0
 2026-03-10,Guanay_H (GPRS),,,,,54.4
 2026-03-10,Guayaramerin_M (GPRS),25.37,23.9,97.48,70.08,8.5
@@ -12385,33 +12592,46 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-10,Ixiamas S.(GPRS),24.0,23.4,95.9,86.5,2.6
 2026-03-10,Ixiamas_M (GPRS),22.64,21.47,98.82,70.23,10.7
 2026-03-10,Jesús de Machaca_M (GPRS),5.88,1.51,89.2,61.8,1.0
+2026-03-10,Juntas,,,,,1.0
 2026-03-10,La Asunta_H (GPRS),,,,,11.3
+2026-03-10,La Violeta,,,,,21.0
 2026-03-10,Laguna Colorada (GPRS),2.82,-0.78,53.8,35.93,
 2026-03-10,MONTERO GUABIRA CIMAR,,,,,40.0
 2026-03-10,Mecapaca_M (GPRS),12.57,11.96,100.0,56.72,
 2026-03-10,Mizque - SDC (GPRS),19.74,15.51,81.5,61.21,0.9
+2026-03-10,Muyuquiri,,,,,8.0
+2026-03-10,Nuevo Mundo,,,,,29.2
 2026-03-10,Omereque - SDC (GPRS),24.39,22.65,80.1,71.84,
 2026-03-10,Palos Blancos_M (GPRS),,,,,30.8
 2026-03-10,Pampas de Lequezana,,,,,15.9
 2026-03-10,Patacamaya Iniaf (GPRS),,,86.8,37.9,
 2026-03-10,Peña Amarilla_H (SAT),,,,,1.0
+2026-03-10,Pinos Sud,,,,,8.2
+2026-03-10,Pocohota - Jalsuri,,,,,2.8
 2026-03-10,Pocona - SDC (GPRS),13.97,13.04,97.2,69.62,22.5
 2026-03-10,Pojo - SDC (GPRS),16.7,16.37,93.3,68.2,13.9
+2026-03-10,Poroma (CHQ),,,,,27.0
 2026-03-10,Porvenir_H (SAT),,,,,0.6
 2026-03-10,Presa Misicuni (GPRS),7.28,6.78,86.1,73.44,0.3
+2026-03-10,Puente Sucre,,,,,37.0
 2026-03-10,Punilla,,,,,12.4
 2026-03-10,Putucuni Calientes (GPRS),3.88,2.8,97.6,84.2,4.0
 2026-03-10,Quetenas (GPRS),6.49,1.13,57.73,39.56,
 2026-03-10,Ravelo,,,,,19.2
 2026-03-10,Redencion Pampa,,,,,4.0
+2026-03-10,Rosario del Ingre,,,,,10.0
 2026-03-10,Río Chilenas (GPRS),3.55,0.12,73.87,73.25,
+2026-03-10,Sacabaya,23.0,2.0,,,
 2026-03-10,Sacacani_M (GPRS),4.8,2.43,87.3,56.62,0.3
+2026-03-10,Sachapera,,,,,5.0
 2026-03-10,Salinas Iniaf (GPRS),19.6,4.9,49.8,9.8,
 2026-03-10,Salo_M (GPRS),12.12,8.93,63.98,42.46,2.7
 2026-03-10,Samaipata,,,,,8.5
 2026-03-10,San Antonio - Los Ángeles (GPRS),23.79,23.09,98.0,96.7,
+2026-03-10,San Benito,,,,,4.5
 2026-03-10,San Jacinto_M (GPRS),15.36,14.15,90.8,60.23,
 2026-03-10,San Juan de Yapacaní,,,,,0.6
+2026-03-10,San Julian,,,,,12.0
 2026-03-10,San Julian - Comunidad Los Angeles (GPRS),23.99,23.13,100.0,100.0,12.0
 2026-03-10,San Julian - Nucleo 32 (GPRS),24.28,23.87,100.0,100.0,32.0
 2026-03-10,San Lucas,,,,,1.5
@@ -12436,13 +12656,18 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-10,Toralapa Iniaf (GPRS),,,98.7,76.4,0.8
 2026-03-10,Totora Qhocha_M,7.57,6.39,97.3,80.4,0.6
 2026-03-10,Totora i_M (GPRS),13.92,11.93,60.2,34.92,
+2026-03-10,Urriolagoytia,,,,,30.0
 2026-03-10,Viacha_M (GPRS),4.75,2.5,92.7,60.95,2.1
 2026-03-10,Vila Vila - SDC (GPRS),15.93,14.1,87.2,56.08,1.2
+2026-03-10,Villa Alcala,,,,,6.5
 2026-03-10,Villa Rivero_M (GPRS),14.65,12.96,99.52,60.74,0.5
+2026-03-10,Villa Serrano,,,,,20.0
 2026-03-10,Villa Tunari_H (GPRS),,,,,35.3
 2026-03-10,Viscachas Chirage (GPRS),7.05,6.23,84.7,73.49,0.1
 2026-03-10,Vivero Chimboco - SDC (GPRS),15.07,11.64,99.4,68.08,20.9
 2026-03-10,Vivero Viloma - SDC (GPRS),15.49,14.4,99.1,0.45,5.3
+2026-03-10,Yesera Norte,23.0,14.0,,,0.1
+2026-03-10,Ñucchu,,,,,26.5
 2026-03-11, Paniagua_M (GPRS),20.25,19.75,99.71,67.69,0.3
 2026-03-11,4 Esquinas (GPRS),5.1,3.26,93.9,61.69,
 2026-03-11,Abapo_H (SAT),,,,,31.0
@@ -12465,6 +12690,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-11,Culta Challapata,15.5,2.1,,,5.2
 2026-03-11,Culta San Pedro de Totora,16.5,2.6,,,
 2026-03-11,Desaguadero_M,9.0,7.5,89.3,64.33,4.3
+2026-03-11,Emborozu,,,,,13.0
 2026-03-11,Guajara-Mirim - Guayaramerín,,,,,20.3
 2026-03-11,Guanay_H (GPRS),,,,,0.4
 2026-03-11,Guayaramerin_M (GPRS),24.91,24.21,100.0,75.78,0.1
@@ -12476,21 +12702,28 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-11,Ixiamas S.(GPRS),23.6,23.3,100.0,97.9,2.8
 2026-03-11,Ixiamas_M (GPRS),22.67,21.72,98.92,91.84,55.2
 2026-03-11,Jesús de Machaca_M (GPRS),6.27,5.49,91.2,55.94,6.6
+2026-03-11,Juntas,,,,,1.8
 2026-03-11,Laguna Colorada (GPRS),3.56,-2.52,42.89,31.19,
+2026-03-11,Llallagua,,,,,4.2
 2026-03-11,MONTERO GUABIRA CIMAR,,,,,2.0
 2026-03-11,Mecapaca_M (GPRS),14.72,13.76,100.0,52.02,
 2026-03-11,Mizque - SDC (GPRS),19.69,17.55,83.6,54.5,
 2026-03-11,Omereque - SDC (GPRS),25.04,22.77,75.64,68.46,
+2026-03-11,Padilla,,,,,23.0
 2026-03-11,Pairumani,,,,,5.2
 2026-03-11,Patacamaya Iniaf (GPRS),,,82.3,39.4,5.4
+2026-03-11,Pinos Sud,,,,,7.4
+2026-03-11,Pocohota - Jalsuri,,,,,1.3
 2026-03-11,Pocona - SDC (GPRS),13.5,12.12,85.2,50.19,
 2026-03-11,Pojo - SDC (GPRS),17.3,16.37,83.6,56.93,
 2026-03-11,Porvenir_H (SAT),,,,,0.4
 2026-03-11,Presa Misicuni (GPRS),7.35,6.62,87.4,63.37,1.8
 2026-03-11,Puente Abra_H- SDC (GPRS),,,,,0.1
+2026-03-11,Puente Sucre,,,,,2.0
 2026-03-11,Putucuni Calientes (GPRS),4.81,2.57,87.3,66.85,2.1
 2026-03-11,Quetenas (GPRS),5.74,0.69,32.59,9.6,
 2026-03-11,Río Chilenas (GPRS),4.4,0.15,54.19,34.3,
+2026-03-11,Sacabaya,23.5,1.5,,,
 2026-03-11,Sacacani_M (GPRS),7.23,6.71,89.6,62.49,1.4
 2026-03-11,Salinas Iniaf (GPRS),11.8,6.7,51.9,41.2,
 2026-03-11,Salo_M (GPRS),10.68,7.37,76.28,38.57,
@@ -12499,6 +12732,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-11,San Buenaventura_M (GPRS),27.53,23.5,99.89,90.6,
 2026-03-11,San Jacinto_M (GPRS),18.04,16.96,97.4,85.9,0.1
 2026-03-11,San Juan de Yapacaní,,,,,2.2
+2026-03-11,San Julian,,,,,11.0
 2026-03-11,San Julian - Comunidad Los Angeles (GPRS),23.45,23.08,100.0,84.4,41.4
 2026-03-11,San Julian - Nucleo 32 (GPRS),23.43,22.95,100.0,91.2,37.6
 2026-03-11,San Lucas,,,,,10.5
@@ -12507,6 +12741,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-11,San Pedro - Río Victoria (GPRS),23.54,23.03,96.6,78.58,1.0
 2026-03-11,San Pedro de Tiquina_M (GPRS),8.88,7.82,81.8,68.62,9.5
 2026-03-11,Sarco,,,,,0.1
+2026-03-11,Sucre SENAMHI,23.0,13.6,,,
 2026-03-11,Sultaca_M (GPRS),8.36,7.44,92.57,53.98,
 2026-03-11,Sunjani (GPRS),5.27,3.85,91.7,63.19,2.0
 2026-03-11,Tarapaya,,,,,2.0
@@ -12528,6 +12763,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-11,Viscachas Chirage (GPRS),6.3,5.59,85.2,68.49,
 2026-03-11,Vivero Chimboco - SDC (GPRS),13.62,12.39,83.8,46.76,0.2
 2026-03-11,Vivero Viloma - SDC (GPRS),15.67,13.11,73.03,0.14,1.5
+2026-03-11,Yesera Norte,20.0,15.0,,,
 2026-03-12, Paniagua_M (GPRS),21.0,20.17,96.45,87.54,0.1
 2026-03-12,4 Esquinas (GPRS),5.55,3.84,88.3,69.95,
 2026-03-12,Abapo_H (SAT),,,,,31.2
@@ -12549,11 +12785,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-12,Cotagaita (GPRS),18.24,16.02,71.53,52.47,
 2026-03-12,Cuatro Cañadas - CEA-2 (GPRS),25.38,24.59,99.6,90.5,
 2026-03-12,Cuatro Cañadas - Colonia Chihuahua (GPRS),24.56,23.96,100.0,97.3,2.2
+2026-03-12,Culpina,,,,,16.4
 2026-03-12,Culta Challapata,14.0,2.0,,,1.3
 2026-03-12,Culta San Pedro de Totora,16.3,1.3,,,1.2
 2026-03-12,Desaguadero_M,8.29,7.31,80.2,65.95,2.7
 2026-03-12,El Común Caraparí,,,,,6.9
 2026-03-12,El Puente_H (GPRS),,,,,2.6
+2026-03-12,Emborozu,,,,,6.5
 2026-03-12,Guajara-Mirim - Guayaramerín,,,,,21.0
 2026-03-12,Guayaramerin_M (GPRS),23.51,23.16,100.0,72.94,16.5
 2026-03-12,Huancane Corapata_M (GPRS),7.84,5.78,95.9,66.7,3.2
@@ -12563,14 +12801,21 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-12,Ixiamas S.(GPRS),,,100.0,70.6,1.2
 2026-03-12,Ixiamas_M (GPRS),22.62,21.92,98.9,79.62,
 2026-03-12,Jesús de Machaca_M (GPRS),7.05,3.21,91.2,55.23,
+2026-03-12,Juntas,,,,,37.5
+2026-03-12,La Violeta,,,,,4.0
 2026-03-12,Laguna Colorada (GPRS),1.02,-4.41,49.76,29.11,
+2026-03-12,Llallagua,,,,,10.5
 2026-03-12,MONTERO GUABIRA CIMAR,,,,,4.0
 2026-03-12,Mecapaca_M (GPRS),15.03,13.86,100.0,62.59,4.8
 2026-03-12,Mizque - SDC (GPRS),19.23,17.14,78.13,60.71,
+2026-03-12,Nuevo Mundo,,,,,2.6
 2026-03-12,Omereque - SDC (GPRS),24.09,22.25,94.6,84.8,
+2026-03-12,Padilla,,,,,12.5
 2026-03-12,Pairumani,,,,,2.0
 2026-03-12,Patacamaya Iniaf (GPRS),,,85.0,40.4,
 2026-03-12,Peña Amarilla_H (SAT),,,,,80.2
+2026-03-12,Pinos Sud,,,,,8.1
+2026-03-12,Pocohota - Jalsuri,,,,,5.1
 2026-03-12,Pocona - SDC (GPRS),13.89,13.05,95.0,67.33,13.3
 2026-03-12,Pojo - SDC (GPRS),18.13,15.58,94.5,78.29,11.0
 2026-03-12,Porvenir_H (SAT),,,,,0.8
@@ -12579,12 +12824,16 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-12,Punilla,,,,,18.6
 2026-03-12,Putucuni Calientes (GPRS),6.08,3.14,84.9,78.9,2.3
 2026-03-12,Quetenas (GPRS),3.57,0.6,37.05,11.7,
+2026-03-12,Rosario del Ingre,,,,,7.5
 2026-03-12,Río Chilenas (GPRS),0.44,-4.35,47.72,15.32,
+2026-03-12,Sacabaya,22.0,0.7,,,
 2026-03-12,Sacacani_M (GPRS),7.11,5.39,95.8,64.37,1.5
+2026-03-12,Sachapera,,,,,8.9
 2026-03-12,Salinas Iniaf (GPRS),,,38.0,9.1,
 2026-03-12,Salo_M (GPRS),12.97,8.24,69.83,64.89,
 2026-03-12,Samaipata,,,,,1.8
 2026-03-12,San Antonio - Los Ángeles (GPRS),24.64,24.25,97.6,89.2,
+2026-03-12,San Benito,,,,,1.0
 2026-03-12,San Buenaventura_M (GPRS),23.95,23.79,99.81,99.76,
 2026-03-12,San Jacinto_M (GPRS),15.9,15.21,99.0,74.69,
 2026-03-12,San Juan de Yapacaní,,,,,12.8
@@ -12598,6 +12847,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-12,Sarco,,,,,0.2
 2026-03-12,Sena_H (SAT),,,,,5.6
 2026-03-12,Sopachuy,,,,,10.9
+2026-03-12,Sucre SENAMHI,22.0,14.0,,,
 2026-03-12,Sultaca_M (GPRS),8.89,7.76,87.01,75.3,0.2
 2026-03-12,Sunjani (GPRS),6.78,5.34,84.9,68.73,0.4
 2026-03-12,Tarabuco,,,,,0.4
@@ -12615,10 +12865,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-12,Tupiza_1_H (GPRS),,,,,11.8
 2026-03-12,Viacha_M (GPRS),7.8,6.43,93.4,58.8,
 2026-03-12,Vila Vila - SDC (GPRS),16.17,14.82,74.6,53.63,
+2026-03-12,Villa Alcala,,,,,20.0
 2026-03-12,Villa Rivero_M (GPRS),24.04,11.95,99.5,39.98,10.8
+2026-03-12,Villa Serrano,,,,,13.0
 2026-03-12,Viscachas Chirage (GPRS),8.09,7.37,91.3,72.86,
 2026-03-12,Vivero Chimboco - SDC (GPRS),15.66,14.13,93.9,48.63,0.9
 2026-03-12,Vivero Viloma - SDC (GPRS),16.82,14.87,55.41,0.1,0.1
+2026-03-12,Yesera Norte,22.0,15.0,,,13.0
 2026-03-13, Paniagua_M (GPRS),21.64,19.48,99.74,88.59,37.2
 2026-03-13,4 Esquinas (GPRS),3.83,3.05,89.5,75.42,
 2026-03-13,Abapo_H (SAT),,,,,9.6
@@ -12649,6 +12902,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-13,El Común Caraparí,,,,,9.5
 2026-03-13,El Puente_H (GPRS),,,,,2.9
 2026-03-13,El Villar,,,,,14.5
+2026-03-13,Emborozu,,,,,20.0
 2026-03-13,Guanay_H (GPRS),,,,,31.0
 2026-03-13,Guayaramerin_M (GPRS),24.81,24.03,99.7,69.85,
 2026-03-13,Huancane Corapata_M (GPRS),6.33,5.41,92.3,74.11,16.2
@@ -12659,14 +12913,18 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-13,Ixiamas_M (GPRS),22.15,21.63,98.94,98.56,0.5
 2026-03-13,Jesús de Machaca_M (GPRS),8.77,6.01,91.6,60.17,9.7
 2026-03-13,La Asunta_H (GPRS),,,,,10.4
+2026-03-13,La Violeta,,,,,21.0
 2026-03-13,Laguna Colorada (GPRS),1.19,-4.86,53.42,30.92,
+2026-03-13,Llallagua,,,,,10.4
 2026-03-13,MONTERO GUABIRA CIMAR,,,,,7.0
 2026-03-13,Mecapaca_M (GPRS),14.21,13.02,100.0,83.23,14.9
 2026-03-13,Mizque - SDC (GPRS),17.46,15.97,69.46,54.2,0.6
+2026-03-13,Nuevo Mundo,,,,,6.9
 2026-03-13,Omereque - SDC (GPRS),20.87,19.82,80.2,74.32,2.3
 2026-03-13,Pairumani,,,,,35.4
 2026-03-13,Patacamaya Iniaf (GPRS),,,81.8,46.6,1.8
 2026-03-13,Peña Amarilla_H (SAT),,,,,0.2
+2026-03-13,Pocohota - Jalsuri,,,,,11.8
 2026-03-13,Pocona - SDC (GPRS),12.7,11.88,98.3,83.6,10.0
 2026-03-13,Pojo - SDC (GPRS),16.3,15.58,91.4,64.16,2.5
 2026-03-13,Porvenir_H (SAT),,,,,0.6
@@ -12680,13 +12938,18 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-13,Ravelo,,,,,5.5
 2026-03-13,Redencion Pampa,,,,,3.0
 2026-03-13,Río Chilenas (GPRS),13.14,-4.65,74.37,20.23,
+2026-03-13,Sacabaya,22.0,0.3,,,
 2026-03-13,Sacacani_M (GPRS),6.76,5.06,94.2,71.39,4.4
+2026-03-13,Sachapera,,,,,3.0
 2026-03-13,Salinas Iniaf (GPRS),,,48.6,13.3,
 2026-03-13,Salo_M (GPRS),10.99,7.99,66.97,38.57,3.0
 2026-03-13,Samaipata,,,,,3.0
+2026-03-13,Samasa,,,,,12.2
 2026-03-13,San Antonio - Los Ángeles (GPRS),22.79,22.56,98.3,83.3,
+2026-03-13,San Benito,,,,,4.0
 2026-03-13,San Buenaventura_M (GPRS),24.43,24.12,,,
 2026-03-13,San Jacinto_M (GPRS),16.75,15.42,99.1,63.54,0.1
+2026-03-13,San Julian,,,,,40.0
 2026-03-13,San Julian - Comunidad Los Angeles (GPRS),22.66,22.29,100.0,78.44,8.9
 2026-03-13,San Julian - Nucleo 32 (GPRS),23.13,22.95,100.0,80.2,34.6
 2026-03-13,San Lucas,,,,,4.0
@@ -12697,6 +12960,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-13,Sarco,,,,,29.1
 2026-03-13,Sena_H (SAT),,,,,0.2
 2026-03-13,Sopachuy,,,,,16.2
+2026-03-13,Sucre SENAMHI,22.0,12.0,,,
 2026-03-13,Sultaca_M (GPRS),8.28,7.01,84.85,49.87,
 2026-03-13,Sunjani (GPRS),4.26,3.27,93.4,76.86,14.1
 2026-03-13,Talula_Tako Tako,,,,,1.8
@@ -12713,11 +12977,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-13,Tupiza_1_H (GPRS),,,,,2.9
 2026-03-13,Viacha_M (GPRS),6.83,6.04,90.8,73.66,6.1
 2026-03-13,Vila Vila - SDC (GPRS),14.82,13.5,80.4,64.03,
+2026-03-13,Villa Alcala,,,,,8.0
 2026-03-13,Villa Rivero_M (GPRS),12.37,11.79,99.51,61.65,2.9
+2026-03-13,Villa Serrano,,,,,12.0
 2026-03-13,Villa Tunari_H (GPRS),,,,,39.1
 2026-03-13,Viscachas Chirage (GPRS),5.23,4.49,94.6,80.7,
 2026-03-13,Vivero Chimboco - SDC (GPRS),12.67,12.14,83.5,60.72,14.6
 2026-03-13,Vivero Viloma - SDC (GPRS),11.95,11.46,99.1,1.79,18.8
+2026-03-13,Yesera Norte,22.0,14.0,,,10.0
 2026-03-14, Paniagua_M (GPRS),18.9,18.1,88.25,69.14,9.2
 2026-03-14,4 Esquinas (GPRS),6.19,5.45,84.8,61.5,
 2026-03-14,Aguadas (GPRS),6.11,5.25,87.5,57.69,4.1
@@ -12738,6 +13005,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-14,Cotagaita (GPRS),15.58,10.72,76.76,41.98,
 2026-03-14,Cuatro Cañadas - CEA-2 (GPRS),24.59,24.27,94.8,79.21,
 2026-03-14,Cuatro Cañadas - Colonia Chihuahua (GPRS),24.22,23.76,95.1,76.83,
+2026-03-14,Culta Challapata,18.0,1.2,,,1.0
+2026-03-14,Culta San Pedro de Totora,16.8,5.3,,,
 2026-03-14,Desaguadero_M,7.9,6.78,86.2,69.6,18.6
 2026-03-14,El Puente_H (GPRS),,,,,4.8
 2026-03-14,Guajara-Mirim - Guayaramerín,,,,,0.5
@@ -12750,15 +13019,19 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-14,Ixiamas S.(GPRS),23.1,23.0,100.0,100.0,2.4
 2026-03-14,Ixiamas_M (GPRS),22.19,21.49,98.9,75.04,
 2026-03-14,Jesús de Machaca_M (GPRS),8.23,3.66,94.2,65.53,
+2026-03-14,Juntas,,,,,5.3
 2026-03-14,La Asunta_H (GPRS),,,,,2.0
 2026-03-14,Laguna Colorada (GPRS),4.02,-1.35,73.1,48.44,
+2026-03-14,Llallagua,,,,,9.0
 2026-03-14,MONTERO GUABIRA CIMAR,,,,,8.0
 2026-03-14,Mecapaca_M (GPRS),12.29,11.53,100.0,60.2,
 2026-03-14,Mizque - SDC (GPRS),13.79,11.79,93.2,41.13,
 2026-03-14,Omereque - SDC (GPRS),24.65,21.06,84.4,78.04,
+2026-03-14,Padilla,,,,,3.0
 2026-03-14,Pampas de Lequezana,,,,,5.8
 2026-03-14,Patacamaya Iniaf (GPRS),,,78.6,36.5,
 2026-03-14,Peña Amarilla_H (SAT),,,,,3.2
+2026-03-14,Pocohota - Jalsuri,,,,,3.3
 2026-03-14,Pocona - SDC (GPRS),13.76,9.16,70.65,57.23,2.0
 2026-03-14,Pojo - SDC (GPRS),15.77,14.53,79.58,59.4,
 2026-03-14,Porvenir_H (SAT),,,,,1.4
@@ -12768,7 +13041,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-14,Quetenas (GPRS),5.24,0.49,58.5,26.33,
 2026-03-14,Ravelo,,,,,9.8
 2026-03-14,Río Chilenas (GPRS),15.65,-0.7,62.41,15.24,
+2026-03-14,Sacabaya,21.5,3.0,,,
 2026-03-14,Sacacani_M (GPRS),7.09,6.31,98.2,64.64,0.3
+2026-03-14,Sachapera,,,,,0.2
 2026-03-14,Salinas Iniaf (GPRS),20.5,6.4,66.9,17.5,
 2026-03-14,Salo_M (GPRS),9.27,4.42,79.63,24.69,3.9
 2026-03-14,San Antonio - Los Ángeles (GPRS),23.97,23.38,96.2,84.0,
@@ -12782,6 +13057,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-14,Sarco,,,,,0.1
 2026-03-14,Sena_H (SAT),,,,,42.0
 2026-03-14,Sopachuy,,,,,1.0
+2026-03-14,Sucre SENAMHI,24.5,13.0,,,
 2026-03-14,Sultaca_M (GPRS),8.49,6.71,72.39,43.16,1.1
 2026-03-14,Sunjani (GPRS),6.47,5.09,90.5,72.62,2.5
 2026-03-14,Templo (GPRS),4.58,3.59,96.7,78.53,2.6
@@ -12800,6 +13076,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-14,Viscachas Chirage (GPRS),6.89,6.19,92.9,75.99,
 2026-03-14,Vivero Chimboco - SDC (GPRS),13.41,11.38,71.26,48.94,
 2026-03-14,Vivero Viloma - SDC (GPRS),14.2,13.52,65.43,0.14,0.4
+2026-03-14,Yesera Norte,22.0,15.0,,,
 2026-03-15, Paniagua_M (GPRS),21.42,19.77,99.74,88.06,12.9
 2026-03-15,4 Esquinas (GPRS),5.2,2.64,86.8,57.83,
 2026-03-15,Abapo_H (SAT),,,,,0.2
@@ -12810,6 +13087,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-15,Apolo_M (GPRS),17.76,17.2,92.64,59.45,
 2026-03-15,Ayoma,,,,,1.0
 2026-03-15,Cabaña Forestal Oruro,24.0,5.0,,,1.0
+2026-03-15,Cachimayu,,,,,6.8
 2026-03-15,Camargo_M (GPRS),18.58,16.1,59.75,29.66,
 2026-03-15,Carura_M - Guanay (GPRS),21.94,21.56,98.46,85.72,1.9
 2026-03-15,Chacala Iniaf (GPRS),,,39.4,3.2,
@@ -12821,8 +13099,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-15,Cotagaita (GPRS),18.56,13.85,76.17,49.72,
 2026-03-15,Cuatro Cañadas - CEA-2 (GPRS),24.86,23.74,87.2,79.41,
 2026-03-15,Cuatro Cañadas - Colonia Chihuahua (GPRS),24.81,23.31,91.0,71.82,
+2026-03-15,Culta Challapata,19.0,1.5,,,
+2026-03-15,Culta San Pedro de Totora,18.4,2.0,,,
 2026-03-15,Desaguadero_M,8.75,5.74,73.43,46.73,0.5
 2026-03-15,El Común Caraparí,,,,,0.1
+2026-03-15,Emborozu,,,,,5.0
 2026-03-15,Guanay_H (GPRS),,,,,2.8
 2026-03-15,Guayaramerin_M (GPRS),25.04,24.42,97.83,68.61,
 2026-03-15,Huancane Corapata_M (GPRS),6.67,5.55,92.2,65.85,
@@ -12836,9 +13117,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-15,MONTERO GUABIRA CIMAR,,,,,15.0
 2026-03-15,Mecapaca_M (GPRS),13.83,12.99,100.0,51.12,
 2026-03-15,Mizque - SDC (GPRS),16.48,14.34,90.0,46.57,
+2026-03-15,Muyuquiri,,,,,10.0
 2026-03-15,Omereque - SDC (GPRS),24.81,21.66,74.81,70.24,
+2026-03-15,Padilla,,,,,4.0
 2026-03-15,Patacamaya Iniaf (GPRS),,,74.1,31.1,
 2026-03-15,Peña Amarilla_H (SAT),,,,,0.2
+2026-03-15,Pinos Sud,,,,,6.4
 2026-03-15,Pocona - SDC (GPRS),16.58,14.51,69.51,55.85,
 2026-03-15,Pojo - SDC (GPRS),17.15,16.44,80.4,53.55,0.1
 2026-03-15,Porvenir_H (SAT),,,,,1.4
@@ -12847,6 +13131,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-15,Putucuni Calientes (GPRS),5.02,3.51,88.2,79.92,
 2026-03-15,Quetenas (GPRS),3.81,-0.9,38.83,7.82,
 2026-03-15,Río Chilenas (GPRS),1.18,-4.4,58.16,48.7,
+2026-03-15,Sacabaya,20.0,2.0,,,
 2026-03-15,Sacacani_M (GPRS),7.62,3.29,89.6,57.94,
 2026-03-15,Salinas Iniaf (GPRS),10.6,4.8,33.2,21.6,
 2026-03-15,Salo_M (GPRS),12.37,7.51,65.35,19.35,
@@ -12861,6 +13146,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-15,San Pedro - Río Victoria (GPRS),25.01,24.67,91.1,80.4,
 2026-03-15,San Pedro de Tiquina_M (GPRS),10.77,9.54,88.5,73.37,0.6
 2026-03-15,Sopachuy,,,,,1.0
+2026-03-15,Sucre SENAMHI,25.0,13.6,,,
 2026-03-15,Sultaca_M (GPRS),9.45,8.31,92.05,33.05,0.9
 2026-03-15,Sunjani (GPRS),6.03,3.42,76.81,60.16,0.3
 2026-03-15,Talula_Tako Tako,,,,,5.0
@@ -12875,11 +13161,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-15,Viacha_M (GPRS),7.43,5.97,98.7,61.61,
 2026-03-15,Vila Vila - SDC (GPRS),15.2,14.38,72.74,43.46,
 2026-03-15,Villa Rivero_M (GPRS),13.7,11.38,73.69,48.19,
+2026-03-15,Villa Serrano,,,,,2.2
 2026-03-15,Villa Tunari_H (GPRS),,,,,18.8
 2026-03-15,Villazon,,,,,33.0
 2026-03-15,Viscachas Chirage (GPRS),8.31,5.41,83.5,68.31,
 2026-03-15,Vivero Chimboco - SDC (GPRS),14.71,12.26,61.99,40.37,
 2026-03-15,Vivero Viloma - SDC (GPRS),18.77,13.57,53.4,0.09,0.1
+2026-03-15,Yesera Norte,22.0,11.0,,,3.3
 2026-03-16, Paniagua_M (GPRS),21.1,20.29,95.79,67.82,0.3
 2026-03-16,4 Esquinas (GPRS),5.75,3.48,96.6,38.62,
 2026-03-16,Aguadas (GPRS),6.02,3.57,84.5,42.58,
@@ -12900,8 +13188,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-16,Cotagaita (GPRS),15.1,8.48,64.45,13.7,
 2026-03-16,Cuatro Cañadas - CEA-2 (GPRS),25.41,24.92,87.8,67.62,2.6
 2026-03-16,Cuatro Cañadas - Colonia Chihuahua (GPRS),26.05,24.74,83.0,62.65,
+2026-03-16,Culta Challapata,21.0,0.0,,,
+2026-03-16,Culta San Pedro de Totora,19.3,1.6,,,
 2026-03-16,Desaguadero_M,9.33,5.86,52.12,42.35,
 2026-03-16,El Común Caraparí,,,,,4.5
+2026-03-16,El Reloj,,,,,0.3
 2026-03-16,Guajara-Mirim - Guayaramerín,,,,,3.0
 2026-03-16,Guanay_H (GPRS),,,,,0.4
 2026-03-16,Guayaramerin_M (GPRS),24.4,23.85,100.0,78.44,37.6
@@ -12927,7 +13218,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-16,Putucuni Calientes (GPRS),8.15,4.18,61.39,49.41,
 2026-03-16,Quetenas (GPRS),4.32,1.97,34.11,11.39,
 2026-03-16,Río Chilenas (GPRS),1.5,-2.93,48.85,13.34,
+2026-03-16,Sacabaya,20.0,0.0,,,
 2026-03-16,Sacacani_M (GPRS),8.28,4.6,63.82,44.71,
+2026-03-16,Sachapera,,,,,4.0
 2026-03-16,Salinas Iniaf (GPRS),,,37.4,6.0,
 2026-03-16,Salo_M (GPRS),9.59,0.67,,,
 2026-03-16,San Antonio - Los Ángeles (GPRS),25.54,24.86,87.0,74.88,
@@ -12959,6 +13252,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-16,Viscachas Chirage (GPRS),7.95,4.92,74.14,39.03,
 2026-03-16,Vivero Chimboco - SDC (GPRS),15.07,11.89,60.99,31.66,
 2026-03-16,Vivero Viloma - SDC (GPRS),17.47,11.69,46.7,0.06,
+2026-03-16,Yesera Norte,24.0,14.0,,,
 2026-03-17, Paniagua_M (GPRS),22.26,21.24,99.67,75.82,0.2
 2026-03-17,4 Esquinas (GPRS),4.14,1.89,89.9,34.78,0.1
 2026-03-17,Aguadas (GPRS),4.89,2.73,86.0,47.77,
@@ -12967,6 +13261,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-17,Anzaldo_M (GPRS),12.66,9.91,74.91,10.43,
 2026-03-17,Apolo_M (GPRS),18.56,17.89,88.99,68.77,
 2026-03-17,Cabaña Forestal Oruro,,3.2,,,
+2026-03-17,Cachimayu,,,,,8.5
 2026-03-17,Camargo_M (GPRS),19.03,14.26,58.68,10.62,
 2026-03-17,Caranavi_H (GPRS),,,,,0.7
 2026-03-17,Carura_M - Guanay (GPRS),23.62,22.16,98.45,85.66,3.2
@@ -12978,7 +13273,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-17,Cotagaita (GPRS),12.55,7.54,41.46,10.09,
 2026-03-17,Cuatro Cañadas - CEA-2 (GPRS),25.71,25.12,89.3,65.87,
 2026-03-17,Cuatro Cañadas - Colonia Chihuahua (GPRS),26.32,25.53,78.66,64.6,
+2026-03-17,Culta Challapata,19.8,0.5,,,3.6
+2026-03-17,Culta San Pedro de Totora,20.4,-1.6,,,
 2026-03-17,Desaguadero_M,8.55,5.54,64.18,45.22,1.0
+2026-03-17,Emborozu,,,,,1.0
 2026-03-17,Guanay_H (GPRS),,,,,0.5
 2026-03-17,Guayaramerin_M (GPRS),25.71,24.87,100.0,86.48,
 2026-03-17,Huancane Corapata_M (GPRS),8.76,6.4,59.82,51.84,
@@ -13000,7 +13298,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-17,Putucuni Calientes (GPRS),9.66,4.57,75.54,57.68,
 2026-03-17,Quetenas (GPRS),3.43,-0.43,29.13,5.36,
 2026-03-17,Río Chilenas (GPRS),16.19,-7.09,42.94,3.88,
+2026-03-17,Sacabaya,22.0,0.3,,,
 2026-03-17,Sacacani_M (GPRS),9.0,3.68,63.91,40.16,0.2
+2026-03-17,Sachapera,,,,,1.4
 2026-03-17,Salinas Iniaf (GPRS),18.1,-0.4,43.1,8.9,
 2026-03-17,Salo_M (GPRS),11.97,3.49,23.19,10.48,
 2026-03-17,San Antonio - Los Ángeles (GPRS),25.38,24.51,86.6,73.39,
@@ -13013,6 +13313,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-17,San Pablo de Lipez (GPRS),1.5,-1.5,19.63,12.16,
 2026-03-17,San Pedro - Río Victoria (GPRS),25.81,25.28,85.7,75.34,
 2026-03-17,San Pedro de Tiquina_M (GPRS),10.9,9.34,66.99,56.5,
+2026-03-17,Sucre SENAMHI,28.8,15.5,,,
 2026-03-17,Sultaca_M (GPRS),13.46,9.24,48.99,18.47,
 2026-03-17,Sunjani (GPRS),5.58,3.38,80.7,53.03,
 2026-03-17,Templo (GPRS),8.48,4.54,74.12,55.22,
@@ -13030,6 +13331,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-17,Viscachas Chirage (GPRS),8.53,5.19,76.27,59.03,0.1
 2026-03-17,Vivero Chimboco - SDC (GPRS),14.72,11.9,54.92,22.09,
 2026-03-17,Vivero Viloma - SDC (GPRS),15.42,10.58,37.13,0.09,
+2026-03-17,Yesera Norte,28.0,15.0,,,
 2026-03-18, Paniagua_M (GPRS),22.68,22.01,99.72,99.66,4.7
 2026-03-18,4 Esquinas (GPRS),8.45,7.84,92.7,86.9,15.3
 2026-03-18,Aguadas (GPRS),8.72,7.8,93.9,87.7,16.1
@@ -13039,6 +13341,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-18,Anzaldo_M (GPRS),15.87,11.99,99.49,85.03,1.8
 2026-03-18,Apolo_M (GPRS),18.53,17.94,91.94,70.54,
 2026-03-18,Cabaña Forestal Oruro,16.9,5.9,,,
+2026-03-18,Cachimayu,,,,,2.5
 2026-03-18,Camargo_M (GPRS),18.97,16.61,61.27,38.83,
 2026-03-18,Caranavi_H (GPRS),,,,,6.1
 2026-03-18,Carura_M - Guanay (GPRS),23.62,22.44,98.47,95.1,2.6
@@ -13050,8 +13353,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-18,Cotagaita (GPRS),18.8,12.41,69.87,45.78,
 2026-03-18,Cuatro Cañadas - CEA-2 (GPRS),25.71,25.19,89.9,87.3,
 2026-03-18,Cuatro Cañadas - Colonia Chihuahua (GPRS),26.18,25.07,100.0,87.0,1.2
+2026-03-18,Culta Challapata,14.9,0.0,,,4.3
+2026-03-18,Culta San Pedro de Totora,19.3,0.0,,,
 2026-03-18,Desaguadero_M,7.75,5.22,73.86,52.7,
 2026-03-18,El Común Caraparí,,,,,9.7
+2026-03-18,El Reloj,,,,,10.3
+2026-03-18,Emborozu,,,,,43.0
 2026-03-18,Guanay_H (GPRS),,,,,2.7
 2026-03-18,Guayaramerin_M (GPRS),24.77,24.27,100.0,89.51,3.4
 2026-03-18,Huancane Corapata_M (GPRS),8.04,6.34,88.1,62.56,
@@ -13061,26 +13368,36 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-18,Ixiamas S.(GPRS),26.2,24.6,100.0,98.4,0.6
 2026-03-18,Ixiamas_M (GPRS),25.13,23.38,98.88,94.25,0.2
 2026-03-18,Jesús de Machaca_M (GPRS),5.24,-0.3,89.6,40.35,
+2026-03-18,La Violeta,,,,,23.0
 2026-03-18,Laguna Colorada (GPRS),-0.86,-4.52,60.76,37.86,
 2026-03-18,MONTERO GUABIRA CIMAR,,,,,36.0
 2026-03-18,Mecapaca_M (GPRS),16.13,14.82,100.0,80.8,
 2026-03-18,Mizque - SDC (GPRS),22.04,18.18,94.0,92.7,19.6
+2026-03-18,Nuevo Mundo,,,,,48.2
 2026-03-18,Omereque - SDC (GPRS),26.11,24.48,95.6,77.91,
 2026-03-18,Pairumani,,,,,5.4
 2026-03-18,Patacamaya Iniaf (GPRS),7.5,3.3,52.0,43.7,
 2026-03-18,Pocona - SDC (GPRS),16.52,15.46,97.9,96.4,24.0
 2026-03-18,Pojo - SDC (GPRS),20.1,19.12,95.9,89.7,33.6
+2026-03-18,Poroma (CHQ),,,,,38.0
+2026-03-18,Potolo,,,,,0.8
 2026-03-18,Presa Misicuni (GPRS),10.43,9.56,89.2,84.2,10.3
 2026-03-18,Punilla,,,,,24.6
 2026-03-18,Putucuni Calientes (GPRS),6.32,3.34,93.0,85.5,9.0
 2026-03-18,Quetenas (GPRS),3.61,-0.4,46.36,31.05,
+2026-03-18,Ravelo,,,,,9.2
 2026-03-18,Redencion Pampa,,,,,34.0
+2026-03-18,Rosario del Ingre,,,,,15.0
 2026-03-18,Río Chilenas (GPRS),15.55,-2.13,64.61,15.59,
+2026-03-18,Sacabaya,21.7,-1.5,,,
 2026-03-18,Sacacani_M (GPRS),6.89,3.55,72.0,44.36,
+2026-03-18,Sachapera,,,,,17.3
 2026-03-18,Salinas Iniaf (GPRS),5.4,2.1,41.1,28.6,
 2026-03-18,Salo_M (GPRS),10.47,5.59,63.52,47.1,
 2026-03-18,Samaipata,,,,,25.0
+2026-03-18,Samasa,,,,,2.8
 2026-03-18,San Antonio - Los Ángeles (GPRS),25.47,25.12,97.0,95.8,
+2026-03-18,San Benito,,,,,20.0
 2026-03-18,San Buenaventura_M (GPRS),25.0,24.46,,,
 2026-03-18,San Jacinto_M (GPRS),18.25,15.9,89.6,64.6,
 2026-03-18,San Juan de Yapacaní,,,,,180.8
@@ -13109,11 +13426,16 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-18,Totora i_M (GPRS),10.46,8.07,65.58,40.64,
 2026-03-18,Viacha_M (GPRS),8.73,4.87,74.41,53.69,
 2026-03-18,Vila Vila - SDC (GPRS),18.32,11.17,92.6,84.2,15.8
+2026-03-18,Villa Alcala,,,,,8.0
 2026-03-18,Villa Rivero_M (GPRS),17.21,15.68,99.29,97.46,
+2026-03-18,Villa Serrano,,,,,18.2
 2026-03-18,Villa Tunari_H (GPRS),,,,,35.8
 2026-03-18,Viscachas Chirage (GPRS),9.66,8.85,91.5,83.1,
 2026-03-18,Vivero Chimboco - SDC (GPRS),17.38,16.12,99.4,96.9,11.1
 2026-03-18,Vivero Viloma - SDC (GPRS),18.72,17.33,67.72,5.39,7.8
+2026-03-18,Viña Quemada,,,,,10.0
+2026-03-18,Yesera Norte,24.0,14.0,,,
+2026-03-18,Ñucchu,,,,,28.0
 2026-03-19, Paniagua_M (GPRS),19.19,18.64,99.72,99.08,7.9
 2026-03-19,4 Esquinas (GPRS),1.62,0.07,95.7,56.4,4.3
 2026-03-19,Abapo_H (SAT),,,,,15.8
@@ -13135,9 +13457,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-19,Cotagaita (GPRS),18.24,14.19,71.98,45.35,
 2026-03-19,Cuatro Cañadas - CEA-2 (GPRS),23.41,22.64,100.0,72.31,
 2026-03-19,Cuatro Cañadas - Colonia Chihuahua (GPRS),23.7,22.57,100.0,74.76,
+2026-03-19,Culta Challapata,21.0,-0.5,,,
+2026-03-19,Culta San Pedro de Totora,18.2,1.7,,,
 2026-03-19,Desaguadero_M,7.9,4.5,89.6,59.04,
 2026-03-19,El Común Caraparí,,,,,1.3
 2026-03-19,El Villar,,,,,7.2
+2026-03-19,Emborozu,,,,,4.5
 2026-03-19,Guajara-Mirim - Guayaramerín,,,,,0.1
 2026-03-19,Guanay_H (GPRS),,,,,52.4
 2026-03-19,Guayaramerin_M (GPRS),25.14,23.97,100.0,82.83,0.3
@@ -13152,21 +13477,26 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-19,Laguna Colorada (GPRS),3.61,1.02,55.05,25.97,
 2026-03-19,Mecapaca_M (GPRS),12.5,10.69,100.0,85.1,
 2026-03-19,Mizque - SDC (GPRS),14.32,12.3,94.9,55.62,5.0
+2026-03-19,Nuevo Mundo,,,,,3.4
 2026-03-19,Omereque - SDC (GPRS),21.37,19.76,91.5,84.0,57.2
 2026-03-19,Pairumani,,,,,25.4
 2026-03-19,Palos Blancos_M (GPRS),33.81,22.68,99.99,61.49,
 2026-03-19,Patacamaya Iniaf (GPRS),,,70.2,22.8,
 2026-03-19,Peña Amarilla_H (SAT),,,,,0.2
+2026-03-19,Pinos Sud,,,,,2.1
 2026-03-19,Pocona - SDC (GPRS),9.79,8.5,98.8,45.11,5.0
 2026-03-19,Pojo - SDC (GPRS),15.32,14.47,71.91,60.17,4.9
 2026-03-19,Porvenir_H (SAT),,,,,0.4
 2026-03-19,Potosi Los Pinos,,,,,0.5
 2026-03-19,Presa Misicuni (GPRS),5.19,3.83,86.9,63.28,5.2
 2026-03-19,Puente Abra_H- SDC (GPRS),,,,,1.4
+2026-03-19,Puente Sucre,,,,,6.5
 2026-03-19,Putucuni Calientes (GPRS),3.86,2.37,85.0,73.8,2.7
 2026-03-19,Quetenas (GPRS),8.33,3.96,45.59,28.26,
 2026-03-19,Río Chilenas (GPRS),17.29,0.06,72.05,7.76,
+2026-03-19,Sacabaya,22.0,-1.0,,,
 2026-03-19,Sacacani_M (GPRS),3.94,2.37,94.8,68.21,0.1
+2026-03-19,Sachapera,,,,,4.3
 2026-03-19,Salinas Iniaf (GPRS),,,39.8,8.9,
 2026-03-19,Salo_M (GPRS),10.62,6.75,74.64,65.45,
 2026-03-19,Samaipata,,,,,8.7
@@ -13180,6 +13510,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-19,San Pedro de Tiquina_M (GPRS),8.68,7.57,69.14,63.66,
 2026-03-19,Sarco,,,,,2.1
 2026-03-19,Sena_H (SAT),,,,,0.8
+2026-03-19,Sucre SENAMHI,24.0,11.4,,,
 2026-03-19,Sultaca_M (GPRS),8.83,6.61,92.76,30.02,
 2026-03-19,Sunjani (GPRS),2.7,1.42,91.5,55.36,3.8
 2026-03-19,Tarabuco,,,,,6.6
@@ -13191,13 +13522,17 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-19,Toralapa Iniaf (GPRS),,,,,6.8
 2026-03-19,Totora Qhocha_M,5.15,3.73,99.9,67.75,5.4
 2026-03-19,Totora i_M (GPRS),14.21,8.07,81.09,13.51,
+2026-03-19,Urriolagoytia,,,,,51.0
 2026-03-19,Viacha_M (GPRS),5.32,1.59,98.5,65.51,
 2026-03-19,Vila Vila - SDC (GPRS),13.06,11.57,85.7,57.75,0.9
+2026-03-19,Villa Alcala,,,,,15.0
 2026-03-19,Villa Rivero_M (GPRS),26.66,6.7,99.56,29.23,2.9
+2026-03-19,Villa Serrano,,,,,6.8
 2026-03-19,Villa Tunari_H (GPRS),,,,,7.1
 2026-03-19,Viscachas Chirage (GPRS),4.33,3.01,87.1,68.34,
 2026-03-19,Vivero Chimboco - SDC (GPRS),9.6,8.33,95.0,47.62,4.1
 2026-03-19,Vivero Viloma - SDC (GPRS),11.02,8.24,74.34,3.25,0.1
+2026-03-19,Yesera Norte,24.0,13.0,,,
 2026-03-20, Paniagua_M (GPRS),21.21,20.02,99.69,89.34,0.1
 2026-03-20,4 Esquinas (GPRS),6.03,4.82,97.2,45.07,
 2026-03-20,Aguadas (GPRS),6.33,4.73,95.0,42.81,
@@ -13214,6 +13549,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-20,Cotagaita (GPRS),16.15,12.64,75.21,39.25,
 2026-03-20,Cuatro Cañadas - CEA-2 (GPRS),26.1,24.86,94.5,74.14,
 2026-03-20,Cuatro Cañadas - Colonia Chihuahua (GPRS),26.25,24.88,93.4,75.08,11.4
+2026-03-20,Culta Challapata,16.0,5.0,,,3.2
+2026-03-20,Culta San Pedro de Totora,20.4,2.2,,,
 2026-03-20,Desaguadero_M,8.38,5.15,55.56,36.11,
 2026-03-20,Guayaramerin_M (GPRS),25.61,24.71,96.86,73.05,
 2026-03-20,Huancane Corapata_M (GPRS),8.04,4.76,80.7,55.03,
@@ -13230,6 +13567,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-20,Omereque - SDC (GPRS),23.82,21.12,92.9,87.7,
 2026-03-20,Palos Blancos_M (GPRS),22.52,22.02,99.97,81.13,
 2026-03-20,Patacamaya Iniaf (GPRS),,,78.6,21.6,
+2026-03-20,Pocohota - Jalsuri,,,,,5.2
 2026-03-20,Pocona - SDC (GPRS),12.25,11.0,98.6,55.43,
 2026-03-20,Pojo - SDC (GPRS),16.24,15.38,87.0,62.21,
 2026-03-20,Porvenir_H (SAT),,,,,1.0
@@ -13237,7 +13575,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-20,Putucuni Calientes (GPRS),5.53,2.49,72.39,63.05,
 2026-03-20,Quetenas (GPRS),4.49,1.24,30.05,8.35,
 2026-03-20,Río Chilenas (GPRS),17.27,-5.26,47.39,4.85,
+2026-03-20,Sacabaya,22.5,-1.0,,,
 2026-03-20,Sacacani_M (GPRS),6.76,4.14,87.2,43.22,
+2026-03-20,Sachapera,,,,,3.0
 2026-03-20,Salinas Iniaf (GPRS),19.6,-0.1,32.0,6.9,
 2026-03-20,Salo_M (GPRS),12.59,8.23,72.95,34.81,
 2026-03-20,Samaipata,,,,,3.5
@@ -13250,6 +13590,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-20,San Pablo de Lipez (GPRS),4.33,0.92,28.43,16.18,
 2026-03-20,San Pedro - Río Victoria (GPRS),24.8,23.95,94.9,80.4,
 2026-03-20,San Pedro de Tiquina_M (GPRS),10.91,7.7,63.27,53.5,
+2026-03-20,Sucre SENAMHI,25.0,13.0,,,
 2026-03-20,Sultaca_M (GPRS),9.03,8.04,81.48,60.33,
 2026-03-20,Sunjani (GPRS),5.38,2.79,100.0,43.25,
 2026-03-20,Templo (GPRS),4.64,2.46,87.8,46.27,
@@ -13267,6 +13608,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-20,Viscachas Chirage (GPRS),7.56,4.9,88.1,60.95,
 2026-03-20,Vivero Chimboco - SDC (GPRS),14.45,12.75,74.8,47.24,
 2026-03-20,Vivero Viloma - SDC (GPRS),16.75,13.52,61.86,0.29,
+2026-03-20,Viña Quemada,,,,,8.0
+2026-03-20,Yesera Norte,24.0,10.0,,,
 2026-03-21, Paniagua_M (GPRS),22.39,21.32,99.72,99.66,0.5
 2026-03-21,4 Esquinas (GPRS),8.0,7.36,82.4,63.51,1.1
 2026-03-21,Aguadas (GPRS),7.95,7.13,83.9,64.35,0.9
@@ -13283,6 +13626,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-21,Cotagaita (GPRS),18.79,12.32,64.41,25.62,
 2026-03-21,Cuatro Cañadas - CEA-2 (GPRS),24.68,24.2,90.5,69.98,
 2026-03-21,Cuatro Cañadas - Colonia Chihuahua (GPRS),24.8,24.16,85.7,70.21,
+2026-03-21,Culta Challapata,18.9,1.0,,,1.0
+2026-03-21,Culta San Pedro de Totora,17.3,1.5,,,
 2026-03-21,Desaguadero_M,9.27,5.51,84.2,46.73,
 2026-03-21,Guajara-Mirim - Guayaramerín,,,,,2.1
 2026-03-21,Guayaramerin_M (GPRS),24.04,23.1,100.0,98.37,19.2
@@ -13297,9 +13642,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-21,Mecapaca_M (GPRS),14.27,12.45,78.32,57.07,
 2026-03-21,Mizque - SDC (GPRS),16.35,14.87,93.4,66.93,
 2026-03-21,Omereque - SDC (GPRS),23.35,20.67,86.7,80.5,
+2026-03-21,Padilla,,,,,6.0
 2026-03-21,Pairumani,,,,,34.3
 2026-03-21,Palos Blancos_M (GPRS),24.25,23.96,99.97,86.82,
 2026-03-21,Patacamaya Iniaf (GPRS),,,81.5,14.0,4.6
+2026-03-21,Pinos Sud,,,,,6.7
+2026-03-21,Pocohota - Jalsuri,,,,,2.1
 2026-03-21,Pocona - SDC (GPRS),17.83,16.38,62.71,45.23,
 2026-03-21,Pojo - SDC (GPRS),18.47,16.3,81.0,69.49,
 2026-03-21,Porvenir_H (SAT),,,,,1.8
@@ -13307,10 +13655,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-21,Putucuni Calientes (GPRS),5.38,4.51,96.4,69.87,
 2026-03-21,Quetenas (GPRS),3.47,1.81,19.53,5.27,
 2026-03-21,Río Chilenas (GPRS),2.08,-1.7,35.53,7.36,
+2026-03-21,Sacabaya,19.5,-2.5,,,
 2026-03-21,Sacacani_M (GPRS),4.86,1.59,89.2,55.58,7.4
+2026-03-21,Sachapera,,,,,2.1
 2026-03-21,Salinas Iniaf (GPRS),6.7,4.0,,,
 2026-03-21,Salo_M (GPRS),8.36,3.15,46.52,18.44,
 2026-03-21,San Antonio - Los Ángeles (GPRS),24.62,24.21,91.0,78.41,
+2026-03-21,San Benito,,,,,3.0
 2026-03-21,San Buenaventura_M (GPRS),25.16,23.76,99.92,91.36,
 2026-03-21,San Jacinto_M (GPRS),16.84,14.55,97.0,65.63,
 2026-03-21,San Juan de Yapacaní,,,,,2.6
@@ -13320,6 +13671,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-21,San Pablo de Lipez (GPRS),3.49,-1.12,18.25,11.66,
 2026-03-21,San Pedro - Río Victoria (GPRS),25.28,24.7,87.8,76.91,
 2026-03-21,San Pedro de Tiquina_M (GPRS),10.42,8.09,77.42,63.93,0.9
+2026-03-21,Sarco,,,,,0.1
+2026-03-21,Sucre SENAMHI,25.8,13.0,,,
 2026-03-21,Sultaca_M (GPRS),11.6,9.05,86.18,85.18,0.5
 2026-03-21,Sunjani (GPRS),7.81,6.44,85.5,65.34,7.6
 2026-03-21,Templo (GPRS),6.22,5.26,89.7,76.83,8.1
@@ -13337,6 +13690,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-21,Viscachas Chirage (GPRS),8.71,7.43,90.1,68.47,
 2026-03-21,Vivero Chimboco - SDC (GPRS),16.58,15.06,73.09,43.96,
 2026-03-21,Vivero Viloma - SDC (GPRS),19.79,15.01,89.4,0.09,
+2026-03-21,Yesera Norte,24.0,12.0,,,
 2026-03-22, Paniagua_M (GPRS),22.06,17.97,99.72,78.15,82.4
 2026-03-22,4 Esquinas (GPRS),6.57,2.94,94.2,64.15,12.3
 2026-03-22,Aguadas (GPRS),6.31,3.04,92.8,60.14,13.0
@@ -13346,6 +13700,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-22,Anzaldo_M (GPRS),14.75,10.14,100.0,87.79,11.6
 2026-03-22,Apolo_M (GPRS),19.08,17.93,93.18,68.04,
 2026-03-22,Cabaña Forestal Oruro,20.7,8.4,,,
+2026-03-22,Cachimayu,,,,,3.0
 2026-03-22,Camargo_M (GPRS),20.01,17.89,68.99,39.81,
 2026-03-22,Caranavi_H (GPRS),,,,,24.7
 2026-03-22,Carura_M - Guanay (GPRS),23.31,20.04,98.35,76.51,2.6
@@ -13356,8 +13711,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-22,Cotagaita (GPRS),18.35,16.33,73.14,27.13,
 2026-03-22,Cuatro Cañadas - CEA-2 (GPRS),31.03,24.33,86.6,68.41,
 2026-03-22,Cuatro Cañadas - Colonia Chihuahua (GPRS),25.65,24.02,100.0,64.36,
+2026-03-22,Culta Challapata,14.0,5.0,,,6.4
+2026-03-22,Culta San Pedro de Totora,17.3,1.4,,,
 2026-03-22,Desaguadero_M,10.77,9.4,91.0,55.26,7.7
 2026-03-22,El Común Caraparí,,,,,3.8
+2026-03-22,El Villar,,,,,9.5
+2026-03-22,Emborozu,,,,,40.0
 2026-03-22,Guajara-Mirim - Guayaramerín,,,,,3.8
 2026-03-22,Guanay_H (GPRS),,,,,39.9
 2026-03-22,Guayaramerin_M (GPRS),24.51,23.71,100.0,88.8,
@@ -13368,36 +13727,52 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-22,Ixiamas_M (GPRS),23.15,21.63,98.83,77.82,6.2
 2026-03-22,Jesús de Machaca_M (GPRS),6.6,5.04,97.1,50.27,5.1
 2026-03-22,La Asunta_H (GPRS),,,,,33.8
+2026-03-22,La Violeta,,,,,14.0
 2026-03-22,Laguna Colorada (GPRS),2.65,-3.75,63.34,3.57,
 2026-03-22,Mecapaca_M (GPRS),15.56,14.7,100.0,64.14,2.1
 2026-03-22,Mizque - SDC (GPRS),18.58,16.25,93.9,56.26,15.4
+2026-03-22,Nuevo Mundo,,,,,42.3
 2026-03-22,Omereque - SDC (GPRS),22.45,20.84,95.9,87.6,10.0
 2026-03-22,Palos Blancos_M (GPRS),24.81,24.15,99.97,83.35,3.9
 2026-03-22,Patacamaya Iniaf (GPRS),,,74.6,44.4,
+2026-03-22,Pocohota - Jalsuri,,,,,11.2
 2026-03-22,Pocona - SDC (GPRS),14.05,11.93,98.0,58.14,23.0
 2026-03-22,Pojo - SDC (GPRS),17.09,15.45,89.0,69.75,12.2
+2026-03-22,Poroma (CHQ),,,,,8.0
 2026-03-22,Porvenir_H (SAT),,,,,0.6
+2026-03-22,Potolo,,,,,10.4
 2026-03-22,Presa Misicuni (GPRS),7.81,4.67,95.5,69.46,12.4
+2026-03-22,Puente Sucre,,,,,5.0
 2026-03-22,Putucuni Calientes (GPRS),3.57,0.17,92.1,80.1,3.6
 2026-03-22,Quetenas (GPRS),6.35,-0.6,45.72,6.6,
+2026-03-22,Ravelo,,,,,25.5
+2026-03-22,Rosario del Ingre,,,,,4.0
 2026-03-22,Río Chilenas (GPRS),16.89,0.15,64.1,9.47,
+2026-03-22,Sacabaya,19.5,-1.5,,,
 2026-03-22,Sacacani_M (GPRS),6.83,6.18,95.3,49.41,0.1
+2026-03-22,Sachapera,,,,,1.2
 2026-03-22,Salinas Iniaf (GPRS),,,48.2,11.8,
 2026-03-22,Salo_M (GPRS),13.36,8.2,65.85,54.06,
 2026-03-22,Samaipata,,,,,11.3
+2026-03-22,Samasa,,,,,9.2
 2026-03-22,San Antonio - Los Ángeles (GPRS),25.2,24.72,96.7,87.2,
+2026-03-22,San Benito,,,,,11.0
 2026-03-22,San Buenaventura_M (GPRS),25.34,23.12,99.91,95.71,
 2026-03-22,San Jacinto_M (GPRS),18.22,16.62,92.7,47.48,0.1
 2026-03-22,San Juan de Yapacaní,,,,,14.6
 2026-03-22,San Julian - Comunidad Los Angeles (GPRS),25.59,24.77,100.0,60.58,
 2026-03-22,San Julian - Nucleo 32 (GPRS),26.43,25.7,100.0,64.73,
+2026-03-22,San Lucas,,,,,15.0
 2026-03-22,San Martin,22.0,6.3,,,
 2026-03-22,San Pablo de Lipez (GPRS),5.05,2.19,64.4,15.68,
 2026-03-22,San Pedro - Río Victoria (GPRS),25.4,25.17,94.9,85.7,
 2026-03-22,San Pedro de Tiquina_M (GPRS),10.16,9.35,86.2,60.26,3.8
+2026-03-22,Sarco,,,,,7.3
 2026-03-22,Sena_H (SAT),,,,,0.8
+2026-03-22,Sucre SENAMHI,22.0,12.6,,,5.0
 2026-03-22,Sultaca_M (GPRS),10.3,9.51,95.68,86.95,
 2026-03-22,Sunjani (GPRS),6.44,1.63,96.4,69.12,13.1
+2026-03-22,Talula_Tako Tako,,,,,12.1
 2026-03-22,Templo (GPRS),4.44,0.48,96.0,74.11,12.2
 2026-03-22,Temporal - SDC (GPRS),14.15,11.21,75.52,0.05,4.2
 2026-03-22,Tiraque_M (GPRS),12.17,8.18,92.8,51.93,11.1
@@ -13406,13 +13781,19 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-22,Toralapa Iniaf (GPRS),,,100.0,61.0,18.8
 2026-03-22,Totora Qhocha_M,7.37,5.1,97.9,72.01,21.4
 2026-03-22,Totora i_M (GPRS),14.84,9.95,69.6,58.01,
+2026-03-22,Urriolagoytia,,,,,42.0
 2026-03-22,Viacha_M (GPRS),8.0,5.51,97.6,53.84,0.5
 2026-03-22,Vila Vila - SDC (GPRS),16.98,13.38,92.7,58.04,13.1
+2026-03-22,Villa Alcala,,,,,26.5
 2026-03-22,Villa Rivero_M (GPRS),16.08,11.29,99.46,99.41,9.8
+2026-03-22,Villa Serrano,,,,,11.6
 2026-03-22,Villa Tunari_H (GPRS),,,,,177.3
 2026-03-22,Viscachas Chirage (GPRS),7.51,2.97,93.4,70.42,0.1
 2026-03-22,Vivero Chimboco - SDC (GPRS),17.52,12.17,99.4,47.18,9.9
 2026-03-22,Vivero Viloma - SDC (GPRS),14.74,12.08,99.1,0.17,17.3
+2026-03-22,Viña Quemada,,,,,10.0
+2026-03-22,Yesera Norte,26.0,15.0,,,
+2026-03-22,Ñucchu,,,,,2.0
 2026-03-23, Paniagua_M (GPRS),20.97,19.81,98.92,67.43,1.5
 2026-03-23,4 Esquinas (GPRS),5.82,3.43,94.2,82.3,0.1
 2026-03-23,Aguadas (GPRS),4.85,3.03,94.4,78.9,0.1
@@ -13432,7 +13813,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-23,Cotagaita (GPRS),14.69,9.92,80.6,61.32,
 2026-03-23,Cuatro Cañadas - CEA-2 (GPRS),24.07,23.74,93.3,86.2,0.4
 2026-03-23,Cuatro Cañadas - Colonia Chihuahua (GPRS),23.83,23.63,90.8,82.1,3.6
+2026-03-23,Culta Challapata,17.5,1.5,,,
+2026-03-23,Culta San Pedro de Totora,17.5,1.5,,,2.7
 2026-03-23,Desaguadero_M,9.2,7.37,87.0,72.21,5.9
+2026-03-23,Emborozu,,,,,5.0
 2026-03-23,Guajara-Mirim - Guayaramerín,,,,,2.4
 2026-03-23,Guanay_H (GPRS),,,,,8.0
 2026-03-23,Guayaramerin_M (GPRS),22.96,22.71,97.26,76.44,10.1
@@ -13448,17 +13832,23 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-23,Mecapaca_M (GPRS),13.75,12.9,100.0,69.39,0.3
 2026-03-23,Mizque - SDC (GPRS),15.08,12.75,94.3,84.6,0.3
 2026-03-23,Omereque - SDC (GPRS),21.58,19.21,94.8,93.0,1.8
+2026-03-23,Padilla,,,,,3.3
 2026-03-23,Palos Blancos_M (GPRS),,,,,0.1
 2026-03-23,Patacamaya Iniaf (GPRS),,,81.5,30.1,
+2026-03-23,Pocohota - Jalsuri,,,,,3.1
 2026-03-23,Pocona - SDC (GPRS),16.77,15.12,56.69,49.5,4.7
 2026-03-23,Pojo - SDC (GPRS),18.14,17.07,87.5,74.25,0.3
+2026-03-23,Porvenir_H (SAT),,,,,1.0
 2026-03-23,Potosi Los Pinos,,,,,4.0
 2026-03-23,Presa Misicuni (GPRS),7.11,5.87,90.9,85.8,0.1
 2026-03-23,Punilla,,,,,15.6
 2026-03-23,Putucuni Calientes (GPRS),3.9,2.22,87.8,78.17,10.2
 2026-03-23,Quetenas (GPRS),5.19,1.43,31.94,19.93,
+2026-03-23,Rosario del Ingre,,,,,8.0
 2026-03-23,Río Chilenas (GPRS),17.61,-5.85,42.46,6.27,
+2026-03-23,Sacabaya,22.5,-2.0,,,
 2026-03-23,Sacacani_M (GPRS),7.55,6.77,97.4,78.1,1.6
+2026-03-23,Sachapera,,,,,5.4
 2026-03-23,Salinas Iniaf (GPRS),,,67.6,20.1,
 2026-03-23,Salo_M (GPRS),9.87,2.42,,,
 2026-03-23,San Antonio - Los Ángeles (GPRS),23.9,23.66,93.8,90.1,
@@ -13466,12 +13856,16 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-23,San Jacinto_M (GPRS),15.83,13.95,97.9,91.1,
 2026-03-23,San Julian - Comunidad Los Angeles (GPRS),24.12,23.66,93.2,86.7,1.4
 2026-03-23,San Julian - Nucleo 32 (GPRS),24.91,24.26,98.0,91.8,4.4
+2026-03-23,San Lucas,,,,,5.0
 2026-03-23,San Martin,,3.4,,,
 2026-03-23,San Pablo de Lipez (GPRS),6.42,2.34,35.66,24.99,
 2026-03-23,San Pedro - Río Victoria (GPRS),24.23,23.79,91.8,88.0,66.2
 2026-03-23,San Pedro de Tiquina_M (GPRS),9.86,5.99,75.8,73.83,13.1
+2026-03-23,Sarco,,,,,0.1
+2026-03-23,Sucre SENAMHI,25.5,12.0,,,
 2026-03-23,Sultaca_M (GPRS),10.97,8.79,,,1.2
 2026-03-23,Sunjani (GPRS),5.62,2.68,94.9,86.7,
+2026-03-23,Talula_Tako Tako,,,,,0.7
 2026-03-23,Tarapaya,,,,,3.6
 2026-03-23,Templo (GPRS),4.93,2.87,87.7,81.6,1.0
 2026-03-23,Temporal - SDC (GPRS),13.05,11.57,0.47,0.25,
@@ -13488,8 +13882,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-23,Viscachas Chirage (GPRS),6.8,4.41,85.9,81.8,
 2026-03-23,Vivero Chimboco - SDC (GPRS),13.27,11.31,74.98,56.34,0.2
 2026-03-23,Vivero Viloma - SDC (GPRS),17.21,11.24,91.3,61.22,
+2026-03-23,Yesera Norte,16.0,12.0,,,1.8
 2026-03-24, Paniagua_M (GPRS),21.6,21.19,99.72,98.42,0.1
 2026-03-24,4 Esquinas (GPRS),8.34,6.47,92.1,87.7,3.5
+2026-03-24,Abapo_H (SAT),,,,,21.2
 2026-03-24,Aguadas (GPRS),8.49,6.35,92.5,90.4,3.5
 2026-03-24,Aiquile (GPRS),17.4,14.79,95.6,91.2,
 2026-03-24,Alcantarí_Aeropuerto,,,,,1.8
@@ -13509,8 +13905,12 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-24,Cotagaita_H (GPRS),,,,,0.2
 2026-03-24,Cuatro Cañadas - CEA-2 (GPRS),25.52,21.57,85.8,66.29,
 2026-03-24,Cuatro Cañadas - Colonia Chihuahua (GPRS),25.34,21.74,94.4,73.69,2.4
+2026-03-24,Culpina,,,,,0.2
+2026-03-24,Culta Challapata,14.2,2.0,,,5.1
+2026-03-24,Culta San Pedro de Totora,17.4,2.4,,,1.2
 2026-03-24,Desaguadero_M,9.69,7.64,91.7,67.84,4.3
 2026-03-24,El Común Caraparí,,,,,1.4
+2026-03-24,Emborozu,,,,,18.0
 2026-03-24,Guayaramerin_M (GPRS),25.87,25.0,100.0,85.34,
 2026-03-24,Huancane Corapata_M (GPRS),8.2,7.12,97.9,84.5,
 2026-03-24,Huarisuyo (GPRS),7.82,6.46,97.6,75.68,
@@ -13518,24 +13918,36 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-24,Ixiamas S.(GPRS),29.2,22.7,100.0,81.2,1.6
 2026-03-24,Ixiamas_M (GPRS),23.6,22.02,98.89,92.83,1.1
 2026-03-24,Jesús de Machaca_M (GPRS),7.9,4.65,98.7,66.88,0.2
+2026-03-24,La Violeta,,,,,21.0
 2026-03-24,Laguna Colorada (GPRS),2.92,-2.44,51.61,26.85,
+2026-03-24,Llallagua,,,,,6.2
 2026-03-24,Mecapaca_M (GPRS),15.29,14.11,100.0,83.95,
 2026-03-24,Mizque - SDC (GPRS),19.16,15.24,94.4,93.5,26.6
+2026-03-24,Nuevo Mundo,,,,,6.8
 2026-03-24,Omereque - SDC (GPRS),23.43,20.59,96.3,83.2,20.2
 2026-03-24,Pairumani,,,,,22.2
 2026-03-24,Patacamaya Iniaf (GPRS),,,89.9,52.2,
+2026-03-24,Pinos Sud,,,,,1.5
 2026-03-24,Pocona - SDC (GPRS),14.48,11.87,98.7,85.9,37.6
 2026-03-24,Pojo - SDC (GPRS),17.42,16.11,96.6,68.78,20.4
+2026-03-24,Poroma (CHQ),,,,,27.0
+2026-03-24,Porvenir_H (SAT),,,,,0.8
+2026-03-24,Potolo,,,,,3.0
 2026-03-24,Potosi Los Pinos,,,,,1.0
 2026-03-24,Presa Misicuni (GPRS),9.07,6.73,90.9,85.6,4.3
 2026-03-24,Punilla,,,,,8.3
 2026-03-24,Putucuni Calientes (GPRS),5.71,4.11,96.8,91.7,0.4
 2026-03-24,Quetenas (GPRS),7.78,2.06,32.33,24.38,
+2026-03-24,Ravelo,,,,,52.0
+2026-03-24,Rosario del Ingre,,,,,3.0
 2026-03-24,Río Chilenas (GPRS),16.67,-1.87,74.85,16.44,
+2026-03-24,Sacabaya,21.5,4.5,,,5.0
 2026-03-24,Sacacani_M (GPRS),9.65,5.99,90.5,72.88,
 2026-03-24,Salinas Iniaf (GPRS),,,90.9,41.5,
 2026-03-24,Salo_M (GPRS),13.84,12.53,71.85,35.38,
+2026-03-24,Samaipata,,,,,10.6
 2026-03-24,San Antonio - Los Ángeles (GPRS),25.51,22.53,82.9,69.29,
+2026-03-24,San Benito,,,,,20.0
 2026-03-24,San Jacinto_M (GPRS),14.04,13.46,96.4,69.14,
 2026-03-24,San Julian - Comunidad Los Angeles (GPRS),26.08,23.4,75.31,59.85,
 2026-03-24,San Julian - Nucleo 32 (GPRS),26.09,23.41,82.8,65.91,
@@ -13543,6 +13955,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-24,San Pablo de Lipez (GPRS),8.16,2.95,74.69,46.37,
 2026-03-24,San Pedro - Río Victoria (GPRS),25.8,23.75,80.0,72.32,
 2026-03-24,San Pedro de Tiquina_M (GPRS),10.38,8.94,89.1,72.13,14.3
+2026-03-24,Sarco,,,,,13.9
+2026-03-24,Sucre SENAMHI,20.0,12.5,,,6.8
 2026-03-24,Sultaca_M (GPRS),8.01,7.3,95.77,37.86,
 2026-03-24,Sunjani (GPRS),8.43,6.39,95.2,89.3,2.3
 2026-03-24,Templo (GPRS),6.35,4.08,97.3,94.5,3.0
@@ -13555,10 +13969,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-24,Viacha_M (GPRS),8.84,6.82,93.3,71.57,1.0
 2026-03-24,Vila Vila - SDC (GPRS),16.31,13.55,93.6,89.4,23.4
 2026-03-24,Villa Rivero_M (GPRS),15.12,11.62,99.57,76.65,15.1
+2026-03-24,Villa Serrano,,,,,6.8
 2026-03-24,Villa Tunari_H (GPRS),,,,,87.1
 2026-03-24,Viscachas Chirage (GPRS),8.6,6.16,92.4,86.3,
 2026-03-24,Vivero Chimboco - SDC (GPRS),17.04,13.01,99.4,99.4,19.5
 2026-03-24,Vivero Viloma - SDC (GPRS),16.07,12.99,99.2,23.96,18.9
+2026-03-24,Viña Quemada,,,,,2.2
+2026-03-24,Yesera Norte,20.0,11.0,,,2.5
 2026-03-25, Paniagua_M (GPRS),18.95,18.57,97.6,68.43,30.7
 2026-03-25,4 Esquinas (GPRS),4.56,3.35,94.6,71.02,16.0
 2026-03-25,Aguadas (GPRS),4.92,3.62,96.6,78.27,16.7
@@ -13577,6 +13994,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-25,Cotagaita (GPRS),16.67,12.32,68.43,57.13,
 2026-03-25,Cuatro Cañadas - CEA-2 (GPRS),23.03,22.04,100.0,87.4,
 2026-03-25,Cuatro Cañadas - Colonia Chihuahua (GPRS),22.59,22.13,100.0,85.1,
+2026-03-25,Culta Challapata,13.2,1.5,,,2.0
+2026-03-25,Culta San Pedro de Totora,16.3,1.4,,,
 2026-03-25,Desaguadero_M,6.66,5.74,95.1,76.64,0.5
 2026-03-25,Guanay_H (GPRS),,,,,33.5
 2026-03-25,Guayaramerin_M (GPRS),23.54,23.23,100.0,84.35,36.4
@@ -13591,25 +14010,37 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-25,Mecapaca_M (GPRS),11.99,10.38,100.0,76.02,22.2
 2026-03-25,Mizque - SDC (GPRS),16.53,14.31,90.9,64.96,4.8
 2026-03-25,Omereque - SDC (GPRS),19.95,18.38,89.0,82.6,11.0
+2026-03-25,Padilla,,,,,3.5
+2026-03-25,Pairumani,,,,,20.3
 2026-03-25,Patacamaya Iniaf (GPRS),,,87.1,43.3,0.2
+2026-03-25,Peña Amarilla_H (SAT),,,,,19.8
 2026-03-25,Pocona - SDC (GPRS),10.67,9.95,98.2,59.9,4.5
 2026-03-25,Pojo - SDC (GPRS),15.47,13.42,79.31,66.62,3.9
+2026-03-25,Porvenir_H (SAT),,,,,1.8
 2026-03-25,Presa Misicuni (GPRS),6.93,6.28,92.7,82.2,16.2
 2026-03-25,Puente Abra_H- SDC (GPRS),,,,,3.4
 2026-03-25,Putucuni Calientes (GPRS),5.39,4.98,86.1,74.35,9.6
 2026-03-25,Quetenas (GPRS),7.92,5.47,51.38,41.07,
 2026-03-25,Río Chilenas (GPRS),12.71,1.26,89.8,37.82,
+2026-03-25,Sacabaya,19.5,4.0,,,
 2026-03-25,Sacacani_M (GPRS),6.9,1.98,87.7,65.35,0.1
 2026-03-25,Salinas Iniaf (GPRS),,,83.8,44.1,64.0
 2026-03-25,Salo_M (GPRS),9.72,5.74,52.6,34.58,
+2026-03-25,Samaipata,,,,,2.1
+2026-03-25,Samasa,,,,,3.2
 2026-03-25,San Antonio - Los Ángeles (GPRS),23.58,23.01,95.1,82.7,
+2026-03-25,San Benito,,,,,1.0
 2026-03-25,San Jacinto_M (GPRS),16.36,14.14,94.5,77.74,0.1
 2026-03-25,San Julian - Comunidad Los Angeles (GPRS),24.06,23.47,91.1,76.23,
 2026-03-25,San Julian - Nucleo 32 (GPRS),24.8,24.39,90.3,78.37,
+2026-03-25,San Lucas,,,,,2.0
 2026-03-25,San Martin,,6.1,,,
 2026-03-25,San Pablo de Lipez (GPRS),5.45,2.5,77.93,59.02,2.2
 2026-03-25,San Pedro - Río Victoria (GPRS),23.64,23.0,92.6,80.2,
 2026-03-25,San Pedro de Tiquina_M (GPRS),8.81,7.34,81.8,71.88,1.5
+2026-03-25,Sarco,,,,,8.7
+2026-03-25,Sena_H (SAT),,,,,27.0
+2026-03-25,Sucre SENAMHI,21.5,12.5,,,
 2026-03-25,Sultaca_M (GPRS),9.6,8.34,74.33,43.16,
 2026-03-25,Sunjani (GPRS),5.38,3.71,95.0,80.4,14.7
 2026-03-25,Templo (GPRS),6.13,3.32,88.4,82.5,14.2
@@ -13627,8 +14058,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-25,Viscachas Chirage (GPRS),6.15,4.97,88.0,76.78,0.1
 2026-03-25,Vivero Chimboco - SDC (GPRS),11.53,11.1,99.5,83.7,8.7
 2026-03-25,Vivero Viloma - SDC (GPRS),11.6,10.27,90.7,15.94,8.0
+2026-03-25,Yesera Norte,21.0,11.0,,,
 2026-03-26, Paniagua_M (GPRS),19.16,18.56,99.74,84.93,9.1
 2026-03-26,4 Esquinas (GPRS),4.17,2.61,94.1,71.86,
+2026-03-26,Abapo_H (SAT),,,,,2.4
 2026-03-26,Aguadas (GPRS),4.4,3.08,90.2,68.61,5.7
 2026-03-26,Aiquile (GPRS),16.21,15.14,77.31,55.18,
 2026-03-26,Alto Peñas (GPRS),5.47,3.52,100.0,84.1,4.6
@@ -13643,6 +14076,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-26,Cotagaita (GPRS),17.48,15.99,69.03,52.05,
 2026-03-26,Cuatro Cañadas - CEA-2 (GPRS),28.07,23.74,97.4,79.15,
 2026-03-26,Cuatro Cañadas - Colonia Chihuahua (GPRS),25.6,24.23,97.1,91.4,
+2026-03-26,Culta Challapata,16.0,2.0,,,1.8
+2026-03-26,Culta San Pedro de Totora,19.3,2.7,,,
 2026-03-26,Desaguadero_M,9.0,6.92,91.8,81.8,9.3
 2026-03-26,Guajara-Mirim - Guayaramerín,,,,,2.8
 2026-03-26,Guanay_H (GPRS),,,,,0.1
@@ -13655,20 +14090,31 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-26,Jesús de Machaca_M (GPRS),6.96,5.88,89.0,72.35,10.3
 2026-03-26,La Asunta_H (GPRS),,,,,0.1
 2026-03-26,Laguna Colorada (GPRS),5.28,2.92,78.15,78.15,
+2026-03-26,Llallagua,,,,,8.0
 2026-03-26,Mecapaca_M (GPRS),13.24,11.84,100.0,78.33,
 2026-03-26,Mizque - SDC (GPRS),18.11,16.49,83.2,61.11,
+2026-03-26,Nuevo Mundo,,,,,9.6
 2026-03-26,Omereque - SDC (GPRS),21.99,20.01,89.9,79.5,
+2026-03-26,Padilla,,,,,6.5
+2026-03-26,Pairumani,,,,,10.2
 2026-03-26,Patacamaya Iniaf (GPRS),,,84.0,34.8,0.2
+2026-03-26,Peña Amarilla_H (SAT),,,,,7.8
 2026-03-26,Pocona - SDC (GPRS),12.64,11.38,94.8,73.78,
 2026-03-26,Pojo - SDC (GPRS),16.63,15.78,85.4,70.92,
+2026-03-26,Porvenir_H (SAT),,,,,1.6
+2026-03-26,Potosi Los Pinos,,,,,5.0
 2026-03-26,Presa Misicuni (GPRS),6.65,5.64,88.0,73.65,3.2
 2026-03-26,Putucuni Calientes (GPRS),3.62,0.86,89.6,83.3,3.1
 2026-03-26,Quetenas (GPRS),6.89,5.91,91.6,77.49,1.7
 2026-03-26,Río Chilenas (GPRS),4.63,4.17,88.3,76.24,3.4
+2026-03-26,Sacabaya,18.0,-0.5,,,
 2026-03-26,Sacacani_M (GPRS),6.78,3.42,84.1,73.5,
+2026-03-26,Sachapera,,,,,3.9
 2026-03-26,Salinas Iniaf (GPRS),,,90.8,41.8,52.0
 2026-03-26,Salo_M (GPRS),13.25,9.49,79.4,23.93,
+2026-03-26,Samaipata,,,,,1.8
 2026-03-26,San Antonio - Los Ángeles (GPRS),24.82,24.48,91.8,85.1,
+2026-03-26,San Benito,,,,,1.0
 2026-03-26,San Buenaventura_M (GPRS),29.92,22.72,99.87,75.49,
 2026-03-26,San Jacinto_M (GPRS),15.4,14.31,94.5,81.8,
 2026-03-26,San Julian - Comunidad Los Angeles (GPRS),26.54,25.16,91.4,85.4,
@@ -13676,6 +14122,8 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-26,San Pablo de Lipez (GPRS),7.66,6.01,85.1,74.94,4.0
 2026-03-26,San Pedro - Río Victoria (GPRS),24.98,23.89,91.7,83.9,
 2026-03-26,San Pedro de Tiquina_M (GPRS),9.01,6.86,86.7,81.1,3.2
+2026-03-26,Sena_H (SAT),,,,,9.4
+2026-03-26,Sucre SENAMHI,23.0,12.7,,,
 2026-03-26,Sultaca_M (GPRS),8.99,7.99,89.81,37.17,
 2026-03-26,Sunjani (GPRS),3.35,2.1,98.4,79.32,
 2026-03-26,Templo (GPRS),3.82,1.26,98.9,84.8,0.8
@@ -13687,12 +14135,16 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-26,Totora i_M (GPRS),14.38,13.16,78.76,21.62,
 2026-03-26,Viacha_M (GPRS),6.62,4.14,92.2,69.69,
 2026-03-26,Vila Vila - SDC (GPRS),15.02,13.37,81.1,66.39,5.2
+2026-03-26,Villa Alcala,,,,,6.5
 2026-03-26,Villa Rivero_M (GPRS),10.64,8.69,99.51,43.34,
+2026-03-26,Villa Serrano,,,,,3.0
 2026-03-26,Viscachas Chirage (GPRS),5.26,3.7,85.9,77.5,
 2026-03-26,Vivero Chimboco - SDC (GPRS),11.8,10.68,98.5,77.0,0.2
 2026-03-26,Vivero Viloma - SDC (GPRS),14.88,14.09,98.3,75.72,0.1
+2026-03-26,Yesera Norte,21.0,11.0,,,
 2026-03-27, Paniagua_M (GPRS),18.74,17.89,95.62,86.5,3.9
 2026-03-27,4 Esquinas (GPRS),4.39,2.26,93.0,79.57,7.5
+2026-03-27,Abapo_H (SAT),,,,,43.8
 2026-03-27,Aguadas (GPRS),4.54,2.19,95.4,81.7,5.4
 2026-03-27,Aiquile (GPRS),16.55,14.59,90.3,85.5,
 2026-03-27,Alto Peñas (GPRS),5.52,4.59,100.0,94.6,4.3
@@ -13709,7 +14161,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-27,Cotagaita (GPRS),18.44,14.25,78.89,62.81,
 2026-03-27,Cuatro Cañadas - CEA-2 (GPRS),24.4,23.02,98.6,90.5,7.6
 2026-03-27,Cuatro Cañadas - Colonia Chihuahua (GPRS),23.57,23.18,100.0,93.0,35.8
+2026-03-27,Culta Challapata,16.1,2.5,,,
+2026-03-27,Culta San Pedro de Totora,20.3,1.5,,,
 2026-03-27,Desaguadero_M,10.37,7.44,88.2,79.61,0.7
+2026-03-27,Emborozu,,,,,3.5
 2026-03-27,Guanay_H (GPRS),,,,,7.8
 2026-03-27,Guayaramerin_M (GPRS),23.38,22.98,100.0,95.0,1.8
 2026-03-27,Huancane Corapata_M (GPRS),6.27,4.89,88.9,83.8,0.3
@@ -13719,30 +14174,42 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-27,Ixiamas_M (GPRS),22.35,21.98,98.9,79.46,1.8
 2026-03-27,Jesús de Machaca_M (GPRS),7.51,4.78,89.9,80.0,
 2026-03-27,La Asunta_H (GPRS),,,,,3.0
+2026-03-27,La Violeta,,,,,4.0
 2026-03-27,Laguna Colorada (GPRS),5.17,3.94,78.41,73.67,0.3
 2026-03-27,MONTERO GUABIRA CIMAR,,,,,15.0
 2026-03-27,Mecapaca_M (GPRS),13.12,12.11,100.0,85.91,
 2026-03-27,Mizque - SDC (GPRS),17.53,16.14,88.7,77.95,
+2026-03-27,Nuevo Mundo,,,,,3.3
 2026-03-27,Omereque - SDC (GPRS),22.52,21.01,82.2,78.68,
+2026-03-27,Padilla,,,,,3.3
 2026-03-27,Patacamaya Iniaf (GPRS),19.4,4.6,77.4,27.7,
 2026-03-27,Pocona - SDC (GPRS),12.71,11.73,96.8,92.7,2.2
 2026-03-27,Pojo - SDC (GPRS),16.76,16.17,91.1,78.62,
+2026-03-27,Poroma (CHQ),,,,,6.0
+2026-03-27,Porvenir_H (SAT),,,,,3.2
 2026-03-27,Presa Misicuni (GPRS),7.88,5.42,89.3,82.7,3.8
 2026-03-27,Puente Abra_H- SDC (GPRS),,,,,1.2
 2026-03-27,Putucuni Calientes (GPRS),4.55,3.14,89.7,80.3,1.0
 2026-03-27,Quetenas (GPRS),6.82,5.75,82.8,77.82,6.1
+2026-03-27,Riberalta_H (GPRS),,,,,6.4
 2026-03-27,Río Chilenas (GPRS),,,90.4,40.68,
+2026-03-27,Sacabaya,20.5,5.5,,,3.0
 2026-03-27,Sacacani_M (GPRS),5.51,3.35,90.5,72.49,
+2026-03-27,Sachapera,,,,,5.8
 2026-03-27,Salinas Iniaf (GPRS),17.9,8.6,77.4,40.3,2.0
 2026-03-27,Salo_M (GPRS),10.48,8.45,66.58,53.51,
+2026-03-27,Samaipata,,,,,4.0
 2026-03-27,San Antonio - Los Ángeles (GPRS),24.28,24.09,93.2,91.6,
 2026-03-27,San Buenaventura_M (GPRS),23.36,22.49,96.68,92.71,
 2026-03-27,San Jacinto_M (GPRS),15.22,13.73,91.1,75.93,0.1
+2026-03-27,San Juan de Yapacaní,,,,,42.8
 2026-03-27,San Julian - Comunidad Los Angeles (GPRS),25.36,24.05,100.0,92.2,2.8
 2026-03-27,San Julian - Nucleo 32 (GPRS),24.81,24.33,95.9,86.4,0.4
 2026-03-27,San Pablo de Lipez (GPRS),5.8,3.87,74.88,68.4,6.7
 2026-03-27,San Pedro - Río Victoria (GPRS),23.52,23.25,95.7,75.49,
 2026-03-27,San Pedro de Tiquina_M (GPRS),9.15,7.77,88.2,82.4,1.2
+2026-03-27,Sena_H (SAT),,,,,4.6
+2026-03-27,Sucre SENAMHI,24.2,13.4,,,
 2026-03-27,Sultaca_M (GPRS),8.68,7.32,80.42,61.86,
 2026-03-27,Sunjani (GPRS),4.61,2.97,92.6,87.7,3.5
 2026-03-27,Templo (GPRS),4.07,2.6,92.0,89.7,7.1
@@ -13754,18 +14221,23 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-27,Totora i_M (GPRS),14.0,8.29,71.23,57.27,
 2026-03-27,Viacha_M (GPRS),5.32,3.36,94.6,75.81,
 2026-03-27,Vila Vila - SDC (GPRS),15.2,13.56,81.9,75.09,
+2026-03-27,Villa Alcala,,,,,10.0
 2026-03-27,Villa Rivero_M (GPRS),10.49,8.76,99.55,78.66,2.2
 2026-03-27,Villa Tunari_H (GPRS),,,,,16.6
 2026-03-27,Viscachas Chirage (GPRS),7.09,4.14,89.8,79.46,0.1
 2026-03-27,Vivero Chimboco - SDC (GPRS),12.02,10.65,99.3,81.6,1.9
 2026-03-27,Vivero Viloma - SDC (GPRS),14.01,13.47,95.8,93.8,1.6
+2026-03-27,Yesera Norte,25.0,13.0,,,0.5
 2026-03-28, Paniagua_M (GPRS),20.1,18.86,93.15,59.82,11.0
 2026-03-28,4 Esquinas (GPRS),6.47,4.05,86.7,71.85,
+2026-03-28,Abapo_H (SAT),,,,,14.2
 2026-03-28,Aguadas (GPRS),5.72,4.29,86.8,58.97,
 2026-03-28,Aiquile (GPRS),16.63,14.62,92.0,73.18,
+2026-03-28,Alcantarí_Aeropuerto,,,,,0.4
 2026-03-28,Alto Peñas (GPRS),6.44,5.04,84.0,68.89,
 2026-03-28,Anzaldo_M (GPRS),12.31,9.86,92.34,59.17,1.1
 2026-03-28,Apolo_M (GPRS),18.0,17.36,99.11,81.08,22.7
+2026-03-28,Cabaña Forestal Oruro,19.6,7.3,,,
 2026-03-28,Camargo_M (GPRS),17.78,15.42,53.51,27.55,
 2026-03-28,Caranavi_H (GPRS),,,,,13.8
 2026-03-28,Carura_M - Guanay (GPRS),21.57,21.22,98.48,69.77,1.9
@@ -13775,7 +14247,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-28,Cotagaita (GPRS),18.07,13.94,75.86,47.33,
 2026-03-28,Cuatro Cañadas - CEA-2 (GPRS),23.74,22.95,100.0,78.45,
 2026-03-28,Cuatro Cañadas - Colonia Chihuahua (GPRS),23.73,23.11,97.6,71.11,
+2026-03-28,Culta Challapata,17.5,2.5,,,3.0
+2026-03-28,Culta San Pedro de Totora,17.9,3.8,,,3.2
 2026-03-28,Desaguadero_M,7.83,6.98,89.5,64.91,
+2026-03-28,El Reloj,,,,,0.8
+2026-03-28,El Villar,,,,,4.0
 2026-03-28,Guanay_H (GPRS),,,,,4.0
 2026-03-28,Guayaramerin_M (GPRS),24.74,23.8,100.0,88.34,4.6
 2026-03-28,Huancane Corapata_M (GPRS),7.52,6.07,81.7,56.09,
@@ -13784,30 +14260,43 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-28,Ixiamas S.(GPRS),24.4,23.7,100.0,86.0,
 2026-03-28,Ixiamas_M (GPRS),23.23,22.59,98.82,72.96,1.3
 2026-03-28,Jesús de Machaca_M (GPRS),7.6,6.47,93.4,60.1,
+2026-03-28,Juntas,,,,,1.3
 2026-03-28,La Asunta_H (GPRS),,,,,37.2
 2026-03-28,Laguna Colorada (GPRS),4.79,0.28,82.1,55.16,
 2026-03-28,MONTERO GUABIRA CIMAR,,,,,5.0
 2026-03-28,Mecapaca_M (GPRS),13.34,12.15,95.17,50.42,0.6
 2026-03-28,Mizque - SDC (GPRS),18.98,15.43,94.0,57.79,
+2026-03-28,Nuevo Mundo,,,,,4.1
 2026-03-28,Omereque - SDC (GPRS),23.46,18.77,96.2,56.74,
 2026-03-28,Patacamaya Iniaf (GPRS),9.3,6.6,67.8,49.8,
+2026-03-28,Peña Amarilla_H (SAT),,,,,43.0
+2026-03-28,Pocohota - Jalsuri,,,,,2.4
 2026-03-28,Pocona - SDC (GPRS),14.37,12.12,95.9,66.13,
 2026-03-28,Pojo - SDC (GPRS),16.83,15.45,85.0,70.93,
+2026-03-28,Poroma (CHQ),,,,,7.0
+2026-03-28,Porvenir_H (SAT),,,,,1.0
 2026-03-28,Presa Misicuni (GPRS),7.53,5.6,85.5,60.2,
 2026-03-28,Puente Abra_H- SDC (GPRS),,,,,1.0
 2026-03-28,Putucuni Calientes (GPRS),3.61,1.55,95.7,68.88,
 2026-03-28,Quetenas (GPRS),7.14,4.01,82.5,43.66,
+2026-03-28,Ravelo,,,,,3.4
 2026-03-28,Río Chilenas (GPRS),14.44,1.01,89.8,28.27,4.3
+2026-03-28,Sacabaya,20.0,2.0,,,3.5
 2026-03-28,Sacacani_M (GPRS),7.88,5.85,87.2,57.34,
 2026-03-28,Salinas Iniaf (GPRS),11.9,9.0,82.0,56.7,58.0
 2026-03-28,Salo_M (GPRS),12.81,8.23,68.78,30.52,
+2026-03-28,Samaipata,,,,,6.8
 2026-03-28,San Antonio - Los Ángeles (GPRS),23.87,23.38,94.2,75.62,
 2026-03-28,San Jacinto_M (GPRS),17.9,16.55,90.6,55.49,
+2026-03-28,San Juan de Yapacaní,,,,,1.0
 2026-03-28,San Julian - Comunidad Los Angeles (GPRS),24.06,23.4,100.0,69.9,
 2026-03-28,San Julian - Nucleo 32 (GPRS),25.23,24.26,100.0,77.53,
 2026-03-28,San Pablo de Lipez (GPRS),5.97,4.04,73.81,45.09,
 2026-03-28,San Pedro - Río Victoria (GPRS),23.84,23.54,94.7,84.6,44.4
 2026-03-28,San Pedro de Tiquina_M (GPRS),9.27,7.56,80.7,70.18,0.1
+2026-03-28,Sarco,,,,,6.8
+2026-03-28,Sena_H (SAT),,,,,9.2
+2026-03-28,Sucre SENAMHI,23.5,13.0,,,0.5
 2026-03-28,Sultaca_M (GPRS),9.21,8.0,72.59,42.95,
 2026-03-28,Sunjani (GPRS),5.79,3.68,90.0,65.4,
 2026-03-28,Templo (GPRS),4.64,1.08,88.1,75.28,
@@ -13820,17 +14309,22 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-28,Viacha_M (GPRS),7.7,5.58,95.9,54.29,
 2026-03-28,Vila Vila - SDC (GPRS),15.54,12.34,88.2,59.41,
 2026-03-28,Villa Rivero_M (GPRS),12.59,11.07,93.07,56.26,
+2026-03-28,Villa Serrano,,,,,22.0
 2026-03-28,Villa Tunari_H (GPRS),,,,,0.3
 2026-03-28,Viscachas Chirage (GPRS),6.78,5.01,87.3,68.88,
 2026-03-28,Vivero Chimboco - SDC (GPRS),12.74,10.96,83.8,50.25,
 2026-03-28,Vivero Viloma - SDC (GPRS),14.72,12.07,92.1,0.06,0.1
+2026-03-28,Yesera Norte,25.0,15.0,,,1.5
+2026-03-28,Ñucchu,,,,,1.5
 2026-03-29, Paniagua_M (GPRS),18.92,18.04,94.91,59.52,38.8
 2026-03-29,4 Esquinas (GPRS),5.26,3.0,88.3,75.35,2.0
 2026-03-29,Aguadas (GPRS),5.14,2.9,91.6,74.78,4.6
 2026-03-29,Aiquile (GPRS),15.07,12.07,92.3,54.16,
+2026-03-29,Alcantarí_Aeropuerto,,,,,0.2
 2026-03-29,Alto Peñas (GPRS),4.63,3.44,100.0,73.33,0.3
 2026-03-29,Anzaldo_M (GPRS),11.78,10.76,100.0,60.06,0.2
 2026-03-29,Apolo_M (GPRS),17.13,16.34,97.03,69.92,5.1
+2026-03-29,Cabaña Forestal Oruro,16.0,7.9,,,1.6
 2026-03-29,Camargo_H (GPRS),,,,,0.3
 2026-03-29,Camargo_M (GPRS),17.3,12.74,56.76,31.48,0.5
 2026-03-29,Caranavi_H (GPRS),,,,,3.9
@@ -13841,7 +14335,10 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-29,Cotagaita (GPRS),17.48,12.24,71.82,47.66,
 2026-03-29,Cuatro Cañadas - CEA-2 (GPRS),24.13,23.48,99.9,70.04,
 2026-03-29,Cuatro Cañadas - Colonia Chihuahua (GPRS),24.03,22.73,100.0,69.28,2.6
+2026-03-29,Culta Challapata,16.7,2.0,,,0.5
+2026-03-29,Culta San Pedro de Totora,19.7,2.4,,,0.8
 2026-03-29,Desaguadero_M,7.92,6.28,91.7,65.28,9.3
+2026-03-29,Emborozu,,,,,2.5
 2026-03-29,Guanay_H (GPRS),,,,,5.4
 2026-03-29,Guayaramerin_M (GPRS),23.08,22.83,100.0,86.73,27.4
 2026-03-29,Huancane Corapata_M (GPRS),4.24,2.2,82.7,57.65,0.1
@@ -13855,24 +14352,39 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-29,MONTERO GUABIRA CIMAR,,,,,10.0
 2026-03-29,Mecapaca_M (GPRS),13.5,12.41,100.0,54.7,
 2026-03-29,Mizque - SDC (GPRS),17.86,16.33,81.1,52.76,
+2026-03-29,Muyuquiri,,,,,10.0
 2026-03-29,Omereque - SDC (GPRS),21.73,19.89,89.5,84.2,
 2026-03-29,Patacamaya Iniaf (GPRS),8.2,5.3,81.3,49.3,
+2026-03-29,Peña Amarilla_H (SAT),,,,,13.6
+2026-03-29,Pocohota - Jalsuri,,,,,3.0
 2026-03-29,Pocona - SDC (GPRS),11.33,9.76,86.5,56.73,1.5
 2026-03-29,Pojo - SDC (GPRS),15.52,14.47,77.17,59.85,0.2
+2026-03-29,Porvenir_H (SAT),,,,,4.0
+2026-03-29,Potolo,,,,,0.2
+2026-03-29,Potosi Los Pinos,,,,,1.8
 2026-03-29,Presa Misicuni (GPRS),6.11,4.92,92.6,73.5,2.3
+2026-03-29,Puente Sucre,,,,,15.0
+2026-03-29,Punilla,,,,,7.6
 2026-03-29,Putucuni Calientes (GPRS),2.39,1.61,92.9,82.1,13.4
 2026-03-29,Quetenas (GPRS),6.65,2.28,79.79,46.49,0.1
+2026-03-29,Rosario del Ingre,,,,,5.0
 2026-03-29,Río Chilenas (GPRS),5.93,3.66,90.1,48.44,
+2026-03-29,Sacabaya,21.0,5.0,,,
 2026-03-29,Sacacani_M (GPRS),6.36,4.02,84.4,63.84,
 2026-03-29,Salinas Iniaf (GPRS),11.0,8.6,66.0,48.1,
 2026-03-29,Salo_M (GPRS),11.47,5.7,66.92,31.65,
+2026-03-29,Samaipata,,,,,8.0
+2026-03-29,Samasa,,,,,6.6
 2026-03-29,San Antonio - Los Ángeles (GPRS),23.69,22.86,93.5,72.67,
 2026-03-29,San Jacinto_M (GPRS),15.42,13.62,97.7,56.47,
+2026-03-29,San Juan de Yapacaní,,,,,3.8
 2026-03-29,San Julian - Comunidad Los Angeles (GPRS),23.88,22.68,99.0,61.3,
 2026-03-29,San Julian - Nucleo 32 (GPRS),24.33,23.41,99.9,70.71,2.2
 2026-03-29,San Pablo de Lipez (GPRS),6.25,4.9,69.18,37.66,
 2026-03-29,San Pedro - Río Victoria (GPRS),24.23,22.89,96.3,87.4,
 2026-03-29,San Pedro de Tiquina_M (GPRS),8.12,6.39,82.8,60.8,0.2
+2026-03-29,Sena_H (SAT),,,,,8.0
+2026-03-29,Sucre SENAMHI,22.8,11.2,,,
 2026-03-29,Sultaca_M (GPRS),8.59,6.78,78.1,47.92,
 2026-03-29,Sunjani (GPRS),5.32,3.95,94.4,81.7,2.5
 2026-03-29,Templo (GPRS),3.25,2.64,96.6,81.6,2.1
@@ -13888,13 +14400,17 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-29,Viscachas Chirage (GPRS),5.62,4.51,91.6,76.88,0.1
 2026-03-29,Vivero Chimboco - SDC (GPRS),13.37,11.82,70.32,53.74,2.2
 2026-03-29,Vivero Viloma - SDC (GPRS),15.2,13.26,68.23,1.21,
+2026-03-29,Yesera Norte,25.0,12.0,,,
 2026-03-30, Paniagua_M (GPRS),19.49,18.76,96.69,73.15,0.6
 2026-03-30,4 Esquinas (GPRS),5.12,2.8,86.9,70.19,0.8
 2026-03-30,Aguadas (GPRS),4.77,3.55,82.7,68.89,2.7
 2026-03-30,Aiquile (GPRS),13.59,12.42,94.9,57.61,
+2026-03-30,Alcantarí_Aeropuerto,,,,,6.8
 2026-03-30,Alto Peñas (GPRS),4.75,3.98,98.0,76.47,2.7
 2026-03-30,Anzaldo_M (GPRS),10.12,7.92,95.9,69.43,4.9
 2026-03-30,Apolo_M (GPRS),16.77,16.37,97.47,72.93,0.8
+2026-03-30,Cabaña Forestal Oruro,17.9,6.4,,,
+2026-03-30,Cachimayu,,,,,2.3
 2026-03-30,Camargo_M (GPRS),17.17,12.42,57.56,32.93,
 2026-03-30,Caranavi_H (GPRS),,,,,0.3
 2026-03-30,Carura_M - Guanay (GPRS),20.75,20.57,98.45,76.95,1.9
@@ -13904,7 +14420,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-30,Cotagaita (GPRS),15.93,12.82,81.7,45.31,
 2026-03-30,Cuatro Cañadas - CEA-2 (GPRS),23.55,22.63,100.0,67.18,
 2026-03-30,Cuatro Cañadas - Colonia Chihuahua (GPRS),23.24,22.2,100.0,65.52,1.2
+2026-03-30,Culta Challapata,15.0,4.0,,,
+2026-03-30,Culta San Pedro de Totora,17.9,4.8,,,
 2026-03-30,Desaguadero_M,6.65,6.07,88.9,70.77,5.4
+2026-03-30,El Reloj,,,,,2.5
+2026-03-30,Emborozu,,,,,17.0
 2026-03-30,Guayaramerin_M (GPRS),23.29,22.9,100.0,79.01,3.6
 2026-03-30,Huancane Corapata_M (GPRS),6.33,3.97,95.5,61.79,0.8
 2026-03-30,Huarisuyo (GPRS),5.93,3.24,98.4,57.09,
@@ -13917,26 +14437,44 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-30,MONTERO GUABIRA CIMAR,,,,,8.0
 2026-03-30,Mecapaca_M (GPRS),12.83,12.15,100.0,60.61,
 2026-03-30,Mizque - SDC (GPRS),14.26,12.17,94.2,51.94,
+2026-03-30,Nuevo Mundo,,,,,8.5
 2026-03-30,Omereque - SDC (GPRS),22.25,19.32,86.1,83.2,
+2026-03-30,Palos Blancos_M (GPRS),31.63,21.06,99.99,68.7,
 2026-03-30,Patacamaya Iniaf (GPRS),7.1,5.7,,,
+2026-03-30,Peña Amarilla_H (SAT),,,,,37.2
 2026-03-30,Pocona - SDC (GPRS),8.62,7.24,99.2,60.71,9.3
 2026-03-30,Pojo - SDC (GPRS),15.32,13.62,77.81,56.35,
+2026-03-30,Poroma (CHQ),,,,,5.0
+2026-03-30,Porvenir_H (SAT),,,,,1.6
+2026-03-30,Potolo,,,,,15.3
+2026-03-30,Potosi Los Pinos,,,,,0.5
 2026-03-30,Presa Misicuni (GPRS),7.47,6.1,94.0,82.3,6.8
+2026-03-30,Punilla,,,,,12.3
 2026-03-30,Putucuni Calientes (GPRS),2.64,2.21,94.6,85.4,6.3
 2026-03-30,Quetenas (GPRS),7.81,4.66,78.73,40.99,
+2026-03-30,Ravelo,,,,,18.7
 2026-03-30,Río Chilenas (GPRS),4.81,2.13,84.6,58.96,
+2026-03-30,Sacabaya,14.0,1.5,,,9.2
 2026-03-30,Sacacani_M (GPRS),6.63,5.91,87.7,61.5,0.1
 2026-03-30,Salinas Iniaf (GPRS),7.4,5.5,,,4.0
 2026-03-30,Salo_M (GPRS),10.85,5.25,73.08,43.78,1.0
+2026-03-30,Samaipata,,,,,1.0
 2026-03-30,San Antonio - Los Ángeles (GPRS),23.37,22.9,98.4,78.16,
+2026-03-30,San Buenaventura_M (GPRS),31.04,23.47,99.9,64.21,
 2026-03-30,San Jacinto_M (GPRS),14.51,12.64,98.2,54.19,
+2026-03-30,San Juan de Yapacaní,,,,,0.4
 2026-03-30,San Julian - Comunidad Los Angeles (GPRS),23.22,22.55,100.0,64.62,6.2
 2026-03-30,San Julian - Nucleo 32 (GPRS),24.27,23.35,100.0,68.96,6.2
+2026-03-30,San Lucas,,,,,1.0
 2026-03-30,San Pablo de Lipez (GPRS),6.52,2.68,68.66,41.48,
 2026-03-30,San Pedro - Río Victoria (GPRS),24.03,23.07,95.9,78.27,
 2026-03-30,San Pedro de Tiquina_M (GPRS),8.62,7.95,75.72,67.83,
+2026-03-30,Sarco,,,,,0.2
+2026-03-30,Sena_H (SAT),,,,,34.8
+2026-03-30,Sucre SENAMHI,23.2,12.0,,,3.4
 2026-03-30,Sultaca_M (GPRS),7.84,6.54,76.58,52.18,0.2
 2026-03-30,Sunjani (GPRS),5.6,4.84,81.1,71.29,1.6
+2026-03-30,Talula_Tako Tako,,,,,1.4
 2026-03-30,Templo (GPRS),3.59,3.22,85.1,80.1,2.8
 2026-03-30,Temporal - SDC (GPRS),10.18,9.08,93.8,44.6,5.7
 2026-03-30,Tiraque_M (GPRS),7.46,5.82,81.8,81.8,2.4
@@ -13944,10 +14482,427 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2026-03-30,Toralapa Iniaf (GPRS),5.3,2.6,,,3.4
 2026-03-30,Totora Qhocha_M,5.34,3.38,89.3,69.68,0.8
 2026-03-30,Totora i_M (GPRS),10.77,7.81,69.84,45.22,0.1
+2026-03-30,Urriolagoytia,,,,,28.0
 2026-03-30,Viacha_M (GPRS),6.24,4.72,88.8,57.81,
 2026-03-30,Vila Vila - SDC (GPRS),13.65,11.3,84.4,61.3,
 2026-03-30,Villa Rivero_M (GPRS),10.23,8.91,99.57,64.71,14.6
+2026-03-30,Villa Serrano,,,,,2.6
 2026-03-30,Villa Tunari_H (GPRS),,,,,4.3
 2026-03-30,Viscachas Chirage (GPRS),5.82,5.01,92.9,77.81,
 2026-03-30,Vivero Chimboco - SDC (GPRS),11.22,9.39,99.4,55.66,2.5
 2026-03-30,Vivero Viloma - SDC (GPRS),11.52,9.84,99.1,0.08,3.7
+2026-03-30,Yesera Norte,25.0,11.0,,,
+2026-03-30,Ñucchu,,,,,2.0
+2026-03-31, Paniagua_M (GPRS),18.68,17.58,91.41,65.11,14.7
+2026-03-31,4 Esquinas (GPRS),4.73,-0.2,88.2,61.77,0.1
+2026-03-31,Aguadas (GPRS),2.89,0.38,86.2,54.05,
+2026-03-31,Aiquile (GPRS),13.63,12.06,95.0,48.59,
+2026-03-31,Alcantarí_Aeropuerto,,,,,18.2
+2026-03-31,Alto Peñas (GPRS),3.47,2.07,78.5,65.07,0.3
+2026-03-31,Anzaldo_M (GPRS),8.07,6.96,98.42,44.98,4.1
+2026-03-31,Apolo_M (GPRS),16.01,14.23,99.42,70.16,0.2
+2026-03-31,Cabaña Forestal Oruro,21.2,2.5,,,0.6
+2026-03-31,Camargo_H (GPRS),,,,,3.4
+2026-03-31,Camargo_M (GPRS),13.7,11.47,57.39,38.63,3.4
+2026-03-31,Carura_M - Guanay (GPRS),20.46,20.11,98.47,79.36,1.4
+2026-03-31,Chua Cocani_M (GPRS),4.47,3.51,95.6,71.31,1.9
+2026-03-31,Cotagaita (GPRS),14.82,10.34,87.8,44.03,
+2026-03-31,Cuatro Cañadas - CEA-2 (GPRS),25.06,23.68,90.3,59.11,
+2026-03-31,Cuatro Cañadas - Colonia Chihuahua (GPRS),23.31,21.8,99.6,61.55,
+2026-03-31,Culta Challapata,12.5,1.5,,,8.2
+2026-03-31,Culta San Pedro de Totora,17.7,3.5,,,
+2026-03-31,Desaguadero_M,7.37,5.41,93.5,63.32,2.6
+2026-03-31,Guayaramerin_M (GPRS),23.36,22.82,100.0,73.82,
+2026-03-31,Huancane Corapata_M (GPRS),4.16,1.93,91.1,55.55,
+2026-03-31,Huarisuyo (GPRS),3.08,-0.93,96.3,58.95,
+2026-03-31,Isla Suriqui_M (GPRS),8.36,5.35,97.3,69.87,
+2026-03-31,Ixiamas S.(GPRS),23.0,22.4,87.0,70.1,1.6
+2026-03-31,Ixiamas_M (GPRS),21.66,20.48,90.24,61.59,
+2026-03-31,Jesús de Machaca_M (GPRS),6.86,2.43,93.6,58.47,
+2026-03-31,La Asunta_H (GPRS),,,,,3.3
+2026-03-31,Laguna Colorada (GPRS),3.49,2.86,89.0,73.95,6.0
+2026-03-31,Mecapaca_M (GPRS),11.57,9.34,100.0,64.33,
+2026-03-31,Mizque - SDC (GPRS),13.66,11.69,93.3,49.6,
+2026-03-31,Omereque - SDC (GPRS),24.07,19.95,85.3,77.85,
+2026-03-31,Palos Blancos_M (GPRS),21.05,20.53,99.98,75.79,
+2026-03-31,Pocohota - Jalsuri,,,,,3.4
+2026-03-31,Pocona - SDC (GPRS),9.13,7.45,99.6,54.21,16.4
+2026-03-31,Pojo - SDC (GPRS),14.99,13.68,74.23,42.58,
+2026-03-31,Poroma (CHQ),,,,,1.5
+2026-03-31,Porvenir_H (SAT),,,,,1.0
+2026-03-31,Potolo,,,,,0.4
+2026-03-31,Presa Misicuni (GPRS),6.62,3.96,84.3,39.99,0.6
+2026-03-31,Putucuni Calientes (GPRS),3.12,2.39,71.43,29.18,
+2026-03-31,Quetenas (GPRS),5.51,2.92,84.0,56.14,0.6
+2026-03-31,Río Chilenas (GPRS),5.03,1.11,86.5,45.66,0.6
+2026-03-31,Sacabaya,17.0,3.7,,,1.0
+2026-03-31,Sacacani_M (GPRS),4.34,0.73,82.4,51.99,
+2026-03-31,Salo_M (GPRS),6.24,3.36,67.9,40.41,
+2026-03-31,San Antonio - Los Ángeles (GPRS),25.03,24.01,92.6,70.46,
+2026-03-31,San Buenaventura_M (GPRS),24.06,23.34,88.5,71.01,
+2026-03-31,San Jacinto_M (GPRS),14.2,12.06,97.6,53.9,
+2026-03-31,San Julian - Comunidad Los Angeles (GPRS),25.39,23.14,93.2,52.83,
+2026-03-31,San Julian - Nucleo 32 (GPRS),25.52,24.26,92.6,66.29,
+2026-03-31,San Lucas,,,,,0.5
+2026-03-31,San Pablo de Lipez (GPRS),4.63,2.59,71.47,52.3,0.4
+2026-03-31,San Pedro - Río Victoria (GPRS),24.2,22.76,95.6,66.49,
+2026-03-31,San Pedro de Tiquina_M (GPRS),8.68,6.84,82.9,66.2,
+2026-03-31,Sarco,,,,,1.6
+2026-03-31,Sucre SENAMHI,24.2,11.4,,,
+2026-03-31,Sultaca_M (GPRS),7.77,6.63,90.33,39.1,2.9
+2026-03-31,Sunjani (GPRS),3.86,1.03,80.1,37.71,1.2
+2026-03-31,Talula_Tako Tako,,,,,0.5
+2026-03-31,Templo (GPRS),2.54,0.63,73.81,60.3,2.9
+2026-03-31,Temporal - SDC (GPRS),10.12,8.9,84.8,0.7,4.6
+2026-03-31,Tiraque_M (GPRS),6.84,5.26,81.3,52.76,3.6
+2026-03-31,Toledo (GPRS),5.72,4.35,71.79,47.22,
+2026-03-31,Totora Qhocha_M,3.64,2.68,96.8,61.86,1.2
+2026-03-31,Totora i_M (GPRS),8.19,5.29,65.62,47.46,
+2026-03-31,Tupiza_1_H (GPRS),,,,,3.0
+2026-03-31,Viacha_M (GPRS),2.69,-0.38,99.1,49.86,
+2026-03-31,Vila Vila - SDC (GPRS),13.07,11.16,71.75,43.78,
+2026-03-31,Villa Rivero_M (GPRS),8.59,6.88,99.45,57.03,0.9
+2026-03-31,Viscachas Chirage (GPRS),4.51,2.42,80.5,43.78,0.1
+2026-03-31,Vivero Chimboco - SDC (GPRS),9.6,7.97,99.4,51.32,
+2026-03-31,Vivero Viloma - SDC (GPRS),12.94,9.15,99.1,1.54,
+2026-03-31,Yesera Norte,25.0,10.0,,,
+2026-04-01, Paniagua_M (GPRS),20.01,18.89,93.1,65.03,
+2026-04-01,4 Esquinas (GPRS),2.23,-1.14,87.2,36.75,
+2026-04-01,Aguadas (GPRS),2.25,0.11,76.64,31.73,
+2026-04-01,Aiquile (GPRS),11.7,9.37,94.8,42.69,
+2026-04-01,Alto Peñas (GPRS),7.24,4.21,85.1,66.02,4.3
+2026-04-01,Anzaldo_M (GPRS),7.51,6.17,88.62,44.24,
+2026-04-01,Apolo_M (GPRS),17.43,16.7,88.19,63.56,4.8
+2026-04-01,Camargo_M (GPRS),14.5,12.08,53.22,29.76,
+2026-04-01,Carura_M - Guanay (GPRS),20.25,19.49,98.19,61.55,1.1
+2026-04-01,Chua Cocani_M (GPRS),8.29,5.7,89.6,58.76,
+2026-04-01,Cotagaita (GPRS),14.53,11.92,65.55,36.56,
+2026-04-01,Cuatro Cañadas - CEA-2 (GPRS),30.71,24.0,90.6,69.59,
+2026-04-01,Cuatro Cañadas - Colonia Chihuahua (GPRS),23.63,22.52,92.5,61.04,
+2026-04-01,Desaguadero_M,8.61,8.02,88.9,67.01,0.3
+2026-04-01,Guayaramerin_M (GPRS),24.14,23.45,100.0,75.57,1.0
+2026-04-01,Huancane Corapata_M (GPRS),8.63,5.87,86.1,56.33,
+2026-04-01,Huarisuyo (GPRS),7.9,3.16,95.5,56.11,0.2
+2026-04-01,Isla Suriqui_M (GPRS),9.34,7.45,80.5,58.01,
+2026-04-01,Ixiamas S.(GPRS),,,,,0.4
+2026-04-01,Ixiamas_M (GPRS),21.25,20.17,90.4,55.1,
+2026-04-01,Jesús de Machaca_M (GPRS),6.66,6.0,81.3,62.16,3.2
+2026-04-01,Laguna Colorada (GPRS),3.41,0.79,81.9,47.08,0.3
+2026-04-01,Mecapaca_M (GPRS),14.63,12.91,95.61,49.77,
+2026-04-01,Mizque - SDC (GPRS),12.23,9.46,93.2,46.84,
+2026-04-01,Omereque - SDC (GPRS),23.91,19.63,82.8,76.69,
+2026-04-01,Palos Blancos_M (GPRS),22.23,21.23,99.98,80.72,
+2026-04-01,Pocona - SDC (GPRS),8.3,5.93,99.1,47.78,
+2026-04-01,Pojo - SDC (GPRS),14.86,12.9,67.83,43.22,
+2026-04-01,Porvenir_H (SAT),,,,,1.6
+2026-04-01,Presa Misicuni (GPRS),6.17,3.78,82.0,41.3,
+2026-04-01,Putucuni Calientes (GPRS),3.41,1.98,63.28,48.12,
+2026-04-01,Quetenas (GPRS),5.3,2.47,80.1,40.31,0.1
+2026-04-01,Río Chilenas (GPRS),3.64,3.08,90.5,56.69,3.8
+2026-04-01,Sacacani_M (GPRS),7.48,5.06,81.4,56.24,1.5
+2026-04-01,Salo_M (GPRS),12.19,8.77,62.31,44.16,
+2026-04-01,San Antonio - Los Ángeles (GPRS),24.3,22.69,91.4,65.78,
+2026-04-01,San Buenaventura_M (GPRS),23.55,22.46,83.93,65.16,
+2026-04-01,San Jacinto_M (GPRS),14.8,13.37,82.0,51.75,
+2026-04-01,San Julian - Comunidad Los Angeles (GPRS),25.5,23.65,85.0,53.47,
+2026-04-01,San Julian - Nucleo 32 (GPRS),25.57,23.76,86.0,68.71,
+2026-04-01,San Pablo de Lipez (GPRS),4.63,3.63,71.43,52.12,3.6
+2026-04-01,San Pedro - Río Victoria (GPRS),23.47,22.39,96.1,65.26,
+2026-04-01,San Pedro de Tiquina_M (GPRS),9.34,8.55,75.39,63.66,
+2026-04-01,Sena_H (SAT),,,,,0.4
+2026-04-01,Sultaca_M (GPRS),8.92,7.9,58.18,44.16,
+2026-04-01,Sunjani (GPRS),3.07,1.38,75.32,38.69,
+2026-04-01,Templo (GPRS),2.33,0.0,71.09,47.96,
+2026-04-01,Temporal - SDC (GPRS),11.3,9.2,51.8,0.02,
+2026-04-01,Tiraque_M (GPRS),8.72,4.67,51.92,41.62,
+2026-04-01,Toledo (GPRS),7.69,6.05,70.59,47.75,
+2026-04-01,Totora Qhocha_M,3.51,1.94,69.43,42.24,
+2026-04-01,Viacha_M (GPRS),9.24,4.54,84.7,52.08,
+2026-04-01,Vila Vila - SDC (GPRS),12.99,10.06,66.66,46.29,
+2026-04-01,Viscachas Chirage (GPRS),3.73,1.98,73.99,40.22,0.1
+2026-04-01,Vivero Chimboco - SDC (GPRS),10.5,7.27,59.88,34.16,
+2026-04-01,Vivero Viloma - SDC (GPRS),14.19,7.59,44.68,3.61,
+2026-04-02, Paniagua_M (GPRS),21.16,19.57,99.71,77.01,8.7
+2026-04-02,4 Esquinas (GPRS),4.47,1.82,85.6,35.04,
+2026-04-02,Aguadas (GPRS),3.88,1.02,78.22,25.38,
+2026-04-02,Aiquile (GPRS),12.52,10.74,93.1,48.73,
+2026-04-02,Alto Peñas (GPRS),5.76,3.62,94.8,70.45,0.1
+2026-04-02,Anzaldo_M (GPRS),12.54,11.25,69.32,44.73,
+2026-04-02,Apolo_M (GPRS),18.57,17.59,94.49,46.56,
+2026-04-02,Camargo_M (GPRS),14.09,11.58,49.71,26.67,
+2026-04-02,Carura_M - Guanay (GPRS),21.14,20.7,98.42,65.1,0.8
+2026-04-02,Chua Cocani_M (GPRS),8.55,5.47,90.2,73.64,5.2
+2026-04-02,Coroico_H (GPRS),,,,,1.4
+2026-04-02,Cotagaita (GPRS),17.26,13.37,73.58,39.33,
+2026-04-02,Cuatro Cañadas - CEA-2 (GPRS),,,91.8,47.44,
+2026-04-02,Cuatro Cañadas - Colonia Chihuahua (GPRS),22.59,21.35,96.6,61.49,
+2026-04-02,Desaguadero_M,7.63,6.39,85.4,67.12,5.2
+2026-04-02,Guayaramerin_M (GPRS),24.53,23.43,93.9,75.03,0.2
+2026-04-02,Huancane Corapata_M (GPRS),6.2,5.08,90.2,66.49,0.1
+2026-04-02,Huarisuyo (GPRS),6.32,1.85,98.2,63.17,
+2026-04-02,Isla Suriqui_M (GPRS),7.84,6.26,82.6,71.42,1.1
+2026-04-02,Ixiamas_M (GPRS),23.07,21.98,96.25,77.76,
+2026-04-02,Jesús de Machaca_M (GPRS),6.78,6.14,92.4,81.8,2.3
+2026-04-02,Laguna Colorada (GPRS),5.19,3.45,74.16,59.52,0.2
+2026-04-02,Mecapaca_M (GPRS),12.76,11.76,100.0,73.1,5.1
+2026-04-02,Mizque - SDC (GPRS),12.16,10.83,86.8,42.22,
+2026-04-02,Omereque - SDC (GPRS),23.69,20.48,77.12,68.91,
+2026-04-02,Palos Blancos_M (GPRS),21.66,20.8,99.96,82.13,
+2026-04-02,Peña Amarilla_H (SAT),,,,,3.2
+2026-04-02,Pocona - SDC (GPRS),8.55,6.47,98.6,47.32,
+2026-04-02,Pojo - SDC (GPRS),14.34,12.3,66.39,41.6,
+2026-04-02,Porvenir_H (SAT),,,,,1.2
+2026-04-02,Presa Misicuni (GPRS),6.96,4.44,82.5,37.85,
+2026-04-02,Putucuni Calientes (GPRS),3.47,2.05,66.01,50.53,5.7
+2026-04-02,Quetenas (GPRS),4.39,3.24,87.6,67.88,9.4
+2026-04-02,Río Chilenas (GPRS),10.12,-0.57,99.6,50.41,6.0
+2026-04-02,Sacacani_M (GPRS),5.98,5.26,85.7,67.96,0.1
+2026-04-02,Salo_M (GPRS),9.46,7.01,73.89,53.97,7.2
+2026-04-02,San Antonio - Los Ángeles (GPRS),24.38,23.49,90.5,72.93,
+2026-04-02,San Buenaventura_M (GPRS),24.93,24.43,,,
+2026-04-02,San Jacinto_M (GPRS),16.62,12.72,98.6,49.82,
+2026-04-02,San Julian - Comunidad Los Angeles (GPRS),24.91,23.4,86.1,57.71,
+2026-04-02,San Julian - Nucleo 32 (GPRS),24.53,23.94,86.0,67.13,
+2026-04-02,San Pablo de Lipez (GPRS),3.39,2.43,85.5,73.67,9.7
+2026-04-02,San Pedro - Río Victoria (GPRS),24.69,23.33,92.5,70.97,
+2026-04-02,San Pedro de Tiquina_M (GPRS),9.34,6.0,91.9,75.01,14.6
+2026-04-02,Sultaca_M (GPRS),8.56,6.06,51.15,46.58,0.4
+2026-04-02,Sunjani (GPRS),4.34,2.6,80.4,31.41,
+2026-04-02,Templo (GPRS),3.11,0.96,78.23,33.82,
+2026-04-02,Temporal - SDC (GPRS),12.7,10.63,1.56,0.03,
+2026-04-02,Tiraque_M (GPRS),9.75,6.62,53.99,38.42,
+2026-04-02,Toledo (GPRS),6.54,5.19,93.3,69.12,9.9
+2026-04-02,Totora Qhocha_M,5.93,3.83,58.77,44.98,
+2026-04-02,Viacha_M (GPRS),5.49,4.34,89.1,60.03,0.2
+2026-04-02,Vila Vila - SDC (GPRS),12.67,11.23,68.54,47.55,
+2026-04-02,Viscachas Chirage (GPRS),4.9,2.81,78.16,43.59,
+2026-04-02,Vivero Chimboco - SDC (GPRS),12.54,9.64,63.72,38.71,
+2026-04-02,Vivero Viloma - SDC (GPRS),15.21,11.8,61.46,0.08,
+2026-04-03, Paniagua_M (GPRS),21.22,18.43,97.02,62.71,8.2
+2026-04-03,4 Esquinas (GPRS),6.59,4.68,78.39,60.68,
+2026-04-03,Aguadas (GPRS),6.2,3.81,76.25,52.61,
+2026-04-03,Aiquile (GPRS),12.69,10.54,90.9,45.75,
+2026-04-03,Alto Peñas (GPRS),3.71,1.84,100.0,72.73,14.0
+2026-04-03,Anzaldo_M (GPRS),11.41,9.48,83.64,35.79,
+2026-04-03,Apolo_M (GPRS),17.55,15.76,99.51,58.05,0.1
+2026-04-03,Camargo_M (GPRS),16.62,15.34,63.24,30.02,
+2026-04-03,Caranavi_H (GPRS),,,,,12.3
+2026-04-03,Carura_M - Guanay (GPRS),21.27,20.46,91.72,63.81,0.8
+2026-04-03,Chua Cocani_M (GPRS),6.52,4.22,81.8,64.23,
+2026-04-03,Coroico_H (GPRS),,,,,3.2
+2026-04-03,Cotagaita (GPRS),14.95,12.32,70.64,32.57,
+2026-04-03,Cuatro Cañadas - CEA-2 (GPRS),,,87.0,45.13,
+2026-04-03,Cuatro Cañadas - Colonia Chihuahua (GPRS),23.96,22.2,95.1,62.8,
+2026-04-03,Desaguadero_M,7.17,4.17,76.36,60.26,
+2026-04-03,Guanay_H (GPRS),,,,,0.4
+2026-04-03,Guayaramerin_M (GPRS),23.9,23.28,99.73,72.36,0.3
+2026-04-03,Huancane Corapata_M (GPRS),4.03,2.19,88.6,63.29,4.8
+2026-04-03,Huarisuyo (GPRS),3.54,-0.12,96.0,69.38,1.0
+2026-04-03,Isla Suriqui_M (GPRS),6.2,5.35,83.6,64.52,0.1
+2026-04-03,Ixiamas_M (GPRS),21.49,20.58,85.23,57.28,
+2026-04-03,Jesús de Machaca_M (GPRS),3.14,0.8,96.9,67.53,0.3
+2026-04-03,La Asunta_H (GPRS),,,,,4.5
+2026-04-03,Laguna Colorada (GPRS),5.41,1.65,81.4,52.57,0.5
+2026-04-03,Mecapaca_M (GPRS),11.57,10.22,100.0,66.57,5.0
+2026-04-03,Mizque - SDC (GPRS),12.63,10.07,91.3,46.14,
+2026-04-03,Omereque - SDC (GPRS),23.69,20.22,76.33,68.31,
+2026-04-03,Palos Blancos_M (GPRS),22.48,22.11,,,
+2026-04-03,Pocona - SDC (GPRS),8.62,6.47,99.0,46.81,
+2026-04-03,Pojo - SDC (GPRS),14.14,12.04,62.41,45.7,
+2026-04-03,Porvenir_H (SAT),,,,,0.8
+2026-04-03,Presa Misicuni (GPRS),7.14,5.35,91.0,53.97,5.5
+2026-04-03,Putucuni Calientes (GPRS),3.43,2.3,89.9,68.34,1.8
+2026-04-03,Quetenas (GPRS),4.81,2.35,98.8,52.79,0.3
+2026-04-03,Río Chilenas (GPRS),12.24,0.19,99.2,22.93,19.1
+2026-04-03,Sacacani_M (GPRS),3.61,0.86,85.4,59.57,1.5
+2026-04-03,Salo_M (GPRS),6.53,4.43,98.48,53.84,
+2026-04-03,San Antonio - Los Ángeles (GPRS),24.99,23.92,90.6,73.15,
+2026-04-03,San Buenaventura_M (GPRS),35.61,24.63,99.62,49.49,
+2026-04-03,San Jacinto_M (GPRS),12.83,11.35,99.4,60.49,
+2026-04-03,San Julian - Comunidad Los Angeles (GPRS),25.88,23.92,90.6,65.36,
+2026-04-03,San Julian - Nucleo 32 (GPRS),25.91,24.46,95.0,65.71,
+2026-04-03,San Pablo de Lipez (GPRS),3.46,1.85,75.69,48.63,0.2
+2026-04-03,San Pedro - Río Victoria (GPRS),24.53,23.61,95.6,69.54,
+2026-04-03,San Pedro de Tiquina_M (GPRS),7.3,6.32,73.37,64.37,3.3
+2026-04-03,Sultaca_M (GPRS),7.98,7.1,80.18,53.15,
+2026-04-03,Sunjani (GPRS),6.49,5.52,89.3,58.05,
+2026-04-03,Templo (GPRS),4.48,3.75,91.6,61.65,
+2026-04-03,Temporal - SDC (GPRS),14.76,12.63,47.97,0.03,
+2026-04-03,Tiraque_M (GPRS),8.2,6.5,66.9,54.39,0.5
+2026-04-03,Toledo (GPRS),8.79,6.85,63.4,42.78,0.2
+2026-04-03,Totora Qhocha_M,5.21,2.52,79.3,61.01,0.8
+2026-04-03,Viacha_M (GPRS),4.2,1.39,92.6,62.31,1.9
+2026-04-03,Vila Vila - SDC (GPRS),12.66,10.12,71.86,40.09,
+2026-04-03,Viscachas Chirage (GPRS),6.4,5.1,92.4,61.96,0.1
+2026-04-03,Vivero Chimboco - SDC (GPRS),13.69,11.65,70.41,45.14,
+2026-04-03,Vivero Viloma - SDC (GPRS),15.74,13.2,81.8,0.5,
+2026-04-04, Paniagua_M (GPRS),20.32,18.89,80.53,58.69,0.4
+2026-04-04,4 Esquinas (GPRS),5.3,3.18,83.7,62.62,
+2026-04-04,Aguadas (GPRS),5.19,3.13,80.3,46.6,
+2026-04-04,Aiquile (GPRS),11.17,8.23,89.3,45.41,
+2026-04-04,Alto Peñas (GPRS),3.4,1.57,87.3,64.31,2.0
+2026-04-04,Anzaldo_M (GPRS),12.13,10.15,72.01,40.09,
+2026-04-04,Apolo_M (GPRS),17.46,16.58,94.98,53.18,0.7
+2026-04-04,Camargo_M (GPRS),16.01,11.28,54.28,22.95,
+2026-04-04,Caranavi_H (GPRS),,,,,0.8
+2026-04-04,Carura_M - Guanay (GPRS),20.59,19.88,96.46,67.67,0.4
+2026-04-04,Chua Cocani_M (GPRS),6.72,3.78,83.2,66.57,0.1
+2026-04-04,Coroico_H (GPRS),,,,,0.9
+2026-04-04,Cotagaita (GPRS),16.85,11.01,61.19,40.99,
+2026-04-04,Cuatro Cañadas - CEA-2 (GPRS),34.59,25.25,81.4,49.76,
+2026-04-04,Cuatro Cañadas - Colonia Chihuahua (GPRS),24.81,22.72,98.9,63.83,
+2026-04-04,Desaguadero_M,10.12,7.77,80.0,71.1,
+2026-04-04,Guayaramerin_M (GPRS),24.55,24.07,100.0,70.11,11.2
+2026-04-04,Huancane Corapata_M (GPRS),3.58,0.94,99.0,61.73,
+2026-04-04,Huarisuyo (GPRS),3.25,-2.0,98.5,63.53,1.3
+2026-04-04,Isla Suriqui_M (GPRS),8.36,5.48,85.9,68.05,
+2026-04-04,Ixiamas_M (GPRS),22.46,21.45,96.15,59.53,
+2026-04-04,Jesús de Machaca_M (GPRS),5.1,2.24,99.1,62.21,
+2026-04-04,Laguna Colorada (GPRS),5.99,1.9,76.79,48.63,0.2
+2026-04-04,Mecapaca_M (GPRS),12.19,9.61,100.0,48.84,
+2026-04-04,Mizque - SDC (GPRS),12.62,10.04,92.6,36.94,
+2026-04-04,Omereque - SDC (GPRS),24.18,19.7,79.22,70.41,
+2026-04-04,Peña Amarilla_H (SAT),,,,,8.4
+2026-04-04,Pocona - SDC (GPRS),9.17,6.6,99.1,45.13,
+2026-04-04,Pojo - SDC (GPRS),14.47,12.57,61.27,39.77,
+2026-04-04,Porvenir_H (SAT),,,,,0.6
+2026-04-04,Presa Misicuni (GPRS),7.2,5.94,83.9,53.31,
+2026-04-04,Putucuni Calientes (GPRS),3.55,1.91,90.5,68.93,0.2
+2026-04-04,Quetenas (GPRS),6.63,3.45,79.07,41.97,0.3
+2026-04-04,Río Chilenas (GPRS),13.26,-1.77,88.4,29.84,
+2026-04-04,Sacacani_M (GPRS),4.79,1.45,98.3,57.4,
+2026-04-04,Salo_M (GPRS),9.2,4.69,70.46,36.54,
+2026-04-04,San Antonio - Los Ángeles (GPRS),24.27,23.41,89.4,68.6,
+2026-04-04,San Buenaventura_M (GPRS),24.52,23.45,81.06,65.08,
+2026-04-04,San Jacinto_M (GPRS),12.44,10.53,96.6,45.1,
+2026-04-04,San Julian - Comunidad Los Angeles (GPRS),24.26,23.2,90.9,53.67,
+2026-04-04,San Julian - Nucleo 32 (GPRS),24.74,23.61,96.2,61.35,2.8
+2026-04-04,San Pablo de Lipez (GPRS),5.45,1.0,63.78,42.28,
+2026-04-04,San Pedro - Río Victoria (GPRS),25.09,23.85,88.6,72.49,
+2026-04-04,San Pedro de Tiquina_M (GPRS),7.63,6.38,79.89,71.22,
+2026-04-04,Sena_H (SAT),,,,,10.0
+2026-04-04,Sultaca_M (GPRS),7.51,5.95,71.16,40.14,
+2026-04-04,Sunjani (GPRS),4.98,3.61,93.2,55.91,
+2026-04-04,Templo (GPRS),3.65,1.74,84.0,64.33,
+2026-04-04,Temporal - SDC (GPRS),12.97,10.88,0.09,0.03,
+2026-04-04,Tiraque_M (GPRS),7.99,7.19,72.83,53.65,
+2026-04-04,Toledo (GPRS),8.69,7.86,63.78,47.59,
+2026-04-04,Totora Qhocha_M,6.06,2.82,82.2,54.41,
+2026-04-04,Viacha_M (GPRS),3.23,1.85,99.2,53.83,
+2026-04-04,Vila Vila - SDC (GPRS),13.0,10.84,74.53,45.75,
+2026-04-04,Viscachas Chirage (GPRS),6.3,5.07,89.4,57.18,0.1
+2026-04-04,Vivero Chimboco - SDC (GPRS),13.44,10.57,73.37,45.41,
+2026-04-04,Vivero Viloma - SDC (GPRS),14.74,11.44,53.74,0.06,
+2026-04-05, Paniagua_M (GPRS),20.71,17.65,90.64,53.65,38.6
+2026-04-05,4 Esquinas (GPRS),2.64,1.16,79.94,56.89,
+2026-04-05,Aguadas (GPRS),2.21,0.48,80.9,48.11,
+2026-04-05,Aiquile (GPRS),15.61,11.97,80.1,42.17,
+2026-04-05,Alto Peñas (GPRS),6.48,3.83,98.1,71.06,3.3
+2026-04-05,Anzaldo_M (GPRS),10.95,7.24,78.84,39.94,
+2026-04-05,Apolo_M (GPRS),19.04,17.4,83.13,53.33,
+2026-04-05,Camargo_M (GPRS),15.54,10.14,50.48,27.7,
+2026-04-05,Caranavi_H (GPRS),,,,,5.3
+2026-04-05,Carura_M - Guanay (GPRS),22.07,20.15,98.35,61.65,0.3
+2026-04-05,Chua Cocani_M (GPRS),6.33,4.99,79.73,70.02,9.8
+2026-04-05,Coroico_H (GPRS),,,,,14.6
+2026-04-05,Cotagaita (GPRS),16.48,12.01,52.6,35.26,
+2026-04-05,Cuatro Cañadas - CEA-2 (GPRS),33.21,24.92,88.8,69.19,0.2
+2026-04-05,Cuatro Cañadas - Colonia Chihuahua (GPRS),25.3,24.62,89.4,69.62,
+2026-04-05,Desaguadero_M,8.29,6.79,82.4,63.74,
+2026-04-05,Guanay_H (GPRS),,,,,12.1
+2026-04-05,Guayaramerin_M (GPRS),23.08,22.86,100.0,89.88,1.6
+2026-04-05,Huancane Corapata_M (GPRS),7.32,4.3,87.7,62.31,
+2026-04-05,Huarisuyo (GPRS),7.88,3.86,95.9,58.38,
+2026-04-05,Isla Suriqui_M (GPRS),8.61,6.27,84.3,74.23,2.3
+2026-04-05,Ixiamas_M (GPRS),23.49,22.86,83.08,61.15,
+2026-04-05,Jesús de Machaca_M (GPRS),6.73,3.73,89.4,63.16,3.6
+2026-04-05,Laguna Colorada (GPRS),2.18,-0.28,83.7,56.08,
+2026-04-05,Mecapaca_M (GPRS),14.7,12.89,84.94,49.71,
+2026-04-05,Mizque - SDC (GPRS),13.99,10.91,81.7,38.49,
+2026-04-05,Omereque - SDC (GPRS),24.32,21.79,84.4,76.39,
+2026-04-05,Peña Amarilla_H (SAT),,,,,14.8
+2026-04-05,Pocona - SDC (GPRS),9.62,7.91,97.5,42.05,
+2026-04-05,Pojo - SDC (GPRS),16.76,12.9,69.6,46.66,
+2026-04-05,Porvenir_H (SAT),,,,,0.6
+2026-04-05,Presa Misicuni (GPRS),5.63,3.67,80.9,50.98,
+2026-04-05,Putucuni Calientes (GPRS),2.19,0.73,83.8,66.47,1.6
+2026-04-05,Quetenas (GPRS),5.03,2.26,68.4,44.19,
+2026-04-05,Río Chilenas (GPRS),12.56,-1.23,94.2,30.59,
+2026-04-05,Sacacani_M (GPRS),7.29,3.22,82.0,61.31,
+2026-04-05,Salo_M (GPRS),6.8,2.39,60.8,35.1,
+2026-04-05,San Antonio - Los Ángeles (GPRS),25.81,24.55,92.8,76.36,
+2026-04-05,San Buenaventura_M (GPRS),25.89,24.73,,,
+2026-04-05,San Jacinto_M (GPRS),14.0,10.75,85.3,48.5,
+2026-04-05,San Julian - Comunidad Los Angeles (GPRS),25.79,24.84,91.6,63.51,
+2026-04-05,San Julian - Nucleo 32 (GPRS),26.19,24.99,91.7,71.87,
+2026-04-05,San Pablo de Lipez (GPRS),5.15,2.46,71.48,57.95,
+2026-04-05,San Pedro - Río Victoria (GPRS),26.02,24.52,89.1,80.7,
+2026-04-05,San Pedro de Tiquina_M (GPRS),8.94,6.78,74.54,64.25,2.1
+2026-04-05,Sena_H (SAT),,,,,1.8
+2026-04-05,Sultaca_M (GPRS),5.87,4.78,68.79,32.87,
+2026-04-05,Sunjani (GPRS),3.44,1.36,81.0,52.76,
+2026-04-05,Templo (GPRS),2.37,-0.7,78.47,62.92,
+2026-04-05,Temporal - SDC (GPRS),12.78,10.68,0.72,0.03,
+2026-04-05,Tiraque_M (GPRS),8.18,5.82,68.68,46.77,
+2026-04-05,Toledo (GPRS),9.17,5.86,58.93,40.43,
+2026-04-05,Totora Qhocha_M,4.55,2.2,63.03,51.45,
+2026-04-05,Viacha_M (GPRS),6.16,5.12,90.2,59.52,0.4
+2026-04-05,Vila Vila - SDC (GPRS),13.07,11.52,83.8,41.95,
+2026-04-05,Viscachas Chirage (GPRS),4.07,2.49,81.3,58.26,0.1
+2026-04-05,Vivero Chimboco - SDC (GPRS),11.56,8.32,58.79,39.22,
+2026-04-05,Vivero Viloma - SDC (GPRS),14.37,10.81,47.88,0.18,
+2026-04-06, Paniagua_M (GPRS),19.48,17.91,87.15,58.58,
+2026-04-06,4 Esquinas (GPRS),3.05,0.96,97.8,52.31,0.1
+2026-04-06,Aguadas (GPRS),2.89,1.37,97.0,53.56,0.8
+2026-04-06,Aiquile (GPRS),11.99,9.81,90.5,45.64,
+2026-04-06,Alto Peñas (GPRS),3.7,0.8,83.3,54.34,3.6
+2026-04-06,Anzaldo_M (GPRS),9.84,7.25,77.33,40.84,
+2026-04-06,Apolo_M (GPRS),16.28,14.89,91.15,53.47,
+2026-04-06,Camargo_M (GPRS),16.14,11.49,60.8,23.46,
+2026-04-06,Carura_M - Guanay (GPRS),20.14,18.78,96.72,68.94,0.2
+2026-04-06,Chua Cocani_M (GPRS),6.98,5.28,89.6,69.56,6.8
+2026-04-06,Cotagaita (GPRS),14.97,9.63,67.62,39.52,
+2026-04-06,Cuatro Cañadas - CEA-2 (GPRS),23.41,23.08,100.0,86.0,
+2026-04-06,Cuatro Cañadas - Colonia Chihuahua (GPRS),23.35,22.72,100.0,78.27,12.4
+2026-04-06,Desaguadero_M,8.29,7.54,84.5,66.14,4.8
+2026-04-06,Guayaramerin_M (GPRS),23.66,23.06,100.0,74.42,2.4
+2026-04-06,Huancane Corapata_M (GPRS),3.37,0.61,85.7,54.96,
+2026-04-06,Huarisuyo (GPRS),3.47,0.0,96.7,58.2,0.5
+2026-04-06,Isla Suriqui_M (GPRS),9.67,8.88,87.3,73.39,1.1
+2026-04-06,Ixiamas_M (GPRS),21.37,20.5,92.01,68.33,3.2
+2026-04-06,Jesús de Machaca_M (GPRS),6.25,3.15,88.1,64.79,0.2
+2026-04-06,Laguna Colorada (GPRS),4.12,1.45,57.42,31.6,
+2026-04-06,Mecapaca_M (GPRS),12.74,10.0,100.0,49.24,
+2026-04-06,Mizque - SDC (GPRS),13.07,10.55,92.3,46.7,
+2026-04-06,Omereque - SDC (GPRS),22.84,19.17,81.3,75.77,
+2026-04-06,Palos Blancos_M (GPRS),,,99.98,69.11,
+2026-04-06,Peña Amarilla_H (SAT),,,,,13.2
+2026-04-06,Pocona - SDC (GPRS),14.34,11.73,64.84,52.27,
+2026-04-06,Pojo - SDC (GPRS),14.65,12.57,67.12,56.85,
+2026-04-06,Porvenir_H (SAT),,,,,0.4
+2026-04-06,Presa Misicuni (GPRS),5.73,4.16,95.2,54.99,
+2026-04-06,Putucuni Calientes (GPRS),2.47,1.2,82.6,72.41,5.7
+2026-04-06,Quetenas (GPRS),3.82,-0.06,58.06,15.17,
+2026-04-06,Río Chilenas (GPRS),4.39,0.77,41.98,15.39,
+2026-04-06,Sacacani_M (GPRS),7.29,2.11,97.9,57.67,
+2026-04-06,Salo_M (GPRS),11.36,6.24,50.79,21.5,
+2026-04-06,San Antonio - Los Ángeles (GPRS),22.95,22.7,97.3,78.94,
+2026-04-06,San Jacinto_M (GPRS),15.16,13.12,86.7,54.36,
+2026-04-06,San Julian - Comunidad Los Angeles (GPRS),23.63,23.21,100.0,77.67,49.5
+2026-04-06,San Julian - Nucleo 32 (GPRS),23.81,23.54,97.4,74.07,
+2026-04-06,San Pablo de Lipez (GPRS),4.21,2.3,41.93,19.42,
+2026-04-06,San Pedro - Río Victoria (GPRS),23.91,23.01,96.1,78.21,
+2026-04-06,San Pedro de Tiquina_M (GPRS),9.92,7.67,73.69,57.21,
+2026-04-06,Sena_H (SAT),,,,,1.4
+2026-04-06,Sultaca_M (GPRS),9.48,7.28,64.89,32.54,
+2026-04-06,Sunjani (GPRS),1.77,0.14,100.0,52.65,1.5
+2026-04-06,Templo (GPRS),2.63,0.77,76.03,61.22,5.6
+2026-04-06,Temporal - SDC (GPRS),12.1,10.8,2.54,0.03,
+2026-04-06,Tiraque_M (GPRS),7.91,6.74,68.75,36.46,
+2026-04-06,Toledo (GPRS),8.41,3.36,73.48,46.09,
+2026-04-06,Totora Qhocha_M,6.06,3.77,76.99,55.29,
+2026-04-06,Viacha_M (GPRS),4.53,0.6,98.2,57.75,
+2026-04-06,Vila Vila - SDC (GPRS),13.26,11.81,69.29,45.6,
+2026-04-06,Viscachas Chirage (GPRS),3.58,2.17,84.0,59.94,0.1
+2026-04-06,Vivero Chimboco - SDC (GPRS),10.85,9.05,65.98,41.57,
+2026-04-06,Vivero Viloma - SDC (GPRS),12.24,8.76,66.37,11.72,
