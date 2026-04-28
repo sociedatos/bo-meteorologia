@@ -27979,6 +27979,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-04-30,Entre Rios (TJA),,,,,0.5
 2025-04-30,Guajara-Mirim - Guayaramerín,32.0,22.0,,,
 2025-04-30,Guayaramerin_M (GPRS),27.43,24.58,100.0,90.19,
+2025-04-30,Hampaturi EPSAS,,,,,0.1
 2025-04-30,Hichucota,12.0,2.0,,,
 2025-04-30,Huancane Corapata_M (GPRS),12.5,4.81,97.8,61.73,0.1
 2025-04-30,Huarisuyo (GPRS),13.28,4.69,98.5,65.12,
@@ -28094,6 +28095,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-04-30,Totora i_M (GPRS),18.79,9.03,51.22,21.48,
 2025-04-30,Trancas,28.0,9.0,,,
 2025-04-30,Tucumillas,31.0,12.0,,,
+2025-04-30,Tuni EPSAS,,,,,1.0
 2025-04-30,Tupiza,26.8,3.0,,,
 2025-04-30,Turumayo,31.0,12.0,,,
 2025-04-30,Uyuni,16.5,-4.7,,,
@@ -28417,6 +28419,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-02,Magdalena,31.0,25.0,93.3,74.1,
 2025-05-02,Mairana_M (GPRS),24.73,20.21,89.5,71.04,
 2025-05-02,Mecapaca_M (GPRS),21.28,12.7,85.63,49.86,
+2025-05-02,Milluni EPSAS,,,,,13.3
 2025-05-02,Minero (Unagro),,,,,41.8
 2025-05-02,Mizque - SDC (GPRS),21.2,12.38,95.0,58.41,
 2025-05-02,Mojo,20.1,2.0,,,
@@ -28525,6 +28528,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-02,Totora i_M (GPRS),20.96,9.7,42.33,13.64,
 2025-05-02,Trancas,24.0,13.0,,,
 2025-05-02,Tucumillas,23.0,10.0,,,
+2025-05-02,Tuni EPSAS,,,,,19.3
 2025-05-02,Tupiza,25.4,8.2,,,
 2025-05-02,Turumayo,30.0,15.0,,,
 2025-05-02,Uyuni,18.7,0.1,,,
@@ -28629,11 +28633,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-03,Emborozu,,,,,3.0
 2025-05-03,Guajara-Mirim - Guayaramerín,,,,,21.4
 2025-05-03,Guanay_H (GPRS),,,,,0.6
+2025-05-03,Hampaturi EPSAS,,,,,0.7
 2025-05-03,Hichucota,14.0,2.0,,,
 2025-05-03,Huancane Corapata_M (GPRS),12.37,4.81,94.7,52.15,
 2025-05-03,Huarisuyo (GPRS),13.56,3.1,98.2,59.71,6.6
 2025-05-03,Huayllamarca,20.2,2.8,,,
 2025-05-03,Huayrocondo,16.5,3.9,,,1.3
+2025-05-03,Incachaca EPSAS,,,,,0.7
 2025-05-03,Incapampa - Coroico_M (GPRS),21.19,16.0,99.85,92.88,6.8
 2025-05-03,Isla Suriqui_M (GPRS),11.94,7.49,89.7,65.37,11.5
 2025-05-03,Jesús de Machaca_M (GPRS),12.33,5.22,97.1,62.31,0.4
@@ -28649,6 +28655,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-03,Llallagua,,,,,13.0
 2025-05-03,Magdalena,31.0,30.0,78.5,74.1,
 2025-05-03,Mecapaca_M (GPRS),17.61,11.83,100.0,76.08,0.9
+2025-05-03,Milluni EPSAS,,,,,2.6
 2025-05-03,Minero (Unagro),,,,,7.0
 2025-05-03,Mizque - SDC (GPRS),19.69,12.94,95.5,59.82,0.3
 2025-05-03,Mojo,19.2,2.3,,,
@@ -28764,6 +28771,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-03,Totora i_M (GPRS),16.82,12.71,52.12,36.98,
 2025-05-03,Trancas,22.0,9.0,,,
 2025-05-03,Tucumillas,24.0,9.0,,,2.0
+2025-05-03,Tuni EPSAS,,,,,4.1
 2025-05-03,Tupiza,25.6,9.0,,,
 2025-05-03,Turumayo,26.5,7.0,,,
 2025-05-03,Ucumasi,,,,,1.5
@@ -28865,11 +28873,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-04,Entre Rios (TJA),,,,,1.5
 2025-05-04,Guajara-Mirim - Guayaramerín,,,,,29.4
 2025-05-04,Guanay_H (GPRS),,,,,7.6
+2025-05-04,Hampaturi EPSAS,,,,,10.7
 2025-05-04,Hichucota,12.0,1.0,,,1.5
 2025-05-04,Huancane Corapata_M (GPRS),10.66,4.81,96.7,67.91,
 2025-05-04,Huarisuyo (GPRS),10.7,5.06,96.8,77.22,0.1
 2025-05-04,Huayllamarca,17.5,1.5,,,
 2025-05-04,Huayrocondo,15.5,4.0,,,2.3
+2025-05-04,Incachaca EPSAS,,,,,13.7
 2025-05-04,Incapampa - Coroico_M (GPRS),21.54,15.92,97.7,79.75,0.4
 2025-05-04,Isla Suriqui_M (GPRS),7.89,5.2,93.7,82.5,16.7
 2025-05-04,Jesús de Machaca_M (GPRS),11.61,5.8,94.7,59.06,
@@ -28886,6 +28896,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-04,Magdalena,28.0,25.0,93.3,78.2,
 2025-05-04,Mecapaca,,,,,0.1
 2025-05-04,Mecapaca_M (GPRS),18.76,11.56,100.0,64.8,
+2025-05-04,Milluni EPSAS,,,,,1.1
 2025-05-04,Mizque - SDC (GPRS),19.49,13.35,93.9,65.32,0.5
 2025-05-04,Mojo,21.1,1.0,,,
 2025-05-04,Narvaez,,,,,1.0
@@ -28993,6 +29004,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-04,Totora i_M (GPRS),18.45,7.36,84.12,28.72,
 2025-05-04,Trancas,27.0,9.0,,,
 2025-05-04,Tucumillas,22.0,11.0,,,
+2025-05-04,Tuni EPSAS,,,,,0.6
 2025-05-04,Tupiza,26.0,6.4,,,
 2025-05-04,Turumayo,33.0,8.0,,,
 2025-05-04,Ucumasi,,,,,3.5
@@ -29089,12 +29101,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-05,El Villar,25.0,13.0,,,
 2025-05-05,Guajara-Mirim - Guayaramerín,35.4,23.0,,,
 2025-05-05,Guanay_H (GPRS),,,,,12.9
+2025-05-05,Hampaturi EPSAS,,,,,8.5
 2025-05-05,Hichucota,10.0,3.0,,,3.0
 2025-05-05,Huancane Corapata_M (GPRS),10.6,6.61,94.4,72.49,
 2025-05-05,Huarisuyo (GPRS),10.22,4.94,98.1,76.52,0.1
 2025-05-05,Huayllamarca,20.0,3.0,,,
 2025-05-05,Huayrocondo,15.4,4.3,,,
 2025-05-05,Ibibobo,,,,,4.0
+2025-05-05,Incachaca EPSAS,,,,,5.6
 2025-05-05,Incapampa - Coroico_M (GPRS),17.29,15.81,99.84,99.78,
 2025-05-05,Isla Suriqui_M (GPRS),8.48,6.72,93.5,86.1,
 2025-05-05,Itau,,,,,8.0
@@ -29110,6 +29124,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-05,Llallagua,14.0,7.0,,,
 2025-05-05,Magdalena,31.0,25.0,99.1,69.8,
 2025-05-05,Mecapaca_M (GPRS),16.46,12.35,100.0,85.42,
+2025-05-05,Milluni EPSAS,,,,,0.3
 2025-05-05,Mizque - SDC (GPRS),21.84,14.42,94.3,56.06,0.4
 2025-05-05,Mojo,23.3,-3.3,,,
 2025-05-05,Narvaez,,,,,2.0
@@ -29217,6 +29232,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-05,Totora i_M (GPRS),18.74,8.01,33.59,10.4,
 2025-05-05,Trancas,25.0,12.0,,,
 2025-05-05,Tucumillas,21.0,12.0,,,
+2025-05-05,Tuni EPSAS,,,,,1.6
 2025-05-05,Tupiza,26.2,2.4,,,
 2025-05-05,Turumayo,28.0,15.0,,,
 2025-05-05,Uyuni,17.2,-4.3,,,
@@ -29317,12 +29333,14 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-06,Entre Rios (TJA),,,,,10.0
 2025-05-06,Guajara-Mirim - Guayaramerín,,,,,0.6
 2025-05-06,Guanay_H (GPRS),,,,,0.1
+2025-05-06,Hampaturi EPSAS,,,,,4.9
 2025-05-06,Hichucota,12.0,1.0,,,7.2
 2025-05-06,Huancane Corapata_M (GPRS),12.57,6.06,98.3,63.82,
 2025-05-06,Huarisuyo (GPRS),14.23,3.55,98.3,60.68,
 2025-05-06,Huayllamarca,19.5,1.0,,,
 2025-05-06,Huayrocondo,16.5,3.0,,,0.9
 2025-05-06,Ibibobo,,,,,5.0
+2025-05-06,Incachaca EPSAS,,,,,8.2
 2025-05-06,Incalacaya,,,,,0.6
 2025-05-06,Incapampa - Coroico_M (GPRS),20.71,16.54,99.87,90.01,0.1
 2025-05-06,Isla Suriqui_M (GPRS),11.56,8.93,85.4,69.61,0.4
@@ -29339,6 +29357,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-06,Llallagua,16.0,4.0,,,
 2025-05-06,Magdalena,29.0,24.0,99.1,78.3,
 2025-05-06,Mecapaca_M (GPRS),20.17,12.76,100.0,65.27,
+2025-05-06,Milluni EPSAS,,,,,3.2
 2025-05-06,Mizque - SDC (GPRS),23.82,14.08,94.2,46.54,0.4
 2025-05-06,Mojo,20.2,-3.0,,,
 2025-05-06,Narvaez,,,,,8.0
@@ -29443,6 +29462,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-06,Totora i_M (GPRS),20.54,9.57,36.86,11.33,
 2025-05-06,Trancas,35.0,11.0,,,
 2025-05-06,Tucumillas,26.0,11.0,,,
+2025-05-06,Tuni EPSAS,,,,,10.0
 2025-05-06,Tupiza,25.4,3.2,,,
 2025-05-06,Turumayo,31.0,15.0,,,
 2025-05-06,Uyuni,16.0,-3.0,,,
@@ -29542,6 +29562,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-07,Huarisuyo (GPRS),14.11,0.78,99.2,60.07,
 2025-05-07,Huayllamarca,20.2,2.5,,,
 2025-05-07,Huayrocondo,16.8,0.5,,,
+2025-05-07,Incachaca EPSAS,,,,,0.5
 2025-05-07,Incalacaya,,,,,3.2
 2025-05-07,Incapampa - Coroico_M (GPRS),23.13,15.0,99.83,71.5,
 2025-05-07,Isla Suriqui_M (GPRS),12.08,7.18,91.9,74.02,
@@ -29656,6 +29677,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-07,Totora i_M (GPRS),18.83,6.24,22.09,7.83,
 2025-05-07,Trancas,34.0,11.0,,,
 2025-05-07,Tucumillas,28.0,9.0,,,
+2025-05-07,Tuni EPSAS,,,,,0.2
 2025-05-07,Tupiza,27.2,0.0,,,
 2025-05-07,Turumayo,32.5,10.0,,,
 2025-05-07,Uyuni,17.0,-5.0,,,
@@ -29753,6 +29775,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-08,Huarisuyo (GPRS),13.3,0.75,99.0,68.42,0.1
 2025-05-08,Huayllamarca,21.0,-5.0,,,
 2025-05-08,Huayrocondo,16.5,0.6,,,3.0
+2025-05-08,Incachaca EPSAS,,,,,0.4
 2025-05-08,Incalacaya,,,,,3.9
 2025-05-08,Incapampa - Coroico_M (GPRS),21.39,16.51,99.85,84.61,
 2025-05-08,Isla Suriqui_M (GPRS),11.75,7.37,87.8,76.38,
@@ -29768,6 +29791,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-08,Llallagua,18.1,3.0,,,
 2025-05-08,Magdalena,31.0,25.0,99.1,69.8,
 2025-05-08,Mecapaca_M (GPRS),20.83,13.6,100.0,56.24,
+2025-05-08,Milluni EPSAS,,,,,1.9
 2025-05-08,Mizque - SDC (GPRS),23.23,12.46,94.9,51.37,
 2025-05-08,Mojo,23.3,-1.3,,,
 2025-05-08,Okinawa I,32.0,23.0,,,
@@ -29869,6 +29893,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-08,Totora i_M (GPRS),22.02,7.56,32.75,10.59,
 2025-05-08,Trancas,35.0,10.0,,,
 2025-05-08,Tucumillas,24.0,10.0,,,
+2025-05-08,Tuni EPSAS,,,,,0.1
 2025-05-08,Tupiza,27.4,4.2,,,
 2025-05-08,Turumayo,35.0,10.0,,,
 2025-05-08,Uyuni,17.1,-3.5,,,
@@ -29964,11 +29989,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-09,Entre Rios (TJA),,,,,3.5
 2025-05-09,Guajara-Mirim - Guayaramerín,34.4,22.6,,,
 2025-05-09,Guanay_H (GPRS),,,,,8.1
+2025-05-09,Hampaturi EPSAS,,,,,12.4
 2025-05-09,Hichucota,12.0,0.0,,,
 2025-05-09,Huancane Corapata_M (GPRS),12.57,6.25,65.13,32.27,
 2025-05-09,Huarisuyo (GPRS),13.38,0.47,94.1,34.47,
 2025-05-09,Huayllamarca,20.0,0.5,,,
 2025-05-09,Huayrocondo,17.8,0.5,,,
+2025-05-09,Incachaca EPSAS,,,,,4.7
 2025-05-09,Incalacaya,,,,,4.6
 2025-05-09,Incapampa - Coroico_M (GPRS),23.23,16.86,99.84,76.7,0.6
 2025-05-09,Isla Suriqui_M (GPRS),10.7,4.68,94.8,61.33,
@@ -30182,6 +30209,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-10,Huarisuyo (GPRS),11.05,-1.14,98.7,72.2,
 2025-05-10,Huayllamarca,18.3,2.2,,,
 2025-05-10,Huayrocondo,15.8,-0.7,,,
+2025-05-10,Incachaca EPSAS,,,,,0.2
 2025-05-10,Incalacaya,,,,,1.1
 2025-05-10,Incapampa - Coroico_M (GPRS),16.61,15.44,99.83,99.78,
 2025-05-10,Isla Suriqui_M (GPRS),11.29,6.97,89.0,66.22,
@@ -30397,11 +30425,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-11,El Villar,17.0,11.0,,,
 2025-05-11,Emborozu,,,,,5.0
 2025-05-11,Guajara-Mirim - Guayaramerín,,,,,2.1
+2025-05-11,Hampaturi EPSAS,,,,,0.8
 2025-05-11,Hichucota,13.0,0.0,,,2.0
 2025-05-11,Huancane Corapata_M (GPRS),10.0,3.36,93.9,66.86,
 2025-05-11,Huarisuyo (GPRS),12.2,-0.97,98.3,64.02,
 2025-05-11,Huayllamarca,18.2,1.5,,,
 2025-05-11,Huayrocondo,16.9,0.5,,,1.2
+2025-05-11,Incachaca EPSAS,,,,,1.8
 2025-05-11,Incapampa - Coroico_M (GPRS),16.19,14.18,99.83,99.77,3.1
 2025-05-11,Isla Suriqui_M (GPRS),9.85,5.07,90.8,69.14,
 2025-05-11,Ixiamas S.(GPRS),25.1,23.4,74.2,71.2,
@@ -30417,6 +30447,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-11,Llallagua,16.2,2.0,,,
 2025-05-11,Magdalena,29.0,28.0,65.4,65.2,
 2025-05-11,Mecapaca_M (GPRS),14.38,10.47,100.0,89.17,
+2025-05-11,Milluni EPSAS,,,,,0.9
 2025-05-11,Mizque - SDC (GPRS),17.22,14.29,80.5,67.76,
 2025-05-11,Mojo,22.2,1.0,,,
 2025-05-11,Nuevo Mundo,,,,,4.8
@@ -30513,6 +30544,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-11,Totora i_M (GPRS),15.64,10.06,74.53,47.03,
 2025-05-11,Trancas,22.0,9.0,,,
 2025-05-11,Tucumillas,27.0,10.0,,,
+2025-05-11,Tuni EPSAS,,,,,2.1
 2025-05-11,Tupiza,26.0,6.2,,,
 2025-05-11,Turumayo,26.5,12.5,,,
 2025-05-11,Urriolagoytia,,,,,60.0
@@ -30605,6 +30637,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-12,Huarisuyo (GPRS),3.14,3.14,98.8,98.8,
 2025-05-12,Huayllamarca,19.0,1.4,,,
 2025-05-12,Huayrocondo,17.7,1.8,,,
+2025-05-12,Incachaca EPSAS,,,,,0.3
 2025-05-12,Incapampa - Coroico_M (GPRS),21.18,14.02,99.84,85.67,0.2
 2025-05-12,Isla Suriqui_M (GPRS),7.76,5.46,96.6,90.4,
 2025-05-12,Ixiamas S.(GPRS),26.9,19.2,87.2,58.5,
@@ -32905,11 +32938,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-24,Entre Rios (TJA),,,,,2.5
 2025-05-24,Guajara-Mirim - Guayaramerín,35.8,21.0,,,
 2025-05-24,Guanay_H (GPRS),,,,,2.2
+2025-05-24,Hampaturi EPSAS,,,,,0.3
 2025-05-24,Hichucota,15.0,2.0,,,
 2025-05-24,Huancane Corapata_M (GPRS),,,99.4,42.96,
 2025-05-24,Huarisuyo (GPRS),,,98.7,54.26,0.1
 2025-05-24,Huayllamarca,19.5,-1.5,,,
 2025-05-24,Huayrocondo,17.8,0.0,,,
+2025-05-24,Incachaca EPSAS,,,,,1.2
 2025-05-24,Incapampa - Coroico_M (GPRS),,,99.83,89.99,0.4
 2025-05-24,Isla Suriqui_M (GPRS),,,99.1,85.9,
 2025-05-24,Itau,,,,,8.0
@@ -33016,6 +33051,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-24,Totora i_M (GPRS),,,39.1,10.65,
 2025-05-24,Trancas,23.0,5.0,,,
 2025-05-24,Tucumillas,29.0,11.0,,,
+2025-05-24,Tuni EPSAS,,,,,2.1
 2025-05-24,Tupiza,25.4,0.0,,,
 2025-05-24,Turumayo,29.0,7.0,,,
 2025-05-24,Uyuni,15.0,-5.0,,,
@@ -33321,6 +33357,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-26,Laykacota,19.0,5.2,,,
 2025-05-26,Llallagua,17.1,5.0,,,
 2025-05-26,Mecapaca_M (GPRS),,,97.41,62.32,
+2025-05-26,Milluni EPSAS,,,,,0.4
 2025-05-26,Minero (Unagro),,,,,0.2
 2025-05-26,Mizque - SDC (GPRS),,,92.7,44.81,
 2025-05-26,Mojo,20.1,-2.2,,,
@@ -33410,6 +33447,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-26,Totora i_M (GPRS),,,42.98,9.53,
 2025-05-26,Trancas,26.0,11.0,,,
 2025-05-26,Tucumillas,30.0,8.0,,,
+2025-05-26,Tuni EPSAS,,,,,3.1
 2025-05-26,Tupiza,24.2,5.0,,,
 2025-05-26,Turumayo,24.0,9.0,,,
 2025-05-26,Uyuni,14.0,-2.0,,,
@@ -33492,6 +33530,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-27,El Tejar (Tarija),27.0,4.0,,,
 2025-05-27,El Villar,27.0,11.0,,,
 2025-05-27,Guajara-Mirim - Guayaramerín,,,,,6.5
+2025-05-27,Hampaturi EPSAS,,,,,2.3
 2025-05-27,Hichucota,14.0,-1.0,,,
 2025-05-27,Huancane Corapata_M (GPRS),,,43.4,23.51,
 2025-05-27,Huarisuyo (GPRS),,,82.8,27.72,
@@ -33600,6 +33639,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-05-27,Totora i_M (GPRS),,,21.07,8.12,
 2025-05-27,Trancas,31.0,23.0,,,
 2025-05-27,Tucumillas,19.0,6.0,,,
+2025-05-27,Tuni EPSAS,,,,,1.3
 2025-05-27,Tupiza,23.4,0.0,,,
 2025-05-27,Turumayo,34.0,4.0,,,
 2025-05-27,Uyuni,14.1,-6.1,,,
@@ -37399,11 +37439,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-18,Entre Rios (TJA),,,,,1.0
 2025-06-18,Guajara-Mirim - Guayaramerín,,,,,7.2
 2025-06-18,Guanay_H (GPRS),,,,,22.1
+2025-06-18,Hampaturi EPSAS,,,,,3.4
 2025-06-18,Hichucota,13.0,2.0,,,2.5
 2025-06-18,Huancane Corapata_M (GPRS),,,98.0,61.12,3.5
 2025-06-18,Huarisuyo (GPRS),,,98.2,64.83,1.3
 2025-06-18,Huayllamarca,18.0,-1.8,,,
 2025-06-18,Huayrocondo,14.8,2.4,,,5.4
+2025-06-18,Incachaca EPSAS,,,,,1.1
 2025-06-18,Incapampa - Coroico_M (GPRS),,,99.82,79.91,
 2025-06-18,Isla Suriqui_M (GPRS),,,95.1,76.58,1.5
 2025-06-18,Ixiamas S.(GPRS),,,96.2,72.0,
@@ -37420,6 +37462,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-18,Llallagua,15.2,2.1,,,
 2025-06-18,Mecapaca,,,,,1.4
 2025-06-18,Mecapaca_M (GPRS),,,100.0,79.88,0.8
+2025-06-18,Milluni EPSAS,,,,,2.5
 2025-06-18,Minero (Unagro),31.1,23.1,,,
 2025-06-18,Mizque - SDC (GPRS),,,87.7,40.84,
 2025-06-18,Mojo,16.3,-0.3,,,
@@ -37513,6 +37556,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-18,Totora i_M (GPRS),,,52.86,22.93,
 2025-06-18,Trancas,27.0,3.0,,,
 2025-06-18,Tucumillas,22.0,5.0,,,
+2025-06-18,Tuni EPSAS,,,,,1.7
 2025-06-18,Tupiza,23.2,7.0,,,
 2025-06-18,Turumayo,28.0,5.0,,,
 2025-06-18,Uyuni,13.5,-2.0,,,
@@ -37598,11 +37642,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-19,Emborozu,,,,,15.0
 2025-06-19,Guajara-Mirim - Guayaramerín,34.0,20.6,,,
 2025-06-19,Guanay_H (GPRS),,,,,15.6
+2025-06-19,Hampaturi EPSAS,,,,,4.6
 2025-06-19,Hichucota,12.0,1.0,,,
 2025-06-19,Huancane Corapata_M (GPRS),,,98.6,62.76,
 2025-06-19,Huarisuyo (GPRS),,,98.3,69.42,
 2025-06-19,Huayllamarca,17.0,-2.1,,,
 2025-06-19,Huayrocondo,14.5,1.0,,,
+2025-06-19,Incachaca EPSAS,,,,,2.7
 2025-06-19,Incapampa - Coroico_M (GPRS),,,99.84,91.76,
 2025-06-19,Isla Suriqui_M (GPRS),,,93.8,76.97,0.8
 2025-06-19,Ixiamas S.(GPRS),,,100.0,94.2,
@@ -39413,11 +39459,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-29,Emborozu,,,,,4.0
 2025-06-29,Guajara-Mirim - Guayaramerín,33.2,20.0,,,
 2025-06-29,Guanay_H (GPRS),,,,,18.1
+2025-06-29,Hampaturi EPSAS,,,,,1.9
 2025-06-29,Hichucota,12.0,3.0,,,
 2025-06-29,Huancane Corapata_M (GPRS),,,54.37,38.81,
 2025-06-29,Huarisuyo (GPRS),,,87.6,42.21,
 2025-06-29,Huayllamarca,19.0,-2.5,,,
 2025-06-29,Huayrocondo,15.4,-3.3,,,
+2025-06-29,Incachaca EPSAS,,,,,0.7
 2025-06-29,Incapampa - Coroico_M (GPRS),,,99.84,90.46,0.4
 2025-06-29,Isla Suriqui_M (GPRS),,,78.4,47.7,
 2025-06-29,Itau,,,,,3.0
@@ -39601,11 +39649,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-30,Entre Rios (TJA),,,,,2.0
 2025-06-30,Guajara-Mirim - Guayaramerín,,,,,0.1
 2025-06-30,Guanay_H (GPRS),,,,,18.1
+2025-06-30,Hampaturi EPSAS,,,,,0.3
 2025-06-30,Hichucota,11.0,0.0,,,
 2025-06-30,Huancane Corapata_M (GPRS),,,89.8,63.21,
 2025-06-30,Huarisuyo (GPRS),,,97.9,61.44,
 2025-06-30,Huayllamarca,19.6,-2.5,,,
 2025-06-30,Huayrocondo,15.6,-2.5,,,
+2025-06-30,Incachaca EPSAS,,,,,0.5
 2025-06-30,Incapampa - Coroico_M (GPRS),,,99.83,99.79,7.0
 2025-06-30,Isla Suriqui_M (GPRS),,,96.5,80.9,
 2025-06-30,Ixiamas S.(GPRS),,,96.9,94.1,0.6
@@ -39621,6 +39671,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-06-30,Laykacota,18.4,5.0,,,
 2025-06-30,Llallagua,15.2,-2.2,,,
 2025-06-30,Mecapaca_M (GPRS),,,100.0,50.5,
+2025-06-30,Milluni EPSAS,,,,,0.5
 2025-06-30,Minero (Unagro),17.8,14.8,,,
 2025-06-30,Mizque - SDC (GPRS),,,81.7,57.65,
 2025-06-30,Mojo,16.5,-10.0,,,
@@ -42861,11 +42912,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-19,El Tejar (Tarija),18.0,2.3,,,
 2025-07-19,El Villar,20.3,6.0,,,
 2025-07-19,Guajara-Mirim - Guayaramerín,32.0,13.8,,,
+2025-07-19,Hampaturi EPSAS,,,,,0.5
 2025-07-19,Hichucota,11.0,1.0,,,0.5
 2025-07-19,Huancane Corapata_M (GPRS),3.7,0.35,79.51,61.29,
 2025-07-19,Huarisuyo (GPRS),2.38,-0.86,91.4,65.59,
 2025-07-19,Huayllamarca,19.5,-3.0,,,
 2025-07-19,Huayrocondo,15.0,-3.0,,,
+2025-07-19,Incachaca EPSAS,,,,,1.4
 2025-07-19,Incapampa - Coroico_M (GPRS),12.25,11.41,99.84,86.2,
 2025-07-19,Isla Suriqui_M (GPRS),4.23,2.98,93.6,79.87,1.4
 2025-07-19,Ixiamas S.(GPRS),16.6,15.9,78.6,53.2,
@@ -42879,6 +42932,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-19,Laykacota,14.6,4.5,,,
 2025-07-19,Llallagua,18.1,-2.1,,,
 2025-07-19,Mecapaca_M (GPRS),10.47,7.49,81.49,37.04,
+2025-07-19,Milluni EPSAS,,,,,0.5
 2025-07-19,Minero (Unagro),29.5,14.2,,,
 2025-07-19,Mizque - SDC (GPRS),12.22,8.81,85.0,49.71,
 2025-07-19,Mojo,18.2,-4.2,,,
@@ -43042,11 +43096,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-20,El Tejar (Tarija),31.0,6.0,,,
 2025-07-20,El Villar,24.5,8.0,,,
 2025-07-20,Guajara-Mirim - Guayaramerín,33.2,14.8,,,
+2025-07-20,Hampaturi EPSAS,,,,,5.3
 2025-07-20,Hichucota,12.0,-0.6,,,2.0
 2025-07-20,Huancane Corapata_M (GPRS),4.16,1.24,87.1,60.35,
 2025-07-20,Huarisuyo (GPRS),1.82,0.71,96.0,63.31,0.1
 2025-07-20,Huayllamarca,20.2,-5.0,,,
 2025-07-20,Huayrocondo,15.5,-1.9,,,5.6
+2025-07-20,Incachaca EPSAS,,,,,3.5
 2025-07-20,Incapampa - Coroico_M (GPRS),13.72,12.27,99.82,79.37,0.1
 2025-07-20,Isla Suriqui_M (GPRS),4.23,2.53,96.6,74.0,
 2025-07-20,Ixiamas S.(GPRS),18.3,17.7,86.4,57.8,
@@ -43060,6 +43116,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-20,Llallagua,19.2,0.0,,,
 2025-07-20,Mecapaca,,,,,2.5
 2025-07-20,Mecapaca_M (GPRS),9.65,8.7,100.0,38.66,
+2025-07-20,Milluni EPSAS,,,,,0.2
 2025-07-20,Minero (Unagro),31.0,14.8,,,
 2025-07-20,Mizque - SDC (GPRS),11.75,7.57,75.37,38.8,
 2025-07-20,Mojo,19.2,-3.0,,,
@@ -43144,6 +43201,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-20,Totora i_M (GPRS),6.04,1.22,36.25,10.5,
 2025-07-20,Trancas,32.0,2.0,,,
 2025-07-20,Tucumillas,30.0,5.0,,,
+2025-07-20,Tuni EPSAS,,,,,0.6
 2025-07-20,Tupiza,23.8,,,,
 2025-07-20,Turumayo,33.0,3.0,,,
 2025-07-20,Uyuni,14.1,-10.0,,,
@@ -43741,6 +43799,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-24,Huarisuyo (GPRS),-0.91,-3.2,95.9,81.3,
 2025-07-24,Huayllamarca,20.5,-4.2,,,
 2025-07-24,Huayrocondo,15.5,-5.5,,,
+2025-07-24,Incachaca EPSAS,,,,,0.1
 2025-07-24,Incapampa - Coroico_M (GPRS),15.41,14.88,99.82,97.68,
 2025-07-24,Isla Suriqui_M (GPRS),5.94,2.92,96.0,92.2,
 2025-07-24,Ixiamas S.(GPRS),22.2,21.5,97.1,85.8,
@@ -44965,11 +45024,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-31,Guajara-Mirim - Guayaramerín,34.0,17.4,,,
 2025-07-31,Guanay_H (GPRS),,,,,0.1
 2025-07-31,Guayaramerin_M (GPRS),33.23,19.14,97.94,64.29,
+2025-07-31,Hampaturi EPSAS,,,,,0.1
 2025-07-31,Hichucota,10.0,-2.0,,,0.8
 2025-07-31,Huancane Corapata_M (GPRS),5.21,1.86,91.9,59.82,
 2025-07-31,Huarisuyo (GPRS),4.33,2.13,95.6,60.19,0.1
 2025-07-31,Huayllamarca,19.0,-4.0,,,
 2025-07-31,Huayrocondo,15.6,-3.7,,,0.5
+2025-07-31,Incachaca EPSAS,,,,,0.1
 2025-07-31,Incapampa - Coroico_M (GPRS),24.92,13.27,99.84,82.62,
 2025-07-31,Isla Suriqui_M (GPRS),8.09,3.97,92.0,73.81,
 2025-07-31,Ixiamas S.(GPRS),29.8,17.7,97.4,71.0,
@@ -45067,6 +45128,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-31,Totora i_M (GPRS),20.65,-0.27,31.03,11.21,
 2025-07-31,Trancas,33.0,13.0,,,
 2025-07-31,Tucumillas,20.0,3.0,,,
+2025-07-31,Tuni EPSAS,,,,,0.9
 2025-07-31,Tupiza,22.4,,,,
 2025-07-31,Turumayo,33.0,7.0,,,
 2025-07-31,Uyuni,13.5,-6.0,,,
@@ -48098,6 +48160,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-08-18,Huarisuyo (GPRS),1.28,-3.66,95.8,48.9,
 2025-08-18,Huayllamarca,20.0,-4.2,,,
 2025-08-18,Huayrocondo,17.2,-2.6,,,
+2025-08-18,Incachaca EPSAS,,,,,0.1
 2025-08-18,Incapampa - Coroico_M (GPRS),15.21,13.9,99.84,86.75,0.2
 2025-08-18,Isla Suriqui_M (GPRS),6.45,3.18,84.4,51.76,
 2025-08-18,Ixiamas S.(GPRS),22.2,21.0,93.7,55.7,
@@ -48270,6 +48333,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-08-19,El Villar,28.0,7.0,,,
 2025-08-19,Guajara-Mirim - Guayaramerín,36.8,22.4,,,
 2025-08-19,Guayaramerin_M (GPRS),24.61,23.17,85.77,51.53,
+2025-08-19,Hampaturi EPSAS,,,,,1.2
 2025-08-19,Hichucota,11.0,0.0,,,
 2025-08-19,Huancane Corapata_M (GPRS),3.18,-1.82,61.38,15.07,
 2025-08-19,Huarisuyo (GPRS),1.67,-3.39,83.7,24.01,
@@ -49396,11 +49460,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-08-25,Guajara-Mirim - Guayaramerín,27.2,12.0,,,
 2025-08-25,Guanay_H (GPRS),,,,,3.7
 2025-08-25,Guayaramerin_M (GPRS),17.71,15.12,63.62,45.13,
+2025-08-25,Hampaturi EPSAS,,,,,4.1
 2025-08-25,Hichucota,14.0,1.0,,,
 2025-08-25,Huancane Corapata_M (GPRS),4.91,3.57,93.6,41.33,
 2025-08-25,Huarisuyo (GPRS),4.57,2.1,98.1,43.34,
 2025-08-25,Huayllamarca,18.5,-0.5,,,
 2025-08-25,Huayrocondo,17.4,1.1,,,2.0
+2025-08-25,Incachaca EPSAS,,,,,6.2
 2025-08-25,Incalacaya,,,,,4.8
 2025-08-25,Incapampa - Coroico_M (GPRS),11.17,10.88,99.84,98.64,0.2
 2025-08-25,Isla Del Sol,,,,,0.1
@@ -49420,6 +49486,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-08-25,MONTERO GUABIRA CIMAR,,,,,12.7
 2025-08-25,Mecapaca,,,,,3.4
 2025-08-25,Mecapaca_M (GPRS),10.09,9.44,100.0,89.21,
+2025-08-25,Milluni EPSAS,,,,,4.8
 2025-08-25,Minero (Unagro),14.8,11.3,,,0.8
 2025-08-25,Mizque - SDC (GPRS),6.91,5.09,92.3,80.6,
 2025-08-25,Mojo,13.2,-9.5,,,
@@ -49514,6 +49581,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-08-25,Totora i_M (GPRS),6.52,-3.93,25.1,5.58,
 2025-08-25,Trancas,19.0,-5.0,,,
 2025-08-25,Tucumillas,21.0,5.0,,,
+2025-08-25,Tuni EPSAS,,,,,1.2
 2025-08-25,Tupiza,19.4,-1.6,,,
 2025-08-25,Turumayo,22.0,-6.0,,,
 2025-08-25,Urriolagoytia,,,,,8.0
@@ -49603,11 +49671,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-08-26,Guajara-Mirim - Guayaramerín,31.0,13.6,,,
 2025-08-26,Guanay_H (GPRS),,,,,1.0
 2025-08-26,Guayaramerin_M (GPRS),18.48,16.87,71.91,46.33,
+2025-08-26,Hampaturi EPSAS,,,,,0.2
 2025-08-26,Hichucota,13.0,-1.0,,,
 2025-08-26,Huancane Corapata_M (GPRS),4.62,1.21,91.2,55.78,
 2025-08-26,Huarisuyo (GPRS),2.23,-0.5,97.9,50.03,
 2025-08-26,Huayllamarca,19.0,-1.0,,,
 2025-08-26,Huayrocondo,17.1,-0.4,,,
+2025-08-26,Incachaca EPSAS,,,,,0.3
 2025-08-26,Incalacaya,,,,,2.4
 2025-08-26,Incapampa - Coroico_M (GPRS),12.14,11.81,99.83,99.76,0.1
 2025-08-26,Isla Suriqui_M (GPRS),5.74,4.1,86.7,68.43,
@@ -49789,11 +49859,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-08-27,El Villar,19.5,1.0,,,
 2025-08-27,Guajara-Mirim - Guayaramerín,33.6,14.6,,,
 2025-08-27,Guayaramerin_M (GPRS),20.64,16.87,67.73,46.89,
+2025-08-27,Hampaturi EPSAS,,,,,0.3
 2025-08-27,Hichucota,12.0,1.0,,,0.8
 2025-08-27,Huancane Corapata_M (GPRS),6.13,3.04,88.8,53.5,0.1
 2025-08-27,Huarisuyo (GPRS),4.3,1.26,92.9,59.68,
 2025-08-27,Huayllamarca,18.5,-2.0,,,
 2025-08-27,Huayrocondo,17.2,1.3,,,0.9
+2025-08-27,Incachaca EPSAS,,,,,0.1
 2025-08-27,Incapampa - Coroico_M (GPRS),12.23,11.81,99.86,85.91,0.1
 2025-08-27,Isla Del Sol,,,,,2.4
 2025-08-27,Isla Suriqui_M (GPRS),6.91,4.1,89.3,64.58,
@@ -49810,6 +49882,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-08-27,Llallagua,15.2,0.0,,,
 2025-08-27,MONTERO GUABIRA CIMAR,27.0,12.5,,,
 2025-08-27,Mecapaca_M (GPRS),9.78,9.07,100.0,63.67,
+2025-08-27,Milluni EPSAS,,,,,0.5
 2025-08-27,Minero (Unagro),26.9,14.2,,,
 2025-08-27,Mizque - SDC (GPRS),12.96,8.51,66.79,33.55,
 2025-08-27,Mojo,18.1,-7.6,,,
@@ -49889,6 +49962,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-08-27,Totora i_M (GPRS),3.92,1.06,28.28,12.49,
 2025-08-27,Trancas,20.0,-1.0,,,
 2025-08-27,Tucumillas,18.0,1.0,,,
+2025-08-27,Tuni EPSAS,,,,,1.6
 2025-08-27,Tupiza,23.4,0.0,,,
 2025-08-27,Turumayo,26.0,-1.0,,,
 2025-08-27,Uyuni,14.2,-8.3,,,
@@ -49968,6 +50042,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-08-28,El Villar,19.0,2.0,,,
 2025-08-28,Guajara-Mirim - Guayaramerín,34.4,16.2,,,
 2025-08-28,Guayaramerin_M (GPRS),19.47,17.83,79.2,39.98,
+2025-08-28,Hampaturi EPSAS,,,,,0.1
 2025-08-28,Hichucota,13.0,-1.0,,,
 2025-08-28,Huancane Corapata_M (GPRS),1.46,-6.43,95.4,39.88,
 2025-08-28,Huarisuyo (GPRS),-0.56,-3.23,97.5,48.97,
@@ -50068,6 +50143,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-08-28,Totora i_M (GPRS),2.88,-0.18,20.63,5.8,
 2025-08-28,Trancas,23.0,-1.0,,,
 2025-08-28,Tucumillas,20.0,3.0,,,
+2025-08-28,Tuni EPSAS,,,,,0.2
 2025-08-28,Tupiza,25.2,0.0,,,
 2025-08-28,Turumayo,28.0,1.0,,,
 2025-08-28,Uyuni,13.8,-9.0,,,
@@ -50321,11 +50397,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-08-30,Guajara-Mirim - Guayaramerín,37.4,20.2,,,
 2025-08-30,Guanay_H (GPRS),,,,,8.4
 2025-08-30,Guayaramerin_M (GPRS),22.13,20.88,89.06,40.6,
+2025-08-30,Hampaturi EPSAS,,,,,1.2
 2025-08-30,Hichucota,12.0,0.0,,,1.6
 2025-08-30,Huancane Corapata_M (GPRS),4.69,-0.12,89.2,46.35,1.4
 2025-08-30,Huarisuyo (GPRS),5.32,0.41,95.5,45.05,
 2025-08-30,Huayllamarca,19.3,-0.5,,,
 2025-08-30,Huayrocondo,16.5,-0.8,,,3.1
+2025-08-30,Incachaca EPSAS,,,,,0.9
 2025-08-30,Incapampa - Coroico_M (GPRS),14.89,13.88,99.86,65.34,
 2025-08-30,Isla Del Sol,,,,,3.5
 2025-08-30,Isla Suriqui_M (GPRS),3.7,2.13,75.51,46.59,0.1
@@ -50341,6 +50419,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-08-30,Llallagua,16.8,1.0,,,
 2025-08-30,MONTERO GUABIRA CIMAR,35.0,16.0,,,
 2025-08-30,Mecapaca_M (GPRS),12.47,9.76,61.57,32.34,
+2025-08-30,Milluni EPSAS,,,,,3.2
 2025-08-30,Minero (Unagro),36.0,17.6,,,
 2025-08-30,Mizque - SDC (GPRS),12.94,8.71,63.55,27.52,
 2025-08-30,Mojo,19.0,-4.0,,,
@@ -50421,6 +50500,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-08-30,Totora i_M (GPRS),16.37,12.16,27.14,4.95,
 2025-08-30,Trancas,34.0,18.0,,,
 2025-08-30,Tucumillas,23.0,8.0,,,
+2025-08-30,Tuni EPSAS,,,,,1.5
 2025-08-30,Tupiza,23.6,4.4,,,
 2025-08-30,Turumayo,35.0,9.0,,,
 2025-08-30,Uyuni,15.0,-3.0,,,
@@ -50850,6 +50930,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-02,Guajara-Mirim - Guayaramerín,,,,,9.3
 2025-09-02,Guanay_H (GPRS),,,,,2.3
 2025-09-02,Guayaramerin_M (GPRS),24.57,23.68,97.51,81.65,
+2025-09-02,Hampaturi EPSAS,,,,,0.2
 2025-09-02,Hichucota,13.0,-3.0,,,
 2025-09-02,Huancane Corapata_M (GPRS),3.89,-1.03,68.79,51.29,
 2025-09-02,Huarisuyo (GPRS),-0.22,-2.3,91.3,48.84,
@@ -51036,6 +51117,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-03,Huarisuyo (GPRS),4.23,1.26,89.1,43.74,
 2025-09-03,Huayllamarca,18.5,-1.3,,,
 2025-09-03,Huayrocondo,17.3,1.8,,,0.2
+2025-09-03,Incachaca EPSAS,,,,,0.5
 2025-09-03,Incalacaya,,,,,1.0
 2025-09-03,Incapampa - Coroico_M (GPRS),15.7,14.29,99.82,86.99,0.1
 2025-09-03,Isla Del Sol,12.0,1.0,,,3.5
@@ -51052,6 +51134,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-03,Llallagua,17.0,2.0,,,
 2025-09-03,MONTERO GUABIRA CIMAR,35.5,20.0,,,
 2025-09-03,Mecapaca_M (GPRS),12.88,11.19,100.0,52.28,0.9
+2025-09-03,Milluni EPSAS,,,,,0.9
 2025-09-03,Misicuni,,,,,4.0
 2025-09-03,Mizque - SDC (GPRS),15.49,11.83,70.57,33.0,
 2025-09-03,Mojo,21.0,-1.0,,,
@@ -51136,6 +51219,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-03,Totora i_M (GPRS),10.13,3.0,18.86,11.17,
 2025-09-03,Trancas,36.0,11.0,,,
 2025-09-03,Tucumillas,28.0,10.0,,,
+2025-09-03,Tuni EPSAS,,,,,0.5
 2025-09-03,Tupiza,25.6,6.4,,,
 2025-09-03,Turumayo,38.0,8.0,,,
 2025-09-03,Uyuni,,-5.0,,,
@@ -51221,11 +51305,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-04,Guajara-Mirim - Guayaramerín,35.4,22.8,,,
 2025-09-04,Guanay_H (GPRS),,,,,43.4
 2025-09-04,Guayaramerin_M (GPRS),24.18,23.2,96.26,59.44,
+2025-09-04,Hampaturi EPSAS,,,,,0.5
 2025-09-04,Hichucota,10.0,1.0,,,
 2025-09-04,Huancane Corapata_M (GPRS),6.99,4.16,79.87,55.13,
 2025-09-04,Huarisuyo (GPRS),5.16,3.95,91.6,69.16,0.4
 2025-09-04,Huayllamarca,18.0,-0.2,,,
 2025-09-04,Huayrocondo,17.1,3.1,,,1.1
+2025-09-04,Incachaca EPSAS,,,,,2.6
 2025-09-04,Incalacaya,,,,,0.3
 2025-09-04,Incapampa - Coroico_M (GPRS),15.54,14.5,94.46,73.67,0.1
 2025-09-04,Isla Del Sol,13.0,5.0,,,3.1
@@ -51427,11 +51513,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-05,Guajara-Mirim - Guayaramerín,,,,,13.6
 2025-09-05,Guanay_H (GPRS),,,,,7.5
 2025-09-05,Guayaramerin_M (GPRS),23.39,22.69,100.0,80.21,
+2025-09-05,Hampaturi EPSAS,,,,,2.4
 2025-09-05,Hichucota,12.0,2.0,,,
 2025-09-05,Huancane Corapata_M (GPRS),4.18,3.24,76.58,57.42,
 2025-09-05,Huarisuyo (GPRS),4.35,3.32,97.1,63.94,
 2025-09-05,Huayllamarca,,0.5,,,
 2025-09-05,Huayrocondo,16.6,0.9,,,2.0
+2025-09-05,Incachaca EPSAS,,,,,2.3
 2025-09-05,Incapampa - Coroico_M (GPRS),15.58,13.94,99.83,99.78,0.1
 2025-09-05,Isla Del Sol,12.0,3.0,,,7.8
 2025-09-05,Isla Suriqui_M (GPRS),5.52,4.82,91.7,74.35,
@@ -51449,6 +51537,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-05,Magdalena,29.0,29.0,37.6,37.6,
 2025-09-05,Mecapaca,,,,,0.6
 2025-09-05,Mecapaca_M (GPRS),12.41,9.82,100.0,68.55,
+2025-09-05,Milluni EPSAS,,,,,1.6
 2025-09-05,Misicuni,,,,,1.2
 2025-09-05,Mizque - SDC (GPRS),16.94,14.11,78.89,78.89,
 2025-09-05,Mojo,20.0,-2.0,,,
@@ -51550,6 +51639,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-05,Totora i_M (GPRS),7.56,5.38,51.51,20.71,
 2025-09-05,Trancas,,,,,2.0
 2025-09-05,Tucumillas,30.0,10.0,,,
+2025-09-05,Tuni EPSAS,,,,,6.9
 2025-09-05,Tupiza,25.2,7.4,,,
 2025-09-05,Turumayo,,,,,1.2
 2025-09-05,Uyuni,,3.5,,,
@@ -51645,11 +51735,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-06,El Villar,12.5,3.0,,,
 2025-09-06,Guajara-Mirim - Guayaramerín,30.0,20.4,,,
 2025-09-06,Guayaramerin_M (GPRS),23.82,22.41,76.48,58.63,
+2025-09-06,Hampaturi EPSAS,,,,,1.9
 2025-09-06,Hichucota,9.0,0.0,,,4.0
 2025-09-06,Huancane Corapata_M (GPRS),5.49,0.87,88.5,68.42,
 2025-09-06,Huarisuyo (GPRS),5.02,2.19,96.0,64.38,
 2025-09-06,Huayllamarca,18.3,1.5,,,
 2025-09-06,Huayrocondo,12.5,2.2,,,4.6
+2025-09-06,Incachaca EPSAS,,,,,2.1
 2025-09-06,Incalacaya,,,,,10.0
 2025-09-06,Incapampa - Coroico_M (GPRS),14.09,13.48,99.85,76.76,0.2
 2025-09-06,Isla Del Sol,8.0,4.0,,,10.0
@@ -51667,6 +51759,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-06,MONTERO GUABIRA CIMAR,34.5,14.5,,,
 2025-09-06,Mecapaca,,,,,5.1
 2025-09-06,Mecapaca_M (GPRS),11.38,10.57,100.0,77.58,0.7
+2025-09-06,Milluni EPSAS,,,,,7.4
 2025-09-06,Misicuni,,,,,1.0
 2025-09-06,Mizque - SDC (GPRS),12.74,10.37,72.08,52.35,
 2025-09-06,Mojo,21.0,-1.0,,,
@@ -51758,6 +51851,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-06,Totora i_M (GPRS),7.2,4.44,46.19,12.79,
 2025-09-06,Trancas,24.0,3.0,,,
 2025-09-06,Tucumillas,31.0,8.0,,,
+2025-09-06,Tuni EPSAS,,,,,6.0
 2025-09-06,Tupiza,24.6,5.2,,,
 2025-09-06,Turumayo,26.0,5.0,,,
 2025-09-06,Uyuni,,-2.8,,,
@@ -51849,11 +51943,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-07,El Villar,17.2,4.0,,,
 2025-09-07,Guajara-Mirim - Guayaramerín,34.0,16.2,,,
 2025-09-07,Guayaramerin_M (GPRS),18.49,17.48,87.63,45.01,
+2025-09-07,Hampaturi EPSAS,,,,,2.5
 2025-09-07,Hichucota,12.0,1.0,,,
 2025-09-07,Huancane Corapata_M (GPRS),5.47,4.55,90.8,68.56,
 2025-09-07,Huarisuyo (GPRS),5.0,4.46,92.3,58.71,
 2025-09-07,Huayllamarca,17.0,2.0,,,
 2025-09-07,Huayrocondo,17.0,3.4,,,3.2
+2025-09-07,Incachaca EPSAS,,,,,2.7
 2025-09-07,Incalacaya,,,,,7.6
 2025-09-07,Incapampa - Coroico_M (GPRS),14.79,14.13,99.84,85.95,0.1
 2025-09-07,Isla Del Sol,14.0,5.0,,,10.8
@@ -51871,6 +51967,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-07,MONTERO GUABIRA CIMAR,33.0,14.8,,,
 2025-09-07,Mecapaca,,,,,1.5
 2025-09-07,Mecapaca_M (GPRS),11.4,10.86,100.0,60.09,
+2025-09-07,Milluni EPSAS,,,,,1.2
 2025-09-07,Misicuni,,,,,1.1
 2025-09-07,Mizque - SDC (GPRS),12.94,9.1,69.76,45.75,
 2025-09-07,Mojo,19.2,4.2,,,
@@ -52048,11 +52145,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-08,El Villar,21.5,9.0,,,
 2025-09-08,Guajara-Mirim - Guayaramerín,36.2,19.8,,,
 2025-09-08,Guayaramerin_M (GPRS),21.94,20.37,91.58,46.86,
+2025-09-08,Hampaturi EPSAS,,,,,4.9
 2025-09-08,Hichucota,13.0,2.0,,,
 2025-09-08,Huancane Corapata_M (GPRS),5.74,4.69,90.0,43.99,0.1
 2025-09-08,Huarisuyo (GPRS),5.35,4.69,93.6,40.75,
 2025-09-08,Huayllamarca,19.5,-2.0,,,
 2025-09-08,Huayrocondo,17.3,0.4,,,5.6
+2025-09-08,Incachaca EPSAS,,,,,4.9
 2025-09-08,Incalacaya,,,,,8.5
 2025-09-08,Incapampa - Coroico_M (GPRS),14.69,14.33,99.85,88.93,0.1
 2025-09-08,Isla Del Sol,11.0,5.0,,,3.9
@@ -52069,6 +52168,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-08,MONTERO GUABIRA CIMAR,35.0,16.0,,,
 2025-09-08,Mecapaca,,,,,3.0
 2025-09-08,Mecapaca_M (GPRS),11.1,10.4,100.0,40.23,
+2025-09-08,Milluni EPSAS,,,,,4.9
 2025-09-08,Mizque - SDC (GPRS),15.43,11.83,71.53,32.82,
 2025-09-08,Mojo,18.0,4.0,,,
 2025-09-08,Okinawa I,31.0,23.0,,,
@@ -52155,6 +52255,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-08,Totora i_M (GPRS),14.23,7.93,16.22,9.67,
 2025-09-08,Trancas,31.0,14.0,,,
 2025-09-08,Tucumillas,29.0,11.0,,,
+2025-09-08,Tuni EPSAS,,,,,0.7
 2025-09-08,Tupiza,24.4,9.2,,,
 2025-09-08,Turumayo,36.0,7.0,,,
 2025-09-08,Uyuni,,-1.5,,,
@@ -52680,6 +52781,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-11,Totora i_M (GPRS),9.73,5.86,51.67,35.38,
 2025-09-11,Trancas,26.0,17.0,,,
 2025-09-11,Tucumillas,28.0,11.0,,,
+2025-09-11,Tuni EPSAS,,,,,0.2
 2025-09-11,Tupiza,26.2,8.2,,,
 2025-09-11,Turumayo,31.0,12.0,,,
 2025-09-11,Uyuni,,-3.2,,,
@@ -53680,6 +53782,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-17,Llallagua,14.6,5.0,,,14.2
 2025-09-17,MONTERO GUABIRA CIMAR,37.0,23.0,,,
 2025-09-17,Mecapaca_M (GPRS),13.76,9.9,96.84,40.73,
+2025-09-17,Milluni EPSAS,,,,,4.0
 2025-09-17,Minero (Unagro),,,,,0.6
 2025-09-17,Misicuni,,,,,1.5
 2025-09-17,Mizque - SDC (GPRS),13.61,12.48,81.0,44.72,
@@ -53765,6 +53868,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-17,Totora i_M (GPRS),8.11,6.1,63.65,38.59,
 2025-09-17,Trancas,28.0,15.0,,,
 2025-09-17,Tucumillas,25.5,12.0,,,
+2025-09-17,Tuni EPSAS,,,,,0.5
 2025-09-17,Tupiza,27.6,6.4,,,
 2025-09-17,Turumayo,,,,,1.1
 2025-09-17,Uyuni,16.0,3.0,,,
@@ -54903,6 +55007,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-24,El Villar,25.0,6.0,,,
 2025-09-24,Guajara-Mirim - Guayaramerín,33.4,21.6,,,
 2025-09-24,Guayaramerin_M (GPRS),23.72,22.81,83.35,67.63,
+2025-09-24,Hampaturi EPSAS,,,,,0.1
 2025-09-24,Hichucota,11.0,1.0,,,
 2025-09-24,Huancane Corapata_M (GPRS),5.84,1.4,72.83,44.54,
 2025-09-24,Huarisuyo (GPRS),3.35,-0.73,76.45,48.68,
@@ -55004,6 +55109,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-24,Totora i_M (GPRS),7.44,4.5,39.65,32.04,
 2025-09-24,Trancas,21.0,8.0,,,
 2025-09-24,Tucumillas,28.0,10.5,,,
+2025-09-24,Tuni EPSAS,,,,,8.4
 2025-09-24,Tupiza,25.0,7.4,,,
 2025-09-24,Turumayo,28.0,9.0,,,
 2025-09-24,Uyuni,18.2,-6.0,,,
@@ -55080,11 +55186,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-25,El Villar,21.0,5.0,,,
 2025-09-25,Guajara-Mirim - Guayaramerín,,,,,3.1
 2025-09-25,Guayaramerin_M (GPRS),23.97,23.3,100.0,80.62,0.7
+2025-09-25,Hampaturi EPSAS,,,,,2.7
 2025-09-25,Hichucota,14.0,0.0,,,
 2025-09-25,Huancane Corapata_M (GPRS),2.59,-0.31,70.88,44.46,
 2025-09-25,Huarisuyo (GPRS),1.69,-2.43,79.07,50.09,
 2025-09-25,Huayllamarca,21.0,2.1,,,
 2025-09-25,Huayrocondo,18.2,-3.0,,,
+2025-09-25,Incachaca EPSAS,,,,,1.4
 2025-09-25,Incapampa - Coroico_M (GPRS),16.61,14.41,99.84,76.12,0.1
 2025-09-25,Isla Del Sol,14.0,5.0,,,
 2025-09-25,Isla Suriqui_M (GPRS),7.18,5.48,84.6,53.32,
@@ -55181,6 +55289,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-25,Totora i_M (GPRS),6.65,4.6,48.14,32.39,
 2025-09-25,Trancas,27.0,15.0,,,
 2025-09-25,Tucumillas,31.0,11.5,,,
+2025-09-25,Tuni EPSAS,,,,,0.6
 2025-09-25,Tupiza,26.6,8.0,,,
 2025-09-25,Turumayo,23.0,11.0,,,
 2025-09-25,Uyuni,20.0,-6.5,,,
@@ -55642,6 +55751,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-28,Huarisuyo (GPRS),6.43,4.3,87.1,53.0,
 2025-09-28,Huayllamarca,,,,,3.2
 2025-09-28,Huayrocondo,17.9,2.0,,,2.5
+2025-09-28,Incachaca EPSAS,,,,,0.4
 2025-09-28,Incalacaya,,,,,7.1
 2025-09-28,Incapampa - Coroico_M (GPRS),17.22,16.46,99.87,99.8,
 2025-09-28,Isla Del Sol,12.0,5.0,,,5.6
@@ -55658,6 +55768,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-28,Llallagua,16.6,6.1,,,
 2025-09-28,MONTERO GUABIRA CIMAR,31.0,20.0,,,
 2025-09-28,Mecapaca_M (GPRS),13.24,9.62,76.55,49.53,
+2025-09-28,Milluni EPSAS,,,,,1.0
 2025-09-28,Minero (Unagro),,,,,2.3
 2025-09-28,Mizque - SDC (GPRS),16.47,12.75,68.41,46.81,
 2025-09-28,Mojo,24.3,2.3,,,
@@ -55752,6 +55863,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-28,Totora i_M (GPRS),14.72,9.39,51.9,30.13,
 2025-09-28,Trancas,28.0,11.0,,,
 2025-09-28,Tucumillas,32.0,10.0,,,
+2025-09-28,Tuni EPSAS,,,,,0.5
 2025-09-28,Tupiza,29.0,12.0,,,
 2025-09-28,Turumayo,30.0,7.0,,,
 2025-09-28,Uyuni,19.0,-0.1,,,
@@ -55842,11 +55954,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-29,Guajara-Mirim - Guayaramerín,,,,,16.7
 2025-09-29,Guanay_H (GPRS),,,,,17.9
 2025-09-29,Guayaramerin_M (GPRS),23.94,23.33,100.0,66.56,
+2025-09-29,Hampaturi EPSAS,,,,,4.5
 2025-09-29,Hichucota,13.0,3.0,,,
 2025-09-29,Huancane Corapata_M (GPRS),5.74,3.24,81.0,46.42,
 2025-09-29,Huarisuyo (GPRS),4.81,3.32,97.0,52.3,
 2025-09-29,Huayllamarca,18.3,4.5,,,
 2025-09-29,Huayrocondo,19.4,1.4,,,0.3
+2025-09-29,Incachaca EPSAS,,,,,3.8
 2025-09-29,Incalacaya,,,,,5.2
 2025-09-29,Incapampa - Coroico_M (GPRS),16.32,14.76,97.65,74.06,
 2025-09-29,Isla Del Sol,13.0,6.0,,,2.8
@@ -55864,6 +55978,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-29,Llallagua,19.6,4.0,,,
 2025-09-29,MONTERO GUABIRA CIMAR,35.0,18.0,,,
 2025-09-29,Mecapaca_M (GPRS),11.51,9.72,100.0,43.31,
+2025-09-29,Milluni EPSAS,,,,,6.1
 2025-09-29,Mizque - SDC (GPRS),18.05,12.17,71.44,30.64,
 2025-09-29,Mojo,24.0,3.3,,,
 2025-09-29,Okinawa I,30.0,20.0,,,
@@ -55952,6 +56067,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-29,Totora i_M (GPRS),9.26,6.57,6.32,1.59,
 2025-09-29,Trancas,35.0,8.0,,,
 2025-09-29,Tucumillas,33.0,11.0,,,
+2025-09-29,Tuni EPSAS,,,,,0.1
 2025-09-29,Tupiza,28.4,12.4,,,
 2025-09-29,Turumayo,40.0,6.0,,,
 2025-09-29,Uyuni,17.0,1.2,,,
@@ -56046,11 +56162,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-30,Guajara-Mirim - Guayaramerín,,,,,1.8
 2025-09-30,Guanay_H (GPRS),,,,,0.4
 2025-09-30,Guayaramerin_M (GPRS),24.9,23.49,99.87,89.33,
+2025-09-30,Hampaturi EPSAS,,,,,2.1
 2025-09-30,Hichucota,12.0,1.0,,,5.4
 2025-09-30,Huancane Corapata_M (GPRS),5.81,2.12,64.9,44.08,
 2025-09-30,Huarisuyo (GPRS),6.65,2.56,81.1,42.72,
 2025-09-30,Huayllamarca,18.5,5.0,,,
 2025-09-30,Huayrocondo,18.5,3.6,,,
+2025-09-30,Incachaca EPSAS,,,,,3.9
 2025-09-30,Incalacaya,,,,,1.8
 2025-09-30,Incapampa - Coroico_M (GPRS),16.67,15.83,99.83,72.97,
 2025-09-30,Isla Del Sol,13.0,5.0,,,9.8
@@ -56069,6 +56187,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-30,Llallagua,11.5,5.1,,,2.5
 2025-09-30,MONTERO GUABIRA CIMAR,,21.0,,,
 2025-09-30,Mecapaca_M (GPRS),13.42,11.19,99.95,46.83,
+2025-09-30,Milluni EPSAS,,,,,0.1
 2025-09-30,Minero (Unagro),,,,,48.0
 2025-09-30,Misicuni,,,,,1.1
 2025-09-30,Mizque - SDC (GPRS),16.47,13.96,61.2,36.93,
@@ -56160,6 +56279,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-30,Totora i_M (GPRS),9.56,5.46,39.07,14.12,
 2025-09-30,Trancas,28.0,13.0,,,
 2025-09-30,Tucumillas,36.0,13.0,,,
+2025-09-30,Tuni EPSAS,,,,,1.8
 2025-09-30,Tupiza,27.0,8.6,,,
 2025-09-30,Turumayo,27.0,11.0,,,
 2025-09-30,Uyuni,17.1,-2.3,,,
@@ -56263,11 +56383,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-01,Guajara-Mirim - Guayaramerín,34.2,21.4,,,
 2025-10-01,Guanay_H (GPRS),,,,,50.2
 2025-10-01,Guayaramerin_M (GPRS),23.17,22.06,89.62,71.78,
+2025-10-01,Hampaturi EPSAS,,,,,2.3
 2025-10-01,Hichucota,13.0,1.0,,,8.0
 2025-10-01,Huancane Corapata_M (GPRS),4.95,3.97,86.2,56.7,
 2025-10-01,Huarisuyo (GPRS),5.37,4.3,95.9,53.0,0.1
 2025-10-01,Huayllamarca,20.0,4.5,,,5.4
 2025-10-01,Huayrocondo,15.9,3.5,,,4.3
+2025-10-01,Incachaca EPSAS,,,,,1.8
 2025-10-01,Incapampa - Coroico_M (GPRS),15.35,14.93,99.84,88.7,
 2025-10-01,Isla Del Sol,11.0,5.0,,,3.1
 2025-10-01,Isla Suriqui_M (GPRS),6.32,5.56,74.23,57.16,
@@ -56285,6 +56407,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-01,Mataral,,,,,40.7
 2025-10-01,Mecapaca,,,,,10.3
 2025-10-01,Mecapaca_M (GPRS),12.19,10.12,100.0,69.06,
+2025-10-01,Milluni EPSAS,,,,,2.6
 2025-10-01,Minero (Unagro),,,,,23.0
 2025-10-01,Mizque - SDC (GPRS),16.95,13.91,94.3,65.33,5.7
 2025-10-01,Mojo,17.4,8.0,,,
@@ -56389,6 +56512,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-01,Totora i_M (GPRS),14.11,12.82,54.17,39.79,
 2025-10-01,Trancas,18.0,10.0,,,20.0
 2025-10-01,Tucumillas,,,,,23.3
+2025-10-01,Tuni EPSAS,,,,,4.1
 2025-10-01,Tupiza,21.4,12.6,,,
 2025-10-01,Tupiza_1_H (GPRS),,,,,0.1
 2025-10-01,Turumayo,22.0,12.0,,,12.5
@@ -56491,11 +56615,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-02,Guajara-Mirim - Guayaramerín,33.2,22.0,,,
 2025-10-02,Guanay_H (GPRS),,,,,2.8
 2025-10-02,Guayaramerin_M (GPRS),25.6,23.27,100.0,76.86,
+2025-10-02,Hampaturi EPSAS,,,,,9.3
 2025-10-02,Hichucota,14.0,0.0,,,13.0
 2025-10-02,Huancane Corapata_M (GPRS),4.89,1.79,68.08,53.26,
 2025-10-02,Huarisuyo (GPRS),4.1,2.72,89.8,54.76,
 2025-10-02,Huayllamarca,20.3,3.5,,,
 2025-10-02,Huayrocondo,18.0,2.8,,,4.0
+2025-10-02,Incachaca EPSAS,,,,,8.2
 2025-10-02,Incalacaya,,,,,11.1
 2025-10-02,Incapampa - Coroico_M (GPRS),14.96,14.13,99.85,85.83,
 2025-10-02,Isla Del Sol,12.0,4.0,,,9.6
@@ -56513,6 +56639,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-02,MONTERO GUABIRA CIMAR,,,,,15.6
 2025-10-02,Mecapaca,,,,,5.8
 2025-10-02,Mecapaca_M (GPRS),11.4,10.23,100.0,59.96,
+2025-10-02,Milluni EPSAS,,,,,12.5
 2025-10-02,Minero (Unagro),,,,,5.9
 2025-10-02,Mizque - SDC (GPRS),14.78,12.73,82.9,61.0,0.2
 2025-10-02,Mojo,22.0,2.0,,,0.8
@@ -56613,6 +56740,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-02,Totora i_M (GPRS),12.45,8.21,55.76,23.83,
 2025-10-02,Trancas,17.0,9.0,,,
 2025-10-02,Tucumillas,,,,,1.5
+2025-10-02,Tuni EPSAS,,,,,23.8
 2025-10-02,Tupiza,25.6,12.6,,,
 2025-10-02,Turumayo,18.0,11.0,,,
 2025-10-02,Uyuni,17.1,-5.0,,,
@@ -56703,6 +56831,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-03,El Villar,15.8,10.0,,,
 2025-10-03,Guajara-Mirim - Guayaramerín,,,,,1.2
 2025-10-03,Guayaramerin_M (GPRS),22.02,21.63,100.0,94.96,
+2025-10-03,Hampaturi EPSAS,,,,,3.4
 2025-10-03,Hichucota,13.0,1.0,,,
 2025-10-03,Huancane Corapata_M (GPRS),5.61,2.65,96.8,47.52,
 2025-10-03,Huarisuyo (GPRS),4.36,2.3,98.3,51.27,
@@ -56724,6 +56853,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-03,MONTERO GUABIRA CIMAR,,,,,2.5
 2025-10-03,Mecapaca,,,,,0.4
 2025-10-03,Mecapaca_M (GPRS),10.0,9.14,100.0,49.71,
+2025-10-03,Milluni EPSAS,,,,,0.1
 2025-10-03,Minero (Unagro),,,,,0.2
 2025-10-03,Mizque - SDC (GPRS),13.37,10.34,81.7,44.39,0.1
 2025-10-03,Mojo,22.1,1.0,,,
@@ -56888,11 +57018,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-04,El Villar,24.8,11.0,,,
 2025-10-04,Guajara-Mirim - Guayaramerín,36.0,20.6,,,
 2025-10-04,Guayaramerin_M (GPRS),22.94,21.53,93.45,64.76,
+2025-10-04,Hampaturi EPSAS,,,,,1.7
 2025-10-04,Hichucota,14.0,0.0,,,
 2025-10-04,Huancane Corapata_M (GPRS),4.82,1.79,72.07,38.26,
 2025-10-04,Huarisuyo (GPRS),2.75,-0.27,88.3,37.38,
 2025-10-04,Huayllamarca,20.4,2.6,,,
 2025-10-04,Huayrocondo,19.0,-1.6,,,
+2025-10-04,Incachaca EPSAS,,,,,1.6
 2025-10-04,Incalacaya,,,,,4.4
 2025-10-04,Incapampa - Coroico_M (GPRS),15.59,14.84,99.87,71.7,
 2025-10-04,Isla Del Sol,14.0,5.0,,,
@@ -57626,11 +57758,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-08,El Villar,12.0,6.0,,,
 2025-10-08,Guajara-Mirim - Guayaramerín,32.8,18.4,,,
 2025-10-08,Guayaramerin_M (GPRS),22.45,20.3,66.61,48.81,
+2025-10-08,Hampaturi EPSAS,,,,,1.2
 2025-10-08,Hichucota,12.0,1.0,,,
 2025-10-08,Huancane Corapata_M (GPRS),4.75,2.21,78.7,52.49,
 2025-10-08,Huarisuyo (GPRS),2.02,-0.64,91.3,53.91,
 2025-10-08,Huayllamarca,19.3,-0.5,,,
 2025-10-08,Huayrocondo,17.0,0.9,,,
+2025-10-08,Incachaca EPSAS,,,,,1.1
 2025-10-08,Incalacaya,,,,,3.0
 2025-10-08,Incapampa - Coroico_M (GPRS),13.96,13.52,99.85,88.57,
 2025-10-08,Isla Del Sol,,7.0,,,
@@ -57647,6 +57781,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-08,Llallagua,17.1,5.1,,,7.1
 2025-10-08,MONTERO GUABIRA CIMAR,30.0,15.0,,,
 2025-10-08,Mecapaca_M (GPRS),11.24,10.01,100.0,52.45,
+2025-10-08,Milluni EPSAS,,,,,18.0
 2025-10-08,Mizque - SDC (GPRS),12.74,10.58,78.11,58.96,
 2025-10-08,Mojo,17.3,0.0,,,
 2025-10-08,Okinawa I,32.0,23.0,,,
@@ -57731,6 +57866,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-08,Totora i_M (GPRS),6.19,3.48,61.14,33.29,
 2025-10-08,Trancas,21.0,8.0,,,
 2025-10-08,Tucumillas,28.0,13.0,,,
+2025-10-08,Tuni EPSAS,,,,,2.4
 2025-10-08,Tupiza,27.4,8.4,,,
 2025-10-08,Turumayo,27.0,4.0,,,
 2025-10-08,Uyuni,20.0,2.0,,,
@@ -57824,6 +57960,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-09,Huarisuyo (GPRS),4.36,2.92,96.0,82.1,2.6
 2025-10-09,Huayllamarca,18.0,2.0,,,
 2025-10-09,Huayrocondo,16.2,1.5,,,4.1
+2025-10-09,Incachaca EPSAS,,,,,0.7
 2025-10-09,Incapampa - Coroico_M (GPRS),14.28,13.69,99.83,90.74,
 2025-10-09,Isla Del Sol,14.0,,,,14.7
 2025-10-09,Isla Suriqui_M (GPRS),8.32,7.44,89.2,74.03,1.5
@@ -57838,6 +57975,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-09,Llallagua,12.8,6.0,,,7.2
 2025-10-09,MONTERO GUABIRA CIMAR,32.0,16.5,,,
 2025-10-09,Mecapaca_M (GPRS),12.28,11.09,100.0,89.66,
+2025-10-09,Milluni EPSAS,,,,,3.3
 2025-10-09,Mizque - SDC (GPRS),15.23,14.08,43.11,39.42,
 2025-10-09,Mojo,20.3,-1.0,,,
 2025-10-09,Okinawa I,33.0,24.0,,,
@@ -57923,6 +58061,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-09,Totora i_M (GPRS),10.85,6.03,38.21,23.89,
 2025-10-09,Trancas,27.0,8.0,,,
 2025-10-09,Tucumillas,26.0,12.0,,,
+2025-10-09,Tuni EPSAS,,,,,2.2
 2025-10-09,Tupiza,24.2,6.2,,,
 2025-10-09,Turumayo,32.0,3.0,,,
 2025-10-09,Uyuni,20.2,3.1,,,
@@ -58013,11 +58152,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-10,El Villar,22.0,8.0,,,
 2025-10-10,Guajara-Mirim - Guayaramerín,36.2,21.2,,,
 2025-10-10,Guayaramerin_M (GPRS),24.58,22.13,77.53,45.08,
+2025-10-10,Hampaturi EPSAS,,,,,6.4
 2025-10-10,Hichucota,12.0,1.0,,,3.4
 2025-10-10,Huancane Corapata_M (GPRS),4.49,2.32,84.7,61.46,
 2025-10-10,Huarisuyo (GPRS),3.85,2.55,94.6,60.83,
 2025-10-10,Huayllamarca,20.0,1.0,,,1.0
 2025-10-10,Huayrocondo,15.2,2.5,,,0.8
+2025-10-10,Incachaca EPSAS,,,,,4.9
 2025-10-10,Incalacaya,,,,,11.5
 2025-10-10,Incapampa - Coroico_M (GPRS),13.71,13.22,99.85,69.88,0.1
 2025-10-10,Isla Del Sol,12.0,5.0,,,2.5
@@ -58034,6 +58175,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-10,Llallagua,17.0,7.0,,,
 2025-10-10,MONTERO GUABIRA CIMAR,35.0,16.0,,,
 2025-10-10,Mecapaca_M (GPRS),12.2,10.96,93.7,49.16,
+2025-10-10,Milluni EPSAS,,,,,3.7
 2025-10-10,Mizque - SDC (GPRS),14.2,11.94,91.6,53.06,
 2025-10-10,Mojo,23.3,0.0,,,
 2025-10-10,Okinawa I,30.0,23.0,,,
@@ -58122,6 +58264,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-10,Totora i_M (GPRS),11.11,4.56,34.63,21.03,
 2025-10-10,Trancas,32.0,12.0,,,
 2025-10-10,Tucumillas,27.0,11.5,,,
+2025-10-10,Tuni EPSAS,,,,,4.0
 2025-10-10,Tupiza,27.4,6.0,,,
 2025-10-10,Turumayo,36.0,5.0,,,
 2025-10-10,Uyuni,18.0,0.1,,,
@@ -58205,11 +58348,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-11,El Villar,26.0,10.0,,,
 2025-10-11,Guajara-Mirim - Guayaramerín,36.4,22.6,,,
 2025-10-11,Guayaramerin_M (GPRS),25.67,23.93,85.83,62.76,
+2025-10-11,Hampaturi EPSAS,,,,,2.5
 2025-10-11,Hichucota,13.0,0.0,,,6.8
 2025-10-11,Huancane Corapata_M (GPRS),3.37,1.01,80.3,44.2,
 2025-10-11,Huarisuyo (GPRS),3.46,0.24,84.2,39.94,
 2025-10-11,Huayllamarca,21.5,1.7,,,
 2025-10-11,Huayrocondo,19.5,1.5,,,5.8
+2025-10-11,Incachaca EPSAS,,,,,0.4
 2025-10-11,Incalacaya,,,,,9.6
 2025-10-11,Incapampa - Coroico_M (GPRS),14.97,14.22,99.64,61.4,
 2025-10-11,Isla Del Sol,15.0,5.0,,,1.4
@@ -58226,6 +58371,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-11,Llallagua,19.1,4.0,,,
 2025-10-11,MONTERO GUABIRA CIMAR,36.0,20.0,,,
 2025-10-11,Mecapaca_M (GPRS),12.28,10.3,76.29,29.03,
+2025-10-11,Milluni EPSAS,,,,,1.3
 2025-10-11,Mizque - SDC (GPRS),13.33,9.95,65.15,23.88,
 2025-10-11,Mojo,26.0,0.2,,,
 2025-10-11,Okinawa I,31.0,22.0,,,
@@ -58306,6 +58452,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-11,Totora i_M (GPRS),7.66,5.53,27.59,7.58,
 2025-10-11,Trancas,38.0,13.0,,,
 2025-10-11,Tucumillas,29.5,11.0,,,
+2025-10-11,Tuni EPSAS,,,,,4.5
 2025-10-11,Tupiza,31.6,6.4,,,
 2025-10-11,Turumayo,42.0,7.0,,,
 2025-10-11,Uyuni,20.0,1.0,,,
@@ -58766,10 +58913,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-14,Guajara-Mirim - Guayaramerín,,,,,0.5
 2025-10-14,Guanay_H (GPRS),,,,,0.1
 2025-10-14,Guayaramerin_M (GPRS),24.81,22.51,99.3,58.77,
+2025-10-14,Hampaturi EPSAS,,,,,12.6
 2025-10-14,Hichucota,13.0,1.0,,,3.0
 2025-10-14,Huancane Corapata_M (GPRS),5.94,3.92,73.9,54.96,
 2025-10-14,Huarisuyo (GPRS),4.53,2.67,84.3,50.29,
+2025-10-14,Huayllamarca,20.4,-3.5,,,
 2025-10-14,Huayrocondo,15.7,2.5,,,7.9
+2025-10-14,Incachaca EPSAS,,,,,7.0
 2025-10-14,Incapampa - Coroico_M (GPRS),15.48,13.53,99.86,77.77,
 2025-10-14,Isla Del Sol,15.0,7.0,,,
 2025-10-14,Isla Suriqui_M (GPRS),9.08,6.38,64.58,52.87,
@@ -58785,6 +58935,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-14,Llallagua,18.1,6.0,,,3.0
 2025-10-14,MONTERO GUABIRA CIMAR,34.0,17.0,,,
 2025-10-14,Mecapaca_M (GPRS),11.01,10.18,100.0,48.14,
+2025-10-14,Milluni EPSAS,,,,,0.1
 2025-10-14,Mizque - SDC (GPRS),15.56,13.31,66.97,53.73,
 2025-10-14,Mojo,24.0,2.0,,,
 2025-10-14,Okinawa I,31.0,21.0,,,
@@ -58869,6 +59020,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-14,Totora i_M (GPRS),10.84,6.25,52.44,26.04,
 2025-10-14,Trancas,27.0,12.0,,,
 2025-10-14,Tucumillas,28.0,11.0,,,
+2025-10-14,Tuni EPSAS,,,,,0.2
 2025-10-14,Tupiza,29.2,10.4,,,
 2025-10-14,Turumayo,31.0,6.0,,,
 2025-10-14,Uyuni,20.0,2.1,,,
@@ -58956,6 +59108,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-15,Hichucota,11.0,0.0,,,
 2025-10-15,Huancane Corapata_M (GPRS),7.05,3.79,84.5,58.99,
 2025-10-15,Huarisuyo (GPRS),6.44,4.78,90.5,59.83,
+2025-10-15,Huayllamarca,19.3,2.0,,,
 2025-10-15,Huayrocondo,17.5,4.0,,,2.9
 2025-10-15,Incapampa - Coroico_M (GPRS),16.35,15.2,99.85,69.27,0.1
 2025-10-15,Isla Del Sol,12.0,5.0,,,4.2
@@ -59139,9 +59292,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-16,El Villar,20.5,13.0,,,
 2025-10-16,Guajara-Mirim - Guayaramerín,,,,,1.4
 2025-10-16,Guayaramerin_M (GPRS),23.13,22.63,100.0,68.38,
+2025-10-16,Hampaturi EPSAS,,,,,0.3
 2025-10-16,Hichucota,12.0,1.0,,,
 2025-10-16,Huancane Corapata_M (GPRS),5.48,3.71,82.9,54.17,
 2025-10-16,Huarisuyo (GPRS),5.64,2.23,91.7,50.97,
+2025-10-16,Huayllamarca,23.3,4.5,,,
 2025-10-16,Huayrocondo,18.5,0.9,,,
 2025-10-16,Incapampa - Coroico_M (GPRS),14.31,13.56,97.92,66.33,
 2025-10-16,Isla Del Sol,14.0,5.0,,,
@@ -59327,6 +59482,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-17,Hichucota,11.0,0.0,,,
 2025-10-17,Huancane Corapata_M (GPRS),5.87,4.82,81.7,61.08,
 2025-10-17,Huarisuyo (GPRS),6.34,5.24,87.3,54.99,
+2025-10-17,Huayllamarca,22.4,4.0,,,6.1
 2025-10-17,Huayrocondo,16.4,3.8,,,
 2025-10-17,Incalacaya,,,,,3.0
 2025-10-17,Incapampa - Coroico_M (GPRS),16.38,15.33,99.84,59.07,
@@ -59534,10 +59690,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-18,Guajara-Mirim - Guayaramerín,,,,,10.8
 2025-10-18,Guanay_H (GPRS),,,,,29.3
 2025-10-18,Guayaramerin_M (GPRS),23.32,22.07,88.27,57.42,
+2025-10-18,Hampaturi EPSAS,,,,,6.3
 2025-10-18,Hichucota,10.0,1.0,,,
 2025-10-18,Huancane Corapata_M (GPRS),6.72,4.62,82.2,58.15,
 2025-10-18,Huarisuyo (GPRS),6.91,3.87,95.7,54.97,
+2025-10-18,Huayllamarca,20.0,5.3,,,
 2025-10-18,Huayrocondo,16.5,2.2,,,0.1
+2025-10-18,Incachaca EPSAS,,,,,11.2
 2025-10-18,Incalacaya,,,,,4.0
 2025-10-18,Incapampa - Coroico_M (GPRS),16.77,15.99,99.86,62.69,
 2025-10-18,Isla Del Sol,14.0,6.0,,,1.3
@@ -59556,6 +59715,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-18,MONTERO GUABIRA CIMAR,35.0,21.0,,,
 2025-10-18,Mecapaca,,,,,9.1
 2025-10-18,Mecapaca_M (GPRS),11.97,11.19,92.71,50.95,
+2025-10-18,Milluni EPSAS,,,,,16.4
 2025-10-18,Mizque - SDC (GPRS),19.35,15.8,73.39,51.44,
 2025-10-18,Mojo,23.2,4.1,,,2.8
 2025-10-18,Narvaez,,,,,24.5
@@ -59657,6 +59817,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-18,Totora i_M (GPRS),14.24,7.99,45.19,34.63,
 2025-10-18,Trancas,15.0,13.0,,,34.0
 2025-10-18,Tucumillas,,,,,38.0
+2025-10-18,Tuni EPSAS,,,,,0.9
 2025-10-18,Tupiza,24.0,10.4,,,
 2025-10-18,Turumayo,17.0,13.0,,,35.6
 2025-10-18,Urriolagoytia,,,,,8.0
@@ -59758,10 +59919,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-19,Entre Rios (TJA),,,,,1.0
 2025-10-19,Guajara-Mirim - Guayaramerín,31.4,23.2,,,
 2025-10-19,Guayaramerin_M (GPRS),25.32,24.07,91.71,78.5,
+2025-10-19,Hampaturi EPSAS,,,,,4.2
 2025-10-19,Hichucota,12.0,0.0,,,9.0
 2025-10-19,Huancane Corapata_M (GPRS),6.72,4.26,80.6,56.0,
 2025-10-19,Huarisuyo (GPRS),6.03,3.78,97.4,62.48,
+2025-10-19,Huayllamarca,19.0,5.0,,,
 2025-10-19,Huayrocondo,19.4,1.9,,,5.2
+2025-10-19,Incachaca EPSAS,,,,,3.2
 2025-10-19,Incalacaya,,,,,9.1
 2025-10-19,Incapampa - Coroico_M (GPRS),15.66,15.12,99.83,99.78,
 2025-10-19,Isla Del Sol,14.0,6.0,,,
@@ -59780,6 +59944,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-19,Mataral,,,,,18.5
 2025-10-19,Mecapaca,,,,,13.0
 2025-10-19,Mecapaca_M (GPRS),11.98,11.32,100.0,71.56,
+2025-10-19,Milluni EPSAS,,,,,3.1
 2025-10-19,Mizque - SDC (GPRS),14.12,12.75,72.17,34.04,0.1
 2025-10-19,Mojo,23.8,5.3,,,
 2025-10-19,Nuevo Mundo,,,,,6.2
@@ -59877,6 +60042,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-19,Totora i_M (GPRS),11.62,11.25,48.69,36.67,
 2025-10-19,Trancas,21.0,9.0,,,42.0
 2025-10-19,Tucumillas,,,,,1.0
+2025-10-19,Tuni EPSAS,,,,,4.6
 2025-10-19,Tupiza,28.2,12.2,,,
 2025-10-19,Turumayo,24.0,7.0,,,6.3
 2025-10-19,Urriolagoytia,,,,,16.0
@@ -59963,7 +60129,9 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-20,Hichucota,13.0,2.0,,,
 2025-10-20,Huancane Corapata_M (GPRS),4.36,1.79,74.34,46.16,
 2025-10-20,Huarisuyo (GPRS),4.43,0.31,81.8,54.81,
+2025-10-20,Huayllamarca,19.4,5.2,,,
 2025-10-20,Huayrocondo,20.1,0.4,,,
+2025-10-20,Incachaca EPSAS,,,,,4.5
 2025-10-20,Incapampa - Coroico_M (GPRS),,,99.83,65.05,0.2
 2025-10-20,Isla Del Sol,15.0,6.0,,,
 2025-10-20,Isla Suriqui_M (GPRS),9.27,6.65,72.94,62.58,
@@ -59978,6 +60146,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-20,Llallagua,19.2,4.0,,,1.2
 2025-10-20,MONTERO GUABIRA CIMAR,33.5,17.0,,,
 2025-10-20,Mecapaca_M (GPRS),,,100.0,23.03,
+2025-10-20,Milluni EPSAS,,,,,0.1
 2025-10-20,Mizque - SDC (GPRS),14.58,11.47,70.81,50.67,
 2025-10-20,Mojo,25.0,5.0,,,
 2025-10-20,Okinawa I,30.0,20.0,,,
@@ -60062,6 +60231,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-20,Totora i_M (GPRS),,,71.36,1.98,
 2025-10-20,Trancas,22.0,15.0,,,
 2025-10-20,Tucumillas,26.0,12.0,,,
+2025-10-20,Tuni EPSAS,,,,,6.4
 2025-10-20,Tupiza,29.6,12.0,,,
 2025-10-20,Turumayo,22.0,12.0,,,
 2025-10-20,Uyuni,21.6,2.0,,,
@@ -60144,6 +60314,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-21,Hichucota,15.0,3.0,,,
 2025-10-21,Huancane Corapata_M (GPRS),6.39,2.78,72.02,27.56,0.4
 2025-10-21,Huarisuyo (GPRS),3.1,0.01,77.61,76.19,
+2025-10-21,Huayllamarca,21.5,5.0,,,
 2025-10-21,Huayrocondo,18.5,0.0,,,
 2025-10-21,Incapampa - Coroico_M (GPRS),29.5,14.23,99.84,47.82,0.2
 2025-10-21,Isla Del Sol,16.0,7.0,,,
@@ -60159,6 +60330,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-21,Llallagua,17.0,5.1,,,
 2025-10-21,MONTERO GUABIRA CIMAR,36.0,16.0,,,
 2025-10-21,Mecapaca_M (GPRS),24.66,11.82,100.0,32.38,
+2025-10-21,Milluni EPSAS,,,,,0.2
 2025-10-21,Mizque - SDC (GPRS),14.98,10.11,76.39,22.46,0.3
 2025-10-21,Mojo,24.2,6.3,,,
 2025-10-21,Okinawa I,33.0,23.0,,,
@@ -60236,6 +60408,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-21,Totora i_M (GPRS),28.04,6.89,76.28,7.52,
 2025-10-21,Trancas,23.0,19.0,,,
 2025-10-21,Tucumillas,29.0,11.0,,,
+2025-10-21,Tuni EPSAS,,,,,0.4
 2025-10-21,Tupiza,29.4,11.4,,,
 2025-10-21,Turumayo,28.0,12.0,,,
 2025-10-21,Uyuni,20.0,-1.0,,,
@@ -60318,6 +60491,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-22,Hichucota,14.0,1.0,,,
 2025-10-22,Huancane Corapata_M (GPRS),9.29,1.6,71.48,53.39,
 2025-10-22,Huarisuyo (GPRS),5.51,2.79,97.9,53.11,
+2025-10-22,Huayllamarca,21.3,4.0,,,
 2025-10-22,Huayrocondo,18.3,1.9,,,
 2025-10-22,Incapampa - Coroico_M (GPRS),16.76,15.67,99.83,81.1,
 2025-10-22,Isla Del Sol,15.0,7.0,,,
@@ -60334,6 +60508,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-22,Llallagua,15.0,6.0,,,
 2025-10-22,MONTERO GUABIRA CIMAR,37.0,20.0,,,
 2025-10-22,Mecapaca_M (GPRS),14.27,10.57,83.36,46.15,
+2025-10-22,Milluni EPSAS,,,,,0.1
 2025-10-22,Mizque - SDC (GPRS),12.49,8.96,65.41,32.02,
 2025-10-22,Mojo,24.0,3.0,,,
 2025-10-22,Narvaez,,,,,23.0
@@ -60500,6 +60675,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-23,Hichucota,12.0,0.0,,,10.0
 2025-10-23,Huancane Corapata_M (GPRS),5.93,0.48,58.63,32.67,
 2025-10-23,Huarisuyo (GPRS),4.07,-0.29,69.89,37.76,
+2025-10-23,Huayllamarca,19.5,4.3,,,
 2025-10-23,Huayrocondo,19.7,-2.0,,,
 2025-10-23,Incapampa - Coroico_M (GPRS),17.11,15.27,93.82,54.61,
 2025-10-23,Isla Del Sol,15.0,6.0,,,
@@ -60517,6 +60693,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-23,Llallagua,19.0,5.2,,,
 2025-10-23,MONTERO GUABIRA CIMAR,37.0,19.0,,,
 2025-10-23,Mecapaca_M (GPRS),12.91,10.13,75.76,39.07,
+2025-10-23,Milluni EPSAS,,,,,0.7
 2025-10-23,Mizque - SDC (GPRS),14.97,11.42,62.27,30.42,
 2025-10-23,Mojo,26.2,4.3,,,
 2025-10-23,Okinawa I,33.0,22.0,,,
@@ -60604,6 +60781,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-23,Totora i_M (GPRS),9.83,8.12,55.56,25.7,
 2025-10-23,Trancas,28.0,18.0,,,9.1
 2025-10-23,Tucumillas,28.0,8.0,,,
+2025-10-23,Tuni EPSAS,,,,,0.3
 2025-10-23,Tupiza,31.0,10.4,,,
 2025-10-23,Turumayo,36.0,13.0,,,
 2025-10-23,Uyuni,21.0,2.0,,,
@@ -60692,6 +60870,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-24,Hichucota,14.0,1.0,,,
 2025-10-24,Huancane Corapata_M (GPRS),4.36,1.39,74.87,42.45,
 2025-10-24,Huarisuyo (GPRS),4.64,-0.93,77.98,44.78,
+2025-10-24,Huayllamarca,20.4,5.2,,,
 2025-10-24,Huayrocondo,18.0,-0.9,,,
 2025-10-24,Incalacaya,,,,,3.0
 2025-10-24,Incapampa - Coroico_M (GPRS),17.6,16.11,99.85,88.03,
@@ -60710,6 +60889,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-24,Llallagua,19.1,5.0,,,
 2025-10-24,MONTERO GUABIRA CIMAR,37.0,19.5,,,
 2025-10-24,Mecapaca_M (GPRS),14.52,11.84,98.22,42.44,
+2025-10-24,Milluni EPSAS,,,,,0.1
 2025-10-24,Mizque - SDC (GPRS),15.16,12.7,55.73,34.11,
 2025-10-24,Mojo,25.3,5.0,,,
 2025-10-24,Okinawa I,32.0,21.0,,,
@@ -60885,6 +61065,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-25,Hichucota,13.0,2.0,,,
 2025-10-25,Huancane Corapata_M (GPRS),6.66,4.42,60.1,39.0,
 2025-10-25,Huarisuyo (GPRS),5.14,1.91,71.11,44.18,
+2025-10-25,Huayllamarca,19.3,4.0,,,2.5
 2025-10-25,Huayrocondo,19.4,-2.2,,,
 2025-10-25,Incalacaya,,,,,4.0
 2025-10-25,Incapampa - Coroico_M (GPRS),16.32,15.68,99.84,79.49,0.1
@@ -60904,6 +61085,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-25,Llallagua,20.1,8.1,,,
 2025-10-25,MONTERO GUABIRA CIMAR,36.0,17.0,,,
 2025-10-25,Mecapaca_M (GPRS),13.86,10.93,92.12,45.21,
+2025-10-25,Milluni EPSAS,,,,,1.7
 2025-10-25,Minero (Unagro),,,,,5.8
 2025-10-25,Mizque - SDC (GPRS),16.87,13.86,55.08,23.48,
 2025-10-25,Mojo,24.8,4.3,,,
@@ -60991,6 +61173,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-25,Totora i_M (GPRS),19.7,15.02,16.33,12.38,
 2025-10-25,Trancas,28.0,20.0,,,
 2025-10-25,Tucumillas,27.0,13.0,,,
+2025-10-25,Tuni EPSAS,,,,,1.7
 2025-10-25,Tupiza,30.6,11.6,,,
 2025-10-25,Turumayo,30.0,15.0,,,
 2025-10-25,Uyuni,20.0,2.0,,,
@@ -61086,10 +61269,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-26,Guajara-Mirim - Guayaramerín,35.0,24.0,,,
 2025-10-26,Guanay_H (GPRS),,,,,3.1
 2025-10-26,Guayaramerin_M (GPRS),25.26,24.23,92.62,68.72,
+2025-10-26,Hampaturi EPSAS,,,,,1.7
 2025-10-26,Hichucota,14.0,3.0,,,
 2025-10-26,Huancane Corapata_M (GPRS),6.07,4.36,82.4,42.8,
 2025-10-26,Huarisuyo (GPRS),5.9,4.25,88.5,42.34,
+2025-10-26,Huayllamarca,20.0,3.9,,,
 2025-10-26,Huayrocondo,19.8,3.3,,,0.1
+2025-10-26,Incachaca EPSAS,,,,,4.1
 2025-10-26,Incalacaya,,,,,4.1
 2025-10-26,Incapampa - Coroico_M (GPRS),17.15,13.81,99.84,74.31,
 2025-10-26,Isla Del Sol,15.0,5.0,,,8.9
@@ -61109,6 +61295,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-26,Mataral,,,,,21.6
 2025-10-26,Mecapaca,,,,,6.0
 2025-10-26,Mecapaca_M (GPRS),13.04,11.6,100.0,55.04,
+2025-10-26,Milluni EPSAS,,,,,6.3
 2025-10-26,Minero (Unagro),,,,,72.0
 2025-10-26,Mizque - SDC (GPRS),19.09,16.72,89.7,61.3,
 2025-10-26,Mojo,26.3,4.0,,,
@@ -61303,6 +61490,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-27,Hichucota,13.0,0.0,,,
 2025-10-27,Huancane Corapata_M (GPRS),7.38,3.6,63.71,29.8,
 2025-10-27,Huarisuyo (GPRS),6.59,2.63,76.8,33.73,
+2025-10-27,Huayllamarca,21.3,4.5,,,
 2025-10-27,Huayrocondo,19.1,-0.1,,,1.2
 2025-10-27,Incalacaya,,,,,4.2
 2025-10-27,Incapampa - Coroico_M (GPRS),16.73,15.49,99.85,85.61,
@@ -61420,6 +61608,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-27,Totora i_M (GPRS),11.27,4.67,38.26,11.3,
 2025-10-27,Trancas,21.0,10.0,,,5.0
 2025-10-27,Tucumillas,26.0,11.0,,,
+2025-10-27,Tuni EPSAS,,,,,1.5
 2025-10-27,Tupiza,27.4,9.4,,,
 2025-10-27,Turumayo,26.0,11.0,,,
 2025-10-27,Uyuni,17.0,-4.0,,,
@@ -61509,9 +61698,11 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-28,Guajara-Mirim - Guayaramerín,,,,,12.1
 2025-10-28,Guanay_H (GPRS),,,,,7.5
 2025-10-28,Guayaramerin_M (GPRS),23.81,23.2,100.0,81.81,
+2025-10-28,Hampaturi EPSAS,,,,,0.3
 2025-10-28,Hichucota,14.0,2.0,,,
 2025-10-28,Huancane Corapata_M (GPRS),6.59,4.1,64.25,39.77,
 2025-10-28,Huarisuyo (GPRS),5.54,1.02,81.2,38.4,
+2025-10-28,Huayllamarca,21.2,2.0,,,
 2025-10-28,Huayrocondo,18.5,0.9,,,
 2025-10-28,Incalacaya,,,,,0.3
 2025-10-28,Incapampa - Coroico_M (GPRS),15.25,14.55,99.84,86.67,
@@ -61530,6 +61721,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-28,Llallagua,19.0,4.2,,,
 2025-10-28,MONTERO GUABIRA CIMAR,,,,,22.0
 2025-10-28,Mecapaca_M (GPRS),12.63,11.46,94.41,43.03,
+2025-10-28,Milluni EPSAS,,,,,0.2
 2025-10-28,Minero (Unagro),,,,,13.0
 2025-10-28,Mizque - SDC (GPRS),17.72,16.08,69.78,41.2,
 2025-10-28,Mojo,22.2,3.2,,,
@@ -61627,6 +61819,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-28,Totora i_M (GPRS),9.04,6.13,50.25,13.13,
 2025-10-28,Trancas,15.0,10.0,,,2.0
 2025-10-28,Tucumillas,,,,,0.8
+2025-10-28,Tuni EPSAS,,,,,0.1
 2025-10-28,Tupiza,27.6,11.0,,,
 2025-10-28,Turumayo,17.0,11.0,,,
 2025-10-28,Urriolagoytia,,,,,6.0
@@ -61724,6 +61917,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-29,Hichucota,13.0,1.0,,,
 2025-10-29,Huancane Corapata_M (GPRS),6.2,4.69,72.0,50.14,
 2025-10-29,Huarisuyo (GPRS),5.93,3.5,84.9,50.2,
+2025-10-29,Huayllamarca,21.0,3.0,,,
 2025-10-29,Huayrocondo,19.4,2.5,,,
 2025-10-29,Incalacaya,,,,,4.0
 2025-10-29,Incapampa - Coroico_M (GPRS),15.03,14.8,99.83,99.76,
@@ -61939,10 +62133,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-30,Entre Rios (TJA),,,,,1.0
 2025-10-30,Guajara-Mirim - Guayaramerín,27.2,21.4,,,
 2025-10-30,Guayaramerin_M (GPRS),23.5,22.91,94.34,86.57,
+2025-10-30,Hampaturi EPSAS,,,,,17.2
 2025-10-30,Hichucota,15.0,2.0,,,
 2025-10-30,Huancane Corapata_M (GPRS),7.18,5.67,54.67,41.6,
 2025-10-30,Huarisuyo (GPRS),6.97,4.17,77.96,43.26,
+2025-10-30,Huayllamarca,19.3,2.5,,,
 2025-10-30,Huayrocondo,19.3,2.6,,,
+2025-10-30,Incachaca EPSAS,,,,,12.1
 2025-10-30,Incalacaya,,,,,4.0
 2025-10-30,Incapampa - Coroico_M (GPRS),15.0,14.56,99.82,77.66,
 2025-10-30,Isla Del Sol,14.0,6.0,,,
@@ -61960,6 +62157,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-30,MONTERO GUABIRA CIMAR,,14.0,,,
 2025-10-30,Mecapaca,,,,,2.0
 2025-10-30,Mecapaca_M (GPRS),12.34,10.68,100.0,32.01,
+2025-10-30,Milluni EPSAS,,,,,0.2
 2025-10-30,Mizque - SDC (GPRS),15.82,14.16,65.94,46.37,
 2025-10-30,Mojo,23.4,-1.3,,,
 2025-10-30,Narvaez,,,,,1.4
@@ -62327,11 +62525,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-01,Guajara-Mirim - Guayaramerín,35.8,20.6,,,
 2025-11-01,Guanay_H (GPRS),,,,,1.3
 2025-11-01,Guayaramerin_M (GPRS),23.44,22.13,90.94,52.15,
+2025-11-01,Hampaturi EPSAS,,,,,2.2
 2025-11-01,Hichucota,14.0,2.0,,,
 2025-11-01,Huancane Corapata_M (GPRS),6.46,3.04,80.9,49.49,
 2025-11-01,Huarisuyo (GPRS),7.84,2.76,89.2,46.31,
 2025-11-01,Huayllamarca,20.4,3.0,,,
 2025-11-01,Huayrocondo,19.9,1.5,,,0.9
+2025-11-01,Incachaca EPSAS,,,,,3.2
 2025-11-01,Incapampa - Coroico_M (GPRS),15.45,14.8,99.83,86.54,
 2025-11-01,Isla Del Sol,16.0,7.0,,,
 2025-11-01,Isla Suriqui_M (GPRS),6.58,5.09,69.27,54.37,
@@ -62349,6 +62549,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-01,MONTERO GUABIRA CIMAR,29.0,17.0,,,
 2025-11-01,Mecapaca,,,,,0.8
 2025-11-01,Mecapaca_M (GPRS),13.72,11.69,97.1,39.89,
+2025-11-01,Milluni EPSAS,,,,,0.1
 2025-11-01,Mizque - SDC (GPRS),14.71,12.05,58.73,24.94,
 2025-11-01,Mojo,23.0,0.0,,,
 2025-11-01,Okinawa I,,,,,32.2
@@ -62429,6 +62630,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-01,Totora i_M (GPRS),16.04,7.17,7.76,3.6,
 2025-11-01,Trancas,30.0,15.0,,,
 2025-11-01,Tucumillas,26.0,8.0,,,
+2025-11-01,Tuni EPSAS,,,,,0.2
 2025-11-01,Tupiza,28.4,10.2,,,
 2025-11-01,Turumayo,39.0,6.0,,,
 2025-11-01,Uyuni,18.0,-1.0,,,
@@ -62523,6 +62725,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-02,Huarisuyo (GPRS),9.47,3.78,65.6,30.51,
 2025-11-02,Huayllamarca,21.5,2.0,,,
 2025-11-02,Huayrocondo,19.7,1.3,,,
+2025-11-02,Incachaca EPSAS,,,,,0.7
 2025-11-02,Incalacaya,,,,,3.3
 2025-11-02,Incapampa - Coroico_M (GPRS),15.79,15.51,99.81,77.03,
 2025-11-02,Isla Del Sol,16.0,7.0,,,
@@ -63454,11 +63657,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-07,Guajara-Mirim - Guayaramerín,38.0,23.0,,,
 2025-11-07,Guanay_H (GPRS),,,,,1.4
 2025-11-07,Guayaramerin_M (GPRS),25.78,24.04,77.38,55.84,
+2025-11-07,Hampaturi EPSAS,,,,,5.6
 2025-11-07,Hichucota,18.0,2.0,,,
 2025-11-07,Huancane Corapata_M (GPRS),8.43,3.71,30.82,20.38,
 2025-11-07,Huarisuyo (GPRS),6.85,1.82,63.56,26.29,
 2025-11-07,Huayllamarca,23.0,4.5,,,2.2
 2025-11-07,Huayrocondo,21.0,2.1,,,
+2025-11-07,Incachaca EPSAS,,,,,0.4
 2025-11-07,Incapampa - Coroico_M (GPRS),15.82,13.74,93.99,68.32,
 2025-11-07,Isla Del Sol,18.0,8.0,,,
 2025-11-07,Isla Suriqui_M (GPRS),10.52,6.66,32.4,19.78,
@@ -63475,6 +63680,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-07,MONTERO GUABIRA CIMAR,23.0,21.0,,,
 2025-11-07,Mataral,,,,,10.5
 2025-11-07,Mecapaca_M (GPRS),14.5,10.88,63.8,28.75,
+2025-11-07,Milluni EPSAS,,,,,0.8
 2025-11-07,Minero (Unagro),,,,,32.0
 2025-11-07,Misicuni,,,,,0.2
 2025-11-07,Mizque - SDC (GPRS),19.3,15.19,47.72,13.83,
@@ -63850,11 +64056,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-09,El Villar,11.5,9.0,,,
 2025-11-09,Guajara-Mirim - Guayaramerín,34.6,22.0,,,
 2025-11-09,Guayaramerin_M (GPRS),25.91,23.16,93.69,66.29,
+2025-11-09,Hampaturi EPSAS,,,,,9.4
 2025-11-09,Hichucota,13.0,0.0,,,14.0
 2025-11-09,Huancane Corapata_M (GPRS),5.63,4.75,75.19,55.61,
 2025-11-09,Huarisuyo (GPRS),5.24,4.8,92.8,55.52,
 2025-11-09,Huayllamarca,19.5,5.2,,,0.5
 2025-11-09,Huayrocondo,17.2,4.0,,,6.3
+2025-11-09,Incachaca EPSAS,,,,,6.5
 2025-11-09,Incalacaya,,,,,3.2
 2025-11-09,Incapampa - Coroico_M (GPRS),15.62,15.03,99.84,97.73,0.1
 2025-11-09,Isla Del Sol,14.0,4.0,,,1.4
@@ -63871,6 +64079,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-09,MONTERO GUABIRA CIMAR,,,,,2.5
 2025-11-09,Mecapaca,,,,,2.0
 2025-11-09,Mecapaca_M (GPRS),13.95,11.21,97.02,34.8,
+2025-11-09,Milluni EPSAS,,,,,11.1
 2025-11-09,Mizque - SDC (GPRS),14.64,12.25,72.91,55.41,
 2025-11-09,Mojo,26.0,6.0,,,
 2025-11-09,Nuevo Mundo,,,,,5.6
@@ -63962,6 +64171,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-09,Totora i_M (GPRS),14.74,8.94,47.9,16.96,
 2025-11-09,Trancas,20.0,9.0,,,2.0
 2025-11-09,Tucumillas,,,,,1.3
+2025-11-09,Tuni EPSAS,,,,,3.3
 2025-11-09,Tupiza,31.0,15.2,,,
 2025-11-09,Turumayo,25.0,10.0,,,
 2025-11-09,Uyuni,22.0,-2.0,,,
@@ -64051,11 +64261,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-10,Guajara-Mirim - Guayaramerín,,,,,6.1
 2025-11-10,Guanay_H (GPRS),,,,,0.1
 2025-11-10,Guayaramerin_M (GPRS),24.96,24.15,97.15,73.97,
+2025-11-10,Hampaturi EPSAS,,,,,1.5
 2025-11-10,Hichucota,11.0,1.0,,,
 2025-11-10,Huancane Corapata_M (GPRS),7.46,5.48,77.68,61.92,0.1
 2025-11-10,Huarisuyo (GPRS),6.61,4.98,84.1,66.17,
 2025-11-10,Huayllamarca,20.4,2.5,,,
 2025-11-10,Huayrocondo,12.3,4.5,,,
+2025-11-10,Incachaca EPSAS,,,,,3.8
 2025-11-10,Incalacaya,,,,,5.5
 2025-11-10,Incapampa - Coroico_M (GPRS),14.16,13.86,99.84,90.06,
 2025-11-10,Isla Del Sol,15.0,8.0,,,
@@ -64072,6 +64284,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-10,Llallagua,12.8,5.1,,,
 2025-11-10,MONTERO GUABIRA CIMAR,32.0,19.0,,,
 2025-11-10,Mecapaca_M (GPRS),14.02,12.57,98.7,61.24,
+2025-11-10,Milluni EPSAS,,,,,0.7
 2025-11-10,Mizque - SDC (GPRS),16.08,14.0,73.05,53.15,
 2025-11-10,Mojo,25.0,3.3,,,
 2025-11-10,Okinawa I,32.0,23.0,,,
@@ -64161,6 +64374,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-10,Totora i_M (GPRS),13.79,7.42,42.06,25.02,
 2025-11-10,Trancas,25.0,9.0,,,
 2025-11-10,Tucumillas,23.0,9.0,,,
+2025-11-10,Tuni EPSAS,,,,,1.5
 2025-11-10,Tupiza,30.2,12.4,,,
 2025-11-10,Tupiza_1_H (GPRS),,,,,0.1
 2025-11-10,Turumayo,22.0,12.0,,,
@@ -64248,11 +64462,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-11,Guajara-Mirim - Guayaramerín,,,,,3.0
 2025-11-11,Guanay_H (GPRS),,,,,0.5
 2025-11-11,Guayaramerin_M (GPRS),23.93,23.08,100.0,74.77,
+2025-11-11,Hampaturi EPSAS,,,,,2.9
 2025-11-11,Hichucota,12.0,2.0,,,2.3
 2025-11-11,Huancane Corapata_M (GPRS),3.8,1.4,74.08,38.87,
 2025-11-11,Huarisuyo (GPRS),2.78,1.58,90.4,53.65,
 2025-11-11,Huayllamarca,19.3,4.2,,,
 2025-11-11,Huayrocondo,19.2,-0.4,,,
+2025-11-11,Incachaca EPSAS,,,,,1.6
 2025-11-11,Incalacaya,,,,,5.7
 2025-11-11,Incapampa - Coroico_M (GPRS),15.32,14.97,99.86,82.63,
 2025-11-11,Isla Del Sol,16.0,7.0,,,
@@ -64355,6 +64571,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-11,Totora i_M (GPRS),10.25,6.71,50.96,23.29,
 2025-11-11,Trancas,27.0,16.0,,,
 2025-11-11,Tucumillas,27.0,10.0,,,
+2025-11-11,Tuni EPSAS,,,,,11.2
 2025-11-11,Tupiza,28.4,11.6,,,
 2025-11-11,Turumayo,35.0,13.0,,,
 2025-11-11,Uyuni,21.5,4.1,,,
@@ -64464,6 +64681,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-12,Llallagua,12.0,6.0,,,
 2025-11-12,MONTERO GUABIRA CIMAR,32.0,21.0,,,
 2025-11-12,Mecapaca_M (GPRS),13.42,12.76,87.19,45.78,
+2025-11-12,Milluni EPSAS,,,,,2.6
 2025-11-12,Minero (Unagro),,,,,0.8
 2025-11-12,Misicuni,,,,,5.0
 2025-11-12,Mizque - SDC (GPRS),16.54,12.72,61.47,36.62,
@@ -64655,11 +64873,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-13,Guajara-Mirim - Guayaramerín,,,,,2.0
 2025-11-13,Guanay_H (GPRS),,,,,57.7
 2025-11-13,Guayaramerin_M (GPRS),24.42,23.83,99.25,67.95,
+2025-11-13,Hampaturi EPSAS,,,,,3.4
 2025-11-13,Hichucota,12.0,0.0,,,
 2025-11-13,Huancane Corapata_M (GPRS),5.41,3.57,72.14,47.28,
 2025-11-13,Huarisuyo (GPRS),4.35,2.53,75.19,47.99,
 2025-11-13,Huayllamarca,,5.4,,,
 2025-11-13,Huayrocondo,17.5,1.2,,,2.0
+2025-11-13,Incachaca EPSAS,,,,,10.4
 2025-11-13,Incalacaya,,,,,1.9
 2025-11-13,Incapampa - Coroico_M (GPRS),17.05,16.14,99.84,72.89,
 2025-11-13,Isla Del Sol,16.0,7.0,,,
@@ -64676,6 +64896,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-13,Llallagua,15.0,6.2,,,
 2025-11-13,MONTERO GUABIRA CIMAR,31.0,21.0,,,
 2025-11-13,Mecapaca_M (GPRS),14.49,12.38,100.0,46.16,
+2025-11-13,Milluni EPSAS,,,,,1.4
 2025-11-13,Minero (Unagro),,,,,60.0
 2025-11-13,Mizque - SDC (GPRS),15.14,13.54,81.7,48.0,
 2025-11-13,Mojo,24.2,8.0,,,
@@ -64783,6 +65004,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-13,Vila Vila - SDC (GPRS),14.49,13.69,60.53,42.67,
 2025-11-13,Villa Alcala,,,,,5.5
 2025-11-13,Villa Copacabana,,,,,0.2
+2025-11-13,Villa Montes (Bombeo),,,,,28.5
 2025-11-13,Villa Puni,12.5,7.0,,,
 2025-11-13,Villa Rivero_M (GPRS),14.2,11.49,91.98,41.55,
 2025-11-13,Villa Serrano,24.0,16.1,,,23.0
@@ -64875,11 +65097,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-14,Entre Rios (TJA),,,,,14.0
 2025-11-14,Guajara-Mirim - Guayaramerín,34.0,23.4,,,
 2025-11-14,Guayaramerin_M (GPRS),24.26,23.87,100.0,82.64,
+2025-11-14,Hampaturi EPSAS,,,,,0.3
 2025-11-14,Hichucota,14.0,2.0,,,5.8
 2025-11-14,Huancane Corapata_M (GPRS),6.39,4.82,73.9,31.12,
 2025-11-14,Huarisuyo (GPRS),4.65,2.61,91.9,49.83,
 2025-11-14,Huayllamarca,,,,,6.0
 2025-11-14,Huayrocondo,19.2,2.8,,,5.5
+2025-11-14,Incachaca EPSAS,,,,,1.3
 2025-11-14,Incalacaya,,,,,8.2
 2025-11-14,Incapampa - Coroico_M (GPRS),15.35,14.76,99.82,83.3,
 2025-11-14,Isla Del Sol,14.0,6.0,,,
@@ -64899,6 +65123,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-14,Mataral,,,,,41.1
 2025-11-14,Mecapaca,,,,,0.2
 2025-11-14,Mecapaca_M (GPRS),13.5,12.25,96.84,42.5,
+2025-11-14,Milluni EPSAS,,,,,2.5
 2025-11-14,Minero (Unagro),,,,,2.5
 2025-11-14,Mizque - SDC (GPRS),17.25,13.42,94.3,72.28,0.1
 2025-11-14,Mojo,18.0,5.2,,,10.2
@@ -65003,6 +65228,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-14,Totora i_M (GPRS),11.23,10.48,70.66,43.02,
 2025-11-14,Trancas,20.0,14.0,,,14.0
 2025-11-14,Tucumillas,,,,,1.2
+2025-11-14,Tuni EPSAS,,,,,3.4
 2025-11-14,Tupiza,25.6,10.4,,,
 2025-11-14,Turumayo,25.0,12.0,,,12.3
 2025-11-14,Ucumasi,,,,,1.0
@@ -65011,6 +65237,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-14,Vila Vila - SDC (GPRS),15.04,11.36,92.8,69.57,
 2025-11-14,Villa Alcala,,,,,12.5
 2025-11-14,Villa Copacabana,,,,,0.1
+2025-11-14,Villa Montes (Bombeo),,,,,8.5
 2025-11-14,Villa Puni,16.0,5.5,,,
 2025-11-14,Villa Rivero_M (GPRS),11.3,10.79,99.67,71.97,
 2025-11-14,Villa Serrano,21.5,15.1,,,5.8
@@ -65687,11 +65914,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-18,El Villar,17.0,5.0,,,
 2025-11-18,Guajara-Mirim - Guayaramerín,29.6,20.0,,,
 2025-11-18,Guayaramerin_M (GPRS),22.84,20.5,93.93,72.41,
+2025-11-18,Hampaturi EPSAS,,,,,4.2
 2025-11-18,Hichucota,13.0,1.0,,,
 2025-11-18,Huancane Corapata_M (GPRS),7.97,2.58,75.96,52.09,
 2025-11-18,Huarisuyo (GPRS),7.24,4.55,90.6,50.28,
 2025-11-18,Huayllamarca,,,,,3.5
 2025-11-18,Huayrocondo,17.3,1.6,,,1.5
+2025-11-18,Incachaca EPSAS,,,,,3.1
 2025-11-18,Incapampa - Coroico_M (GPRS),14.06,13.39,99.84,75.42,
 2025-11-18,Isla Del Sol,15.0,6.0,,,
 2025-11-18,Isla Suriqui_M (GPRS),9.4,4.56,76.55,54.42,
@@ -65708,6 +65937,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-18,Mataral,,,,,8.2
 2025-11-18,Mecapaca,,,,,3.5
 2025-11-18,Mecapaca_M (GPRS),12.28,11.13,100.0,49.16,
+2025-11-18,Milluni EPSAS,,,,,3.0
 2025-11-18,Misicuni,,,,,2.9
 2025-11-18,Mizque - SDC (GPRS),11.05,8.69,83.1,39.72,
 2025-11-18,Mojo,22.3,1.2,,,
@@ -65800,6 +66030,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-18,Totora i_M (GPRS),7.23,4.16,44.63,13.95,
 2025-11-18,Trancas,26.0,8.0,,,
 2025-11-18,Tucumillas,28.0,6.0,,,
+2025-11-18,Tuni EPSAS,,,,,0.5
 2025-11-18,Tupiza,26.0,8.4,,,
 2025-11-18,Turumayo,35.0,5.0,,,
 2025-11-18,Uyuni,20.3,0.2,,,
@@ -65884,6 +66115,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-19,El Villar,27.0,10.0,,,
 2025-11-19,Guajara-Mirim - Guayaramerín,34.8,21.0,,,
 2025-11-19,Guayaramerin_M (GPRS),22.97,22.04,88.42,68.22,
+2025-11-19,Hampaturi EPSAS,,,,,0.1
 2025-11-19,Hichucota,12.0,2.0,,,
 2025-11-19,Huancane Corapata_M (GPRS),5.15,1.27,64.83,43.6,
 2025-11-19,Huarisuyo (GPRS),2.42,-0.48,85.2,47.75,
@@ -66067,11 +66299,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-20,El Villar,26.8,11.0,,,
 2025-11-20,Guajara-Mirim - Guayaramerín,35.4,23.8,,,
 2025-11-20,Guayaramerin_M (GPRS),24.54,23.7,81.81,63.15,
+2025-11-20,Hampaturi EPSAS,,,,,0.2
 2025-11-20,Hichucota,13.0,1.0,,,10.0
 2025-11-20,Huancane Corapata_M (GPRS),5.54,3.9,81.1,66.92,
 2025-11-20,Huarisuyo (GPRS),4.89,2.71,93.4,73.43,0.1
 2025-11-20,Huayllamarca,,,,,3.0
 2025-11-20,Huayrocondo,17.8,3.3,,,2.7
+2025-11-20,Incachaca EPSAS,,,,,2.1
 2025-11-20,Incalacaya,,,,,2.2
 2025-11-20,Incapampa - Coroico_M (GPRS),15.58,14.51,91.24,66.07,
 2025-11-20,Isla Del Sol,14.0,5.0,,,0.1
@@ -66089,6 +66323,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-20,MONTERO GUABIRA CIMAR,30.0,18.0,,,
 2025-11-20,Mecapaca,,,,,2.0
 2025-11-20,Mecapaca_M (GPRS),12.15,9.1,72.78,34.1,
+2025-11-20,Milluni EPSAS,,,,,0.4
 2025-11-20,Misicuni,,,,,1.2
 2025-11-20,Mizque - SDC (GPRS),14.51,11.21,67.72,35.53,
 2025-11-20,Mojo,22.1,2.0,,,
@@ -66174,6 +66409,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-20,Totora i_M (GPRS),8.42,5.09,37.4,22.12,
 2025-11-20,Trancas,34.0,19.0,,,
 2025-11-20,Tucumillas,27.0,6.5,,,
+2025-11-20,Tuni EPSAS,,,,,1.5
 2025-11-20,Tupiza,25.8,8.2,,,
 2025-11-20,Turumayo,36.5,9.0,,,
 2025-11-20,Uyuni,19.2,5.0,,,
@@ -66260,11 +66496,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-21,Guajara-Mirim - Guayaramerín,,,,,15.8
 2025-11-21,Guanay_H (GPRS),,,,,1.4
 2025-11-21,Guayaramerin_M (GPRS),26.35,23.94,92.13,71.48,
+2025-11-21,Hampaturi EPSAS,,,,,1.7
 2025-11-21,Hichucota,14.0,0.0,,,
 2025-11-21,Huancane Corapata_M (GPRS),6.14,3.38,35.06,28.84,
 2025-11-21,Huarisuyo (GPRS),4.47,-1.01,45.69,29.37,
 2025-11-21,Huayllamarca,20.0,3.5,,,
 2025-11-21,Huayrocondo,21.0,-3.0,,,
+2025-11-21,Incachaca EPSAS,,,,,2.4
 2025-11-21,Incalacaya,,,,,3.7
 2025-11-21,Incapampa - Coroico_M (GPRS),17.19,16.19,99.81,62.91,
 2025-11-21,Isla Del Sol,16.0,7.0,,,
@@ -66282,6 +66520,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-21,Llallagua,20.0,5.1,,,
 2025-11-21,MONTERO GUABIRA CIMAR,32.0,22.0,,,
 2025-11-21,Mecapaca_M (GPRS),11.26,8.42,55.05,20.84,
+2025-11-21,Milluni EPSAS,,,,,0.1
 2025-11-21,Mizque - SDC (GPRS),13.73,11.7,89.1,34.34,
 2025-11-21,Mojo,21.2,5.0,,,
 2025-11-21,Okinawa I,31.0,22.0,,,
@@ -66366,6 +66605,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-21,Totora i_M (GPRS),13.54,7.36,13.14,6.84,
 2025-11-21,Trancas,25.0,15.0,,,2.0
 2025-11-21,Tucumillas,26.0,9.0,,,
+2025-11-21,Tuni EPSAS,,,,,0.2
 2025-11-21,Tupiza,27.0,7.6,,,
 2025-11-21,Turumayo,25.0,11.0,,,
 2025-11-21,Uyuni,20.0,0.1,,,
@@ -66649,11 +66889,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-23,El Villar,24.0,13.0,,,
 2025-11-23,Guajara-Mirim - Guayaramerín,,,,,107.8
 2025-11-23,Guayaramerin_M (GPRS),23.22,23.01,100.0,84.57,
+2025-11-23,Hampaturi EPSAS,,,,,1.4
 2025-11-23,Hichucota,14.0,0.0,,,
 2025-11-23,Huancane Corapata_M (GPRS),6.07,3.97,70.19,32.37,
 2025-11-23,Huarisuyo (GPRS),6.25,1.66,90.4,38.01,
 2025-11-23,Huayllamarca,19.3,1.5,,,
 2025-11-23,Huayrocondo,19.5,1.3,,,
+2025-11-23,Incachaca EPSAS,,,,,7.5
 2025-11-23,Incalacaya,,,,,5.5
 2025-11-23,Incapampa - Coroico_M (GPRS),14.56,14.11,99.85,89.24,0.1
 2025-11-23,Isla Del Sol,15.0,8.0,,,
@@ -66849,11 +67091,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-24,El Villar,19.0,10.5,,,
 2025-11-24,Guajara-Mirim - Guayaramerín,35.0,23.2,,,
 2025-11-24,Guayaramerin_M (GPRS),24.52,23.81,97.55,67.48,
+2025-11-24,Hampaturi EPSAS,,,,,0.8
 2025-11-24,Hichucota,13.0,1.0,,,
 2025-11-24,Huancane Corapata_M (GPRS),5.48,3.57,63.94,44.02,
 2025-11-24,Huarisuyo (GPRS),5.04,1.65,89.3,50.19,
 2025-11-24,Huayllamarca,,,,,2.5
 2025-11-24,Huayrocondo,19.7,3.3,,,
+2025-11-24,Incachaca EPSAS,,,,,2.9
 2025-11-24,Incalacaya,,,,,1.6
 2025-11-24,Incapampa - Coroico_M (GPRS),14.63,14.36,94.99,70.53,
 2025-11-24,Isla Del Sol,15.0,7.0,,,3.5
@@ -66870,6 +67114,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-24,Llallagua,16.4,7.0,,,
 2025-11-24,MONTERO GUABIRA CIMAR,35.0,21.0,,,
 2025-11-24,Mecapaca_M (GPRS),12.37,11.78,82.99,45.8,
+2025-11-24,Milluni EPSAS,,,,,2.5
 2025-11-24,Mizque - SDC (GPRS),14.71,13.6,82.2,48.63,
 2025-11-24,Mojo,22.0,2.0,,,
 2025-11-24,Okinawa I,32.0,20.0,,,
@@ -67045,11 +67290,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-25,Guajara-Mirim - Guayaramerín,,,,,0.2
 2025-11-25,Guanay_H (GPRS),,,,,5.9
 2025-11-25,Guayaramerin_M (GPRS),25.89,24.23,88.98,73.78,
+2025-11-25,Hampaturi EPSAS,,,,,1.4
 2025-11-25,Hichucota,14.0,0.0,,,
 2025-11-25,Huancane Corapata_M (GPRS),8.31,6.89,75.59,32.02,
 2025-11-25,Huarisuyo (GPRS),7.21,5.8,77.75,39.4,
 2025-11-25,Huayllamarca,,,,,3.5
 2025-11-25,Huayrocondo,19.8,5.5,,,0.5
+2025-11-25,Incachaca EPSAS,,,,,1.8
 2025-11-25,Incapampa - Coroico_M (GPRS),16.45,15.66,96.19,71.43,0.1
 2025-11-25,Isla Del Sol,14.0,7.0,,,
 2025-11-25,Isla Suriqui_M (GPRS),10.32,6.98,68.57,50.33,
@@ -67066,6 +67313,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-25,MONTERO GUABIRA CIMAR,36.0,20.0,,,
 2025-11-25,Mecapaca,,,,,0.4
 2025-11-25,Mecapaca_M (GPRS),12.62,12.07,83.53,40.93,
+2025-11-25,Milluni EPSAS,,,,,1.5
 2025-11-25,Mizque - SDC (GPRS),18.11,14.14,75.77,47.23,
 2025-11-25,Mojo,23.0,4.0,,,2.6
 2025-11-25,Muyuquiri,,,,,6.6
@@ -67151,6 +67399,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-25,Totora i_M (GPRS),14.39,8.3,46.59,24.12,
 2025-11-25,Trancas,27.0,10.0,,,
 2025-11-25,Tucumillas,19.0,11.0,,,
+2025-11-25,Tuni EPSAS,,,,,1.4
 2025-11-25,Tupiza,26.8,8.4,,,
 2025-11-25,Turumayo,34.0,11.0,,,
 2025-11-25,Uyuni,19.0,0.0,,,
@@ -67245,6 +67494,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-26,Guajara-Mirim - Guayaramerín,,,,,5.2
 2025-11-26,Guanay_H (GPRS),,,,,2.2
 2025-11-26,Guayaramerin_M (GPRS),25.41,24.34,100.0,99.99,12.3
+2025-11-26,Hampaturi EPSAS,,,,,0.5
 2025-11-26,Hichucota,15.0,1.0,,,
 2025-11-26,Huancane Corapata_M (GPRS),9.42,6.01,63.93,39.98,
 2025-11-26,Huarisuyo (GPRS),9.8,5.69,72.66,38.5,
@@ -67268,6 +67518,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-26,MONTERO GUABIRA CIMAR,37.0,20.0,,,
 2025-11-26,Mecapaca,,,,,2.1
 2025-11-26,Mecapaca_M (GPRS),13.29,12.09,92.97,53.82,
+2025-11-26,Milluni EPSAS,,,,,0.1
 2025-11-26,Mizque - SDC (GPRS),14.9,12.64,86.4,55.52,
 2025-11-26,Mojo,22.2,4.3,,,9.4
 2025-11-26,Okinawa I,32.0,25.0,,,
@@ -67446,6 +67697,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-27,Huarisuyo (GPRS),6.78,0.98,86.0,34.37,
 2025-11-27,Huayllamarca,,,,,4.5
 2025-11-27,Huayrocondo,19.9,0.0,,,
+2025-11-27,Incachaca EPSAS,,,,,0.6
 2025-11-27,Incapampa - Coroico_M (GPRS),15.62,14.72,98.33,60.76,0.1
 2025-11-27,Isla Del Sol,16.0,5.0,,,7.8
 2025-11-27,Isla Suriqui_M (GPRS),8.87,6.49,75.07,60.43,
@@ -67644,6 +67896,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-28,Llallagua,19.6,6.0,,,
 2025-11-28,MONTERO GUABIRA CIMAR,34.0,21.0,,,
 2025-11-28,Mecapaca_M (GPRS),14.08,11.27,70.63,31.27,
+2025-11-28,Milluni EPSAS,,,,,0.4
 2025-11-28,Mizque - SDC (GPRS),14.18,10.75,62.09,29.51,
 2025-11-28,Mojo,22.2,5.3,,,
 2025-11-28,Okinawa I,31.0,23.0,,,
@@ -68037,11 +68290,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-30,Guajara-Mirim - Guayaramerín,,,,,10.3
 2025-11-30,Guanay_H (GPRS),,,,,0.3
 2025-11-30,Guayaramerin_M (GPRS),24.46,23.63,100.0,100.0,3.7
+2025-11-30,Hampaturi EPSAS,,,,,5.4
 2025-11-30,Hichucota,13.0,3.0,,,20.0
 2025-11-30,Huancane Corapata_M (GPRS),7.45,5.22,77.35,45.64,
 2025-11-30,Huarisuyo (GPRS),6.76,5.3,91.7,47.69,
 2025-11-30,Huayllamarca,,,,,7.0
 2025-11-30,Huayrocondo,18.1,3.6,,,11.8
+2025-11-30,Incachaca EPSAS,,,,,4.1
 2025-11-30,Incalacaya,,,,,5.1
 2025-11-30,Incapampa - Coroico_M (GPRS),16.46,15.97,97.53,69.77,
 2025-11-30,Isla Del Sol,15.0,6.0,,,3.8
@@ -68060,6 +68315,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-30,MONTERO GUABIRA CIMAR,32.0,21.0,,,
 2025-11-30,Mecapaca,,,,,3.1
 2025-11-30,Mecapaca_M (GPRS),12.97,12.11,86.42,44.92,
+2025-11-30,Milluni EPSAS,,,,,3.3
 2025-11-30,Misicuni,,,,,0.1
 2025-11-30,Mizque - SDC (GPRS),16.07,12.71,58.71,32.88,
 2025-11-30,Mojo,25.0,4.2,,,2.6
@@ -68153,6 +68409,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-30,Totora i_M (GPRS),13.37,7.87,59.24,27.05,
 2025-11-30,Trancas,27.0,20.0,,,4.0
 2025-11-30,Tucumillas,30.0,10.0,,,
+2025-11-30,Tuni EPSAS,,,,,4.5
 2025-11-30,Tupiza,30.0,9.4,,,2.0
 2025-11-30,Tupiza_1_H (GPRS),,,,,1.6
 2025-11-30,Turumayo,34.0,12.0,,,5.1
@@ -68256,11 +68513,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-01,Entre Rios (TJA),,,,,5.5
 2025-12-01,Guajara-Mirim - Guayaramerín,,,,,14.7
 2025-12-01,Guayaramerin_M (GPRS),24.1,23.3,100.0,86.74,
+2025-12-01,Hampaturi EPSAS,,,,,1.8
 2025-12-01,Hichucota,14.0,1.0,,,11.0
 2025-12-01,Huancane Corapata_M (GPRS),9.05,4.49,82.7,60.15,
 2025-12-01,Huarisuyo (GPRS),7.72,6.15,91.9,68.86,
 2025-12-01,Huayllamarca,22.0,2.5,,,6.0
 2025-12-01,Huayrocondo,18.2,4.3,,,5.2
+2025-12-01,Incachaca EPSAS,,,,,2.6
 2025-12-01,Incalacaya,,,,,2.9
 2025-12-01,Incapampa - Coroico_M (GPRS),17.12,16.63,99.82,82.0,
 2025-12-01,Isla Del Sol,12.0,6.0,,,4.5
@@ -68281,6 +68540,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-01,MONTERO GUABIRA CIMAR,35.0,21.0,,,
 2025-12-01,Mecapaca,,,,,17.3
 2025-12-01,Mecapaca_M (GPRS),15.42,14.46,100.0,58.13,5.2
+2025-12-01,Milluni EPSAS,,,,,4.2
 2025-12-01,Minero (Unagro),,,,,9.8
 2025-12-01,Mizque - SDC (GPRS),19.62,17.79,66.9,43.21,
 2025-12-01,Mojo,23.2,5.2,,,
@@ -68380,6 +68640,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-01,Totora i_M (GPRS),12.27,9.42,59.09,30.37,
 2025-12-01,Trancas,25.0,17.0,,,
 2025-12-01,Tucumillas,,,,,4.3
+2025-12-01,Tuni EPSAS,,,,,4.4
 2025-12-01,Tupiza,28.0,13.4,,,
 2025-12-01,Tupiza_1_H (GPRS),,,,,2.2
 2025-12-01,Tupiza_2_H (GPRS),,,,,26.6
@@ -68484,11 +68745,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-02,Guajara-Mirim - Guayaramerín,34.4,23.2,,,
 2025-12-02,Guanay_H (GPRS),,,,,34.9
 2025-12-02,Guayaramerin_M (GPRS),33.56,23.72,100.0,60.33,0.4
+2025-12-02,Hampaturi EPSAS,,,,,5.6
 2025-12-02,Hichucota,13.0,0.0,,,1.5
 2025-12-02,Huancane Corapata_M (GPRS),8.31,5.18,74.68,52.5,
 2025-12-02,Huarisuyo (GPRS),8.37,5.44,91.2,51.8,
 2025-12-02,Huayllamarca,18.5,2.5,,,
 2025-12-02,Huayrocondo,16.8,4.9,,,4.4
+2025-12-02,Incachaca EPSAS,,,,,7.1
 2025-12-02,Incalacaya,,,,,5.3
 2025-12-02,Incapampa - Coroico_M (GPRS),27.42,15.67,99.84,67.24,0.1
 2025-12-02,Isla Del Sol,13.0,5.0,,,7.8
@@ -68509,6 +68772,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-02,Mataral,,,,,10.3
 2025-12-02,Mecapaca,,,,,6.7
 2025-12-02,Mecapaca_M (GPRS),23.06,11.98,100.0,43.4,
+2025-12-02,Milluni EPSAS,,,,,8.5
 2025-12-02,Minero (Unagro),,,,,1.0
 2025-12-02,Mizque - SDC (GPRS),20.27,17.74,90.6,57.98,
 2025-12-02,Mojo,21.2,4.1,,,
@@ -68618,6 +68882,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-02,Totora i_M (GPRS),24.38,7.14,74.97,24.75,
 2025-12-02,Trancas,,,,,15.0
 2025-12-02,Tucumillas,,,,,16.5
+2025-12-02,Tuni EPSAS,,,,,2.3
 2025-12-02,Tupiza,,,,,2.4
 2025-12-02,Turumayo,,,,,2.4
 2025-12-02,Uyuni,22.2,5.1,,,
@@ -68718,11 +68983,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-03,Guajara-Mirim - Guayaramerín,,,,,1.0
 2025-12-03,Guanay_H (GPRS),,,,,9.8
 2025-12-03,Guayaramerin_M (GPRS),24.64,23.72,100.0,93.73,1.1
+2025-12-03,Hampaturi EPSAS,,,,,1.7
 2025-12-03,Hichucota,11.0,1.0,,,2.0
 2025-12-03,Huancane Corapata_M (GPRS),6.73,3.5,81.5,46.21,
 2025-12-03,Huarisuyo (GPRS),7.1,3.68,95.8,49.32,
 2025-12-03,Huayllamarca,17.0,3.4,,,
 2025-12-03,Huayrocondo,18.9,1.7,,,
+2025-12-03,Incachaca EPSAS,,,,,3.8
 2025-12-03,Incalacaya,,,,,7.5
 2025-12-03,Incapampa - Coroico_M (GPRS),17.14,15.67,99.85,76.59,
 2025-12-03,Isla Del Sol,14.0,6.0,,,1.6
@@ -68741,6 +69008,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-03,Llallagua,,,,,7.2
 2025-12-03,MONTERO GUABIRA CIMAR,35.0,22.0,,,
 2025-12-03,Mecapaca_M (GPRS),13.7,12.19,100.0,51.12,
+2025-12-03,Milluni EPSAS,,,,,1.2
 2025-12-03,Mizque - SDC (GPRS),19.04,16.85,67.78,49.02,
 2025-12-03,Mojo,22.3,6.8,,,
 2025-12-03,Nuevo Mundo,,,,,32.0
@@ -68943,11 +69211,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-04,Entre Rios (TJA),,,,,6.0
 2025-12-04,Guajara-Mirim - Guayaramerín,,,,,22.3
 2025-12-04,Guayaramerin_M (GPRS),24.07,23.79,100.0,89.94,
+2025-12-04,Hampaturi EPSAS,,,,,3.9
 2025-12-04,Hichucota,12.0,2.0,,,
 2025-12-04,Huancane Corapata_M (GPRS),5.8,3.7,72.2,46.12,
 2025-12-04,Huarisuyo (GPRS),5.68,3.72,87.4,53.03,
 2025-12-04,Huayllamarca,19.0,4.0,,,6.1
 2025-12-04,Huayrocondo,15.9,4.0,,,
+2025-12-04,Incachaca EPSAS,,,,,2.8
 2025-12-04,Incalacaya,,,,,8.5
 2025-12-04,Incapampa - Coroico_M (GPRS),15.67,15.14,99.85,84.71,
 2025-12-04,Isla Del Sol,11.0,5.0,,,7.4
@@ -68966,6 +69236,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-04,MONTERO GUABIRA CIMAR,34.0,22.0,,,
 2025-12-04,Mataral,,,,,15.4
 2025-12-04,Mecapaca_M (GPRS),12.43,11.93,100.0,61.81,
+2025-12-04,Milluni EPSAS,,,,,0.5
 2025-12-04,Minero (Unagro),,,,,3.6
 2025-12-04,Mizque - SDC (GPRS),17.39,15.16,86.1,47.77,
 2025-12-04,Mojo,18.2,6.0,,,2.2
@@ -69071,6 +69342,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-04,Totora i_M (GPRS),15.15,9.96,52.18,28.08,
 2025-12-04,Trancas,,,,,5.0
 2025-12-04,Tucumillas,,,,,1.5
+2025-12-04,Tuni EPSAS,,,,,8.5
 2025-12-04,Tupiza,25.2,10.2,,,
 2025-12-04,Tupiza_1_H (GPRS),,,,,4.0
 2025-12-04,Tupiza_2_H (GPRS),,,,,8.8
@@ -69181,11 +69453,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-05,Guajara-Mirim - Guayaramerín,,,,,11.6
 2025-12-05,Guanay_H (GPRS),,,,,0.1
 2025-12-05,Guayaramerin_M (GPRS),23.82,23.46,100.0,86.91,
+2025-12-05,Hampaturi EPSAS,,,,,6.5
 2025-12-05,Hichucota,11.0,0.0,,,18.0
 2025-12-05,Huancane Corapata_M (GPRS),5.87,4.56,81.6,67.72,
 2025-12-05,Huarisuyo (GPRS),6.17,4.8,89.5,68.32,
 2025-12-05,Huayllamarca,17.0,2.5,,,5.5
 2025-12-05,Huayrocondo,16.9,3.8,,,12.8
+2025-12-05,Incachaca EPSAS,,,,,8.4
 2025-12-05,Incalacaya,,,,,10.3
 2025-12-05,Incapampa - Coroico_M (GPRS),16.06,14.61,99.83,62.84,0.1
 2025-12-05,Isla Del Sol,13.0,5.0,,,15.5
@@ -69205,6 +69479,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-05,MONTERO GUABIRA CIMAR,36.0,20.0,,,
 2025-12-05,Mecapaca,,,,,16.9
 2025-12-05,Mecapaca_M (GPRS),11.64,10.59,100.0,61.96,0.2
+2025-12-05,Milluni EPSAS,,,,,10.2
 2025-12-05,Mizque - SDC (GPRS),16.08,12.89,72.23,44.53,
 2025-12-05,Mojo,18.0,7.0,,,9.2
 2025-12-05,Nuevo Mundo,,,,,3.5
@@ -69307,6 +69582,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-05,Totora i_M (GPRS),10.54,9.91,74.94,51.68,
 2025-12-05,Trancas,28.0,17.0,,,
 2025-12-05,Tucumillas,28.0,11.0,,,
+2025-12-05,Tuni EPSAS,,,,,15.5
 2025-12-05,Tupiza,,,,,19.4
 2025-12-05,Tupiza_1_H (GPRS),,,,,10.8
 2025-12-05,Tupiza_2_H (GPRS),,,,,10.6
@@ -69417,11 +69693,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-06,Guajara-Mirim - Guayaramerín,,,,,46.7
 2025-12-06,Guanay_H (GPRS),,,,,1.0
 2025-12-06,Guayaramerin_M (GPRS),23.43,23.09,100.0,85.11,3.3
+2025-12-06,Hampaturi EPSAS,,,,,1.2
 2025-12-06,Hichucota,10.0,1.0,,,3.0
 2025-12-06,Huancane Corapata_M (GPRS),6.27,4.56,78.39,61.73,
 2025-12-06,Huarisuyo (GPRS),5.99,2.18,90.9,56.95,
 2025-12-06,Huayllamarca,18.3,2.0,,,
 2025-12-06,Huayrocondo,16.7,1.0,,,0.2
+2025-12-06,Incachaca EPSAS,,,,,0.7
 2025-12-06,Incalacaya,,,,,6.5
 2025-12-06,Incapampa - Coroico_M (GPRS),16.05,14.64,96.81,64.62,
 2025-12-06,Isla Del Sol,15.0,6.0,,,
@@ -69440,6 +69718,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-06,Llallagua,16.0,7.1,,,
 2025-12-06,MONTERO GUABIRA CIMAR,37.0,24.0,,,
 2025-12-06,Mecapaca_M (GPRS),12.75,11.71,87.81,61.13,
+2025-12-06,Milluni EPSAS,,,,,1.0
 2025-12-06,Minero (Unagro),,,,,25.6
 2025-12-06,Mizque - SDC (GPRS),18.11,16.41,77.51,49.62,
 2025-12-06,Mojo,21.3,6.0,,,1.5
@@ -69545,6 +69824,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-06,Totora i_M (GPRS),10.31,9.27,77.13,46.03,
 2025-12-06,Trancas,,,,,19.0
 2025-12-06,Tucumillas,30.0,12.0,,,
+2025-12-06,Tuni EPSAS,,,,,1.7
 2025-12-06,Tupiza,,,,,29.0
 2025-12-06,Turumayo,,,,,2.3
 2025-12-06,Uyuni,21.0,5.0,,,
@@ -69647,11 +69927,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-07,Emborozu,,,,,69.0
 2025-12-07,Guajara-Mirim - Guayaramerín,,,,,6.3
 2025-12-07,Guayaramerin_M (GPRS),23.79,23.55,100.0,96.22,0.1
+2025-12-07,Hampaturi EPSAS,,,,,2.2
 2025-12-07,Hichucota,12.0,4.0,,,12.8
 2025-12-07,Huancane Corapata_M (GPRS),7.71,6.33,82.2,60.81,
 2025-12-07,Huarisuyo (GPRS),7.55,5.08,81.8,62.02,
 2025-12-07,Huayllamarca,17.5,1.8,,,
 2025-12-07,Huayrocondo,17.4,4.3,,,0.7
+2025-12-07,Incachaca EPSAS,,,,,7.8
 2025-12-07,Incalacaya,,,,,5.3
 2025-12-07,Incapampa - Coroico_M (GPRS),17.21,15.21,99.85,82.25,
 2025-12-07,Isla Del Sol,16.0,7.0,,,
@@ -69669,6 +69951,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-07,MONTERO GUABIRA CIMAR,36.0,22.0,,,
 2025-12-07,Mecapaca,,,,,0.5
 2025-12-07,Mecapaca_M (GPRS),14.11,13.25,90.84,58.32,
+2025-12-07,Milluni EPSAS,,,,,1.9
 2025-12-07,Mizque - SDC (GPRS),15.03,12.95,94.2,65.22,
 2025-12-07,Mojo,23.0,8.0,,,
 2025-12-07,Muyuquiri,,,,,12.5
@@ -69763,6 +70046,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-07,Totora i_M (GPRS),13.76,11.03,61.38,40.35,
 2025-12-07,Trancas,,,,,2.0
 2025-12-07,Tucumillas,31.0,11.5,,,
+2025-12-07,Tuni EPSAS,,,,,2.6
 2025-12-07,Tupiza,27.0,10.2,,,
 2025-12-07,Turumayo,,,,,32.2
 2025-12-07,Uyuni,21.0,3.2,,,
@@ -69857,11 +70141,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-08,Guajara-Mirim - Guayaramerín,,,,,1.3
 2025-12-08,Guanay_H (GPRS),,,,,1.8
 2025-12-08,Guayaramerin_M (GPRS),24.47,23.81,98.61,83.06,
+2025-12-08,Hampaturi EPSAS,,,,,0.7
 2025-12-08,Hichucota,15.0,3.0,,,5.8
 2025-12-08,Huancane Corapata_M (GPRS),6.33,4.16,79.88,47.56,
 2025-12-08,Huarisuyo (GPRS),5.36,3.78,91.4,54.66,
 2025-12-08,Huayllamarca,19.0,2.4,,,
 2025-12-08,Huayrocondo,20.0,4.5,,,
+2025-12-08,Incachaca EPSAS,,,,,3.7
 2025-12-08,Incalacaya,,,,,2.3
 2025-12-08,Incapampa - Coroico_M (GPRS),17.57,15.28,98.39,59.84,
 2025-12-08,Isla Del Sol,16.0,8.0,,,
@@ -69880,6 +70166,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-08,Llallagua,20.1,7.1,,,
 2025-12-08,MONTERO GUABIRA CIMAR,28.0,22.0,,,
 2025-12-08,Mecapaca_M (GPRS),13.2,11.54,92.69,39.58,
+2025-12-08,Milluni EPSAS,,,,,1.1
 2025-12-08,Minero (Unagro),,,,,46.0
 2025-12-08,Mizque - SDC (GPRS),18.32,15.45,90.2,54.45,
 2025-12-08,Mojo,25.0,7.2,,,
@@ -69967,6 +70254,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-08,Totora i_M (GPRS),15.23,10.64,61.59,28.0,
 2025-12-08,Trancas,,,,,1.0
 2025-12-08,Tucumillas,25.0,10.0,,,
+2025-12-08,Tuni EPSAS,,,,,0.5
 2025-12-08,Tupiza,28.6,10.0,,,
 2025-12-08,Turumayo,21.0,16.0,,,
 2025-12-08,Uyuni,22.0,1.0,,,
@@ -70636,11 +70924,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-12,Guajara-Mirim - Guayaramerín,34.0,23.4,,,
 2025-12-12,Guanay_H (GPRS),,,,,10.4
 2025-12-12,Guayaramerin_M (GPRS),24.66,24.34,100.0,81.52,
+2025-12-12,Hampaturi EPSAS,,,,,0.6
 2025-12-12,Hichucota,14.0,5.0,,,
 2025-12-12,Huancane Corapata_M (GPRS),9.09,7.06,72.08,45.26,
 2025-12-12,Huarisuyo (GPRS),8.72,4.75,75.72,50.82,
 2025-12-12,Huayllamarca,19.3,1.0,,,
 2025-12-12,Huayrocondo,20.7,4.0,,,0.4
+2025-12-12,Incachaca EPSAS,,,,,2.2
 2025-12-12,Incapampa - Coroico_M (GPRS),17.89,16.83,99.84,66.76,
 2025-12-12,Isla Del Sol,17.0,7.0,,,
 2025-12-12,Isla Suriqui_M (GPRS),11.89,9.41,66.9,54.17,
@@ -70658,6 +70948,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-12,Llallagua,21.2,6.0,,,
 2025-12-12,MONTERO GUABIRA CIMAR,,,,,8.8
 2025-12-12,Mecapaca_M (GPRS),15.37,13.23,85.66,38.97,
+2025-12-12,Milluni EPSAS,,,,,14.0
 2025-12-12,Mizque - SDC (GPRS),20.01,18.45,55.25,27.38,
 2025-12-12,Mojo,26.0,5.0,,,
 2025-12-12,Okinawa I,29.0,19.0,,,8.3
@@ -70751,6 +71042,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-12,Totora i_M (GPRS),12.63,8.84,25.1,5.05,
 2025-12-12,Trancas,,,,,4.0
 2025-12-12,Tucumillas,,,,,0.8
+2025-12-12,Tuni EPSAS,,,,,2.4
 2025-12-12,Tupiza,29.2,14.4,,,
 2025-12-12,Turumayo,,,,,22.1
 2025-12-12,Uyuni,20.2,3.0,,,
@@ -70949,6 +71241,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-13,Totora i_M (GPRS),12.44,5.87,39.39,7.58,
 2025-12-13,Trancas,,,,,3.0
 2025-12-13,Tucumillas,25.0,11.0,,,
+2025-12-13,Tuni EPSAS,,,,,0.3
 2025-12-13,Tupiza,30.0,8.4,,,
 2025-12-13,Turumayo,,,,,2.3
 2025-12-13,Uyuni,21.0,1.5,,,
@@ -71422,6 +71715,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-16,Huarisuyo (GPRS),8.31,5.04,81.5,46.59,
 2025-12-16,Huayllamarca,,,,,1.5
 2025-12-16,Huayrocondo,21.7,-1.8,,,
+2025-12-16,Incachaca EPSAS,,,,,0.1
 2025-12-16,Incapampa - Coroico_M (GPRS),18.53,17.94,99.82,76.9,
 2025-12-16,Isla Del Sol,15.0,9.0,,,2.8
 2025-12-16,Isla Suriqui_M (GPRS),12.15,9.21,70.38,59.07,
@@ -71626,11 +71920,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-17,El Villar,17.0,11.1,,,
 2025-12-17,Guajara-Mirim - Guayaramerín,,,,,16.3
 2025-12-17,Guayaramerin_M (GPRS),21.62,20.5,100.0,91.67,0.9
+2025-12-17,Hampaturi EPSAS,,,,,5.4
 2025-12-17,Hichucota,14.0,4.0,,,
 2025-12-17,Huancane Corapata_M (GPRS),8.9,6.25,78.46,57.1,
 2025-12-17,Huarisuyo (GPRS),7.66,6.59,74.26,51.85,
 2025-12-17,Huayllamarca,17.6,2.0,,,
 2025-12-17,Huayrocondo,19.5,3.9,,,0.7
+2025-12-17,Incachaca EPSAS,,,,,7.1
 2025-12-17,Incapampa - Coroico_M (GPRS),15.45,14.87,99.81,79.87,
 2025-12-17,Isla Del Sol,14.0,4.0,,,14.8
 2025-12-17,Isla Suriqui_M (GPRS),8.94,7.97,71.69,64.66,
@@ -71648,6 +71944,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-17,MONTERO GUABIRA CIMAR,,,,,5.8
 2025-12-17,Mecapaca,,,,,2.0
 2025-12-17,Mecapaca_M (GPRS),13.24,11.99,99.5,60.51,
+2025-12-17,Milluni EPSAS,,,,,2.5
 2025-12-17,Mizque - SDC (GPRS),14.34,12.46,73.98,34.47,
 2025-12-17,Mojo,23.6,1.1,,,
 2025-12-17,Okinawa I,30.0,21.0,,,
@@ -71734,6 +72031,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-17,Totora i_M (GPRS),12.12,7.2,33.88,23.77,
 2025-12-17,Trancas,21.0,8.0,,,
 2025-12-17,Tucumillas,22.0,12.0,,,
+2025-12-17,Tuni EPSAS,,,,,2.8
 2025-12-17,Tupiza,28.0,8.6,,,
 2025-12-17,Turumayo,30.0,7.0,,,
 2025-12-17,Uyuni,24.0,2.3,,,
@@ -71919,6 +72217,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-18,Totora i_M (GPRS),10.96,8.07,50.0,31.02,
 2025-12-18,Trancas,22.0,14.0,,,
 2025-12-18,Tucumillas,23.0,14.0,,,
+2025-12-18,Tuni EPSAS,,,,,0.5
 2025-12-18,Tupiza,27.4,10.0,,,
 2025-12-18,Turumayo,29.0,9.0,,,
 2025-12-18,Uyuni,24.0,5.0,,,
@@ -72197,11 +72496,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-20,Emborozu,,,,,30.0
 2025-12-20,Guajara-Mirim - Guayaramerín,,,,,37.6
 2025-12-20,Guayaramerin_M (GPRS),25.44,24.51,98.89,75.77,
+2025-12-20,Hampaturi EPSAS,,,,,0.4
 2025-12-20,Hichucota,12.0,3.0,,,9.0
 2025-12-20,Huancane Corapata_M (GPRS),6.86,5.22,85.7,55.02,0.1
 2025-12-20,Huarisuyo (GPRS),7.16,5.78,90.0,55.31,
 2025-12-20,Huayllamarca,19.3,3.5,,,
 2025-12-20,Huayrocondo,17.3,5.1,,,5.8
+2025-12-20,Incachaca EPSAS,,,,,0.2
 2025-12-20,Incapampa - Coroico_M (GPRS),16.96,16.59,99.81,63.39,
 2025-12-20,Isla Del Sol,13.0,6.0,,,6.2
 2025-12-20,Isla Suriqui_M (GPRS),10.06,5.96,77.16,50.93,
@@ -72221,6 +72522,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-20,MONTERO GUABIRA CIMAR,32.5,21.0,,,
 2025-12-20,Mecapaca,,,,,6.7
 2025-12-20,Mecapaca_M (GPRS),15.95,11.22,74.63,34.84,
+2025-12-20,Milluni EPSAS,,,,,10.0
 2025-12-20,Mizque - SDC (GPRS),18.9,16.07,72.38,39.93,
 2025-12-20,Mojo,26.0,6.2,,,2.5
 2025-12-20,Muyuquiri,,,,,19.6
@@ -72316,6 +72618,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-20,Totora i_M (GPRS),13.36,10.0,57.65,20.94,
 2025-12-20,Trancas,,,,,10.0
 2025-12-20,Tucumillas,,,,,0.5
+2025-12-20,Tuni EPSAS,,,,,3.6
 2025-12-20,Tupiza,,,,,7.0
 2025-12-20,Turumayo,,,,,6.1
 2025-12-20,Uyuni,22.0,5.0,,,
@@ -72415,6 +72718,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-21,Huarisuyo (GPRS),7.54,3.45,87.7,46.7,
 2025-12-21,Huayllamarca,,,,,4.1
 2025-12-21,Huayrocondo,18.8,1.5,,,
+2025-12-21,Incachaca EPSAS,,,,,0.3
 2025-12-21,Incalacaya,,,,,5.8
 2025-12-21,Incapampa - Coroico_M (GPRS),18.44,17.83,99.77,92.27,
 2025-12-21,Isla Del Sol,15.0,8.0,,,
@@ -72435,6 +72739,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-21,Llallagua,18.2,6.0,,,
 2025-12-21,MONTERO GUABIRA CIMAR,33.0,23.0,,,
 2025-12-21,Mecapaca_M (GPRS),16.11,12.89,58.92,41.13,
+2025-12-21,Milluni EPSAS,,,,,2.6
 2025-12-21,Mizque - SDC (GPRS),17.85,15.43,85.3,77.75,
 2025-12-21,Mojo,25.3,6.0,,,
 2025-12-21,Muyuquiri,,,,,23.3
@@ -72526,6 +72831,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-21,Totora i_M (GPRS),11.45,9.1,35.58,20.06,
 2025-12-21,Trancas,,,,,5.0
 2025-12-21,Tucumillas,27.0,12.0,,,
+2025-12-21,Tuni EPSAS,,,,,1.5
 2025-12-21,Tupiza,29.2,11.6,,,
 2025-12-21,Turumayo,,,,,1.4
 2025-12-21,Uyuni,22.3,6.0,,,
@@ -72628,6 +72934,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-22,Huarisuyo (GPRS),4.35,0.1,97.4,22.68,
 2025-12-22,Huayllamarca,18.4,3.6,,,
 2025-12-22,Huayrocondo,19.9,1.0,,,
+2025-12-22,Incachaca EPSAS,,,,,2.6
 2025-12-22,Incalacaya,,,,,0.9
 2025-12-22,Incapampa - Coroico_M (GPRS),18.24,17.58,99.84,94.25,
 2025-12-22,Isla Del Sol,15.0,7.0,,,
@@ -72649,6 +72956,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-22,Mataral,,,,,18.6
 2025-12-22,Mecapaca,,,,,3.1
 2025-12-22,Mecapaca_M (GPRS),13.19,10.89,70.94,41.87,
+2025-12-22,Milluni EPSAS,,,,,2.9
 2025-12-22,Minero (Unagro),,,,,67.2
 2025-12-22,Mizque - SDC (GPRS),19.49,14.14,94.5,92.8,
 2025-12-22,Mojo,23.2,7.0,,,5.0
@@ -72743,6 +73051,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-22,Totora i_M (GPRS),15.4,10.28,52.79,29.97,
 2025-12-22,Trancas,24.0,17.0,,,
 2025-12-22,Tucumillas,24.0,11.0,,,
+2025-12-22,Tuni EPSAS,,,,,8.1
 2025-12-22,Tupiza,28.0,12.0,,,
 2025-12-22,Tupiza_1_H (GPRS),,,,,6.3
 2025-12-22,Turumayo,,,,,2.3
@@ -73258,11 +73567,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-25,Guajara-Mirim - Guayaramerín,,,,,26.9
 2025-12-25,Guanay_H (GPRS),,,,,65.5
 2025-12-25,Guayaramerin_M (GPRS),24.91,21.91,100.0,99.98,0.7
+2025-12-25,Hampaturi EPSAS,,,,,0.5
 2025-12-25,Hichucota,10.0,3.0,,,
 2025-12-25,Huancane Corapata_M (GPRS),5.15,2.28,77.61,48.9,
 2025-12-25,Huarisuyo (GPRS),5.64,2.86,96.4,52.05,
 2025-12-25,Huayllamarca,18.2,3.6,,,
 2025-12-25,Huayrocondo,14.4,1.5,,,
+2025-12-25,Incachaca EPSAS,,,,,0.2
 2025-12-25,Incalacaya,,,,,7.8
 2025-12-25,Incapampa - Coroico_M (GPRS),16.8,16.58,99.83,75.66,
 2025-12-25,Isla Del Sol,14.0,7.0,,,
@@ -73489,11 +73800,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-26,Guajara-Mirim - Guayaramerín,,,,,18.5
 2025-12-26,Guanay_H (GPRS),,,,,0.8
 2025-12-26,Guayaramerin_M (GPRS),23.34,23.04,100.0,87.56,4.0
+2025-12-26,Hampaturi EPSAS,,,,,19.1
 2025-12-26,Hichucota,8.0,1.0,,,20.0
 2025-12-26,Huancane Corapata_M (GPRS),7.2,5.94,79.96,54.11,
 2025-12-26,Huarisuyo (GPRS),6.15,4.67,86.8,63.43,0.2
 2025-12-26,Huayllamarca,17.0,3.3,,,
 2025-12-26,Huayrocondo,16.1,4.2,,,4.9
+2025-12-26,Incachaca EPSAS,,,,,19.8
 2025-12-26,Incalacaya,,,,,5.2
 2025-12-26,Incapampa - Coroico_M (GPRS),15.98,14.97,99.81,99.75,
 2025-12-26,Isla Del Sol,11.0,6.0,,,9.6
@@ -73516,6 +73829,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-26,Mataral,,,,,20.7
 2025-12-26,Mecapaca,,,,,2.8
 2025-12-26,Mecapaca_M (GPRS),12.8,12.09,100.0,82.74,
+2025-12-26,Milluni EPSAS,,,,,9.5
 2025-12-26,Mizque - SDC (GPRS),16.48,14.59,92.8,67.46,0.2
 2025-12-26,Mojo,15.8,7.0,,,
 2025-12-26,Narvaez,,,,,74.0
@@ -73621,6 +73935,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-26,Totora i_M (GPRS),13.73,10.95,90.5,63.17,0.1
 2025-12-26,Trancas,,,,,52.0
 2025-12-26,Tucumillas,,,,,35.0
+2025-12-26,Tuni EPSAS,,,,,20.1
 2025-12-26,Tupiza,20.0,6.2,,,11.4
 2025-12-26,Tupiza_1_H (GPRS),,,,,4.3
 2025-12-26,Turumayo,,,,,42.6
@@ -73725,11 +74040,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-27,Guajara-Mirim - Guayaramerín,,,,,5.8
 2025-12-27,Guanay_H (GPRS),,,,,7.7
 2025-12-27,Guayaramerin_M (GPRS),23.01,22.52,100.0,73.42,
+2025-12-27,Hampaturi EPSAS,,,,,26.8
 2025-12-27,Hichucota,10.0,0.0,,,11.8
 2025-12-27,Huancane Corapata_M (GPRS),3.97,0.94,77.74,48.9,
 2025-12-27,Huarisuyo (GPRS),3.58,-0.1,96.8,49.96,
 2025-12-27,Huayllamarca,17.0,3.0,,,
 2025-12-27,Huayrocondo,17.4,-0.2,,,
+2025-12-27,Incachaca EPSAS,,,,,18.7
 2025-12-27,Incalacaya,,,,,9.2
 2025-12-27,Incapampa - Coroico_M (GPRS),14.99,14.57,99.81,70.0,
 2025-12-27,Isla Del Sol,12.0,5.0,,,12.9
@@ -73751,6 +74068,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-27,MONTERO GUABIRA CIMAR,,,,,7.0
 2025-12-27,Mecapaca,,,,,1.9
 2025-12-27,Mecapaca_M (GPRS),11.64,10.73,100.0,46.99,
+2025-12-27,Milluni EPSAS,,,,,16.8
 2025-12-27,Mizque - SDC (GPRS),15.49,13.75,91.8,51.18,
 2025-12-27,Mojo,22.8,8.6,,,1.2
 2025-12-27,Muyuquiri,,,,,10.0
@@ -73849,6 +74167,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-27,Totora i_M (GPRS),11.49,10.07,65.6,30.52,
 2025-12-27,Trancas,23.0,18.0,,,
 2025-12-27,Tucumillas,,,,,8.0
+2025-12-27,Tuni EPSAS,,,,,31.3
 2025-12-27,Tupiza,24.6,10.4,,,3.8
 2025-12-27,Turumayo,30.0,14.0,,,
 2025-12-27,Ucumasi,,,,,7.0
@@ -73956,11 +74275,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-28,Guajara-Mirim - Guayaramerín,,,,,0.2
 2025-12-28,Guanay_H (GPRS),,,,,0.2
 2025-12-28,Guayaramerin_M (GPRS),23.94,23.56,100.0,79.18,
+2025-12-28,Hampaturi EPSAS,,,,,2.4
 2025-12-28,Hichucota,9.0,1.0,,,4.6
 2025-12-28,Huancane Corapata_M (GPRS),6.73,3.57,85.3,58.08,
 2025-12-28,Huarisuyo (GPRS),6.61,4.01,88.5,61.92,
 2025-12-28,Huayllamarca,,,,,1.6
 2025-12-28,Huayrocondo,16.5,3.5,,,3.8
+2025-12-28,Incachaca EPSAS,,,,,2.3
 2025-12-28,Incalacaya,,,,,4.9
 2025-12-28,Incapampa - Coroico_M (GPRS),15.32,14.94,99.8,77.95,
 2025-12-28,Isla Del Sol,11.0,4.0,,,6.4
@@ -73983,6 +74304,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-28,MONTERO GUABIRA CIMAR,33.0,20.0,,,
 2025-12-28,Mecapaca,,,,,16.9
 2025-12-28,Mecapaca_M (GPRS),13.41,9.43,100.0,68.13,
+2025-12-28,Milluni EPSAS,,,,,3.0
 2025-12-28,Minero (Unagro),,,,,0.2
 2025-12-28,Mizque - SDC (GPRS),15.43,13.08,92.6,61.4,0.1
 2025-12-28,Mojo,19.6,8.3,,,
@@ -74084,6 +74406,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-28,Totora i_M (GPRS),14.77,11.04,81.19,46.06,
 2025-12-28,Trancas,,,,,55.0
 2025-12-28,Tucumillas,26.0,13.5,,,
+2025-12-28,Tuni EPSAS,,,,,4.7
 2025-12-28,Tupiza,24.2,11.6,,,1.5
 2025-12-28,Tupiza_1_H (GPRS),,,,,3.3
 2025-12-28,Turumayo,,,,,19.5
@@ -74194,11 +74517,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-29,Entre Rios (TJA),,,,,37.0
 2025-12-29,Guajara-Mirim - Guayaramerín,,,,,49.2
 2025-12-29,Guayaramerin_M (GPRS),22.08,21.72,99.17,71.05,
+2025-12-29,Hampaturi EPSAS,,,,,1.2
 2025-12-29,Hichucota,11.0,0.0,,,8.5
 2025-12-29,Huancane Corapata_M (GPRS),7.25,6.07,87.2,47.14,
 2025-12-29,Huarisuyo (GPRS),6.67,3.78,93.2,56.1,
 2025-12-29,Huayllamarca,,,,,7.2
 2025-12-29,Huayrocondo,17.1,3.6,,,4.9
+2025-12-29,Incachaca EPSAS,,,,,2.8
 2025-12-29,Incalacaya,,,,,6.2
 2025-12-29,Incapampa - Coroico_M (GPRS),16.15,15.77,99.81,81.31,
 2025-12-29,Isla Del Sol,14.0,5.0,,,14.6
@@ -74219,6 +74544,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-29,MONTERO GUABIRA CIMAR,32.0,21.0,,,
 2025-12-29,Mecapaca,,,,,1.4
 2025-12-29,Mecapaca_M (GPRS),13.34,12.02,100.0,59.1,
+2025-12-29,Milluni EPSAS,,,,,16.0
 2025-12-29,Mizque - SDC (GPRS),16.47,15.14,94.8,73.26,0.2
 2025-12-29,Mojo,18.0,8.0,,,20.0
 2025-12-29,Narvaez,,,,,9.0
@@ -74321,6 +74647,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-29,Totora i_M (GPRS),11.06,10.32,83.45,50.35,
 2025-12-29,Trancas,,,,,40.0
 2025-12-29,Tucumillas,24.0,12.0,,,
+2025-12-29,Tuni EPSAS,,,,,5.6
 2025-12-29,Tupiza,20.0,10.8,,,9.5
 2025-12-29,Tupiza_1_H (GPRS),,,,,2.3
 2025-12-29,Turumayo,,,,,21.3
@@ -74431,11 +74758,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-30,Entre Rios (TJA),,,,,5.0
 2025-12-30,Guajara-Mirim - Guayaramerín,34.6,22.4,,,
 2025-12-30,Guayaramerin_M (GPRS),24.17,23.23,87.42,71.47,
+2025-12-30,Hampaturi EPSAS,,,,,0.2
 2025-12-30,Hichucota,12.0,4.0,,,6.5
 2025-12-30,Huancane Corapata_M (GPRS),6.79,3.31,99.2,55.56,
 2025-12-30,Huarisuyo (GPRS),5.84,1.81,98.2,51.55,
 2025-12-30,Huayllamarca,,,,,5.6
 2025-12-30,Huayrocondo,17.3,0.0,,,
+2025-12-30,Incachaca EPSAS,,,,,0.2
 2025-12-30,Incalacaya,,,,,2.2
 2025-12-30,Incapampa - Coroico_M (GPRS),16.14,15.29,99.84,86.99,
 2025-12-30,Isla Del Sol,14.0,8.0,,,0.1
@@ -74455,6 +74784,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-30,MONTERO GUABIRA CIMAR,,,,,1.0
 2025-12-30,Mecapaca,,,,,3.0
 2025-12-30,Mecapaca_M (GPRS),11.7,11.02,100.0,56.56,
+2025-12-30,Milluni EPSAS,,,,,5.5
 2025-12-30,Minero (Unagro),,,,,1.4
 2025-12-30,Mizque - SDC (GPRS),16.87,15.5,79.0,62.24,
 2025-12-30,Mojo,22.2,9.0,,,2.0
@@ -74551,6 +74881,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-30,Totora i_M (GPRS),15.31,13.69,68.68,41.36,
 2025-12-30,Trancas,25.0,17.0,,,
 2025-12-30,Tucumillas,23.0,11.5,,,
+2025-12-30,Tuni EPSAS,,,,,3.7
 2025-12-30,Tupiza,21.4,11.2,,,
 2025-12-30,Tupiza_1_H (GPRS),,,,,5.6
 2025-12-30,Turumayo,28.0,15.0,,,
@@ -74658,11 +74989,13 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-31,Guajara-Mirim - Guayaramerín,33.4,23.2,,,
 2025-12-31,Guanay_H (GPRS),,,,,1.2
 2025-12-31,Guayaramerin_M (GPRS),25.72,24.6,94.43,77.23,
+2025-12-31,Hampaturi EPSAS,,,,,0.7
 2025-12-31,Hichucota,11.0,3.0,,,6.8
 2025-12-31,Huancane Corapata_M (GPRS),6.72,4.49,74.16,61.48,
 2025-12-31,Huarisuyo (GPRS),5.26,4.17,89.5,51.47,
 2025-12-31,Huayllamarca,,,,,5.8
 2025-12-31,Huayrocondo,16.5,2.8,,,17.2
+2025-12-31,Incachaca EPSAS,,,,,0.8
 2025-12-31,Incalacaya,,,,,12.3
 2025-12-31,Incapampa - Coroico_M (GPRS),17.21,16.38,99.79,86.95,
 2025-12-31,Isla Del Sol,14.0,7.0,,,
@@ -74683,6 +75016,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-31,Llallagua,,,,,6.2
 2025-12-31,MONTERO GUABIRA CIMAR,33.0,20.0,,,
 2025-12-31,Mecapaca_M (GPRS),15.32,10.7,70.2,48.68,
+2025-12-31,Milluni EPSAS,,,,,5.7
 2025-12-31,Mizque - SDC (GPRS),15.5,13.72,94.9,68.1,3.4
 2025-12-31,Mojo,23.2,7.0,,,7.0
 2025-12-31,Narvaez,,,,,5.5
@@ -74777,6 +75111,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-31,Totora i_M (GPRS),14.0,10.45,75.33,53.2,
 2025-12-31,Trancas,22.0,18.0,,,
 2025-12-31,Tucumillas,,,,,37.7
+2025-12-31,Tuni EPSAS,,,,,1.0
 2025-12-31,Tupiza,24.2,9.6,,,2.5
 2025-12-31,Tupiza_1_H (GPRS),,,,,2.1
 2025-12-31,Turumayo,,,,,17.8
