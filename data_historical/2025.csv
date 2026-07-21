@@ -43229,6 +43229,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-20,Putucuni Calientes (GPRS),2.46,0.02,47.43,32.46,
 2025-07-20,Quetenas (GPRS),-4.4,-11.73,59.8,17.42,
 2025-07-20,Ravelo,23.0,3.0,,,
+2025-07-20,Ravelo_M (GPRS),,,247.7,247.6,
 2025-07-20,Redencion Pampa,23.0,3.0,,,
 2025-07-20,Río Chilenas (GPRS),8.44,-15.13,61.05,4.21,
 2025-07-20,Sacabaya,15.5,-7.0,,,
@@ -43406,6 +43407,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-21,Putucuni Calientes (GPRS),2.81,0.17,46.21,28.42,
 2025-07-21,Quetenas (GPRS),-4.27,-6.21,21.78,5.73,
 2025-07-21,Ravelo,21.0,4.0,,,
+2025-07-21,Ravelo_M (GPRS),,,247.7,247.6,
 2025-07-21,Redencion Pampa,28.0,4.0,,,
 2025-07-21,Río Chilenas (GPRS),-6.36,-11.71,49.41,21.56,
 2025-07-21,Sacabaya,12.7,-14.7,,,
@@ -43577,6 +43579,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-22,Putucuni Calientes (GPRS),3.04,0.94,41.45,19.45,
 2025-07-22,Quetenas (GPRS),-6.77,-12.93,26.63,6.01,
 2025-07-22,Ravelo,21.0,6.0,,,
+2025-07-22,Ravelo_M (GPRS),,,247.7,247.6,
 2025-07-22,Redencion Pampa,27.0,3.0,,,
 2025-07-22,Río Chilenas (GPRS),-8.86,-13.93,49.63,20.4,
 2025-07-22,Sacabaya,15.0,-10.5,,,
@@ -43750,6 +43753,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-23,Putucuni Calientes (GPRS),2.3,-1.33,33.15,25.63,
 2025-07-23,Quetenas (GPRS),-8.13,-13.4,27.16,4.99,
 2025-07-23,Ravelo,17.0,2.0,,,
+2025-07-23,Ravelo_M (GPRS),,,247.7,247.6,
 2025-07-23,Redencion Pampa,26.0,4.0,,,
 2025-07-23,Río Chilenas (GPRS),-8.35,-14.63,52.37,15.68,
 2025-07-23,Sacabaya,16.5,-9.1,,,
@@ -43925,6 +43929,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-24,Putucuni Calientes (GPRS),1.79,-1.46,63.07,27.61,
 2025-07-24,Quetenas (GPRS),3.61,-4.84,24.99,14.11,
 2025-07-24,Ravelo,21.0,-4.0,,,
+2025-07-24,Ravelo_M (GPRS),,,247.7,247.6,
 2025-07-24,Redencion Pampa,27.0,3.0,,,
 2025-07-24,Río Chilenas (GPRS),7.51,-2.66,25.99,10.34,
 2025-07-24,Sacabaya,13.5,-7.0,,,
@@ -44100,6 +44105,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-25,Putucuni Calientes (GPRS),2.54,-1.62,26.16,22.98,
 2025-07-25,Quetenas (GPRS),-5.45,-8.87,45.45,12.03,
 2025-07-25,Ravelo,21.0,-3.0,,,
+2025-07-25,Ravelo_M (GPRS),,,247.7,247.6,
 2025-07-25,Redencion Pampa,28.0,3.0,,,
 2025-07-25,Río Chilenas (GPRS),-2.06,-5.98,46.22,46.22,
 2025-07-25,Sacabaya,17.0,-5.5,,,
@@ -44272,6 +44278,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-26,Putucuni Calientes (GPRS),1.95,-0.01,72.92,58.09,
 2025-07-26,Quetenas (GPRS),-3.38,-5.94,42.5,26.39,
 2025-07-26,Ravelo,20.0,-3.0,,,
+2025-07-26,Ravelo_M (GPRS),,,247.7,247.6,
 2025-07-26,Redencion Pampa,27.0,4.0,,,
 2025-07-26,Río Chilenas (GPRS),-1.5,-7.87,49.1,21.57,
 2025-07-26,Sacabaya,14.5,-3.5,,,
@@ -44445,6 +44452,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-27,Putucuni Calientes (GPRS),1.55,-1.19,64.64,19.75,
 2025-07-27,Quetenas (GPRS),-2.83,-6.86,49.9,12.34,
 2025-07-27,Ravelo,22.0,0.0,,,
+2025-07-27,Ravelo_M (GPRS),,,247.7,247.6,
 2025-07-27,Redencion Pampa,27.0,5.0,,,
 2025-07-27,Río Chilenas (GPRS),-3.68,-4.65,45.59,18.8,
 2025-07-27,Sacabaya,15.0,-1.0,,,
@@ -44622,6 +44630,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-28,Putucuni Calientes (GPRS),2.44,-0.78,36.06,26.03,
 2025-07-28,Quetenas (GPRS),-5.92,-9.8,36.51,10.55,
 2025-07-28,Ravelo,18.0,-5.0,,,
+2025-07-28,Ravelo_M (GPRS),,,247.7,247.6,
 2025-07-28,Redencion Pampa,27.0,6.0,,,
 2025-07-28,Río Chilenas (GPRS),-5.31,-8.43,35.83,12.51,
 2025-07-28,Sacabaya,19.5,-3.5,,,
@@ -44805,6 +44814,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-29,Putucuni Calientes (GPRS),0.38,-3.48,82.9,55.66,
 2025-07-29,Quetenas (GPRS),-5.58,-11.58,29.08,9.7,
 2025-07-29,Ravelo,17.0,-2.0,,,
+2025-07-29,Ravelo_M (GPRS),,,247.6,247.6,
 2025-07-29,Redencion Pampa,28.0,5.0,,,
 2025-07-29,Río Chilenas (GPRS),8.93,-12.53,25.95,7.74,
 2025-07-29,Sacabaya,16.0,-6.5,,,
@@ -44987,6 +44997,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-30,Putucuni Calientes (GPRS),3.38,0.05,45.2,35.34,
 2025-07-30,Quetenas (GPRS),-0.84,-9.26,48.53,17.03,
 2025-07-30,Ravelo,21.0,-4.0,,,
+2025-07-30,Ravelo_M (GPRS),,,247.7,247.6,
 2025-07-30,Redencion Pampa,26.0,4.0,,,
 2025-07-30,Río Chilenas (GPRS),-1.76,-7.87,42.32,30.88,
 2025-07-30,Sacabaya,16.0,-8.2,,,
@@ -45168,6 +45179,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-07-31,Putucuni Calientes (GPRS),2.74,-0.23,48.74,35.91,
 2025-07-31,Quetenas (GPRS),-1.93,-6.47,52.77,33.79,
 2025-07-31,Ravelo,20.0,-2.0,,,
+2025-07-31,Ravelo_M (GPRS),,,247.7,247.6,
 2025-07-31,Redencion Pampa,26.0,3.0,,,
 2025-07-31,Río Chilenas (GPRS),-3.85,-6.91,55.18,39.21,
 2025-07-31,Sacabaya,13.5,-6.0,,,
@@ -45346,6 +45358,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-08-01,Putucuni Calientes (GPRS),2.33,-0.99,42.63,22.61,1.9
 2025-08-01,Quetenas (GPRS),-1.0,-3.89,55.17,24.42,
 2025-08-01,Ravelo,19.0,1.0,,,
+2025-08-01,Ravelo_M (GPRS),,,247.7,247.6,
 2025-08-01,Redencion Pampa,28.0,5.0,,,
 2025-08-01,Río Chilenas (GPRS),-3.01,-5.56,47.76,30.02,
 2025-08-01,Sacabaya,13.5,-0.2,,,
@@ -45522,6 +45535,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-08-02,Putucuni Calientes (GPRS),0.77,-2.27,37.96,25.82,
 2025-08-02,Quetenas (GPRS),-1.04,-4.5,48.89,25.07,
 2025-08-02,Ravelo,21.0,-2.0,,,
+2025-08-02,Ravelo_M (GPRS),,,247.7,247.6,
 2025-08-02,Redencion Pampa,29.0,6.0,,,
 2025-08-02,Río Chilenas (GPRS),-3.66,-9.27,49.67,28.46,
 2025-08-02,Sacabaya,14.0,-14.5,,,
@@ -45696,6 +45710,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-08-03,Putucuni Calientes (GPRS),0.37,-1.87,77.13,52.63,0.3
 2025-08-03,Quetenas (GPRS),-0.39,-9.09,47.27,16.02,
 2025-08-03,Ravelo,20.0,-1.0,,,
+2025-08-03,Ravelo_M (GPRS),,,247.7,247.6,
 2025-08-03,Redencion Pampa,28.0,5.0,,,
 2025-08-03,Río Chilenas (GPRS),-4.01,-8.33,31.82,15.87,
 2025-08-03,Sacabaya,15.5,-13.5,,,
@@ -45875,6 +45890,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-08-04,Putucuni Calientes (GPRS),-1.18,-4.05,64.03,37.48,
 2025-08-04,Quetenas (GPRS),-2.22,-5.87,33.96,12.78,
 2025-08-04,Ravelo,16.0,-5.0,,,
+2025-08-04,Ravelo_M (GPRS),,,247.6,247.6,
 2025-08-04,Redencion Pampa,30.0,7.0,,,
 2025-08-04,Río Chilenas (GPRS),0.0,-8.26,50.71,36.82,
 2025-08-04,Sacabaya,17.0,-11.8,,,
@@ -46054,6 +46070,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-08-05,Putucuni Calientes (GPRS),-0.96,-2.66,85.2,52.37,
 2025-08-05,Quetenas (GPRS),-0.29,-8.66,31.17,10.34,
 2025-08-05,Ravelo,19.0,1.0,,,
+2025-08-05,Ravelo_M (GPRS),,,247.7,247.6,
 2025-08-05,Redencion Pampa,28.0,5.0,,,
 2025-08-05,Río Chilenas (GPRS),-7.91,-11.45,58.78,51.25,
 2025-08-05,Sacabaya,18.0,-12.0,,,
@@ -46229,6 +46246,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-08-06,Putucuni Calientes (GPRS),1.81,-0.6,36.72,17.67,
 2025-08-06,Quetenas (GPRS),-3.04,-6.62,20.35,4.78,
 2025-08-06,Ravelo,20.0,-4.0,,,
+2025-08-06,Ravelo_M (GPRS),,,247.7,247.6,
 2025-08-06,Redencion Pampa,27.0,5.0,,,
 2025-08-06,Río Chilenas (GPRS),-4.79,-11.4,43.0,9.72,
 2025-08-06,Sacabaya,20.5,-9.0,,,
@@ -46404,6 +46422,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-08-07,Putucuni Calientes (GPRS),6.08,2.04,9.34,5.02,
 2025-08-07,Quetenas (GPRS),-3.82,-6.41,17.08,2.91,
 2025-08-07,Ravelo,18.0,-7.0,,,
+2025-08-07,Ravelo_M (GPRS),,,247.7,247.6,
 2025-08-07,Redencion Pampa,29.0,4.0,,,
 2025-08-07,Río Chilenas (GPRS),8.66,-6.33,11.68,3.58,
 2025-08-07,Sacabaya,16.0,-8.0,,,
@@ -46591,6 +46610,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-08-08,Putucuni Calientes (GPRS),3.41,0.37,30.22,7.29,
 2025-08-08,Quetenas (GPRS),-1.13,-8.21,24.87,5.48,
 2025-08-08,Ravelo,15.0,1.0,,,
+2025-08-08,Ravelo_M (GPRS),,,247.6,247.6,
 2025-08-08,Redencion Pampa,26.0,4.0,,,
 2025-08-08,Río Chilenas (GPRS),-0.97,-6.98,9.76,6.96,
 2025-08-08,Sacabaya,17.0,-15.0,,,
@@ -46772,6 +46792,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-08-09,Putucuni Calientes (GPRS),-1.42,-3.47,88.8,60.84,
 2025-08-09,Quetenas (GPRS),-6.54,-11.67,33.18,4.61,
 2025-08-09,Ravelo,17.0,1.0,,,
+2025-08-09,Ravelo_M (GPRS),,,247.7,247.6,
 2025-08-09,Redencion Pampa,27.0,3.0,,,
 2025-08-09,Río Chilenas (GPRS),-4.81,-9.55,13.32,5.5,
 2025-08-09,Sacabaya,18.0,-14.0,,,
@@ -46945,6 +46966,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-08-10,Putucuni Calientes (GPRS),3.14,1.2,15.71,10.42,
 2025-08-10,Quetenas (GPRS),-4.51,-10.32,13.19,6.17,
 2025-08-10,Ravelo,19.0,-6.0,,,
+2025-08-10,Ravelo_M (GPRS),,,247.7,247.6,
 2025-08-10,Redencion Pampa,26.0,1.0,,,
 2025-08-10,Río Chilenas (GPRS),6.32,-13.96,27.43,6.84,
 2025-08-10,Sacabaya,17.0,-15.0,,,
@@ -47113,6 +47135,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-08-11,Putucuni Calientes (GPRS),0.89,-1.81,34.6,15.49,
 2025-08-11,Quetenas (GPRS),-6.92,-11.4,14.42,4.06,
 2025-08-11,Ravelo,20.0,-7.0,,,
+2025-08-11,Ravelo_M (GPRS),,,247.7,247.6,
 2025-08-11,Redencion Pampa,27.0,2.0,,,
 2025-08-11,Río Chilenas (GPRS),7.36,-15.74,37.48,4.32,
 2025-08-11,Sacabaya,18.5,-16.0,,,
@@ -47284,6 +47307,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-08-12,Putucuni Calientes (GPRS),0.15,-3.17,28.49,11.21,
 2025-08-12,Quetenas (GPRS),-1.74,-10.07,24.5,5.83,
 2025-08-12,Ravelo,21.0,-7.0,,,
+2025-08-12,Ravelo_M (GPRS),,,247.7,247.6,
 2025-08-12,Redencion Pampa,26.0,2.0,,,
 2025-08-12,Río Chilenas (GPRS),10.49,-12.22,24.34,5.39,
 2025-08-12,Sacabaya,18.0,-14.0,,,
@@ -47452,6 +47476,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-08-13,Putucuni Calientes (GPRS),2.46,-2.45,28.22,13.19,
 2025-08-13,Quetenas (GPRS),0.04,-5.32,20.57,6.86,
 2025-08-13,Ravelo,21.0,-8.0,,,
+2025-08-13,Ravelo_M (GPRS),,,247.7,247.6,
 2025-08-13,Redencion Pampa,26.0,2.0,,,
 2025-08-13,Río Chilenas (GPRS),10.54,-14.18,44.6,6.21,
 2025-08-13,Sacabaya,18.5,-11.0,,,
@@ -47621,6 +47646,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-08-14,Putucuni Calientes (GPRS),0.15,-4.74,26.99,19.47,
 2025-08-14,Quetenas (GPRS),-3.83,-10.85,26.45,6.69,
 2025-08-14,Ravelo,16.0,2.0,,,
+2025-08-14,Ravelo_M (GPRS),,,247.6,247.6,
 2025-08-14,Redencion Pampa,28.0,3.0,,,
 2025-08-14,Río Chilenas (GPRS),9.88,-14.53,50.76,8.68,
 2025-08-14,Sacabaya,,-9.0,,,
@@ -47792,6 +47818,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-08-15,Putucuni Calientes (GPRS),0.04,-3.96,82.7,49.21,
 2025-08-15,Quetenas (GPRS),-5.93,-9.78,24.36,9.63,
 2025-08-15,Ravelo,17.0,1.0,,,
+2025-08-15,Ravelo_M (GPRS),,,247.7,247.6,
 2025-08-15,Redencion Pampa,27.0,3.0,,,
 2025-08-15,Río Chilenas (GPRS),7.79,-12.3,41.68,6.2,
 2025-08-15,Sacabaya,19.0,-10.0,,,
@@ -47964,6 +47991,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-08-16,Putucuni Calientes (GPRS),3.11,0.29,33.32,28.95,
 2025-08-16,Quetenas (GPRS),-6.58,-12.6,34.15,8.98,
 2025-08-16,Ravelo,21.0,-3.0,,,
+2025-08-16,Ravelo_M (GPRS),,,247.7,247.6,
 2025-08-16,Redencion Pampa,28.0,3.0,,,
 2025-08-16,Río Chilenas (GPRS),7.24,-12.14,29.24,4.39,
 2025-08-16,Sacabaya,21.0,-3.2,,,
@@ -48137,6 +48165,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-08-17,Putucuni Calientes (GPRS),1.76,-0.43,51.92,31.35,
 2025-08-17,Quetenas (GPRS),-7.97,-12.49,35.02,21.99,
 2025-08-17,Ravelo,20.0,-2.0,,,
+2025-08-17,Ravelo_M (GPRS),,,247.7,247.6,
 2025-08-17,Redencion Pampa,27.0,4.0,,,
 2025-08-17,Río Chilenas (GPRS),2.6,-13.23,33.45,30.89,
 2025-08-17,Sacabaya,20.0,-5.0,,,
@@ -48315,6 +48344,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-08-18,Putucuni Calientes (GPRS),1.23,-0.17,93.8,79.85,
 2025-08-18,Quetenas (GPRS),-0.2,-2.33,36.16,12.15,
 2025-08-18,Ravelo,20.0,-1.0,,,
+2025-08-18,Ravelo_M (GPRS),,,247.7,247.6,
 2025-08-18,Redencion Pampa,27.0,4.0,,,
 2025-08-18,Río Chilenas (GPRS),7.07,-6.77,38.68,9.14,
 2025-08-18,Sacabaya,20.5,-5.0,,,
@@ -48495,6 +48525,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-08-19,Putucuni Calientes (GPRS),1.79,-0.64,25.04,10.98,
 2025-08-19,Quetenas (GPRS),-2.63,-4.98,12.11,2.87,
 2025-08-19,Ravelo,22.0,4.0,,,17.0
+2025-08-19,Ravelo_M (GPRS),,,247.7,247.6,0.5
 2025-08-19,Redencion Pampa,28.0,5.0,,,
 2025-08-19,Río Chilenas (GPRS),7.28,-6.31,13.88,3.81,
 2025-08-19,Sacabaya,15.0,-11.0,,,
@@ -48674,6 +48705,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-08-20,Putucuni Calientes (GPRS),3.1,0.28,23.27,15.12,
 2025-08-20,Quetenas (GPRS),-2.4,-7.47,26.55,7.59,
 2025-08-20,Ravelo,20.0,-5.0,,,
+2025-08-20,Ravelo_M (GPRS),,,247.7,247.6,
 2025-08-20,Redencion Pampa,30.0,5.0,,,
 2025-08-20,Río Chilenas (GPRS),,,30.1,5.53,
 2025-08-20,Sacabaya,15.1,-13.5,,,
@@ -48851,6 +48883,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-08-21,Putucuni Calientes (GPRS),2.7,-0.38,85.0,62.56,
 2025-08-21,Quetenas (GPRS),-2.25,-8.49,28.16,4.89,
 2025-08-21,Ravelo,22.0,-2.0,,,
+2025-08-21,Ravelo_M (GPRS),,,247.7,247.6,
 2025-08-21,Redencion Pampa,31.0,6.0,,,
 2025-08-21,Río Chilenas (GPRS),8.47,-13.58,16.94,3.95,
 2025-08-21,Sacabaya,15.0,-13.1,,,
@@ -49034,6 +49067,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-08-22,Putucuni Calientes (GPRS),3.15,1.41,97.7,90.1,1.3
 2025-08-22,Quetenas (GPRS),-1.08,-6.41,18.66,7.59,
 2025-08-22,Ravelo,23.0,3.0,,,
+2025-08-22,Ravelo_M (GPRS),,,247.7,247.6,
 2025-08-22,Redencion Pampa,29.0,5.0,,,
 2025-08-22,Río Chilenas (GPRS),,,22.89,6.91,
 2025-08-22,Sacabaya,14.5,-3.5,,,
@@ -49222,6 +49256,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-08-23,Putucuni Calientes (GPRS),2.25,0.38,87.1,80.4,
 2025-08-23,Quetenas (GPRS),-5.01,-9.91,22.17,14.63,
 2025-08-23,Ravelo,20.0,2.0,,,
+2025-08-23,Ravelo_M (GPRS),,,247.7,247.6,
 2025-08-23,Redencion Pampa,18.0,5.0,,,
 2025-08-23,Río Chilenas (GPRS),8.68,-9.48,23.2,5.45,
 2025-08-23,Sacabaya,15.0,-8.5,,,
@@ -49425,6 +49460,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-08-24,Putucuni Calientes (GPRS),0.14,-0.77,99.3,99.1,2.2
 2025-08-24,Quetenas (GPRS),-3.56,-6.47,13.67,3.67,
 2025-08-24,Ravelo,18.0,6.0,,,8.0
+2025-08-24,Ravelo_M (GPRS),,,247.7,247.6,
 2025-08-24,Redencion Pampa,14.0,0.0,,,2.0
 2025-08-24,Río Chilenas (GPRS),5.79,-9.41,16.08,3.81,
 2025-08-24,Sacabaya,16.5,-4.0,,,
@@ -49644,6 +49680,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-08-25,Putucuni Calientes (GPRS),1.24,0.28,97.5,94.4,
 2025-08-25,Quetenas (GPRS),-10.79,-13.23,12.49,3.04,
 2025-08-25,Ravelo,8.0,4.0,,,
+2025-08-25,Ravelo_M (GPRS),,,247.6,247.6,0.8
 2025-08-25,Redencion Pampa,15.0,0.0,,,1.0
 2025-08-25,Río Chilenas (GPRS),4.03,-20.78,38.12,3.04,
 2025-08-25,Sacabaya,16.1,-6.5,,,
@@ -49843,6 +49880,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-08-26,Putucuni Calientes (GPRS),0.87,-1.06,98.6,95.2,0.3
 2025-08-26,Quetenas (GPRS),-10.14,-14.37,24.01,3.75,
 2025-08-26,Ravelo,15.0,-1.0,,,
+2025-08-26,Ravelo_M (GPRS),,,247.7,247.6,
 2025-08-26,Redencion Pampa,12.0,0.0,,,
 2025-08-26,Río Chilenas (GPRS),7.41,-19.43,38.44,3.26,
 2025-08-26,Sacabaya,16.0,-7.5,,,
@@ -50034,6 +50072,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-08-27,Putucuni Calientes (GPRS),1.28,-1.53,92.2,83.7,
 2025-08-27,Quetenas (GPRS),-5.53,-12.36,31.7,14.06,
 2025-08-27,Ravelo,15.0,-3.0,,,
+2025-08-27,Ravelo_M (GPRS),,,247.7,247.6,
 2025-08-27,Redencion Pampa,20.0,1.0,,,
 2025-08-27,Río Chilenas (GPRS),6.86,-14.81,30.42,6.09,
 2025-08-27,Sacabaya,15.0,-9.0,,,
@@ -50214,6 +50253,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-08-28,Putucuni Calientes (GPRS),1.24,-0.81,83.8,32.34,
 2025-08-28,Quetenas (GPRS),-6.06,-8.57,16.55,4.82,
 2025-08-28,Ravelo,17.0,-2.0,,,
+2025-08-28,Ravelo_M (GPRS),,,247.7,247.6,
 2025-08-28,Redencion Pampa,21.0,1.0,,,
 2025-08-28,Río Chilenas (GPRS),11.25,-14.99,35.97,2.94,
 2025-08-28,Sacabaya,19.8,-13.0,,,
@@ -50391,6 +50431,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-08-29,Putucuni Calientes (GPRS),1.79,0.41,60.8,37.04,
 2025-08-29,Quetenas (GPRS),-4.68,-10.41,26.34,7.32,
 2025-08-29,Ravelo,22.0,-3.0,,,
+2025-08-29,Ravelo_M (GPRS),,,247.7,247.6,
 2025-08-29,Redencion Pampa,22.0,2.0,,,
 2025-08-29,Río Chilenas (GPRS),-5.87,-10.73,44.04,6.65,
 2025-08-29,Sacabaya,15.0,-6.0,,,
@@ -50575,6 +50616,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-08-30,Putucuni Calientes (GPRS),1.71,0.55,50.35,43.16,
 2025-08-30,Quetenas (GPRS),2.05,-0.13,16.99,5.68,
 2025-08-30,Ravelo,23.0,0.0,,,
+2025-08-30,Ravelo_M (GPRS),,,247.7,247.6,
 2025-08-30,Redencion Pampa,25.0,3.0,,,
 2025-08-30,Río Chilenas (GPRS),0.22,-3.11,43.23,2.17,
 2025-08-30,Sacabaya,17.0,-3.5,,,
@@ -50750,6 +50792,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-08-31,Putucuni Calientes (GPRS),1.5,-0.68,76.97,45.83,
 2025-08-31,Quetenas (GPRS),-5.18,-11.23,19.45,2.77,
 2025-08-31,Ravelo,21.0,-1.0,,,
+2025-08-31,Ravelo_M (GPRS),,,247.7,247.6,
 2025-08-31,Redencion Pampa,28.0,3.0,,,
 2025-08-31,Río Chilenas (GPRS),-6.01,-9.04,21.12,3.94,
 2025-08-31,Sacabaya,18.0,-11.0,,,
@@ -50925,6 +50968,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-01,Putucuni Calientes (GPRS),1.97,-1.33,73.72,58.86,
 2025-09-01,Quetenas (GPRS),-8.54,-12.49,24.42,4.93,
 2025-09-01,Ravelo,20.0,-2.0,,,
+2025-09-01,Ravelo_M (GPRS),,,0.93,0.9,
 2025-09-01,Redencion Pampa,28.0,4.0,,,
 2025-09-01,Río Chilenas (GPRS),-3.88,-10.87,22.15,6.77,
 2025-09-01,Sacabaya,16.0,-10.0,,,
@@ -51105,6 +51149,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-02,Putucuni Calientes (GPRS),1.44,-0.44,95.5,82.2,
 2025-09-02,Quetenas (GPRS),-6.34,-11.87,21.79,5.03,
 2025-09-02,Ravelo,21.0,1.0,,,
+2025-09-02,Ravelo_M (GPRS),,,247.7,247.6,
 2025-09-02,Redencion Pampa,28.0,5.0,,,
 2025-09-02,Río Chilenas (GPRS),-6.31,-10.37,12.23,6.56,
 2025-09-02,Sacabaya,18.5,-16.5,,,
@@ -51295,6 +51340,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-03,Putucuni Calientes (GPRS),1.82,-0.01,91.0,73.57,9.9
 2025-09-03,Quetenas (GPRS),4.28,-0.93,42.02,24.14,
 2025-09-03,Ravelo,20.0,4.0,,,
+2025-09-03,Ravelo_M (GPRS),,,247.7,247.6,
 2025-09-03,Redencion Pampa,30.0,6.0,,,
 2025-09-03,Río Chilenas (GPRS),-1.23,-3.48,39.27,24.4,
 2025-09-03,Sacabaya,17.0,-7.5,,,
@@ -51488,6 +51534,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-04,Putucuni Calientes (GPRS),3.22,0.92,91.4,74.48,
 2025-09-04,Quetenas (GPRS),2.45,-4.46,43.92,15.96,
 2025-09-04,Ravelo,17.0,4.0,,,
+2025-09-04,Ravelo_M (GPRS),,,247.6,247.6,
 2025-09-04,Redencion Pampa,23.0,5.0,,,
 2025-09-04,Río Chilenas (GPRS),4.54,-6.44,38.7,26.46,
 2025-09-04,Sacabaya,16.0,0.5,,,
@@ -51705,6 +51752,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-05,Putucuni Calientes (GPRS),1.83,0.15,95.7,92.6,0.4
 2025-09-05,Quetenas (GPRS),3.14,-2.88,34.59,25.6,
 2025-09-05,Ravelo,17.0,6.0,,,19.5
+2025-09-05,Ravelo_M (GPRS),,,247.6,-8.19,0.1
 2025-09-05,Redencion Pampa,30.0,8.0,,,5.0
 2025-09-05,Reyes,20.0,20.0,87.1,87.1,
 2025-09-05,Riberalta,27.0,27.0,43.1,43.1,
@@ -51925,6 +51973,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-06,Putucuni Calientes (GPRS),1.36,0.92,90.0,85.4,0.1
 2025-09-06,Quetenas (GPRS),-1.47,-4.66,32.73,20.86,
 2025-09-06,Ravelo,18.0,4.0,,,
+2025-09-06,Ravelo_M (GPRS),,,247.7,247.6,
 2025-09-06,Redencion Pampa,22.0,7.0,,,
 2025-09-06,Río Chilenas (GPRS),9.78,-7.67,50.94,12.26,
 2025-09-06,Sacabaya,18.5,1.5,,,
@@ -52133,6 +52182,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-07,Putucuni Calientes (GPRS),0.97,0.25,99.6,99.4,0.8
 2025-09-07,Quetenas (GPRS),1.06,-0.02,75.75,56.11,
 2025-09-07,Ravelo,17.0,6.0,,,4.5
+2025-09-07,Ravelo_M (GPRS),,,247.6,247.6,
 2025-09-07,Redencion Pampa,28.0,7.0,,,
 2025-09-07,Río Chilenas (GPRS),0.63,-2.54,93.3,63.34,0.7
 2025-09-07,Sacabaya,16.4,1.8,,,1.1
@@ -52333,6 +52383,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-08,Putucuni Calientes (GPRS),2.74,1.76,88.5,64.63,0.1
 2025-09-08,Quetenas (GPRS),-1.2,-2.76,38.6,21.55,
 2025-09-08,Ravelo,22.0,4.0,,,
+2025-09-08,Ravelo_M (GPRS),,,247.7,247.6,
 2025-09-08,Redencion Pampa,30.0,7.0,,,
 2025-09-08,Rosario del Ingre,,,,,1.0
 2025-09-08,Río Chilenas (GPRS),4.95,-6.73,50.85,10.13,0.2
@@ -52518,6 +52569,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-09,Putucuni Calientes (GPRS),5.7,1.31,75.69,61.22,
 2025-09-09,Quetenas (GPRS),-6.3,-10.44,24.59,7.74,
 2025-09-09,Ravelo,20.0,1.0,,,
+2025-09-09,Ravelo_M (GPRS),,,247.7,247.6,
 2025-09-09,Redencion Pampa,28.0,6.0,,,
 2025-09-09,Río Chilenas (GPRS),12.75,-13.19,48.37,4.06,
 2025-09-09,Sacabaya,16.5,-2.0,,,
@@ -52690,6 +52742,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-10,Putucuni Calientes (GPRS),1.13,0.48,88.4,81.5,
 2025-09-10,Quetenas (GPRS),-3.44,-10.08,22.01,4.45,
 2025-09-10,Ravelo,22.0,1.0,,,
+2025-09-10,Ravelo_M (GPRS),,,247.7,247.6,
 2025-09-10,Redencion Pampa,30.0,5.0,,,
 2025-09-10,Río Chilenas (GPRS),13.82,-12.17,36.54,3.49,
 2025-09-10,Sacabaya,20.0,-13.0,,,
@@ -52865,6 +52918,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-11,Putucuni Calientes (GPRS),4.5,0.32,98.2,59.21,
 2025-09-11,Quetenas (GPRS),-0.2,-5.38,17.4,8.05,
 2025-09-11,Ravelo,20.0,2.0,,,
+2025-09-11,Ravelo_M (GPRS),,,247.7,247.6,
 2025-09-11,Redencion Pampa,28.0,5.0,,,
 2025-09-11,Río Chilenas (GPRS),-4.48,-4.92,31.13,3.38,
 2025-09-11,Sacabaya,20.5,-5.5,,,
@@ -53045,6 +53099,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-12,Putucuni Calientes (GPRS),1.47,-1.01,96.9,62.7,
 2025-09-12,Quetenas (GPRS),-0.2,-6.32,18.07,3.46,
 2025-09-12,Ravelo,20.0,3.0,,,
+2025-09-12,Ravelo_M (GPRS),,,247.7,247.6,
 2025-09-12,Redencion Pampa,29.0,6.0,,,
 2025-09-12,Río Chilenas (GPRS),-3.95,-9.73,24.86,3.27,
 2025-09-12,Sacabaya,19.0,-6.5,,,
@@ -53220,6 +53275,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-13,Putucuni Calientes (GPRS),0.75,-0.81,91.2,58.81,
 2025-09-13,Quetenas (GPRS),3.37,-0.56,19.88,8.41,
 2025-09-13,Ravelo,23.0,3.0,,,
+2025-09-13,Ravelo_M (GPRS),,,247.7,247.6,
 2025-09-13,Redencion Pampa,30.0,6.0,,,
 2025-09-13,Río Chilenas (GPRS),2.34,-2.58,22.75,14.35,
 2025-09-13,Sacabaya,22.0,-4.0,,,
@@ -53398,6 +53454,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-14,Putucuni Calientes (GPRS),2.29,0.25,96.9,60.34,
 2025-09-14,Quetenas (GPRS),3.23,-0.12,19.53,14.54,
 2025-09-14,Ravelo,21.0,1.0,,,
+2025-09-14,Ravelo_M (GPRS),,,247.7,247.6,
 2025-09-14,Redencion Pampa,31.0,8.0,,,
 2025-09-14,Río Chilenas (GPRS),1.64,-3.27,33.41,15.34,
 2025-09-14,Sacabaya,21.0,-0.2,,,
@@ -53584,6 +53641,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-15,Putucuni Calientes (GPRS),0.62,-2.56,76.61,47.35,
 2025-09-15,Quetenas (GPRS),3.71,1.07,21.96,9.37,
 2025-09-15,Ravelo,22.0,4.0,,,
+2025-09-15,Ravelo_M (GPRS),,,247.7,247.6,
 2025-09-15,Redencion Pampa,29.0,7.0,,,
 2025-09-15,Río Chilenas (GPRS),,,55.37,6.92,
 2025-09-15,Sacabaya,18.5,2.0,,,
@@ -53767,6 +53825,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-16,Putucuni Calientes (GPRS),2.91,1.07,83.4,62.39,
 2025-09-16,Quetenas (GPRS),4.77,-2.42,42.93,26.36,
 2025-09-16,Ravelo,19.0,8.0,,,
+2025-09-16,Ravelo_M (GPRS),,,247.7,247.6,
 2025-09-16,Redencion Pampa,30.0,7.0,,,
 2025-09-16,Río Chilenas (GPRS),10.97,-6.51,66.94,18.44,
 2025-09-16,Sacabaya,18.5,-4.5,,,
@@ -53960,6 +54019,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-17,Putucuni Calientes (GPRS),2.98,1.78,94.0,68.9,
 2025-09-17,Quetenas (GPRS),0.29,-4.58,28.22,11.45,
 2025-09-17,Ravelo,20.0,5.0,,,6.0
+2025-09-17,Ravelo_M (GPRS),,,247.7,247.6,1.6
 2025-09-17,Redencion Pampa,25.0,8.0,,,
 2025-09-17,Río Chilenas (GPRS),,,37.19,6.56,
 2025-09-17,Sacabaya,19.0,-3.0,,,
@@ -54146,6 +54206,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-18,Putucuni Calientes (GPRS),2.74,1.91,79.95,46.2,
 2025-09-18,Quetenas (GPRS),-0.62,-5.4,20.75,6.6,
 2025-09-18,Ravelo,21.0,3.0,,,5.0
+2025-09-18,Ravelo_M (GPRS),,,247.7,247.6,0.1
 2025-09-18,Redencion Pampa,28.0,9.0,,,20.0
 2025-09-18,Río Chilenas (GPRS),13.0,-12.27,32.3,2.59,
 2025-09-18,Sacabaya,20.0,2.0,,,
@@ -54322,6 +54383,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-19,Putucuni Calientes (GPRS),2.5,0.62,83.9,60.21,
 2025-09-19,Quetenas (GPRS),-1.78,-8.68,12.02,3.94,
 2025-09-19,Ravelo,23.0,4.0,,,
+2025-09-19,Ravelo_M (GPRS),,,247.7,247.6,
 2025-09-19,Redencion Pampa,30.0,10.0,,,
 2025-09-19,Río Chilenas (GPRS),14.83,-11.51,24.95,1.96,
 2025-09-19,Sacabaya,18.0,-8.5,,,
@@ -54494,6 +54556,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-20,Putucuni Calientes (GPRS),4.43,1.36,17.88,11.72,
 2025-09-20,Quetenas (GPRS),0.55,-3.17,17.02,2.15,
 2025-09-20,Ravelo,25.0,3.0,,,
+2025-09-20,Ravelo_M (GPRS),,,247.7,247.6,
 2025-09-20,Redencion Pampa,31.0,10.0,,,
 2025-09-20,Río Chilenas (GPRS),11.87,-11.45,21.11,2.17,
 2025-09-20,Sacabaya,19.0,-5.0,,,
@@ -54665,6 +54728,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-21,Putucuni Calientes (GPRS),5.57,2.67,9.49,5.71,
 2025-09-21,Quetenas (GPRS),-0.71,-7.38,8.81,6.84,
 2025-09-21,Ravelo,27.0,2.0,,,
+2025-09-21,Ravelo_M (GPRS),,,247.7,247.6,
 2025-09-21,Redencion Pampa,30.0,11.0,,,
 2025-09-21,Río Chilenas (GPRS),11.03,-2.67,16.91,7.11,
 2025-09-21,Sacabaya,19.1,-4.5,,,
@@ -54846,6 +54910,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-22,Putucuni Calientes (GPRS),5.77,1.74,20.35,9.54,
 2025-09-22,Quetenas (GPRS),2.33,-5.99,23.71,8.64,
 2025-09-22,Ravelo,21.0,0.0,,,
+2025-09-22,Ravelo_M (GPRS),,,247.7,247.6,
 2025-09-22,Redencion Pampa,32.0,11.0,,,
 2025-09-22,Río Chilenas (GPRS),14.43,-6.13,19.25,3.35,
 2025-09-22,Sacabaya,21.5,-6.2,,,
@@ -55029,6 +55094,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-23,Putucuni Calientes (GPRS),3.66,1.75,58.76,46.11,
 2025-09-23,Quetenas (GPRS),-0.67,-6.73,14.48,1.76,
 2025-09-23,Ravelo,20.0,6.0,,,
+2025-09-23,Ravelo_M (GPRS),,,247.7,247.6,
 2025-09-23,Redencion Pampa,34.0,10.0,,,1.0
 2025-09-23,Río Chilenas (GPRS),,,18.46,2.35,
 2025-09-23,Sacabaya,21.0,-7.0,,,
@@ -55206,6 +55272,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-24,Putucuni Calientes (GPRS),5.23,0.89,94.5,83.7,0.2
 2025-09-24,Quetenas (GPRS),1.47,-3.72,12.13,3.32,
 2025-09-24,Ravelo,19.0,3.0,,,
+2025-09-24,Ravelo_M (GPRS),,,247.6,247.6,
 2025-09-24,Redencion Pampa,24.0,8.0,,,
 2025-09-24,Riberalta_H (GPRS),,,,,10.4
 2025-09-24,Río Chilenas (GPRS),,,28.18,11.53,
@@ -55387,6 +55454,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-25,Putucuni Calientes (GPRS),0.7,-2.12,74.77,50.83,
 2025-09-25,Quetenas (GPRS),1.41,-4.8,23.92,13.26,
 2025-09-25,Ravelo,19.0,7.0,,,
+2025-09-25,Ravelo_M (GPRS),,,247.6,247.6,
 2025-09-25,Redencion Pampa,24.0,8.0,,,
 2025-09-25,Riberalta_H (GPRS),,,,,1.5
 2025-09-25,Río Chilenas (GPRS),,,46.63,8.79,
@@ -55563,6 +55631,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-26,Putucuni Calientes (GPRS),2.23,-0.01,83.3,61.56,
 2025-09-26,Quetenas (GPRS),5.09,-1.21,39.4,25.0,
 2025-09-26,Ravelo,22.0,7.0,,,
+2025-09-26,Ravelo_M (GPRS),,,247.7,247.6,
 2025-09-26,Redencion Pampa,26.0,10.0,,,
 2025-09-26,Río Chilenas (GPRS),,,49.09,20.58,
 2025-09-26,Sacabaya,22.0,-2.5,,,
@@ -55750,6 +55819,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-27,Putucuni Calientes (GPRS),5.32,4.37,75.61,65.77,
 2025-09-27,Quetenas (GPRS),2.64,-1.58,28.13,2.42,
 2025-09-27,Ravelo,22.0,2.0,,,
+2025-09-27,Ravelo_M (GPRS),,,247.7,247.6,
 2025-09-27,Redencion Pampa,27.0,10.0,,,2.0
 2025-09-27,Río Chilenas (GPRS),13.4,-3.1,29.08,2.06,
 2025-09-27,Sacabaya,21.0,-2.0,,,
@@ -55958,6 +56028,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-28,Putucuni Calientes (GPRS),1.31,-0.63,91.4,71.6,
 2025-09-28,Quetenas (GPRS),-0.12,-3.21,16.37,3.96,
 2025-09-28,Ravelo,15.0,6.0,,,8.6
+2025-09-28,Ravelo_M (GPRS),,,247.7,247.6,
 2025-09-28,Redencion Pampa,29.0,9.0,,,
 2025-09-28,Río Chilenas (GPRS),-3.78,-6.99,29.99,2.22,
 2025-09-28,Sacabaya,20.0,-1.0,,,5.1
@@ -56164,6 +56235,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-29,Putucuni Calientes (GPRS),2.8,1.12,83.7,57.32,
 2025-09-29,Quetenas (GPRS),0.5,-2.99,12.64,3.97,
 2025-09-29,Ravelo,23.0,3.0,,,
+2025-09-29,Ravelo_M (GPRS),,,247.7,247.6,
 2025-09-29,Redencion Pampa,28.0,9.0,,,
 2025-09-29,Río Chilenas (GPRS),-2.52,-10.95,21.04,12.0,
 2025-09-29,Sacabaya,22.0,-4.0,,,
@@ -56378,6 +56450,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-09-30,Putucuni Calientes (GPRS),3.9,1.95,95.3,72.77,0.5
 2025-09-30,Quetenas (GPRS),0.55,-5.62,14.23,3.58,
 2025-09-30,Ravelo,22.0,5.0,,,
+2025-09-30,Ravelo_M (GPRS),,,247.7,247.6,
 2025-09-30,Redencion Pampa,25.0,10.0,,,
 2025-09-30,Río Chilenas (GPRS),-1.83,-8.42,23.41,7.91,
 2025-09-30,Sacabaya,20.5,-3.8,,,
@@ -56603,6 +56676,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-01,Putucuni Calientes (GPRS),3.12,1.28,95.7,86.2,0.9
 2025-10-01,Quetenas (GPRS),-0.33,-7.09,20.36,2.66,
 2025-10-01,Ravelo,,,,,19.0
+2025-10-01,Ravelo_M (GPRS),,,247.6,247.6,0.2
 2025-10-01,Redencion Pampa,,,,,8.0
 2025-10-01,Rosario del Ingre,,,,,14.0
 2025-10-01,Río Chilenas (GPRS),-3.15,-8.26,29.99,3.9,
@@ -56835,6 +56909,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-02,Putucuni Calientes (GPRS),-0.17,-0.92,91.9,84.3,7.4
 2025-10-02,Quetenas (GPRS),-1.76,-7.11,13.92,4.36,
 2025-10-02,Ravelo,17.0,7.0,,,
+2025-10-02,Ravelo_M (GPRS),,,247.6,247.6,1.3
 2025-10-02,Redencion Pampa,26.0,12.0,,,
 2025-10-02,Riberalta_H (GPRS),,,,,23.1
 2025-10-02,Río Chilenas (GPRS),11.69,-13.19,26.39,1.97,
@@ -57041,6 +57116,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-03,Putucuni Calientes (GPRS),2.37,1.4,88.1,78.05,
 2025-10-03,Quetenas (GPRS),0.3,-5.08,17.24,7.23,
 2025-10-03,Ravelo,19.0,5.0,,,
+2025-10-03,Ravelo_M (GPRS),,,247.7,247.6,
 2025-10-03,Redencion Pampa,26.0,9.0,,,
 2025-10-03,Río Chilenas (GPRS),13.58,-10.8,24.79,4.89,
 2025-10-03,Sacabaya,19.0,-9.5,,,
@@ -57227,6 +57303,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-04,Putucuni Calientes (GPRS),2.98,1.07,74.83,40.72,
 2025-10-04,Quetenas (GPRS),-0.22,-5.25,14.97,3.67,
 2025-10-04,Ravelo,24.0,5.0,,,
+2025-10-04,Ravelo_M (GPRS),,,247.7,247.6,
 2025-10-04,Redencion Pampa,30.0,7.0,,,
 2025-10-04,Río Chilenas (GPRS),14.4,-10.24,24.68,2.27,
 2025-10-04,Sacabaya,20.5,-2.5,,,
@@ -57401,6 +57478,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-05,Putucuni Calientes (GPRS),5.02,3.76,34.13,26.26,
 2025-10-05,Quetenas (GPRS),-2.19,-6.81,19.04,3.83,
 2025-10-05,Ravelo,26.0,3.0,,,
+2025-10-05,Ravelo_M (GPRS),,,247.7,247.6,
 2025-10-05,Redencion Pampa,28.0,10.0,,,
 2025-10-05,Río Chilenas (GPRS),-2.3,-4.43,16.44,2.51,
 2025-10-05,Sacabaya,19.1,0.5,,,
@@ -57586,6 +57664,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-06,Putucuni Calientes (GPRS),3.94,2.69,79.05,61.13,
 2025-10-06,Quetenas (GPRS),0.68,-5.3,12.55,3.71,
 2025-10-06,Ravelo,20.0,7.0,,,
+2025-10-06,Ravelo_M (GPRS),,,247.7,247.6,
 2025-10-06,Redencion Pampa,27.0,8.0,,,
 2025-10-06,Río Chilenas (GPRS),-2.77,-9.49,,,
 2025-10-06,Sacabaya,23.5,2.0,,,
@@ -57778,6 +57857,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-07,Putucuni Calientes (GPRS),3.34,2.09,89.6,79.08,
 2025-10-07,Quetenas (GPRS),0.33,-3.05,14.59,3.42,
 2025-10-07,Ravelo,,,,,10.0
+2025-10-07,Ravelo_M (GPRS),,,247.6,247.6,
 2025-10-07,Redencion Pampa,28.0,8.0,,,
 2025-10-07,Riberalta_H (GPRS),,,,,0.1
 2025-10-07,Río Chilenas (GPRS),2.01,-1.14,11.3,11.3,
@@ -57972,6 +58052,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-08,Putucuni Calientes (GPRS),2.77,1.33,88.4,75.57,
 2025-10-08,Quetenas (GPRS),-0.44,-6.23,16.53,5.72,
 2025-10-08,Ravelo,14.0,6.0,,,
+2025-10-08,Ravelo_M (GPRS),,,247.6,247.6,
 2025-10-08,Redencion Pampa,26.0,9.0,,,
 2025-10-08,Río Chilenas (GPRS),3.61,-4.01,12.95,4.81,
 2025-10-08,Sacabaya,18.5,1.0,,,
@@ -58168,6 +58249,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-09,Putucuni Calientes (GPRS),2.08,1.46,90.8,86.0,
 2025-10-09,Quetenas (GPRS),-1.38,-2.81,14.88,4.92,
 2025-10-09,Ravelo,16.0,3.0,,,
+2025-10-09,Ravelo_M (GPRS),,,247.6,247.6,
 2025-10-09,Redencion Pampa,28.0,10.0,,,
 2025-10-09,Río Chilenas (GPRS),11.94,-7.54,32.12,3.99,
 2025-10-09,Sacabaya,17.0,-0.5,,,
@@ -58371,6 +58453,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-10,Putucuni Calientes (GPRS),2.44,1.26,94.0,64.74,
 2025-10-10,Quetenas (GPRS),3.14,-4.28,20.07,10.33,
 2025-10-10,Ravelo,19.0,7.0,,,
+2025-10-10,Ravelo_M (GPRS),,,247.6,247.6,
 2025-10-10,Redencion Pampa,30.0,9.0,,,
 2025-10-10,Río Chilenas (GPRS),12.81,-10.37,35.73,10.04,
 2025-10-10,Sacabaya,20.0,0.0,,,
@@ -58564,6 +58647,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-11,Putucuni Calientes (GPRS),3.86,1.41,69.75,42.65,
 2025-10-11,Quetenas (GPRS),2.21,0.06,17.94,8.65,
 2025-10-11,Ravelo,25.0,2.0,,,
+2025-10-11,Ravelo_M (GPRS),,,247.7,247.6,
 2025-10-11,Redencion Pampa,28.0,10.0,,,
 2025-10-11,Río Chilenas (GPRS),17.77,-7.73,23.74,2.01,
 2025-10-11,Sacabaya,22.5,1.5,,,
@@ -58743,6 +58827,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-12,Putucuni Calientes (GPRS),7.85,4.17,63.25,32.51,
 2025-10-12,Quetenas (GPRS),0.82,-5.72,12.47,2.28,
 2025-10-12,Ravelo,21.0,2.0,,,
+2025-10-12,Ravelo_M (GPRS),,,247.6,247.6,
 2025-10-12,Redencion Pampa,30.0,11.0,,,
 2025-10-12,Río Chilenas (GPRS),16.76,-12.07,24.34,1.52,
 2025-10-12,Sacabaya,23.5,-2.2,,,
@@ -58931,6 +59016,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-13,Putucuni Calientes (GPRS),3.52,2.19,95.7,83.5,
 2025-10-13,Quetenas (GPRS),3.04,-1.42,13.74,1.83,
 2025-10-13,Ravelo,21.0,8.0,,,
+2025-10-13,Ravelo_M (GPRS),,,247.6,247.6,
 2025-10-13,Redencion Pampa,25.0,10.0,,,
 2025-10-13,Riberalta_H (GPRS),,,,,3.2
 2025-10-13,Río Chilenas (GPRS),16.71,-8.36,23.7,1.54,
@@ -59133,6 +59219,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-14,Putucuni Calientes (GPRS),2.59,1.61,81.0,69.12,
 2025-10-14,Quetenas (GPRS),4.35,-2.09,17.2,8.11,
 2025-10-14,Ravelo,19.0,7.0,,,
+2025-10-14,Ravelo_M (GPRS),,,247.6,247.6,
 2025-10-14,Redencion Pampa,25.0,9.0,,,
 2025-10-14,Río Chilenas (GPRS),-0.12,-0.88,21.32,10.57,
 2025-10-14,Sacabaya,20.7,2.0,,,
@@ -59322,6 +59409,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-15,Putucuni Calientes (GPRS),2.4,1.76,85.0,77.88,
 2025-10-15,Quetenas (GPRS),2.69,0.0,17.28,13.1,
 2025-10-15,Ravelo,21.0,7.0,,,
+2025-10-15,Ravelo_M (GPRS),,,247.7,247.6,
 2025-10-15,Redencion Pampa,28.0,10.0,,,
 2025-10-15,Riberalta_H (GPRS),,,,,1.0
 2025-10-15,Río Chilenas (GPRS),0.61,-3.83,21.5,12.73,
@@ -59509,6 +59597,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-16,Putucuni Calientes (GPRS),3.06,1.2,82.9,59.3,
 2025-10-16,Quetenas (GPRS),4.08,-1.42,27.33,17.19,
 2025-10-16,Ravelo,23.0,6.0,,,
+2025-10-16,Ravelo_M (GPRS),,,247.7,247.6,
 2025-10-16,Redencion Pampa,28.0,10.0,,,
 2025-10-16,Río Chilenas (GPRS),15.93,-5.13,52.74,13.15,
 2025-10-16,Sacabaya,21.0,0.0,,,
@@ -59705,6 +59794,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-17,Putucuni Calientes (GPRS),2.9,0.14,81.8,68.45,
 2025-10-17,Quetenas (GPRS),5.31,-0.86,24.89,10.82,
 2025-10-17,Ravelo,22.0,9.0,,,
+2025-10-17,Ravelo_M (GPRS),,,247.7,247.6,
 2025-10-17,Redencion Pampa,28.0,12.0,,,
 2025-10-17,Riberalta_H (GPRS),,,,,0.5
 2025-10-17,Rincon de la Victoria,,,,,9.5
@@ -59928,6 +60018,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-18,Putucuni Calientes (GPRS),4.6,3.41,85.3,65.48,
 2025-10-18,Quetenas (GPRS),3.14,-1.86,23.88,15.74,
 2025-10-18,Ravelo,,,,,16.5
+2025-10-18,Ravelo_M (GPRS),,,247.7,247.6,
 2025-10-18,Redencion Pampa,,,,,15.0
 2025-10-18,Rincon de la Victoria,,,,,26.6
 2025-10-18,Rosario del Ingre,,,,,4.0
@@ -60159,6 +60250,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-19,Putucuni Calientes (GPRS),3.29,2.08,86.2,75.55,
 2025-10-19,Quetenas (GPRS),3.4,-3.61,40.12,17.04,
 2025-10-19,Ravelo,,,,,25.5
+2025-10-19,Ravelo_M (GPRS),,,75.14,55.48,
 2025-10-19,Redencion Pampa,28.0,11.0,,,
 2025-10-19,Rincon de la Victoria,,,,,15.6
 2025-10-19,Río Chilenas (GPRS),0.75,-5.29,51.98,14.17,
@@ -60356,6 +60448,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-20,Putucuni Calientes (GPRS),2.77,1.55,69.41,35.77,
 2025-10-20,Quetenas (GPRS),4.79,0.14,13.12,3.94,
 2025-10-20,Ravelo,20.0,3.0,,,
+2025-10-20,Ravelo_M (GPRS),,,247.6,247.6,
 2025-10-20,Redencion Pampa,24.0,10.0,,,
 2025-10-20,Río Chilenas (GPRS),,,18.45,2.36,
 2025-10-20,Sacabaya,22.0,3.0,,,
@@ -60538,6 +60631,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-21,Putucuni Calientes (GPRS),2.61,-0.89,89.8,31.84,
 2025-10-21,Quetenas (GPRS),3.57,-1.25,13.92,13.92,
 2025-10-21,Ravelo,19.0,5.0,,,
+2025-10-21,Ravelo_M (GPRS),,,247.7,247.6,
 2025-10-21,Redencion Pampa,24.0,9.0,,,
 2025-10-21,Río Chilenas (GPRS),12.45,-9.53,18.11,3.99,
 2025-10-21,Sacabaya,23.8,0.0,,,
@@ -60718,6 +60812,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-22,Putucuni Calientes (GPRS),1.3,-1.22,50.96,42.15,
 2025-10-22,Quetenas (GPRS),3.98,-1.27,14.93,4.48,
 2025-10-22,Ravelo,22.0,3.0,,,
+2025-10-22,Ravelo_M (GPRS),,,247.6,247.6,
 2025-10-22,Redencion Pampa,27.0,12.0,,,
 2025-10-22,Río Chilenas (GPRS),14.31,-9.48,20.42,2.21,
 2025-10-22,Sacabaya,22.0,-3.0,,,
@@ -60908,6 +61003,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-23,Putucuni Calientes (GPRS),1.94,-1.23,79.46,65.41,
 2025-10-23,Quetenas (GPRS),2.35,-3.64,14.42,4.11,
 2025-10-23,Ravelo,22.0,6.0,,,
+2025-10-23,Ravelo_M (GPRS),,,247.7,247.6,
 2025-10-23,Redencion Pampa,28.0,11.0,,,
 2025-10-23,Riberalta_H (GPRS),,,,,13.7
 2025-10-23,Río Chilenas (GPRS),15.96,-8.62,17.0,2.7,
@@ -61106,6 +61202,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-24,Putucuni Calientes (GPRS),3.99,2.88,80.6,70.94,
 2025-10-24,Quetenas (GPRS),0.75,-5.62,16.91,10.84,
 2025-10-24,Ravelo,24.0,8.0,,,
+2025-10-24,Ravelo_M (GPRS),,,247.7,247.6,
 2025-10-24,Redencion Pampa,26.0,10.0,,,
 2025-10-24,Rincon de la Victoria,,,,,4.0
 2025-10-24,Río Chilenas (GPRS),14.92,-8.12,23.78,12.53,
@@ -61305,6 +61402,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-25,Putucuni Calientes (GPRS),6.65,4.61,73.74,61.23,
 2025-10-25,Quetenas (GPRS),5.1,2.87,28.52,11.07,
 2025-10-25,Ravelo,23.0,9.0,,,
+2025-10-25,Ravelo_M (GPRS),,,247.7,247.6,
 2025-10-25,Redencion Pampa,,,,,4.0
 2025-10-25,Río Chilenas (GPRS),14.09,1.06,28.64,7.95,
 2025-10-25,Sacabaya,20.8,2.0,,,
@@ -61523,6 +61621,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-26,Putucuni Calientes (GPRS),4.02,2.9,89.5,79.98,
 2025-10-26,Quetenas (GPRS),0.5,-5.65,28.41,6.03,
 2025-10-26,Ravelo,19.0,9.0,,,
+2025-10-26,Ravelo_M (GPRS),,,247.6,247.6,
 2025-10-26,Redencion Pampa,24.0,11.0,,,
 2025-10-26,Riberalta_H (GPRS),,,,,13.9
 2025-10-26,Rincon de la Victoria,,,,,11.0
@@ -61735,6 +61834,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-27,Putucuni Calientes (GPRS),4.39,2.84,70.2,56.94,
 2025-10-27,Quetenas (GPRS),-0.91,-7.38,19.12,7.31,
 2025-10-27,Ravelo,20.0,8.0,,,
+2025-10-27,Ravelo_M (GPRS),,,247.6,247.6,
 2025-10-27,Redencion Pampa,,,,,4.0
 2025-10-27,Riberalta_H (GPRS),,,,,28.0
 2025-10-27,Rincon de la Victoria,,,,,1.0
@@ -61951,6 +62051,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-28,Putucuni Calientes (GPRS),3.65,1.78,86.6,63.69,
 2025-10-28,Quetenas (GPRS),-0.42,-8.27,23.62,6.11,
 2025-10-28,Ravelo,,,,,15.0
+2025-10-28,Ravelo_M (GPRS),,,247.6,247.6,0.1
 2025-10-28,Redencion Pampa,22.0,10.0,,,
 2025-10-28,Río Chilenas (GPRS),11.97,-10.59,25.59,4.3,
 2025-10-28,Sacabaya,19.1,-5.8,,,
@@ -62163,6 +62264,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-29,Putucuni Calientes (GPRS),2.74,2.13,93.9,90.0,0.1
 2025-10-29,Quetenas (GPRS),-0.17,-5.11,19.04,4.46,
 2025-10-29,Ravelo,,,,,3.0
+2025-10-29,Ravelo_M (GPRS),,,247.6,247.6,
 2025-10-29,Redencion Pampa,,,,,2.0
 2025-10-29,Riberalta_H (GPRS),,,,,1.2
 2025-10-29,Rincon de la Victoria,,,,,7.6
@@ -62384,6 +62486,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-30,Putucuni Calientes (GPRS),2.64,0.83,48.49,43.69,
 2025-10-30,Quetenas (GPRS),-1.25,-5.22,12.19,4.19,
 2025-10-30,Ravelo,20.0,6.0,,,
+2025-10-30,Ravelo_M (GPRS),,,247.6,247.6,
 2025-10-30,Redencion Pampa,24.0,10.0,,,
 2025-10-30,Río Chilenas (GPRS),9.22,-5.11,12.08,3.92,
 2025-10-30,Sacabaya,18.0,-3.0,,,
@@ -62580,6 +62683,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-10-31,Putucuni Calientes (GPRS),3.1,0.66,83.2,67.1,
 2025-10-31,Quetenas (GPRS),0.9,-2.81,18.86,6.69,
 2025-10-31,Ravelo,23.0,5.0,,,
+2025-10-31,Ravelo_M (GPRS),,,247.7,247.6,
 2025-10-31,Redencion Pampa,26.0,11.0,,,
 2025-10-31,Río Chilenas (GPRS),-8.22,-12.14,20.19,4.44,
 2025-10-31,Sacabaya,18.5,-1.5,,,
@@ -62775,6 +62879,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-01,Putucuni Calientes (GPRS),4.72,2.28,64.79,54.54,
 2025-11-01,Quetenas (GPRS),-2.23,-6.89,12.34,3.6,
 2025-11-01,Ravelo,25.0,8.0,,,
+2025-11-01,Ravelo_M (GPRS),,,247.7,247.6,
 2025-11-01,Redencion Pampa,26.0,10.0,,,
 2025-11-01,Río Chilenas (GPRS),,,20.77,3.04,
 2025-11-01,Sacabaya,19.1,-0.5,,,
@@ -62968,6 +63073,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-02,Putucuni Calientes (GPRS),6.62,4.71,78.76,63.45,
 2025-11-02,Quetenas (GPRS),-0.52,-7.05,20.53,4.29,
 2025-11-02,Ravelo,21.0,7.0,,,
+2025-11-02,Ravelo_M (GPRS),,,247.7,247.6,
 2025-11-02,Redencion Pampa,25.0,10.0,,,
 2025-11-02,Río Chilenas (GPRS),12.75,-10.44,17.13,2.48,
 2025-11-02,Sacabaya,20.5,-1.0,,,
@@ -63155,6 +63261,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-03,Putucuni Calientes (GPRS),5.66,0.42,43.15,22.39,
 2025-11-03,Quetenas (GPRS),-3.82,-6.71,7.31,7.31,
 2025-11-03,Ravelo,23.0,8.0,,,
+2025-11-03,Ravelo_M (GPRS),,,247.7,247.6,
 2025-11-03,Redencion Pampa,26.0,10.0,,,
 2025-11-03,Río Chilenas (GPRS),14.46,-10.77,13.78,1.93,
 2025-11-03,Sacabaya,22.0,-6.8,,,
@@ -63335,6 +63442,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-04,Putucuni Calientes (GPRS),5.62,3.14,75.84,30.63,
 2025-11-04,Quetenas (GPRS),1.92,-6.09,2.74,0.71,
 2025-11-04,Ravelo,26.0,2.0,,,
+2025-11-04,Ravelo_M (GPRS),,,247.7,247.6,
 2025-11-04,Redencion Pampa,25.0,10.0,,,
 2025-11-04,Riberalta_H (GPRS),,,,,0.1
 2025-11-04,Río Chilenas (GPRS),15.65,-3.82,14.81,1.24,
@@ -63520,6 +63628,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-05,Putucuni Calientes (GPRS),3.69,0.63,37.02,22.04,
 2025-11-05,Quetenas (GPRS),1.76,-5.35,10.71,2.07,
 2025-11-05,Ravelo,21.0,6.0,,,
+2025-11-05,Ravelo_M (GPRS),,,247.6,247.6,
 2025-11-05,Redencion Pampa,28.0,12.0,,,
 2025-11-05,Río Chilenas (GPRS),-8.36,-10.02,15.25,2.03,
 2025-11-05,Sacabaya,23.0,-4.0,,,
@@ -63713,6 +63822,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-06,Putucuni Calientes (GPRS),2.26,-0.85,78.9,52.0,
 2025-11-06,Quetenas (GPRS),3.11,-3.64,9.41,4.83,
 2025-11-06,Ravelo,21.0,6.0,,,11.0
+2025-11-06,Ravelo_M (GPRS),,,247.6,247.6,
 2025-11-06,Redencion Pampa,27.0,11.0,,,
 2025-11-06,Rincon de la Victoria,,,,,6.7
 2025-11-06,Río Chilenas (GPRS),,,20.3,5.07,
@@ -63910,6 +64020,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-07,Putucuni Calientes (GPRS),7.53,4.24,54.39,37.18,
 2025-11-07,Quetenas (GPRS),2.49,-3.09,7.19,1.04,
 2025-11-07,Ravelo,27.0,9.0,,,
+2025-11-07,Ravelo_M (GPRS),,,247.7,247.6,
 2025-11-07,Redencion Pampa,26.0,11.0,,,
 2025-11-07,Río Chilenas (GPRS),16.14,-2.06,25.74,1.02,
 2025-11-07,Sacabaya,23.5,-1.5,,,
@@ -64108,6 +64219,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-08,Putucuni Calientes (GPRS),4.77,2.6,90.8,76.41,
 2025-11-08,Quetenas (GPRS),0.48,-6.81,13.07,1.45,
 2025-11-08,Ravelo,18.0,8.0,,,
+2025-11-08,Ravelo_M (GPRS),,,247.6,247.6,
 2025-11-08,Redencion Pampa,25.0,10.0,,,
 2025-11-08,Rincon de la Victoria,,,,,2.5
 2025-11-08,Río Chilenas (GPRS),-1.73,-4.21,11.97,2.08,
@@ -64316,6 +64428,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-09,Putucuni Calientes (GPRS),3.45,2.44,52.18,43.67,
 2025-11-09,Quetenas (GPRS),4.12,1.65,9.59,3.04,
 2025-11-09,Ravelo,22.0,7.0,,,
+2025-11-09,Ravelo_M (GPRS),,,247.7,247.6,
 2025-11-09,Redencion Pampa,27.0,12.0,,,
 2025-11-09,Riberalta_H (GPRS),,,,,0.7
 2025-11-09,Río Chilenas (GPRS),1.94,0.53,20.32,3.44,
@@ -64522,6 +64635,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-10,Putucuni Calientes (GPRS),4.18,2.33,92.5,87.4,
 2025-11-10,Quetenas (GPRS),7.98,4.74,14.19,10.85,
 2025-11-10,Ravelo,20.0,8.0,,,
+2025-11-10,Ravelo_M (GPRS),,,247.6,247.6,
 2025-11-10,Redencion Pampa,23.0,9.0,,,
 2025-11-10,Riberalta_H (GPRS),,,,,0.4
 2025-11-10,Río Chilenas (GPRS),5.66,1.6,24.07,15.17,
@@ -64720,6 +64834,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-11,Putucuni Calientes (GPRS),3.11,0.66,83.2,72.32,
 2025-11-11,Quetenas (GPRS),3.4,-1.03,11.66,4.32,
 2025-11-11,Ravelo,23.0,8.0,,,
+2025-11-11,Ravelo_M (GPRS),,,247.7,247.6,
 2025-11-11,Redencion Pampa,23.0,10.0,,,
 2025-11-11,Río Chilenas (GPRS),,,20.31,3.69,
 2025-11-11,Sacabaya,22.0,-1.0,,,
@@ -64922,6 +65037,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-12,Putucuni Calientes (GPRS),4.43,1.71,87.6,74.82,0.5
 2025-11-12,Quetenas (GPRS),4.21,1.08,15.05,4.93,
 2025-11-12,Ravelo,22.0,7.0,,,
+2025-11-12,Ravelo_M (GPRS),,,247.7,247.6,
 2025-11-12,Redencion Pampa,24.0,13.0,,,
 2025-11-12,Riberalta_H (GPRS),,,,,0.2
 2025-11-12,Río Chilenas (GPRS),13.17,-6.92,17.2,9.28,
@@ -65139,6 +65255,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-13,Putucuni Calientes (GPRS),3.04,0.56,87.4,68.25,
 2025-11-13,Quetenas (GPRS),6.39,-0.1,45.29,18.93,
 2025-11-13,Ravelo,18.0,6.0,,,66.5
+2025-11-13,Ravelo_M (GPRS),,,247.6,247.6,
 2025-11-13,Redencion Pampa,24.0,10.0,,,35.0
 2025-11-13,Riberalta_H (GPRS),,,,,0.4
 2025-11-13,Rincon de la Victoria,,,,,17.8
@@ -65375,6 +65492,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-14,Putucuni Calientes (GPRS),3.71,2.12,94.3,80.2,1.6
 2025-11-14,Quetenas (GPRS),5.88,-0.08,37.33,14.16,
 2025-11-14,Ravelo,16.0,8.0,,,9.3
+2025-11-14,Ravelo_M (GPRS),,,247.6,247.6,
 2025-11-14,Redencion Pampa,23.0,12.0,,,
 2025-11-14,Riberalta_H (GPRS),,,,,3.8
 2025-11-14,Rincon de la Victoria,,,,,15.7
@@ -65585,6 +65703,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-15,Putucuni Calientes (GPRS),4.33,3.32,86.0,71.44,
 2025-11-15,Quetenas (GPRS),2.12,-1.65,28.08,13.97,
 2025-11-15,Ravelo,22.0,7.0,,,
+2025-11-15,Ravelo_M (GPRS),,,247.6,247.6,
 2025-11-15,Redencion Pampa,28.0,10.0,,,
 2025-11-15,Riberalta_H (GPRS),,,,,5.6
 2025-11-15,Río Chilenas (GPRS),15.82,-4.72,63.96,3.42,
@@ -65775,6 +65894,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-16,Putucuni Calientes (GPRS),3.72,0.53,67.76,57.08,
 2025-11-16,Quetenas (GPRS),5.36,-0.37,8.79,1.73,
 2025-11-16,Ravelo,26.0,8.0,,,
+2025-11-16,Ravelo_M (GPRS),,,247.7,247.6,
 2025-11-16,Redencion Pampa,27.0,9.0,,,
 2025-11-16,Riberalta_H (GPRS),,,,,0.2
 2025-11-16,Rosario del Ingre,,,,,14.0
@@ -65975,6 +66095,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-17,Putucuni Calientes (GPRS),7.21,5.81,98.4,60.45,9.1
 2025-11-17,Quetenas (GPRS),-0.76,-4.92,17.17,2.49,
 2025-11-17,Ravelo,17.0,10.0,,,
+2025-11-17,Ravelo_M (GPRS),,,247.6,247.6,
 2025-11-17,Redencion Pampa,23.0,6.0,,,
 2025-11-17,Riberalta_H (GPRS),,,,,2.1
 2025-11-17,Río Chilenas (GPRS),12.14,-12.62,14.85,3.1,
@@ -66188,6 +66309,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-18,Putucuni Calientes (GPRS),3.03,1.36,81.8,56.66,
 2025-11-18,Quetenas (GPRS),1.26,-4.43,16.33,10.03,
 2025-11-18,Ravelo,20.0,3.0,,,
+2025-11-18,Ravelo_M (GPRS),,,247.6,247.6,1.0
 2025-11-18,Redencion Pampa,30.0,8.0,,,
 2025-11-18,Río Chilenas (GPRS),14.84,-9.25,24.81,8.54,
 2025-11-18,Sacabaya,19.0,-10.0,,,
@@ -66239,6 +66361,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-18,Tiraque_M (GPRS),5.72,4.68,69.58,34.97,
 2025-11-18,Todos Santos_Or,19.0,-2.5,,,
 2025-11-18,Toledo (GPRS),4.13,-1.13,21.19,9.16,
+2025-11-18,Toma Ravelo_M (GPRS),,,66.73,38.29,
 2025-11-18,Tomave,24.1,-3.5,,,
 2025-11-18,Toralapa Iniaf (GPRS),4.1,3.6,74.8,43.7,
 2025-11-18,Totora Qhocha_M,2.78,2.42,59.3,44.9,
@@ -66376,6 +66499,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-19,Putucuni Calientes (GPRS),1.99,-1.01,81.5,55.9,
 2025-11-19,Quetenas (GPRS),5.27,1.23,24.5,18.54,
 2025-11-19,Ravelo,20.0,1.0,,,
+2025-11-19,Ravelo_M (GPRS),,,247.6,247.6,
 2025-11-19,Redencion Pampa,24.0,8.0,,,
 2025-11-19,Río Chilenas (GPRS),12.27,-4.19,44.5,14.63,
 2025-11-19,Sacabaya,19.0,-2.5,,,
@@ -66424,6 +66548,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-19,Tiraque_M (GPRS),8.37,5.95,37.0,22.91,
 2025-11-19,Todos Santos_Or,18.0,0.5,,,
 2025-11-19,Toledo (GPRS),8.41,3.02,44.36,30.19,
+2025-11-19,Toma Ravelo_M (GPRS),,,73.45,24.76,
 2025-11-19,Tomave,21.2,-2.5,,,
 2025-11-19,Toralapa Iniaf (GPRS),7.7,1.5,36.5,25.1,
 2025-11-19,Totora Qhocha_M,5.8,3.83,37.91,34.26,
@@ -66572,6 +66697,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-20,Putucuni Calientes (GPRS),3.21,0.82,76.05,60.72,
 2025-11-20,Quetenas (GPRS),3.27,-1.45,46.31,12.71,
 2025-11-20,Ravelo,21.0,2.0,,,
+2025-11-20,Ravelo_M (GPRS),,,247.6,247.6,
 2025-11-20,Redencion Pampa,20.0,9.0,,,
 2025-11-20,Río Chilenas (GPRS),14.39,-5.67,53.36,10.79,
 2025-11-20,Sacabaya,20.0,-2.0,,,
@@ -66620,6 +66746,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-20,Tiraque_M (GPRS),8.43,6.54,47.89,31.93,
 2025-11-20,Todos Santos_Or,19.5,2.5,,,
 2025-11-20,Toledo (GPRS),5.02,2.55,55.96,35.75,
+2025-11-20,Toma Ravelo_M (GPRS),,,85.4,31.71,
 2025-11-20,Tomave,24.2,2.0,,,
 2025-11-20,Toralapa Iniaf (GPRS),6.9,2.9,56.3,40.0,
 2025-11-20,Totora Qhocha_M,5.28,2.98,58.44,42.83,
@@ -66770,6 +66897,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-21,Putucuni Calientes (GPRS),5.12,2.81,45.05,36.37,
 2025-11-21,Quetenas (GPRS),1.34,-1.17,20.01,6.37,
 2025-11-21,Ravelo,23.0,5.0,,,
+2025-11-21,Ravelo_M (GPRS),,,247.7,247.6,
 2025-11-21,Redencion Pampa,25.0,11.0,,,
 2025-11-21,Riberalta_H (GPRS),,,,,18.8
 2025-11-21,Río Chilenas (GPRS),-0.01,-0.01,24.68,5.33,
@@ -66817,6 +66945,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-21,Tiraque_M (GPRS),10.08,7.4,39.12,32.01,
 2025-11-21,Todos Santos_Or,16.5,4.0,,,
 2025-11-21,Toledo (GPRS),5.26,0.9,29.51,26.2,
+2025-11-21,Toma Ravelo_M (GPRS),,,88.2,16.12,1.2
 2025-11-21,Tomave,24.0,-1.0,,,
 2025-11-21,Toralapa Iniaf (GPRS),6.1,4.6,43.5,23.4,
 2025-11-21,Totora Qhocha_M,6.66,5.28,39.1,37.05,
@@ -66961,6 +67090,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-22,Putucuni Calientes (GPRS),2.96,0.69,87.0,68.71,
 2025-11-22,Quetenas (GPRS),3.54,-0.86,29.16,6.49,
 2025-11-22,Ravelo,17.0,8.0,,,
+2025-11-22,Ravelo_M (GPRS),,,247.6,247.6,0.9
 2025-11-22,Redencion Pampa,27.0,11.0,,,
 2025-11-22,Riberalta_H (GPRS),,,,,1.0
 2025-11-22,Rincon de la Victoria,,,,,42.7
@@ -67011,6 +67141,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-22,Tiraque_M (GPRS),11.34,8.41,68.76,53.68,
 2025-11-22,Todos Santos_Or,20.0,2.5,,,
 2025-11-22,Toledo (GPRS),7.86,4.53,54.99,30.6,
+2025-11-22,Toma Ravelo_M (GPRS),,,89.5,56.38,1.4
 2025-11-22,Tomave,24.5,-1.5,,,
 2025-11-22,Toralapa Iniaf (GPRS),9.6,5.7,77.1,61.7,
 2025-11-22,Totora Qhocha_M,7.77,5.6,81.2,64.41,
@@ -67168,6 +67299,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-23,Putucuni Calientes (GPRS),4.92,2.66,95.6,81.1,
 2025-11-23,Quetenas (GPRS),3.17,-1.5,15.35,8.37,
 2025-11-23,Ravelo,12.0,8.0,,,
+2025-11-23,Ravelo_M (GPRS),,,247.6,247.6,
 2025-11-23,Redencion Pampa,24.0,12.0,,,20.0
 2025-11-23,Río Chilenas (GPRS),1.32,-8.46,22.85,4.21,
 2025-11-23,Sacabaya,23.0,-7.0,,,
@@ -67217,6 +67349,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-23,Tiraque_M (GPRS),9.56,8.07,76.71,46.49,
 2025-11-23,Todos Santos_Or,18.5,3.5,,,
 2025-11-23,Toledo (GPRS),7.46,2.6,58.94,28.37,
+2025-11-23,Toma Ravelo_M (GPRS),,,91.7,79.6,
 2025-11-23,Tomave,24.0,0.5,,,
 2025-11-23,Toralapa Iniaf (GPRS),7.1,4.0,86.8,54.4,
 2025-11-23,Totora Qhocha_M,6.51,4.62,78.91,59.71,
@@ -67365,6 +67498,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-24,Putucuni Calientes (GPRS),2.77,1.34,83.3,73.81,
 2025-11-24,Quetenas (GPRS),3.75,-1.51,19.95,6.01,
 2025-11-24,Ravelo,17.0,8.0,,,9.5
+2025-11-24,Ravelo_M (GPRS),,,247.6,247.6,1.5
 2025-11-24,Redencion Pampa,26.0,13.0,,,
 2025-11-24,Río Chilenas (GPRS),1.39,-4.34,62.9,10.26,
 2025-11-24,Sacabaya,21.5,-1.4,,,
@@ -67415,6 +67549,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-24,Tiraque_M (GPRS),8.89,7.86,63.11,42.01,
 2025-11-24,Todos Santos_Or,21.0,2.0,,,
 2025-11-24,Toledo (GPRS),6.12,3.95,60.11,27.12,
+2025-11-24,Toma Ravelo_M (GPRS),,,81.5,53.05,0.1
 2025-11-24,Tomave,24.5,-0.5,,,
 2025-11-24,Toralapa Iniaf (GPRS),6.7,5.9,73.6,49.3,
 2025-11-24,Totora Qhocha_M,6.0,5.47,65.63,52.34,
@@ -67566,6 +67701,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-25,Putucuni Calientes (GPRS),3.54,0.29,66.12,55.55,
 2025-11-25,Quetenas (GPRS),4.18,-1.61,15.5,3.43,
 2025-11-25,Ravelo,19.0,7.0,,,
+2025-11-25,Ravelo_M (GPRS),,,247.6,247.6,
 2025-11-25,Redencion Pampa,24.0,12.0,,,
 2025-11-25,Río Chilenas (GPRS),15.24,-8.64,25.87,4.04,
 2025-11-25,Sacabaya,22.0,1.0,,,
@@ -67616,6 +67752,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-25,Tiraque_M (GPRS),9.55,8.05,61.58,42.46,
 2025-11-25,Todos Santos_Or,19.5,4.5,,,
 2025-11-25,Toledo (GPRS),6.83,2.49,19.46,10.95,
+2025-11-25,Toma Ravelo_M (GPRS),,,87.4,44.82,
 2025-11-25,Tomave,24.0,1.0,,,
 2025-11-25,Toralapa Iniaf (GPRS),8.0,3.7,69.4,50.5,
 2025-11-25,Totora Qhocha_M,6.0,4.5,72.86,52.68,
@@ -67774,6 +67911,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-26,Putucuni Calientes (GPRS),3.35,2.35,97.8,79.95,
 2025-11-26,Quetenas (GPRS),2.15,-1.42,37.18,5.09,
 2025-11-26,Ravelo,18.0,5.0,,,4.2
+2025-11-26,Ravelo_M (GPRS),,,247.6,247.6,1.6
 2025-11-26,Redencion Pampa,24.0,12.0,,,3.0
 2025-11-26,Río Chilenas (GPRS),0.25,-6.01,53.45,15.56,
 2025-11-26,Sacabaya,22.0,3.4,,,
@@ -67824,6 +67962,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-26,Tiraque_M (GPRS),10.2,7.53,81.6,55.81,
 2025-11-26,Todos Santos_Or,18.0,1.5,,,
 2025-11-26,Toledo (GPRS),6.35,2.75,60.64,18.7,
+2025-11-26,Toma Ravelo_M (GPRS),,,84.4,51.35,0.9
 2025-11-26,Tomave,25.5,1.6,,,
 2025-11-26,Toralapa Iniaf (GPRS),8.3,4.9,88.4,72.3,
 2025-11-26,Totora Qhocha_M,6.55,4.62,86.4,79.38,
@@ -67966,6 +68105,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-27,Putucuni Calientes (GPRS),3.27,2.54,81.8,58.27,
 2025-11-27,Quetenas (GPRS),2.7,-1.21,12.13,4.27,
 2025-11-27,Ravelo,24.0,5.0,,,
+2025-11-27,Ravelo_M (GPRS),,,247.7,247.6,
 2025-11-27,Redencion Pampa,28.0,11.0,,,
 2025-11-27,Riberalta_H (GPRS),,,,,0.7
 2025-11-27,Río Chilenas (GPRS),16.0,-9.99,50.43,2.51,
@@ -68013,6 +68153,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-27,Tiraque_M (GPRS),8.57,7.92,58.59,35.66,
 2025-11-27,Todos Santos_Or,20.5,3.5,,,
 2025-11-27,Toledo (GPRS),7.55,4.53,59.94,25.84,
+2025-11-27,Toma Ravelo_M (GPRS),,,80.1,23.93,
 2025-11-27,Tomave,26.0,1.5,,,
 2025-11-27,Toralapa Iniaf (GPRS),9.0,5.9,61.4,44.0,
 2025-11-27,Totora Qhocha_M,7.11,5.41,65.17,54.76,
@@ -68153,6 +68294,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-28,Putucuni Calientes (GPRS),3.35,1.86,74.31,51.16,
 2025-11-28,Quetenas (GPRS),4.33,0.33,30.32,19.4,
 2025-11-28,Ravelo,25.0,5.0,,,
+2025-11-28,Ravelo_M (GPRS),,,247.7,247.6,
 2025-11-28,Redencion Pampa,28.0,12.0,,,
 2025-11-28,Riberalta_H (GPRS),,,,,8.5
 2025-11-28,Rincon de la Victoria,,,,,9.5
@@ -68205,6 +68347,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-28,Tiraque_M (GPRS),9.05,7.73,54.08,37.19,
 2025-11-28,Todos Santos_Or,21.0,4.0,,,
 2025-11-28,Toledo (GPRS),7.08,4.34,52.64,21.05,
+2025-11-28,Toma Ravelo_M (GPRS),,,80.7,31.94,
 2025-11-28,Tomave,22.0,2.0,,,
 2025-11-28,Toralapa Iniaf (GPRS),4.3,2.1,62.4,44.7,
 2025-11-28,Totora Qhocha_M,7.56,4.03,68.43,49.61,
@@ -68362,6 +68505,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-29,Putucuni Calientes (GPRS),3.81,2.44,81.8,69.33,
 2025-11-29,Quetenas (GPRS),5.72,2.18,50.93,25.28,
 2025-11-29,Ravelo,22.0,6.0,,,
+2025-11-29,Ravelo_M (GPRS),,,247.6,247.6,
 2025-11-29,Redencion Pampa,27.0,11.0,,,
 2025-11-29,Riberalta_H (GPRS),,,,,1.5
 2025-11-29,Río Chilenas (GPRS),2.7,1.21,70.71,30.69,
@@ -68413,6 +68557,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-29,Tiraque_M (GPRS),10.21,8.35,54.78,44.37,
 2025-11-29,Todos Santos_Or,17.5,5.5,,,0.5
 2025-11-29,Toledo (GPRS),9.56,7.06,60.81,33.7,
+2025-11-29,Toma Ravelo_M (GPRS),,,72.12,37.87,
 2025-11-29,Tomave,23.0,4.5,,,
 2025-11-29,Toralapa Iniaf (GPRS),9.6,6.3,66.8,50.9,
 2025-11-29,Totora Qhocha_M,7.77,5.93,65.82,54.72,
@@ -68583,6 +68728,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-30,Putucuni Calientes (GPRS),4.0,3.01,92.7,76.27,0.1
 2025-11-30,Quetenas (GPRS),3.89,0.89,30.02,16.09,
 2025-11-30,Ravelo,21.0,10.0,,,
+2025-11-30,Ravelo_M (GPRS),,,247.7,247.6,
 2025-11-30,Redencion Pampa,29.0,13.0,,,
 2025-11-30,Riberalta_H (GPRS),,,,,12.9
 2025-11-30,Río Chilenas (GPRS),1.15,-5.54,40.45,22.15,
@@ -68637,6 +68783,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-11-30,Tiraque_M (GPRS),9.55,7.49,63.97,52.76,
 2025-11-30,Todos Santos_Or,19.5,4.0,,,
 2025-11-30,Toledo (GPRS),5.67,4.53,77.28,45.31,
+2025-11-30,Toma Ravelo_M (GPRS),,,69.21,35.28,
 2025-11-30,Tomave,24.0,3.0,,,
 2025-11-30,Toralapa Iniaf (GPRS),6.1,3.9,74.2,63.0,
 2025-11-30,Totora Qhocha_M,7.89,5.01,76.52,62.58,
@@ -68812,6 +68959,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-01,Putucuni Calientes (GPRS),5.15,3.61,85.5,79.34,
 2025-12-01,Quetenas (GPRS),4.9,1.67,17.95,12.09,
 2025-12-01,Ravelo,22.0,9.0,,,
+2025-12-01,Ravelo_M (GPRS),,,247.7,247.6,
 2025-12-01,Redencion Pampa,28.0,13.0,,,
 2025-12-01,Rincon de la Victoria,,,,,75.5
 2025-12-01,Río Chilenas (GPRS),18.02,-3.44,31.02,5.26,
@@ -68869,6 +69017,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-01,Tiraque_M (GPRS),11.52,10.06,67.43,56.5,
 2025-12-01,Todos Santos_Or,19.5,1.8,,,
 2025-12-01,Toledo (GPRS),8.2,5.33,30.23,24.3,
+2025-12-01,Toma Ravelo_M (GPRS),,,86.2,35.24,
 2025-12-01,Tomave,24.0,2.5,,,
 2025-12-01,Toralapa Iniaf (GPRS),10.5,7.9,74.0,60.5,
 2025-12-01,Totora Qhocha_M,8.75,7.44,84.7,69.68,
@@ -69053,6 +69202,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-02,Putucuni Calientes (GPRS),3.68,3.11,95.1,75.58,0.1
 2025-12-02,Quetenas (GPRS),4.65,1.94,17.88,7.03,
 2025-12-02,Ravelo,19.0,9.0,,,
+2025-12-02,Ravelo_M (GPRS),,,247.6,247.6,0.3
 2025-12-02,Redencion Pampa,29.0,14.0,,,
 2025-12-02,Rincon de la Victoria,,,,,3.5
 2025-12-02,Rosario del Ingre,,,,,11.0
@@ -69113,6 +69263,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-02,Tiraque_M (GPRS),10.47,9.1,80.0,63.73,
 2025-12-02,Todos Santos_Or,17.0,2.5,,,
 2025-12-02,Toledo (GPRS),10.22,9.01,56.52,39.84,
+2025-12-02,Toma Ravelo_M (GPRS),,,73.62,46.21,0.4
 2025-12-02,Tomave,26.0,3.5,,,
 2025-12-02,Toralapa Iniaf (GPRS),13.4,6.6,98.0,69.2,8.4
 2025-12-02,Totora Qhocha_M,8.03,6.65,94.6,78.14,
@@ -69282,6 +69433,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-03,Putucuni Calientes (GPRS),4.1,3.29,96.7,93.0,0.8
 2025-12-03,Quetenas (GPRS),5.71,2.43,40.25,22.93,
 2025-12-03,Ravelo,19.0,7.0,,,
+2025-12-03,Ravelo_M (GPRS),,,247.6,247.6,
 2025-12-03,Redencion Pampa,,,,,3.0
 2025-12-03,Riberalta_H (GPRS),,,,,5.8
 2025-12-03,Rosario del Ingre,,,,,15.0
@@ -69340,6 +69492,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-03,Tiraque_M (GPRS),10.33,8.88,92.4,74.92,1.7
 2025-12-03,Todos Santos_Or,18.0,2.0,,,1.2
 2025-12-03,Toledo (GPRS),7.41,5.44,69.45,36.68,
+2025-12-03,Toma Ravelo_M (GPRS),,,76.02,45.77,
 2025-12-03,Tomave,25.1,5.5,,,20.5
 2025-12-03,Toralapa Iniaf (GPRS),7.5,6.5,97.9,85.2,0.2
 2025-12-03,Totora Qhocha_M,7.24,6.26,99.5,91.5,0.2
@@ -69517,6 +69670,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-04,Putucuni Calientes (GPRS),3.61,2.46,99.1,81.4,
 2025-12-04,Quetenas (GPRS),6.26,4.51,67.35,34.89,
 2025-12-04,Ravelo,20.0,8.0,,,
+2025-12-04,Ravelo_M (GPRS),,,247.6,247.6,
 2025-12-04,Redencion Pampa,,,,,3.0
 2025-12-04,Riberalta_H (GPRS),,,,,20.1
 2025-12-04,Rincon de la Victoria,,,,,15.0
@@ -69579,6 +69733,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-04,Tiraque_M (GPRS),10.1,9.22,78.19,63.45,0.1
 2025-12-04,Todos Santos_Or,15.0,3.5,,,2.1
 2025-12-04,Toledo (GPRS),7.85,5.84,70.53,47.5,
+2025-12-04,Toma Ravelo_M (GPRS),,,86.4,39.13,0.2
 2025-12-04,Tomave,26.0,6.0,,,
 2025-12-04,Toralapa Iniaf (GPRS),8.5,7.8,88.3,70.7,
 2025-12-04,Totora Qhocha_M,6.72,5.47,89.3,73.2,
@@ -69763,6 +69918,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-05,Putucuni Calientes (GPRS),2.98,1.85,83.2,71.08,
 2025-12-05,Quetenas (GPRS),2.36,1.48,77.35,50.99,
 2025-12-05,Ravelo,,,,,12.6
+2025-12-05,Ravelo_M (GPRS),,,247.6,247.6,
 2025-12-05,Redencion Pampa,26.0,16.0,,,
 2025-12-05,Riberalta_H (GPRS),,,,,3.3
 2025-12-05,Río Chilenas (GPRS),11.51,-0.35,91.7,26.41,2.5
@@ -69823,6 +69979,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-05,Tiraque_M (GPRS),7.85,7.01,76.24,56.17,
 2025-12-05,Todos Santos_Or,17.5,-3.0,,,7.1
 2025-12-05,Toledo (GPRS),5.07,4.49,88.2,67.32,
+2025-12-05,Toma Ravelo_M (GPRS),,,94.3,56.03,4.3
 2025-12-05,Tomave,24.0,4.0,,,
 2025-12-05,Toralapa Iniaf (GPRS),6.2,5.0,76.9,71.9,
 2025-12-05,Totora Qhocha_M,6.26,4.95,83.7,76.45,
@@ -70010,6 +70167,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-06,Putucuni Calientes (GPRS),2.19,1.34,88.3,81.0,
 2025-12-06,Quetenas (GPRS),3.82,0.53,41.99,25.97,
 2025-12-06,Ravelo,,,,,9.5
+2025-12-06,Ravelo_M (GPRS),,,247.6,247.6,0.1
 2025-12-06,Redencion Pampa,24.0,14.0,,,
 2025-12-06,Riberalta_H (GPRS),,,,,1.7
 2025-12-06,Rincon de la Victoria,,,,,7.0
@@ -70068,6 +70226,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-06,Tiraque_M (GPRS),10.43,9.17,89.3,72.2,
 2025-12-06,Todos Santos_Or,17.0,1.5,,,
 2025-12-06,Toledo (GPRS),6.29,5.38,56.66,41.47,
+2025-12-06,Toma Ravelo_M (GPRS),,,88.5,59.77,22.3
 2025-12-06,Tomave,26.0,4.0,,,
 2025-12-06,Toralapa Iniaf (GPRS),8.9,7.7,100.0,88.5,1.8
 2025-12-06,Totora Qhocha_M,7.31,6.78,96.4,83.5,
@@ -70239,6 +70398,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-07,Putucuni Calientes (GPRS),3.19,1.83,95.5,80.3,
 2025-12-07,Quetenas (GPRS),4.9,-0.05,39.21,20.04,
 2025-12-07,Ravelo,,,,,5.5
+2025-12-07,Ravelo_M (GPRS),,,247.6,247.6,
 2025-12-07,Redencion Pampa,25.0,13.0,,,
 2025-12-07,Riberalta_H (GPRS),,,,,2.5
 2025-12-07,Rincon de la Victoria,,,,,11.8
@@ -70292,6 +70452,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-07,Tiraque_M (GPRS),9.81,8.65,77.94,65.16,
 2025-12-07,Todos Santos_Or,17.1,2.0,,,
 2025-12-07,Toledo (GPRS),9.26,4.21,38.21,30.09,
+2025-12-07,Toma Ravelo_M (GPRS),,,76.76,54.13,0.8
 2025-12-07,Tomave,22.0,3.1,,,
 2025-12-07,Toralapa Iniaf (GPRS),7.7,6.7,86.3,72.4,
 2025-12-07,Totora Qhocha_M,5.86,5.08,89.5,78.66,
@@ -70450,6 +70611,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-08,Putucuni Calientes (GPRS),4.82,3.39,89.7,77.37,
 2025-12-08,Quetenas (GPRS),5.76,1.22,8.53,4.15,
 2025-12-08,Ravelo,20.0,10.0,,,
+2025-12-08,Ravelo_M (GPRS),,,247.6,247.6,
 2025-12-08,Redencion Pampa,26.0,13.0,,,
 2025-12-08,Río Chilenas (GPRS),17.03,-5.11,27.02,3.52,
 2025-12-08,Sacabaya,23.0,3.0,,,
@@ -70500,6 +70662,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-08,Tiraque_M (GPRS),10.14,8.77,72.55,60.6,
 2025-12-08,Todos Santos_Or,18.0,1.5,,,
 2025-12-08,Toledo (GPRS),6.61,1.05,32.83,14.49,
+2025-12-08,Toma Ravelo_M (GPRS),,,81.8,47.59,
 2025-12-08,Tomave,26.0,2.5,,,
 2025-12-08,Toralapa Iniaf (GPRS),9.5,6.4,83.4,65.0,
 2025-12-08,Totora Qhocha_M,8.03,6.09,92.6,70.92,
@@ -70649,6 +70812,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-09,Putucuni Calientes (GPRS),5.14,4.04,89.0,79.03,
 2025-12-09,Quetenas (GPRS),5.49,2.09,12.17,2.67,
 2025-12-09,Ravelo,20.0,10.0,,,
+2025-12-09,Ravelo_M (GPRS),,,247.6,247.6,
 2025-12-09,Redencion Pampa,19.0,12.0,,,
 2025-12-09,Rincon de la Victoria,,,,,6.7
 2025-12-09,Río Chilenas (GPRS),1.84,-2.06,17.91,3.41,
@@ -70701,6 +70865,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-09,Tiraque_M (GPRS),11.13,9.28,80.2,56.09,
 2025-12-09,Todos Santos_Or,20.0,1.0,,,
 2025-12-09,Toledo (GPRS),10.06,4.69,57.96,30.12,
+2025-12-09,Toma Ravelo_M (GPRS),,,80.2,56.03,
 2025-12-09,Tomave,25.0,3.0,,,
 2025-12-09,Toralapa Iniaf (GPRS),16.8,7.3,98.5,55.7,
 2025-12-09,Totora Qhocha_M,9.21,7.95,83.0,67.74,
@@ -70835,6 +71000,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-10,Putucuni Calientes (GPRS),6.48,3.59,78.06,51.53,
 2025-12-10,Quetenas (GPRS),6.14,2.28,11.0,3.11,
 2025-12-10,Ravelo,21.0,10.0,,,
+2025-12-10,Ravelo_M (GPRS),,,247.6,247.6,
 2025-12-10,Redencion Pampa,24.0,10.0,,,
 2025-12-10,Río Chilenas (GPRS),18.69,-3.61,25.05,3.0,
 2025-12-10,Sacabaya,25.5,-2.5,,,
@@ -70881,6 +71047,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-10,Tiraque_M (GPRS),10.99,8.63,69.34,49.0,
 2025-12-10,Todos Santos_Or,18.0,5.0,,,2.1
 2025-12-10,Toledo (GPRS),10.51,7.3,55.87,30.27,
+2025-12-10,Toma Ravelo_M (GPRS),,,78.88,55.71,
 2025-12-10,Tomave,24.2,4.5,,,
 2025-12-10,Toralapa Iniaf (GPRS),7.3,4.4,81.6,53.7,
 2025-12-10,Totora Qhocha_M,9.34,7.9,80.0,59.41,
@@ -71025,6 +71192,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-11,Putucuni Calientes (GPRS),4.23,1.98,78.59,52.29,
 2025-12-11,Quetenas (GPRS),4.72,2.3,20.23,4.85,
 2025-12-11,Ravelo,24.0,9.0,,,
+2025-12-11,Ravelo_M (GPRS),,,247.7,247.6,
 2025-12-11,Redencion Pampa,26.0,13.0,,,
 2025-12-11,Río Chilenas (GPRS),15.99,-4.95,27.77,6.53,
 2025-12-11,Sacabaya,23.0,4.5,,,
@@ -71077,6 +71245,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-11,Tiraque_M (GPRS),10.33,8.63,56.62,35.89,
 2025-12-11,Todos Santos_Or,15.0,-1.0,,,
 2025-12-11,Toledo (GPRS),7.75,6.39,53.29,25.6,
+2025-12-11,Toma Ravelo_M (GPRS),,,95.8,39.12,
 2025-12-11,Tomave,26.5,3.5,,,
 2025-12-11,Toralapa Iniaf (GPRS),5.3,3.5,62.6,44.2,
 2025-12-11,Totora Qhocha_M,9.74,4.49,65.76,40.96,
@@ -71235,6 +71404,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-12,Putucuni Calientes (GPRS),5.16,1.81,89.7,23.88,4.0
 2025-12-12,Quetenas (GPRS),4.83,-0.9,10.96,4.7,
 2025-12-12,Ravelo,,,,,7.0
+2025-12-12,Ravelo_M (GPRS),,,247.7,247.6,
 2025-12-12,Redencion Pampa,24.0,14.0,,,
 2025-12-12,Rincon de la Victoria,,,,,25.0
 2025-12-12,Río Chilenas (GPRS),2.52,-5.27,15.12,7.01,
@@ -71290,6 +71460,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-12,Tiraque_M (GPRS),11.77,8.47,64.54,37.85,
 2025-12-12,Todos Santos_Or,20.0,-3.0,,,
 2025-12-12,Toledo (GPRS),6.79,1.34,21.3,10.77,
+2025-12-12,Toma Ravelo_M (GPRS),,,82.0,30.09,18.8
 2025-12-12,Tomave,22.0,6.0,,,
 2025-12-12,Toralapa Iniaf (GPRS),10.0,7.2,69.6,56.2,
 2025-12-12,Totora Qhocha_M,9.08,5.87,71.23,60.19,
@@ -71439,6 +71610,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-13,Putucuni Calientes (GPRS),6.51,3.01,74.5,60.28,
 2025-12-13,Quetenas (GPRS),0.3,-5.12,12.94,1.76,
 2025-12-13,Ravelo,22.0,7.0,,,
+2025-12-13,Ravelo_M (GPRS),,,247.7,247.6,
 2025-12-13,Redencion Pampa,23.0,12.0,,,
 2025-12-13,Río Chilenas (GPRS),13.06,-4.72,7.24,2.81,
 2025-12-13,Sacabaya,20.5,-0.5,,,
@@ -71489,6 +71661,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-13,Tiraque_M (GPRS),12.5,9.16,65.23,33.99,
 2025-12-13,Todos Santos_Or,16.0,1.5,,,
 2025-12-13,Toledo (GPRS),5.86,1.2,22.64,14.89,
+2025-12-13,Toma Ravelo_M (GPRS),,,85.1,42.39,
 2025-12-13,Tomave,21.5,3.5,,,
 2025-12-13,Toralapa Iniaf (GPRS),10.5,7.5,64.7,28.3,
 2025-12-13,Totora Qhocha_M,8.29,6.39,71.5,38.14,
@@ -71624,6 +71797,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-14,Putucuni Calientes (GPRS),6.21,4.64,55.67,42.24,
 2025-12-14,Quetenas (GPRS),2.18,-1.68,9.89,3.54,
 2025-12-14,Ravelo,26.0,6.0,,,
+2025-12-14,Ravelo_M (GPRS),,,247.7,247.6,
 2025-12-14,Redencion Pampa,23.0,11.0,,,
 2025-12-14,Río Chilenas (GPRS),16.62,-8.87,13.24,2.69,
 2025-12-14,Sacabaya,21.5,-2.9,,,
@@ -71673,6 +71847,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-14,Tiraque_M (GPRS),11.46,9.94,49.26,19.3,
 2025-12-14,Todos Santos_Or,15.5,-2.0,,,
 2025-12-14,Toledo (GPRS),4.47,-0.69,27.08,9.73,
+2025-12-14,Toma Ravelo_M (GPRS),,,79.19,8.34,
 2025-12-14,Tomave,21.6,1.5,,,
 2025-12-14,Toralapa Iniaf (GPRS),7.1,5.9,38.3,19.9,
 2025-12-14,Totora Qhocha_M,8.36,6.78,35.62,22.23,
@@ -71816,6 +71991,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-15,Putucuni Calientes (GPRS),5.94,4.57,53.97,35.22,
 2025-12-15,Quetenas (GPRS),4.43,-1.08,13.22,6.59,
 2025-12-15,Ravelo,25.0,5.0,,,
+2025-12-15,Ravelo_M (GPRS),,,247.7,247.6,
 2025-12-15,Redencion Pampa,26.0,14.0,,,
 2025-12-15,Río Chilenas (GPRS),16.64,-5.19,16.45,5.35,
 2025-12-15,Sacabaya,22.5,-1.6,,,
@@ -71865,6 +72041,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-15,Tiraque_M (GPRS),11.77,10.77,56.43,40.56,
 2025-12-15,Todos Santos_Or,18.0,1.5,,,
 2025-12-15,Toledo (GPRS),5.25,1.66,16.95,11.63,
+2025-12-15,Toma Ravelo_M (GPRS),,,92.5,39.34,
 2025-12-15,Tomave,26.0,5.0,,,
 2025-12-15,Toralapa Iniaf (GPRS),12.2,7.4,57.7,42.1,
 2025-12-15,Totora Qhocha_M,10.72,7.05,61.41,43.89,
@@ -72027,6 +72204,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-16,Putucuni Calientes (GPRS),6.1,3.96,97.9,97.9,
 2025-12-16,Quetenas (GPRS),1.54,-2.15,10.35,4.02,
 2025-12-16,Ravelo,,,,,51.2
+2025-12-16,Ravelo_M (GPRS),,,247.6,247.6,
 2025-12-16,Redencion Pampa,29.0,12.0,,,
 2025-12-16,Rosario del Ingre,,,,,21.0
 2025-12-16,Río Chilenas (GPRS),15.46,-8.91,74.3,8.38,
@@ -72082,6 +72260,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-16,Tiraque_M (GPRS),13.74,10.38,89.3,81.2,1.9
 2025-12-16,Todos Santos_Or,,3.0,,,
 2025-12-16,Toledo (GPRS),6.81,2.75,20.64,10.19,
+2025-12-16,Toma Ravelo_M (GPRS),,,93.2,74.72,30.6
 2025-12-16,Tomave,25.5,2.5,,,
 2025-12-16,Toralapa Iniaf (GPRS),11.6,7.3,100.0,94.5,2.6
 2025-12-16,Totora Qhocha_M,9.73,6.2,98.2,92.7,2.8
@@ -72235,6 +72414,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-17,Putucuni Calientes (GPRS),3.32,2.23,97.0,95.8,
 2025-12-17,Quetenas (GPRS),7.18,4.69,62.63,27.14,
 2025-12-17,Ravelo,,,,,2.6
+2025-12-17,Ravelo_M (GPRS),,,247.6,247.6,0.4
 2025-12-17,Redencion Pampa,,,,,8.0
 2025-12-17,Riberalta_H (GPRS),,,,,0.3
 2025-12-17,Río Chilenas (GPRS),16.95,-0.3,64.59,5.98,
@@ -72285,6 +72465,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-17,Tiraque_M (GPRS),7.52,5.57,65.53,55.47,
 2025-12-17,Todos Santos_Or,18.5,6.0,,,
 2025-12-17,Toledo (GPRS),7.12,5.28,54.86,42.13,
+2025-12-17,Toma Ravelo_M (GPRS),,,86.0,50.03,0.5
 2025-12-17,Tomave,26.0,3.0,,,
 2025-12-17,Toralapa Iniaf (GPRS),5.8,3.8,79.5,64.5,
 2025-12-17,Totora Qhocha_M,5.14,3.11,88.4,71.56,
@@ -72427,6 +72608,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-18,Putucuni Calientes (GPRS),4.58,1.81,71.19,58.58,
 2025-12-18,Quetenas (GPRS),4.36,1.3,27.6,7.22,
 2025-12-18,Ravelo,20.0,8.0,,,
+2025-12-18,Ravelo_M (GPRS),,,247.6,247.6,
 2025-12-18,Redencion Pampa,25.0,10.0,,,
 2025-12-18,Riberalta_H (GPRS),,,,,6.0
 2025-12-18,Río Chilenas (GPRS),17.99,-2.98,76.21,7.55,
@@ -72473,6 +72655,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-18,Tiraque_M (GPRS),9.49,8.06,68.07,51.83,
 2025-12-18,Todos Santos_Or,18.5,4.5,,,
 2025-12-18,Toledo (GPRS),8.33,3.83,61.91,34.01,
+2025-12-18,Toma Ravelo_M (GPRS),,,81.0,48.27,
 2025-12-18,Tomave,26.4,3.1,,,
 2025-12-18,Toralapa Iniaf (GPRS),6.3,4.7,80.3,58.9,
 2025-12-18,Totora Qhocha_M,6.65,5.28,81.9,64.61,
@@ -72614,6 +72797,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-19,Putucuni Calientes (GPRS),4.96,3.15,97.8,68.6,
 2025-12-19,Quetenas (GPRS),8.6,3.96,51.49,14.38,
 2025-12-19,Ravelo,20.0,9.0,,,
+2025-12-19,Ravelo_M (GPRS),,,247.6,247.6,
 2025-12-19,Redencion Pampa,23.0,13.0,,,
 2025-12-19,Riberalta_H (GPRS),,,,,0.3
 2025-12-19,Río Chilenas (GPRS),4.76,2.17,61.77,20.2,
@@ -72664,6 +72848,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-19,Tiraque_M (GPRS),11.12,10.47,83.6,47.55,
 2025-12-19,Todos Santos_Or,21.0,6.0,,,
 2025-12-19,Toledo (GPRS),10.59,8.95,92.5,21.6,4.8
+2025-12-19,Toma Ravelo_M (GPRS),,,82.2,49.59,2.0
 2025-12-19,Tomave,26.0,6.1,,,
 2025-12-19,Toralapa Iniaf (GPRS),9.7,8.7,91.6,56.9,
 2025-12-19,Totora Qhocha_M,7.77,6.19,90.6,56.92,
@@ -72824,6 +73009,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-20,Putucuni Calientes (GPRS),5.62,4.02,78.54,67.58,
 2025-12-20,Quetenas (GPRS),6.4,3.47,20.47,12.22,
 2025-12-20,Ravelo,23.0,10.0,,,
+2025-12-20,Ravelo_M (GPRS),,,247.7,247.6,
 2025-12-20,Redencion Pampa,26.0,12.0,,,
 2025-12-20,Río Chilenas (GPRS),3.79,-0.4,25.79,19.5,
 2025-12-20,Sacabaya,23.0,4.6,,,7.3
@@ -72878,6 +73064,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-20,Tiraque_M (GPRS),11.39,10.86,70.11,47.55,
 2025-12-20,Todos Santos_Or,19.5,5.5,,,
 2025-12-20,Toledo (GPRS),5.66,4.57,74.86,49.25,
+2025-12-20,Toma Ravelo_M (GPRS),,,80.1,34.08,3.9
 2025-12-20,Tomave,22.0,6.8,,,16.0
 2025-12-20,Toralapa Iniaf (GPRS),10.5,9.1,70.6,59.5,
 2025-12-20,Totora Qhocha_M,8.96,7.44,71.69,59.07,
@@ -73040,6 +73227,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-21,Putucuni Calientes (GPRS),6.51,4.99,93.5,81.7,
 2025-12-21,Quetenas (GPRS),5.01,3.06,14.72,5.5,
 2025-12-21,Ravelo,22.0,8.0,,,
+2025-12-21,Ravelo_M (GPRS),,,247.6,247.6,
 2025-12-21,Redencion Pampa,29.0,13.0,,,
 2025-12-21,Rincon de la Victoria,,,,,20.0
 2025-12-21,Río Chilenas (GPRS),17.41,-3.52,54.93,10.15,
@@ -73093,6 +73281,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-21,Tiraque_M (GPRS),12.1,10.9,90.4,76.07,0.3
 2025-12-21,Todos Santos_Or,20.5,4.0,,,
 2025-12-21,Toledo (GPRS),8.02,5.27,80.8,51.08,
+2025-12-21,Toma Ravelo_M (GPRS),,,90.5,42.95,
 2025-12-21,Tomave,24.5,7.0,,,
 2025-12-21,Toralapa Iniaf (GPRS),9.4,7.2,94.3,87.6,
 2025-12-21,Totora Qhocha_M,9.86,8.42,92.8,85.4,0.2
@@ -73262,6 +73451,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-22,Putucuni Calientes (GPRS),5.73,3.88,92.3,55.95,
 2025-12-22,Quetenas (GPRS),4.97,1.95,13.64,2.12,
 2025-12-22,Ravelo,,,,,4.5
+2025-12-22,Ravelo_M (GPRS),,,247.6,247.6,
 2025-12-22,Redencion Pampa,29.0,13.0,,,
 2025-12-22,Riberalta_H (GPRS),,,,,28.2
 2025-12-22,Río Chilenas (GPRS),15.43,-5.44,28.15,2.3,
@@ -73315,6 +73505,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-22,Tiraque_M (GPRS),12.59,9.75,90.4,85.6,
 2025-12-22,Todos Santos_Or,21.0,5.0,,,
 2025-12-22,Toledo (GPRS),6.35,4.31,59.0,32.96,
+2025-12-22,Toma Ravelo_M (GPRS),,,87.3,62.17,4.0
 2025-12-22,Tomave,22.0,6.8,,,
 2025-12-22,Toralapa Iniaf (GPRS),11.4,8.9,97.6,90.2,
 2025-12-22,Totora Qhocha_M,9.24,6.79,94.6,79.49,0.2
@@ -73471,6 +73662,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-23,Putucuni Calientes (GPRS),5.78,4.32,91.6,69.09,
 2025-12-23,Quetenas (GPRS),2.92,-1.92,16.99,10.1,
 2025-12-23,Ravelo,21.0,5.0,,,
+2025-12-23,Ravelo_M (GPRS),,,247.6,247.6,
 2025-12-23,Redencion Pampa,26.0,13.0,,,
 2025-12-23,Riberalta_H (GPRS),,,,,9.0
 2025-12-23,Rosario del Ingre,,,,,2.0
@@ -73524,6 +73716,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-23,Tiraque_M (GPRS),10.73,9.88,80.5,54.52,
 2025-12-23,Todos Santos_Or,17.5,6.5,,,
 2025-12-23,Toledo (GPRS),6.17,-0.46,39.77,10.44,
+2025-12-23,Toma Ravelo_M (GPRS),,,82.7,43.64,
 2025-12-23,Tomave,25.1,-0.5,,,
 2025-12-23,Toralapa Iniaf (GPRS),9.0,7.5,85.5,73.2,
 2025-12-23,Totora Qhocha_M,7.64,6.91,84.7,70.21,
@@ -73683,6 +73876,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-24,Putucuni Calientes (GPRS),4.71,3.03,96.4,74.42,7.4
 2025-12-24,Quetenas (GPRS),3.91,0.45,17.29,4.51,
 2025-12-24,Ravelo,20.0,9.0,,,
+2025-12-24,Ravelo_M (GPRS),,,247.7,247.6,
 2025-12-24,Redencion Pampa,24.0,11.0,,,
 2025-12-24,Riberalta_H (GPRS),,,,,13.6
 2025-12-24,Rincon de la Victoria,,,,,8.0
@@ -73738,6 +73932,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-24,Tiraque_M (GPRS),11.06,10.08,76.9,70.67,0.2
 2025-12-24,Todos Santos_Or,18.0,4.0,,,
 2025-12-24,Toledo (GPRS),9.2,8.18,59.14,43.94,
+2025-12-24,Toma Ravelo_M (GPRS),,,95.2,53.36,3.0
 2025-12-24,Tomave,24.0,3.0,,,
 2025-12-24,Toralapa Iniaf (GPRS),10.0,8.3,83.7,73.0,
 2025-12-24,Totora Qhocha_M,8.29,7.05,87.5,79.32,
@@ -73908,6 +74103,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-25,Putucuni Calientes (GPRS),3.01,1.94,95.3,92.5,0.2
 2025-12-25,Quetenas (GPRS),5.94,1.94,43.23,37.93,
 2025-12-25,Ravelo,,,,,34.3
+2025-12-25,Ravelo_M (GPRS),,,247.6,247.6,
 2025-12-25,Redencion Pampa,23.0,14.0,,,
 2025-12-25,Riberalta_H (GPRS),,,,,29.4
 2025-12-25,Rosario del Ingre,,,,,6.5
@@ -73962,6 +74158,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-25,Tiraque_M (GPRS),8.43,6.34,94.6,93.6,1.7
 2025-12-25,Todos Santos_Or,14.5,0.8,,,3.8
 2025-12-25,Toledo (GPRS),9.58,6.31,63.39,35.57,
+2025-12-25,Toma Ravelo_M (GPRS),,,95.3,64.27,20.9
 2025-12-25,Tomave,18.2,4.5,,,
 2025-12-25,Toralapa Iniaf (GPRS),6.4,5.1,100.0,92.2,0.2
 2025-12-25,Totora Qhocha_M,4.42,3.7,99.5,95.7,0.4
@@ -74154,6 +74351,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-26,Putucuni Calientes (GPRS),3.43,0.37,99.5,99.3,0.8
 2025-12-26,Quetenas (GPRS),4.56,3.31,72.19,51.54,
 2025-12-26,Ravelo,,,,,38.0
+2025-12-26,Ravelo_M (GPRS),,,247.6,247.6,1.7
 2025-12-26,Redencion Pampa,,,,,6.0
 2025-12-26,Riberalta_H (GPRS),,,,,2.3
 2025-12-26,Rincon de la Victoria,,,,,42.2
@@ -74212,6 +74410,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-26,Tiraque_M (GPRS),8.96,8.06,89.4,78.72,1.7
 2025-12-26,Todos Santos_Or,12.0,1.5,,,6.8
 2025-12-26,Toledo (GPRS),9.09,8.17,60.84,43.71,
+2025-12-26,Toma Ravelo_M (GPRS),,,90.2,62.89,19.2
 2025-12-26,Tomave,14.5,6.0,,,0.5
 2025-12-26,Toralapa Iniaf (GPRS),7.8,6.7,97.0,81.0,1.0
 2025-12-26,Totora Qhocha_M,6.72,4.62,97.2,91.1,3.2
@@ -74395,6 +74594,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-27,Putucuni Calientes (GPRS),1.98,1.03,85.3,77.98,
 2025-12-27,Quetenas (GPRS),4.55,2.64,84.5,50.85,
 2025-12-27,Ravelo,,,,,5.3
+2025-12-27,Ravelo_M (GPRS),,,247.6,247.6,0.2
 2025-12-27,Redencion Pampa,28.0,14.0,,,
 2025-12-27,Río Chilenas (GPRS),3.9,2.73,89.3,55.07,0.5
 2025-12-27,Sacabaya,19.0,4.4,,,2.6
@@ -74448,6 +74648,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-27,Tiraque_M (GPRS),7.51,6.35,69.54,54.12,
 2025-12-27,Todos Santos_Or,13.5,2.5,,,8.4
 2025-12-27,Toledo (GPRS),6.91,5.04,60.78,43.96,
+2025-12-27,Toma Ravelo_M (GPRS),,,94.3,39.19,1.0
 2025-12-27,Tomave,19.0,5.5,,,12.0
 2025-12-27,Toralapa Iniaf (GPRS),7.3,5.5,75.1,64.7,
 2025-12-27,Totora Qhocha_M,5.93,4.63,83.2,68.27,
@@ -74636,6 +74837,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-28,Putucuni Calientes (GPRS),3.01,2.3,94.1,87.0,0.2
 2025-12-28,Quetenas (GPRS),4.57,4.11,84.2,55.51,
 2025-12-28,Ravelo,20.0,5.0,,,
+2025-12-28,Ravelo_M (GPRS),,,247.6,247.6,0.3
 2025-12-28,Redencion Pampa,28.0,12.0,,,
 2025-12-28,Río Chilenas (GPRS),11.07,0.49,96.1,49.64,10.8
 2025-12-28,Sacabaya,16.0,2.6,,,2.8
@@ -74690,6 +74892,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-28,Tiraque_M (GPRS),8.82,8.47,91.7,64.63,1.3
 2025-12-28,Todos Santos_Or,12.5,4.0,,,4.2
 2025-12-28,Toledo (GPRS),9.2,5.84,86.7,66.07,
+2025-12-28,Toma Ravelo_M (GPRS),,,93.8,51.2,4.7
 2025-12-28,Tomave,20.0,6.5,,,3.5
 2025-12-28,Toralapa Iniaf (GPRS),7.6,7.2,100.0,86.1,0.8
 2025-12-28,Totora Qhocha_M,7.57,6.06,98.9,83.1,3.0
@@ -74878,6 +75081,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-29,Putucuni Calientes (GPRS),4.1,3.51,93.7,83.9,
 2025-12-29,Quetenas (GPRS),4.38,2.01,45.13,34.74,
 2025-12-29,Ravelo,,,,,5.0
+2025-12-29,Ravelo_M (GPRS),,,247.6,247.6,0.4
 2025-12-29,Redencion Pampa,,,,,12.0
 2025-12-29,Rincon de la Victoria,,,,,57.0
 2025-12-29,Rosario del Ingre,,,,,46.0
@@ -74936,6 +75140,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-29,Tiraque_M (GPRS),9.94,9.0,78.66,53.95,
 2025-12-29,Todos Santos_Or,16.5,5.5,,,3.7
 2025-12-29,Toledo (GPRS),7.02,5.36,79.8,52.35,
+2025-12-29,Toma Ravelo_M (GPRS),,,96.4,68.29,3.8
 2025-12-29,Tomave,22.2,5.0,,,1.5
 2025-12-29,Toralapa Iniaf (GPRS),8.3,7.5,92.1,69.2,
 2025-12-29,Totora Qhocha_M,7.51,6.2,94.8,74.18,
@@ -75120,6 +75325,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-30,Putucuni Calientes (GPRS),5.15,2.12,95.6,80.2,
 2025-12-30,Quetenas (GPRS),6.47,1.23,34.59,8.39,
 2025-12-30,Ravelo,,,,,28.2
+2025-12-30,Ravelo_M (GPRS),,,247.6,247.6,2.2
 2025-12-30,Redencion Pampa,23.0,14.0,,,
 2025-12-30,Rincon de la Victoria,,,,,2.8
 2025-12-30,Río Chilenas (GPRS),2.32,0.15,77.81,55.74,
@@ -75173,6 +75379,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-30,Tiraque_M (GPRS),11.05,8.97,84.3,63.93,0.6
 2025-12-30,Todos Santos_Or,20.5,4.5,,,
 2025-12-30,Toledo (GPRS),6.37,5.66,76.77,49.11,
+2025-12-30,Toma Ravelo_M (GPRS),,,94.9,56.11,5.1
 2025-12-30,Tomave,19.0,4.5,,,2.5
 2025-12-30,Toralapa Iniaf (GPRS),8.9,7.2,97.1,73.5,
 2025-12-30,Totora Qhocha_M,7.89,7.05,95.7,78.29,
@@ -75354,6 +75561,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-31,Putucuni Calientes (GPRS),4.44,2.63,87.0,79.12,
 2025-12-31,Quetenas (GPRS),6.97,0.72,50.97,21.03,
 2025-12-31,Ravelo,19.0,8.0,,,
+2025-12-31,Ravelo_M (GPRS),,,247.6,247.6,
 2025-12-31,Redencion Pampa,21.0,12.0,,,
 2025-12-31,Rincon de la Victoria,,,,,9.2
 2025-12-31,Río Chilenas (GPRS),4.93,1.52,82.2,36.8,
@@ -75406,6 +75614,7 @@ fecha,estacion,temperatura_maxima,temperatura_minima,humedad_relativa_maxima,hum
 2025-12-31,Tiraque_M (GPRS),10.0,8.53,88.2,58.9,
 2025-12-31,Todos Santos_Or,18.0,6.5,,,
 2025-12-31,Toledo (GPRS),6.23,3.76,77.28,55.53,
+2025-12-31,Toma Ravelo_M (GPRS),,,93.3,59.37,2.3
 2025-12-31,Tomave,23.5,2.5,,,
 2025-12-31,Toralapa Iniaf (GPRS),7.7,6.6,95.9,78.7,
 2025-12-31,Totora Qhocha_M,8.29,6.59,91.4,78.43,
